@@ -1,6 +1,9 @@
 {
   "name": "root",
   "description": "Another TCG application",
+  "devDependencies": {
+    "@atcga/foundation-prettier-config": "workspace:*"
+  },
   "scripts": {
   },
   "author": "Roberto Pintos López",
