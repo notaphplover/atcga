@@ -3,9 +3,31 @@
   "description": "Another TCG application",
   "devDependencies": {
     "@atcga/foundation-prettier-config": "workspace:*",
-    "@atcga/foundation-typescript-config": "workspace:*"
+    "@atcga/foundation-typescript-config": "workspace:*",
+    "@commitlint/cli": "19.8.0",
+    "@commitlint/config-conventional": "19.8.0",
+    "@commitlint/prompt-cli": "19.8.0",
+    "husky": "9.1.7",
+    "lint-staged": "15.5.1",
+    "turbo": "2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notaphplover/atcga.git"
   },
   "scripts": {
+    "build": "turbo run build",
+    "format": "turbo run format",
+    "lint": "turbo run lint",
+    "prepare": "husky && turbo telemetry disable",
+    "test:integration": "turbo test:integration",
+    "test": "turbo run test",
+    "test:coverage": "turbo run test:coverage",
+    "test:uncommitted": "turbo run test:uncommitted --filter [HEAD]",
+    "test:unit": "turbo run test:unit",
+    "test:e2e": "turbo run test:e2e",
+    "test:e2e:cjs": "turbo run test:e2e:cjs",
+    "test:e2e:esm": "turbo run test:e2e:esm"
   },
   "author": "Roberto Pintos López",
   "license": "ISC",
