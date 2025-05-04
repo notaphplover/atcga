@@ -1,0 +1,30 @@
+{
+  "author": "Roberto Pintos López",
+  "bugs": {
+    "url": "https://github.com/notaphplover/atcga.git/issues"
+  },
+  "description": "Common ESLint config for atcga monorepo packages",
+  "devDependencies": {
+    "@vitest/eslint-plugin": "1.1.44",
+    "eslint-config-prettier": "10.1.2",
+    "eslint-plugin-prettier": "5.2.6",
+    "eslint-plugin-simple-import-sort": "12.1.1",
+    "prettier": "3.5.3",
+    "typescript-eslint": "8.31.1"
+  },
+  "peerDependencies": {
+    "@eslint/js": "^9.14.0"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "homepage": "https://github.com/notaphplover/atcga.git#readme",
+  "license": "MIT",
+  "name": "@atcga/foundation-eslint-config",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notaphplover/atcga.git.git"
+  },
+  "type": "module"
+}
