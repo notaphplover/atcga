@@ -1,0 +1,25 @@
+{
+  "name": "@atcga/foundation-scripts",
+  "private": true,
+  "description": "Common scripts for monorepo packages",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notaphplover/atcga.git"
+  },
+  "author": "Multiple authors",
+  "license": "See license in \"LICENSE\" file",
+  "bugs": {
+    "url": "https://github.com/notaphplover/atcga/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/notaphplover/atcga#readme",
+  "bin": {
+    "foundation-get-affected-projects": "./bin/getAffectedProjects.js",
+    "foundation-get-affected-project-chunks": "./bin/getAffectedProjectsChunks.js",
+    "foundation-ts-package-cjs": "./bin/writeCommonJsPackageJson.js",
+    "foundation-ts-package-esm": "./bin/writeEsmPackageJson.js"
+  }
+}
