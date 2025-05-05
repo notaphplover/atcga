@@ -1,0 +1,46 @@
+{
+  "author": "Multiple authors",
+  "bugs": {
+    "url": "https://github.com/notaphplover/atcga/issues"
+  },
+  "description": "Backend common patterns",
+  "devDependencies": {
+    "@eslint/js": "9.22.0",
+    "@typescript-eslint/eslint-plugin": "8.26.1",
+    "@typescript-eslint/parser": "8.26.1",
+    "eslint": "9.22.0",
+    "prettier": "3.5.3",
+    "rimraf": "6.0.1",
+    "typescript": "5.8.2"
+  },
+  "devEngines": {
+    "node": "^22.10.2",
+    "pnpm": "^9.12.1"
+  },
+  "homepage": "https://github.com/notaphplover/atcga#readme",
+  "license": "See license in \"LICENSE\" file",
+  "main": "lib/cjs/index.js",
+  "module": "lib/esm/index.js",
+  "exports": {
+    ".": {
+      "import": "./lib/esm/index.js",
+      "require": "./lib/cjs/index.js"
+    }
+  },
+  "name": "@atcga/backend-common",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notaphplover/atcga.git"
+  },
+  "scripts": {
+    "build": "tsc --build tsconfig.json",
+    "build:clean": "rimraf lib",
+    "format": "prettier --write ./src/**/*.ts",
+    "lint": "eslint ./src",
+    "prebuild": "pnpm run build:clean"
+  },
+  "version": "0.1.0"
+}
