@@ -2,8 +2,12 @@
   "name": "root",
   "description": "Another TCG application",
   "devDependencies": {
+    "@atcga/foundation-eslint-config": "workspace:*",
     "@atcga/foundation-prettier-config": "workspace:*",
+    "@atcga/foundation-rollup-config": "workspace:*",
+    "@atcga/foundation-scripts": "workspace:*",
     "@atcga/foundation-typescript-config": "workspace:*",
+    "@atcga/foundation-vitest-config": "workspace:*",
     "@commitlint/cli": "19.8.0",
     "@commitlint/config-conventional": "19.8.0",
     "@commitlint/prompt-cli": "19.8.0",
@@ -20,6 +24,7 @@
     "format": "turbo run format",
     "lint": "turbo run lint",
     "prepare": "husky && turbo telemetry disable",
+    "serve": "trap '' INT TERM; turbo run serve --concurrency=9000",
     "test:integration": "turbo test:integration",
     "test": "turbo run test",
     "test:coverage": "turbo run test:coverage",
@@ -30,7 +35,7 @@
     "test:e2e:esm": "turbo run test:e2e:esm"
   },
   "author": "Roberto Pintos López",
-  "license": "ISC",
+  "license": "See license in \"LICENSE\" file",
   "packageManager": "pnpm@10.10.0",
   "private": true
 }
