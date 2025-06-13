@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Super Psy Bolt"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, you may flip a coin. If tails, this attack does nothing. If heads, this attack does 60 damage instead."
+      },
+      "name": {
+        "en": "Aerowing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop5/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop5/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop5/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lugia"
+  },
+  "number": "2",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "P5",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
+  "abilityName": "Counterattack",
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "60",
+      "effect": {
+        "en": "During your next turn, this Pokémon's Excited Punch attack does 60 more damage (before applying Weakness and Resistance).",
+        "fr": "Pendant votre prochain tour, l'attaque Coup de Poing Dynamique de ce Pokémon inflige 60 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während deines nächsten Zuges fügt die Attacke Aufgeregter Punch dieses Pokémon 60 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il tuo prossimo turno, l'attacco Fervorpugno di questo Pokémon infligge 60 danni in più, prima di aver applicato debolezza e resistenza.",
+        "pt": "Durante o seu próximo turno, o ataque Soco Animado deste Pokémon causará 60 pontos de dano a mais (antes de aplicar Fraqueza e Resistência).",
+        "es": "Durante tu próximo turno, el ataque Puño Exaltado de este Pokémon hace 60 puntos de daño más (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Excited Punch",
+        "fr": "Coup de Poing Dynamique",
+        "de": "Aufgeregter Punch",
+        "it": "Fervorpugno",
+        "pt": "Soco Animado",
+        "es": "Puño Exaltado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_107_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmonchan",
+    "fr": "Tygnon",
+    "de": "Nockchan",
+    "it": "Hitmonchan",
+    "pt": "Hitmonchan",
+    "es": "Hitmonchan"
+  },
+  "number": "107",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MEW",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

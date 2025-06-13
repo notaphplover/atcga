@@ -1,0 +1,75 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "120",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing.",
+        "fr": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "de": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen.",
+        "it": "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
+        "es": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Sky Attack",
+        "fr": "Piqué",
+        "de": "Himmelsfeger",
+        "it": "Aeroattacco",
+        "es": "Ataque Aéreo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_081_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unfezant",
+    "fr": "Déflaisan",
+    "de": "Fasasnob",
+    "it": "Unfezant",
+    "pt": "Unfezant",
+    "es": "Unfezant"
+  },
+  "number": "81",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "ROS",
+  "stage": "stage2",
+  "traitEffect": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon.",
+  "traitName": "Δ Evolution",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

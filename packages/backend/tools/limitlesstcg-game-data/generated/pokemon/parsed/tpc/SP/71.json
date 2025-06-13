@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "abilityName": "みずがくれ",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "このポケモンについている[水]エネルギーの数×20ダメージ追加。"
+      },
+      "name": {
+        "jp": "ハイドロポンプ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_71_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_71_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_71_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シャワーズ"
+  },
+  "number": "71",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

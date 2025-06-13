@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+      },
+      "name": {
+        "jp": "こうそくいどう"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "80",
+      "effect": {
+        "jp": "このポケモンについている[水]エネルギーを、1個トラッシュする。"
+      },
+      "name": {
+        "jp": "アクアブラスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "フローゼル"
+  },
+  "number": "8",
+  "rarity": "c",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM5M",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から「基本[W]エネルギー」を2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
+  "abilityName": "わななくれいき",
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "60×",
+      "effect": {
+        "jp": "自分の場のポケモンについている[W]エネルギーを好きなだけトラッシュし、その枚数×60ダメージ。"
+      },
+      "name": {
+        "jp": "ヘイルブレード"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "パオジアンex"
+  },
+  "number": "54",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV4a",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンにダメカンが2個以上のっているなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+120」される。",
+  "abilityName": "ふんどのつぼ",
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "160",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「インパクトブロー」が使えない。"
+      },
+      "name": {
+        "jp": "インパクトブロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_47_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_47_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_47_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コノヨザル"
+  },
+  "number": "47",
+  "rarity": "r",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV10",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

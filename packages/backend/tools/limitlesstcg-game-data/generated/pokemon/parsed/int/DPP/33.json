@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand, choose a Pokémon you find there, and put it on the bottom of his or her deck. This power can't be used if Dusknoir is affected by a Special Condition.",
+  "abilityName": "Dark Hide",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "70",
+      "effect": {
+        "en": "Move up to 2 damage counters from Dusknoir to 1 of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Reaper Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dusknoir"
+  },
+  "number": "33",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

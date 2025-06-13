@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Each basic [G] Energy card attached to your [G] Pokémon provides [G][G] Energy instead. You can't use more than 1 Wild Growth Poké-Body each turn.",
+  "abilityName": "Wild Growth",
+  "attacks": [
+    {
+      "cost": "ggcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Leaf Blade"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 3,
+  "set": "GE",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンは、特性を持つ相手のポケモンからワザのダメージや効果を受けない。",
+  "abilityName": "かがやくうもう",
+  "attacks": [
+    {
+      "cost": "rpc",
+      "dmg": "70",
+      "effect": {
+        "jp": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果の計算をしない。"
+      },
+      "name": {
+        "jp": "ペネトレイト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8n/BW8n_41_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8n/BW8n_41_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8n/BW8n_41_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ラティアスEX"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BW8n",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

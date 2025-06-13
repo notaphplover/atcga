@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, search your discard pile for an Energy card and attach it to Zapdos G."
+      },
+      "name": {
+        "en": "Charge Beam"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may discard all [L] attached to Zapdos G. If you do, this attack's base damage is 80 instead of 40."
+      },
+      "name": {
+        "en": "Lightning Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zapdos G"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

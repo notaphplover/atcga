@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Tail Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/128_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/128.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/128.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skorupi"
+  },
+  "number": "128",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

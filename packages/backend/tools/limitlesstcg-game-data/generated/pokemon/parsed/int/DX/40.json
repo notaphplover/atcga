@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic Boom"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Quick Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metang"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

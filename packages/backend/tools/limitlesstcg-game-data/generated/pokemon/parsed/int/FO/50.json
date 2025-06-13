@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Kabuto Armor",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kabuto"
+  },
+  "number": "50",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "FO",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

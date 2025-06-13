@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Arbok is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+  "abilityName": "Intimidating Fang",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+      },
+      "name": {
+        "en": "Toxic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arbok"
+  },
+  "number": "29",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

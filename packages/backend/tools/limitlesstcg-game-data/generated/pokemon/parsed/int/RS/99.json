@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Lapras ex but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Energy Ball"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/99_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/99.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/99.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lapras ex"
+  },
+  "number": "99",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

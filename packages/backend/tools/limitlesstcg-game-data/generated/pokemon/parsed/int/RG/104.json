@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may attach a [W] Energy card from your hand to 1 of your Pokémon. Put 1 damage counter on that Pokémon. This power can't be used if Blastoise ex is affected by a Special Condition.",
+  "abilityName": "Energy Rain",
+  "attacks": [
+    {
+      "cost": "wwwc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, your opponent discards an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Whirlpool"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/104_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/104.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/104.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise ex"
+  },
+  "number": "104",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

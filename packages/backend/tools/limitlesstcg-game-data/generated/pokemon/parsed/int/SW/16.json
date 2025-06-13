@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you attach a [L] Energy card from your hand to Raikou, you may put 1 damage counter on 1 of your opponent's Benched Pokémon.",
+  "abilityName": "Thunder Rumble",
+  "attacks": [
+    {
+      "cost": "lll",
+      "dmg": "50+",
+      "effect": {
+        "en": "Discard 3 cards from the top of your deck. This attack does 50 damage plus 10 more damage for each [L] Energy card you discarded. Then, attach those [L] Energy cards to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Thunder Climb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raikou"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

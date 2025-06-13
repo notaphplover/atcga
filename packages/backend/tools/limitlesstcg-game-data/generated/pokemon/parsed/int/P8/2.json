@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Lucario by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Blocking Punch"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon"
+      },
+      "name": {
+        "en": "Striking Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lucario"
+  },
+  "number": "2",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P8",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

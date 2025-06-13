@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip 2 coins. For each heads, discard the top card of your opponent's deck.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Wirf 2 Münzen. Lege pro Kopf die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, scarta la prima carta del mazzo del tuo avversario.",
+        "pt": "Jogue 2 moedas. Para cada cara, descarte a carta de cima do baralho do seu oponente.",
+        "es": "Lanza 2 monedas. Por cada cara, descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Snip Snip",
+        "fr": "Couic Couic",
+        "de": "Schnipp-Schnipp",
+        "it": "Zac Zac",
+        "pt": "Corta e Recorta",
+        "es": "Cortecitos"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "180",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't attack.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
+        "es": "Durante tu próximo turno, este Pokémon no puede atacar."
+      },
+      "name": {
+        "en": "Rampaging Hammer",
+        "fr": "Marteau Furieux",
+        "de": "Tobender Hammer",
+        "it": "Martello Infuriato",
+        "pt": "Martelo Furioso",
+        "es": "Martillazo Furioso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_048_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crawdaunt",
+    "fr": "Colhomard",
+    "de": "Krebutack",
+    "it": "Crawdaunt",
+    "pt": "Crawdaunt",
+    "es": "Crawdaunt"
+  },
+  "number": "48",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TWM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

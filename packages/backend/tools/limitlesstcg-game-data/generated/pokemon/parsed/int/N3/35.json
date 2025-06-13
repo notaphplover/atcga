@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Parasect is in play, cards in any player's discard piles are not affected by attacks or Pokémon Powers. This power stops working if Parasect becomes Asleep, Confused, or Paralyzed.",
+  "abilityName": "Allergic Pollen",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Sleep Pinchers"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Parasect"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for a [W] Energy card, show it to your opponent, and put it into your hand. This power can't be used if Starmie is affected by a Special Condition.",
+  "abilityName": "Aqua Recycle",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "If Starmie and the Defending Pokémon have the same amount of Energy attached to them, remove 4 damage counters from Starmie."
+      },
+      "name": {
+        "en": "Synchro Gain"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "40",
+      "effect": {
+        "en": "Starmie can't attack during your next turn."
+      },
+      "name": {
+        "en": "Powerful Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Starmie"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Last Resort"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/51_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/51.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/51.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aipom"
+  },
+  "number": "51",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

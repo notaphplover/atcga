@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に使える。自分の山札から[G]ポケモンと[G]エネルギーを合計5枚まで選び、相手に見せて、手札に加える。そして山札を切る。［対戦中、自分はVSTARパワーを1回しか使えない。］",
+  "abilityName": "スターパフューム",
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "130+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについているエネルギーを1個選び、手札にもどす。その場合、100ダメージ追加。"
+      },
+      "name": {
+        "jp": "キャメルスピン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10D/S10D_80_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10D/S10D_80_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10D/S10D_80_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヒスイ ドレディアVSTAR"
+  },
+  "number": "80",
+  "rarity": "hr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S10D",
+  "stage": "vstar",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンは、自分のベンチまたはトラッシュにある「ポケモンGX・EX」が持っているワザを、すべて使える。［ワザを使うためのエネルギーは必要。］",
+  "abilityName": "パーフェクション",
+  "attacks": [
+    {
+      "cost": "ppc+",
+      "dmg": "200",
+      "effect": {
+        "jp": "追加でエネルギーが1個ついているなら、自分のポケモン全員のHPを、すべて回復する。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {}
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ミュウツー&ミュウGX"
+  },
+  "number": "52",
+  "rarity": "rr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM12a",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

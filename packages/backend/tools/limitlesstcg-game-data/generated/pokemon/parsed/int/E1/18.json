@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from each of your Pokémon that has any. This power can't be used if Meganium is affected by a Special Condition.",
+  "abilityName": "Soothing Aroma",
+  "attacks": [
+    {
+      "cost": "ggcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium"
+  },
+  "number": "18",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

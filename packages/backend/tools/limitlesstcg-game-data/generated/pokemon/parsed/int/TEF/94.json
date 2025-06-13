@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
+        "pt": "Jogue uma moeda. Se sair cara, este ataque causará 40 pontos de dano a mais.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Knock Away",
+        "fr": "Asticotage",
+        "de": "Zurückschlagen",
+        "it": "Scaraventa",
+        "pt": "Jogar Longe",
+        "es": "Derribar"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Boulder Crush",
+        "fr": "Rocher Écrasant",
+        "de": "Felsenquetscher",
+        "it": "Macignata",
+        "pt": "Rocha Esmagadora",
+        "es": "Alud de Rocas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_094_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carkol",
+    "fr": "Wagomine",
+    "de": "Wagong",
+    "it": "Carkol",
+    "pt": "Carkol",
+    "es": "Carkol"
+  },
+  "number": "94",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 4,
+  "set": "TEF",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

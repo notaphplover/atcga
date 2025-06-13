@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/63_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/63.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/63.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seadra"
+  },
+  "number": "63",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

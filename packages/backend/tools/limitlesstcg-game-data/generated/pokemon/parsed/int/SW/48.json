@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch Donphan with 1 of your Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Rapid Spin"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "70+",
+      "effect": {
+        "en": "If the Defending Pokémon has a Pokémon Tool card attached to it, this attack does 70 damage plus 60 more damage."
+      },
+      "name": {
+        "en": "Bash In"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Donphan"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

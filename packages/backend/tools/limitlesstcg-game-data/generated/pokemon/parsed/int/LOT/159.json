@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires multipliés par le nombre d'Énergies attachées au Pokémon Actif de votre adversaire.",
+        "de": "Diese Attacke fügt 30 Schadenspunkte mehr mal der Anzahl der an das Aktive Pokémon deines Gegners angelegten Energien zu.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Este ataque hace 30 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Psychic",
+        "fr": "Psyko",
+        "de": "Psychokinese",
+        "it": "Psichico",
+        "es": "Psíquico"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "170",
+      "effect": {
+        "en": "This Pokémon can't use Pelagic Blade during your next turn.",
+        "fr": "Ce Pokémon ne peut pas utiliser Lame Pélagique pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann Pelagialklinge während deines nächsten Zuges nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Lame Pelagiche.",
+        "es": "Este Pokémon no puede usar Tajo Pelágico durante tu próximo turno."
+      },
+      "name": {
+        "en": "Pelagic Blade",
+        "fr": "Lame Pélagique",
+        "de": "Pelagialklinge",
+        "it": "Lame Pelagiche",
+        "es": "Tajo Pelágico"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_159_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lugia-GX",
+    "fr": "Lugia-GX",
+    "de": "Lugia-GX",
+    "it": "Lugia-GX",
+    "pt": "Lugia-GX",
+    "es": "Lugia-GX"
+  },
+  "number": "159",
+  "rarity": "rr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "LOT",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

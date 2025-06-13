@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "70",
+      "effect": {
+        "en": "If you have any Supporter cards in play, this attack's base damage is 20 instead of 70."
+      },
+      "name": {
+        "en": "Delta Edge"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may discard a Claw Fossil, Mysterious Fossil, Root Fossil, or Holon Fossil from your hand. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Fossil Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Armaldo"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "HP",
+  "stage": "stage2",
+  "type": [
+    "fighting",
+    "metal"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

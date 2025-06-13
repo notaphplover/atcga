@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card.",
+  "abilityName": "Reconstitute",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "110",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Psyray",
+        "fr": "Rayon Psy",
+        "de": "Psyschein",
+        "it": "Psicobagliore",
+        "pt": "Psicorraio",
+        "es": "Rayo Psíquico"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_181_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Galarian Articuno V",
+    "fr": "Artikodin de Galar V",
+    "de": "Galar-Arktos V",
+    "it": "Articuno di Galar V",
+    "pt": "Articuno de Galar V",
+    "es": "Articuno de Galar V"
+  },
+  "number": "181",
+  "rarity": "sr",
+  "regulation": "e",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "BRS",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

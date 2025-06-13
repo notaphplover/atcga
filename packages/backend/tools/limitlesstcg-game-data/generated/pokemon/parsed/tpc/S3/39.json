@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "40",
+      "effect": {
+        "jp": "相手のバトルポケモンをこんらんにする。"
+      },
+      "name": {
+        "jp": "サイコトリップ"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "90",
+      "effect": {
+        "jp": "相手の手札からオモテを見ないで2枚選び、そのカードのオモテを見てから、相手の山札にもどして切る。"
+      },
+      "name": {
+        "jp": "ねじまげる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_39_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_39_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_39_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴチルゼル"
+  },
+  "number": "39",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "S3",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

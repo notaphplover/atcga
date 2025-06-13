@@ -1,0 +1,102 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Claw Slash",
+        "fr": "Tranch'Griffe",
+        "de": "Klauenschlitzer",
+        "it": "Lacerartiglio",
+        "es": "Cuchillada Garra"
+      }
+    },
+    {
+      "cost": "mmmc",
+      "dmg": "220",
+      "effect": {
+        "en": "Discard 3 Energy from this Pokémon.",
+        "fr": "Défaussez 3 Énergies de ce Pokémon.",
+        "de": "Lege 3 Energien von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta tre Energie assegnate a questo Pokémon.",
+        "es": "Descarta 3 Energías de este Pokémon."
+      },
+      "name": {
+        "en": "Meteor Tempest",
+        "fr": "Tempête Météorique",
+        "de": "Meteorsturm",
+        "it": "Tempesta Meteoritica",
+        "es": "Tempestad Meteórica"
+      }
+    },
+    {
+      "cost": "mmm",
+      "dmg": "250",
+      "effect": {
+        "en": "You can use this attack only if you have more Prize cards remaining than your opponent. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Vous pouvez utiliser cette attaque seulement s'il vous reste plus de cartes Récompense que votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du mehr verbleibende Preiskarten hast als dein Gegner. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Puoi usare questo attacco solo se hai più carte Premio rimanenti del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Sun's Eclipse-GX",
+        "fr": "Éclipse Solaire-GX",
+        "de": "Solarfinsternis-GX",
+        "it": "Eclissi di Sole-GX",
+        "es": "Eclipse de Sol-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_163_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dusk Mane Necrozma-GX",
+    "fr": "Necrozma Crinière du Couchant-GX",
+    "de": "Abendmähne-Necrozma-GX",
+    "it": "Necrozma Criniera del Vespro-GX",
+    "pt": "Necrozma Juba Crepúsculo-GX",
+    "es": "Necrozma Melena Crepuscular-GX"
+  },
+  "number": "163",
+  "rarity": "rar",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "UPR",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

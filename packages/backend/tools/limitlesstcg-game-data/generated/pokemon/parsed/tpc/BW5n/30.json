@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加し、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "しめあげる"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "70+",
+      "effect": {
+        "jp": "のぞむなら、20ダメージを追加してよい。その場合、このポケモンにも20ダメージ。"
+      },
+      "name": {
+        "jp": "ばかぢから"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_30_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_30_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_30_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ナゲキ"
+  },
+  "number": "30",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW5n",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

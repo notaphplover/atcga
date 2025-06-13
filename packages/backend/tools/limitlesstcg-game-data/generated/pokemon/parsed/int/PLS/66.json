@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, discard an Energy attached to that Pokémon.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné. Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Défenseur.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet. Wirf 1 Münze. Lege bei „Kopf“ 1 an dieses Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Il Pokémon difensore viene avvelenato. Lancia una moneta. Se esce testa, scarta un'Energia assegnata a quel Pokémon.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado. Lanza una moneda. Si sale cara, descarta una Energía unida a ese Pokémon."
+      },
+      "name": {
+        "en": "Biosmog",
+        "fr": "Brouillard Toxique",
+        "de": "Biosmog",
+        "it": "Biosmog",
+        "es": "Biogás"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Sludge Bomb",
+        "fr": "Bomb-Beurk",
+        "de": "Matschbombe",
+        "it": "Fangobomba",
+        "es": "Bomba Lodo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_066_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Garbodor",
+    "fr": "Miasmax",
+    "de": "Deponitox",
+    "it": "Garbodor",
+    "pt": "Garbodor",
+    "es": "Garbodor"
+  },
+  "number": "66",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLS",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Drifblim by attacks is reduced by 10 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Expand"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drifblim"
+  },
+  "number": "53",
+  "rarity": "u",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 0,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

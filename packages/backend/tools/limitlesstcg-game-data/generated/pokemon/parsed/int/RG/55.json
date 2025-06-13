@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Ram"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Gouge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/55_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/55.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/55.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bulbasaur"
+  },
+  "number": "55",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RG",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

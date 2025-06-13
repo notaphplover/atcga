@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分のベンチポケモン全員は、相手のワザのダメージを受けず、相手のワザや特性の効果によるダメカンものらない。",
+  "abilityName": "におうだち",
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージ追加。"
+      },
+      "name": {
+        "jp": "クロスチョップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_28_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_28_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_28_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴーリキー"
+  },
+  "number": "28",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM2p",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

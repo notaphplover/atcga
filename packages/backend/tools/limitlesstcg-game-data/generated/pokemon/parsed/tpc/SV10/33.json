@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手のベンチポケモンにつけ替える。"
+      },
+      "name": {
+        "jp": "ジャミングウイング"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "このポケモンに「ロケット団エネルギー」がついているなら、60ダメージ追加。"
+      },
+      "name": {
+        "jp": "バッドサンダー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロケット団のサンダー"
+  },
+  "number": "33",
+  "rarity": "r",
+  "regulation": "i",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SV10",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

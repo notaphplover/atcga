@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to Dustox by your opponent's Pokémon that is affected by 2 or more Special Conditions.",
+  "abilityName": "Camouflage Pattern",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smogscreen"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "en": "If the Defending Pokémon has any Poké-Powers or Poké-Bodies, the Defending Pokémon is now Burned and Confused."
+      },
+      "name": {
+        "en": "Chemical Scale"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dustox"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

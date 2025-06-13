@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, if Electrode would be Knocked Out by damage from an attack, you may use this power. Electrode isn't discarded. Instead, attach it as an Energy card to 1 of your Pokémon. While attached, this card is a Special Energy card and provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)",
+  "abilityName": "Energy Shift",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may do 40 damage plus 60 more damage. If you do, Electrode does 100 damage to itself."
+      },
+      "name": {
+        "en": "Ion Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

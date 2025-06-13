@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Turtwig GL's remaining HP is 60 or less, each of Turtwig GL's attacks does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Overgrow",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "30",
+      "effect": {
+        "en": "After your attack, remove from Turtwig GL the number of damage counters equal to the damage you did to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Giga Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/85_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/85.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/85.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Turtwig GL"
+  },
+  "number": "85",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 3,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

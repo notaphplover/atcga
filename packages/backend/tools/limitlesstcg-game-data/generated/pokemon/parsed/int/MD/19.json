@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Fire Fang"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard an Energy card attached to Flareon and then discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Kindle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

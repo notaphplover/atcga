@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, choose an Energy card attached to the Defending Pokémon and return it to your opponent's hand."
+      },
+      "name": {
+        "en": "Silver Wing"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "120",
+      "effect": {
+        "en": "If the Defending Pokémon has any Energy cards attached to it, this attack's base damage is 40 instead of 120."
+      },
+      "name": {
+        "en": "Psychic Destruction"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lugia"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

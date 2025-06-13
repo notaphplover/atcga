@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    },
+    {
+      "cost": "rrr",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon doesn't have a Char counter on it, flip a coin. If heads, put a Char counter on it. A Char counter requires your opponent to flip a coin after every turn. If tails, put 2 damage counters on the Pokémon with that Char counter. (Char counters stay on the Pokémon as long as it's in play.)"
+      },
+      "name": {
+        "en": "Char"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quilava"
+  },
+  "number": "47",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

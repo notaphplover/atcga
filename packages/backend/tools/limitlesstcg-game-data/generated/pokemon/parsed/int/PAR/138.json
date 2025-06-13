@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Punch and Draw",
+        "fr": "Poing et Pioche",
+        "de": "Schlagen und ziehen",
+        "it": "Pugnopesca",
+        "pt": "Socar e Comprar",
+        "es": "Puñetazo y Robo"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "90+",
+      "effect": {
+        "en": "If there are 3 or fewer cards in your deck, this attack does 150 more damage.",
+        "fr": "S'il y a 3 cartes ou moins dans votre deck, cette attaque inflige 150 dégâts supplémentaires.",
+        "de": "Wenn 3 oder weniger Karten in deinem Deck sind, fügt diese Attacke 150 Schadenspunkte mehr zu.",
+        "it": "Se ci sono tre o meno carte nel tuo mazzo, questo attacco infligge 150 danni in più.",
+        "pt": "Se houver 3 ou menos cartas no seu baralho, este ataque causará 150 pontos de dano a mais.",
+        "es": "Si hay 3 cartas o menos en tu baraja, este ataque hace 150 puntos de daño más."
+      },
+      "name": {
+        "en": "Crunch-Time Rush",
+        "fr": "Ruée Pressée",
+        "de": "Stürmischer Endspurt",
+        "it": "Assalto in Extremis",
+        "pt": "Pressa Apressada",
+        "es": "Golpe de la Verdad"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_138_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Orthworm",
+    "fr": "Ferdeter",
+    "de": "Schlurm",
+    "it": "Orthworm",
+    "pt": "Orthworm",
+    "es": "Orthworm"
+  },
+  "number": "138",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "PAR",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

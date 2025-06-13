@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "バレットパンチ"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "jp": "マッハストレート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_37_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_37_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_37_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エビワラー"
+  },
+  "number": "37",
+  "resistance": [],
+  "retreat": 1,
+  "set": "20th",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the amount of Energy attached to Lapras."
+      },
+      "name": {
+        "en": "Grind"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/79_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/79.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/79.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lapras"
+  },
+  "number": "79",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Clutch"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Supersonic Flight"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Fearow"
+  },
+  "number": "45",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

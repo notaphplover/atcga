@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "All damage done by attacks to Golem is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Rock Body",
+  "attacks": [
+    {
+      "cost": "ffcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Don't apply Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golem"
+  },
+  "number": "49",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

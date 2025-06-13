@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30+",
+      "effect": {
+        "en": "If this Pokémon evolved from Scyther during this turn, this attack does 90 more damage.",
+        "fr": "Si ce Pokémon a évolué d'Insécateur pendant ce tour, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Wenn sich dieses Pokémon während dieses Zuges aus Sichlor entwickelt hat, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon si è evoluto da Scyther durante questo turno, questo attacco infligge 90 danni in più.",
+        "pt": "Se este Pokémon evoluiu de Scyther durante este turno, este ataque causará 90 pontos de dano a mais.",
+        "es": "Si este Pokémon ha evolucionado de Scyther durante este turno, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Raid",
+        "fr": "Razzia Obscure",
+        "de": "Überfall",
+        "it": "Raid",
+        "pt": "Reide",
+        "es": "Raid Oscuro"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "90",
+      "effect": {
+        "en": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 30 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+        "pt": "Durante o próximo turno do seu oponente, este Pokémon receberá 30 pontos de dano a menos de ataques (depois de aplicar Fraqueza e Resistência).",
+        "es": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Guard Claw",
+        "fr": "Griffe de Garde",
+        "de": "Abwehrklaue",
+        "it": "Difesartiglio",
+        "pt": "Garra Protetora",
+        "es": "Garra Guardia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/RCL/RCL_128_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scizor",
+    "fr": "Cizayox",
+    "de": "Scherox",
+    "it": "Scizor",
+    "pt": "Scizor",
+    "es": "Scizor"
+  },
+  "number": "128",
+  "rarity": "r",
+  "regulation": "d",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "RCL",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

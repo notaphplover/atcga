@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "If Rocket's Moltres ex has any [D] Energy attached to it, the Retreat Cost for Rocket's Moltres ex is 0.",
+  "abilityName": "Dark Lift",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your discard pile for a [R] Energy card and attach it to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Fire Dance"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Combustion"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Moltres ex"
+  },
+  "number": "100",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

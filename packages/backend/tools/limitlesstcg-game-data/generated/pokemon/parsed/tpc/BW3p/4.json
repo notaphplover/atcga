@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "jp": "相手のバトルポケモンをねむりにする。"
+      },
+      "name": {
+        "jp": "あんみんノイズ"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "40×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x40ダメージ。相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。"
+      },
+      "name": {
+        "jp": "ドレインカッター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW3p/BW3p_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW3p/BW3p_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW3p/BW3p_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コロトック"
+  },
+  "number": "4",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BW3p",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

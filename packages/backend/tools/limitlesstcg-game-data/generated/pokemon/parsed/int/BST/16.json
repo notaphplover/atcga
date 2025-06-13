@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+        "fr": "Votre adversaire échange son Pokémon Actif contre l'un de ses Pokémon de Banc.",
+        "de": "Dein Gegner tauscht sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank aus.",
+        "it": "Il tuo avversario scambia il suo Pokémon attivo con uno della sua panchina.",
+        "pt": "Seu oponente troca o próprio Pokémon Ativo por 1 dos Pokémon no Banco dele(a).",
+        "es": "Tu rival cambia su Pokémon Activo por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Push Down",
+        "fr": "Recul",
+        "de": "Runterdrücken",
+        "it": "Spintonare",
+        "pt": "Rebaixar",
+        "es": "Oprimir"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "80+",
+      "effect": {
+        "en": "You may discard all Energy from this Pokémon. If you do, this attack does 80 more damage.",
+        "fr": "Vous pouvez défausser toute l'Énergie de ce Pokémon. Dans ce cas, cette attaque inflige 80 dégâts supplémentaires.",
+        "de": "Du kannst alle Energien von diesem Pokémon auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+        "it": "Puoi scartare tutte le Energie da questo Pokémon. Se lo fai, questo attacco infligge 80 danni in più.",
+        "pt": "Você pode descartar todas as Energias deste Pokémon. Se fizer isto, este ataque causará 80 pontos de dano a mais.",
+        "es": "Puedes descartar todas las Energías de este Pokémon. Si lo haces, este ataque hace 80 puntos de daño más."
+      },
+      "name": {
+        "en": "Nature's Judgment",
+        "fr": "Jugement de la Nature",
+        "de": "Gebot der Natur",
+        "it": "Giudizio della Natura",
+        "pt": "Julgamento da Natureza",
+        "es": "Sentencia de la Naturaleza"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_016_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tapu Bulu",
+    "fr": "Tokotoro",
+    "de": "Kapu-Toro",
+    "it": "Tapu Bulu",
+    "pt": "Tapu Bulu",
+    "es": "Tapu Bulu"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BST",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Muk remains affected by any Special Conditions between turns, remove 2 damage counters from Muk.",
+  "abilityName": "Sludge Cell",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, Muk is now Poisoned."
+      },
+      "name": {
+        "en": "Strange Poison"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If Muk is Poisoned, this attack does 50 damage plus 20 more damage and the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Strange Sludge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Muk"
+  },
+  "number": "57",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

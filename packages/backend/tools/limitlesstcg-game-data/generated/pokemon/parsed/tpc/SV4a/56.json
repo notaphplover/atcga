@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分のポケモンが、相手のポケモンからワザのダメージを受けてきぜつするたび、1回使える。きぜつしたポケモンについている[L]エネルギーを1枚選び、このポケモンにつけ替える。",
+  "abilityName": "ライアース",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "180",
+      "effect": {
+        "jp": "このポケモンにも50ダメージ。"
+      },
+      "name": {
+        "jp": "かみなり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_56_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_56_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_56_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ライチュウ"
+  },
+  "number": "56",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV4a",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

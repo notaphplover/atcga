@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When Rocket's Moltres is Knocked Out, you may return it to your hand after discarding it. This power can't be used if Rocket's Moltres is Asleep, Confused, or Paralyzed when it is Knocked Out.",
+  "abilityName": "Rebirth",
+  "attacks": [
+    {
+      "cost": "rrr",
+      "dmg": "40",
+      "effect": {
+        "en": "If an attack does damage to Rocket's Moltres during your opponent's next turn (even if Rocket's Moltres is Knocked Out), Rocket's Moltres attacks your opponent's Active Pokémon for 10 damage. (Apply Weakness and Resistance.)"
+      },
+      "name": {
+        "en": "Fire Wall"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Moltres"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": []
+}

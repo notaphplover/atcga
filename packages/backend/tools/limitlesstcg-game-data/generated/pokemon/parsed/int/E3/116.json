@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Yanma."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage plus 10 more damage for each heads."
+      },
+      "name": {
+        "en": "Triple Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/116_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/116.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/116.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Yanma"
+  },
+  "number": "116",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

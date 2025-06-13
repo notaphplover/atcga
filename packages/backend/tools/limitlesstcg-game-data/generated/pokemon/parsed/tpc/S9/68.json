@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "ガードクロー"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "このポケモンに[R]エネルギーがついているなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "アイロンハンマー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9/S9_68_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9/S9_68_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9/S9_68_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヒードラン"
+  },
+  "number": "68",
+  "rarity": "u",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "S9",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

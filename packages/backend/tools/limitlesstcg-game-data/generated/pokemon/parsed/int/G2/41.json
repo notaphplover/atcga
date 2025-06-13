@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Erika's Ivysaur is your Active Pokémon, whenever an attack (even your own) does damage to any Pokémon (after applying Weakness and Resistance), that attack only does half the damage to that Pokémon (rounded up to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Erika's Ivysaur is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Relaxing Scent",
+  "attacks": [
+    {
+      "cost": "ggg",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Razor Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Erika's Ivysaur"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

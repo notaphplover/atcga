@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove 1 damage counter from Regirock Star."
+      },
+      "name": {
+        "en": "Dig Drain"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "30",
+      "effect": {
+        "en": "If your opponent has only 1 Prize card left and Regirock Star is the only Pokémon you have in play, this attack's base damage is 100 instead of 30."
+      },
+      "name": {
+        "en": "Final Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regirock Star"
+  },
+  "number": "91",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

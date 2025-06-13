@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 30 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Expand",
+        "fr": "Expansion",
+        "de": "Ausdehnen",
+        "it": "Potenzia",
+        "es": "Expandir"
+      }
+    },
+    {
+      "cost": "ycc",
+      "dmg": "70+",
+      "effect": {
+        "en": "If this Pokémon has a Pokémon Tool card that has \"[Y] Charm\" in its name attached to it, this attack does 70 more damage.",
+        "fr": "Si une carte Outil Pokémon avec « Amulette Féerique » dans son nom est attachée à ce Pokémon, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon eine Pokémon-Ausrüstung angelegt ist, bei der Feenschmuck zum Namen gehört, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha una carta Oggetto Pokémon assegnata con “Amuleto Folletto” nel nome, questo attacco infligge 70 danni in più.",
+        "es": "Si este Pokémon tiene 1 carta de Herramienta Pokémon que tenga \"Amuleto Hada\" en su nombre unida a él, este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Charmed Slap",
+        "fr": "Gifle Décorée",
+        "de": "Schmuckschlag",
+        "it": "Sberla Incantata",
+        "es": "Bofetada Encantada"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_134_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wigglytuff",
+    "fr": "Grodoudou",
+    "de": "Knuddeluff",
+    "it": "Wigglytuff",
+    "pt": "Wigglytuff",
+    "es": "Wigglytuff"
+  },
+  "number": "134",
+  "rarity": "r",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "LOT",
+  "stage": "stage1",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Hitmonchan is an Evolved Pokémon, Hitmonchan gets +30 HP.",
+  "abilityName": "Stages of Evolution",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the number of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Heavy Punch"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Speedy Uppercut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmonchan"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

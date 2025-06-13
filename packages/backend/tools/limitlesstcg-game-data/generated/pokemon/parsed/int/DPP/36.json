@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "As long as Gliscor is your Active Pokémon, your opponent can't remove any Special Conditions by evolving or devolving his or her Pokémon. (This also includes putting a Pokémon Level-Up card onto that Pokémon.)",
+  "abilityName": "Bind Eye",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Friction Heat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gliscor"
+  },
+  "number": "36",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "DPP",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

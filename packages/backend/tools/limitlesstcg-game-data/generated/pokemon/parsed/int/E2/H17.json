@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as there is a [G] Energy attached to Muk, you must pay an additional [C][C] to retreat it.",
+  "abilityName": "Heavyweight",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a number of coins equal to the amount of [G] Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned."
+      },
+      "name": {
+        "en": "Burning Sludge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Muk"
+  },
+  "number": "H17",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

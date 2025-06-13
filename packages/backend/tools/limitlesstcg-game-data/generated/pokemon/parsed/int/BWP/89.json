@@ -1,0 +1,84 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 20 dégâts à 1 des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 20 danni a uno dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina."
+      },
+      "name": {
+        "en": "Muddy Water",
+        "fr": "Ocroupi",
+        "de": "Lehmbrühe",
+        "it": "Fanghiglia"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Heal 20 damage from this Pokémon.",
+        "fr": "Soignez 20 dégâts à ce Pokémon.",
+        "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 20 danni."
+      },
+      "name": {
+        "en": "Spiral Drain",
+        "fr": "Spirale Épuisante",
+        "de": "Spiralsauger",
+        "it": "Assorbimento Spirale"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_089_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon",
+    "fr": "Aquali",
+    "de": "Aquana",
+    "it": "Vaporeon",
+    "pt": "Vaporeon",
+    "es": "Vaporeon"
+  },
+  "number": "89",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

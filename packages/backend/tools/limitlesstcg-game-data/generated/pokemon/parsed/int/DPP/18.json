@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may have your opponent switch 1 of your Active Pokémon with 1 of your Benched Pokémon. Then, you switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. This power can't be used if Palkia is affected by a Special Condition.",
+  "abilityName": "Restructure",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "60",
+      "effect": {
+        "en": "You may move all Energy cards attached to Palkia to your Benched Pokémon in any way you like. (Ignore this effect if you don't have any Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Hydro Reflect"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Palkia LV.X"
+  },
+  "number": "18",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

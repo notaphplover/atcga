@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Strange Powder"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and, until the end of your next turn, as long as Gloom is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing. If tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Sticky Nectar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gloom"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

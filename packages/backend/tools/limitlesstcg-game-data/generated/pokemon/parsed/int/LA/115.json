@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Light Punch"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubblebeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/115_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/115.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/115.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Poliwhirl"
+  },
+  "number": "115",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

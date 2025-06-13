@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "相手のバトルポケモンにのっているダメカンの数x10ダメージを追加。"
+      },
+      "name": {
+        "jp": "きずにかみつく"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "jp": "次の相手の番、このポケモンは「進化ポケモン」からワザのダメージを受けない。"
+      },
+      "name": {
+        "jp": "クリスタルレイ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_79_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_79_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_79_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "グレイシアEX"
+  },
+  "number": "79",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY10",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

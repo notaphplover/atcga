@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "30+",
+      "effect": {
+        "jp": "このポケモンにのっているダメカンの数×10ダメージ追加。"
+      },
+      "name": {
+        "jp": "いかりのツメ"
+      }
+    },
+    {
+      "cost": "rrr",
+      "dmg": "250",
+      "effect": {
+        "jp": "このポケモンについている[R]エネルギーを2個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "ぐれんのほのお"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 280,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_92_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_92_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_92_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ウインディex"
+  },
+  "number": "92",
+  "rarity": "sr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV1V",
+  "stage": "stage1",
+  "traitEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "traitName": "テラスタル",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

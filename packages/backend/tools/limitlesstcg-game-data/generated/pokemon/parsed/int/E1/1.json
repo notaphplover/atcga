@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, instead of Alakazam's normal attack, you may choose 1 of your opponent's Pokémon's attacks. Alakazam copies that attack including its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type that Pokémon is, Alakazam's type is still [P].) This power can't be used if Alakazam is affected by a Special Condition.",
+  "abilityName": "Psymimic",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "80",
+      "effect": {
+        "en": "If Alakazam and the Defending Pokémon don't have the same number of Energy cards attached to them, this attack's base damage is 20 instead of 80."
+      },
+      "name": {
+        "en": "Syncroblast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Alakazam"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach a [L] Energy card from your discard pile to 1 of your Benched Pokémon. This power can't be used if Dragonite is affected by a Special Condition.",
+  "abilityName": "Delta Charge",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Dragonite during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "lmcc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Heavy Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragonite"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [
+    "grass",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DS",
+  "stage": "stage2",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

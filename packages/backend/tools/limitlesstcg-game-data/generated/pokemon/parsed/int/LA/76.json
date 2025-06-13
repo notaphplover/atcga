@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Unown J from your hand onto your Bench, you may flip a coin. If heads, search your discard pile for a Trainer card, show it to your opponent, and put it into your hand.",
+  "abilityName": "JUNK",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove the Special Condition Asleep from the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/76_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/76.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/76.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [J]"
+  },
+  "number": "76",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

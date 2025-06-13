@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Tumbling Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "32",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Pound"
+      }
+    },
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Shining Claws"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/68_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/68.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/68.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Treecko"
+  },
+  "number": "68",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may attach 1 [W] Energy card to 1 of your [W] Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Rain Dance",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each [W] Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra [W] Energy after the 2nd doesn't count.",
+        "fr": "Inflige 40 dégâts plus 10 dégâts supplémentaires pour chaque Énergie [W] attachée à Tortank en plus du coût en Énergie de cette attaque. Les Énergies [W] supplémentaires après la seconde ne comptent pas.",
+        "de": "Fügt 40 Schadenspunkte plus 10 weitere Schadenspunkte für jede auf Turtok abgelegte [W] Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde. Du kannst nicht mehr als 20 Schadenspunkte auf diese Weise hinzufügen.",
+        "it": "Infligge 40 danni più altri 10 danni per ciascuna carta Energia [W] assegnata a Blastoise che non viene usata per pagare il costo di Energia di questo attacco. Altre carte Energia [W] dopo la 2ª non contano.",
+        "pt": "Causa 40 pts. de dano + 10 pts. de dano adicionais para cada Energia [W] ligada ao Blastoise que não foi usada para pagar pelo custo de Energia deste ataque. Energia [W] extra (acima da 2ª) não conta.",
+        "es": "Hace 40 puntos de daño más otros 10 puntos por cada Energía [W] unida a Blastoise pero no puede usarse para pagar el coste Adicional de Energía de este ataque. Energía [W] adicional después de la segunda no cuenta."
+      },
+      "name": {
+        "en": "Hydro Pump",
+        "fr": "Hydrocanon",
+        "de": "Hydropumpe",
+        "it": "Idropompa",
+        "pt": "Jato d'Água",
+        "es": "Hidro Bomba"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/2_hires.png",
+      "fr": "https://images.pokemontcg.io/base4/2_hires.png",
+      "de": "https://images.pokemontcg.io/base4/2_hires.png",
+      "it": "https://images.pokemontcg.io/base4/2_hires.png",
+      "pt": "https://images.pokemontcg.io/base4/2_hires.png",
+      "es": "https://images.pokemontcg.io/base4/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/2.png",
+      "fr": "https://images.pokemontcg.io/base4/2.png",
+      "de": "https://images.pokemontcg.io/base4/2.png",
+      "it": "https://images.pokemontcg.io/base4/2.png",
+      "pt": "https://images.pokemontcg.io/base4/2.png",
+      "es": "https://images.pokemontcg.io/base4/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/2.png",
+      "fr": "https://images.pokemontcg.io/base4/2.png",
+      "de": "https://images.pokemontcg.io/base4/2.png",
+      "it": "https://images.pokemontcg.io/base4/2.png",
+      "pt": "https://images.pokemontcg.io/base4/2.png",
+      "es": "https://images.pokemontcg.io/base4/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise",
+    "fr": "Tortank",
+    "de": "Turtok",
+    "it": "Blastoise",
+    "pt": "Blastoise",
+    "es": "Blastoise"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BS2",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

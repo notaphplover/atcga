@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may discard a card from your hand. Then, if you have Solrock in play, draw a card. This power can't be used if Lunatone is affected by a Special Condition.",
+  "abilityName": "Gravity Change",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "You may discard any Stadium card in play."
+      },
+      "name": {
+        "en": "Knock Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/76_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/76.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/76.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lunatone"
+  },
+  "number": "76",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

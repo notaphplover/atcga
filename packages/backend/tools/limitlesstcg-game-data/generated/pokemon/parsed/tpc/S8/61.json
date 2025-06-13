@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンが持っているワザを1つ選ぶ。次の相手の番、このワザを受けたポケモンは、選ばれたワザが使えない。"
+      },
+      "name": {
+        "jp": "だまらせる"
+      }
+    },
+    {
+      "cost": "d",
+      "dmg": "60+",
+      "effect": {
+        "jp": "相手のバトルポケモンにダメカンがのっているなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "むじひないちげき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_61_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_61_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_61_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラル タチフサグマ"
+  },
+  "number": "61",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S8",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

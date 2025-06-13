@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. Fan Rotom's type is [C] until the end of your turn.",
+  "abilityName": "Fan Shift",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, discard an Energy attached to Fan Rotom."
+      },
+      "name": {
+        "en": "Air Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/RT1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/RT1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/RT1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Fan Rotom"
+  },
+  "number": "RT1",
+  "rarity": "hr",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 0,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

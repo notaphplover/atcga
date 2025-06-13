@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Flygon has any Energy attached to it, the Retreat Cost for Flygon is 0.",
+  "abilityName": "Levitate",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "70",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Sand Pit"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop4/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop4/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop4/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon"
+  },
+  "number": "3",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "P4",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

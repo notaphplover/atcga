@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gnaw"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, Pikachu does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thunder Jolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/112_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/112.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/112.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "112",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Corner"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Fire Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom E4"
+  },
+  "number": "65",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

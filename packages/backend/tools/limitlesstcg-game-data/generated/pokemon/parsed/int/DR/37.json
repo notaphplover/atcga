@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Meditate"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meditite"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

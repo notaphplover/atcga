@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As long as Rocket's Scyther ex has any [G] Energy attached to it, Rocket's Scyther ex is both [G] and [D] type.",
+  "abilityName": "Dual Armor",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "After your attack, you may switch Rocket's Scyther ex with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Bounce"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "Rocket's Scyther ex can't use Slashing Strike during your next turn."
+      },
+      "name": {
+        "en": "Slashing Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/102_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/102.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/102.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Scyther ex"
+  },
+  "number": "102",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

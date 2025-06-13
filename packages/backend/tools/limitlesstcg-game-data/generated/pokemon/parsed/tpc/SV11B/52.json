@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンについている[F]エネルギー1個につき、このポケモンの最大HPは「＋40」される。",
+  "abilityName": "マスターアーツ",
+  "attacks": [
+    {
+      "cost": "fccc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数×50ダメージ追加。"
+      },
+      "name": {
+        "jp": "ふりまわす"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11B/SV11B_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11B/SV11B_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11B/SV11B_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ローブシン"
+  },
+  "number": "52",
+  "rarity": "r",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV11B",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の手札にある[妖]エネルギーを1枚、自分のポケモンにつける。",
+  "abilityName": "ひみつのいずみ",
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "30×",
+      "effect": {
+        "jp": "おたがいのバトルポケモンについているエネルギーの数x30ダメージ。"
+      },
+      "name": {
+        "jp": "インフィニットフォース"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3N/SM3N_55_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3N/SM3N_55_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3N/SM3N_55_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サーナイトGX"
+  },
+  "number": "55",
+  "rarity": "sr",
+  "regulation": "a",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "SM3N",
+  "stage": "stage2",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

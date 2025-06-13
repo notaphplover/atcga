@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Daunt"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each damage counter on Granbull."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Granbull"
+  },
+  "number": "39",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Twineedle"
+      }
+    },
+    {
+      "cost": "ggg",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base1/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base1/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base1/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beedrill"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "BS",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

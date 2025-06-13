@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Hop"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mysterious Powder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skiploom"
+  },
+  "number": "52",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

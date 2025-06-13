@@ -1,0 +1,59 @@
+{
+  "abilityEffect": "If you have Latios or Latios ex in play, the attack cost of Latias's Extra Crush is now [L] [M][C].",
+  "abilityName": "Delta Aura",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove 2 damage counters fro Latias."
+      },
+      "name": {
+        "en": "Spiral Drain"
+      }
+    },
+    {
+      "cost": "lmccc",
+      "dmg": "80",
+      "effect": {
+        "en": "If your opponent has no Pokémon-ex in play, this attack does nothing."
+      },
+      "name": {
+        "en": "Extra Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latias"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "psychic",
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

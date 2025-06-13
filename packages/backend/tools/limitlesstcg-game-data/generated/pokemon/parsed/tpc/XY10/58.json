@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンが使うワザのダメージは、すべて「-20」される。",
+  "abilityName": "プレッシャー",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "相手のバトルポケモンが「ポケモンEX」なら、60ダメージを追加。"
+      },
+      "name": {
+        "jp": "ライジングバーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_58_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_58_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_58_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ルギア"
+  },
+  "number": "58",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "XY10",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

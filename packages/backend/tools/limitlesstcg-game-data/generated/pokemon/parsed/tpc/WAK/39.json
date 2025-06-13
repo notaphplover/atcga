@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "はさむ"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "30",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "かみくだく"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/WAK/WAK_39_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/WAK/WAK_39_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/WAK/WAK_39_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アイアント"
+  },
+  "number": "39",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "WAK",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

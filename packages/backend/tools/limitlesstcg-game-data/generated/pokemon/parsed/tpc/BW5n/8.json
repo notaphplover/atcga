@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "40",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "フレイムバリア"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "90",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "かえんほうしゃ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブーバーン"
+  },
+  "number": "8",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW5n",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

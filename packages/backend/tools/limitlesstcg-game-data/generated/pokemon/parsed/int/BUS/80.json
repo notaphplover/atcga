@@ -1,0 +1,85 @@
+{
+  "abilityEffect": "This Pokémon can use the attacks of any Basic Pokémon in your discard pile. (You still need the necessary Energy to use each attack.)",
+  "abilityName": "Shadow Hunt",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "en": "Beatdown",
+        "fr": "Dérouillée",
+        "de": "Niederprügler",
+        "it": "Batosta",
+        "es": "Derrumbar"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "50×",
+      "effect": {
+        "en": "This attack does 50 damage times the amount of basic Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 50 dégâts multipliés par le nombre d'Énergies de base attachées à ce Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 50 Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten Basis-Energien zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 50 danni per ogni Energia base assegnata a questo Pokémon. Non puoi usare più di un attacco GX a partita.",
+        "es": "Este ataque hace 50 puntos de daño por cada Energía Básica unida a este Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Peerless Hundred Blows-GX",
+        "fr": "Cent Coups Incomparables-GX",
+        "de": "Weg der hundert Hiebe-GX",
+        "it": "Cento Colpi Ineguagliabili-GX",
+        "es": "Golpes Inigualables a Cientos-"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_080_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marshadow-GX",
+    "fr": "Marshadow-GX",
+    "de": "Marshadow-GX",
+    "it": "Marshadow-GX",
+    "pt": "Marshadow-GX",
+    "es": "Marshadow-GX"
+  },
+  "number": "80",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BUS",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

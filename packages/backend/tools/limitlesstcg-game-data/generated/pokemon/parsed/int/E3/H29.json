@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "All basic Energy cards attached to Steelix provide [M] Energy instead of their usual types.",
+  "abilityName": "Rare Metal",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Squeeze"
+      }
+    },
+    {
+      "cost": "mmmc",
+      "dmg": "40",
+      "effect": {
+        "en": "Before doing damage, you may flip a coin. If heads, this attack does 80 damage. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Metal Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Steelix"
+  },
+  "number": "H29",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

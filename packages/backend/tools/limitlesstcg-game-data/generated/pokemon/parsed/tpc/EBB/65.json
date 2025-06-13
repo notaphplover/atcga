@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "しんけいづき"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "ダメカンがのっている自分のベンチポケモンの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "しゅらのやいば"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_65_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_65_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_65_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エルレイド"
+  },
+  "number": "65",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EBB",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

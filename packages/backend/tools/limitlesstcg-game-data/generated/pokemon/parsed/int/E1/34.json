@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may take a basic Energy card attached to 1 of your Benched Pokémon and attach it to your Active Pokémon. This power can't be used if Ampharos is affected by a Special Condition.",
+  "abilityName": "Energy Connect",
+  "attacks": [
+    {
+      "cost": "llcc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may discard all [L] Energy cards attached to Ampharos. If you do, this attack's base damage is 80 instead of 40."
+      },
+      "name": {
+        "en": "Lightning Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

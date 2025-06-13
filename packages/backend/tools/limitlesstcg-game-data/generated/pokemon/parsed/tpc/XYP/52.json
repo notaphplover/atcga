@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "50",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "エアクラッシュ"
+      }
+    },
+    {
+      "cost": "ddcc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "相手の場に「ゼルネアス（EXをふくむ）」がいるなら、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "はかいのつばさ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イベルタル"
+  },
+  "number": "52",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

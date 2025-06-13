@@ -1,0 +1,61 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Hyper Voice"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, this attack does 60 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Mega Throw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Exploud"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

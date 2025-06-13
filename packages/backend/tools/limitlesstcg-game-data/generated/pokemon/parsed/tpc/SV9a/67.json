@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンは、相手の「ポケモンex」からワザのダメージを受けない。",
+  "abilityName": "しんぴのいしやど",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "グレートシザー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV9a/SV9a_67_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV9a/SV9a_67_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV9a/SV9a_67_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イワパレス"
+  },
+  "number": "67",
+  "rarity": "ar",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV9a",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

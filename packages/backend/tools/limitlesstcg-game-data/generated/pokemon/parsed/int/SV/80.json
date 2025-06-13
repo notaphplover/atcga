@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Attack"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/80_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/80.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/80.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhydon"
+  },
+  "number": "80",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

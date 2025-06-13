@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "50",
+      "effect": {
+        "en": "If your opponent has a Stadium in play, discard it.",
+        "fr": "Si votre adversaire a un Stade en jeu, défaussez-le.",
+        "de": "Wenn dein Gegner eine Stadionkarte im Spiel hat, lege sie auf seinen Ablagestapel.",
+        "it": "Se il tuo avversario ha una carta Stadio in gioco, scartala.",
+        "pt": "Se o seu oponente tiver um Estádio em jogo, descarte-o.",
+        "es": "Si tu rival tiene un Estadio en juego, descártalo."
+      },
+      "name": {
+        "en": "Field Crush",
+        "fr": "Broyeur de Terrain",
+        "de": "Feldschlag",
+        "it": "Invasione di Campo",
+        "pt": "Esmagamento de Campo",
+        "es": "Arrasamiento de Campo"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "100+",
+      "effect": {
+        "en": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
+        "fr": "Si au moins un marqueur de dégâts est placé sur ce Pokémon, cette attaque inflige 100 dégâts supplémentaires.",
+        "de": "Wenn auf diesem Pokémon mindestens 1 Schadensmarke liegt, fügt diese Attacke 100 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 100 danni in più.",
+        "pt": "Se este Pokémon tiver algum contador de dano nele, este ataque causará 100 pontos de dano a mais.",
+        "es": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 100 puntos de daño más."
+      },
+      "name": {
+        "en": "Fists of Strife",
+        "fr": "Poings de Dispute",
+        "de": "Fäuste der Zwietracht",
+        "it": "Confliggipugni",
+        "pt": "Punhos da Desavença",
+        "es": "Puños de Lucha"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_108_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Single Strike Urshifu",
+    "fr": "Shifours Poing Final",
+    "de": "Fokussierter-Angriff-Wulaosu",
+    "it": "Urshifu Singolcolpo",
+    "pt": "Urshifu Golpe Decisivo",
+    "es": "Urshifu Golpe Brusco"
+  },
+  "number": "108",
+  "rarity": "hr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CRE",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

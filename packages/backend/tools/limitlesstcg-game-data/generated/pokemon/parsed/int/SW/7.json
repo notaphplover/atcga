@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your opponent's discard pile for a Supporter card and use the effect of that card as the effect of this power. (The Supporter card remains in your opponent's discard pile.) You can't use more than 1 Telepass Poké-Power each turn. This power can't be used if Gardevoir is affected by a Special Condition.",
+  "abilityName": "Telepass",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, your opponent can't use any Poké-Powers on his or her Pokémon."
+      },
+      "name": {
+        "en": "Psychic Lock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gardevoir"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

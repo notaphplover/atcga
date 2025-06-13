@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "相手の手札の枚数x20ダメージ追加。"
+      },
+      "name": {
+        "jp": "いいがかり"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "120",
+      "effect": {
+        "jp": "ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。"
+      },
+      "name": {
+        "jp": "ダークファング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1S/SM1S_36_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1S/SM1S_36_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1S/SM1S_36_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ワルビアル"
+  },
+  "number": "36",
+  "rarity": "r",
+  "regulation": "a",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "SM1S",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

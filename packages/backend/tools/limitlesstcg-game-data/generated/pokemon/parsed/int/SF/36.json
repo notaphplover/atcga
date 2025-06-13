@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "If Electrode is your Active Pokémon and is damaged by an opponent's attack (even if Electrode is Knocked Out), put 1 damage counter on each of your opponent's Pokémon.",
+  "abilityName": "Radiance",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30",
+      "effect": {
+        "en": "If Electrode was damaged by an attack during your opponent's last turn, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Low Current"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

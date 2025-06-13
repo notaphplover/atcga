@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie [G] attachée à ce Pokémon.",
+        "de": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+        "it": "Questo attacco infligge 20 danni in più per ogni Energia [G] assegnata a questo Pokémon.",
+        "es": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Dark Forest",
+        "fr": "Explobois",
+        "de": "Dunkler Wald",
+        "it": "Urtolegno",
+        "es": "Bosque Oscuro"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "en": "This attack does 20 more damage for each [G] Energy attached to this Pokémon.",
+        "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte [G]-Energie zu.",
+        "es": "Este ataque hace 20 puntos de daño más por cada Energía [G] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Wood Blast",
+        "de": "Holzexplosion",
+        "es": "Estallido Arbolado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_145_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Trevenant-EX",
+    "fr": "Desséliande-EX",
+    "de": "Trombork-EX",
+    "it": "Trevenant-EX",
+    "pt": "Trevenant-EX",
+    "es": "Trevenant-EX"
+  },
+  "number": "145",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PRC",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

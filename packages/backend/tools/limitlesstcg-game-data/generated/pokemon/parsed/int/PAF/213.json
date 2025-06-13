@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "Prevent all effects of attacks used by your opponent's Pokémon done to all of your Pokémon that have Energy attached. (Existing effects are not removed. Damage is not an effect.)",
+  "abilityName": "Protective Mycelium",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "80+",
+      "effect": {
+        "en": "This attack does 40 more damage for each of your Benched Pokémon that has any [G] Energy attached.",
+        "fr": "Cette attaque inflige 40 dégâts supplémentaires pour chacun de vos Pokémon de Banc auxquels au moins une Énergie [G] est attachée.",
+        "de": "Diese Attacke fügt für jedes Pokémon auf deiner Bank, an das mindestens 1 [G]-Energie angelegt ist, 40 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 40 danni in più per ogni Pokémon nella tua panchina che ha delle Energie [G] assegnate.",
+        "pt": "Este ataque causa 40 pontos de dano a mais para cada um dos seus Pokémon no Banco que tem alguma Energia [G] ligada a ele.",
+        "es": "Este ataque hace 40 puntos de daño más por cada uno de tus Pokémon en Banca que tenga alguna Energía [G] unida."
+      },
+      "name": {
+        "en": "Colony Rush",
+        "fr": "Ruée Collective",
+        "de": "Kolonieansturm",
+        "it": "Assalto della Colonia",
+        "pt": "Colônia Furiosa",
+        "es": "Colonia al Ataque"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_213_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toedscruel ex",
+    "fr": "Terracruel-ex",
+    "de": "Tenterra-ex",
+    "it": "Toedscruel-ex",
+    "pt": "Toedscruel ex",
+    "es": "Toedscruel ex"
+  },
+  "number": "213",
+  "rarity": "ssr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PAF",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

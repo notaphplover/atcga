@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Flareon in order to use this attack."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

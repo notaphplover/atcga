@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach as many basic [W] Energy cards from your hand to any of your Pokémon in any way you like. If you do, your turn ends. This power can't be used if Blastoise is affected by a Special Condition.",
+  "abilityName": "Waterlog",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Does 50 damage plus 20 more damage for each [W] Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+      },
+      "name": {
+        "en": "Hydro Pump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

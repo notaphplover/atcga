@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [L] Energy card from your hand to Jolteon, remove all Special Conditions affecting Jolteon.",
+  "abilityName": "Self-healing",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack does 10 damage to each Benched Pokémon with at least 1 Energy card attached to it (yours and your opponent's)."
+      },
+      "name": {
+        "en": "Thunderspark"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon"
+  },
+  "number": "H12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

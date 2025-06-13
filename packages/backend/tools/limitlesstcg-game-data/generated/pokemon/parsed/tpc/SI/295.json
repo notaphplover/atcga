@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "まんりきばさみ"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {
+        "jp": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ぶちぬく"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_295_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_295_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_295_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "クチート"
+  },
+  "number": "295",
+  "regulation": "e",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "SI",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

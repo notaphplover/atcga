@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a number of coins equal to the number of [F] Energy cards attached to Dark Tyranitar. This attack does 20 damage times the number of heads. Then, for each heads, discard the top card from your opponent's deck."
+      },
+      "name": {
+        "en": "Mountain Smasher"
+      }
+    },
+    {
+      "cost": "fffc",
+      "dmg": "50",
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, this attack does 30 damage instead of 50 and choose 1 of those Benched Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Fling Away"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Tyranitar"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "N4",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

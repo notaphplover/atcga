@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "jp": "このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "ウッドホーン"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "自分がすでにGXワザを使っていたなら、60ダメージ追加。"
+      },
+      "name": {
+        "jp": "カームストライク"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMH/SMH_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMH/SMH_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMH/SMH_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カプ・ブルル"
+  },
+  "number": "10",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SMH",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

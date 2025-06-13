@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Dazzle Blast"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Zap Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Manectric"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the number of [D] Pokémon you have in play.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre de Pokémon [D] que vous avez en jeu.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte für jedes [D]-Pokémon, das du im Spiel hast, zu.",
+        "it": "Infligge 20 danni per ogni Pokémon [D] che hai in gioco."
+      },
+      "name": {
+        "en": "Brutal Bash",
+        "fr": "Ruée Brutale",
+        "de": "Rabiate Krallen",
+        "it": "Granzuccata"
+      }
+    },
+    {
+      "cost": "dd",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the number of damage counters on this Pokémon.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre de marqueurs de dégâts placés sur ce Pokémon.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+        "it": "Infligge 20 danni per ogni segnalino danno presente su questo Pokémon."
+      },
+      "name": {
+        "en": "Dark Rush",
+        "fr": "Assaut Obscur",
+        "de": "Finstere Offensive",
+        "it": "Impetoscuro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_071_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zoroark",
+    "fr": "Zoroark",
+    "de": "Zoroark",
+    "it": "Zoroark",
+    "pt": "Zoroark",
+    "es": "Zoroark"
+  },
+  "number": "71",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DEX",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

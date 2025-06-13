@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [W] Energy card from your hand to Vaporeon, remove all Special Conditions affecting Vaporeon.",
+  "abilityName": "Self-healing",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnosplash"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those Energy cards and move it to 1 of your opponent's Benched Pokémon. If your opponent has no Benched Pokémon, ignore this effect."
+      },
+      "name": {
+        "en": "Aqua Trick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon"
+  },
+  "number": "33",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Lairon"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

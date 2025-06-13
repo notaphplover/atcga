@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Light Dragonite is your Active Pokémon, each Special Energy card provides [C] Energy instead of its usual type and its other effects stop working. This power stops working while Light Dragonite is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Miraculous Wind",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "Prevent all effects of attacks, other than damage, done to Light Dragonite during your opponent's next turn."
+      },
+      "name": {
+        "en": "Light Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Light Dragonite"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "N4",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

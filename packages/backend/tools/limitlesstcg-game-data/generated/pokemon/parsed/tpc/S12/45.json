@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "しっぽでたたく"
+      }
+    },
+    {
+      "cost": "l",
+      "dmg": "60",
+      "effect": {
+        "jp": "このワザは、前の自分の番に「トゲデマル」が「トゲダッシュ」を使っていなければ使えない。相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "デデショート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "デデンネ"
+  },
+  "number": "45",
+  "rarity": "c",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S12",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

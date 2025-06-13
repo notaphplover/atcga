@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
+  "abilityName": "なめらかコート",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "jp": "次の自分の番、このポケモンが使う「エコーボイス」のダメージは「+50」される。"
+      },
+      "name": {
+        "jp": "エコーボイス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_89_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_89_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_89_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "チラチーノ"
+  },
+  "number": "89",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EBB",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

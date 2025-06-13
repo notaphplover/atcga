@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "エレキボール"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "相手のバトルポケモンが「ウルトラビースト」なら、100ダメージ追加。その場合、このポケモンについているエネルギーを、2個トラッシュする。"
+      },
+      "name": {
+        "jp": "ネイチャーダイブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11/SM11_28_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11/SM11_28_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11/SM11_28_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カプ・コケコ"
+  },
+  "number": "28",
+  "rarity": "r",
+  "regulation": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SM11",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), return a Pokémon Tool card attached to 1 of your Pokémon to your hand. This power can't be used if Porygon2 is affected by a Special Condition.",
+  "abilityName": "3-D Reset",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If Porygon2 has a Scramble Energy card attached to it, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Scramble Trip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Porygon2"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

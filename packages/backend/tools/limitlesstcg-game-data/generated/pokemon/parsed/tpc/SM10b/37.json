@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "jp": "ころがる"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "90",
+      "effect": {
+        "jp": "相手の手札からオモテを見ないで1枚トラッシュし、相手の山札を上から1枚トラッシュし、相手のバトルポケモンについているエネルギーを、1個トラッシュする。"
+      },
+      "name": {
+        "jp": "ベロベロらんぶ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_37_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_37_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_37_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ベロベルト"
+  },
+  "number": "37",
+  "rarity": "u",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SM10b",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

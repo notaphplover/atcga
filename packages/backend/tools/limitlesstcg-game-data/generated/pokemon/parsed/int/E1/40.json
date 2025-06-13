@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may turn all basic Energy attached to all of your Pokémon into [R] Energy for the rest of the turn. This power can't be used if Charizard is affected by a Special Condition.",
+  "abilityName": "Burning Energy",
+  "attacks": [
+    {
+      "cost": "rrrr",
+      "dmg": "120",
+      "effect": {
+        "en": "Flip 2 coins. If 1 of them is tails, discard 2 Energy cards attached to Charizard. If both are tails, discard all Energy cards attached to Charizard."
+      },
+      "name": {
+        "en": "Scorching Whirlwind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard"
+  },
+  "number": "40",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

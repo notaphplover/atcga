@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Aqua Trance"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If the Defending Pokémon is Asleep, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Super Hypnoblast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Sealeo"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

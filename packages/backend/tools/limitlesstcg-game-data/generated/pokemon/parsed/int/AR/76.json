@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove 1 damage counter from Tangela."
+      },
+      "name": {
+        "en": "Absorb"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Sleep Powder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/76_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/76.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/76.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tangela"
+  },
+  "number": "76",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

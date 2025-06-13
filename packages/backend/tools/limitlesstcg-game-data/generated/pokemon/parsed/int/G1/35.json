@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Shake"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Blaine's Growlithe does 10 damage to itself."
+      },
+      "name": {
+        "en": "Fire Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaine's Growlithe"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

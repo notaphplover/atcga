@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, the Defending Pokémon is now Poisoned. This power can't be used if Vileplume is affected by a Special Condition.",
+  "abilityName": "Poison Pollen",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads. Vileplume is now Confused."
+      },
+      "name": {
+        "en": "Petal Dance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume"
+  },
+  "number": "31",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

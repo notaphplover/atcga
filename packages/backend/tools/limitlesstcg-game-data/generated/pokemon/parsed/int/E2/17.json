@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "During your opponent's turn, if Jumpluff would be damaged or affected by an opponent's attack and it already has at least 1 damage counter on it, flip a coin. If heads, prevent all effects of that attack (including damage).",
+  "abilityName": "Fluff",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 times the number of heads."
+      },
+      "name": {
+        "en": "Cotton Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jumpluff"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 0,
+  "set": "E2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

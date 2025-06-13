@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [M] Energy card and attach it to Starmie. Shuffle your deck afterward. This power can't be used if Starmie is affected by a Special Condition.",
+  "abilityName": "Metal Navigation",
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30",
+      "effect": {
+        "en": "Return an Energy card attached to Starmie to your hand."
+      },
+      "name": {
+        "en": "Energy Loop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Starmie"
+  },
+  "number": "15",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "water",
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

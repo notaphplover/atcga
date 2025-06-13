@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "このポケモンに[悪]エネルギーがついているなら、20ダメージ追加。"
+      },
+      "name": {
+        "jp": "ワルぶる？"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "80",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを、すべてトラッシュする。"
+      },
+      "name": {
+        "jp": "10まんボルト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_13_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_13_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_13_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "スカル団ごっこピカチュウ"
+  },
+  "number": "13",
+  "regulation": "a",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

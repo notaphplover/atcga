@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 Energy attached to the Defending Pokémon. Your opponent returns that card to his or her hand."
+      },
+      "name": {
+        "en": "Minus Energy"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/67_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/67.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/67.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Minun"
+  },
+  "number": "67",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

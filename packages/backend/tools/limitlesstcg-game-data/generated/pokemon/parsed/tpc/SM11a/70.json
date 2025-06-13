@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "150",
+      "effect": {
+        "jp": "のぞむなら、自分の手札にある[水]エネルギーを3枚まで、自分のポケモンに好きなようにつける。その後、つけたポケモンのHPを、それぞれつけた枚数×50ダメージぶん回復する。"
+      },
+      "name": {
+        "jp": "スプラッシュメーカー"
+      }
+    },
+    {
+      "cost": "wwc+",
+      "dmg": "100+",
+      "effect": {
+        "jp": "相手のバトルポケモンをマヒにする。追加で[水]エネルギーが3個ついているなら、150ダメージ追加。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "バブルランチャーGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11a/SM11a_70_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11a/SM11a_70_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11a/SM11a_70_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カメックス&ポッチャマGX"
+  },
+  "number": "70",
+  "rarity": "sr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM11a",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

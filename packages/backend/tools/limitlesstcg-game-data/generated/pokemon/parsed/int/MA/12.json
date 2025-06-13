@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "Discard the top card from your opponent's deck, and flip a coin. If tails, discard a [R] Energy attached to Team Magma's Torkoal."
+      },
+      "name": {
+        "en": "Magma Burn"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Team Magma's Torkoal and your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Hot Air"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Torkoal"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "fire",
+    "darkness"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

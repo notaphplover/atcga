@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "When you attach a [G] Energy card from your hand to Sceptile, remove 2 damage counters from Sceptile.",
+  "abilityName": "Green Breath",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the amount of [G] Energy attached to Sceptile."
+      },
+      "name": {
+        "en": "Leaf Blast"
+      }
+    },
+    {
+      "cost": "gccc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Claws"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "AR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If your Benched Pokémon have any damage counters on them, this attack does 140 more damage.",
+        "fr": "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 140 dégâts supplémentaires.",
+        "de": "Wenn auf den Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 140 Schadenspunkte mehr zu.",
+        "it": "Se i tuoi Pokémon in panchina hanno dei segnalini danno, questo attacco infligge 140 danni in più.",
+        "pt": "Se os seus Pokémon no Banco tiverem algum contador de dano neles, este ataque causará 140 pontos de dano a mais.",
+        "es": "Si tus Pokémon en Banca tienen algún contador de daño sobre ellos, este ataque hace 140 puntos de daño más."
+      },
+      "name": {
+        "en": "Revenge Buster",
+        "fr": "Buster Vengeur",
+        "de": "Vergeltungsschlag",
+        "it": "Vendetta Distruttiva",
+        "pt": "Vingança Aniquiladora",
+        "es": "Venganza Destructora"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "240",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't use G-Max Chi Strike.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Frappe G-Max.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon Giga-Fokusschlag nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Gigapugnointuito.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá usar Golpe Chi G-Max.",
+        "es": "Durante tu próximo turno, este Pokémon no puede usar Gigapuñición."
+      },
+      "name": {
+        "en": "G-Max Chi Strike",
+        "fr": "Frappe G-Max",
+        "de": "Giga-Fokusschlag",
+        "it": "Gigapugnointuito",
+        "pt": "Golpe Chi G-Max",
+        "es": "Gigapuñición"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 330,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_073_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp VMAX",
+    "fr": "Mackogneur VMAX",
+    "de": "Machomei VMAX",
+    "it": "Machamp VMAX",
+    "pt": "Machamp VMAX",
+    "es": "Machamp VMAX"
+  },
+  "number": "73",
+  "rarity": "rrr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 3,
+  "set": "ASR",
+  "stage": "vmax",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30+",
+      "effect": {
+        "en": "If your opponent has exactly 1 Prize card remaining, this attack does 90 more damage.",
+        "fr": "S'il reste exactement une carte Récompense à votre adversaire, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Wenn dein Gegner genau 1 verbleibende Preiskarte hat, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Se il tuo avversario ha esattamente una carta Premio rimanente, questo attacco infligge 90 danni in più.",
+        "pt": "Se o seu oponente tiver exatamente 1 carta de Prêmio restante, este ataque causará 90 pontos de dano a mais.",
+        "es": "Si a tu rival le queda exactamente una carta de Premio, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Payback",
+        "fr": "Représailles",
+        "de": "Gegenstoß",
+        "it": "Rivincita",
+        "pt": "Revide",
+        "es": "Vendetta"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Corkscrew Punch",
+        "fr": "Poing Tire-Bouchon",
+        "de": "Korkenzieherhieb",
+        "it": "Pugno Rotante",
+        "pt": "Soco Saca-rolha",
+        "es": "Puño Tirabuzón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_116_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Krokorok",
+    "fr": "Escroco",
+    "de": "Rokkaiman",
+    "it": "Krokorok",
+    "pt": "Krokorok",
+    "es": "Krokorok"
+  },
+  "number": "116",
+  "rarity": "c",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVI",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

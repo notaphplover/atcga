@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/97_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/97.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/97.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electabuzz ex"
+  },
+  "number": "97",
+  "rarity": "ur",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

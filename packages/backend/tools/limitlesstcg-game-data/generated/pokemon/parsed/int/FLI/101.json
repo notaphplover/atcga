@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Supersonic",
+        "fr": "Ultrason",
+        "de": "Superschall",
+        "it": "Supersuono",
+        "es": "Supersónico"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "70+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is Confused, this attack does 70 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 70 danni in più.",
+        "es": "Si el Pokémon Activo de tu rival está Confundido, este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Resonance",
+        "fr": "Résonance",
+        "de": "Resonanz",
+        "it": "Risonanza",
+        "es": "Resonancia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_101_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Noivern",
+    "fr": "Bruyverne",
+    "de": "UHaFnir",
+    "it": "Noivern",
+    "pt": "Noivern",
+    "es": "Noivern"
+  },
+  "number": "101",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "FLI",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

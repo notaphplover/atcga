@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Giovanni's Machamp would be Knocked Out by an opponent's attack, flip a coin. If heads, Giovanni's Machamp is not Knocked Out and its remaining HP become 10 instead. This power can't be used if Giovanni's Machamp is already Asleep, Confused, or Paralyzed.",
+  "abilityName": "Fortitude",
+  "attacks": [
+    {
+      "cost": "fffc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Hurricane Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Machamp"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "G2",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

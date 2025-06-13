@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "自分の手札が4枚なら、このポケモンが使うワザに必要なエネルギーは、すべてなくなる。",
+  "abilityName": "ソニックビジョン",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "相手のバトルポケモンに「ポケモンのどうぐ」がついているなら、70ダメージを追加。"
+      },
+      "name": {
+        "jp": "アサルトブーム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_7_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_7_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_7_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メガヤンマ"
+  },
+  "number": "7",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "XY11r",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

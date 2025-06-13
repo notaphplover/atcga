@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Eerie Wave",
+        "fr": "Vague Étrange",
+        "de": "Gespenstische Woge",
+        "it": "Ondamistero",
+        "pt": "Onda Misteriosa",
+        "es": "Onda Sobrecogedora"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "80+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 more damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte mehr pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 40 danni in più ogni volta che esce testa.",
+        "pt": "Jogue 2 moedas. Este ataque causa 40 pontos de dano a mais para cada cara.",
+        "es": "Lanza 2 monedas. Este ataque hace 40 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Random Peck",
+        "fr": "Coup d'Bec au Pif",
+        "de": "Zufälliger Schnabelhieb",
+        "it": "Beccata Casuale",
+        "pt": "Bicada Aleatória",
+        "es": "Picotazo al Azar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CPA/CPA_045_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Malamar",
+    "fr": "Sepiatroce",
+    "de": "Calamanero",
+    "it": "Malamar",
+    "pt": "Malamar",
+    "es": "Malamar"
+  },
+  "number": "45",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CPA",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

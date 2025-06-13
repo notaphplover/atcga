@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 50 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon Évolutif, cette attaque inflige 50 dégâts supplémentaires.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Entwicklungs-Pokémon ist, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Evoluzione, questo attacco infligge 50 danni in più.",
+        "pt": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 50 pontos de dano a mais.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon Evolución, este ataque hace 50 puntos de daño más."
+      },
+      "name": {
+        "en": "Clean Hit",
+        "fr": "Coup Net",
+        "de": "Sauberer Treffer",
+        "it": "Colpo Pulito",
+        "pt": "Golpe Certeiro",
+        "es": "Impacto Limpio"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+        "de": "Der Schaden dieser Attacke wird durch Resistenz nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati dalla resistenza.",
+        "pt": "O dano deste ataque não é afetado por Resistência.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia."
+      },
+      "name": {
+        "en": "Bullet Straight Punch",
+        "fr": "Poing Direct Tiré",
+        "de": "Geschossgerade",
+        "it": "Pugno Diretto Fulmineo",
+        "pt": "Soco Direto e Reto",
+        "es": "Puño Bala Directo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_081_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmonchan",
+    "fr": "Tygnon",
+    "de": "Nockchan",
+    "it": "Hitmonchan",
+    "pt": "Hitmonchan",
+    "es": "Hitmonchan"
+  },
+  "number": "81",
+  "rarity": "c",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EVS",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

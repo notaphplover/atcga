@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "なぐる"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "おそいかかる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_27_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_27_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_27_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エレブー"
+  },
+  "number": "27",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "XY3",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

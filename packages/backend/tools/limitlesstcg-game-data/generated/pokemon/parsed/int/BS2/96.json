@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bind"
+      }
+    },
+    {
+      "cost": "ggg",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tangela"
+  },
+  "number": "96",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BS2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

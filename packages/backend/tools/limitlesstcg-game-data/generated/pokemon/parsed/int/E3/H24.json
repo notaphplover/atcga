@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
+  "abilityName": "Strange Spiral",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Spiral Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Poliwrath"
+  },
+  "number": "H24",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

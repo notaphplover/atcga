@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "dff",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, your opponent discards the top card from his or her deck."
+      },
+      "name": {
+        "en": "Mountain Crush"
+      }
+    },
+    {
+      "cost": "drrr",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin for each [R] Energy card attached to Shining Tyranitar. For each heads, discard a [R] Energy card attached to Shining Tyranitar or this attack does nothing. Then, for each heads, choose an Energy card attached to the Defending Pokémon and discard it. If it has fewer Energy cards than that, remove all of them."
+      },
+      "name": {
+        "en": "Destructive Fire"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/113_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/113.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/113.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shining Tyranitar"
+  },
+  "number": "113",
+  "rarity": "sr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "N4",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

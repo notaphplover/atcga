@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip 3 coins. If 1 of them is heads, this attack does 10 damage plus 10 more damage. If 2 of them are heads, this attack does 10 damage plus 20 more damage. If all of them are heads, this attack does 10 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Fury Cutter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scyther"
+  },
+  "number": "46",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

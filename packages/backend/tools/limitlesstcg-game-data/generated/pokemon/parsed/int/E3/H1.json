@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move an Energy card from 1 of your Pokémon to another of your Pokémon. This power can't be used if Alakazam is affected by a Special Condition.",
+  "abilityName": "Energy Jump",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Alakazam"
+  },
+  "number": "H1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

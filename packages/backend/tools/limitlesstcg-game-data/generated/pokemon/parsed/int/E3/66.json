@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "This attack does 10 damage times the number of damage counters on Houndour."
+      },
+      "name": {
+        "en": "Retaliate"
+      }
+    },
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy card attached to Houndour."
+      },
+      "name": {
+        "en": "Fireworks"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/66_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/66.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/66.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndour"
+  },
+  "number": "66",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

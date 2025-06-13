@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Meganium is in play each [G] Energy card attached to your [G] Pokémon instead provides [G][G]. This power stops working while Meganium is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Wild Growth",
+  "attacks": [
+    {
+      "cost": "gggg",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Soothing Scent"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "N1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

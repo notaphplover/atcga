@@ -1,0 +1,100 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "en": "Attach 2 [F] Energy cards from your discard pile to this Pokémon.",
+        "fr": "Attachez 2 cartes Énergie [F] de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 2 [F]-Energiekarten aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon due carte Energia [F] dalla tua pila degli scarti.",
+        "es": "Une 2 cartas de Energía [F] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Cell Connector",
+        "fr": "Connecteur de Cellules",
+        "de": "Zellenanschluss",
+        "it": "Connettore Cellulare",
+        "es": "Conector Celular"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "en": "Land's Wrath",
+        "fr": "Force Chtonienne",
+        "de": "Bodengewalt",
+        "it": "Forza Tellurica",
+        "es": "Fuerza Telúrica"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "150",
+      "effect": {
+        "en": "Prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon-GX et de Pokémon-EX pendant le prochain tour de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Verhindere allen Schaden, der diesem Pokémon während des nächsten Zuges deines Gegners durch Attacken von Pokémon-GX und Pokémon-EX zugefügt wird. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-GX e dei Pokémon-EX. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Verdict-GX",
+        "fr": "Verdict-GX",
+        "de": "Urteilsspruch-GX",
+        "it": "Verdetto-GX",
+        "es": "Veredicto-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_073_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zygarde-GX",
+    "fr": "Zygarde-GX",
+    "de": "Zygarde-GX",
+    "it": "Zygarde-GX",
+    "pt": "Zygarde-GX",
+    "es": "Zygarde-GX"
+  },
+  "number": "73",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "FLI",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack's base damage is 50 instead of 100."
+      },
+      "name": {
+        "en": "Time Wager"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga"
+  },
+  "number": "49",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

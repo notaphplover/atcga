@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your discard pile for an Energy card and attach it to Magnezone."
+      },
+      "name": {
+        "en": "Charge Beam"
+      }
+    },
+    {
+      "cost": "lmcc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may discard a [L] Energy and a [M] Energy attached to Magnezone. If you do, this attack's base damage is 120 instead of 60."
+      },
+      "name": {
+        "en": "Metallic Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnezone"
+  },
+  "number": "44",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

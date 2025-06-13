@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte des Decks deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario.",
+        "pt": "Descarte a carta de cima do baralho do seu oponente.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Digging Claw",
+        "fr": "Griffe Excavatrice",
+        "de": "Buddelklaue",
+        "it": "Scavartiglio",
+        "pt": "Garras de Escavação",
+        "es": "Garra Excavadora"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If you have any [M] Pokémon on your Bench, this attack does 80 more damage.",
+        "fr": "Si vous avez au moins un Pokémon [M] sur votre Banc, cette attaque inflige 80 dégâts supplémentaires.",
+        "de": "Wenn du mindestens 1 [M]-Pokémon auf deiner Bank hast, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+        "it": "Se hai dei Pokémon [M] in panchina, questo attacco infligge 80 danni in più.",
+        "pt": "Se você tiver algum Pokémon [M] no seu Banco, este ataque causará 80 pontos de dano a mais.",
+        "es": "Si tienes algún Pokémon [M] en tu Banca, este ataque hace 80 puntos de daño más."
+      },
+      "name": {
+        "en": "Drill Smash",
+        "fr": "Broiement Perceuse",
+        "de": "Schmetterbohrer",
+        "it": "Avvitacolpo",
+        "pt": "Pancada Perfurante",
+        "es": "Golpe Taladro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_109_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Excadrill",
+    "fr": "Minotaupe",
+    "de": "Stalobor",
+    "it": "Excadrill",
+    "pt": "Excadrill",
+    "es": "Excadrill"
+  },
+  "number": "109",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SSP",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

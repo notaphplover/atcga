@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Walrein from your hand to evolve 1 of your Pokémon, you may flip 2 coins. If both are heads, discard 1 of the Defending Pokémon and all cards attached to it. (This doesn't count as a Knocked Out Pokémon.)",
+  "abilityName": "Freeze-up",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "70",
+      "effect": {
+        "en": "If your opponent doesn't discard a card from his or her hand, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Bind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Walrein"
+  },
+  "number": "39",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

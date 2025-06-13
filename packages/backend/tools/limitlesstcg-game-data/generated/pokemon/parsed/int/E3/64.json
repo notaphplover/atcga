@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "30",
+      "effect": {
+        "en": "If there are 4 or more damage counters on Heracross, this attack's base damage is 50 instead of 30."
+      },
+      "name": {
+        "en": "Angry Horn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/64_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/64.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/64.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heracross"
+  },
+  "number": "64",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

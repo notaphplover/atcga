@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、自分のポケモン全員が、相手のポケモンから受けるワザのダメージは「-30」される。",
+  "abilityName": "きらめきのヴェール",
+  "attacks": [
+    {
+      "cost": "ycc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "場にスタジアムが出ているなら、50ダメージを追加。"
+      },
+      "name": {
+        "jp": "ミラクルステージ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYH/XYH_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYH/XYH_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYH/XYH_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ディアンシーEX"
+  },
+  "number": "8",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "XYH",
+  "stage": "basic",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

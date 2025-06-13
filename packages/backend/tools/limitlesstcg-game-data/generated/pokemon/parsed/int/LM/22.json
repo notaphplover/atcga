@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Magneton would be Knocked Out by damage from an opponent's attack, you may move any number of React Energy cards from Magneton to your Pokémon in any way you like.",
+  "abilityName": "Reactive Recharge",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If Magneton has any React Energy cards attached to it, this attack does 30 damage plus 10 more damage for each Magnemite and Magneton (both yours and your opponent's) in play."
+      },
+      "name": {
+        "en": "Multiple Force"
+      }
+    },
+    {
+      "cost": "lccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Magnetic Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

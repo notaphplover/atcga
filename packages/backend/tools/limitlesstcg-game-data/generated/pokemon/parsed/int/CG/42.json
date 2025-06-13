@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubble"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wartortle"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

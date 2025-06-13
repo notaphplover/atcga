@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "80×",
+      "effect": {
+        "en": "Discard the top 5 cards of your deck. This attack does 80 damage times the number of Energy cards you discarded.",
+        "fr": "Défaussez les 5 cartes du dessus de votre deck. Cette attaque inflige 80 dégâts multipliés par le nombre de cartes Énergie que vous avez défaussées.",
+        "de": "Lege die obersten 5 Karten deines Decks auf deinen Ablagestapel. Dieser Angriff fügt 80 Schadenspunkte mal der Anzahl abgelegter Energiekarten zu.",
+        "it": "Scarta le prime cinque carte del tuo mazzo. Questo attacco infligge 80 danni per ogni carta Energia che hai scartato.",
+        "es": "Descarta las 5 primeras cartas de tu baraja. Este ataque hace 80 puntos de daño por cada carta de Energía que hayas descartado."
+      },
+      "name": {
+        "en": "Massive Eruption",
+        "fr": "Éruption Massive",
+        "de": "Gewaltige Eruption",
+        "it": "Supereruzione",
+        "es": "Estallido Masivo"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "130",
+      "effect": {
+        "en": "Discard an Energy attached to this Pokémon. Then, discard an Energy attached to your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie attachée à ce Pokémon. Ensuite, défaussez une Énergie attachée au Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel. Lege anschließend 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon. Poi, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía unida a este Pokémon. Después, descarta 1 Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Flare Destroy",
+        "fr": "Éclatodestruction",
+        "de": "Flammenhacker",
+        "it": "Distruggifiamma",
+        "es": "Llama de Destrucción"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_020_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Typhlosion",
+    "fr": "Typhlosion",
+    "de": "Tornupto",
+    "it": "Typhlosion",
+    "pt": "Typhlosion",
+    "es": "Typhlosion"
+  },
+  "number": "20",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BKT",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever you attach a [R] Energy card from your hand to Flareon, remove all Special Conditions affecting Flareon.",
+  "abilityName": "Self-healing",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Discard an Energy card attached to Flareon in order to use this attack. If the discarded card is a [R] Energy card, this attack does 40 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Burn Booster"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon"
+  },
+  "number": "8",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

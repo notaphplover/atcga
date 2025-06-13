@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "50-",
+      "effect": {
+        "en": "Does 50 damage minus 10 damage for each damage counter on Machoke."
+      },
+      "name": {
+        "en": "Karate Chop"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Machoke does 20 damage to itself."
+      },
+      "name": {
+        "en": "Submission"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machoke"
+  },
+  "number": "49",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BS2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

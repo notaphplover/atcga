@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose a card from your hand and put it as a Prize card face up. If you do, choose 1 of your face-down Prize cards without looking and put it into your hand. This power can't be used if Slowking is affected by a Special Condition or if all of your Prize cards are face up.",
+  "abilityName": "Prize Shift",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Slowking has a [W] Energy card attached to it, this attack does 20 damage plus 20 more damage. If Slowking has a [P] Energy card attached to it, discard a Special Energy card attached to the Defending Pokémon, if any."
+      },
+      "name": {
+        "en": "Psychic Option"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowking"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Carvanha"
+  },
+  "number": "47",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Needle Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Sandslash"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

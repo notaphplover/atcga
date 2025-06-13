@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Feraligatr ex is your Active Pokémon, each player's Pokémon (excluding Pokémon-ex) can't use any Poké-Powers or Poké-Bodies.",
+  "abilityName": "Overpowering Fang",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Tsunami"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "70+",
+      "effect": {
+        "en": "Does 70 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Sore Spot"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/103_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/103.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/103.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feraligatr ex"
+  },
+  "number": "103",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

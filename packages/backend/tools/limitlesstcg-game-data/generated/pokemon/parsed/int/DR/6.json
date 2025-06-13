@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic Boom"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Grumpig and the Defending Pokémon have the same amount of Energy attached to them, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mind Trip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Grumpig"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

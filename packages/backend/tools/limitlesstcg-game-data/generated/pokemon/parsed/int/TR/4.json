@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Nail Flick"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip a number of coins equal to the number of [R] Energy cards attached to Dark Charizard. This attack does 50 damage times the number of heads. Discard a number of [R] Energy cards attached to Dark Charizard equal to the number of heads."
+      },
+      "name": {
+        "en": "Continuous Fireball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Charizard"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "TR",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

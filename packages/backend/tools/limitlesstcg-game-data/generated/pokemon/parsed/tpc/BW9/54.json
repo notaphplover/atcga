@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "jp": "のぞむなら、このポケモンをベンチポケモンと入れ替えてよい。"
+      },
+      "name": {
+        "jp": "ひるがえす"
+      }
+    },
+    {
+      "cost": "gwcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "このポケモンについている「プラズマエネルギー」の数x20ダメージぶん、このポケモンのHPを回復する。"
+      },
+      "name": {
+        "jp": "ディメンションヒール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW9/BW9_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW9/BW9_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW9/BW9_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "パルキアEX"
+  },
+  "number": "54",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BW9",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

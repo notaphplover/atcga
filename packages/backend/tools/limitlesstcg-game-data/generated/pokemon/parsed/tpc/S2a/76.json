@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンの最大HPは、このポケモンについている[鋼]エネルギー1個につき「20」大きくなる。",
+  "abilityName": "メタルはだ",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを12個のせる。"
+      },
+      "name": {
+        "jp": "トラップバイト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2a/S2a_76_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2a/S2a_76_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2a/S2a_76_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラル マッギョV"
+  },
+  "number": "76",
+  "rarity": "sr",
+  "regulation": "d",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "S2a",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

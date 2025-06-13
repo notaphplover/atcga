@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those Energy cards and discard it."
+      },
+      "name": {
+        "en": "Removal Pulse"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confusion Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lt. Surge's Magnemite"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

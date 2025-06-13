@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Bonemerang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cubone"
+  },
+  "number": "90",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you play Torterra from your hand to evolve 1 of your Pokémon, you may choose as many of your [G] Pokémon in play as you like. For each [G] Pokémon you choose, search your deck for an Evolution card that evolves from that Pokémon and evolve it. Shuffle your deck afterward.",
+  "abilityName": "Sunshine Song",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {
+        "en": "Torterra does 20 damage to itself. Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Crash Impact"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your opponent's next turn, when your opponent puts a Basic Pokémon from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon."
+      },
+      "name": {
+        "en": "Land Shake"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torterra"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

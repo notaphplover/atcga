@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "80",
+      "effect": {
+        "jp": "このポケモンにも、このポケモンにのっているダメカンの数x10ダメージ。"
+      },
+      "name": {
+        "jp": "ガッツハンマー"
+      }
+    },
+    {
+      "cost": "fff",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x40ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダブルスタンプ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3H/SM3H_30_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3H/SM3H_30_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3H/SM3H_30_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ケケンカニ"
+  },
+  "number": "30",
+  "rarity": "u",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SM3H",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 10 damage plus 10 more damage if exactly 1 is heads, or 20 more damage if exactly 2 are heads, or 40 more damage if exactly 3 are heads, or 80 more damage if all 4 are heads."
+      },
+      "name": {
+        "en": "Fury Cutter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scyther"
+  },
+  "number": "46",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

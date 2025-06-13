@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "fr": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+        "de": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+        "es": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Bear Hug",
+        "fr": "Câlin d'Ours",
+        "de": "Dicke Umarmung",
+        "it": "Presa dell'Orso",
+        "es": "Abrazo de Oso"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80+",
+      "effect": {
+        "en": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself.",
+        "fr": "Vous pouvez infliger 40 dégâts supplémentaires. Dans ce cas, ce Pokémon s'inflige 20 dégâts.",
+        "de": "Du kannst 40 Schadenspunkte mehr zufügen. Wenn du das machst, fügt dieses Pokémon sich selbst 20 Schadenspunkte zu.",
+        "it": "Puoi infliggere 40 danni in più. Se lo fai, questo Pokémon infligge 20 danni a se stesso.",
+        "es": "Puedes hacer 40 puntos de daño más. Si lo haces, este Pokémon se hace 20 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Superpower",
+        "fr": "Surpuissance",
+        "de": "Kraftkoloss",
+        "it": "Troppoforte",
+        "es": "Fuerza Bruta"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_112_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bewear",
+    "fr": "Chelours",
+    "de": "Kosturso",
+    "it": "Bewear",
+    "pt": "Bewear",
+    "es": "Bewear"
+  },
+  "number": "112",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SUM",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

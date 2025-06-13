@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin for each [W] Energy attached to Milotic C. This attack does 10 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Aqua Tail"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Wrap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic C"
+  },
+  "number": "35",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

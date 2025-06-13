@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "After your attack, you may switch Blastoise with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Smash Turn"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Blastoise by attacks during your opponent's next turn."
+      },
+      "name": {
+        "en": "Rocket Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop3/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop3/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop3/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise"
+  },
+  "number": "1",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "P3",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

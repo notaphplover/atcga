@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may put a card from your hand back on your deck. If you do, search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Clefable is affected by a Special Condition.",
+  "abilityName": "Moonlight",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 times the number of heads."
+      },
+      "name": {
+        "en": "Doubleslap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Clefable"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

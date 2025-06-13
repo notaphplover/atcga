@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンが、相手のポケモン（[炎]ポケモンをのぞく）から受けるワザのダメージは「-30」される。",
+  "abilityName": "もふもふ",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "相手のバトルポケモンが進化ポケモンなら、60ダメージ追加。"
+      },
+      "name": {
+        "jp": "ふりおろす"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4A/SM4A_27_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4A/SM4A_27_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4A/SM4A_27_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キテルグマ"
+  },
+  "number": "27",
+  "rarity": "r",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM4A",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

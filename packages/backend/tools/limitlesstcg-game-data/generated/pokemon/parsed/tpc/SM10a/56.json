@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "この番、このポケモンがベンチからバトル場に出ていたなら、80ダメージ追加し、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "タンデムショック"
+      }
+    },
+    {
+      "cost": "llc+",
+      "dmg": "150+",
+      "effect": {
+        "jp": "このポケモンをベンチポケモンと入れ替える。追加で[雷]エネルギーが2個ついているなら、100ダメージ追加。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ライトニングライドGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10a/SM10a_56_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10a/SM10a_56_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10a/SM10a_56_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ライチュウ&アローラライチュウGX"
+  },
+  "number": "56",
+  "rarity": "sr",
+  "regulation": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SM10a",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

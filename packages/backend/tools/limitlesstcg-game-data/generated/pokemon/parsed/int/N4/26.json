@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "During your opponent's turn, if Light Piloswine is your Active Pokémon and is damaged by your opponent's attack (even if it's Knocked Out), flip a coin. If heads, the attacking Pokémon is now Asleep. This power stops working if Light Piloswine is already Asleep, Confused, or Paralyzed when your opponent attacks.",
+  "abilityName": "Fluffy Wool",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "If there is a Stadium card in play, you may discard it."
+      },
+      "name": {
+        "en": "Knock Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Light Piloswine"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "N4",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

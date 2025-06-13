@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Shaymin."
+      },
+      "name": {
+        "en": "Energy Blow"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove 2 damage counters from each of your Pokémon."
+      },
+      "name": {
+        "en": "Aromatherapy"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shaymin"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

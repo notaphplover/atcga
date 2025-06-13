@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a card. Shuffle your deck, then put that card on top of your deck. This power can't be used if Magcargo is affected by a Special Condition.",
+  "abilityName": "Smooth Over",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "You may discard any Stadium card in play."
+      },
+      "name": {
+        "en": "Knock Over"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Combustion"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

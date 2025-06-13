@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "You may move a [R] Energy card attached to 1 of your Benched Pokémon to Camerupt."
+      },
+      "name": {
+        "en": "Moving Fire"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip 3 coins. For each tails, discard the top card of your deck. Ignore this effect if your opponent has any [W] Pokémon in play."
+      },
+      "name": {
+        "en": "Volcanic Crash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Camerupt"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

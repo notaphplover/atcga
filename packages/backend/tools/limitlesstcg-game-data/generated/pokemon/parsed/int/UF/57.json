@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Gligar has no Energy cards attached to it, Gligar's Retreat Cost is 0.",
+  "abilityName": "Free Flight",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Toxic Grip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gligar"
+  },
+  "number": "57",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

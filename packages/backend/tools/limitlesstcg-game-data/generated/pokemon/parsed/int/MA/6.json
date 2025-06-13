@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Team Aqua's Walrein."
+      },
+      "name": {
+        "en": "Power Blow"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "You may return any number of basic [W] Energy cards attached to all of your Pokémon to your hand. If you do, this attack does 50 damage plus 10 more damage for each Energy you returned."
+      },
+      "name": {
+        "en": "Hydro Reverse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Walrein"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage2",
+  "type": [
+    "water",
+    "darkness"
+  ],
+  "weakness": [
+    "fighting",
+    "metal"
+  ]
+}

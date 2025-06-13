@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, count the remaining HP of the Defending Pokémon and Swalot. If the Defending Pokémon has fewer remaining HP than Swalot's, this attack does 80 damage instead."
+      },
+      "name": {
+        "en": "Swallow Up"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Gunk Shot"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/72_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/72.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/72.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swalot"
+  },
+  "number": "72",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

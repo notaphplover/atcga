@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Each Pokémon (both yours and your opponent's) (excluding Pokémon SP) can't use any Poké-Bodies.",
+  "abilityName": "Time Crystal",
+  "attacks": [
+    {
+      "cost": "mmcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, remove an Energy card attached to the Defending Pokémon and put it in the Lost Zone."
+      },
+      "name": {
+        "en": "Remove Lost"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/122_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/122.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/122.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga G LV.X"
+  },
+  "number": "122",
+  "rarity": "ur",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "lvx",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

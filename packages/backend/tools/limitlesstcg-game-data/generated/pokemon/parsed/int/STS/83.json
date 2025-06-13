@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If your opponent has any Pokémon BREAK in play, this attack does 60 more damage.",
+        "fr": "Si votre adversaire a un Pokémon TURBO en jeu, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wenn dein Gegner Pokémon-TURBO im Spiel hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+        "it": "Se il tuo avversario ha dei Pokémon TURBO in gioco, questo attacco infligge 60 danni in più.",
+        "es": "Si tu rival tiene algún Pokémon TURBO en juego, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Proud Fang",
+        "fr": "Croc Orgueilleux",
+        "de": "Stolze Fänge",
+        "it": "Zanne Superbe",
+        "es": "Colmillo Imponente"
+      }
+    },
+    {
+      "cost": "rwc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip 2 coins. If both of them are tails, this attack does nothing.",
+        "fr": "Lancez 2 pièces. Si vous obtenez 2 côtés pile, cette attaque ne fait rien.",
+        "de": "Wirf 2 Münzen. Wenn beide „Zahl“ zeigen, hat dieser Angriff keine Auswirkungen.",
+        "it": "Lancia due volte una moneta. Se esce entrambe le volte croce, questo attacco non ha effetto.",
+        "es": "Lanza 2 monedas. Si ambas son cruz, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Giga Claw",
+        "fr": "Giga Griffe",
+        "de": "Gigaklaue",
+        "it": "Gigartiglio",
+        "es": "Gigagarra"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_083_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Druddigon",
+    "fr": "Drakkarmin",
+    "de": "Shardrago",
+    "it": "Druddigon",
+    "pt": "Druddigon",
+    "es": "Druddigon"
+  },
+  "number": "83",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "STS",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

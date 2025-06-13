@@ -1,0 +1,58 @@
+{
+  "abilityEffect": "As often as you like during your turn, you may move an Energy card attached to 1 of your Pokémon to Dragonite ex. This power can't be used if Dragonite ex is affected by a Special Condition.",
+  "abilityName": "Call for Power",
+  "attacks": [
+    {
+      "cost": "wl",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard a [W] Energy card and a [L] Energy card attached to Dragonite ex."
+      },
+      "name": {
+        "en": "Dragon Wave"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "120",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Giant Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragonite ex"
+  },
+  "number": "90",
+  "rarity": "ur",
+  "resistance": [
+    "grass",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

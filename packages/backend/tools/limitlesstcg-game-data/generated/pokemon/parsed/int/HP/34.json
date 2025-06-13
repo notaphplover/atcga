@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip 3 coins. If 1 of them is heads, this attack does 10 damage plus 10 more damage. If 2 of them are heads, this attack does 10 damage plus 20 more damage. If all of them are heads, this attack does 10 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Fury Cutter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zangoose"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

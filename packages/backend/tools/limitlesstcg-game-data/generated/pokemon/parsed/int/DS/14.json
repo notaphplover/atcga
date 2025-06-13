@@ -1,0 +1,57 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your discard pile for a [R] Energy card and attach it to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Fire Dance"
+      }
+    },
+    {
+      "cost": "rmcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard a [M] Energy card attached to Salamence."
+      },
+      "name": {
+        "en": "Delta Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fire",
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage2",
+  "type": [
+    "fire",
+    "metal"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

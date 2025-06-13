@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Light Machamp from your hand, if it is on your Bench, remove 3 damage counters from your Active Pokémon. If it has fewer damage counters than that, remove all of them. Then, switch Light Machamp with your Active Pokémon.",
+  "abilityName": "Tag Team",
+  "attacks": [
+    {
+      "cost": "fff",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon has Dark in its name or is a [D] Pokémon, flip a coin. If heads, this attack does 100 damage instead of 50."
+      },
+      "name": {
+        "en": "Beatdown"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Light Machamp"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N4",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

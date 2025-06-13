@@ -1,0 +1,90 @@
+{
+  "attacks": [
+    {
+      "cost": "lll",
+      "dmg": "150",
+      "effect": {
+        "en": "Search your deck for up to 3 [L] Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 3 cartes Énergie [L] dans votre deck et attachez-les à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 3 [L]-Energiekarten und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a tre carte Energia [L] e assegnale a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 3 cartas de Energía [L] y únelas a 1 de tus Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Full Blitz",
+        "fr": "Attaque Absolue",
+        "de": "Mächtiger Blitz",
+        "it": "Carica Totale",
+        "es": "Envite Total"
+      }
+    },
+    {
+      "cost": "lll+",
+      "dmg": "200",
+      "effect": {
+        "en": "If this Pokémon has at least 3 extra [L] Energy attached to it (in addition to this attack's cost), this attack does 170 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)",
+        "fr": "Si au moins 3 Énergies [L] supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 170 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wenn an dieses Pokémon mindestens 3 extra [L]-Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 1 Pokémon auf der Bank deines Gegners 170 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Se questo Pokémon ha almeno tre Energie [L] extra assegnate, in aggiunta a quelle del costo di questo attacco, questo attacco infligge 170 danni a uno dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina. Non puoi usare più di un attacco GX a partita.",
+        "es": "Si este Pokémon tiene por lo menos 3 Energías [L] adicionales unidas a él (además de las del coste de este ataque), este ataque hace 170 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Tag Bolt-GX",
+        "fr": "Escouade Foudroyante-GX",
+        "de": "Doppel-Blitzschlag-GX",
+        "it": "Bolide Alleato-GX",
+        "es": "Rayo Relevo-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 240,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu & Zekrom-GX",
+    "fr": "Pikachu et Zekrom-GX",
+    "de": "Pikachu & Zekrom-GX",
+    "it": "Pikachu e Zekrom-GX",
+    "pt": "Pikachu e Zekrom-GX",
+    "es": "Pikachu y Zekrom-GX"
+  },
+  "number": "168",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 3,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

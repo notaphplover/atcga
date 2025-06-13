@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose any 1 card from your deck and put it into your hand. Shuffle your deck afterward. You can't use more than 1 Quick Search Poké-Power each turn. This power can't be used if Pidgeot is affected by a Special Condition.",
+  "abilityName": "Quick Search",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Clutch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pidgeot"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

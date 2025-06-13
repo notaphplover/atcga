@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Aerodactyl is affected by a Special Condition.",
+  "abilityName": "Primal Light",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Aerodactyl by attacks is reduced by 10 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Granite Head"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aerodactyl"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "HP",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

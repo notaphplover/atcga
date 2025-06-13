@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than [C]. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Shift",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+      },
+      "name": {
+        "en": "Venom Powder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venomoth"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

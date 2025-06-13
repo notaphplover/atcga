@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "この特性は、このカードを手札から出して進化させたとき、1回使える。自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。",
+  "abilityName": "ル・パフューム",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加し、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "しめあげる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_2_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_2_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_2_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロズレイド"
+  },
+  "number": "2",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "SZD",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

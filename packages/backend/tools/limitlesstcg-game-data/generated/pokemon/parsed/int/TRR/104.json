@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Rocket's Snorlax ex has any [D] Energy attached to it, remove 1 damage counter from Rocket's Snorlax ex between turns.",
+  "abilityName": "Dark Healer",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Claws"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Rocket's Snorlax ex is now Asleep."
+      },
+      "name": {
+        "en": "Collapse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/104_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/104.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/104.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Snorlax ex"
+  },
+  "number": "104",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

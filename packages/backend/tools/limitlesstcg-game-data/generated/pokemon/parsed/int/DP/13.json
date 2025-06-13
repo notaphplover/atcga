@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Budew is anywhere under Roserade, choose 1 of your opponent's Benched Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spike Whip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roserade"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

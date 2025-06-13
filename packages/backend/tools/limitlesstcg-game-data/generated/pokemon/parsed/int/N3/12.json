@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose 1 basic Energy card attached to 1 of your Pokémon and choose an Energy type. Treat that Energy card as that type until the end of your turn. This power can't be used if Porygon2 is Asleep, Confused, or Paralyzed. If Porygon2 becomes Asleep, Confused, or Paralyzed, the Energy card goes back to its original type.",
+  "abilityName": "Energy Converter",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, choose whether the Defending Pokémon becomes Asleep, Confused, or Paralyzed."
+      },
+      "name": {
+        "en": "Delta Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Porygon2"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

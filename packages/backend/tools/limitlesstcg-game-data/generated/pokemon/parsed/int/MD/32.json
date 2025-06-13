@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Each of your Pokémon that evolves from Eevee has no Weakness, and that Pokémon's Retreat Cost is 0.",
+  "abilityName": "Moonlight Veil",
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Umbreon"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

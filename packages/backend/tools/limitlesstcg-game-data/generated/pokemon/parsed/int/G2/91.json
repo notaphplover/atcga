@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Frostbite"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Mirage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misty's Seel"
+  },
+  "number": "91",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

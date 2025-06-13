@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "jp": "のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手の手札にもどす。"
+      },
+      "name": {
+        "jp": "おあずけキック"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "70+",
+      "effect": {
+        "jp": "この番、手札からサポートを出して使っていたなら、70ダメージ追加。"
+      },
+      "name": {
+        "jp": "シンフォニーウィップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_237_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_237_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_237_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ニンフィア"
+  },
+  "number": "237",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SP",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "pt": "Jogue 2 moedas. Este ataque causa 30 pontos de dano para cada cara.",
+        "es": "Lanza 2 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Stab",
+        "fr": "Entaille Double",
+        "de": "Doppelstich",
+        "it": "Doppia Pugnalata",
+        "pt": "Facada Dupla",
+        "es": "Doble Puñalada"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "120",
+      "effect": {
+        "en": "Choose 1 of your Benched Combee and shuffle that Pokémon and all attached cards into your deck. If you can't shuffle a Combee into your deck, this attack does nothing.",
+        "fr": "Choisissez l'un de vos Apitrini de Banc et mélangez ce Pokémon-là, ainsi que toutes les cartes qui lui sont attachées, avec votre deck. Si vous ne pouvez pas mélanger un Apitrini avec votre deck, cette attaque ne fait rien.",
+        "de": "Wähle 1 Wadribie auf deiner Bank und mische jenes Pokémon und alle angelegten Karten in dein Deck. Wenn du kein Wadribie in dein Deck mischen kannst, hat diese Attacke keine Auswirkungen.",
+        "it": "Scegli uno dei tuoi Combee in panchina e rimischia quel Pokémon e tutte le carte a esso assegnate nel tuo mazzo. Se non puoi rimischiare un Combee nel tuo mazzo, questo attacco non ha effetto.",
+        "pt": "Escolha 1 dos seus Combee no Banco e embaralhe aquele Pokémon e todas as cartas ligadas a ele no seu baralho. Se não puder embaralhar um Combee no seu baralho, este ataque não fará nada.",
+        "es": "Elige 1 de tus Combee en Banca, pon ese Pokémon y todas las cartas unidas a él en tu baraja y baraja todas las cartas. Si no puedes poner un Combee en tu baraja, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Order a Raid",
+        "fr": "Ordre de Raid",
+        "de": "Überfallbefehl",
+        "it": "Raid a Comando",
+        "pt": "Comando de Reide",
+        "es": "Orden de Ataque"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_009_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vespiquen",
+    "fr": "Apireine",
+    "de": "Honweisel",
+    "it": "Vespiquen",
+    "pt": "Vespiquen",
+    "es": "Vespiquen"
+  },
+  "number": "9",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PAL",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

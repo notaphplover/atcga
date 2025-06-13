@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "jp": "次の相手の番の終わりまで、相手の場・手札・トラッシュのカードに書かれている特性は、すべてなくなる。（新しく場に出したカードもふくむ。）"
+      },
+      "name": {
+        "jp": "かげぬい"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "60+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについている[水]エネルギーを1個選び、手札にもどしてよい。その場合、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "げっこうぎり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_27r_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_27r_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_27r_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゲッコウガ"
+  },
+  "number": "27r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "XY",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

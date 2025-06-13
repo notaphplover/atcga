@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンが使うワザのダメージは「-20」される。",
+  "abilityName": "プレッシャー",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "このポケモンについている[R]エネルギーの数×20ダメージ追加。"
+      },
+      "name": {
+        "jp": "ブレイズボール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_28_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_28_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_28_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エンテイ"
+  },
+  "number": "28",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV4a",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

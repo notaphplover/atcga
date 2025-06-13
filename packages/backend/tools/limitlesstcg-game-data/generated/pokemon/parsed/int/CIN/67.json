@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 10 more damage for each damage counter on all of your Benched Pokémon.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur vos Pokémon de Banc.",
+        "de": "Diese Attacke fügt 10 Schadenspunkte mehr mal der Anzahl der Schadensmarken auf allen Pokémon auf deiner Bank zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni segnalino danno presente sui tuoi Pokémon in panchina.",
+        "es": "Este ataque hace 10 puntos de daño más por cada contador de daño en todos tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Revenge Cannon",
+        "fr": "Canon Talion",
+        "de": "Konterkanone",
+        "it": "Cannonvendetta",
+        "es": "Cañón Venganza"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "120",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+        "de": "Der Schaden dieser Attacke wird durch Resistenz nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati dalla resistenza.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia."
+      },
+      "name": {
+        "en": "Buster Swing",
+        "fr": "Repoussoir",
+        "de": "Widerstandsbrecher",
+        "it": "Colpaccio",
+        "es": "Golpe Destructor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_067_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aggron",
+    "fr": "Galeking",
+    "de": "Stolloss",
+    "it": "Aggron",
+    "pt": "Aggron",
+    "es": "Aggron"
+  },
+  "number": "67",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "CIN",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

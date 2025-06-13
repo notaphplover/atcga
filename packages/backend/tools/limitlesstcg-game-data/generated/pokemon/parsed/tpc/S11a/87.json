@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "160",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。次の相手の番、このポケモンは特性を持つポケモンからワザのダメージを受けない。"
+      },
+      "name": {
+        "jp": "スノーミラージュ"
+      }
+    },
+    {
+      "cost": "0",
+      "dmg": "70×",
+      "effect": {
+        "jp": "相手の場の「ポケモンV」の数×70ダメージ。このワザのダメージは弱点・抵抗力を計算しない。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ぎんせつスター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 240,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11a/S11a_87_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11a/S11a_87_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11a/S11a_87_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アローラ ロコンVSTAR"
+  },
+  "number": "87",
+  "rarity": "hr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S11a",
+  "stage": "vstar",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

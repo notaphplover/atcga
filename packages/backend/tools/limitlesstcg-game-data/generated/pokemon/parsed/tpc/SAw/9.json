@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "jp": "相手の手札からオモテを見ないで1枚選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "むおんだん"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "100",
+      "effect": {
+        "jp": "のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手の手札にもどす。"
+      },
+      "name": {
+        "jp": "ハイドロスナイプ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SAw/SAw_9_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SAw/SAw_9_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SAw/SAw_9_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "インテレオン"
+  },
+  "number": "9",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SAw",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

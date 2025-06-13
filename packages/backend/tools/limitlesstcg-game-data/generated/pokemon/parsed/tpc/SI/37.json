@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "60",
+      "effect": {
+        "jp": "このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "ウッドドレイン"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "120+",
+      "effect": {
+        "jp": "自分の場のポケモンについているエネルギーを好きなだけトラッシュし、その枚数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "どとうのれんだ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_37_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_37_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_37_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴリランダー"
+  },
+  "number": "37",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SI",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

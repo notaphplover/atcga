@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Tickling Vines"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/112_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/112.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/112.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tangela"
+  },
+  "number": "112",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

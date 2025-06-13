@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+  "abilityName": "Shell Armor",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip 3 coins. If 1 of them is heads, this attack does 40 more damage. If 2 of them are heads, this attack does 80 more damage. If all of them are heads, this attack does 150 more damage.",
+        "fr": "Lancez 3 pièces. S'il n'y a qu'un côté face, cette attaque inflige 40 dégâts supplémentaires. S'il y a 2 côtés face, cette attaque inflige 80 dégâts supplémentaires. S'il y a 3 côtés face, cette attaque inflige 150 dégâts supplémentaires.",
+        "de": "Wirf 3 Münzen. Zeigt 1 davon Kopf, fügt diese Attacke 40 Schadenspunkte mehr zu. Zeigen 2 davon Kopf, fügt diese Attacke 80 Schadenspunkte mehr zu. Zeigen alle Münzen Kopf, fügt diese Attacke 150 Schadenspunkte mehr zu.",
+        "it": "Lancia tre volte una moneta. Se esce testa una sola volta, questo attacco infligge 40 danni in più. Se esce testa due volte, ne infligge 80 in più e, se esce testa tutte e tre le volte, ben 150 in più.",
+        "es": "Lanza 3 monedas. Si sale cara en 1 de ellas, este ataque hace 40 puntos de daño más. Si sale cara en 2, hace 80 puntos de daño más. Si sale cara en las 3, hace 150 puntos de daño más."
+      },
+      "name": {
+        "en": "Fury Cutter",
+        "fr": "Taillade",
+        "de": "Zornklinge",
+        "it": "Tagliofuria",
+        "es": "Corte Furia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_011_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crustle",
+    "fr": "Crabaraque",
+    "de": "Castellith",
+    "it": "Crustle",
+    "pt": "Crustle",
+    "es": "Crustle"
+  },
+  "number": "11",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UNM",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "At the end of each player's turn, each of your opponent's Active Pokémon that has any [G] Energy attached to it is now Poisoned. If that Pokémon is already Poisoned, Toxic Sludge Poké-Body does nothing to that Pokémon.",
+  "abilityName": "Toxic Sludge",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused and can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Panic Liquid"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Muk"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手の場のポケモンの特性（「なまけがお」をのぞく）は、すべてなくなる。",
+  "abilityName": "なまけがお",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "160",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを、1個トラッシュする。次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "はめつのいちげき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_51_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_51_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_51_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ケッキング"
+  },
+  "number": "51",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM6b",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

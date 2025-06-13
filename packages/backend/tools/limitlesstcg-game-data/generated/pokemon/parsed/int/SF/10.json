@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), move a [G] Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Sceptile is affected by a Special Condition.",
+  "abilityName": "Energy Trans",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Leaf"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Remove 2 damage counters from Sceptile."
+      },
+      "name": {
+        "en": "Slice Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

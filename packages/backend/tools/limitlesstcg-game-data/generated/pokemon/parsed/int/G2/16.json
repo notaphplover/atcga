@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Sabrina's Alakazam always has a copy of every attack your [P] Pokémon in play have (including their Energy costs and anything else required in order to use those attacks, such as discarding Energy cards). This power can't be used if Sabrina's Alakazam is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Psylink",
+  "attacks": [
+    {
+      "cost": "pccc",
+      "dmg": "60",
+      "effect": {
+        "en": "You can't use this attack during your next turn."
+      },
+      "name": {
+        "en": "Mega Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Alakazam"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "G2",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

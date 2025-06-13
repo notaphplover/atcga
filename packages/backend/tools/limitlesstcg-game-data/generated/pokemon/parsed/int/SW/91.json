@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Lick"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Stomp"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lickitung"
+  },
+  "number": "91",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

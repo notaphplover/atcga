@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の[水]ポケモン全員はこんらんにならず、受けているこんらんは、すべて回復する。",
+  "abilityName": "うみのささやき",
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをねむりにする。"
+      },
+      "name": {
+        "jp": "みずのはどう"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_156_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_156_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_156_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "フィオネ"
+  },
+  "number": "156",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

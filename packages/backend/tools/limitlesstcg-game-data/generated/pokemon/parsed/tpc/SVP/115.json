@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンは特殊状態にならない。",
+  "abilityName": "ソルティボディ",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "170",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-60」される。"
+      },
+      "name": {
+        "jp": "ブロックハンマー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 340,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_115_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_115_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_115_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キョジオーンex"
+  },
+  "number": "115",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SVP",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

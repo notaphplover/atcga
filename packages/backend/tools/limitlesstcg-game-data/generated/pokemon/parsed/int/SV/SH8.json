@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, the Defending Pokémon's Retreat Cost is [C][C] more."
+      },
+      "name": {
+        "en": "Deep Sea Pressure"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage plus 10 more damage for each heads."
+      },
+      "name": {
+        "en": "Aqua Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/SH8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/SH8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/SH8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Relicanth"
+  },
+  "number": "SH8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

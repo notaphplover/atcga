@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon that has Team Magma in its name and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+      },
+      "name": {
+        "en": "Aqua Reverse"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Deep Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Crawdaunt"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "water",
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

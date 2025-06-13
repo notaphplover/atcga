@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose a card from your hand and put it on top of your deck. Then, search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward. This power can't be used if Bronzong is affected by a Special Condition.",
+  "abilityName": "Cycler",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If you have the same number of cards in your hand as your opponent, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Strange Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bronzong"
+  },
+  "number": "13",
+  "rarity": "r",
+  "resistance": [
+    "fire"
+  ],
+  "retreat": 3,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

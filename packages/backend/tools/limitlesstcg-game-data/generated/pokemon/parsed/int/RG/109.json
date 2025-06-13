@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip 2 coins. For each heads, choose 1 Energy attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Twister"
+      }
+    },
+    {
+      "cost": "wwccc",
+      "dmg": "100",
+      "effect": {},
+      "name": {
+        "en": "Dragon Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados ex"
+  },
+  "number": "109",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

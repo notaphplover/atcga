@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札から「ヌケニン」を1枚選び、ベンチに出す。そして山札を切る。",
+  "abilityName": "からぬけ",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "jp": "このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "すいとる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4/S4_5_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4/S4_5_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4/S4_5_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "テッカニン"
+  },
+  "number": "5",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 0,
+  "set": "S4",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

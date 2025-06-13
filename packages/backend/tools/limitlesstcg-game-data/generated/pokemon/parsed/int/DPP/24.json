@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it."
+      },
+      "name": {
+        "en": "Spacial Rend"
+      }
+    },
+    {
+      "cost": "mmm",
+      "dmg": "80",
+      "effect": {
+        "en": "Search your discard pile for 3 Pokémon, show them to your opponent, and put them on top of your deck. Shuffle your deck afterward. (If you don't have 3 Pokémon in your discard pile, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Roar of Time"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Darkrai"
+  },
+  "number": "24",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "DPP",
+  "stage": "basic",
+  "traitEffect": "If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn.",
+  "traitName": "Enigma Berry",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

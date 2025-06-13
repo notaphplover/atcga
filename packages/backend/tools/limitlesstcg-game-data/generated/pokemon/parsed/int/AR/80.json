@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Glide"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your next turn, Wingull can't use Slashing Strike."
+      },
+      "name": {
+        "en": "Slashing Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/80_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/80.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/80.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wingull"
+  },
+  "number": "80",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

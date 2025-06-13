@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can't be used if Infernape is affected by a Special Condition.",
+  "abilityName": "Burning Head",
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "150",
+      "effect": {
+        "en": "Search your discard pile for 8 [R] Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 [R] Energy cards in your discard pile.)"
+      },
+      "name": {
+        "en": "Flare Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Infernape LV.X"
+  },
+  "number": "10",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

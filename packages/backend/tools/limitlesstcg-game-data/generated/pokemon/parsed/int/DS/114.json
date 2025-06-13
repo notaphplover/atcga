@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done to Azumarill by attacks from [R] Pokémon and [W] Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+  "abilityName": "Thick Fat",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubblebeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/114_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/114.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/114.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Azumarill"
+  },
+  "number": "114",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

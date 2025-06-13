@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Suicune from your hand onto your Bench, you may search your discard pile for up to 3 [W] Pokémon, show them to your opponent, and put them into your hand.",
+  "abilityName": "Aqua Recover",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Cure Stream"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Suicune"
+  },
+  "number": "19",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

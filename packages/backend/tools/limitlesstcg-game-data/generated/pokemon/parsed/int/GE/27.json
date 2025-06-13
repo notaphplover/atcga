@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Primeape has any damage counters on it, Primeape's attacks do 40 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Anger Point",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Primeape is now Confused. Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Whump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Primeape"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

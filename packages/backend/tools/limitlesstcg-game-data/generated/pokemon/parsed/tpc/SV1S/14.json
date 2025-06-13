@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "100",
+      "effect": {},
+      "name": {
+        "jp": "たきのぼり"
+      }
+    },
+    {
+      "cost": "wwwcc",
+      "dmg": "180+",
+      "effect": {
+        "jp": "相手のバトルポケモンにダメカンがのっているなら、180ダメージ追加。"
+      },
+      "name": {
+        "jp": "タイラントテール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 300,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1S/SV1S_14_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1S/SV1S_14_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1S/SV1S_14_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギャラドスex"
+  },
+  "number": "14",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SV1S",
+  "stage": "stage1",
+  "traitEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "traitName": "テラスタル",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

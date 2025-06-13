@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "自分の番に1回使える。相手の場のポケモン1匹にのっているダメカンを2個まで選び、相手の別のポケモン1匹にのせ替える。",
+  "abilityName": "ペインスプーン",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20×",
+      "effect": {
+        "jp": "相手の手札の枚数×20ダメージ。"
+      },
+      "name": {
+        "jp": "マインドルーラー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVK/SVK_5_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVK/SVK_5_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVK/SVK_5_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "かがやくフーディン"
+  },
+  "number": "5",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SVK",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 more damage.",
+        "fr": "Si le Pokémon Défenseur est affecté par un État Spécial, cette attaque inflige 50 dégâts supplémentaires.",
+        "de": "Wenn das Verteidigende Pokémon von einem Speziellen Zustand betroffen ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon difensore è influenzato da una condizione speciale, questo attacco infligge 50 danni in più.",
+        "es": "Si el Pokémon Defensor se ve afectado por una Condición Especial, este ataque hace 50 puntos de daño más."
+      },
+      "name": {
+        "en": "Hex",
+        "fr": "Châtiment",
+        "de": "Bürde",
+        "it": "Sciagura",
+        "es": "Infortunio"
+      }
+    },
+    {
+      "cost": "ppcc",
+      "dmg": "90",
+      "effect": {
+        "en": "Discard a random card from your opponent's hand.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Nimm 1 zufällige Karte aus der verdeckten Hand deines Gegners und lege sie auf dessen Ablagestapel.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario.",
+        "es": "Descarta una carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Shadow Claw",
+        "fr": "Griffe Ombre",
+        "de": "Dunkelklaue",
+        "it": "Ombrartigli",
+        "es": "Garra Umbría"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_062_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giratina",
+    "fr": "Giratina",
+    "de": "Giratina",
+    "it": "Giratina",
+    "pt": "Giratina",
+    "es": "Giratina"
+  },
+  "number": "62",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLS",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

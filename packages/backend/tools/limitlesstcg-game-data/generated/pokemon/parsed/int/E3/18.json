@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Magcargo from your hand to evolve your Active Pokémon, you may discard the top 3 cards of your deck and and then shuffle 3 basic Energy cards from your discard pile into your deck. If you do, your opponent does the same.",
+  "abilityName": "Streaming Mantle",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard a [R] or [F] basic Energy card attached to Magcargo. If you discard a [R] Energy card in this way, the Defending Pokémon is now Burned. If you discard a [F] Energy card in this way, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Crushing Lava"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

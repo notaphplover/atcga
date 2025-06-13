@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Ram"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/101_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/101.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/101.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Turtwig"
+  },
+  "number": "101",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

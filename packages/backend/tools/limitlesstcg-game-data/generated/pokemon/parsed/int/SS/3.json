@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Cradily is your Active Pokémon, your opponent's Pokémon can't retreat.",
+  "abilityName": "Super Suction Cups",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Remove 2 damage counters from Cradily (remove 1 if there is only 1)."
+      },
+      "name": {
+        "en": "Spiral Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cradily"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

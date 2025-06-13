@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "When you play Giovanni's Persian from your hand, you may search your deck for the Trainer card named Giovanni, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+  "abilityName": "Call the Boss",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage; if tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Ambush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Persian"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 0,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

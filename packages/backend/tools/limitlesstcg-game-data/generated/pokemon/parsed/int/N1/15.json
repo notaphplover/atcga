@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage; if tails, this attack does 30 damage."
+      },
+      "name": {
+        "en": "Tail Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Steelix"
+  },
+  "number": "15",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

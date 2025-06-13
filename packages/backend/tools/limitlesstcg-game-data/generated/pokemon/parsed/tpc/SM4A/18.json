@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、相手は手札から、「ポケモンのどうぐ」「特殊エネルギー」を出してつけられず「スタジアム」も出せない。"
+      },
+      "name": {
+        "jp": "カオスウィール"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "20×",
+      "effect": {
+        "jp": "相手の手札の枚数x20ダメージ。"
+      },
+      "name": {
+        "jp": "くろまじゅつ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4A/SM4A_18_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4A/SM4A_18_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4A/SM4A_18_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ムウマージ"
+  },
+  "number": "18",
+  "rarity": "u",
+  "regulation": "a",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SM4A",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

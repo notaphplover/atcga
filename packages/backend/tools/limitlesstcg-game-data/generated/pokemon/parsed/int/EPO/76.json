@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30",
+      "effect": {
+        "en": "Attach an Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie de votre pile de défausse à ce Pokémon.",
+        "de": "Nimm 1 Energiekarte von deinem Ablagestapel und lege sie an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia dalla tua pila degli scarti.",
+        "es": "Une una carta de Energía de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Charge Beam",
+        "fr": "Rayon Chargé",
+        "de": "Ladestrahl",
+        "it": "Raggioscossa",
+        "es": "Rayo Carga"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin. If tails, this Pokémon can't use Zap Cannon during your next turn.",
+        "fr": "Lancez une pièce. Si c'est pile, ce Pokémon ne peut pas utiliser Élecanon pendant votre prochain tour.",
+        "de": "Wirf 1 Münze. Bei „Zahl“ kann dieses Pokémon Blitzkanone während deines nächsten Zuges nicht einsetzen.",
+        "it": "Lancia una moneta. Se esce croce, durante il tuo prossimo turno, questo Pokémon non può usare Falcecannone.",
+        "es": "Lanza una moneda. Si sale cruz, este Pokémon no puede usar Electrocañón durante tu próximo turno."
+      },
+      "name": {
+        "en": "Zap Cannon",
+        "fr": "Élecanon",
+        "de": "Blitzkanone",
+        "it": "Falcecannone",
+        "es": "Electrocañón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_076_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Klinklang",
+    "fr": "Cliticlic",
+    "de": "Klikdiklak",
+    "it": "Klinklang",
+    "pt": "Klinklang",
+    "es": "Klinklang"
+  },
+  "number": "76",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "EPO",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

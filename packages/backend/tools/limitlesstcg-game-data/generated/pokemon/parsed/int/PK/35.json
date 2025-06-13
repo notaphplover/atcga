@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Metang can't be affected by any Special Conditions.",
+  "abilityName": "Clear Body",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30+",
+      "effect": {
+        "en": "During your next turn, Extra Comet Punch does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Extra Comet Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metang"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Prevent all damage done to your Benched Pokémon (excluding any Manectric) by attacks.",
+  "abilityName": "Electric Barrier",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Search your deck for a [L] Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Attract Current"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Manectric"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a [R] Energy from your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie [R] du Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 [R]-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia [R] assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía [R] del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Firefighting",
+        "fr": "Anti-Flammes",
+        "de": "Feuerwehr",
+        "it": "Estinzione",
+        "es": "Antiincendios"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Water Pulse",
+        "fr": "Vibraqua",
+        "de": "Aquawelle",
+        "it": "Idropulsar",
+        "es": "Hidropulso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_112_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pelipper",
+    "fr": "Bekipan",
+    "de": "Pelipper",
+    "it": "Pelipper",
+    "pt": "Pelipper",
+    "es": "Pelipper"
+  },
+  "number": "112",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "CES",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

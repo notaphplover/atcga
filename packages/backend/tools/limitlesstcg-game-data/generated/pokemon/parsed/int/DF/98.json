@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. Salamence ex's type is [R] until the end of your turn.",
+  "abilityName": "Type Shift",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Claw Swipe"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "You may do up to 40 damage instead of 80 to the Defending Pokémon. If you do, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Dual Stream"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [
+    "fire",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

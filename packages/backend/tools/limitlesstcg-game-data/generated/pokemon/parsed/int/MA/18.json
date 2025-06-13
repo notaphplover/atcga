@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Slow-Acting Poison"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Aqua Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Sharpedo"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may shuffle it and all cards attached to it into your deck.",
+  "abilityName": "Phantom Winds",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "120",
+      "effect": {
+        "en": "During your opponent's next turn, the Defending Pokémon's attacks do 30 less damage (before applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, les attaques du Pokémon Défenseur infligent 30 dégâts de moins (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon 30 Schadenspunkte weniger zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il prossimo turno del tuo avversario, gli attacchi del Pokémon difensore infliggono 30 danni in meno, prima di aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen 30 puntos de daño menos (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Cure Stream",
+        "fr": "Ruisseau Guérisseur",
+        "de": "Heilfluss",
+        "it": "Flusso Curativo",
+        "es": "Arroyo Curativo"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "150",
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Échangez ce Pokémon avec l'un de vos Pokémon de Banc. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scambia questo Pokémon con uno della tua panchina. Non puoi usare più di un attacco GX a partita.",
+        "es": "Cambia este Pokémon por 1 de tus Pokémon en Banca. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Brinicles-GX",
+        "fr": "Brinicles-GX",
+        "de": "Eisfinger-GX",
+        "it": "Ghiacci Salmastri-GX",
+        "es": "Estalactita Oceánica-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_220_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Suicune-GX",
+    "fr": "Suicune-GX",
+    "de": "Suicune-GX",
+    "it": "Suicune-GX",
+    "pt": "Suicune-GX",
+    "es": "Suicune-GX"
+  },
+  "number": "220",
+  "rarity": "rar",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LOT",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

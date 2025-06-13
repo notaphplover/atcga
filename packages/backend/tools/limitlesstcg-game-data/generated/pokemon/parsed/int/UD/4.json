@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "en": "If, before Gliscor does damage, the Defending Pokémon has no damage counters on it and is then damaged by this attack (after applying Weakness and Resistance), the Defending Pokémon is now Paralyzed.",
+        "fr": "Si, avant que Scorvol n'inflige de dégâts, le Pokémon Défenseur n'a aucun marqueur de dégât et qu'il subit ensuite des dégâts à cause de cette attaque (après application de la Faiblesse et de la Résistance), il est maintenant Paralysé.",
+        "de": "Falls auf dem Verteidigenden Pokémon vor durch Skorgro zugefügtem Schaden keine Schadensmarken liegen, und ihm durch diesen Angriff Schaden zugefügt wird (nachdem Schwäche und Resistenz verrechnet wurden), ist das Verteidigende Pokémon jetzt gelähmt.",
+        "it": "Se il Pokémon Difensore non ha segnalini danno su di sé prima che Gliscor infligga danni, e viene poi danneggiato da questo attacco (dopo aver applicato Debolezza e Resistenza), il Pokémon Difensore è Paralizzato."
+      },
+      "name": {
+        "en": "Ninja Fang",
+        "fr": "Croc Ninja",
+        "de": "Ninjafang",
+        "it": "Zanna Ninja"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Il Pokémon Difensore è Avvelenato."
+      },
+      "name": {
+        "en": "Poison Jab",
+        "fr": "Direct Toxik",
+        "de": "Gifthieb",
+        "it": "Velenpuntura"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_004_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gliscor",
+    "fr": "Scorvol",
+    "de": "Skorgro",
+    "it": "Gliscor",
+    "pt": "Gliscor",
+    "es": "Gliscor"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "UD",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Metang has any [M] Energy attached to it, the Retreat Cost for Metang is 0.",
+  "abilityName": "Metallic Lift",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/69_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/69.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/69.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metang"
+  },
+  "number": "69",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

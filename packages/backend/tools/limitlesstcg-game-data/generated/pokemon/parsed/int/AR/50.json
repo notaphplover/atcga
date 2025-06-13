@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Hang Down"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If you have Wormadam Trash Cloak in play, this attack does 60 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Cloak Headbutt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wormadam Sandy Cloak"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

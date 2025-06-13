@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "As long as your opponent has Kyogre, Kyogre ex, Groudon, or Groudon ex in play, Rayquaza ex's attacks do 40 damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Frenzy",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dragon Bind"
+      }
+    },
+    {
+      "cost": "rlc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Twister"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza ex"
+  },
+  "number": "39",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10+",
+      "effect": {
+        "jp": "相手のバトルポケモンが「ポケモンex」なら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダイナブラスト"
+      }
+    },
+    {
+      "cost": "rdd",
+      "dmg": "230",
+      "effect": {
+        "jp": "場に出ているスタジアムをトラッシュする。トラッシュできないなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "ワールドエンド"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_80_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_80_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_80_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ムゲンダイナ"
+  },
+  "number": "80",
+  "rarity": "r",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV8",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": []
+}

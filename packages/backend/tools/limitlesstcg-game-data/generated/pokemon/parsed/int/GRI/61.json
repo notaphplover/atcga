@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "40×",
+      "effect": {
+        "en": "This attack does 40 damage times the amount of [P] Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 40 dégâts multipliés par le nombre d'Énergies [P] attachées à ce Pokémon.",
+        "de": "Diese Attacke fügt 40 Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten [P]-Energien zu.",
+        "it": "Questo attacco infligge 40 danni per ogni Energia [P] assegnata a questo Pokémon.",
+        "es": "Este ataque hace 40 puntos de daño por cada Energía [P] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Shatter Shot",
+        "fr": "Coup Fracassant",
+        "de": "Splitterschuss",
+        "it": "Frantumacolpo",
+        "es": "Proyectil Estallido"
+      }
+    },
+    {
+      "cost": "ppp",
+      "dmg": "130",
+      "effect": {
+        "en": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like.",
+        "fr": "Déplacez toutes les Énergies de ce Pokémon vers vos Pokémon de Banc, de la manière que vous voulez.",
+        "de": "Verschiebe alle Energien von diesem Pokémon beliebig auf die Pokémon auf deiner Bank.",
+        "it": "Sposta a piacimento tutte le Energie da questo Pokémon a quelli nella tua panchina.",
+        "es": "Mueve todas las Energías de este Pokémon a tus Pokémon en Banca de la manera que desees."
+      },
+      "name": {
+        "en": "Wings of the Moone",
+        "fr": "Ailes du Halo Lunaire",
+        "de": "Mondscheiben-Flügel",
+        "it": "Ali Lunari",
+        "es": "Alas de la Luna"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_061_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lunala",
+    "fr": "Lunala",
+    "de": "Lunala",
+    "it": "Lunala",
+    "pt": "Lunala",
+    "es": "Lunala"
+  },
+  "number": "61",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "GRI",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

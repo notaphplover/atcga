@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin until you get tails. For each heads, search your discard pile for a basic [R] Energy card or a basic [L] Energy card and attach it to Rayquaza. This power can't be used if Rayquaza is affected by a Special Condition or if you have another Rayquaza in play.",
+  "abilityName": "Speed Gain",
+  "attacks": [
+    {
+      "cost": "rrll",
+      "dmg": "150",
+      "effect": {
+        "en": "Discard all Energy attached to Rayquaza."
+      },
+      "name": {
+        "en": "Sky Judgement"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

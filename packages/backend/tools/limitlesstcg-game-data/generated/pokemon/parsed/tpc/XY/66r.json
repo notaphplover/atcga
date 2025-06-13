@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分のたねポケモンについている基本エネルギーは、相手のワザ・特性・トレーナーズのトラッシュする効果を受けない。",
+  "abilityName": "エナジーキーパー",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ストーンエッジ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_66r_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_66r_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_66r_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メレシー"
+  },
+  "number": "66r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

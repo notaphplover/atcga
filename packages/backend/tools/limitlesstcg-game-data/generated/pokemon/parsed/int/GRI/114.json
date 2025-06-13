@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "As long as this Pokémon is your Active Pokémon, whenever you attach an Energy from your hand to it, it is now Asleep.",
+  "abilityName": "Comatose",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {
+        "en": "This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing.",
+        "fr": "Cette attaque peut être utilisée si ce Pokémon est Endormi. S'il n'est pas Endormi, cette attaque ne fait rien.",
+        "de": "Diese Attacke kann eingesetzt werden, wenn dieses Pokémon schläft. Wenn es nicht schläft, hat diese Attacke keine Auswirkungen.",
+        "it": "Questo attacco può essere usato se questo Pokémon è addormentato. Se non lo è, questo attacco non ha effetto.",
+        "es": "Este ataque se puede usar si este Pokémon está Dormido. Si no está Dormido, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Hypno Roll",
+        "fr": "Roulade Hypnotique",
+        "de": "Hypnorolle",
+        "it": "Rotolata Ipnotica",
+        "es": "Vuelta Hipnótica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_114_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Komala",
+    "fr": "Dodoala",
+    "de": "Koalelu",
+    "it": "Komala",
+    "pt": "Komala",
+    "es": "Komala"
+  },
+  "number": "114",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GRI",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

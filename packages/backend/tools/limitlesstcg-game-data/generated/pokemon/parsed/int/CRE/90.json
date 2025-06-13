@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Este ataque também causa 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Sand Pulse",
+        "fr": "Vibra Sable",
+        "de": "Sandimpuls",
+        "it": "Silicopulsar",
+        "pt": "Pulso de Areia",
+        "es": "Pulso de Arena"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "180",
+      "effect": {
+        "en": "Move any amount of Energy from your Pokémon to your other Pokémon in any way you like.",
+        "fr": "Déplacez autant de cartes Énergie attachées à vos Pokémon que vous le voulez vers vos autres Pokémon, comme il vous plaît.",
+        "de": "Verschiebe beliebig viele Energien von deinen Pokémon beliebig auf deine anderen Pokémon.",
+        "it": "Sposta un numero qualsiasi di Energie dall'uno all'altro dei tuoi Pokémon nel modo che preferisci.",
+        "pt": "Mova qualquer quantidade de Energia dos seus Pokémon para outros Pokémon seus como desejar.",
+        "es": "Mueve cualquier cantidad de Energías de tus Pokémon a tus otros Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "G-Max Cyclone",
+        "fr": "Tourbillon G-Max",
+        "de": "Giga-Wirbel",
+        "it": "Gigatornado",
+        "pt": "Ciclone G-Max",
+        "es": "Gigaciclón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_090_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandaconda VMAX",
+    "fr": "Dunaconda VMAX",
+    "de": "Sanaconda VMAX",
+    "it": "Sandaconda VMAX",
+    "pt": "Sandaconda VMAX",
+    "es": "Sandaconda VMAX"
+  },
+  "number": "90",
+  "rarity": "rrr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CRE",
+  "stage": "vmax",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

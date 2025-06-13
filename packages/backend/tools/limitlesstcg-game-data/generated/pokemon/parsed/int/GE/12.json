@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dragonbreath"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Altaria by attacks from your opponent's Evolved Pokémon is reduced by 30 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Cotton Cloud"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Altaria"
+  },
+  "number": "12",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

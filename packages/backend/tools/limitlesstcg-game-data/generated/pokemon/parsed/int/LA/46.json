@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Anorith by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Guard Claw"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "X-Scissor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Anorith"
+  },
+  "number": "46",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

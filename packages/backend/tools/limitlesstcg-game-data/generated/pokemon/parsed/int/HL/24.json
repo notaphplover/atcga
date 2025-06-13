@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Relicanth is your Active Pokémon, a player flips 2 coins for each of his or her Pokémon that is Asleep between turns. If either coin is tails, that Pokémon is still Asleep.",
+  "abilityName": "Deep Sleep",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Yawn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Relicanth"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

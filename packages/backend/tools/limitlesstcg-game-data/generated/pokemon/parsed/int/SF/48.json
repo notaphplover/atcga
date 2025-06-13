@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Sableye is your Active Pokémon at the beginning of the game, you go first. (If each player's Active Pokémon has the Overeager Poké-Body, this power does nothing.)",
+  "abilityName": "Overeager",
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon has fewer remaining HP than Sableye, this attack's base damage is 40."
+      },
+      "name": {
+        "en": "Overconfident"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sableye"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

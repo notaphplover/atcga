@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Boulder Crush",
+        "fr": "Rocher Écrasant",
+        "de": "Felsenquetscher",
+        "it": "Macignata",
+        "es": "Alud de Rocas"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "100",
+      "effect": {
+        "en": "This Pokémon can't use Sacred Sword during your next turn.",
+        "fr": "Ce Pokémon ne peut pas utiliser Lame Sainte pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann während deines nächsten Zuges Sanctoklinge nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Spadasolenne.",
+        "es": "Este Pokémon no puede usar Espadasanta durante tu próximo turno."
+      },
+      "name": {
+        "en": "Sacred Sword",
+        "fr": "Lame Sainte",
+        "de": "Sanctoklinge",
+        "it": "Spadasolenne",
+        "es": "Espadasanta"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_063_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Terrakion",
+    "fr": "Terrakium",
+    "de": "Terrakium",
+    "it": "Terrakion",
+    "pt": "Terrakion",
+    "es": "Terrakion"
+  },
+  "number": "63",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "EPO",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

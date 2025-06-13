@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "はばたく"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "自分のベンチに「テラスタル」のポケモンがいるなら、100ダメージ追加。"
+      },
+      "name": {
+        "jp": "シャインブレイズ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVLS/SVLS_3_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVLS/SVLS_3_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVLS/SVLS_3_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ホウオウ"
+  },
+  "number": "3",
+  "regulation": "h",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SVLS",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

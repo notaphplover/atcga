@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "As long as Walrein ex is your Active Pokémon, put 1 damage counter on each Active Pokémon (both yours and your opponent's) between turns, excluding [W] Pokémon.",
+  "abilityName": "Icy Aura",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "If the Defending Pokémon is a [F] Pokémon, this attack's base damage is 120 instead of 80."
+      },
+      "name": {
+        "en": "Ice Throw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/89_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/89.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/89.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Walrein ex"
+  },
+  "number": "89",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LM",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "fighting",
+    "metal"
+  ]
+}

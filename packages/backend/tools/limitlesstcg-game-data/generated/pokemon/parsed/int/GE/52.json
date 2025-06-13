@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't play any Trainer cards from his or her hand during your opponent's next turn."
+      },
+      "name": {
+        "en": "Tail Blade"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage and the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seviper"
+  },
+  "number": "52",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

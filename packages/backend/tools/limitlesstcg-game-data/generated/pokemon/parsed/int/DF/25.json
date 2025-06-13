@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Each of your Stage 2 Pokémon-ex does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Extra Feather",
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Xatu"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DF",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

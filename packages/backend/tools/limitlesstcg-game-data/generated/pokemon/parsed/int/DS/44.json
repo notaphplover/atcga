@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as you have more Prize cards left than your opponent, each of Hariyama's attacks does 20 more damage to the Active Pokémon (before applying Weakness and Resistance) and damage done by the Active Pokémon to Hariyama is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Reversal Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Slap Push"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Brick Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hariyama"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

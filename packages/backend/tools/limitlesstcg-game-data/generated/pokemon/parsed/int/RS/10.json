@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Mightyena is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+  "abilityName": "Intimidating Fang",
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Shakedown"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mightyena"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

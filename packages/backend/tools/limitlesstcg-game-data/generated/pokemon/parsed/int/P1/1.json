@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Fire Punch"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop1/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop1/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop1/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaziken"
+  },
+  "number": "1",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "P1",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

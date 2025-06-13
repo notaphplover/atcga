@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分のトラッシュにある[炎]エネルギーを1枚、ベンチポケモンにつける。",
+  "abilityName": "たきつける",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "90",
+      "effect": {
+        "jp": "このポケモンについている[炎]エネルギーを1個トラッシュし、相手のベンチポケモン全員にも、それぞれ20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "ファイヤーストリーム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_13_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_13_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_13_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バシャーモ"
+  },
+  "number": "13",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM6b",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

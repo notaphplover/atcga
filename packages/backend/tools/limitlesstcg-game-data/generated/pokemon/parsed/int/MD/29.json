@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30+",
+      "effect": {
+        "en": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 50 more damage."
+      },
+      "name": {
+        "en": "Special Blow"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "X-Scissor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scizor"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

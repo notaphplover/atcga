@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "60",
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "fr": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc. Dans ce cas, envoyez le Pokémon Actif de l'adversaire sur le Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus. Wenn du das machst, wechsle das Aktive Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
+        "it": "Scambia questo Pokémon con uno della tua panchina. Se lo fai, sposta il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo.",
+        "pt": "Troque este Pokémon por 1 dos seus Pokémon no Banco. Se fizer isto, mande o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
+        "es": "Cambia este Pokémon por uno de tus Pokémon en Banca. Si lo haces, mueve el Pokémon Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo)."
+      },
+      "name": {
+        "en": "Exciting Dance",
+        "fr": "Danse Palpitante",
+        "de": "Mitreißender Tanz",
+        "it": "Danza Coinvolgente",
+        "pt": "Samba Empolgante",
+        "es": "Baile Apasionante"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "230",
+      "effect": {
+        "en": "Put 2 Energy attached to this Pokémon into your hand.",
+        "fr": "Ajoutez à votre main 2 Énergies attachées à ce Pokémon.",
+        "de": "Nimm 2 an dieses Pokémon angelegte Energien auf deine Hand.",
+        "it": "Prendi due Energie assegnate a questo Pokémon e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque 2 Energias ligadas a este Pokémon na sua mão.",
+        "es": "Pon 2 Energías unidas a este Pokémon en tu mano."
+      },
+      "name": {
+        "en": "Spiral Shot",
+        "fr": "Tir en Spirale",
+        "de": "Spiralschuss",
+        "it": "Spiralcolpo",
+        "pt": "Disparo Espiral",
+        "es": "Lanzamiento en Espiral"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_235_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quaquaval ex",
+    "fr": "Palmaval-ex",
+    "de": "Bailonda-ex",
+    "it": "Quaquaval-ex",
+    "pt": "Quaquaval ex",
+    "es": "Quaquaval ex"
+  },
+  "number": "235",
+  "rarity": "ur",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PAL",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Mud Spatter"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Endeavor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/80_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/80.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/80.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mudkip"
+  },
+  "number": "80",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

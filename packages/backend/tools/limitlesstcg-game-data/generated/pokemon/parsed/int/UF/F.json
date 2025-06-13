@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Unown and switch it with Unown. (Any cards attached to Unown, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Unown on top of your deck. Shuffle your deck afterward. You can't use more than 1 Shuffle Poké-Power each turn.",
+  "abilityName": "Shuffle",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip 3 coins. If 1 of them is heads, the Defending Pokémon is now Asleep. If 2 of them are heads, the Defending Pokémon is now Confused. If all of them are heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Hidden Power F"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/F_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/F.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/F.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown"
+  },
+  "number": "F",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

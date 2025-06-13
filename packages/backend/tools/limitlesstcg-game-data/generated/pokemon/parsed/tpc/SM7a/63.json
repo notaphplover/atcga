@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、[雷]エネルギーがついている自分のポケモン全員のにげるためのエネルギーは、すべてなくなる。",
+  "abilityName": "じんらいゾーン",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "160",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "プラズマフィスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_63_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_63_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_63_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゼラオラGX"
+  },
+  "number": "63",
+  "rarity": "sr",
+  "regulation": "b",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SM7a",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

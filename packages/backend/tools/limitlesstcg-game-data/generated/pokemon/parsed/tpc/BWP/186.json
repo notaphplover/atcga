@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについている[雷]エネルギーを1個選び、トラッシュしてよい。その場合、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "エレキガン"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "40×",
+      "effect": {
+        "jp": "コインを4回投げ、オモテの数x40ダメージ。"
+      },
+      "name": {
+        "jp": "ミサイルばり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_186_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_186_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_186_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サンダース"
+  },
+  "number": "186",
+  "resistance": [],
+  "retreat": 0,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

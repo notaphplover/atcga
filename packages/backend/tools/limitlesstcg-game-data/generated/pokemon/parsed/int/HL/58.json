@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done to Clamperl by attacks is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Exoskeleton",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/58_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/58.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/58.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Clamperl"
+  },
+  "number": "58",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

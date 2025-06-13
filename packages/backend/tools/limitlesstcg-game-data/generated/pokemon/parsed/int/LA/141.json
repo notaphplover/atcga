@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you put Gliscor LV.X from your hand onto your Active Gliscor, you may choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed and Poisoned.",
+  "abilityName": "Shoot Poison",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may switch Gliscor with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Night Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/141_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/141.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/141.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gliscor LV.X"
+  },
+  "number": "141",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "LA",
+  "stage": "lvx",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

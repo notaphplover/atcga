@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If this Pokémon has any damage counters on it, this attack does 50 more damage, and both Active Pokémon are now Confused.",
+        "fr": "Si des marqueurs de dégâts sont placés sur ce Pokémon, cette attaque inflige 50 dégâts supplémentaires, et les deux Pokémon Actifs sont maintenant Confus.",
+        "de": "Wenn auf diesem Pokémon mindestens 1 Schadensmarke liegt, fügt diese Attacke 50 Schadenspunkte mehr zu und beide Aktiven Pokémon sind jetzt verwirrt.",
+        "it": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 50 danni in più ed entrambi i Pokémon attivi vengono confusi.",
+        "es": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 50 puntos de daño más, y ambos Pokémon Activos pasan a estar Confundidos."
+      },
+      "name": {
+        "en": "Untamed Punch",
+        "fr": "Frappe Sauvage",
+        "de": "Wilder Schlag",
+        "it": "Pugno Prorompente",
+        "es": "Golpe Salvaje"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "80+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 more damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte mehr pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 40 danni in più ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 40 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Double Stomp",
+        "fr": "Double Écrasement",
+        "de": "Doppelstampfer",
+        "it": "Doppio Pestone",
+        "es": "Pisotón Doble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_078_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pangoro",
+    "fr": "Pandarbare",
+    "de": "Pandagro",
+    "it": "Pangoro",
+    "pt": "Pangoro",
+    "es": "Pangoro"
+  },
+  "number": "78",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "FLI",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

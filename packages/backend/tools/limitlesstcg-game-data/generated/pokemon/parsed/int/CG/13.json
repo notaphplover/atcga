@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Wigglytuff is your Active Pokémon and is damaged by an opponent's attack (even if Wigglytuff is Knocked Out), the Attacking Pokémon is now Asleep.",
+  "abilityName": "Fluffy Fur",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Pester"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wigglytuff"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

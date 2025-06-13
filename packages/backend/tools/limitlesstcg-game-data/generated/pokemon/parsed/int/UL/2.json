@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Discard the top 3 cards from your deck. This attack does 50 damage times the number of Energy cards you discarded.",
+        "fr": "Défaussez les 3 cartes du dessus de votre deck. Cette attaque inflige 50 dégâts multipliés par le nombre de cartes Énergie que vous avez défaussées.",
+        "de": "Lege die obersten drei Karten deines Decks auf deinen Ablagestapel. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl abgelegter Energiekarten zu.",
+        "it": "Scarta le prime 3 carte del tuo mazzo. Questo attacco infligge 50 danni per ogni carta Energia che hai scartato.",
+        "es": "Descarta las 3 primeras cartas de tu mazo. Este ataque hace 50 puntos de daño por cada carta de Energía que te descartes."
+      },
+      "name": {
+        "en": "Hard Crush",
+        "fr": "Écras'dur",
+        "de": "Heftiger Zermalmer",
+        "it": "Sgretolavigore",
+        "es": "Duro aplastamiento"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 2 [R] Energy attached to Magmortar.",
+        "fr": "Défaussez 2 cartes Énergie [R] attachées à Maganon.",
+        "de": "Lege 2 an Magbrant angelegte [R]-Energien auf deinen Ablagestapel.",
+        "it": "Scarta 2 Energie [R] assegnate a Magmortar.",
+        "es": "Descarta 2 cartas de Energía [R] unidas a Magmortar."
+      },
+      "name": {
+        "en": "Mantle Bazooka",
+        "fr": "Bazoocape",
+        "de": "Verhüllte Panzerfaust",
+        "it": "Manto Bazooka",
+        "es": "Bazooka manto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_002_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmortar",
+    "fr": "Maganon",
+    "de": "Magbrant",
+    "it": "Magmortar",
+    "pt": "Magmortar",
+    "es": "Magmortar"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UL",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

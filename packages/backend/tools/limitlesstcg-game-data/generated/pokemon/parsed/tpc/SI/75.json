@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、相手のやけどのポケモンは、ポケモンチェックのときに投げるコインがオモテでも、やけどは回復しない。",
+  "abilityName": "オーバーヒーター",
+  "attacks": [
+    {
+      "cost": "rrrc",
+      "dmg": "130",
+      "effect": {
+        "jp": "相手のバトルポケモンをやけどにする。"
+      },
+      "name": {
+        "jp": "バーストインフェルノ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_75_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_75_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_75_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マルヤクデ"
+  },
+  "number": "75",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SI",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

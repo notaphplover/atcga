@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "All damage done by attacks to Metapod is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Exoskeleton",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Rollout"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/87_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/87.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/87.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metapod"
+  },
+  "number": "87",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

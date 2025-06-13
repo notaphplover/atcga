@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Totodile."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/67_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/67.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/67.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Totodile"
+  },
+  "number": "67",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DF",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

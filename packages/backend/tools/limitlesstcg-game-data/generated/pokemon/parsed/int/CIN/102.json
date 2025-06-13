@@ -1,0 +1,102 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Hammer In",
+        "fr": "Enfoncement",
+        "de": "Einhämmern",
+        "it": "Martello",
+        "es": "Martillear"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "200",
+      "effect": {
+        "en": "This Pokémon does 50 damage to itself.",
+        "fr": "Ce Pokémon s'inflige 50 dégâts.",
+        "de": "Dieses Pokémon fügt sich selbst 50 Schadenspunkte zu.",
+        "it": "Questo Pokémon infligge 50 danni a se stesso.",
+        "es": "Este Pokémon se hace 50 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Super Electromagnetic Tackle",
+        "fr": "Super Charge Électromagnétique",
+        "de": "Superelektromagnetischer Rempl",
+        "it": "Azione Superelettromagnetica",
+        "es": "Placaje Superelectromagnético"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Your opponent can't play any cards from their hand during their next turn. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Votre adversaire ne peut pas jouer de carte de sa main pendant son prochain tour. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Dein Gegner kann während seines nächsten Zuges keine Karten aus seiner Hand spielen. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il tuo avversario non può giocare nessuna carta che ha in mano durante il suo prossimo turno. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Heavy Rock-GX",
+        "fr": "Lourd Rocher-GX",
+        "de": "Schwerer Felsen-GX",
+        "it": "Macigno Ponderoso-GX",
+        "es": "Roca Pesada-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 250,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_102_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Alolan Golem-GX",
+    "fr": "Grolem d'Alola-GX",
+    "de": "Alola-Geowaz-GX",
+    "it": "Golem di Alola-GX",
+    "pt": "Golem de Alola-GX",
+    "es": "Golem de Alola-GX"
+  },
+  "number": "102",
+  "rarity": "ur",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 4,
+  "set": "CIN",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

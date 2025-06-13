@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Wormadam Plant Cloak has 2 or more [G] Energy attached to it, Wormadam Plant Cloak gets +40 HP.",
+  "abilityName": "Plant Cloak",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "en": "If the Defending Pokémon has fewer remaining HP than Wormadam Plant Cloak, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Leaf Hurricane"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wormadam Plant Cloak"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Hammer In",
+        "fr": "Enfoncement",
+        "de": "Einhämmern",
+        "it": "Martello",
+        "pt": "Martelada",
+        "es": "Martillear"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "200-",
+      "effect": {
+        "en": "This attack does 20 less damage for each damage counter on this Pokémon.",
+        "fr": "Cette attaque inflige 20 dégâts de moins pour chaque marqueur de dégâts sur ce Pokémon.",
+        "de": "Diese Attacke fügt für jede Schadensmarke auf diesem Pokémon 20 Schadenspunkte weniger zu.",
+        "it": "Questo attacco infligge 20 danni in meno per ogni segnalino danno presente su questo Pokémon.",
+        "pt": "Este ataque causa 20 pontos de dano a menos para cada contador de dano neste Pokémon.",
+        "es": "Este ataque hace 20 puntos de daño menos por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Sweeping Tackle",
+        "fr": "Charge Balayante",
+        "de": "Fege-Tackle",
+        "it": "Spazzazione",
+        "pt": "Investida Esmagadora",
+        "es": "Placaje Barrido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_060_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cetitan",
+    "fr": "Balbalèze",
+    "de": "Kolowal",
+    "it": "Cetitan",
+    "pt": "Cetitan",
+    "es": "Cetitan"
+  },
+  "number": "60",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SVI",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched [G] Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Brushfire"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a [R] Energy card from your hand. (If you can't discard a card from your hand, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Inflame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/SH6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/SH6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/SH6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vulpix"
+  },
+  "number": "SH6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

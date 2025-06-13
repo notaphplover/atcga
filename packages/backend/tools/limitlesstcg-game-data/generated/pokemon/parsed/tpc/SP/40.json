@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、相手の手札からオモテを見ないで1枚選び、そのカードのオモテを見てから、相手の山札の下にもどす。",
+  "abilityName": "びっくりポット",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "100",
+      "effect": {
+        "jp": "相手のバトルポケモンをこんらんにする。"
+      },
+      "name": {
+        "jp": "サイコトリップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_40_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_40_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_40_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ポットデスV"
+  },
+  "number": "40",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

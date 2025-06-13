@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Entei from your hand, you may discard the top 5 cards of your deck. (If you have fewer cards in your deck than that, discard all of them.) If any of those are [R] Energy cards, attach them to any of your [R] Pokémon of your choice. Using this power ends your turn.",
+  "abilityName": "Howl",
+  "attacks": [
+    {
+      "cost": "rrr",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard 2 [R] Energy cards attached to Entei or this attack does nothing."
+      },
+      "name": {
+        "en": "Searing Flames"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Entei"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Sharp Point"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "All damage done by attacks to Sabrina's Porygon during your opponent's next turn is reduced by 10 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Barrier Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Porygon"
+  },
+  "number": "98",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

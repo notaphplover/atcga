@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "Once during your turn, if this Pokémon is in the Active Spot, you may put 1 damage counter on each of your opponent's Pokémon.",
+  "abilityName": "Eerie Beam",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "50+",
+      "effect": {
+        "en": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "fr": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 50 Schadenspunkte mehr zu.",
+        "de": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 50 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 50 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
+        "pt": "Este ataque causa 50 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+        "es": "Este ataque hace 50 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "G-Max Wave",
+        "fr": "Giga-Welle",
+        "de": "Giga-Welle",
+        "it": "Gigaonda",
+        "pt": "Onda G-Max",
+        "es": "Gigaonda"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 310,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_186_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Orbeetle VMAX",
+    "fr": "Astronelle VMAX",
+    "de": "Maritellit VMAX",
+    "it": "Orbeetle VMAX",
+    "pt": "Orbeetle VMAX",
+    "es": "Orbeetle VMAX"
+  },
+  "number": "186",
+  "rarity": "rar",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "VIV",
+  "stage": "vmax",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

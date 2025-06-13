@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thunder Wave"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to Manectric and this attack does 40 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Volt Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Manectric"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

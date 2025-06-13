@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Flash"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each [L] Energy attached to Electrode. Flip a coin. If tails, discard all [L] Energy attached to Electrode."
+      },
+      "name": {
+        "en": "Electro Diffusion"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

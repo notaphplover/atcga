@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon does 20 damage to itself.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts supplémentaires. Si c'est pile, ce Pokémon s'inflige 20 dégâts.",
+        "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu. Bei Zahl fügt dieses Pokémon sich selbst 20 Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più. Se esce croce, questo Pokémon infligge 20 danni a se stesso.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más. Si sale cruz, este Pokémon se hace 20 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Thunder Punch",
+        "fr": "Poing-Éclair",
+        "de": "Donnerschlag",
+        "it": "Tuonopugno",
+        "es": "Puño Trueno"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "170",
+      "effect": {
+        "en": "This Pokémon can't attack during your next turn.",
+        "fr": "Ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.",
+        "it": "Questo Pokémon non può attaccare durante il tuo prossimo turno.",
+        "es": "Este Pokémon no puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Giga Impact",
+        "fr": "Giga Impact",
+        "de": "Gigastoß",
+        "it": "Gigaimpatto",
+        "es": "Giga Impacto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_043_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electivire",
+    "fr": "Élekable",
+    "de": "Elevoltek",
+    "it": "Electivire",
+    "pt": "Electivire",
+    "es": "Electivire"
+  },
+  "number": "43",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 4,
+  "set": "BUS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

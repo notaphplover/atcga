@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "dd",
+      "dmg": "50×",
+      "effect": {
+        "en": "This attack does 50 damage for each Energy attached to all of your opponent's Pokémon.",
+        "fr": "Cette attaque inflige 50 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire.",
+        "de": "Diese Attacke fügt für jede an alle Pokémon deines Gegners angelegte Energie 50 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 50 danni per ogni Energia assegnata ai Pokémon del tuo avversario.",
+        "pt": "Este ataque causa 50 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente.",
+        "es": "Este ataque hace 50 puntos de daño por cada Energía unida a cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Energy Crush",
+        "fr": "Écras'Énergie",
+        "de": "Zermalmende Energie",
+        "it": "Sgretolenergia",
+        "pt": "Esmagamento de Energia",
+        "es": "Comprimir Energía"
+      }
+    },
+    {
+      "cost": "ddd",
+      "dmg": "200",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't use Bandit's Fist.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Poing de Bandit.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon Banditenfaust nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Pugno del Malandrino.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá usar Punho Bandido.",
+        "es": "Durante tu próximo turno, este Pokémon no puede usar Puño Bandido."
+      },
+      "name": {
+        "en": "Bandit's Fist",
+        "fr": "Poing de Bandit",
+        "de": "Banditenfaust",
+        "it": "Pugno del Malandrino",
+        "pt": "Punho Bandido",
+        "es": "Puño Bandido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAR/PAR_226_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hoopa ex",
+    "fr": "Hoopa-ex",
+    "de": "Hoopa-ex",
+    "it": "Hoopa-ex",
+    "pt": "Hoopa ex",
+    "es": "Hoopa ex"
+  },
+  "number": "226",
+  "rarity": "ur",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PAR",
+  "stage": "basic",
+  "traitEffect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+  "traitName": "Tera",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

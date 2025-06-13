@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "カブトアーマー",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "90×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数×90ダメージ。"
+      },
+      "name": {
+        "jp": "ホネブーメラン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_215_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_215_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_215_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラガラ"
+  },
+  "number": "215",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SI",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

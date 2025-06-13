@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 3 cards.",
+  "abilityName": "Power Draw",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "80+",
+      "effect": {
+        "en": "This attack does 20 more damage times the amount of [W] Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires multipliés par le nombre d'Énergies [W] attachées à ce Pokémon.",
+        "de": "Diese Attacke fügt 20 Schadenspunkte mehr mal der Anzahl der an dieses Pokémon angelegten [W]-Energien zu.",
+        "it": "Questo attacco infligge 20 danni in più per ogni Energia [W] assegnata a questo Pokémon.",
+        "es": "Este ataque hace 20 puntos de daño más por cada Energía [W] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Hydro Pump",
+        "fr": "Hydrocanon",
+        "de": "Hydropumpe",
+        "it": "Idropompa",
+        "es": "Hidrobomba"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_035_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swampert",
+    "fr": "Laggron",
+    "de": "Sumpex",
+    "it": "Swampert",
+    "pt": "Swampert",
+    "es": "Swampert"
+  },
+  "number": "35",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CES",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

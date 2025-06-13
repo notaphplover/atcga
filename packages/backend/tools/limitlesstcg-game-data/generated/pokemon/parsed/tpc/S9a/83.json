@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "jp": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "スピードスター"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "50×",
+      "effect": {
+        "jp": "相手の場のポケモンについているエネルギーの数×50ダメージ。"
+      },
+      "name": {
+        "jp": "エナジースパイラル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_83_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_83_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_83_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "スターミーV"
+  },
+  "number": "83",
+  "rarity": "csr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 0,
+  "set": "S9a",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

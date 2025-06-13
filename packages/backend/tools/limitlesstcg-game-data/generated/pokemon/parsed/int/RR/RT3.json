@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. Heat Rotom's type is [R] until the end of your turn.",
+  "abilityName": "Heat Shift",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Heat Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/RT3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/RT3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/RT3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heat Rotom"
+  },
+  "number": "RT3",
+  "rarity": "hr",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

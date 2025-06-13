@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "jp": "相手の手札からオモテを見ないで1枚選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "はたきおとす"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "ウラが出るまでコインを投げ、オモテの数x30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ベロリンチョップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_74_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_74_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_74_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ベロベルト"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "XY3",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

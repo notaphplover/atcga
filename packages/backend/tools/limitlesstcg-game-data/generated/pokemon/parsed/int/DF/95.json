@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach a basic Energy card from your hand to your Latias, Latias ex, Latios, or Latios ex. If you do, your turn ends. This power can't be used if Latias ex is affected by a Special Condition.",
+  "abilityName": "Fellow Boost",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "90",
+      "effect": {
+        "en": "If the Defending Pokémon is Knocked Out by this attack, discard 2 [R] Energy attached to Latias ex."
+      },
+      "name": {
+        "en": "Power Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latias ex"
+  },
+  "number": "95",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "どくづき"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "前の相手の番に、ワザのダメージで、自分の[闘]ポケモンがきぜつしていたなら、70ダメージ追加。"
+      },
+      "name": {
+        "jp": "むねんをはらす"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_29_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_29_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_29_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドクロッグ"
+  },
+  "number": "29",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM5M",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

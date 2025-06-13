@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをやけどにする。",
+  "abilityName": "やけつくじょうき",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "160",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、ベンチポケモンにつけ替える。"
+      },
+      "name": {
+        "jp": "ヒートサイクロン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV9/SV9_124_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV9/SV9_124_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV9/SV9_124_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボルケニオンex"
+  },
+  "number": "124",
+  "rarity": "sar",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV9",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Stomp"
+      }
+    },
+    {
+      "cost": "ffccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Giant Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhydon"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

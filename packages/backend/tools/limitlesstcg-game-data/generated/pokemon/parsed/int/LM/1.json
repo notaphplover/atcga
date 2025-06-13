@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Any damage done to Aerodactyl by attacks from your opponent's Pokémon is reduced by 10 for each React Energy card attached to Aerodactyl (after applying Weakness and Resistance).",
+  "abilityName": "Reactive Protection",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Aerodactyl."
+      },
+      "name": {
+        "en": "Power Blow"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, prevent all effects, including damage, done to Aerodactyl by attacks from your opponent's Pokémon-ex."
+      },
+      "name": {
+        "en": "Speed Stroke"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aerodactyl"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

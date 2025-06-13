@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Dodrio can retreat even when it is Asleep or Paralyzed.",
+  "abilityName": "Fast Feet",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the number of damage counters on Dodrio."
+      },
+      "name": {
+        "en": "Retaliate"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, Dodrio can't use Slashing Strike during your next turn."
+      },
+      "name": {
+        "en": "Slashing Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dodrio"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "HL",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

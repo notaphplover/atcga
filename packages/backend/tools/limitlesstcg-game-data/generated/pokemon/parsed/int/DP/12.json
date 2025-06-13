@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you play Rhyperior from your hand to evolve 1 of your Pokémon, you may discard the top 3 cards from your opponent's deck.",
+  "abilityName": "Earth Fissure",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "80",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance. Rhyperior can't attack during your next turn."
+      },
+      "name": {
+        "en": "Rock Wrecker"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhyperior"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

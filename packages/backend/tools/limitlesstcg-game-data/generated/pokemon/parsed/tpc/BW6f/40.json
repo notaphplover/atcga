@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のベンチポケモンを1匹選び、そのポケモンにも30ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+      },
+      "name": {
+        "jp": "ハンマーヘッド"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについている[闘]エネルギーをすべてトラッシュしてよい。その場合、70ダメージを追加。"
+      },
+      "name": {
+        "jp": "だいちのさばき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_40_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_40_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_40_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ランドロスEX"
+  },
+  "number": "40",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "BW6f",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

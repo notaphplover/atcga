@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {
+        "en": "This attack does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de Banc (les vôtres et ceux de votre adversaire). (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (deinen und denen deines Gegners) 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 10 danni a ciascuno dei Pokémon in panchina, sia tuoi che del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 10 puntos de daño a cada uno de los Pokémon en Banca (tanto tuyos como de tu rival). (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Berserker Splash",
+        "fr": "Folle Éclaboussure",
+        "de": "Wahnsinnsplatscher",
+        "it": "Miticosplash",
+        "es": "Salpicadura Insana"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "90+",
+      "effect": {
+        "en": "Flip a coin for each [W] Energy attached to this Pokémon. This attack does 30 more damage for each heads.",
+        "fr": "Lancez une pièce pour chaque Énergie [W] attachée à ce Pokémon. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf für jede an dieses Pokémon angelegte [W]-Energie 1 Münze. Dieser Angriff fügt 30 weitere Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta per ogni Energia [W] assegnata a questo Pokémon. Ogni volta che esce testa, questo attacco infligge 30 danni in più.",
+        "es": "Lanza 1 moneda por cada Energía [W] unida a este Pokémon. Este ataque hace 30 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Aqua Tail",
+        "fr": "Hydroqueue",
+        "de": "Nassschweif",
+        "it": "Idrondata",
+        "es": "Acua Cola"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_109_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados",
+    "fr": "Léviator",
+    "de": "Garados",
+    "it": "Gyarados",
+    "pt": "Gyarados",
+    "es": "Gyarados"
+  },
+  "number": "109",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XYP",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

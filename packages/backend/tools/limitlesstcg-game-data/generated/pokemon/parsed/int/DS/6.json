@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move an Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Gardevoir is affected by a Special Condition.",
+  "abilityName": "Energy Jump",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 20 more damage times the number of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Black Magic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gardevoir"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DS",
+  "stage": "stage2",
+  "type": [
+    "psychic",
+    "metal"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30+",
+      "effect": {
+        "en": "Reveal the top 7 cards of your deck. This attack does 30 more damage times the amount of [W] Energy you find there. Then, shuffle those Energy cards back into your deck and discard the other cards.",
+        "fr": "Montrez les 7 cartes du dessus de votre deck. Cette attaque inflige 30 dégâts supplémentaires multipliés par le nombre d'Énergies [W] que vous y trouvez. Ensuite, mélangez ces cartes Énergie avec votre deck et défaussez les autres cartes.",
+        "de": "Zeige deinem Gegner die obersten 7 Karten deines Decks. Diese Attacke fügt 30 Schadenspunkte mehr mal der Anzahl der [W]-Energien zu, die du dort findest. Mische anschließend jene Energiekarten zurück in dein Deck und lege die anderen Karten auf deinen Ablagestapel.",
+        "it": "Mostra le prime sette carte del tuo mazzo. Questo attacco infligge 30 danni in più per ogni Energia [W] presente tra quelle carte. Poi rimischia quelle carte Energia nel tuo mazzo e scarta le altre carte.",
+        "es": "Enseña las 7 primeras cartas de tu baraja. Este ataque hace 30 puntos de daño más por cada Energía [W] que encuentres entre ellas. Después, pon esas cartas de Energía de nuevo en tu baraja, barájalas todas y descarta el resto de cartas."
+      },
+      "name": {
+        "en": "Distilled Blast",
+        "fr": "Explosion Distillée",
+        "de": "Destillierter Schlag",
+        "it": "Stillabomba",
+        "es": "Explosión Destilada"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard an Energy from your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie du Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Hyper Beam",
+        "fr": "Ultralaser",
+        "de": "Hyperstrahl",
+        "it": "Iper Raggio",
+        "es": "Hiperrayo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_030_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados",
+    "fr": "Léviator",
+    "de": "Garados",
+    "it": "Gyarados",
+    "pt": "Gyarados",
+    "es": "Gyarados"
+  },
+  "number": "30",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "TEU",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

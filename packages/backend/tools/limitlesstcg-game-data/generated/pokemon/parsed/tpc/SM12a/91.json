@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "自分の番に、ウラになっている自分のサイドからこのカードをとったとき、自分のベンチに空きがあるなら、手札に加える前に使える。このポケモンを自分のベンチに出し、さらにサイドを1枚とる。",
+  "abilityName": "ほしにねがいを",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "10",
+      "effect": {
+        "jp": "このポケモンをねむりにする。次の相手の番の終わりに、このワザを受けた相手のポケモンはきぜつする。"
+      },
+      "name": {
+        "jp": "ほろびのゆめ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_91_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_91_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_91_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジラーチ"
+  },
+  "number": "91",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "SM12a",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

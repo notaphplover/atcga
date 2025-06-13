@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Chop"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Jump On"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/97_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/97.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/97.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Chimchar"
+  },
+  "number": "97",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

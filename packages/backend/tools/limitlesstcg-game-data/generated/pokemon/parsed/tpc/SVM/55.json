@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "しばりつける"
+      }
+    },
+    {
+      "cost": "ppcc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "jp": "アンカースマッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVM/SVM_55_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVM/SVM_55_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVM/SVM_55_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダダリン"
+  },
+  "number": "55",
+  "regulation": "h",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SVM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "You may attach a basic Energy card from your hand to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Leaf Supply"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "70×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 70 damage times the number of heads."
+      },
+      "name": {
+        "en": "Dual Cut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

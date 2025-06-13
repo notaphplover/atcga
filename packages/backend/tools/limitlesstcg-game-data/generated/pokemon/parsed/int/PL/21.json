@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Beautifly has 2 or less Energy attached to it, the Defending Pokémon is now Poisoned. If Beautifly has 3 Energy attached to it, the Defending Pokémon is now Burned and Poisoned. If Beautifly has 4 or more Energy attached to it, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Asleep, Burned, and Poisoned."
+      },
+      "name": {
+        "en": "Colorful Powder"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon has any Resistance, this attack's base damage is 60 damage instead of 30."
+      },
+      "name": {
+        "en": "Silver Scale"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beautifly"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

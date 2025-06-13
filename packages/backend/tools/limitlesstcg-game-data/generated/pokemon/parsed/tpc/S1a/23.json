@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "60",
+      "effect": {
+        "jp": "のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手の手札にもどす。"
+      },
+      "name": {
+        "jp": "ハイドロスナイプ"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "160",
+      "effect": {
+        "jp": "相手のベンチポケモン1匹にも、60ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "ダイバレット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1a/S1a_23_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1a/S1a_23_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1a/S1a_23_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "インテレオンVMAX"
+  },
+  "number": "23",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S1a",
+  "stage": "vmax",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

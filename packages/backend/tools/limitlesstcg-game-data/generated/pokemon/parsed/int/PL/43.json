@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove 2 damage counters from Carnivine."
+      },
+      "name": {
+        "en": "Absorb"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Burned and Poisoned."
+      },
+      "name": {
+        "en": "Vine Extract"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carnivine"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange le Pokémon Défenseur avec 1 de ses Pokémon de Banc.",
+        "it": "Il tuo avversario scambia il Pokémon difensore con uno dei suoi Pokémon in panchina.",
+        "es": "Tu rival cambia al Pokémon Defensor por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Wing Flick",
+        "fr": "Battement d'Aile",
+        "de": "Schwingenschlag",
+        "it": "Colpetto d'Ala",
+        "es": "Sacudida de Alas"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin. If tails, discard an Energy attached to this Pokémon.",
+        "fr": "Lancez une pièce. Si c'est pile, défaussez une Énergie attachée à ce Pokémon.",
+        "it": "Lancia una moneta. Se esce croce, scarta un'Energia assegnata a questo Pokémon.",
+        "es": "Lanza una moneda. Si sale cruz, descarta una Energía unida a este Pokémon."
+      },
+      "name": {
+        "en": "Air Slash",
+        "fr": "Lame d'Air",
+        "de": "Luftschnitt",
+        "it": "Eterelama",
+        "es": "Tajo Aéreo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_125_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unfezant",
+    "fr": "Déflaisan",
+    "de": "Fasasnob",
+    "it": "Unfezant",
+    "pt": "Unfezant",
+    "es": "Unfezant"
+  },
+  "number": "125",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "BCR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

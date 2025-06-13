@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンのHPがまんたんの状態で、ワザのダメージを受けてきぜつする場合、このポケモンはきぜつせず、残りHPが「10」の状態で場に残る。",
+  "abilityName": "がんじょう",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "70+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "ストーンエッジ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6c/BW6c_38_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6c/BW6c_38_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6c/BW6c_38_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イワパレス"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW6c",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

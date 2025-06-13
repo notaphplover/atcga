@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンに、相手が手札からエネルギーをつけたなら、そのポケモンをねむりにする。"
+      },
+      "name": {
+        "jp": "うるうる"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x30ダメージ。"
+      },
+      "name": {
+        "jp": "リーフスライス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY9/XY9_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY9/XY9_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY9/XY9_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドレディア"
+  },
+  "number": "8",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "XY9",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

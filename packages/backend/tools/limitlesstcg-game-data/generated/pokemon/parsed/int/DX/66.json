@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Natu is Burned or Poisoned by an opponent's attack (even if Natu is Knocked Out), the Attacking Pokémon is now affected by the same Special Conditions (1 if there is only 1).",
+  "abilityName": "Mirror Coat",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Razor Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/66_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/66.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/66.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Natu"
+  },
+  "number": "66",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

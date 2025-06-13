@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Put 3 damage counters on the Defending Pokémon at the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Spiky Shell"
+      }
+    },
+    {
+      "cost": "mccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Put 7 damage counters on Forretress. Move all Energy cards attached to Forretress to your Benched Pokémon in any way you like. (Ignore this effect if you don't have any Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Pop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Forretress"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

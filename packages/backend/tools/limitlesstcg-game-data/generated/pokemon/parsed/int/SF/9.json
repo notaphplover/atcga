@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "If you have Regirock, Regice, and Registeel in play, the attack cost of Regigigas's attacks is [C] less.",
+  "abilityName": "Regi Form",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Mega Punch"
+      }
+    },
+    {
+      "cost": "wfmc",
+      "dmg": "60+",
+      "effect": {
+        "en": "You may do 60 damage plus 40 more damage. If you do, Regigigas does 40 damage to itself."
+      },
+      "name": {
+        "en": "Giga Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regigigas"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SF",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

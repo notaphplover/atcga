@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you attach an Energy card to your Active Pokémon as part of your turn, you may attach an additional Energy card to that Pokémon at the same time. This power can't be used if Venusaur is affected by a Special Condition.",
+  "abilityName": "Harvest Bounty",
+  "attacks": [
+    {
+      "cost": "ggcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venusaur"
+  },
+  "number": "30",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

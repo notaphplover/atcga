@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Jumpluff would be Knocked Out by an opponent's attack, flip a coin. If heads, Jumpluff is not Knocked Out and its remaining HP becomes 10 instead.",
+  "abilityName": "Buffer",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to all of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Energy Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jumpluff"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 0,
+  "set": "TRR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

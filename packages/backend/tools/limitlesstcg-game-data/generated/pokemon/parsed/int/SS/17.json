@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Golduck is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Confused. This power can't be used if Golduck is affected by a Special Condition.",
+  "abilityName": "Chaos Flash",
+  "attacks": [
+    {
+      "cost": "wp",
+      "dmg": "30+",
+      "effect": {
+        "en": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Special Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golduck"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your deck for a [W] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [W], puis attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [W]-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [W] e assegnala a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta de Energia [W] no seu baralho e ligue-a a este Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [W] y únela a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Frost Charge",
+        "fr": "Charge Givrée",
+        "de": "Frostladung",
+        "it": "Gelocarica",
+        "pt": "Carga de Gelo",
+        "es": "Carga Helada"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "en": "Freezing Wind",
+        "fr": "Vent Glaçant",
+        "de": "Polarwind",
+        "it": "Ventogelido",
+        "pt": "Vento Gelado",
+        "es": "Viento Gélido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_196_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glaceon V",
+    "fr": "Givrali V",
+    "de": "Glaziola V",
+    "it": "Glaceon V",
+    "pt": "Glaceon V",
+    "es": "Glaceon V"
+  },
+  "number": "196",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

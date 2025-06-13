@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10+",
+      "effect": {
+        "en": "You may discard the top card of your deck. If you do, this attack does 10 damage plus 10 more damage and Larvitar is now Asleep."
+      },
+      "name": {
+        "en": "Mountain Bite"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Hammer In"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/87_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/87.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/87.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Larvitar"
+  },
+  "number": "87",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Vine Slap"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Spit Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/123_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/123.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/123.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roselia"
+  },
+  "number": "123",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

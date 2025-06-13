@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ヒートスタンプ"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "150",
+      "effect": {
+        "jp": "このポケモンについている[炎]エネルギーをすべてトラッシュする。"
+      },
+      "name": {
+        "jp": "フレアドライブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/HSP/HSP_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/HSP/HSP_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/HSP/HSP_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エンブオー"
+  },
+  "number": "8",
+  "resistance": [],
+  "retreat": 4,
+  "set": "HSP",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

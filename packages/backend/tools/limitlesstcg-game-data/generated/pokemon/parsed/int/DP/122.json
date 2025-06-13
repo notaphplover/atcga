@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can't be used if Torterra is affected by a Special Condition.",
+  "abilityName": "Forest Murmurs",
+  "attacks": [
+    {
+      "cost": "gggc",
+      "dmg": "100",
+      "effect": {
+        "en": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Torterra does 30 damage to itself."
+      },
+      "name": {
+        "en": "Vigorous Dash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/122_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/122.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/122.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torterra LV.X"
+  },
+  "number": "122",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DP",
+  "stage": "lvx",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done by attacks to a Burned Pokémon (both yours and your opponent's) is increased by 40 (after applying Weakness and Resistance). No more than 40 damage can be added by all Burning Spirit Poké-Bodies.",
+  "abilityName": "Burning Spirit",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Blaziken FB by attacks is increased by 40 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Jet Shoot"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/142_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/142.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/142.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaziken FB LV.X"
+  },
+  "number": "142",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "lvx",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

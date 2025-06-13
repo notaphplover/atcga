@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Beldum is your Active Pokémon, you pay [C] less to retreat Beldum for each Beldum on your Bench.",
+  "abilityName": "Conductive Body",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "Beldum does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/59_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/59.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/59.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beldum"
+  },
+  "number": "59",
+  "rarity": "c",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

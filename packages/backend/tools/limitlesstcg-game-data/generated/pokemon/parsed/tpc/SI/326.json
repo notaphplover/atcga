@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "このポケモンは、特殊エネルギーがついている相手のポケモンから、ワザのダメージを受けない。",
+  "abilityName": "まてんろう",
+  "attacks": [
+    {
+      "cost": "fmm",
+      "dmg": "220",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "キョダイフンサイ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 330,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_326_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_326_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_326_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジュラルドンVMAX"
+  },
+  "number": "326",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SI",
+  "stage": "vmax",
+  "type": [
+    "dragon"
+  ],
+  "weakness": []
+}

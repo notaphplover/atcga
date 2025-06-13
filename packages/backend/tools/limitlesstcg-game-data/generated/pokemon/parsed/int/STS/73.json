@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Any damage done to this Pokémon by an opponent's attack is reduced by 10 for each [C] in your opponent's Active Pokémon's Retreat Cost (after applying Weakness and Resistance).",
+  "abilityName": "Heavy Bumper",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "70",
+      "effect": {
+        "en": "During your next turn, this Pokémon's Gear Spinner attack does 70 more damage (before applying Weakness and Resistance).",
+        "fr": "Pendant votre prochain tour, l'attaque Tourne Rouage de ce Pokémon inflige 70 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während deines nächsten Zuges fügt die Attacke Radschleuder dieses Pokémon 70 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il tuo prossimo turno, l'attacco Ruotameccanica di questo Pokémon infligge 70 danni in più, prima di aver applicato debolezza e resistenza.",
+        "es": "Durante tu próximo turno, el ataque Giraengranajes de este Pokémon hace 70 puntos de daño más (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Gear Spinner",
+        "fr": "Tourne Rouage",
+        "de": "Radschleuder",
+        "it": "Ruotameccanica",
+        "es": "Giraengranajes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_073_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Klinklang",
+    "fr": "Cliticlic",
+    "de": "Klikdiklak",
+    "it": "Klinklang",
+    "pt": "Klinklang",
+    "es": "Klinklang"
+  },
+  "number": "73",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "STS",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

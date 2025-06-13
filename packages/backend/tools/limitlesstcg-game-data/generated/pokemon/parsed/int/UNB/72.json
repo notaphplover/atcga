@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "When your opponent's Active Pokémon is Knocked Out, flip a coin. If heads, choose which of your opponent's Benched Pokémon becomes their new Active Pokémon.",
+  "abilityName": "Hypnotic Pendulum",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 10 more damage for each card in your opponent's hand.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque carte dans la main de votre adversaire.",
+        "de": "Diese Attacke fügt 10 Schadenspunkte mehr mal der Anzahl der Karten auf der Hand deines Gegners zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni carta nella mano del tuo avversario.",
+        "es": "Este ataque hace 10 puntos de daño más por cada carta en la mano de tu rival."
+      },
+      "name": {
+        "en": "Stir the Brain",
+        "fr": "Remue-Méninges",
+        "de": "Gedankenreiz",
+        "it": "Strizzacervelli",
+        "es": "Mareo Cerebral"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_072_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hypno",
+    "fr": "Hypnomade",
+    "de": "Hypno",
+    "it": "Hypno",
+    "pt": "Hypno",
+    "es": "Hypno"
+  },
+  "number": "72",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UNB",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smogscreen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Koffing"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

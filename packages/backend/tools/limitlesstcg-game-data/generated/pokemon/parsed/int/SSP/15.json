@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "If there are 3 or fewer cards in your deck, this attack also does 120 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "S'il y a 3 cartes ou moins dans votre deck, cette attaque inflige aussi 120 dégâts à 2 des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wenn 3 oder weniger Karten in deinem Deck sind, fügt diese Attacke auch 2 Pokémon auf der Bank deines Gegners 120 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Se ci sono tre o meno carte nel tuo mazzo, questo attacco infligge anche 120 danni a due dei Pokémon nella panchina del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Se houver 3 ou menos cartas no seu baralho, este ataque também causará 120 pontos de dano a 2 dos Pokémon no Banco do seu oponente. (Não aplique Fraqueza e Resistência aos Pokémon no Banco.)",
+        "es": "Si hay 3 cartas o menos en tu baraja, este ataque también hace 120 puntos de daño a 2 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Hazardous Greed",
+        "fr": "Avidité Risquée",
+        "de": "Gefährliche Gier",
+        "it": "Avidità Pericolosa",
+        "pt": "Ganância Periculosa",
+        "es": "Avaricia Peligrosa"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "130",
+      "effect": {
+        "en": "Discard the top 3 cards of your deck.",
+        "fr": "Défaussez les 3 cartes du dessus de votre deck.",
+        "de": "Lege die obersten 3 Karten deines Decks auf deinen Ablagestapel.",
+        "it": "Scarta le prime tre carte del tuo mazzo.",
+        "pt": "Descarte as 3 cartas de cima do seu baralho.",
+        "es": "Descarta las 3 primeras cartas de tu baraja."
+      },
+      "name": {
+        "en": "Entangling Whip",
+        "fr": "Fouet Emmêlant",
+        "de": "Verfängliche Peitsche",
+        "it": "Frustata Avvolgente",
+        "pt": "Chicote Entrelaçador",
+        "es": "Látigo Estrangulador"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_015_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wo-Chien",
+    "fr": "Chongjian",
+    "de": "Chongjian",
+    "it": "Wo-Chien",
+    "pt": "Wo-Chien",
+    "es": "Wo-Chien"
+  },
+  "number": "15",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SSP",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

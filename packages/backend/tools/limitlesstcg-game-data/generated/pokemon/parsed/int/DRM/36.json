@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 60 damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 60 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 60 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 60 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Dragon Tail",
+        "fr": "Draco-Queue",
+        "de": "Drachenrute",
+        "it": "Codadrago",
+        "es": "Cola Dragón"
+      }
+    },
+    {
+      "cost": "wlcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Waterfall",
+        "fr": "Cascade",
+        "de": "Kaskade",
+        "it": "Cascata",
+        "es": "Cascada"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_036_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragonair",
+    "fr": "Draco",
+    "de": "Dragonir",
+    "it": "Dragonair",
+    "pt": "Dragonair",
+    "es": "Dragonair"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DRM",
+  "stage": "stage1",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

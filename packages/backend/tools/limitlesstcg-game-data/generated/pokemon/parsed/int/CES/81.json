@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If there is any Stadium card in play, this attack does 50 more damage. Then, discard that Stadium card.",
+        "fr": "S'il y a une carte Stade en jeu, cette attaque inflige 50 dégâts supplémentaires. Ensuite, défaussez la carte Stade.",
+        "de": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke 50 Schadenspunkte mehr zu. Lege anschließend jene Stadionkarte auf den Ablagestapel.",
+        "it": "Se c'è in gioco una carta Stadio, questo attacco infligge 50 danni in più. Poi scarta quella carta Stadio.",
+        "es": "Si hay alguna carta de Estadio en juego, este ataque hace 50 puntos de daño más. Después, descarta esa carta de Estadio."
+      },
+      "name": {
+        "en": "Wreck",
+        "fr": "Anéantissement",
+        "de": "Abreißen",
+        "it": "Demolitore",
+        "es": "Naufragio"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "130",
+      "effect": {
+        "en": "Discard an Energy from this Pokémon.",
+        "fr": "Défaussez une Énergie de ce Pokémon.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon.",
+        "es": "Descarta 1 Energía de este Pokémon."
+      },
+      "name": {
+        "en": "Ground Slash",
+        "fr": "Tranch'Sol",
+        "de": "Bodennaher Schlitzer",
+        "it": "Laceraterra",
+        "es": "Tajo al Suelo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_081_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Groudon",
+    "fr": "Groudon",
+    "de": "Groudon",
+    "it": "Groudon",
+    "pt": "Groudon",
+    "es": "Groudon"
+  },
+  "number": "81",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "CES",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

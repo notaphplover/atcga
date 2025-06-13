@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の場の、名前に「タイレーツ」とつくポケモン全員が、相手のポケモンから受けるワザのダメージは「-20」される。",
+  "abilityName": "てっぺきのじん",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "210",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ギガインパクト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_102_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_102_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_102_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "タイレーツV"
+  },
+  "number": "102",
+  "rarity": "rr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S4a",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.) Then, flip a coin. If tails, this attack can't be used during your next turn."
+      },
+      "name": {
+        "en": "Earth Rift"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip 2 coins. If both are heads, this attack does 50 damage plus 20 more damage. If both are tails, this attack does nothing. If 1 is heads and 1 is tails, this attack just does 50 damage."
+      },
+      "name": {
+        "en": "Iron Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Steelix"
+  },
+  "number": "H23",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

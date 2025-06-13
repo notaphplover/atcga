@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。（この特性がなくなったとき、自分は「ポケモンのどうぐ」を1枚になるようにトラッシュする。）",
+  "abilityName": "ダブルカセット",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "jp": "さくれつだん"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "190",
+      "effect": {
+        "jp": "このワザのダメージは抵抗力を計算しない。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ブレイクバスターGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_41_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_41_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_41_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゲノセクトGX"
+  },
+  "number": "41",
+  "rarity": "rr",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SM7a",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

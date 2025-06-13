@@ -1,0 +1,101 @@
+{
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé, Confus et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt, verwirrt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato, confuso e avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido, Envenenado y Quemado."
+      },
+      "name": {
+        "en": "Pollen Hazard",
+        "fr": "Pollen Dangereux",
+        "de": "Pollengefahr",
+        "it": "Rischio Polline",
+        "es": "Polen Nocivo"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "150",
+      "effect": {},
+      "name": {
+        "en": "Solar Beam",
+        "fr": "Lance-Soleil",
+        "de": "Solarstrahl",
+        "it": "Solarraggio",
+        "es": "Rayo Solar"
+      }
+    },
+    {
+      "cost": "ggcc+",
+      "dmg": "180",
+      "effect": {
+        "en": "Heal all damage from this Pokémon. If this Pokémon has at least 1 extra [G] Energy attached to it (in addition to this attack's cost), shuffle all cards from your discard pile into your deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Soignez tous les dégâts de ce Pokémon. Si au moins une Énergie [G] supplémentaire est attachée à ce Pokémon (en plus du coût de cette attaque), mélangez toutes les cartes dans votre pile de défausse avec votre deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Heile allen Schaden bei diesem Pokémon. Wenn an dieses Pokémon mindestens 1 extra [G]-Energie angelegt ist (zusätzlich zu den Kosten dieser Attacke), mische alle Karten aus deinem Ablagestapel in dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cura questo Pokémon da tutti i danni. Se questo Pokémon ha almeno un'Energia [G] extra assegnata, in aggiunta a quelle del costo di questo attacco, rimischia tutte le carte dalla tua pila degli scarti nel tuo mazzo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Cura todos los puntos de daño a este Pokémon. Si este Pokémon tiene por lo menos 1 Energía [G] adicional unida a él (además de las del coste de este ataque), pon todas las cartas de tu pila de descartes en tu baraja y barájalas todas. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Evergreen-GX",
+        "fr": "Sempervirent-GX",
+        "de": "Immergrün-GX",
+        "it": "Sempreverde-GX",
+        "es": "Perenne-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_001_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Celebi & Venusaur-GX",
+    "fr": "Celebi et Florizarre-GX",
+    "de": "Celebi & Bisaflor-GX",
+    "it": "Celebi e Venusaur-GX",
+    "pt": "Celebi e Venusaur-GX",
+    "es": "Celebi y Venusaur-GX"
+  },
+  "number": "1",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "TEU",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

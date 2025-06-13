@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "As long as Squirtle has any Energy cards attached to it, damage done to Squirtle by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Shell Retreat",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Squirtle"
+  },
+  "number": "46",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

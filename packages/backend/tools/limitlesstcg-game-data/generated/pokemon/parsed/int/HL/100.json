@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Vileplume ex is your Active Pokémon, your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand.",
+  "abilityName": "Block Dust",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep and Poisoned. If tails, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Special Formula"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume ex"
+  },
+  "number": "100",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

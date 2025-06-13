@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may flip a coin. If heads, put this Pokémon onto your Bench and attach 3 different types of basic Energy cards from your discard pile to this Pokémon.",
+  "abilityName": "Rebirth",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 more damage for each different type of basic Energy attached to this Pokémon.",
+        "fr": "Inflige 20 dégâts supplémentaires pour chaque différent type d'Énergie de base attaché à ce Pokémon.",
+        "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jeden unterschiedlichen, an dieses Pokémon angelegten Basis-Energietyp zu.",
+        "it": "Infligge 20 danni in più per ogni tipo diverso di Energia base assegnata a questo Pokémon.",
+        "es": "Hace 20 puntos de daño más por cada tipo de Energía Básica diferente unida a este Pokémon."
+      },
+      "name": {
+        "en": "Rainbow Burn",
+        "fr": "Brûlure Arc-en-ciel",
+        "de": "Regenbogenfeuer",
+        "it": "Fiammabaleno",
+        "es": "Ardor Arcoíris"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_119_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ho-Oh-EX",
+    "fr": "Ho-Oh-EX",
+    "de": "Ho-Oh-EX",
+    "it": "Ho-Oh-EX",
+    "pt": "Ho-Oh-EX",
+    "es": "Ho-Oh-EX"
+  },
+  "number": "119",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DRX",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

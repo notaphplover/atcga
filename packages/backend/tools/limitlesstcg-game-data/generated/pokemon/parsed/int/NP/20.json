@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "At any time between turns, remove 1 damage counter from Ludicolo.",
+  "abilityName": "Rain Dish",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ludicolo"
+  },
+  "number": "20",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NP",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

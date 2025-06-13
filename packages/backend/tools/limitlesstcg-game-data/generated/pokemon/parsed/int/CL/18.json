@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn, when you put Pachirisu from your hand onto your Bench, you may attach up to 2 [L] Energy cards from your hand to Pachirisu.",
+  "abilityName": "Self-Generation",
+  "attacks": [
+    {
+      "cost": "ll",
+      "dmg": "50",
+      "effect": {
+        "en": "Put all Energy cards attached to Pachirisu in the Lost Zone.",
+        "fr": "Placez toutes les cartes Énergie attachées à Pachirisu dans la Zone Perdue.",
+        "de": "Lege alle an Pachirisu angelegten Energiekarten ins Nirgendwo.",
+        "it": "Metti tutte le carte Energia assegnate a Pachirisu nell'Area Perduta."
+      },
+      "name": {
+        "en": "Shocking Bolt",
+        "fr": "Éclair neutralisant",
+        "de": "Schockbolzen",
+        "it": "Fulminshock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_018_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pachirisu",
+    "fr": "Pachirisu",
+    "de": "Pachirisu",
+    "it": "Pachirisu",
+    "pt": "Pachirisu",
+    "es": "Pachirisu"
+  },
+  "number": "18",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "CL",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

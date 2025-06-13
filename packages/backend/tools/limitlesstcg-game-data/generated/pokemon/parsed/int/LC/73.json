@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, the Defending Pokémon is now Asleep; if tails, your Active Pokémon is now Asleep. This power can't be used if Drowzee is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Long-Distance Hypnosis",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Nightmare"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/73_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/73.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/73.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drowzee"
+  },
+  "number": "73",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

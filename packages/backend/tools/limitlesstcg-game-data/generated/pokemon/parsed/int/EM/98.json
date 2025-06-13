@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "If Regirock ex is in play, flip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Iceberg Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regice ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

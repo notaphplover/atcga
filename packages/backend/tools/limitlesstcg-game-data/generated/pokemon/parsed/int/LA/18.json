@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Armaldo would be damaged by an attack, prevent that attack's damage done to Armaldo if that damage is 60 or less.",
+  "abilityName": "Fossil Armor",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."
+      },
+      "name": {
+        "en": "Crush Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Armaldo"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "Giovanni's Nidorina does 20 damage to itself. Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting Tackle"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Nidorina"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

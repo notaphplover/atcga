@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tail Slap"
+      }
+    },
+    {
+      "cost": "rrr",
+      "dmg": "70",
+      "effect": {
+        "en": "Use this attack only if there are any [R] Energy cards attached to Dark Charmeleon. Flip a coin. If heads, discard 1 of those Energy cards. If tails, this attack does nothing (not even damage)."
+      },
+      "name": {
+        "en": "Fireball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Charmeleon"
+  },
+  "number": "32",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, search your discard pile for a basic Energy card and attach it to Gyarados Star."
+      },
+      "name": {
+        "en": "Spiral Growth"
+      }
+    },
+    {
+      "cost": "rrrr",
+      "dmg": "50+",
+      "effect": {
+        "en": "Discard cards from the top of your deck until you have 1 card left. This attack does 50 damage plus 20 more damage for each Energy card you discarded in this way."
+      },
+      "name": {
+        "en": "All-out Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/102_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/102.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/102.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados Star"
+  },
+  "number": "102",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

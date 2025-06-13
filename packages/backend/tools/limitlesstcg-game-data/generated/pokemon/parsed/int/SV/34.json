@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "60",
+      "effect": {
+        "en": "Your opponent draws 2 cards."
+      },
+      "name": {
+        "en": "Channeling"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each card in your opponent's hand."
+      },
+      "name": {
+        "en": "Chakra Points"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Medicham"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

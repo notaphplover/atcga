@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Wailmer but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Hydro Pump"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Wailmer does 20 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/87_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/87.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/87.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wailmer"
+  },
+  "number": "87",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

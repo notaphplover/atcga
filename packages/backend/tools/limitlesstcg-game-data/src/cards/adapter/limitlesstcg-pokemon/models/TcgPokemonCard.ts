@@ -1,0 +1,48 @@
+import { TcgPokemonLanguage } from '../../../../languages/adapter/limitlesstcg-pokemon/models/TcgPokemonLanguage';
+import { TcgPokemonRegion } from '../../../../regions/adapter/limitlesstcg-pokemon/models/TcgPokemonRegion';
+import { TcgPokemonCardType } from './TcgPokemonCardType';
+import { TcgPokemonRarity } from './TcgPokemonRarity';
+import { TcgPokemonStage } from './TcgPokemonStage';
+
+export interface TcgPokemonCard {
+  a1_cost: string | null;
+  a1_dmg: string | null;
+  a1_effect: string | null;
+  a1_name: string | null;
+  a2_cost: string | null;
+  a2_dmg: string | null;
+  a2_effect: string | null;
+  a2_name: string | null;
+  a3_cost: string | null;
+  a3_dmg: string | null;
+  a3_effect: string | null;
+  a3_name: string | null;
+  a4_cost: string | null;
+  a4_dmg: string | null;
+  a4_effect: string | null;
+  a4_name: string | null;
+  ability_name: string | null;
+  ability_effect: string | null;
+  card_type: TcgPokemonCardType;
+  cm_price: number | null;
+  cm_url: string | null;
+  effect: string | null;
+  hp: number | null;
+  language: TcgPokemonLanguage;
+  market_price: number | null;
+  name: string;
+  number: string;
+  rarity: TcgPokemonRarity | null | '';
+  region: TcgPokemonRegion;
+  regulation: string | null;
+  resistance: string | null;
+  retreat: number | null;
+  set: string;
+  stage: TcgPokemonStage | null;
+  tcgplayer_url: string | null;
+  translation: number;
+  trait_name: string | null;
+  trait_effect: string | null;
+  type: string;
+  weakness: string | null;
+}

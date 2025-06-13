@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Vigoroth is your Active Pokémon and is damaged by an opponent's attack (even if Vigoroth is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+  "abilityName": "Strikes Back",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Ambush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vigoroth"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

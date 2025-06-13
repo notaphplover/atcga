@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Your Pokémon-GX in play that evolve from Eevee get +60 HP. You can't apply more than 1 Vitality Cheer Ability at a time.",
+  "abilityName": "Vitality Cheer",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Heal 30 damage from each of your Pokémon.",
+        "fr": "Soignez 30 dégâts à chacun de vos Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei jedem deiner Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Refreshing Rain",
+        "fr": "Ondée Rafraîchissante",
+        "de": "Erquicklicher Regen",
+        "it": "Rinfrescapioggia",
+        "es": "Lluvia Refrescante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_042_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon",
+    "fr": "Aquali",
+    "de": "Aquana",
+    "it": "Vaporeon",
+    "pt": "Vaporeon",
+    "es": "Vaporeon"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CEC",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

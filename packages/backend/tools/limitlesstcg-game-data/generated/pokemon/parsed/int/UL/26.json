@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts plus 20 dégâts supplémentaires.",
+        "de": "Wirf eine Münze. Bei „Kopf\" fügt dieser Angriff 40 Schadenspunkte plus 20 weitere Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni più altri 20 danni.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 40 puntos de daño más otros 20 puntos de daño adicionales."
+      },
+      "name": {
+        "en": "Tail Crush",
+        "fr": "Destruqueue",
+        "de": "Zerquetschender Schweif",
+        "it": "Tritacoda",
+        "es": "Golpe de cola"
+      }
+    },
+    {
+      "cost": "ddcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard an Energy card attached to the Defending Pokémon.",
+        "fr": "Défaussez une carte Énergie attachée au Pokémon Défenseur.",
+        "de": "Lege eine Energiekarte, die am Verteidigenden Pokémon angelegt ist, auf den Ablagestapel deines Gegners.",
+        "it": "Scarta una carta Energia assegnata al Pokémon Difensore.",
+        "es": "Descarta una carta de Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Hyper Beam",
+        "fr": "Ultralaser",
+        "de": "Hyperstrahl",
+        "it": "Iper Raggio",
+        "es": "Hiperrayo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_026_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar",
+    "fr": "Tyranocif",
+    "de": "Despotar",
+    "it": "Tyranitar",
+    "pt": "Tyranitar",
+    "es": "Tyranitar"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "UL",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

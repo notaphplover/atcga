@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage times the amount of [W] Energy attached to this Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts multipliés par le nombre d'Énergies [W] attachées à ce Pokémon.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten [W]-Energien zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni per ogni Energia [W] assegnata a questo Pokémon.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño por cada Energía [W] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Water Cannon",
+        "fr": "Canon à O",
+        "de": "Aquakanone",
+        "it": "Cannonacqua",
+        "es": "Cañón Acuático"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "80",
+      "effect": {
+        "en": "This Pokémon can't use Giant Wave during your next turn.",
+        "fr": "Ce Pokémon ne peut pas utiliser Vague Géante pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann während deines nächsten Zuges Riesenwelle nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Onda Anomala.",
+        "es": "Este Pokémon no puede usar Ola Gigante durante tu próximo turno."
+      },
+      "name": {
+        "en": "Giant Wave",
+        "fr": "Vague Géante",
+        "de": "Riesenwelle",
+        "it": "Onda Anomala",
+        "es": "Ola Gigante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_026_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wailord",
+    "fr": "Wailord",
+    "de": "Wailord",
+    "it": "Wailord",
+    "pt": "Wailord",
+    "es": "Wailord"
+  },
+  "number": "26",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DRX",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

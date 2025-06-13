@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your opponent's turn, if Gengar would be Knocked Out by damage from an attack, you may flip a coin. If heads, the Defending Pokémon is Knocked Out.",
+  "abilityName": "Fainting Spell",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Look at your opponent's hand. This attack does 30 damage times the number of Trainer, Supporter, and Stadium cards in your opponent's hand."
+      },
+      "name": {
+        "en": "Poltergeist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gengar"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 0,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Steady Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Medicham. After doing damage, remove 1 damage counter from Medicham."
+      },
+      "name": {
+        "en": "Power Heal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Medicham"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

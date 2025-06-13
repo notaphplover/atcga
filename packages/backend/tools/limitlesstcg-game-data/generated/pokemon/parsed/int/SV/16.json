@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Sharp Beak"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

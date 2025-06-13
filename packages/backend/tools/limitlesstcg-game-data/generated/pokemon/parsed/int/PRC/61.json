@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Scambia questo Pokémon con uno della tua panchina.",
+        "es": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Lightning Turn",
+        "fr": "Tour Éclair",
+        "de": "Blitzartige Drehung",
+        "it": "Girata Fulminante",
+        "es": "Giro Relámpago"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard all [L] Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Défaussez toutes les Énergies [L] attachées à ce Pokémon. Le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Lege alle an dieses Pokémon angelegten [L]-Energien auf deinen Ablagestapel. Das Aktive Pokémon deines Gegners ist jetzt paralysiert.",
+        "it": "Scarta tutte le Energie [L] assegnate a questo Pokémon. Il Pokémon attivo del tuo avversario viene paralizzato.",
+        "es": "Descarta todas las Energías [L] unidas a este Pokémon. El Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Electric Shock",
+        "fr": "Choc Électrique",
+        "de": "Elektroschock",
+        "it": "Elettroshock",
+        "es": "Sacudida Eléctrica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_061_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Manectric",
+    "fr": "Élecsprint",
+    "de": "Voltenso",
+    "it": "Manectric",
+    "pt": "Manectric",
+    "es": "Manectric"
+  },
+  "number": "61",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "PRC",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

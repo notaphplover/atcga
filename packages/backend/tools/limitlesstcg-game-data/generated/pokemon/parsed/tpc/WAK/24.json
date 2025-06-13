@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "ひらてうち"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "70×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x70ダメージ。"
+      },
+      "name": {
+        "jp": "ダブルトリック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/WAK/WAK_24_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/WAK/WAK_24_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/WAK/WAK_24_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴチルゼル"
+  },
+  "number": "24",
+  "resistance": [],
+  "retreat": 2,
+  "set": "WAK",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

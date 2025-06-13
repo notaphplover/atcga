@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each [W] Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lapras"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "FO",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

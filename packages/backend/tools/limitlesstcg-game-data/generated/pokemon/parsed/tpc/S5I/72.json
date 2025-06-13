@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "jp": "エレキボール"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "相手の場のポケモンについているエネルギーの数×40ダメージ追加。"
+      },
+      "name": {
+        "jp": "スパイラルサンダー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5I/S5I_72_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5I/S5I_72_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5I/S5I_72_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カプ・コケコV"
+  },
+  "number": "72",
+  "rarity": "sr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S5I",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

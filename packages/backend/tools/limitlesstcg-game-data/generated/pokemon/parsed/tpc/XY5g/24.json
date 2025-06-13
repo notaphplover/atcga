@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "jp": "このポケモンをベンチポケモンと入れ替える。"
+      },
+      "name": {
+        "jp": "ライトニングターン"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "70",
+      "effect": {
+        "jp": "このポケモンについている[雷]エネルギーをすべてトラッシュし、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "サンダーショック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_24_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_24_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_24_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ライボルト"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "XY5g",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

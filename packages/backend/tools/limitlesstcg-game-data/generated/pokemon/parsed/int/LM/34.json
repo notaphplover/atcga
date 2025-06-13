@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done to Graveler by attacks is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Exoskeleton",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon (1 if there is only 1). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Graveler"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

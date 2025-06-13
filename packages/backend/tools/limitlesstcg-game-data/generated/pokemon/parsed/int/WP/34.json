@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged.",
+  "abilityName": "Bolt",
+  "attacks": [
+    {
+      "cost": "rrr",
+      "dmg": "50",
+      "effect": {
+        "en": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon."
+      },
+      "name": {
+        "en": "Protective Flame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Entei"
+  },
+  "number": "34",
+  "resistance": [],
+  "retreat": 1,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

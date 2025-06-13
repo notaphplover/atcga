@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    },
+    {
+      "cost": "lll",
+      "dmg": "60",
+      "effect": {
+        "en": "If Raichu evolved from Pikachu during this turn, this attack's base damage is 100 instead of 60."
+      },
+      "name": {
+        "en": "High Volt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop9/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop9/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop9/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "3",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "P9",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

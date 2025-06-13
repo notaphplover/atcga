@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "If you have exactly 4 cards in your hand, this Pokémon's attacks cost [C][C][C] less.",
+  "abilityName": "Chakra Awakening",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If your opponent has any Pokémon VMAX in play, this attack does 90 more damage.",
+        "fr": "Si votre adversaire a au moins un Pokémon-VMAX en jeu, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Wenn dein Gegner mindestens 1 Pokémon-VMAX im Spiel hat, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Se il tuo avversario ha dei Pokémon-VMAX in gioco, questo attacco infligge 90 danni in più.",
+        "pt": "Se o seu oponente tiver algum Pokémon VMAX em jogo, este ataque causará 90 pontos de dano a mais.",
+        "es": "Si tu rival tiene algún Pokémon VMAX en juego, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Vigorous Kick",
+        "fr": "Coup de Pied Vigoureux",
+        "de": "Energischer Tritt",
+        "it": "Calcio Vigoroso",
+        "pt": "Chute Vigoroso",
+        "es": "Patada Vigorosa"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_073_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Medicham",
+    "fr": "Charmina",
+    "de": "Meditalis",
+    "it": "Medicham",
+    "pt": "Medicham",
+    "es": "Medicham"
+  },
+  "number": "73",
+  "rarity": "hr",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SIT",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Weezing is Confused and is Knocked Out, your opponent can't take a Prize card.",
+  "abilityName": "Camouflage Gas",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Smog"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/87_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/87.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/87.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Weezing"
+  },
+  "number": "87",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

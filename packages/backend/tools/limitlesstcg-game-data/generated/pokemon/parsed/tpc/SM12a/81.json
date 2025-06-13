@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "jp": "相手の場の特性を持つポケモンの数×20ダメージ追加。"
+      },
+      "name": {
+        "jp": "あくのいましめ"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80",
+      "effect": {
+        "jp": "このワザのダメージは弱点・抵抗力を計算しない。"
+      },
+      "name": {
+        "jp": "マインドショック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_81_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_81_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_81_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "フーパ"
+  },
+  "number": "81",
+  "regulation": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SM12a",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

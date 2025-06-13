@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange son Pokémon Actif avec l'un de ses Pokémon de Banc.",
+        "de": "Dein Gegner tauscht sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank aus.",
+        "it": "Il tuo avversario scambia il suo Pokémon attivo con uno dei suoi Pokémon in panchina.",
+        "es": "Tu rival cambia su Pokémon Activo por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Push Down",
+        "fr": "Recul",
+        "de": "Runterdrücken",
+        "it": "Spintonare",
+        "es": "Oprimir"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 10 more damage for each [C] in the Retreat Cost of your Swinub, Piloswine, and Mamoswine.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque [C] dans le Coût de Retraite de votre Marcacrin, Cochignon et Mammochon.",
+        "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jedes [C]-Symbol in den Rückzugskosten deiner Quiekel, Keifel und Mamutel zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni [C] nel costo di ritirata dei tuoi Swinub, Piloswine e Mamoswine.",
+        "es": "Este ataque hace 10 puntos de daño más por cada [C] en el Coste de Retirada de tus Swinub, Piloswine y Mamoswine."
+      },
+      "name": {
+        "en": "Gathering Footsteps",
+        "fr": "Collecte d'Empreintes",
+        "de": "Viele Spuren",
+        "it": "Orme Vicine",
+        "es": "Huellas de Grupo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_081_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piloswine",
+    "fr": "Cochignon",
+    "de": "Keifel",
+    "it": "Piloswine",
+    "pt": "Piloswine",
+    "es": "Piloswine"
+  },
+  "number": "81",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BKT",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

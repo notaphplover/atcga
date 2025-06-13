@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40+",
+      "effect": {
+        "en": "This attack does 40 more damage for each [M] Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Énergie [M] attachée à ce Pokémon.",
+        "de": "Diese Attacke fügt für jede an dieses Pokémon angelegte [M]-Energie 40 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 40 danni in più per ogni Energia [M] assegnata a questo Pokémon.",
+        "pt": "Este ataque causa 40 pontos de dano a mais para cada Energia [M] ligada a este Pokémon.",
+        "es": "Este ataque hace 40 puntos de daño más por cada Energía [M] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Metal Blast",
+        "fr": "Explosion Métallique",
+        "de": "Metallexplosion",
+        "it": "Metalbomba",
+        "pt": "Explosão de Metal",
+        "es": "Explosión Metálica"
+      }
+    },
+    {
+      "cost": "mmmmc",
+      "dmg": "220",
+      "effect": {
+        "en": "Take another turn after this one. (Skip Pokémon Checkup.) (You can't use more than 1 VSTAR Power in a game.)",
+        "fr": "Jouez de nouveau après ce tour. (Omettez le Contrôle Pokémon.) (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+        "de": "Du bist nach diesem Zug erneut am Zug. (Überspringe den Pokémon-Check.) (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+        "it": "Dopo questo turno, giocane un altro. Salta il controllo Pokémon. Non puoi usare più di un Potere V ASTRO a partita.",
+        "pt": "Jogue novamente após este turno (pule o Checape Pokémon). (Você não pode usar mais de 1 Poder V-ASTRO por partida.)",
+        "es": "Toma otro turno después de este. (Sáltate el Chequeo Pokémon). (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      },
+      "name": {
+        "en": "Star Chronos",
+        "fr": "Chrono Star",
+        "de": "Sternenzeit",
+        "it": "Astro Tempo",
+        "pt": "Cronologia Astral",
+        "es": "Astro Cronos"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 280,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_210_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Origin Forme Dialga VSTAR",
+    "fr": "Dialga Originel VSTAR",
+    "de": "Ur-Dialga VSTAR",
+    "it": "Dialga Originale V ASTRO",
+    "pt": "Dialga Forma Origem V-ASTRO",
+    "es": "Dialga Origen V-ASTRO"
+  },
+  "number": "210",
+  "rarity": "sr",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "ASR",
+  "stage": "vstar",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

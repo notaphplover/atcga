@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Magcargo has any [F] Energy attached to it, Magcargo is both [R] and [F] type.",
+  "abilityName": "Dual Armor",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, this attack does 40 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Extra Flame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top 4 cards of your deck, choose 1 of them, and put it into your hand. Put the 3 other cards on the bottom of your deck in any order. This power can't be used if Metagross is affected by a Special Condition.",
+  "abilityName": "Delta Control",
+  "attacks": [
+    {
+      "cost": "lm",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may discard as many Energy cards as you like attached to your Pokémon in play. If you do, this attack does 30 damage plus 20 more damage for each Energy card you discarded."
+      },
+      "name": {
+        "en": "Crush and Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metagross"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "DS",
+  "stage": "stage2",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

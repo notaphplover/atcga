@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "40",
+      "effect": {
+        "jp": "このポケモンをベンチポケモンと入れ替える。"
+      },
+      "name": {
+        "jp": "スピニングターン"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "場に「スタジアム」が出ているなら、60ダメージを追加。その後、その「スタジアム」をトラッシュする。"
+      },
+      "name": {
+        "jp": "ぶちこわす"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_41_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_41_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_41_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドンファン"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "BW7",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "60×",
+      "effect": {
+        "en": "This attack does 60 damage for each Energy attached to all of your opponent's Pokémon.",
+        "fr": "Cette attaque inflige 60 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire.",
+        "de": "Diese Attacke fügt für jede an alle Pokémon deines Gegners angelegte Energie 60 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 60 danni per ogni Energia assegnata ai Pokémon del tuo avversario.",
+        "pt": "Este ataque causa 60 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente.",
+        "es": "Este ataque hace 60 puntos de daño por cada Energía unida a cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Verdant Storm",
+        "fr": "Tempête Verdoyante",
+        "de": "Begrünungssturm",
+        "it": "Tempesta Rigogliosa",
+        "pt": "Tempestade Verdejante",
+        "es": "Tormenta Verdosa"
+      }
+    },
+    {
+      "cost": "grw",
+      "dmg": "230",
+      "effect": {
+        "en": "Heal 100 damage from each of your Benched Pokémon.",
+        "fr": "Soignez 100 dégâts de chacun de vos Pokémon de Banc.",
+        "de": "Heile 100 Schadenspunkte bei jedem Pokémon auf deiner Bank.",
+        "it": "Cura ciascuno dei tuoi Pokémon in panchina da 100 danni.",
+        "pt": "Cure 100 pontos de dano de cada um dos seus Pokémon no Banco.",
+        "es": "Cura 100 puntos de daño a cada uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Moss Agate",
+        "fr": "Agate Moussue",
+        "de": "Moosachat",
+        "it": "Agata Muschiata",
+        "pt": "Ágata Musgo",
+        "es": "Musgo Ágata"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_144_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Leafeon ex",
+    "fr": "Phyllali-ex",
+    "de": "Folipurba-ex",
+    "it": "Leafeon-ex",
+    "pt": "Leafeon ex",
+    "es": "Leafeon ex"
+  },
+  "number": "144",
+  "rarity": "sar",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PRE",
+  "stage": "stage1",
+  "traitEffect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+  "traitName": "Tera",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

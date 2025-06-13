@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon is an Evolved Pokémon, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Cross-Cut"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Shove"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hariyama"
+  },
+  "number": "31",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, this attack does 10 damage plus 10 more damage for each damage counter on Rayquaza."
+      },
+      "name": {
+        "en": "Outrage"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Rayquaza."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

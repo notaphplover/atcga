@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you play Umbreon ex from your hand to evolve 1 of your Pokémon, switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch.",
+  "abilityName": "Darker Ring",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat or use any Poké-Powers during your opponent's next turn."
+      },
+      "name": {
+        "en": "Black Cry"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Darkness Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/112_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/112.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/112.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Umbreon ex"
+  },
+  "number": "112",
+  "rarity": "ur",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

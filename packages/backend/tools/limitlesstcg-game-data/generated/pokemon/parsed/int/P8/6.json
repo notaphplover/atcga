@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Worry Seed"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and remove 3 damage counters from Cherrim."
+      },
+      "name": {
+        "en": "Magical Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cherrim"
+  },
+  "number": "6",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "P8",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

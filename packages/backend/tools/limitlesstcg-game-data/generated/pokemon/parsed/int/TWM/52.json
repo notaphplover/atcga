@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage for each damage counter on your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 20 dégâts pour chaque marqueur de dégâts sur le Pokémon Actif de votre adversaire.",
+        "de": "Diese Attacke fügt für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 20 danni per ogni segnalino danno presente sul Pokémon attivo del tuo avversario.",
+        "pt": "Este ataque causa 20 pontos de dano para cada contador de dano no Pokémon Ativo do seu oponente.",
+        "es": "Este ataque hace 20 puntos de daño por cada contador de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Damage Beat",
+        "fr": "Rouste Ravageuse",
+        "de": "Heftige Prügel",
+        "it": "Battidanni",
+        "pt": "Pancada Destruidora",
+        "es": "Toque Dañino"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "140",
+      "effect": {
+        "en": "Discard an Energy from this Pokémon.",
+        "fr": "Défaussez une Énergie de ce Pokémon.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia da questo Pokémon.",
+        "pt": "Descarte uma Energia deste Pokémon.",
+        "es": "Descarta 1 Energía de este Pokémon."
+      },
+      "name": {
+        "en": "Crazy Headbutt",
+        "fr": "Coup d'Boule Fou",
+        "de": "Irre Kopfnuss",
+        "it": "Bottintesta Folle",
+        "pt": "Cabeçada Louca",
+        "es": "Cabezazo Alocado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_052_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glalie",
+    "fr": "Oniglali",
+    "de": "Firnontor",
+    "it": "Glalie",
+    "pt": "Glalie",
+    "es": "Glalie"
+  },
+  "number": "52",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TWM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

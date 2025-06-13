@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Tight Jaw"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Put 1 damage counter on Sharpedo."
+      },
+      "name": {
+        "en": "Darkness Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sharpedo"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 0,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

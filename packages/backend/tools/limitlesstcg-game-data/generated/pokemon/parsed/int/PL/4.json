@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put those cards on top of your deck in any order. If you do, put 2 damage counters on Delcatty. This power can't be used if Delcatty is affected by a Special Condition.",
+  "abilityName": "Power Circulation",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Delcatty. Then, remove 2 damage counters from Delcatty."
+      },
+      "name": {
+        "en": "Power Heal"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Rear Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Delcatty"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

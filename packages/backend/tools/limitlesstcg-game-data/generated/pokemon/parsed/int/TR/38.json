@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Lightning Flash"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, Dark Jolteon does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thunder Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Jolteon"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

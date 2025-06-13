@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Smog"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar"
+  },
+  "number": "39",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "FO",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

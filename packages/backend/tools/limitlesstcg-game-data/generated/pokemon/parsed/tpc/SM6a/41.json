@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "ガードプレス"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "90+",
+      "effect": {
+        "jp": "このポケモンにダメカンが8個以上のっているなら、120ダメージ追加。"
+      },
+      "name": {
+        "jp": "いかりのアッパーカット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6a/SM6a_41_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6a/SM6a_41_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6a/SM6a_41_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジャラランガ"
+  },
+  "number": "41",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM6a",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

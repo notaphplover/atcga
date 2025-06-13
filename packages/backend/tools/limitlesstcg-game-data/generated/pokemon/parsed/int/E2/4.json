@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Azumarill is on your Bench, you may flip a coin. If heads, return Azumarill and all cards attached to it to your hand.",
+  "abilityName": "Bubble Turn",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Don't apply Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Azumarill"
+  },
+  "number": "4",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンに[雷]エネルギーがついているなら、このポケモンが受けるワザのダメージは「-20」される。",
+  "abilityName": "ひかるからだ",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "このポケモンについている[雷]エネルギーの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "サンダーランス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ライコウ"
+  },
+  "number": "33",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

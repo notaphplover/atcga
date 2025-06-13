@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "jp": "相手の手札からオモテを見ないで1枚選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "つきやぶる"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "ウラが出るまでコインを投げ、オモテの数x30ダメージを追加。"
+      },
+      "name": {
+        "jp": "スパイラルラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY4/XY4_59_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY4/XY4_59_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY4/XY4_59_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シュバルゴ"
+  },
+  "number": "59",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "XY4",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

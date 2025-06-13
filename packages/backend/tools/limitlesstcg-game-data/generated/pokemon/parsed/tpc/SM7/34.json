@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分が後攻プレイヤーなら、対戦準備でポケモンを場に出すとき、このカードを手札からウラにして出してよい。",
+  "abilityName": "ボルトスタート",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "40",
+      "effect": {
+        "jp": "のぞむなら、自分の手札にある基本エネルギーを2枚まで、ベンチポケモン1匹につける。"
+      },
+      "name": {
+        "jp": "ダブルチャージ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_34_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_34_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_34_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ライボルト"
+  },
+  "number": "34",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "SM7",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

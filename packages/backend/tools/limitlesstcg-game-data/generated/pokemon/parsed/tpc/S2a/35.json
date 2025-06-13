@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンは、ワザが使えない。"
+      },
+      "name": {
+        "jp": "またたくひかり"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "場に「ルミナスメイズの森」が出ているなら、60ダメージ追加。"
+      },
+      "name": {
+        "jp": "フォレストフィアー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2a/S2a_35_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2a/S2a_35_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2a/S2a_35_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マシェード"
+  },
+  "number": "35",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S2a",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

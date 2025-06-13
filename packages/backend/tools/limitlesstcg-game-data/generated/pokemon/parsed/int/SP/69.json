@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Gust",
+        "fr": "Tornade",
+        "de": "Windstoß",
+        "it": "Raffica",
+        "pt": "Lufada de Vento",
+        "es": "Tornado"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "250",
+      "effect": {
+        "en": "If your opponent has 5 or fewer cards in their hand, this attack does nothing.",
+        "fr": "Si votre adversaire a 5 cartes ou moins dans sa main, cette attaque ne fait rien.",
+        "de": "Wenn dein Gegner 5 oder weniger Karten auf seiner Hand hat, hat diese Attacke keine Auswirkungen.",
+        "it": "Se il tuo avversario ha cinque o meno carte in mano, questo attacco non ha effetto.",
+        "pt": "Se o seu oponente tiver 5 ou menos cartas na própria mão, este ataque não fará nada.",
+        "es": "Si tu rival tiene 5 o menos cartas en su mano, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Wind Pressure",
+        "fr": "Pression Éolienne",
+        "de": "Winddruck",
+        "it": "Pressione Ventosa",
+        "pt": "Pressão do Vento",
+        "es": "Presión Eólica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_069_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lugia",
+    "fr": "Lugia",
+    "de": "Lugia",
+    "it": "Lugia",
+    "pt": "Lugia",
+    "es": "Lugia"
+  },
+  "number": "69",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

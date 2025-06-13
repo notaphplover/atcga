@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your opponent's turn, if Ho-Oh would be Knocked Out by damage from an attack, you may flip a coin. If heads, Ho-Oh isn't discarded. Instead, remove all damage counter, Special Conditions, and other effects from Ho-Oh. Then, discard all cards attached to Ho-Oh (except for Energy cards). This counts as Ho-Oh being Knocked Out and your opponent takes a Prize card.",
+  "abilityName": "Phoenix Turn",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage times the number of different types of basic Energy cards attached to Ho-Oh."
+      },
+      "name": {
+        "en": "Rainbow Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ho-Oh"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

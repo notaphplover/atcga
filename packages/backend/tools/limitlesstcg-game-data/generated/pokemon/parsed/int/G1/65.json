@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may remove 1 damage counter from Blaine's Vulpix. This power can't be used if Blaine's Vulpix is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Natural Healing",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Tail Fan"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaine's Vulpix"
+  },
+  "number": "65",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

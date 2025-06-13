@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach a [R] Energy card from your discard pile to 1 of your Benched Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
+  "abilityName": "Firestarter",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard a [W] Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Evaporating Heat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Typhlosion"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

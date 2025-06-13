@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 50 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Triple Nose"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Probopass"
+  },
+  "number": "4",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "P8",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

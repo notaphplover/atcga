@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Deoxys ex and switch it with Deoxys ex. (Any cards attached to Deoxys ex, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys ex on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Prevent all effects of attacks, including damage, done to Deoxys ex by your opponent's Pokémon-ex during your opponent's next turn."
+      },
+      "name": {
+        "en": "Psychic Shield"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/99_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/99.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/99.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys ex"
+  },
+  "number": "99",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

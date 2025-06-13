@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Lava Burn"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 2 basic Energy cards attached to Camerupt or this attack does nothing."
+      },
+      "name": {
+        "en": "Fire Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Camerupt"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

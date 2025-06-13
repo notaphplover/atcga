@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Unown P is on your Bench, you may put 1 damage counter on 1 of your Pokémon (excluding any Unown).",
+  "abilityName": "PUT",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20+",
+      "effect": {
+        "en": "Each player discards the top card of his or her deck. This attack does 20 damage plus 20 more damage for each Unown discarded in this way."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [P]"
+  },
+  "number": "33",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Ursaring is your Active Pokémon, your opponent's Basic Pokémon can't attack or use any Poké-Powers.",
+  "abilityName": "Intimidating Ring",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+      },
+      "name": {
+        "en": "Drag Off"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Rock Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ursaring"
+  },
+  "number": "18",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

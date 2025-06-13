@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If you have Lunatone in play, damage done to your opponent's Pokémon by your [P] or [F] Pokémon isn't affected by resistance.",
+  "abilityName": "Sunlight",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20",
+      "effect": {
+        "en": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Sol Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/85_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/85.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/85.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Solrock"
+  },
+  "number": "85",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

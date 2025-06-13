@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage and the Defending Pokémon is now Paralyzed. If tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Squeeze"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a number of coins equal to the number of [W] Energy attached to Omastar. This attack does 20 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Spike Barrage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Omastar"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N2",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

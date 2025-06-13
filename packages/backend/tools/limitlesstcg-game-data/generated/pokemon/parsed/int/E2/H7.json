@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a [L] Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition.",
+  "abilityName": "Super Dynamo",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "H7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

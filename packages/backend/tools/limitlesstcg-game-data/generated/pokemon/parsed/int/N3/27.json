@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Suicune is your Active Pokémon, Suicune and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Suicune. (This power works even if Suicune is Asleep, Confused, or Paralyzed.)",
+  "abilityName": "Legendary Body",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Crystal Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Suicune"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

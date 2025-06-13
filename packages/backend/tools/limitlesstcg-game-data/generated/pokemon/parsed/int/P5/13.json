@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Electric Punch"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin for each [M] Energy attached to Pikachu. This attack does 10 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Heavy Metal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop5/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop5/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop5/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "13",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P5",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

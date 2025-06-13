@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can't be used if Regigigas is affected by a Special Condition.",
+  "abilityName": "Sacrifice",
+  "attacks": [
+    {
+      "cost": "wfmc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard the top card from your opponent's deck. Then, choose 1 card from your opponent's hand without looking and discard it. Regigigas can't use Giga Blaster during your next turn."
+      },
+      "name": {
+        "en": "Giga Blaster"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regigigas LV.X"
+  },
+  "number": "30",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each of your Benched Pokémon that has any damage counters on it."
+      },
+      "name": {
+        "en": "Raging Sea"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gastrodon West Sea"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

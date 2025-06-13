@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このカードがトラッシュにあるなら、自分の番に1回使える。このカードをベンチに出す。その後、自分のトラッシュにある[悪]エネルギーを1枚、このカードにつける。",
+  "abilityName": "リザレクション",
+  "attacks": [
+    {
+      "cost": "ddc",
+      "dmg": "130",
+      "effect": {
+        "jp": "このワザのダメージは抵抗力を計算しない。"
+      },
+      "name": {
+        "jp": "やみのさけめ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_230_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_230_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_230_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダークライGX"
+  },
+  "number": "230",
+  "rarity": "sr",
+  "regulation": "a",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SM8b",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

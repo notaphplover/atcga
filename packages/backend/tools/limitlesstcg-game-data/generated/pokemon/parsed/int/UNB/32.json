@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10+",
+      "effect": {
+        "en": "Turn 1 of your face-down Prize cards face up. If it's a [R] Energy card, this attack does 50 more damage. (That Prize card remains face up for the rest of the game.)",
+        "fr": "Retournez l'une de vos cartes Récompense (actuellement face cachée) face découverte. Si c'est une carte Énergie [R], cette attaque inflige 50 dégâts supplémentaires. (Cette carte Récompense reste face découverte pour le reste de la partie.)",
+        "de": "Decke 1 deiner verdeckten Preiskarten auf. Wenn sie eine [R]-Energiekarte ist, fügt diese Attacke 50 Schadenspunkte mehr zu. (Jene Preiskarte bleibt für den Rest des Spiels aufgedeckt.)",
+        "it": "Gira a faccia in su una delle tue carte Premio che sono a faccia in giù. Se quella carta Premio è una carta Energia [R], questo attacco infligge 50 danni in più. La carta Premio resta a faccia in su per il resto della partita.",
+        "es": "Pon 1 de tus cartas de Premio que están boca abajo boca arriba. Si es 1 carta de Energía [R], este ataque hace 50 puntos de daño más. (Esa carta de Premio permanecerá boca arriba durante el resto de la partida)."
+      },
+      "name": {
+        "en": "Blazer",
+        "fr": "Brasero",
+        "de": "Geloder",
+        "it": "Incendiario",
+        "es": "Calcinador"
+      }
+    },
+    {
+      "cost": "rrr",
+      "dmg": "50×",
+      "effect": {
+        "en": "Discard any number of [R] Energy cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+        "fr": "Défaussez autant de cartes Énergie [R] que vous le voulez de votre main. Cette attaque inflige 50 dégâts pour chaque carte défaussée de cette façon.",
+        "de": "Lege beliebig viele [R]-Energiekarten aus deiner Hand auf deinen Ablagestapel. Diese Attacke fügt 50 Schadenspunkte mal der Anzahl der auf diese Weise auf deinen Ablagestapel gelegten Karten zu.",
+        "it": "Scarta un numero qualsiasi di carte Energia [R] che hai in mano. Questo attacco infligge 50 danni per ogni carta che hai scartato in questo modo.",
+        "es": "Descarta cualquier cantidad de cartas de Energía [R] de tu mano. Este ataque hace 50 puntos de daño por cada carta que hayas descartado de esta manera."
+      },
+      "name": {
+        "en": "Fireball Circus",
+        "fr": "Cirque Boule de Feu",
+        "de": "Feuerballzirkus",
+        "it": "Palladifuoco Circense",
+        "es": "Circo de Bolas de Fuego"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_032_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blacephalon",
+    "fr": "Pierroteknik",
+    "de": "Kopplosio",
+    "it": "Blacephalon",
+    "pt": "Blacephalon",
+    "es": "Blacephalon"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UNB",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

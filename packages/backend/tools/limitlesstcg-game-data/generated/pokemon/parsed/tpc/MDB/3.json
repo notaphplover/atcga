@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "ころがる"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "70",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "かえんほうしゃ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/MDB/MDB_3_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/MDB/MDB_3_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/MDB/MDB_3_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "チャオブー"
+  },
+  "number": "3",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MDB",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

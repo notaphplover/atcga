@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "fffc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Avalanche"
+      }
+    },
+    {
+      "cost": "ffff",
+      "dmg": "100",
+      "effect": {
+        "en": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself."
+      },
+      "name": {
+        "en": "Selfdestruct"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golem"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 4,
+  "set": "FO",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

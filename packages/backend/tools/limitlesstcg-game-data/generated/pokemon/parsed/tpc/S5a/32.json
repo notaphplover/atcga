@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分のバトルポケモンをベンチポケモンと入れ替える。その後、相手は相手自身のバトルポケモンをベンチポケモンと入れ替える。",
+  "abilityName": "ウィッチロンド",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーの数×50ダメージ追加。"
+      },
+      "name": {
+        "jp": "サイコキネシス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5a/S5a_32_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5a/S5a_32_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5a/S5a_32_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブリムオン"
+  },
+  "number": "32",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "S5a",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

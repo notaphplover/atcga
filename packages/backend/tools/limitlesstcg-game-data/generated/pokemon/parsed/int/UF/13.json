@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Slowbro has any [P] Energy attached to it, Slowbro is both [W] and [P] type.",
+  "abilityName": "Dual Armor",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove 1 damage counter from each of your Pokémon (including Slowbro)."
+      },
+      "name": {
+        "en": "Parallel Gain"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Rolling Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowbro"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

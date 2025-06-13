@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Sunny Castform and switch it with Snow-cloud Castform. (Any cards attached to Snow-cloud Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Snow-cloud Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+  "abilityName": "Temperamental Weather",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "If Snow-cloud Castform has any Holon Energy cards attached to it, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Holon Blizzard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Snow-cloud Castform"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

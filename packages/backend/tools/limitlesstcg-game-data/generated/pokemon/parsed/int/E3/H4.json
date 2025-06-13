@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Beedrill from your hand to evolve your Active Pokémon, the Defending Pokémon is now Paralyzed and Poisoned.",
+  "abilityName": "Venom Spray",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip 4 coins. If you get 1 heads, this attack does 10 damage plus 10 more damage. If you get 2 heads, this attack does 10 damage plus 20 more damage. If you get 3 heads, this attack does 10 damage plus 50 more damage. If you get 4 heads, this attack does 10 damage plus 90 more damage."
+      },
+      "name": {
+        "en": "Needle Rush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beedrill"
+  },
+  "number": "H4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

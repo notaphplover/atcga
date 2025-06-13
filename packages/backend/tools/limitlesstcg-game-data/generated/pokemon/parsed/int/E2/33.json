@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done to Slowbro by attacks from Basic Pokémon (excluding Baby Pokémon) is reduced by 20.",
+  "abilityName": "Dense Body",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 damage plus 10 damage for each Energy attached to Slowbro but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Energy Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowbro"
+  },
+  "number": "33",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

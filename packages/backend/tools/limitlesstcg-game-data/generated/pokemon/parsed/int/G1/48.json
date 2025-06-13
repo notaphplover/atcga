@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Drool"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "Before doing damage, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon. This attack can't be used if your opponent has no Benched Pokémon."
+      },
+      "name": {
+        "en": "Flytrap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Erika's Weepinbell"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

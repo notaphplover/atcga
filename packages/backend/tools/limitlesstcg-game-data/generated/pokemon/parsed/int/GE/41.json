@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Palm Strike"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Hariyama has fewer remaining HP than the Defending Pokémon, this attack's base damage is 80."
+      },
+      "name": {
+        "en": "Spirited Throw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hariyama"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

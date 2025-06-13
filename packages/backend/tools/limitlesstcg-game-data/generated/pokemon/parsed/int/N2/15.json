@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage)."
+      },
+      "name": {
+        "en": "Headpress"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Lariat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ursaring"
+  },
+  "number": "15",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "N2",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

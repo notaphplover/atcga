@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "120+",
+      "effect": {
+        "jp": "相手のバトルポケモンが進化ポケモンなら、120ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダンププレス"
+      }
+    },
+    {
+      "cost": "cccc+",
+      "dmg": "210",
+      "effect": {
+        "jp": "追加でエネルギーが1個ついているなら、自分の手札が10枚になるように、山札を引く。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "メガトンフレンズGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_297_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_297_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_297_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イーブイ&カビゴンGX"
+  },
+  "number": "297",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

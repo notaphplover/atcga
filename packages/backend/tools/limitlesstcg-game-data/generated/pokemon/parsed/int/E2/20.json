@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Lightning Ball"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Discard all [L] Energy cards attached to Lanturn. Flip a number of coins equal to the number of [L] Energy cards you discarded. This attack does 30 damage plus 40 more damage for each heads."
+      },
+      "name": {
+        "en": "Conduction"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lanturn"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

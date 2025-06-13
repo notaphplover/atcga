@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "If your opponent has any Pokémon LV.X in play, each of Luxray's attacks does 50 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Rivalry",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Search your discard pile for a [L] Energy card and attach it to Luxray."
+      },
+      "name": {
+        "en": "Plasma"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard all [L] Energy attached to Luxray."
+      },
+      "name": {
+        "en": "Shock Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Luxray"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "LA",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

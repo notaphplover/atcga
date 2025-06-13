@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [G], [R], or [P] basic Energy card from your hand to Crobat, Crobat's type (color) becomes the same as that type of Energy until the end of the turn.",
+  "abilityName": "Crystal Type",
+  "attacks": [
+    {
+      "cost": "grc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned and Poisoned."
+      },
+      "name": {
+        "en": "Poison Flame"
+      }
+    },
+    {
+      "cost": "gpp",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Squared Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/147_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/147.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/147.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crobat"
+  },
+  "number": "147",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

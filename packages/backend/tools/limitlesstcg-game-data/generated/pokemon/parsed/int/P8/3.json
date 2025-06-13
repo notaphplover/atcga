@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Luxray is your Active Pokémon, any damage done by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+  "abilityName": "Intimidating Fang",
+  "attacks": [
+    {
+      "cost": "lllc",
+      "dmg": "120",
+      "effect": {
+        "en": "Flip a coin. If tails, Luxray does 40 damage to itself."
+      },
+      "name": {
+        "en": "Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Luxray"
+  },
+  "number": "3",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "P8",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

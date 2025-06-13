@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top 5 cards in your deck. Choose as many [F] Energy cards as you like, show them to your opponent, and put them into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward. This power can't be used if Sandslash is affected by a Special Condition.",
+  "abilityName": "Dig Down",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+      },
+      "name": {
+        "en": "Needle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandslash"
+  },
+  "number": "42",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

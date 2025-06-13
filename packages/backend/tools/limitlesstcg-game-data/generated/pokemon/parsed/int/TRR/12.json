@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Kingdra is in play, each of your Active Pokémon has no Weakness.",
+  "abilityName": "Dragon Veil",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Whirlpool"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kingdra"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Slap",
+        "fr": "Gifle",
+        "de": "Hieb",
+        "it": "Sberla",
+        "pt": "Tapa",
+        "es": "Bofetón"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "70×",
+      "effect": {
+        "en": "This attack does 70 damage for each of your Maushold in play.",
+        "fr": "Cette attaque inflige 70 dégâts pour chacun de vos Famignol en jeu.",
+        "de": "Diese Attacke fügt für jedes deiner Famieps im Spiel 70 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 70 danni per ogni tuo Maushold in gioco.",
+        "pt": "Este ataque causa 70 pontos de dano para cada um dos seus Maushold em jogo.",
+        "es": "Este ataque hace 70 puntos de daño por cada uno de tus Maushold en juego."
+      },
+      "name": {
+        "en": "Family Attack",
+        "fr": "Attaque en Famille",
+        "de": "Familienangriff",
+        "it": "Attacco di Famiglia",
+        "pt": "Ataque em Família",
+        "es": "Ataque en Familia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAF/PAF_210_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Maushold",
+    "fr": "Famignol",
+    "de": "Famieps",
+    "it": "Maushold",
+    "pt": "Maushold",
+    "es": "Maushold"
+  },
+  "number": "210",
+  "rarity": "s",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PAF",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

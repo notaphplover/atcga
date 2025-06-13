@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "50",
+      "effect": {
+        "en": "After your attack, remove from Beautifly the number of damage counters equal to the damage you did to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Giga Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beautifly"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "ふぶき"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "170",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「かちわりヘッド」が使えない。"
+      },
+      "name": {
+        "jp": "かちわりヘッド"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_27_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_27_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_27_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラル ヒヒダルマ"
+  },
+  "number": "27",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 3,
+  "set": "S2",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

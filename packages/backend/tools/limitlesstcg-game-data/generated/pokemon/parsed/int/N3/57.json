@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Swinub does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swinub"
+  },
+  "number": "57",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

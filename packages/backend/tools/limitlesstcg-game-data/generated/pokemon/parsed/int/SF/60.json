@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Surprise Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Duskull"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

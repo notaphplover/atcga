@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Fake Out"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Gentle Slap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nuzleaf"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

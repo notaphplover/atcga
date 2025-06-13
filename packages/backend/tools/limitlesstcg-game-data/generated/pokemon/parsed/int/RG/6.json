@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "One-Two Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kangaskhan"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

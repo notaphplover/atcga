@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, the Defending Pokémon's attacks cost [C] more, and its Retreat Cost is [C] more.",
+        "fr": "Pendant le prochain tour de votre adversaire, les attaques du Pokémon Défenseur coûtent [C] de plus, et son Coût de Retraite est augmenté de [C].",
+        "de": "Während des nächsten Zuges deines Gegners erhöhen sich die Angriffskosten und die Rückzugskosten des Verteidigenden Pokémon um [C].",
+        "it": "Durante il prossimo turno del tuo avversario, gli attacchi del Pokémon difensore costano [C] in più e il suo costo di ritirata aumenta di [C].",
+        "es": "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor cuestan [C] más, y su Coste de Retirada es de [C] más."
+      },
+      "name": {
+        "en": "Sticky Shot",
+        "fr": "Coup Gluant",
+        "de": "Klebriger Schuss",
+        "it": "Viscocolpo",
+        "es": "Disparo Pegajoso"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "60",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Water Pulse",
+        "fr": "Vibraqua",
+        "de": "Aquawelle",
+        "it": "Idropulsar",
+        "es": "Hidropulso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_029_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gastrodon",
+    "fr": "Tritosor",
+    "de": "Gastrodon",
+    "it": "Gastrodon",
+    "pt": "Gastrodon",
+    "es": "Gastrodon"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "STS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

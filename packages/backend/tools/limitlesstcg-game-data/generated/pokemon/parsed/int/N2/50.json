@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Whenever a [C] Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [N] in play. (This power works even if Unown [N] is Asleep, Confused, or Paralyzed.)",
+  "abilityName": "[Normal]",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [N]"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

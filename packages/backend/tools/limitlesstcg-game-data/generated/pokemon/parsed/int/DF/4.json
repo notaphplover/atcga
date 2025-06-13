@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn, when you play Meganium from your hand to evolve 1 of your Pokémon, you may search your deck for up to 3 in any combination of Basic Pokémon or Evolution cards. Show them to your opponent and put them into your hand. Shuffle your deck afterward.",
+  "abilityName": "Evolutionary Call",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Delta Reduction"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Mega Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

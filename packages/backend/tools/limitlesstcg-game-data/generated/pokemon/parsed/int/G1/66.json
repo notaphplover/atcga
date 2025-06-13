@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Don't apply Resistance for this attack. (Any other effects that would happen after applying Resistance still happen.)"
+      },
+      "name": {
+        "en": "Hook Shot"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/66_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/66.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/66.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Geodude"
+  },
+  "number": "66",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

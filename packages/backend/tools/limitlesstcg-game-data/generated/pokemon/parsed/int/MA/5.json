@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Team Aqua's Sharpedo."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "60",
+      "effect": {
+        "en": "Team Aqua's Sharpedo can't attack during your next turn."
+      },
+      "name": {
+        "en": "Aqua Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Sharpedo"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "water",
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage times the number of heads"
+      },
+      "name": {
+        "en": "Fin Smack"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Don't apply Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/77_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/77.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/77.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mantine"
+  },
+  "number": "77",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

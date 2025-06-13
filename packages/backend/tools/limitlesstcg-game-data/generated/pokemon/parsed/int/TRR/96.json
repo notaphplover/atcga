@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Rocket's Articuno ex has any [D] Energy attached to it, prevent all effects, except damage, by an opponent's attack done to Rocket's Articuno ex.",
+  "abilityName": "Darkness Veil",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your discard pile for a [W] Energy card and attach it to Rocket's Articuno ex."
+      },
+      "name": {
+        "en": "Freeze Solid"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Ice Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Articuno ex"
+  },
+  "number": "96",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

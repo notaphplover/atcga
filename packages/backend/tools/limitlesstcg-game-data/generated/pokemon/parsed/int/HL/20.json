@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 30 more damage."
+      },
+      "name": {
+        "en": "Silver Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Masquerain"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "HL",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Houndour has any [D] Energy attached to it, the Retreat Cost for Houndour is 0.",
+  "abilityName": "Dark Lift",
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Firebreathing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndour"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

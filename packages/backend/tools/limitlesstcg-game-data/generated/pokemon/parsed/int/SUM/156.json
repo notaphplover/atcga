@@ -1,0 +1,100 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur ce Pokémon.",
+        "de": "Diese Attacke fügt 10 Schadenspunkte mehr mal der Anzahl der Schadensmarken auf diesem Pokémon zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Este ataque hace 10 puntos de daño más por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Rage",
+        "fr": "Frénésie",
+        "de": "Raserei",
+        "it": "Ira",
+        "es": "Furia"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Horn Attack",
+        "fr": "Koud'Korne",
+        "de": "Hornattacke",
+        "it": "Incornata",
+        "es": "Cornada"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30×",
+      "effect": {
+        "en": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 30 dégâts pour chaque marqueur de dégâts placé sur ce Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 30 Schadenspunkte mal der Anzahl der Schadensmarken auf diesem Pokémon zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 30 danni per ogni segnalino danno presente su questo Pokémon. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Mad Bull-GX",
+        "fr": "Taureau Enragé-GX",
+        "de": "Wütender Stier-GX",
+        "it": "Impazzatoro-GX",
+        "es": "Toro Loco-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_156_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tauros-GX",
+    "fr": "Tauros-GX",
+    "de": "Tauros-GX",
+    "it": "Tauros-GX",
+    "pt": "Tauros-GX",
+    "es": "Tauros-GX"
+  },
+  "number": "156",
+  "rarity": "rar",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SUM",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

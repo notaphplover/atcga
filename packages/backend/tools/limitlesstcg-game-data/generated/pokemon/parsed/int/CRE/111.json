@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "100",
+      "effect": {
+        "en": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 30 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+        "pt": "Durante o próximo turno do seu oponente, este Pokémon receberá 30 pontos de dano a menos de ataques (depois de aplicar Fraqueza e Resistência).",
+        "es": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Guard Press",
+        "fr": "Pression de Garde",
+        "de": "Schutzdruck",
+        "it": "Pressadifesa",
+        "pt": "Aperto Protetor",
+        "es": "Presión de Guardia"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "240",
+      "effect": {
+        "en": "This attack also does 30 damage to each of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige aussi 30 dégâts à chacun de vos Pokémon. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt auch jedem deiner Pokémon 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge anche 30 danni a ciascuno dei tuoi Pokémon. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Este ataque também causa 30 pontos de dano a cada um dos seus Pokémon (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Este ataque también hace 30 puntos de daño a cada uno de tus Pokémon. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Seismic Rift",
+        "fr": "Faille Sismique",
+        "de": "Seismischer Bruch",
+        "it": "Frattura Sismica",
+        "pt": "Fissura Sísmica",
+        "es": "Grieta Sísmica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_111_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aggron",
+    "fr": "Galeking",
+    "de": "Stolloss",
+    "it": "Aggron",
+    "pt": "Aggron",
+    "es": "Aggron"
+  },
+  "number": "111",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "CRE",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

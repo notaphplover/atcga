@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Pound",
+        "fr": "Écras'Face",
+        "de": "Klaps",
+        "it": "Botta",
+        "pt": "Pancada",
+        "es": "Destructor"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Cette attaque inflige 60 dégâts pour chaque côté face.",
+        "de": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 60 danni ogni volta che esce testa.",
+        "pt": "Jogue uma moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 60 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Egg Rolling",
+        "fr": "Œuf Roulant",
+        "de": "Eierkullern",
+        "it": "Rotoluova",
+        "pt": "Rolando Ovos",
+        "es": "Huevo Rodante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_144_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Chansey",
+    "fr": "Leveinard",
+    "de": "Chaneira",
+    "it": "Chansey",
+    "pt": "Chansey",
+    "es": "Chansey"
+  },
+  "number": "144",
+  "rarity": "c",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVI",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

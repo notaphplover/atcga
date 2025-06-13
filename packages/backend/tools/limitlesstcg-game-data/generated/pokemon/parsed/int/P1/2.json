@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Metal Claw"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop1/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop1/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop1/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metagross"
+  },
+  "number": "2",
+  "rarity": "r",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "P1",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

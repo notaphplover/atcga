@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn, when you play Vaporeon ex from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle his or her hand into his or her deck. Then, your opponent draws up to 4 cards.",
+  "abilityName": "Evolutionary Swirl",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Fastwave"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Hydrosplash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/110_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/110.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/110.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon ex"
+  },
+  "number": "110",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

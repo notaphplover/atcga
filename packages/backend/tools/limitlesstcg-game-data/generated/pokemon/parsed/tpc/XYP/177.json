@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30×",
+      "effect": {
+        "jp": "ウラが出るまでコインを投げ、オモテの数x30ダメージ。"
+      },
+      "name": {
+        "jp": "おおしお"
+      }
+    },
+    {
+      "cost": "wwwc",
+      "dmg": "80",
+      "effect": {
+        "jp": "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力の計算をしない。］"
+      },
+      "name": {
+        "jp": "オーシャンサイクロン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_177_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_177_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_177_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カイオーガ"
+  },
+  "number": "177",
+  "resistance": [],
+  "retreat": 4,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Unown W is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "WALL",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/80_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/80.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/80.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [W]"
+  },
+  "number": "80",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Flare"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Combusken"
+  },
+  "number": "27",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

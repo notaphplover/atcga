@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Cyndaquil."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/59_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/59.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/59.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cyndaquil"
+  },
+  "number": "59",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

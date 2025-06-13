@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Extra Claws"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zangoose"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

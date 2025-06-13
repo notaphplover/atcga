@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If you have fewer Pokémon in play than your opponent, this attack does 50 more damage for each Pokémon fewer you have in play.",
+        "fr": "Si vous avez moins de Pokémon en jeu que votre adversaire, cette attaque inflige 50 dégâts supplémentaires pour chaque Pokémon de moins que vous avez en jeu.",
+        "de": "Wenn du weniger Pokémon im Spiel hast als dein Gegner, fügt diese Attacke 50 Schadenspunkte mehr mal der Anzahl der Pokémon zu, die du weniger im Spiel hast.",
+        "it": "Se hai meno Pokémon in gioco del tuo avversario, questo attacco infligge 50 danni in più per ogni Pokémon che hai in meno in gioco.",
+        "es": "Si tienes menos Pokémon en juego que tu rival, este ataque hace 50 puntos de daño más por cada Pokémon de menos que tengas en juego."
+      },
+      "name": {
+        "en": "Fight Alone",
+        "fr": "Combat Solitaire",
+        "de": "Einzelkämpfer",
+        "it": "Minoranza",
+        "es": "Lucho Solo"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Magnum Punch",
+        "fr": "Poing Magnum",
+        "de": "Magnum-Schlag",
+        "it": "Superpugno",
+        "es": "Puño Magnum"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_105_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crabominable",
+    "fr": "Crabominable",
+    "de": "Krawell",
+    "it": "Crabominable",
+    "pt": "Crabominable",
+    "es": "Crabominable"
+  },
+  "number": "105",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "UNB",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

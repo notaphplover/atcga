@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Aurora Beam",
+        "fr": "Onde Boréale",
+        "de": "Aurorastrahl",
+        "it": "Raggiaurora",
+        "es": "Rayo Aurora"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Paralyzed. This Pokémon can't use Ice Entomb during your next turn.",
+        "fr": "Le Pokémon Défenseur est maintenant Paralysé. Ce Pokémon ne peut pas utiliser Cercueil de Glace pendant votre prochain tour.",
+        "de": "Das Verteidigende Pokémon ist jetzt paralysiert. Dieses Pokémon kann während deines nächsten Zuges Eisiger Kerker nicht einsetzen.",
+        "it": "Il Pokémon difensore viene paralizzato. Durante il tuo prossimo turno, questo Pokémon non può usare Ghiacciotomba.",
+        "es": "El Pokémon Defensor pasa a estar Paralizado. Este Pokémon no puede usar Sepultura Gélida durante tu próximo turno."
+      },
+      "name": {
+        "en": "Ice Entomb",
+        "fr": "Cercueil de Glace",
+        "de": "Eisiger Kerker",
+        "it": "Ghiacciotomba",
+        "es": "Sepultura Gélida"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_031_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Walrein",
+    "fr": "Kaimorse",
+    "de": "Walraisa",
+    "it": "Walrein",
+    "pt": "Walrein",
+    "es": "Walrein"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DRX",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

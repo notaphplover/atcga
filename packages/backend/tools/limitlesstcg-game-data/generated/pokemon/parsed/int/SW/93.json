@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Fire Punch"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Smog"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/93_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/93.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/93.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar"
+  },
+  "number": "93",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

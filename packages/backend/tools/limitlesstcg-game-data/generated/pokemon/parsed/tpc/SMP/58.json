@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札を3枚引く。",
+  "abilityName": "あらかせぎ",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "相手のバトルポケモンがたねポケモンなら、60ダメージ追加。"
+      },
+      "name": {
+        "jp": "デンジャラスブロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_58_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_58_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_58_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キテルグマ"
+  },
+  "number": "58",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SMP",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.",
+  "abilityName": "Battle Sense",
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "100+",
+      "effect": {
+        "en": "This attack does 50 more damage for each Leon card in your discard pile.",
+        "fr": "Cette attaque inflige 50 dégâts supplémentaires pour chaque carte Tarak dans votre pile de défausse.",
+        "de": "Diese Attacke fügt für jede Delion-Karte in deinem Ablagestapel 50 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 50 danni in più per ogni carta Dandel nella tua pila degli scarti.",
+        "pt": "Este ataque causa 50 pontos de dano a mais para cada carta Leon na sua pilha de descarte.",
+        "es": "Este ataque hace 50 puntos de daño más por cada carta de Lionel en tu pila de descartes."
+      },
+      "name": {
+        "en": "Royal Blaze",
+        "fr": "Flambée Royale",
+        "de": "Königsflamme",
+        "it": "Fiammata Maestosa",
+        "pt": "Labareda Real",
+        "es": "Ascuas Regias"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG3_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard",
+    "fr": "Dracaufeu",
+    "de": "Glurak",
+    "it": "Charizard",
+    "pt": "Charizard",
+    "es": "Charizard"
+  },
+  "number": "TG3",
+  "rarity": "chr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LOR",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

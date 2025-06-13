@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンは、ワザを使うためのエネルギーが、[C]エネルギー1個ぶん多くなる。",
+  "abilityName": "まばゆいしせん",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30+",
+      "effect": {
+        "jp": "おたがいのバトルポケモンについているエネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "サイコボール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_23_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_23_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_23_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "クエスパトラex"
+  },
+  "number": "23",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV4a",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

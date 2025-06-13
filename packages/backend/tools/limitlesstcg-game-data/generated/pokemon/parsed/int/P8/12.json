@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy attached to Chimchar."
+      },
+      "name": {
+        "en": "Ember"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Chimchar"
+  },
+  "number": "12",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P8",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

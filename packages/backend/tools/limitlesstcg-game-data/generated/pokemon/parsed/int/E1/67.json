@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "If this attack damages the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Venusaur, if it has any."
+      },
+      "name": {
+        "en": "Leech Seed"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Strikes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/67_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/67.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/67.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venusaur"
+  },
+  "number": "67",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

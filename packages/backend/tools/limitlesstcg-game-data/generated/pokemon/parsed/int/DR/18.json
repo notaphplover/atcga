@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Ninjask from your hand to evolve 1 of your Pokémon, you may search your deck for Shedinja and put it onto your Bench. Treat the new Benched Pokémon as a Basic Pokémon. Shuffle your deck afterward.",
+  "abilityName": "Loose Shell",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "You may switch Ninjask with 1 of your Benched Pokémon. If you do, you may move any number of [G] Energy cards attached to Ninjask to the new Active Pokémon."
+      },
+      "name": {
+        "en": "Quick Touch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ninjask"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

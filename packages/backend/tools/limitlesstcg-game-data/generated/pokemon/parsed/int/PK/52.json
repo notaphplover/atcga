@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Surprise"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Acid"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lileep"
+  },
+  "number": "52",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

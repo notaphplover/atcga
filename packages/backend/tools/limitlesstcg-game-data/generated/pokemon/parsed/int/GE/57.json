@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Unown G is on your Bench, you may discard all cards attached to Unown G and attach Unown G to 1 of your Pokémon as a Pokémon Tool card. As long as Unown G is attached to a Pokémon, prevent all effects of attacks, excluding damage, done to that Pokémon.",
+  "abilityName": "GUARD",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Unown G has any damage counters on it, this attack's base damage is 10."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [G]"
+  },
+  "number": "57",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

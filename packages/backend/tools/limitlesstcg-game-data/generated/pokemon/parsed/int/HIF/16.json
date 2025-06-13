@@ -1,0 +1,80 @@
+{
+  "attacks": [
+    {
+      "cost": "wwwc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "en": "Dragon Rage",
+        "fr": "Draco-Rage",
+        "de": "Drachenwut",
+        "it": "Ira di Drago"
+      }
+    },
+    {
+      "cost": "wwwc",
+      "dmg": "240",
+      "effect": {
+        "en": "(You can't use more than 1 GX attack in a game.)",
+        "fr": "(Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "(Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Hyper Beam-GX",
+        "fr": "Ultralaser-GX",
+        "de": "Hyperstrahl-GX",
+        "it": "Iper Raggio-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_016_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados-GX",
+    "fr": "Léviator-GX",
+    "de": "Garados-GX",
+    "it": "Gyarados-GX",
+    "pt": "Gyarados-GX",
+    "es": "Gyarados-GX"
+  },
+  "number": "16",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "HIF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

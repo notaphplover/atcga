@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Shieldon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Hard Face"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Shield Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP08_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP08.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP08.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shieldon"
+  },
+  "number": "8",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

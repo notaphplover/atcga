@@ -1,0 +1,71 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30+",
+      "effect": {
+        "en": "If you have exactly 1 card in your hand, this attack does 100 more damage. If you have exactly 3 cards in your hand, your opponent's Active Pokémon is now Confused. If you have exactly 6 cards in your hand, this attack does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "S'il vous reste exactement une carte en main, cette attaque inflige 100 dégâts supplémentaires. S'il vous reste exactement 3 cartes en main, le Pokémon Actif de votre adversaire est maintenant Confus. S'il vous reste exactement 6 cartes en main, cette attaque inflige 30 dégâts à chacun des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wenn du genau 1 Karte auf deiner Hand hast, fügt diese Attacke 100 Schadenspunkte mehr zu. Wenn du genau 3 Karten auf deiner Hand hast, ist das Aktive Pokémon deines Gegners jetzt verwirrt. Wenn du genau 6 Karten auf deiner Hand hast, fügt diese Attacke jedem Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Se hai esattamente una carta in mano, questo attacco infligge 100 danni in più. Se hai esattamente tre carte in mano, il Pokémon attivo del tuo avversario viene confuso. Se hai esattamente sei carte in mano, questo attacco infligge 30 danni a ciascun Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Si tienes exactamente 1 carta en tu mano, este ataque hace 100 puntos de daño más. Si tienes exactamente 3 cartas en tu mano, el Pokémon Activo de tu rival pasa a estar Confundido. Si tienes exactamente 6 cartas en tu mano, este ataque hace 30 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Improvisational Performance",
+        "fr": "Performance Improvisée",
+        "de": "Improvisation",
+        "it": "Performance Estemporanea",
+        "es": "Actuación Improvisada"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_014_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kricketune",
+    "fr": "Mélokrik",
+    "de": "Zirpeise",
+    "it": "Kricketune",
+    "pt": "Kricketune",
+    "es": "Kricketune"
+  },
+  "number": "14",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CEC",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

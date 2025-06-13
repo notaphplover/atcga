@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手の手札からオモテを見ないで1枚選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "あんこくのキバ"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "ダークエッジ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_NAN85_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_NAN85_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_NAN85_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アブソルEX"
+  },
+  "number": "NAN85",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

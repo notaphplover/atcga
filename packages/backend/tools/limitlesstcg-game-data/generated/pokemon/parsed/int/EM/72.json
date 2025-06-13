@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Firebreathing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/72_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/72.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/72.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vulpix"
+  },
+  "number": "72",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

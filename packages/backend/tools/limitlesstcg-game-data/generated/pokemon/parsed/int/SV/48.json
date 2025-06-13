@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Drill Peck"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Lightning Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zapdos"
+  },
+  "number": "48",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

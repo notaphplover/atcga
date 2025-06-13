@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage)."
+      },
+      "name": {
+        "en": "Clamp"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Spike Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cloyster"
+  },
+  "number": "32",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "FO",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "かたいからだ",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "50",
+      "effect": {
+        "jp": "次の自分の番、このポケモンの「スピニングニードル」のダメージは「+100」される。"
+      },
+      "name": {
+        "jp": "スピニングニードル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3a/SV3a_72_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3a/SV3a_72_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3a/SV3a_72_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ナットレイ"
+  },
+  "number": "72",
+  "rarity": "ar",
+  "regulation": "g",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "SV3a",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "10+",
+      "effect": {
+        "jp": "自分のベンチポケモンにのっているダメカンの数x10ダメージ追加。"
+      },
+      "name": {
+        "jp": "リベンジほう"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このワザのダメージは抵抗力を計算しない。"
+      },
+      "name": {
+        "jp": "バスタースイング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_34_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_34_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_34_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボスゴドラ"
+  },
+  "number": "34",
+  "rarity": "r",
+  "regulation": "a",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "SM4S",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

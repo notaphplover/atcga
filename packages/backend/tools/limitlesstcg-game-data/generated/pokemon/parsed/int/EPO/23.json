@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "If this Pokémon has any [G] Energy attached to it, heal 20 damage from this Pokémon.",
+        "fr": "Si de l'Énergie [G] est attachée à ce Pokémon, soignez 20 dégâts à ce Pokémon.",
+        "de": "Wenn an dieses Pokémon bereits [G]-Energie angelegt ist, heile 20 Schadenspunkte bei diesem Pokémon.",
+        "it": "Se questo Pokémon ha delle Energie [G] assegnate, curalo da 20 danni.",
+        "es": "Si este Pokémon tiene cualquier Energía [G] unida a él, cura 20 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Grass' Power",
+        "fr": "Pouvoir Fertilisant",
+        "de": "Pflanzenmacht",
+        "it": "Erbopotere",
+        "es": "Poder de Planta"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Move an Energy attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon.",
+        "fr": "Déplacez une Énergie attachée au Pokémon Défenseur vers 1 des Pokémon de Banc de votre adversaire.",
+        "de": "Verschiebe 1 an das Verteidigende Pokémon angelegte Energie auf 1 Pokémon auf der Bank deines Gegners.",
+        "it": "Sposta un'Energia assegnata al Pokémon difensore su uno dei Pokémon in panchina del tuo avversario.",
+        "es": "Mueve una Energía unida al Pokémon Defensor a 1 de los Pokémon en Banca de tu rival."
+      },
+      "name": {
+        "en": "Rushing Water",
+        "fr": "Courant Fort",
+        "de": "Stromschnelle",
+        "it": "Forte Corrente",
+        "es": "Fuerte Corriente"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_023_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Simipour",
+    "fr": "Flotoutan",
+    "de": "Sodachita",
+    "it": "Simipour",
+    "pt": "Simipour",
+    "es": "Simipour"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EPO",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

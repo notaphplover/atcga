@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Armaldo ex has any React Energy cards attached to it, Armaldo ex is both [G] and [F] type.",
+  "abilityName": "Dual Armor",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove 2 damage counters from Armaldo ex."
+      },
+      "name": {
+        "en": "Spiral Drain"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "70",
+      "effect": {
+        "en": "If the Defending Pokémon has any Resistance, this attack's base damage is 100 instead of 70."
+      },
+      "name": {
+        "en": "Vortex Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/84_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/84.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/84.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Armaldo ex"
+  },
+  "number": "84",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LM",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

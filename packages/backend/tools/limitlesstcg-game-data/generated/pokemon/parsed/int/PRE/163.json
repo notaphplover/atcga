@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "Once during your turn, you may switch 1 of your Benched [D] Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+  "abilityName": "Subjugating Chains",
+  "attacks": [
+    {
+      "cost": "dd",
+      "dmg": "60×",
+      "effect": {
+        "en": "This attack does 60 damage for each Prize card your opponent has taken.",
+        "fr": "Cette attaque inflige 60 dégâts pour chaque carte Récompense que votre adversaire a récupérée.",
+        "de": "Diese Attacke fügt für jede von deinem Gegner genommene Preiskarte 60 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 60 danni per ogni carta Premio presa dal tuo avversario.",
+        "pt": "Este ataque causa 60 pontos de dano para cada carta de Prêmio que seu oponente pegou.",
+        "es": "Este ataque hace 60 puntos de daño por cada carta de Premio que haya cogido tu rival."
+      },
+      "name": {
+        "en": "Irritated Outburst",
+        "fr": "Emportement Agacé",
+        "de": "Erboster Ausraster",
+        "it": "Irritascoppio",
+        "pt": "Chilique",
+        "es": "Estallido de Rabia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pecharunt ex",
+    "fr": "Pêchaminus-ex",
+    "de": "Infamomo-ex",
+    "it": "Pecharunt-ex",
+    "pt": "Pecharunt ex",
+    "es": "Pecharunt ex"
+  },
+  "number": "163",
+  "rarity": "sar",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PRE",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

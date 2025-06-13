@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Searing Flame"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "90",
+      "effect": {
+        "en": "Discard 2 Energy attached to Entei ex."
+      },
+      "name": {
+        "en": "Bright Flame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Entei ex"
+  },
+  "number": "91",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

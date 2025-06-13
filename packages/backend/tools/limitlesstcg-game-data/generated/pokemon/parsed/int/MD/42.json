@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Any damage done by attacks from your Pokémon to the Defending Pokémon isn't affected by Resistance.",
+  "abilityName": "Disturbance Scales",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30×",
+      "effect": {
+        "en": "Does 30 damage times the number of different types of Wormadam on your Bench."
+      },
+      "name": {
+        "en": "Get Help"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may switch Mothim with 1 of your Benched Pokémon. If you do, move as many Energy cards attached to Mothim as you like to the new Active Pokémon."
+      },
+      "name": {
+        "en": "Quick Touch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mothim"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

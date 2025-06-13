@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30+",
+      "effect": {
+        "jp": "相手の手札を見て、その中のポケモンを1枚選び、相手の山札の下にもどす。もどした場合、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "かぜさらい"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x30ダメージを追加。"
+      },
+      "name": {
+        "jp": "てんぐのまい"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_39_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_39_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_39_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダーテング"
+  },
+  "number": "39",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

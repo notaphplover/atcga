@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Aura Sphere"
+      }
+    },
+    {
+      "cost": "mc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Do the Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lucario"
+  },
+  "number": "53",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

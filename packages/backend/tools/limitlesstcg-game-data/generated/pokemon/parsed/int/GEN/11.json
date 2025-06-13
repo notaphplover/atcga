@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Attach a [R] Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie [R] de votre pile de défausse à ce Pokémon.",
+        "de": "Nimm 1 [R]-Energiekarte von deinem Ablagestapel und lege sie an dieses Pokémon an.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, questo attacco infligge 40 danni in più.",
+        "es": "Une 1 carta de Energía [R] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Flame Cloak",
+        "fr": "Manteau de Feu",
+        "de": "Flammenumhang",
+        "it": "Soffio Infuocato",
+        "es": "Manto Ígneo"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "80+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 more damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 40 weitere Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "es": "Lanza 2 monedas. Este ataque hace 40 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Burning Breath",
+        "fr": "Souffle de Feu",
+        "de": "Heißer Hauch",
+        "es": "Aliento Abrasador"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_011_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard-EX",
+    "fr": "Dracaufeu-EX",
+    "de": "Glurak-EX",
+    "it": "Charizard-EX",
+    "pt": "Charizard-EX",
+    "es": "Charizard-EX"
+  },
+  "number": "11",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GEN",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

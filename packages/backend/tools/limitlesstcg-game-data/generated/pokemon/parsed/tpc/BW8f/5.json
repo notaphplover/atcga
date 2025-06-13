@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "シザークロス"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "80",
+      "effect": {
+        "jp": "エネルギーがついている自分のポケモン全員のHPを、それぞれ「20」回復する。"
+      },
+      "name": {
+        "jp": "エナジーブルーム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8f/BW8f_5_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8f/BW8f_5_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8f/BW8f_5_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジュカイン"
+  },
+  "number": "5",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "BW8f",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "jp": "マッドショット"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "120+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、60ダメージ追加。ウラなら、このポケモンにも60ダメージ。"
+      },
+      "name": {
+        "jp": "あばれる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_22_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_22_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_22_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ナマズン"
+  },
+  "number": "22",
+  "rarity": "u",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 3,
+  "set": "S9a",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

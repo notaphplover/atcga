@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Skarmory is the only Pokémon you have in play, your opponent's Basic Pokémon can't attack.",
+  "abilityName": "Shining Horn",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Skarmory by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Steel Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/55_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/55.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/55.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skarmory"
+  },
+  "number": "55",
+  "rarity": "u",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

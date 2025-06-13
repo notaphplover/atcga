@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Remove all Special Conditions from each of your [G] Pokémon. Each of your [G] Pokémon can't be affected by any Special Conditions.",
+  "abilityName": "Green Aroma",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "If Venusaur already has 8 or more damage counters on it, the Defending Pokémon is now Burned, Confused, and Poisoned."
+      },
+      "name": {
+        "en": "Desperate Pollen"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by any Special Conditions, this attack does 40 damage plus 40 more damage for each of those Special Conditions."
+      },
+      "name": {
+        "en": "Special Reaction"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venusaur"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SV",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

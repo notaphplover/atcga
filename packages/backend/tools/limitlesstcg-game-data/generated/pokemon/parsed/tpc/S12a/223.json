@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "190",
+      "effect": {
+        "jp": "相手のベンチの「ポケモンV」1匹にも、60ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "サイコジャベリン"
+      }
+    },
+    {
+      "cost": "p",
+      "dmg": "60×",
+      "effect": {
+        "jp": "おたがいのバトルポケモンについているエネルギーの数×60ダメージ。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "スターフォース"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12a/S12a_223_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12a/S12a_223_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12a/S12a_223_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "デオキシスVSTAR"
+  },
+  "number": "223",
+  "rarity": "sar",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "S12a",
+  "stage": "vstar",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

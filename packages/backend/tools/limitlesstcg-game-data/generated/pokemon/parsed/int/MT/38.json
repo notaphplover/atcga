@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused. During your opponent's next turn, that Pokémon's attacks do 60 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Bad Temper"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If Teddiursa is on your Bench, this attack does 60 damage plus 20 more damage. If Teddiursa is on your Bench and has any damage counters on it, this attack does 60 damage plus 40 more damage and remove all damage counters from that Pokémon."
+      },
+      "name": {
+        "en": "Defensive Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ursaring"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

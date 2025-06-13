@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tail Slap"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dratini"
+  },
+  "number": "91",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

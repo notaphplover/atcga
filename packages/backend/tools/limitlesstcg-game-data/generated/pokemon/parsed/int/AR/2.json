@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Froslass from your hand to evolve 1 of your Pokémon, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+  "abilityName": "Snow Gift",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "50",
+      "effect": {
+        "en": "If there is any Stadium Card in play, this attack does nothing."
+      },
+      "name": {
+        "en": "Ground Frost"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Froslass"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

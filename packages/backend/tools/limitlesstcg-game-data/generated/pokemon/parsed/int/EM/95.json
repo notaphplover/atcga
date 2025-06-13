@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Medicham ex is your Active Pokémon, each Pokémon (excluding Pokémon-ex) (both yours and your opponent's) can't use any Poké-Powers.",
+  "abilityName": "Wise Aura",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon has [F] Resistance, this attack does 60 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Sky Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Medicham ex"
+  },
+  "number": "95",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

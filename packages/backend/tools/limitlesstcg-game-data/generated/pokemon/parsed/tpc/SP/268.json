@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "リーフガード"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "180",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「スラッシュダウン」が使えない。"
+      },
+      "name": {
+        "jp": "スラッシュダウン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_268_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_268_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_268_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "リーフィアV"
+  },
+  "number": "268",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

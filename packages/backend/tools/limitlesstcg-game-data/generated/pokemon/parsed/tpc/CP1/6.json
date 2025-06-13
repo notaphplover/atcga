@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "おたがいの場にいる「アクア団」のポケモンの合計が4匹以下なら、このポケモンはワザが使えない。",
+  "abilityName": "パワーセーバー",
+  "attacks": [
+    {
+      "cost": "wwwc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "相手のバトルポケモンのにげるために必要なエネルギーの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "アクアインパクト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP1/CP1_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP1/CP1_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP1/CP1_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アクア団のカイオーガEX"
+  },
+  "number": "6",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "CP1",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

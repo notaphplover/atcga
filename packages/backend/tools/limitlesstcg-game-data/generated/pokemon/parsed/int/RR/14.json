@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may discard the top card of your deck. If you do, remove 2 damage counters and all Special Conditions from Aggron."
+      },
+      "name": {
+        "en": "Metal Fang"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Heavy Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aggron"
+  },
+  "number": "14",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "RR",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

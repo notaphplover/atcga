@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you play Skuntank from your hand to evolve 1 of your Active Pokémon, you may choose 1 of the Defending Pokémon. If that Pokémon tries to attack during your opponent's next turn, that attack does nothing.",
+  "abilityName": "Evolutionary Gas",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Claws"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Plunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skuntank"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

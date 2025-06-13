@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Dark Muk is your Active Pokémon, your opponent pays [C][C] more to retreat his or her Active Pokémon. This power stops working while Dark Muk is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Sticky Goo",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Sludge Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Muk"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

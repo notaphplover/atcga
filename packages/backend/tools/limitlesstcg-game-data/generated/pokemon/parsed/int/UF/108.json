@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As long as Scizor ex's remaining HP is 60 or less, Scizor ex does 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Danger Perception",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Scizor ex by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Steel Wing"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon is an Evolved Pokémon, this attack does 50 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Cross-Cut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/108_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/108.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/108.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scizor ex"
+  },
+  "number": "108",
+  "rarity": "ur",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "10+",
+      "effect": {
+        "jp": "このポケモンの残りHPが「30」以下なら、160ダメージ追加。"
+      },
+      "name": {
+        "jp": "さとりのいちげき"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "90",
+      "effect": {
+        "jp": "このポケモンにも30ダメージ。"
+      },
+      "name": {
+        "jp": "スピニングキック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_46_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_46_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_46_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "チャーレム"
+  },
+  "number": "46",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM7",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

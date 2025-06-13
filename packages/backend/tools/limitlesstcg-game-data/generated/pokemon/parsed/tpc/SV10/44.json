@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番に何回でも使える。自分の場の「ロケット団のポケモン」にのっているダメカンを1個選び、自分の別のポケモンにのせ替える。",
+  "abilityName": "ロケットブレイン",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーの数×40ダメージ追加。"
+      },
+      "name": {
+        "jp": "サイコキネシス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_44_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_44_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_44_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロケット団のイオルブ"
+  },
+  "number": "44",
+  "rarity": "u",
+  "regulation": "i",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SV10",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

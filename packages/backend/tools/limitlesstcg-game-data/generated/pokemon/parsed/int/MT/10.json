@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Honchkrow has the Energy necessary to use its attack, each of your Murkrow can use Honchkrow's attack as its own without the Energy necessary to use that attack.",
+  "abilityName": "Dark Genes",
+  "attacks": [
+    {
+      "cost": "ddc",
+      "dmg": "50",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Dark Wing Flaps"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Honchkrow"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

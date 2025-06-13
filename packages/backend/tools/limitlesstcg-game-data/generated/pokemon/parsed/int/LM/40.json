@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Misdreavus is your Active Pokémon, each player flips 2 coins for his or her Pokémon that is Asleep between turns. If either coin is tails, that Pokémon is still Asleep.",
+  "abilityName": "Deep Sleep",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon is not Asleep, this attack does nothing."
+      },
+      "name": {
+        "en": "Dream Eater"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misdreavus"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

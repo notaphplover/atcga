@@ -1,0 +1,106 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Eerie Light",
+        "fr": "Lumière Étrange",
+        "de": "Gespenstisches Licht",
+        "it": "Luci Inquietanti",
+        "es": "Luz Lúgubre"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Heal 20 damage from this Pokémon.",
+        "fr": "Soignez 20 dégâts à ce Pokémon.",
+        "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 20 danni.",
+        "es": "Cura 20 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Absorb Life",
+        "fr": "Absorption",
+        "de": "Lebensverkoster",
+        "it": "Spolpavita",
+        "es": "Absorber Vida"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Look at the top 13 cards of your opponent's deck and discard any number of Pokémon you find there. This attack does 60 damage for each card you discarded in this way. Your opponent shuffles the other cards back into their deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Regardez les 13 cartes du dessus du deck de votre adversaire et défaussez-en autant de Pokémon que vous voulez. Cette attaque inflige 60 dégâts pour chaque carte défaussée de cette façon. Votre adversaire mélange les autres cartes avec son deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Schau dir die obersten 13 Karten des Decks deines Gegners an und lege beliebig viele Pokémon, die du dort findest, auf seinen Ablagestapel. Diese Attacke fügt 60 Schadenspunkte mal der Anzahl der auf diese Weise auf seinen Ablagestapel gelegten Karten zu. Dein Gegner mischt die anderen Karten zurück in sein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Guarda le prime 13 carte del mazzo del tuo avversario e scarta un numero qualsiasi di Pokémon presenti tra esse. Questo attacco infligge 60 danni per ogni carta che hai scartato in questo modo. Il tuo avversario rimischia le altre carte nel suo mazzo. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Sandy Fear-gx",
+        "fr": "Crainte Ensablée-GX",
+        "de": "Sandfurcht-GX",
+        "it": "Terrore Siliceo-GX",
+        "es": "Temor Arena-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_082_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Palossand-GX",
+    "fr": "Trépassable-GX",
+    "de": "Colossand-GX",
+    "it": "Palossand-GX",
+    "pt": "Palossand-GX",
+    "es": "Palossand-GX"
+  },
+  "number": "82",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "CES",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

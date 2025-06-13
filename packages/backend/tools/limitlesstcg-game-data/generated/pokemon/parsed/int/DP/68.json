@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Unown D is on your Bench, you may flip a coin. If heads, each player may draw a card. (You draw your card first.)",
+  "abilityName": "DRAW",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/68_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/68.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/68.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [D]"
+  },
+  "number": "68",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

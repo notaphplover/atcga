@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Regice can't be affected by any Special Conditions.",
+  "abilityName": "Clear Body",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Icy Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regice"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

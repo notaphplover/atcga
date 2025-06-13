@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 100 more damage.",
+        "fr": "Si ce Pokémon et le Pokémon Actif de votre adversaire ont autant d'Énergies attachées, cette attaque inflige 100 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon genauso viel Energie angelegt ist wie an das Aktive Pokémon deines Gegners, fügt diese Attacke 100 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon e il Pokémon attivo del tuo avversario hanno la stessa quantità di Energie assegnate, questo attacco infligge 100 danni in più.",
+        "pt": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem a mesma quantidade de Energia ligada a eles, este ataque causará 100 pontos de dano a mais.",
+        "es": "Si este Pokémon y el Pokémon Activo de tu rival tienen la misma cantidad de Energías unidas, este ataque hace 100 puntos de daño más."
+      },
+      "name": {
+        "en": "Precise Beak",
+        "fr": "Bec Précis",
+        "de": "Präziser Schnabel",
+        "it": "Becco Preciso",
+        "pt": "Bico de Precisão",
+        "es": "Pico Preciso"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "200",
+      "effect": {
+        "en": "This Pokémon also does 30 damage to itself.",
+        "fr": "Ce Pokémon s'inflige aussi 30 dégâts.",
+        "de": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
+        "it": "Questo Pokémon infligge anche 30 danni a se stesso.",
+        "pt": "Este Pokémon também causa 30 pontos de dano a si mesmo.",
+        "es": "Este Pokémon también se hace 30 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Brave Bird",
+        "fr": "Rapace",
+        "de": "Sturzflug",
+        "it": "Baldeali",
+        "pt": "Pássaro Bravo",
+        "es": "Pájaro Osado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flamigo ex",
+    "fr": "Flamenroule-ex",
+    "de": "Flaminkno-ex",
+    "it": "Flamigo-ex",
+    "pt": "Flamigo ex",
+    "es": "Flamigo ex"
+  },
+  "number": "160",
+  "rarity": "rr",
+  "regulation": "h",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SSP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

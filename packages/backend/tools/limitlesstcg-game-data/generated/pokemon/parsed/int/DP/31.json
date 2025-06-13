@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20+",
+      "effect": {
+        "en": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 50 more damage."
+      },
+      "name": {
+        "en": "Revenge"
+      }
+    },
+    {
+      "cost": "fff",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage and the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Dynamic Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

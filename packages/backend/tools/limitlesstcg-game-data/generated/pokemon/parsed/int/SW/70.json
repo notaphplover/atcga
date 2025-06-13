@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have Unown O, Unown N, and Unown E on your Bench and you have 1 card left in your hand, you may draw cards until you have 7 cards in your hand.",
+  "abilityName": "ONE",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/70_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/70.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/70.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [O]"
+  },
+  "number": "70",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

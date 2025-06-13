@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Groudon ex has 1 Energy or less attached to it, damage done to any of your Groudon ex in play by attacks is reduced by 20 (after applying Weakness and Resistance). You can't use more than 1 Hard Rock Poké-Body each turn.",
+  "abilityName": "Hard Rock",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 2 Energy attached to Groudon ex."
+      },
+      "name": {
+        "en": "Power Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/93_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/93.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/93.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Groudon ex"
+  },
+  "number": "93",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CG",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

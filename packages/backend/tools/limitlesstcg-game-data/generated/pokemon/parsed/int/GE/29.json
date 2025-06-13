@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have Unown H, Unown E, Unown A, and Unown L on your Bench, you may remove all Special Conditions from 1 of your Active Pokémon.",
+  "abilityName": "HEAL",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a card from your hand. (If you can't discard a card from your hand, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [H]"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

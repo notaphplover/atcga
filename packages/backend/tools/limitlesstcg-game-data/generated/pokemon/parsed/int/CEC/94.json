@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "You may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.",
+        "fr": "Vous pouvez demander à votre adversaire d'échanger son Pokémon Actif avec l'un de ses Pokémon de Banc.",
+        "de": "Du kannst deinen Gegner dazu veranlassen, sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank auszutauschen.",
+        "it": "Puoi far scambiare al tuo avversario il suo Pokémon attivo con uno della sua panchina.",
+        "es": "Puedes hacer que tu rival cambie su Pokémon Activo por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Perplexing Forest",
+        "fr": "Forêt Déroutante",
+        "de": "Verblüffender Wald",
+        "it": "Foresta Sconcertante",
+        "es": "Bosque Desconcertante"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "120",
+      "effect": {
+        "en": "Put 4 damage counters on 1 of your Pokémon.",
+        "fr": "Placez 4 marqueurs de dégâts sur l'un de vos Pokémon.",
+        "de": "Lege 4 Schadensmarken auf 1 deiner Pokémon.",
+        "it": "Metti quattro segnalini danno su uno dei tuoi Pokémon.",
+        "es": "Pon 4 contadores de daño en 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Shadow Impact",
+        "fr": "Impact Lugubre",
+        "de": "Schatteneinschlag",
+        "it": "Impatto Ombra",
+        "es": "Impacto Sombra"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_094_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Trevenant",
+    "fr": "Desséliande",
+    "de": "Trombork",
+    "it": "Trevenant",
+    "pt": "Trevenant",
+    "es": "Trevenant"
+  },
+  "number": "94",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "CEC",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Flare"
+      }
+    },
+    {
+      "cost": "rccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Arcanine does 10 damage to itself."
+      },
+      "name": {
+        "en": "Heat Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

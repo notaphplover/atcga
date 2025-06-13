@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンが、相手の[水]ポケモンから受けるワザのダメージは、「-30」される。",
+  "abilityName": "かんそうはだ",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "60",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "はかいこうせん"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_82_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_82_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_82_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エレザード"
+  },
+  "number": "82",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "XYP",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

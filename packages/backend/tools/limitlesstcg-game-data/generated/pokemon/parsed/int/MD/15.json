@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "After your opponent's Pokémon uses a Poké-Power, put 2 damage counters on that Pokémon.",
+  "abilityName": "Primal Claw",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aerodactyl"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

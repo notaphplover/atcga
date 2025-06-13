@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Prevent all effects of your opponent's attacks, other than damage, done to Suicune. This power stops working while Suicune is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Crystal Body",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If only 1 is heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Aurora Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Suicune"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

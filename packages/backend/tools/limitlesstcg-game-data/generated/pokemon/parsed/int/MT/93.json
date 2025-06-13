@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.",
+  "abilityName": "Baby Evolution",
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Chupi"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/93_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/93.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/93.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pichu"
+  },
+  "number": "93",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札から「グッズ」を出して使えない。",
+  "abilityName": "マジックルーム",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "このポケモンについている[超]エネルギーの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "マッドキネシス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_57_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_57_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_57_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴチルゼル"
+  },
+  "number": "57",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EBB",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

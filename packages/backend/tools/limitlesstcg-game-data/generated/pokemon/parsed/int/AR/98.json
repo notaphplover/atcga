@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you put Salamence LV.X from your hand onto your Active Salamence, you may use this power. For each of your opponent's Pokémon that is Knocked Out by damage from Salamence's attacks this turn, take 1 more Prize card.",
+  "abilityName": "Double Fall",
+  "attacks": [
+    {
+      "cost": "rwcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard an Energy card attached to Salamence."
+      },
+      "name": {
+        "en": "Steam Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence LV.X"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "AR",
+  "stage": "lvx",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

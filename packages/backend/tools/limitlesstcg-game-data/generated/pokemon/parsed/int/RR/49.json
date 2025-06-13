@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Sharpedo is your Active Pokémon and is damaged by an opponent's attack (even if Sharpedo is Knocked Out), flip a coin. If heads, discard an Energy card attached to the Attacking Pokémon.",
+  "abilityName": "Energy Shark",
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "If an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage to that Pokémon until the end of your next turn."
+      },
+      "name": {
+        "en": "Crunch"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Sharp Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sharpedo"
+  },
+  "number": "49",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 0,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Regirock can't be affected by any Special Conditions.",
+  "abilityName": "Clear Body",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "40",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regirock"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

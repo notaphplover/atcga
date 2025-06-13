@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Mud Slap"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Sand Pit"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Diglett"
+  },
+  "number": "50",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

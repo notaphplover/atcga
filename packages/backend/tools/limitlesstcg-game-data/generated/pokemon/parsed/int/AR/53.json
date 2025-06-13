@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "If you played Beedrill G from your hand during this turn, this attack's base damage is 40 instead of 10."
+      },
+      "name": {
+        "en": "Raid"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beedrill G"
+  },
+  "number": "53",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

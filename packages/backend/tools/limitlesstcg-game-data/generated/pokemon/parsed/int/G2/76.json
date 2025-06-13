@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Kick"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "You can't use this attack unless Giovanni's Nidoran ♂ has 2 or more damage counters on it."
+      },
+      "name": {
+        "en": "Retaliation"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/76_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/76.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/76.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Nidoran ♂"
+  },
+  "number": "76",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

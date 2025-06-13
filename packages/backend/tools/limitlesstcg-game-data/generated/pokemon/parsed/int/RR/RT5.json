@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. Wash Rotom's type is [W] until the end of your turn.",
+  "abilityName": "Wash Shift",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, choose 1 card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Drain Wash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/RT5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/RT5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/RT5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wash Rotom"
+  },
+  "number": "RT5",
+  "rarity": "hr",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

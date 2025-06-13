@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "10",
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Time Bellow"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck."
+      },
+      "name": {
+        "en": "Flash Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga"
+  },
+  "number": "26",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

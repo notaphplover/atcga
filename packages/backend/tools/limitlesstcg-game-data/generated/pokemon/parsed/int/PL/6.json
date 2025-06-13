@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Dialga is your Active Pokémon, your opponent can't play any Pokémon from his or her hand to evolve his or her Active Pokémon.",
+  "abilityName": "Time Aura",
+  "attacks": [
+    {
+      "cost": "mmcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard all [M] Energy attached to Dialga."
+      },
+      "name": {
+        "en": "Metal Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

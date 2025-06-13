@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10",
+      "effect": {
+        "en": "You may discard a [D] Energy card attached to Team Aqua's Cacturne. If you do, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dark Bind"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Barb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Cacturne"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "grass",
+    "darkness"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

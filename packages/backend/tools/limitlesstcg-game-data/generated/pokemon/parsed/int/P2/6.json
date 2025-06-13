@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Wide Solarbeam"
+      }
+    },
+    {
+      "cost": "gggc",
+      "dmg": "80",
+      "effect": {
+        "en": "Venusaur can't use Hard Plant during your next turn."
+      },
+      "name": {
+        "en": "Hard Plant"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop2/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop2/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop2/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venusaur"
+  },
+  "number": "6",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "P2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

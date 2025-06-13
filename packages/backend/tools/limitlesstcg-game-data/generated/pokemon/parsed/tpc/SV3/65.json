@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手がベンチに出せるポケモンの数は3匹になる。相手のベンチに4匹以上いるなら、相手はベンチが3匹になるまでポケモンをトラッシュする。［ベンチの数を変更する効果は、少ない数が優先される。］",
+  "abilityName": "ダストフィールド",
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "140",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "ポイズンジェム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_65_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_65_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_65_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キラフロルex"
+  },
+  "number": "65",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV3",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

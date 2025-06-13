@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking. Look at that card you chose, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Astonish"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "Remove 2 damage counters from Lileep."
+      },
+      "name": {
+        "en": "Absorb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lileep"
+  },
+  "number": "105",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

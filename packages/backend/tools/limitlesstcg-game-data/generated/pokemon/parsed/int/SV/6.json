@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Magmortar from your hand to evolve 1 of your Pokémon, you may use this power. Your opponent's Active Pokémon is now Burned and Confused.",
+  "abilityName": "Evolutionary Flame",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may move a [R] Energy card attached to Magmortar to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Flame Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmortar"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

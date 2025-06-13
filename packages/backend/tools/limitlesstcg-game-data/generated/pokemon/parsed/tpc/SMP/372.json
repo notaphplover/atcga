@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、ダメカン4個を、相手のポケモンに好きなようにのせる。",
+  "abilityName": "しのこくいん",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の自分の番、このポケモンの「じこあんじ」のダメージは「+60」される。"
+      },
+      "name": {
+        "jp": "じこあんじ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_372_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_372_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_372_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヨノワール"
+  },
+  "number": "372",
+  "regulation": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SMP",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

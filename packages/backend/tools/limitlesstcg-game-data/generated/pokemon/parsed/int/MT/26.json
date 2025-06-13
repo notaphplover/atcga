@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Gyarados can use any attack from its Basic Pokémon. (You still have to pay for that attack's Energy cost.) If Gyarados uses any attack from its Basic Pokémon, that attack does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Dragon DNA",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, choose 1 card from your opponent's hand without looking and discard it. If the first coin is tails, Gyarados is now Confused."
+      },
+      "name": {
+        "en": "Enrage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

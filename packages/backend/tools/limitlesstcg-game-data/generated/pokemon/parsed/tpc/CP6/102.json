@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このドードーがにげるときはカードを持ち、思い切り投げる。なぜなら逃げまくるから。スナップをきかせて水平に投げるとよく飛ぶぞ！",
+  "abilityName": "【特殊能力】にげまくり",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "このワザを使ったプレイヤーはこのワザを使った瞬間から歌を歌いはじめなければならない。（歌を歌っている間、対戦は続行する。）歌が歌い終わったら、相手に30ダメージを与える。"
+      },
+      "name": {
+        "jp": "ハモる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP6/CP6_102_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP6/CP6_102_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP6/CP6_102_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イマクニ?のドードー"
+  },
+  "number": "102",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "CP6",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

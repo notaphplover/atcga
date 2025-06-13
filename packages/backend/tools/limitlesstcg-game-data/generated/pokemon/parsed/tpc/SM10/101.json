@@ -1,0 +1,62 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "前の相手の番に、ワザのダメージで、自分のポケモンがきぜつしていたなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "リベンジ"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "160",
+      "effect": {},
+      "name": {
+        "jp": "ひゃくれつインパクト"
+      }
+    },
+    {
+      "cost": "ffc+",
+      "dmg": "200",
+      "effect": {
+        "jp": "追加でエネルギーが1個ついているなら、次の相手の番、このポケモンがワザのダメージを受けてきぜつするとき、このポケモンはきぜつせず、残りHPが「10」の状態で場に残る。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ごうけつのきわみGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_101_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_101_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_101_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マーシャドー&カイリキーGX"
+  },
+  "number": "101",
+  "rarity": "sr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM10",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

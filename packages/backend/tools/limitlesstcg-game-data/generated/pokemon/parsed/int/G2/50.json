@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage and Koga's Weezing does 30 damage to itself; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Spontaneous Explosion"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+      },
+      "name": {
+        "en": "Toxic Cloud"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Koga's Weezing"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

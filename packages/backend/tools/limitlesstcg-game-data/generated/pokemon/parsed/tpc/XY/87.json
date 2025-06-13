@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンは、特殊エネルギーがついている相手のポケモンから、ワザのダメージを受けない。",
+  "abilityName": "マイティシールド",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "このポケモンについている[鋼]エネルギーの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "スラッシュブラスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_87_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_87_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_87_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギルガルドEX"
+  },
+  "number": "87",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

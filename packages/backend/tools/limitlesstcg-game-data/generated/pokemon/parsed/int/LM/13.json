@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may switch 1 of your opponent's Benched Stage 2 Evolved Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. This power can't be used if Victreebel is affected by a Special Condition.",
+  "abilityName": "Nectar Pod",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned."
+      },
+      "name": {
+        "en": "Sleep Poison"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Sharp Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Victreebel"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

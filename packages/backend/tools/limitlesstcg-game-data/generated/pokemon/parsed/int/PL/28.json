@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dragonbreath"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giratina"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Flying Pikachu; if tails, this attack does nothing (not even damage)."
+      },
+      "name": {
+        "en": "Fly"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/113_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/113.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/113.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flying Pikachu"
+  },
+  "number": "113",
+  "rarity": "sr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": []
+}

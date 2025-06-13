@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "Discard the top card of your opponent's deck. If that card is an Energy card, this attack does 60 more damage.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire. Si c'est une carte Énergie, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel. Falls es eine Energiekarte ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+        "it": "Scarta la carta in cima al mazzo del tuo avversario. Se è una carta Energia, questo attacco infligge 60 danni in più.",
+        "es": "Descarta la primera carta de la baraja de tu rival. Si es una carta de Energía, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Furry Chance",
+        "fr": "Chance Fourrure",
+        "de": "Haarige Chance",
+        "it": "Fortunpelo",
+        "es": "Oportunidad Peluda"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 50 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 50 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Hit",
+        "fr": "Coup Double",
+        "de": "Doppelschlag",
+        "it": "Doppiosmash",
+        "es": "Doble Golpe"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_091_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ambipom",
+    "fr": "Capidextre",
+    "de": "Ambidiffel",
+    "it": "Ambipom",
+    "pt": "Ambipom",
+    "es": "Ambipom"
+  },
+  "number": "91",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "STS",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

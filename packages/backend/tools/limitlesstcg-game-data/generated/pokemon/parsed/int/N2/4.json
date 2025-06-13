@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Crunch"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Houndoom or this attack does nothing."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

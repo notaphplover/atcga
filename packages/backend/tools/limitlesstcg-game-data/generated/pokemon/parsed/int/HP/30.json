@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Relicanth has any [W] Energy attached to it, the Retreat Cost for Relicanth is 0.",
+  "abilityName": "Aqua Lift",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Knock Away"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Relicanth"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

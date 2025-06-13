@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。"
+      },
+      "name": {
+        "jp": "ギガドレイン"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "130",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "だいかいてん"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_14_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_14_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_14_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダダリン"
+  },
+  "number": "14",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM7",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

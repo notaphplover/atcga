@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for a [L] or [M] Energy card and attach it to your Active Pokémon. Then, put 1 damage counter on that Pokémon. This power can't be used if Magnezone is affected by a Special Condition.",
+  "abilityName": "Super Connectivity",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may switch Magnezone with 1 of your Benched Pokémon. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Gyro Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnezone"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 3,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

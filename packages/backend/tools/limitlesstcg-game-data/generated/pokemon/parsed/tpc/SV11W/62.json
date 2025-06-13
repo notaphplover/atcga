@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンが使うワザのダメージで、相手のたねポケモンがきぜつしたなら、サイドを1枚多くとる。",
+  "abilityName": "グリードイーター",
+  "attacks": [
+    {
+      "cost": "dddcc",
+      "dmg": "200",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "ダークバイト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 330,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11W/SV11W_62_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11W/SV11W_62_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11W/SV11W_62_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サザンドラex"
+  },
+  "number": "62",
+  "rarity": "rr",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV11W",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

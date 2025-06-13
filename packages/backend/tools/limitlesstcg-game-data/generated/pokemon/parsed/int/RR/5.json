@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "If any basic Energy card attached to Flygon is the same type as any of your Pokémon, the Retreat Cost for those Pokémon is 0.",
+  "abilityName": "Rainbow Float",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard a Stadium card your opponent has in play. If you do, prevent all effects of an attack, including damage, done to Flygon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Sand Wall"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each Evolved Pokémon on your Bench."
+      },
+      "name": {
+        "en": "Power Swing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 0,
+  "set": "RR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

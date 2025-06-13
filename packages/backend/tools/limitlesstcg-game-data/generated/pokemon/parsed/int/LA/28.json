@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Whenever you attach a basic Energy card from your hand to Forretress (excluding effects of attacks), you may flip a coin. If tails, put 2 damage counters on each Pokémon (both yours and your opponent's) (excluding any Forretress).",
+  "abilityName": "Iron Shell",
+  "attacks": [
+    {
+      "cost": "mmcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Forretress does 40 damage to itself."
+      },
+      "name": {
+        "en": "Explosion"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Forretress"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

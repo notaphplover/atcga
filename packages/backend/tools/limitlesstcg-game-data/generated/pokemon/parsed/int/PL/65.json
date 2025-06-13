@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Slap"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Wartortle does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Wartortle by attacks during your opponent's next turn."
+      },
+      "name": {
+        "en": "Rocket Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wartortle"
+  },
+  "number": "65",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

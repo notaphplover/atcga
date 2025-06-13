@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "ポケモンチェックのとき、このポケモンのねむりで投げるコインの数は2回になり、すべてオモテが出ないと回復しない。",
+  "abilityName": "にどね",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このポケモンをねむりにする。このポケモンのHPを「20」回復する。"
+      },
+      "name": {
+        "jp": "たおれこみプレス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_47_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_47_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_47_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カビゴン"
+  },
+  "number": "47",
+  "resistance": [],
+  "retreat": 4,
+  "set": "20th",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

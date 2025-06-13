@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, if the Defending Pokémon tries to retreat, do 10 damage to it. (Don't apply Weakness and Resistance.)"
+      },
+      "name": {
+        "en": "Pursuit"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Umbreon"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

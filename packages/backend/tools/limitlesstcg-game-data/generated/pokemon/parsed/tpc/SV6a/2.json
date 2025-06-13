@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンが使うワザの、相手のバトル場の特性を持つポケモンへのダメージは「+50」される。",
+  "abilityName": "ふくがん",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "このポケモンに[L]エネルギーがついているなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "ビリビリウェブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6a/SV6a_2_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6a/SV6a_2_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6a/SV6a_2_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "デンチュラ"
+  },
+  "number": "2",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV6a",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 20 more damage for each [W] Energy attached to Vaporeon but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop3/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop3/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop3/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon"
+  },
+  "number": "6",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P3",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

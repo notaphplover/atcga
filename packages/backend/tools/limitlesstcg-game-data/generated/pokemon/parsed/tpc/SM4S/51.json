@@ -1,0 +1,64 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "jp": "ぶちかます"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "200",
+      "effect": {
+        "jp": "このポケモンにも50ダメージ。"
+      },
+      "name": {
+        "jp": "ちょうでんじタックル"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の相手の番、相手は手札からカードを出して使えない。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ヘビーロックGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 250,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_51_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_51_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_51_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アローラゴローニャGX"
+  },
+  "number": "51",
+  "rarity": "sr",
+  "regulation": "a",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 4,
+  "set": "SM4S",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

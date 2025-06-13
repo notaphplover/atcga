@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If your opponent has any Pokémon in play that has maximum HP of 120 or more, ignore all [C] Energy necessary to use Salamence's attacks.",
+  "abilityName": "Battle Rush",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Combustion"
+      }
+    },
+    {
+      "cost": "rwcc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard a [R] Energy and a [W] Energy attached to Salamence."
+      },
+      "name": {
+        "en": "Steam Twister"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

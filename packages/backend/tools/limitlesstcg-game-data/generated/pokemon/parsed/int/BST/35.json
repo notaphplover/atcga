@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Discard any number of Item cards that have the word “Ball” in their name from your hand. This attack does 40 more damage for each card you discarded in this way.",
+        "fr": "Défaussez de votre main autant de cartes Objet que vous le souhaitez dont le nom contient le mot « Ball ». Cette attaque inflige 40 dégâts supplémentaires pour chaque carte défaussée de cette façon.",
+        "de": "Lege beliebig viele Itemkarten, bei denen das Wort „Ball“ zum Namen gehört, aus deiner Hand auf deinen Ablagestapel. Diese Attacke fügt für jede auf diese Weise abgelegte Karte 40 Schadenspunkte mehr zu.",
+        "it": "Scarta un numero qualsiasi di carte Strumento con “Ball” nel nome dalla tua mano. Questo attacco infligge 40 danni in più per ogni carta che hai scartato in questo modo.",
+        "pt": "Descarte qualquer número de cartas de Item que tenham a palavra \"Bola” em seu nome da sua mão. Este ataque causa 40 pontos de dano a mais para cada carta descartada desta forma.",
+        "es": "Descarta de tu mano cualquier cantidad de cartas de Objeto que tengan la palabra “Ball” en su nombre. Este ataque hace 40 puntos de daño más por cada carta que hayas descartado de esta manera."
+      },
+      "name": {
+        "en": "Ball Juggling",
+        "fr": "Jeu de Balls",
+        "de": "Ball-Jongleur",
+        "it": "Giocoleria Ball",
+        "pt": "Malabarismo com Bolas",
+        "es": "Malabarismo con Bolas"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Frost Smash",
+        "fr": "Impact Glacial",
+        "de": "Frostschlag",
+        "it": "Gelocolpo",
+        "pt": "Pancada Congelada",
+        "es": "Golpe Gélido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_035_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Galarian Mr. Rime",
+    "fr": "M. Glaquette de Galar",
+    "de": "Galar-Pantifrost",
+    "it": "Mr. Rime di Galar",
+    "pt": "Mr. Rime de Galar",
+    "es": "Mr. Rime de Galar"
+  },
+  "number": "35",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BST",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

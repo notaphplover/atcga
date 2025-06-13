@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "シェルアーマー",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "コインを3回投げる。オモテが1回なら、40ダメージ追加。オモテが2回なら、80ダメージ追加。すべてオモテなら、150ダメージ追加。"
+      },
+      "name": {
+        "jp": "れんぞくぎり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_3_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_3_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_3_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イワパレス"
+  },
+  "number": "3",
+  "rarity": "u",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM10b",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

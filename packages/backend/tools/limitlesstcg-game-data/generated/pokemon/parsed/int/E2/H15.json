@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "You may use this power once during each of your turns (before your attack). All [L] Energy attached to your Active Pokémon becomes [W] Energy for the rest of the turn. (This effect ends if your Active Pokémon retreats or is returned to your hand.) This power can't be used if Lanturn is affected by a Special Condition.",
+  "abilityName": "Ion Coating",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 20 damage plus 10 damage for each [L] Energy attached to Lanturn. Flip a coin. If tails, Lanturn does 10 damage to itself for each [L] Energy attached to it."
+      },
+      "name": {
+        "en": "Electric Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lanturn"
+  },
+  "number": "H15",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

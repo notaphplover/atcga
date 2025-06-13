@@ -1,0 +1,106 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "40",
+      "effect": {
+        "en": "Attach 2 basic Energy cards from your discard pile to your Pokémon in any way you like.",
+        "fr": "Attachez 2 cartes Énergie de base de votre pile de défausse à vos Pokémon, de la manière que vous voulez.",
+        "de": "Lege 2 Basis-Energiekarten aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Assegna a piacimento ai tuoi Pokémon due carte Energia base dalla tua pila degli scarti.",
+        "es": "Une 2 cartas de Energía Básica de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Flower Supply",
+        "fr": "Provision Florale",
+        "de": "Blumenvorrat",
+        "it": "Riserva Floreale",
+        "es": "Suministro de Flores"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "120",
+      "effect": {
+        "en": "Heal 30 damage from this Pokémon.",
+        "fr": "Soignez 30 dégâts à ce Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Solar Blade",
+        "fr": "Lame Solaire",
+        "de": "Solarklinge",
+        "it": "Lama Solare",
+        "es": "Cuchilla Solar"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "50×",
+      "effect": {
+        "en": "This attack does 50 damage times the amount of [G] Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 50 dégâts multipliés par le nombre d'Énergies [G] attachées à ce Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 50 Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten [G]-Energien zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 50 danni per ogni Energia [G] assegnata a questo Pokémon. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Chloroscythe-GX",
+        "fr": "Chlorofaucille-GX",
+        "de": "Chlorosense-GX",
+        "it": "Clorofalce-GX",
+        "es": "Cloroguadaña-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_150_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lurantis-GX",
+    "fr": "Floramantis-GX",
+    "de": "Mantidea-GX",
+    "it": "Lurantis-GX",
+    "pt": "Lurantis-GX",
+    "es": "Lurantis-GX"
+  },
+  "number": "150",
+  "rarity": "rar",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SUM",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "You may switch Giratina with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Strafe"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon is Knocked Out by this attack, put the Defending Pokémon and all cards attached to in the Lost Zone instead of the discard pile."
+      },
+      "name": {
+        "en": "Broken-space Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giratina"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 3,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

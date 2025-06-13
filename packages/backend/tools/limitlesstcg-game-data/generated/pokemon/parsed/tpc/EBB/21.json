@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "かがやくツメ"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "150",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このポケモンにも50ダメージ。"
+      },
+      "name": {
+        "jp": "ブレイブファイヤー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_21_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_21_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_21_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "レシラムEX"
+  },
+  "number": "21",
+  "resistance": [],
+  "retreat": 3,
+  "set": "EBB",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

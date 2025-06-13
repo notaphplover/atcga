@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+  "abilityName": "Fluffy Cotton",
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 30 more damage times the amount of Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires multipliés par le nombre d'Énergies attachées à ce Pokémon.",
+        "de": "Diese Attacke fügt 30 Schadenspunkte mehr mal der Anzahl der an dieses Pokémon angelegten Energien zu.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Energia assegnata a questo Pokémon.",
+        "es": "Este ataque hace 30 puntos de daño más por cada Energía unida a este Pokémon."
+      },
+      "name": {
+        "en": "Energy Blow",
+        "fr": "Coup d'Énergie",
+        "de": "Energieschlag",
+        "it": "Soffioenergetico",
+        "es": "Golpe Energía"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_226_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Whimsicott-GX",
+    "fr": "Farfaduvet-GX",
+    "de": "Elfun-GX",
+    "it": "Whimsicott-GX",
+    "pt": "Whimsicott-GX",
+    "es": "Whimsicott-GX"
+  },
+  "number": "226",
+  "rarity": "rar",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 1,
+  "set": "UNB",
+  "stage": "stage1",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

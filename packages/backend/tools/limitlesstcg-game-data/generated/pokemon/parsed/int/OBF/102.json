@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "fr": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "de": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+        "pt": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+        "es": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+      },
+      "name": {
+        "en": "Big Bite",
+        "fr": "Grosse Morsure",
+        "de": "Mächtiger Biss",
+        "it": "Grande Morso",
+        "pt": "Mordidona",
+        "es": "Gran Mordisco"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "160+",
+      "effect": {
+        "en": "This attack does 10 more damage for each [P] Pokémon in your discard pile.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque Pokémon [P] dans votre pile de défausse.",
+        "de": "Diese Attacke fügt für jedes [P]-Pokémon in deinem Ablagestapel 10 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni Pokémon [P] nella tua pila degli scarti.",
+        "pt": "Este ataque causa 10 pontos de dano a mais para cada Pokémon [P] na sua pilha de descarte.",
+        "es": "Este ataque hace 10 puntos de daño más por cada Pokémon [P] en tu pila de descartes."
+      },
+      "name": {
+        "en": "Last Respects",
+        "fr": "Hommage Posthume",
+        "de": "Letzte Ehre",
+        "it": "Omaggio ai KO",
+        "pt": "Último Adeus",
+        "es": "Homenaje Póstumo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_102_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndstone ex",
+    "fr": "Tomberro-ex",
+    "de": "Friedwuff-ex",
+    "it": "Houndstone-ex",
+    "pt": "Houndstone ex",
+    "es": "Houndstone ex"
+  },
+  "number": "102",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "OBF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

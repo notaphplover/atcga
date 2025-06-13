@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may discard a [R] Energy card attached to Quilava. If you do, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Burning Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/51_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/51.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/51.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quilava"
+  },
+  "number": "51",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

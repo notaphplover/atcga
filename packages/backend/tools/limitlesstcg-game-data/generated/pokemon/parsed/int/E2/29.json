@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40-",
+      "effect": {
+        "en": "Damage from this attack is reduced by 10 for each damage counter on Primeape."
+      },
+      "name": {
+        "en": "Karate Chop"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Primeape does 10 damage to itself. Then, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Sudden Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Primeape"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Good Night"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon was Asleep, it is no longer Asleep."
+      },
+      "name": {
+        "en": "Good Morning"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/59_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/59.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/59.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Jynx"
+  },
+  "number": "59",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for Castform, Sunny Castform, or Snow-cloud Castform and switch it with Rain Castform. (Any cards attached to Rain Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Rain Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+  "abilityName": "Temperamental Weather",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Holon Energy card attached to Rain Castform."
+      },
+      "name": {
+        "en": "Holon Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rain Castform"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

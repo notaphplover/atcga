@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you attach an Energy card from your hand to Roserade C, remove all Special Conditions from Roserade C.",
+  "abilityName": "Natural Cure",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage and remove 2 damage counters from Roserade C."
+      },
+      "name": {
+        "en": "Magical Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roserade C"
+  },
+  "number": "40",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

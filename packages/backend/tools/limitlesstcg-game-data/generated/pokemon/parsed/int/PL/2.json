@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose as many [W] Energy cards as you like, and attach them to your Pokémon in any way you like. Discard the other cards. This power can't be used if Blastoise is affected by a Special Condition.",
+  "abilityName": "Dig Well",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each Energy attached to all Pokémon (both yours and your opponent's)."
+      },
+      "name": {
+        "en": "Aqua Press"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

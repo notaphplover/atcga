@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+  "abilityName": "Cursed Message",
+  "attacks": [
+    {
+      "cost": "dd",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 60 more damage for each Spiritomb in your discard pile.",
+        "fr": "Cette attaque inflige 60 dégâts supplémentaires pour chaque Spiritomb dans votre pile de défausse.",
+        "de": "Diese Attacke fügt für jedes Kryppuk in deinem Ablagestapel 60 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 60 danni in più per ogni Spiritomb nella tua pila degli scarti.",
+        "pt": "Este ataque causa 60 pontos de dano a mais para cada Spiritomb na sua pilha de descarte.",
+        "es": "Este ataque hace 60 puntos de daño más por cada Spiritomb en tu pila de descartes."
+      },
+      "name": {
+        "en": "Chain of Spirits",
+        "fr": "Esprits en Chaîne",
+        "de": "Geisterkette",
+        "it": "Catena di Spiriti",
+        "pt": "Corrente de Espíritos",
+        "es": "Cadena de Espíritus"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Spiritomb",
+    "fr": "Spiritomb",
+    "de": "Kryppuk",
+    "it": "Spiritomb",
+    "pt": "Spiritomb",
+    "es": "Spiritomb"
+  },
+  "number": "TG9",
+  "rarity": "chr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LOR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

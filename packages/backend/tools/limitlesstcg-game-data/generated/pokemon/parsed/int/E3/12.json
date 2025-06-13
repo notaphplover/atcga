@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Ambush"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 damage plus 20 damage times the number of your opponent's Benched Pokémon minus the number of your Benched Pokémon. (For example, if your opponent has 3 Benched Pokémon and you have 1, this attack will do 30 damage plus 40 more damage.)"
+      },
+      "name": {
+        "en": "Lonely Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom"
+  },
+  "number": "12",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

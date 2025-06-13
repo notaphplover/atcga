@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If your opponent's attack does damage to Rocket's Snorlax and Rocket's Snorlax is already Asleep (even if it's Knocked Out), this power does 20 damage to the attacking Pokémon.",
+  "abilityName": "Restless Sleep",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20",
+      "effect": {
+        "en": "Rocket's Snorlax is now Asleep (after doing damage)."
+      },
+      "name": {
+        "en": "Collapse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Snorlax"
+  },
+  "number": "33",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

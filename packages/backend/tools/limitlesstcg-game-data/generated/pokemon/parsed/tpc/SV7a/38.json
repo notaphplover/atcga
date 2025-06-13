@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30+",
+      "effect": {
+        "jp": "この番、このポケモンが「コレクレー」から進化していたなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "リッチストライク"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {
+        "jp": "のぞむなら、このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。"
+      },
+      "name": {
+        "jp": "サーフリターン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7a/SV7a_38_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7a/SV7a_38_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7a/SV7a_38_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サーフゴー"
+  },
+  "number": "38",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SV7a",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

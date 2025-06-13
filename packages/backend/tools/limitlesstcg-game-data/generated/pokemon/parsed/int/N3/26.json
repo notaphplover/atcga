@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Sudowoodo is your Active Pokémon, it copies all of the Defending Pokémon's attacks, including their costs. This power can't be used if Sudowoodo is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Mimic",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sudowoodo"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

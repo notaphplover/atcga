@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Défenseur.",
+        "de": "Wirf 1 Münze. Lege bei „Kopf“ 1 an das Verteidigende Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta. Se esce testa, scarta un'Energia assegnata al Pokémon difensore.",
+        "es": "Lanza una moneda. Si sale cara, descarta una Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Destructive Flame",
+        "fr": "Flamme Destructrice",
+        "de": "Verzehrende Flamme",
+        "it": "Devastofiamma",
+        "es": "Llama Destructiva"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If this Pokémon has any Plasma Energy attached to it, this attack does 40 more damage.",
+        "fr": "Si de l'Énergie Plasma est attachée à ce Pokémon, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon bereits Plasma-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Se questo Pokémon ha delle Energie Plasma assegnate, questo attacco infligge 40 danni in più.",
+        "es": "Si este Pokémon tiene cualquier Energía Plasma unida a él, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Power Flame",
+        "fr": "Flamme Vigoureuse",
+        "de": "Mächtige Flamme",
+        "it": "Fiammapotere",
+        "es": "Llama Vigorosa"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_014_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Moltres-EX",
+    "fr": "Sulfura-EX",
+    "de": "Lavados-EX",
+    "it": "Moltres-EX",
+    "pt": "Moltres-EX",
+    "es": "Moltres-EX"
+  },
+  "number": "14",
+  "rarity": "rr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "PLS",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

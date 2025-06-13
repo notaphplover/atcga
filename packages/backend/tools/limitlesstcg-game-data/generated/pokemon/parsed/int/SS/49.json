@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Stun Spore"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Razor Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nuzleaf"
+  },
+  "number": "49",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

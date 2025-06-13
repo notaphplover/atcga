@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "Once during your first turn, you may search your deck for up to 3 [C] Pokémon with 100 HP or less, reveal them, and put them into your hand. Then, shuffle your deck. You can't use more than 1 Fan Call Ability during your turn.",
+  "abilityName": "Fan Call",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "70",
+      "effect": {
+        "en": "If there is no Stadium in play, this attack does nothing.",
+        "fr": "S'il n'y a pas de Stade en jeu, cette attaque ne fait rien.",
+        "de": "Wenn keine Stadionkarte im Spiel ist, hat diese Attacke keine Auswirkungen.",
+        "it": "Se non c'è alcuna carta Stadio in gioco, questo attacco non ha effetto.",
+        "pt": "Se não houver Estádio em jogo, este ataque não fará nada.",
+        "es": "Si no hay ningún Estadio en juego, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Assault Landing",
+        "fr": "Atterrissage d'Assaut",
+        "de": "Angriffslandung",
+        "it": "Atterrassalto",
+        "pt": "Aterrissagem Ofensiva",
+        "es": "Aterrizaje Asalto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_085_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Fan Rotom",
+    "fr": "Motisma Hélice",
+    "de": "Wirbel-Rotom",
+    "it": "Rotom Vortice",
+    "pt": "Rotom Ventilador",
+    "es": "Rotom Ventilador"
+  },
+  "number": "85",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "PRE",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

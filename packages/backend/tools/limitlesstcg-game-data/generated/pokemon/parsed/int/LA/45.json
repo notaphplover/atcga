@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you attach a [G] or [P] Energy card from your hand to Vileplume (excluding effects of attacks or Poké-Powers), you may use this power. If you attach a [G] Energy card, the Defending Pokémon is now Asleep. If you attach a [P] Energy card, the Defending Pokémon is now Poisoned. This power can't be used if Vileplume is affected by a Special Condition.",
+  "abilityName": "Energy Reaction",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't play any Trainer, Supporter, or Stadium cards from his or her hand during your opponent's next turn."
+      },
+      "name": {
+        "en": "Disturbing Pollen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume"
+  },
+  "number": "45",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

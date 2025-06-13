@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Steady Punch"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Mega Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machoke"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Feraligatr is your Active Pokémon, any damage done by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+  "abilityName": "Intimidating Fang",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "If your opponent has 5 of more cards in his or her hand, your opponent discards a number of cards until your opponent has 4 cards left in his or her hand."
+      },
+      "name": {
+        "en": "Pull Away"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "You may do 50 damage plus 30 more damage. If you do, Feraligatr does 30 damage to itself."
+      },
+      "name": {
+        "en": "Tonnage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feraligatr"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

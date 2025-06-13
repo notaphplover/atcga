@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Horn Attack"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Rhyhorn does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhyhorn"
+  },
+  "number": "95",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

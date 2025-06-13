@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, Carvanha does 10 damage to itself."
+      },
+      "name": {
+        "en": "Reckless Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/61_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/61.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/61.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carvanha"
+  },
+  "number": "61",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

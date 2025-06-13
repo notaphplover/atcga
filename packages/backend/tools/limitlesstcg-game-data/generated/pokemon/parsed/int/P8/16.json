@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Riolu can't be Paralyzed.",
+  "abilityName": "Inner Focus",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Riolu"
+  },
+  "number": "16",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P8",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

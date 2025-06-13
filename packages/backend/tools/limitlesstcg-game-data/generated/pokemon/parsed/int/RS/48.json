@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 20 damage plus 10 more damage for each [W] Energy attached to Wailmer but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wailmer"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

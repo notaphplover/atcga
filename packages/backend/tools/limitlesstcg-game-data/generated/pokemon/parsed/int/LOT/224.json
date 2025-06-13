@@ -1,0 +1,87 @@
+{
+  "abilityEffect": "This Pokémon may have up to 2 Pokémon Tool cards attached to it. If it loses this Ability, discard Pokémon Tool cards from it until only 1 remains.",
+  "abilityName": "Double Drive",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "en": "Burst Shot",
+        "fr": "Tir en Rafale",
+        "de": "Salve",
+        "it": "Colpo Esplosivo",
+        "es": "Disparo Explosivo"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "190",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Der Schaden dieser Attacke wird durch Resistenz nicht verändert. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "I danni di questo attacco non sono influenzati dalla resistenza. Non puoi usare più di un attacco GX a partita.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Break Buster-GX",
+        "fr": "Éclat Brisé-GX",
+        "de": "Knacker-GX",
+        "it": "Sfondamento Difese-GX",
+        "es": "Quiebre Destructor-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_224_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Genesect-GX",
+    "fr": "Genesect-GX",
+    "de": "Genesect-GX",
+    "it": "Genesect-GX",
+    "pt": "Genesect-GX",
+    "es": "Genesect-GX"
+  },
+  "number": "224",
+  "rarity": "rar",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "LOT",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

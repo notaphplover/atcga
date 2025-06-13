@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、[鋼]エネルギーがついている自分のポケモン全員は、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果はなくならない。）",
+  "abilityName": "ミスティックハート",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "120",
+      "effect": {
+        "jp": "次の自分の番、このポケモンが使う「ソウルブラスター」のダメージは「60」になる。"
+      },
+      "name": {
+        "jp": "ソウルブラスター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_35_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_35_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_35_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マギアナEX"
+  },
+  "number": "35",
+  "rarity": "rr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "XY11r",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

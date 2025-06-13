@@ -1,0 +1,76 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard any Stadium card in play."
+      },
+      "name": {
+        "en": "Shatter"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a Special Energy card, if any, attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Derail"
+      }
+    },
+    {
+      "cost": "fdc",
+      "dmg": "70",
+      "effect": {
+        "en": "Your opponent discards the top card of his or her deck."
+      },
+      "name": {
+        "en": "Mix-Up"
+      }
+    },
+    {
+      "cost": "fddc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard the top 3 cards of your deck."
+      },
+      "name": {
+        "en": "Losing Control"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/111_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/111.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/111.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar ex"
+  },
+  "number": "111",
+  "rarity": "ur",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass",
+    "fighting"
+  ]
+}

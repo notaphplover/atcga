@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Rocket's Suicune ex has any [D] Energy attached to it, Rocket's Suicune ex can't be affected by any Special Conditions.",
+  "abilityName": "Dark and Clear",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Icy Wind"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon is a Stage 2 Evolved Pokémon, this attack does 50 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Hyper Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Suicune ex"
+  },
+  "number": "105",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

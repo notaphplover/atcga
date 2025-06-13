@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene paralizzato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Dragon Fang",
+        "fr": "Croc de Dragon",
+        "de": "Drachenzahn",
+        "it": "Zanna di Drago",
+        "es": "Colmillo Dragón"
+      }
+    },
+    {
+      "cost": "wllc",
+      "dmg": "150",
+      "effect": {
+        "en": "This Pokémon can't attack during your next turn.",
+        "fr": "Ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+        "de": "This Pokémon can't attack during your next turn.",
+        "it": "Questo Pokémon non può attaccare durante il tuo prossimo turno.",
+        "es": "Este Pokémon no puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Freeze Shock",
+        "fr": "Éclair Gelé",
+        "de": "Frostvolt",
+        "it": "Elettrogelo",
+        "es": "Rayo Gélido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_062_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Black Kyurem-EX",
+    "fr": "Kyurem Noir-EX",
+    "de": "Schwarzes Kyurem-EX",
+    "it": "Kyurem Nero-EX",
+    "pt": "Kyurem Preto-EX",
+    "es": "Kyurem Negro-EX"
+  },
+  "number": "62",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BWP",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

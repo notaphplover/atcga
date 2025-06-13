@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard an Energy card from your hand. (If you can't discard a card from your hand, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Trash Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Luxray GL"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

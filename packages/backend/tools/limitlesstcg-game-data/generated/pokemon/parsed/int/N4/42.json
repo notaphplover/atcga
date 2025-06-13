@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "One-Two Kick"
+      }
+    },
+    {
+      "cost": "fff",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Heel Drop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmonlee"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N4",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

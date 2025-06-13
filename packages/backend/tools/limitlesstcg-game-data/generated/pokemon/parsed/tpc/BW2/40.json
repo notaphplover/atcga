@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、おたがいのプレイヤーは、手札からポケモンを出して、進化させられない。",
+  "abilityName": "げんしのちから",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {
+        "jp": "相手のベンチポケモンを2匹選び、そのポケモンにも、それぞれ10ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+      },
+      "name": {
+        "jp": "いわなだれ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW2/BW2_40_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW2/BW2_40_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW2/BW2_40_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アーケオス"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BW2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

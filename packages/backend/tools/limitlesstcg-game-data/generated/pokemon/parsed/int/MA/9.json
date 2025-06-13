@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "As long as the number of Pokémon in play (both yours and your opponent's) that has Team Magma in its name is 3 or less, Team Magma's Groudon can't attack.",
+  "abilityName": "Power Saver",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage.",
+        "fr": "Si le Pokémon Défenseur possède au moins 2 marqueurs de dégât, cette attaque inflige 50 dégâts plus 20 dégâts supplémentaires.",
+        "de": "Wenn bereits 2 oder mehr Schadensmarken auf dem Verteidigenden Pokémon liegen, fügt dieser Angriff 50 Schadenspunkte plus 20 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon Difensore ha già almeno 2 segnalini danno su di sé, questo attacco infligge 50 danni più altri 20 danni.",
+        "pt": "Se o Pokémon Defensor já tiver pelo menos 2 contadores de dano nele, este ataque causará 50 pontos de dano mais 20 pontos de dano adicionais.",
+        "es": "Si el Pokémon defensor tiene al menos 2 contadores de daño en él, este ataque hace 50 puntos de daño más 20 puntos de daño adicionales."
+      },
+      "name": {
+        "en": "Pulverize",
+        "fr": "Pulvériser",
+        "de": "Pulverisieren",
+        "it": "Polverizza",
+        "pt": "Pulverizar",
+        "es": "Pulverizar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/9_hires.png",
+      "fr": "https://images.pokemontcg.io/ex4/9_hires.png",
+      "de": "https://images.pokemontcg.io/ex4/9_hires.png",
+      "it": "https://images.pokemontcg.io/ex4/9_hires.png",
+      "pt": "https://images.pokemontcg.io/ex4/9_hires.png",
+      "es": "https://images.pokemontcg.io/ex4/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/9.png",
+      "fr": "https://images.pokemontcg.io/ex4/9.png",
+      "de": "https://images.pokemontcg.io/ex4/9.png",
+      "it": "https://images.pokemontcg.io/ex4/9.png",
+      "pt": "https://images.pokemontcg.io/ex4/9.png",
+      "es": "https://images.pokemontcg.io/ex4/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/9.png",
+      "fr": "https://images.pokemontcg.io/ex4/9.png",
+      "de": "https://images.pokemontcg.io/ex4/9.png",
+      "it": "https://images.pokemontcg.io/ex4/9.png",
+      "pt": "https://images.pokemontcg.io/ex4/9.png",
+      "es": "https://images.pokemontcg.io/ex4/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Groudon",
+    "fr": "Groudon de Team Magma",
+    "de": "Team Magmas Groudon",
+    "it": "Team Magma Groudon",
+    "pt": "Groudon da Equipe Magma",
+    "es": "Groudon del Team Magma"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "fighting",
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

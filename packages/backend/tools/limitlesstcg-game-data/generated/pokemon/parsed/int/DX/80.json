@@ -1,0 +1,45 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Taillow during your opponent's next turn."
+      },
+      "name": {
+        "en": "Fly"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/80_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/80.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/80.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Taillow"
+  },
+  "number": "80",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

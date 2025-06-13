@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "30×",
+      "effect": {
+        "en": "This attack does 30 damage for each Energy attached to your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "de": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 30 danni per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
+        "pt": "Este ataque causa 30 pontos de dano para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+        "es": "Este ataque hace 30 puntos de daño por cada Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Psywave",
+        "fr": "Vague Psy",
+        "de": "Psywelle",
+        "it": "Psiconda",
+        "pt": "Onda Psíquica",
+        "es": "Psicoonda"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "120",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't use Slashing Strike.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Coup Déchirant.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon Schlitzender Schlag nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Lacerattacco.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá usar Ataque Cortante.",
+        "es": "Durante tu próximo turno, este Pokémon no puede usar Golpe Cuchillazo."
+      },
+      "name": {
+        "en": "Slashing Strike",
+        "fr": "Coup Déchirant",
+        "de": "Schlitzender Schlag",
+        "it": "Lacerattacco",
+        "pt": "Ataque Cortante",
+        "es": "Golpe Cuchillazo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_132_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hisuian Braviary",
+    "fr": "Gueriaigle de Hisui",
+    "de": "Hisui-Washakwil",
+    "it": "Braviary di Hisui",
+    "pt": "Braviary de Hisui",
+    "es": "Braviary de Hisui"
+  },
+  "number": "132",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "ASR",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の場のポケモンの数が、相手と同じか少ないなら、このポケモンが使うワザのダメージは「+60」され、このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "ティラノハート",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "100",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーを、1個トラッシュする。"
+      },
+      "name": {
+        "jp": "かみくだく"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_46_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_46_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_46_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガチゴラス"
+  },
+  "number": "46",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM6",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

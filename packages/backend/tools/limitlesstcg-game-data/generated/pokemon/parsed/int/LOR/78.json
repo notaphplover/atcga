@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30+",
+      "effect": {
+        "en": "Each player reveals their hand. If a card in your opponent's hand has the same name as a card in your hand, this attack does 90 more damage.",
+        "fr": "Chaque joueur montre sa main. Si une carte dans la main de votre adversaire a le même nom qu'une carte dans votre main, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Jeder Spieler zeigt seine Handkarten. Wenn eine Karte auf der Hand deines Gegners denselben Namen wie eine Karte auf deiner Hand hat, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Ciascun giocatore mostra le carte che ha in mano. Se una carta nella mano del tuo avversario ha lo stesso nome di una carta che hai in mano, questo attacco infligge 90 danni in più.",
+        "pt": "Cada jogador revela a própria mão. Se uma carta na mão do oponente tiver o mesmo nome que uma carta na sua mão, este ataque causará 90 pontos de dano a mais.",
+        "es": "Cada jugador enseña las cartas de su mano. Si una carta de la mano de tu rival tiene el mismo nombre que una carta de tu mano, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Synchro Kinesis",
+        "fr": "Synchro-Kinésie",
+        "de": "Synchronkinese",
+        "it": "Sincrocinesi",
+        "pt": "Cinese Sincronizada",
+        "es": "Sincroquinesis"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Psychic Sphere",
+        "fr": "Sphère Psy",
+        "de": "Psychosphäre",
+        "it": "Psicosfera",
+        "pt": "Esfera Psíquica",
+        "es": "Esfera Psíquica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_078_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Malamar",
+    "fr": "Sepiatroce",
+    "de": "Calamanero",
+    "it": "Malamar",
+    "pt": "Malamar",
+    "es": "Malamar"
+  },
+  "number": "78",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "LOR",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

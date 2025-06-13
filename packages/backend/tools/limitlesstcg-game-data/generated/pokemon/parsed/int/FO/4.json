@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+  "abilityName": "Step In",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragonite"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "FO",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

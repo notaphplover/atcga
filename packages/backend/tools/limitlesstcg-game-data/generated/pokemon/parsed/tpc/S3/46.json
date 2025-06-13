@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンは、にげられない。",
+  "abilityName": "すなのめいきゅう",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "130",
+      "effect": {
+        "jp": "場に出ている相手のスタジアムをトラッシュする。トラッシュした場合、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+      },
+      "name": {
+        "jp": "デザートゲイザー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_46_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_46_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_46_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "フライゴン"
+  },
+  "number": "46",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S3",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Super Singe"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar ex"
+  },
+  "number": "100",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

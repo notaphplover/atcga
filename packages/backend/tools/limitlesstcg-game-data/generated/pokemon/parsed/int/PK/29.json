@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you attach a [R] Energy card from your hand to Combusken, remove all Special Conditions from Combusken.",
+  "abilityName": "Natural Cure",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Combusken"
+  },
+  "number": "29",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

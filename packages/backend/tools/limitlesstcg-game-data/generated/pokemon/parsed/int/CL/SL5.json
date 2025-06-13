@@ -1,0 +1,82 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Combustion",
+        "fr": "Fournaise",
+        "de": "Glühen",
+        "it": "Fuoco Continuo"
+      }
+    },
+    {
+      "cost": "rrrcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip a coin. If tails, discard all [R] Energy attached to Ho-Oh.",
+        "fr": "Lancez une pièce. Si c'est pile, défaussez toutes les Énergies [R] attachées à Ho-Oh.",
+        "de": "Wirf eine Münze. Bei „Zahl“ lege alle an Ho-Oh angelegten [R]-Energien auf deinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce croce, scarta tutte le Energie [R] assegnate a Ho-Oh."
+      },
+      "name": {
+        "en": "Scorching Wing",
+        "fr": "Aile brûlante",
+        "de": "Versengende Schwingen",
+        "it": "Ala Ustionante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_SL5_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ho-Oh",
+    "fr": "Ho-Oh",
+    "de": "Ho-Oh",
+    "it": "Ho-Oh",
+    "pt": "Ho-Oh",
+    "es": "Ho-Oh"
+  },
+  "number": "SL5",
+  "rarity": "sr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "CL",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

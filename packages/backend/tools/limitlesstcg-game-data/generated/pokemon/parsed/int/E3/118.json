@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Wing Attack"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Spray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/118_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/118.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/118.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zubat"
+  },
+  "number": "118",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

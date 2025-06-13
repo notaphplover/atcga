@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "くつがえす"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40×",
+      "effect": {
+        "jp": "コインを3回投げ、オモテの数x40ダメージ。"
+      },
+      "name": {
+        "jp": "ミサイルばり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY8b/XY8b_34_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY8b/XY8b_34_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY8b/XY8b_34_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ノクタス"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "XY8b",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

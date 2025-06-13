@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Magneton from your hand to evolve 1 of your Pokémon, you may move any number of basic Energy cards attached to your other Pokémon to Magneton.",
+  "abilityName": "Attract Energy",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may discard all [L] Energy cards attached to Magneton when you use this attack. If you do, put damage counters equal to the amount of Energy cards removed in this way on any number of your opponent's Benched Pokémon in the way you like. (For example, if you discard 3 [L] Energy cards, you can put 1 damage counter on 1 of your opponent's Benched Pokémon and 2 on another.)"
+      },
+      "name": {
+        "en": "Electric Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "H18",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

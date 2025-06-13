@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza una moneda hasta que salga cruz. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Bone Rush",
+        "fr": "Charge-Os",
+        "de": "Knochenhatz",
+        "it": "Ossoraffica",
+        "es": "Ataque Óseo"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 10 more damage for each [D] Energy attached to all of your Pokémon.",
+        "fr": "Inflige 10 dégâts supplémentaires pour chaque Énergie [D] attachée à tous vos Pokémon.",
+        "de": "Dieser Angriff fügt für jede [D]-Energie, die an deine Pokémon angelegt ist, 10 weitere Schadenpunkte zu.",
+        "it": "Infligge 10 danni in più per ogni Energia [D] assegnata ai tuoi Pokémon.",
+        "es": "Hace 10 puntos de daño más por cada Energía [D] unida a todos tus Pokémon."
+      },
+      "name": {
+        "en": "Dark Pulse",
+        "fr": "Vibrobscur",
+        "de": "Finsteraura",
+        "it": "Neropulsar",
+        "es": "Pulso Umbrío"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_069_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mandibuzz",
+    "fr": "Vaututrice",
+    "de": "Grypheldis",
+    "it": "Mandibuzz",
+    "pt": "Mandibuzz",
+    "es": "Mandibuzz"
+  },
+  "number": "69",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "EPO",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

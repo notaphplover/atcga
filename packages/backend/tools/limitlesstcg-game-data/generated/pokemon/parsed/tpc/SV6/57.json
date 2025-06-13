@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "ころがる"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数×20ダメージ。"
+      },
+      "name": {
+        "jp": "ダブルひっかき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6/SV6_57_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6/SV6_57_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6/SV6_57_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サンド"
+  },
+  "number": "57",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV6",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

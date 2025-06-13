@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Peck"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy card attached to Torchic."
+      },
+      "name": {
+        "en": "Fireworks"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torchic"
+  },
+  "number": "6",
+  "resistance": [],
+  "retreat": 1,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

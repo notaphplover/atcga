@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, choose either Asleep, Burned, or Poisoned. The Defending Pokémon is now affected by that Special Condition. This power can't be used if Venusaur is affected by a Special Condition.",
+  "abilityName": "Miracle Aroma",
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, remove 4 damage counters from Venusaur."
+      },
+      "name": {
+        "en": "Giant Bloom"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venusaur"
+  },
+  "number": "20",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SW",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

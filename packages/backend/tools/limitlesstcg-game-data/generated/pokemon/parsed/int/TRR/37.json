@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Dark Houndoom is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Burned. This power can't be used if Dark Houndoom is affected by a Special Condition.",
+  "abilityName": "Fire Breath",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If you have less Benched Pokémon than your opponent, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Fire Payback"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Houndoom"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "fire",
+    "darkness"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

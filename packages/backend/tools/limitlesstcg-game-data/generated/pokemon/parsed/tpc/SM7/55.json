@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、自分の「ダイゴの決断」を使っても、自分の番は終わらない。",
+  "abilityName": "エクステンド",
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の自分の番、このポケモンの「コメットパンチ」のダメージは「+60」される。"
+      },
+      "name": {
+        "jp": "コメットパンチ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_55_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_55_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_55_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メタグロス"
+  },
+  "number": "55",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "SM7",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

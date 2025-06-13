@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "As long as Snorlax is your Active Pokémon, the Defending Pokémon can't Retreat. This power stops working when Snorlax is affected by a Special Condition.",
+  "abilityName": "Guard",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Snorlax is now Asleep. Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Roll Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Snorlax"
+  },
+  "number": "49",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

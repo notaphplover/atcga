@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your discard pile for a [R] Energy card and attach it to Monferno."
+      },
+      "name": {
+        "en": "Flame Dance"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Monferno"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

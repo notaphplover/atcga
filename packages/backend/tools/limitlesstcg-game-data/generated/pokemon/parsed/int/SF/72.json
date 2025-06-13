@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep and Poisoned. If Budew is anywhere under Roselia, the Defending Pokémon is now Asleep and Poisoned."
+      },
+      "name": {
+        "en": "Petal Spikes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/72_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/72.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/72.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roselia"
+  },
+  "number": "72",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

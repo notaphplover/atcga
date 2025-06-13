@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、[水]エネルギーがついている自分のポケモン全員は、マヒにならない。（受けているマヒは回復する。）",
+  "abilityName": "いてつくまもり",
+  "attacks": [
+    {
+      "cost": "wwwc",
+      "dmg": "160",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "クリスタルブレス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_168_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_168_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_168_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アマルルガEX"
+  },
+  "number": "168",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

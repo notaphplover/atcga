@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "jp": "場に出ている相手のスタジアムをトラッシュする。トラッシュした場合、相手のバトルポケモンについているエネルギーを2個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "フィールドトラップ"
+      }
+    },
+    {
+      "cost": "mc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "たいあたり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_78_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_78_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_78_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラル マッギョ"
+  },
+  "number": "78",
+  "rarity": "u",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "S11",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

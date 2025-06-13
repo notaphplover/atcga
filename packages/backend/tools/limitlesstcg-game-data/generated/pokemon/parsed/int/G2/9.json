@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+      },
+      "name": {
+        "en": "Nerve Poison"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Koga's Beedrill stays in play (even putting Koga's Beedrill on the Bench won't let you use it again)."
+      },
+      "name": {
+        "en": "Hyper Needle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Koga's Beedrill"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "G2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

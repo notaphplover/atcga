@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, discard a Special Energy card attached to the Defending Pokémon. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Energy Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/63_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/63.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/63.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyrogue"
+  },
+  "number": "63",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "traitEffect": "If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.",
+  "traitName": "Baby Rule",
+  "type": [
+    "fighting"
+  ],
+  "weakness": []
+}

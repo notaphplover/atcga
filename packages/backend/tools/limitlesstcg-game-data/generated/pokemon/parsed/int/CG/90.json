@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+      },
+      "name": {
+        "en": "Drag Off"
+      }
+    },
+    {
+      "cost": "rfcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Before doing damage, count the remaining HP of the Defending Pokémon. If that Pokémon is Knocked Out by this attack, Blaziken ex does damage to itself equal to the attack's damage minus the remaining HP of the Defending Pokémon. This attack's damage isn't by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+      },
+      "name": {
+        "en": "Burn Away"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaziken ex"
+  },
+  "number": "90",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CG",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

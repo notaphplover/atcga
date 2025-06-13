@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "ハードコート",
+  "attacks": [
+    {
+      "cost": "fff",
+      "dmg": "220-",
+      "effect": {
+        "jp": "このポケモンにのっているダメカンの数×10ダメージぶん、このワザのダメージは小さくなる。"
+      },
+      "name": {
+        "jp": "ピートショルダー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_282_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_282_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_282_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガチグマV"
+  },
+  "number": "282",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

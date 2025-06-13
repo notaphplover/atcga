@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't attach Energy cards from his or her hand to his or her Active Pokémon during his or her next turn."
+      },
+      "name": {
+        "en": "Freeze Lock"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "This attack does 40 damage plus 10 more damage for each [C] Energy in the Defending Pokémon's Retreat Cost. Damage is calculated using the Defending Pokémon's Retreat Cost after applying effects to the Retreat Cost."
+      },
+      "name": {
+        "en": "Crushing Ice"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dewgong"
+  },
+  "number": "H6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

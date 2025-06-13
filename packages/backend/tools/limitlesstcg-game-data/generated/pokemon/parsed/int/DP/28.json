@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Pitch"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Horn Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heracross"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

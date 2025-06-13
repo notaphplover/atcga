@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30+",
+      "effect": {
+        "jp": "相手のバトルポケモンにのっているダメカンの数×10ダメージ追加。"
+      },
+      "name": {
+        "jp": "サイコダメージ"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "60",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "ねんりき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_46_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_46_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_46_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エーフィ"
+  },
+  "number": "46",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SV3",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

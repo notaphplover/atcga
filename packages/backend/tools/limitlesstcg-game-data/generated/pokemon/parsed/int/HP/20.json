@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Combustion"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Blaze Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaziken"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

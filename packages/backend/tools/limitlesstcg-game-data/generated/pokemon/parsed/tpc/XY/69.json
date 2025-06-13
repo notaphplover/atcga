@@ -1,0 +1,60 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20+",
+      "effect": {
+        "jp": "場にスタジアムが出ているなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "だいちのこどう"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "60",
+      "effect": {
+        "jp": "このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "セルストーム"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "100",
+      "effect": {},
+      "name": {
+        "jp": "グランドフォース"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_69_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_69_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_69_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジガルデEX"
+  },
+  "number": "69",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

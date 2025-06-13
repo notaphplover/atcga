@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20+",
+      "effect": {
+        "en": "If your opponent has any [F] Pokémon in play, this attack does 20 damage plus 60 more damage.",
+        "fr": "Si votre adversaire dispose de n'importe quel Pokémon [F] en jeu, cette attaque inflige 20 dégâts plus 60 dégâts supplémentaires.",
+        "de": "Wenn dein Gegner mindestens 1 [F]-Pokémon im Spiel hat, fügt dieser Angriff 20 Schadenspunkte plus 60 weitere Schadenspunkte zu.",
+        "it": "Se il tuo avversario ha dei Pokémon [F] in gioco, questo attacco infligge 20 danni più altri 60 danni."
+      },
+      "name": {
+        "en": "Fire Counterattack",
+        "fr": "Contre-attaque de feu",
+        "de": "Feuerkonter",
+        "it": "Fuocontrasto"
+      }
+    },
+    {
+      "cost": "dd",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent discards a card from his or her hand.",
+        "fr": "Votre adversaire défausse une carte de sa main.",
+        "de": "Dein Gegner legt eine seiner Handkarten auf seinen Ablagestapel.",
+        "it": "Il tuo avversario scarta una delle carte che ha in mano."
+      },
+      "name": {
+        "en": "Dark Roar",
+        "fr": "Cri des Ténèbres",
+        "de": "Finsternisbrüller",
+        "it": "Boato Oscuro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_010_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom",
+    "fr": "Demolosse",
+    "de": "Hundemon",
+    "it": "Houndoom",
+    "pt": "Houndoom",
+    "es": "Houndoom"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "CL",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

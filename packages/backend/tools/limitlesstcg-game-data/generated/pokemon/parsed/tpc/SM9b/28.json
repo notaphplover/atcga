@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "相手のサイドの残り枚数が3枚以下なら、このポケモンの最大HPは「200」になる。",
+  "abilityName": "ストーンフェンス",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "110",
+      "effect": {
+        "jp": "ウラが出るまでコインを投げ、オモテの数ぶん、相手の山札を上からトラッシュする。"
+      },
+      "name": {
+        "jp": "やまおとし"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9b/SM9b_28_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9b/SM9b_28_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9b/SM9b_28_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ツンデツンデ"
+  },
+  "number": "28",
+  "rarity": "r",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SM9b",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

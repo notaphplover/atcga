@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Horn Toss"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "40",
+      "effect": {
+        "en": "Brock's Rhyhorn does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Rhyhorn"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

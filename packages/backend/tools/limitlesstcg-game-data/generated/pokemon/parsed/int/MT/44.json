@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Croconaw from your hand to evolve 1 of your Pokémon, you may look at the top 5 cards of your deck. Choose all Energy cards you find there, show them to your opponent, and put them into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward.",
+  "abilityName": "Evolutionary Vitality",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Hover Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Croconaw"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

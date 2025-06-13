@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Rollout"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Stab"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aron"
+  },
+  "number": "25",
+  "rarity": "u",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

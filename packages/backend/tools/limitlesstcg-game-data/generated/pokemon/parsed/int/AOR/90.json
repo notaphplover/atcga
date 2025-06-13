@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage times the number of damage counters on this Pokémon. This Pokémon is now Confused.",
+        "fr": "Cette attaque inflige 20 dégâts multipliés par le nombre de marqueurs de dégâts placés sur ce Pokémon. Ce Pokémon est maintenant Confus.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der Schadensmarken auf diesem Pokémon zu. Dieses Pokémon ist jetzt verwirrt.",
+        "it": "Se questo Pokémon è influenzato da una condizione speciale, questo attacco infligge 80 danni in più. Poi, rimuovi tutte le condizioni speciali da questo Pokémon.",
+        "es": "Este ataque hace 20 puntos de daño por cada contador de daño en este Pokémon. Este Pokémon pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Steaming Mad",
+        "fr": "Fou Furax",
+        "de": "Kochende Wut",
+        "it": "Martelpazzo",
+        "es": "Enfurecimiento"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If this Pokémon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from this Pokémon.",
+        "fr": "Si ce Pokémon est affecté par un État Spécial, cette attaque inflige 80 dégâts supplémentaires. Ensuite, retirez tous les États Spéciaux de ce Pokémon.",
+        "de": "Wenn das Aktive Pokémon deines Gegners von einem Speziellen Zustand betroffen ist, fügt dieser Angriff 80 weitere Schadenspunkte zu. Anschließend verlieren alle Speziellen Zustände auf diesem Pokémon ihre Wirkung.",
+        "es": "Si este Pokémon se ve afectado por una Condición Especial, este ataque hace 80 puntos de daño más. Después, elimina todas las Condiciones Especiales de este Pokémon."
+      },
+      "name": {
+        "en": "Crazy Hammer",
+        "fr": "Marteau Fou",
+        "de": "Bekloppter Hammer",
+        "es": "Martillo Loco"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_090_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp-EX",
+    "fr": "Mackogneur-EX",
+    "de": "Machomei-EX",
+    "it": "Machamp-EX",
+    "pt": "Machamp-EX",
+    "es": "Machamp-EX"
+  },
+  "number": "90",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "AOR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

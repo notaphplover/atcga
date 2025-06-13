@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If this Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+        "fr": "Si ce Pokémon est affecté par un État Spécial, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wenn dieses Pokémon von einem Speziellen Zustand betroffen ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+        "it": "Se questo Pokémon è influenzato da una condizione speciale, questo attacco infligge 60 danni in più.",
+        "es": "Si este Pokémon se ve afectado por una Condición Especial, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Heat Boiler",
+        "fr": "Coup de Chaud",
+        "de": "Hitzekessel",
+        "it": "Bollitore",
+        "es": "Caldera Ardiente"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If this Pokémon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pokémon.",
+        "fr": "Si de l'Énergie Plasma est attachée à ce Pokémon, cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur le Pokémon Défenseur.",
+        "de": "Wenn an dieses Pokémon bereits Plasma-Energie angelegt ist, fügt dieser Angriff 10 weitere Schadenspunkte für jede Schadensmarke auf dem Verteidigenden Pokémon zu.",
+        "it": "Se questo Pokémon ha delle Energie Plasma assegnate, questo attacco infligge 10 danni in più per ogni segnalino danno presente sul Pokémon difensore.",
+        "es": "Si este Pokémon tiene alguna Energía Plasma unida a él, este ataque hace 10 puntos de daño más por cada contador de daño en el Pokémon Defensor."
+      },
+      "name": {
+        "en": "Dynamite Press",
+        "fr": "Pression Explosive",
+        "de": "Dynamitdruck",
+        "it": "Detonapressa",
+        "es": "Empuje Dinamita"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_109_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heatran-EX",
+    "fr": "Heatran-EX",
+    "de": "Heatran-EX",
+    "it": "Heatran-EX",
+    "pt": "Heatran-EX",
+    "es": "Heatran-EX"
+  },
+  "number": "109",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLF",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

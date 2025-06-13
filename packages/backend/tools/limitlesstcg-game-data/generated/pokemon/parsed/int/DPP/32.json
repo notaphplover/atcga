@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Mirror Shot"
+      }
+    },
+    {
+      "cost": "lmcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard all [L] Energy attached to Magnezone."
+      },
+      "name": {
+        "en": "Magnet Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnezone"
+  },
+  "number": "32",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

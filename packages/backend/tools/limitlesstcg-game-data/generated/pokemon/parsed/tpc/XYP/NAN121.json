@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "自分のベンチの「コイキング」全員にのっているダメカンの数x30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ぎゃくしゅう"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。ウラなら、このポケモンにも30ダメージ。"
+      },
+      "name": {
+        "jp": "あばれる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_NAN121_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_NAN121_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_NAN121_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギャラドス"
+  },
+  "number": "NAN121",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XYP",
+  "stage": "stage1",
+  "traitEffect": "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。",
+  "traitName": "Θ（シータ）ダブル",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

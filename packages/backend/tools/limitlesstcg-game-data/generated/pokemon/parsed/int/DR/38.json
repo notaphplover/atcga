@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Sonic Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ninjask"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

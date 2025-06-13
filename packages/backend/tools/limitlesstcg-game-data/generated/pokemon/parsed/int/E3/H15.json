@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Prevent all effects of your opponent's attacks done to Machamp.",
+  "abilityName": "Immunity",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Before doing damage, if your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon. If your opponent has no Benched Pokémon, ignore this effect."
+      },
+      "name": {
+        "en": "Drag Off"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Hurricane Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "H15",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "If Bonsly is anywhere under Sudowoodo, flip a coin. If heads, prevent all effects of an attack, including damage, done to Sudowoodo during your opponent's next turn."
+      },
+      "name": {
+        "en": "Sidestep"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon. The new Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Persuade"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sudowoodo"
+  },
+  "number": "35",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

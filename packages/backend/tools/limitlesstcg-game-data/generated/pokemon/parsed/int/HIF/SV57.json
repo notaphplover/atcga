@@ -1,0 +1,87 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach 5 Energy cards from your discard pile to your Pokémon, except Pokémon-GX or Pokémon-EX, in any way you like. If you do, this Pokémon is Knocked Out.",
+  "abilityName": "Extra Energy Bomb",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Electro Ball",
+        "fr": "Boule Élek",
+        "de": "Elektroball",
+        "it": "Energisfera",
+        "es": "Bola Voltio"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Discard any amount of Energy from your Pokémon. This attack does 50 more damage for each card you discarded in this way. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez n'importe quel nombre d'Énergies de vos Pokémon. Cette attaque inflige 50 dégâts supplémentaires pour chaque carte défaussée de cette façon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege beliebig viele Energien von deinen Pokémon auf deinen Ablagestapel. Diese Attacke fügt 50 Schadenspunkte mehr mal der Anzahl der auf diese Weise auf deinen Ablagestapel gelegten Karten zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta tutte le Energie che vuoi assegnate ai tuoi Pokémon. Questo attacco infligge 50 danni in più per ogni carta che hai scartato in questo modo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Descarta cualquier cantidad de Energías de tus Pokémon. Este ataque hace 50 puntos de daño más por cada carta que hayas descartado de esta manera. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Crush and Burn-GX",
+        "fr": "Écra-Brûle-GX",
+        "de": "Falten und Frittieren-GX",
+        "it": "Spacca e Brucia-GX",
+        "es": "Arrasar y Quemar-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV57_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode-GX",
+    "fr": "Électrode-GX",
+    "de": "Lektrobal-GX",
+    "it": "Electrode-GX",
+    "pt": "Electrode-GX",
+    "es": "Electrode-GX"
+  },
+  "number": "SV57",
+  "rarity": "rrr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "HIF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

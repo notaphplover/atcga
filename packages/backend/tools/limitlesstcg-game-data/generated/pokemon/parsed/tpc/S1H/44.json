@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンは、相手の「ポケモンVMAX」からワザのダメージを受けない。",
+  "abilityName": "ふくつのたて",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "130",
+      "effect": {
+        "jp": "相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "アサルトタックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1H/S1H_44_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1H/S1H_44_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1H/S1H_44_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ザマゼンタV"
+  },
+  "number": "44",
+  "rarity": "rr",
+  "regulation": "d",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "S1H",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

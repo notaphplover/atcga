@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for a basic Energy card, show it to your opponent, and put it on top of your deck. If you do, put 1 damage counter on Mantine. This power can't be used if Mantine is affected by a Special Condition.",
+  "abilityName": "Power Circulation",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove 1 damage counter from Mantine."
+      },
+      "name": {
+        "en": "Spiral Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mantine"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DF",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

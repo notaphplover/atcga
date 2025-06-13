@@ -1,0 +1,95 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Search your deck for a Basic [M] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [M] de base, puis attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-[M]-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia base [M] e assegnala a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por uma carta de Energia [M] Básica no seu baralho e ligue-a a este Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [M] Básica y únela a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Steel Armament",
+        "fr": "Artillerie d'Acier",
+        "de": "Stahlrüstung",
+        "it": "Dotazione d'Acciaio",
+        "pt": "Armamento de Aço",
+        "es": "Armamento de Acero"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "210",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't use Slashing Strike.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Coup Déchirant.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon Schlitzender Schlag nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Lacerattacco.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá usar Ataque Cortante.",
+        "es": "Durante tu próximo turno, este Pokémon no puede usar Golpe Cuchillazo."
+      },
+      "name": {
+        "en": "Slashing Strike",
+        "fr": "Coup Déchirant",
+        "de": "Schlitzender Schlag",
+        "it": "Lacerattacco",
+        "pt": "Ataque Cortante",
+        "es": "Golpe Cuchillazo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_198_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zacian ex",
+    "fr": "Zacian-ex",
+    "de": "Zacian-ex",
+    "it": "Zacian-ex",
+    "pt": "Zacian ex",
+    "es": "Zacian ex"
+  },
+  "number": "198",
+  "regulation": "h",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

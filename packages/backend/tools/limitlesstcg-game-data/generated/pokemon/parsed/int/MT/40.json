@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the number of damage counters on Whiscash."
+      },
+      "name": {
+        "en": "Fury"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 20 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Magnitude"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Whiscash"
+  },
+  "number": "40",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

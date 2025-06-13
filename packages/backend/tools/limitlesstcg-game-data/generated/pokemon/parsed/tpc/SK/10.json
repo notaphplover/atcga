@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の番に何回でも使える。自分の場のポケモンについている[鋼]エネルギーを1個選び、自分の別のポケモンにつけ替える。",
+  "abilityName": "メタルトランス",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "jp": "しねんのずつき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SK/SK_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SK/SK_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SK/SK_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドータクン"
+  },
+  "number": "10",
+  "regulation": "e",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "SK",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

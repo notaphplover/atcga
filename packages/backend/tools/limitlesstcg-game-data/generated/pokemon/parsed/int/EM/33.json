@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Psypunch"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Mind Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kirlia"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

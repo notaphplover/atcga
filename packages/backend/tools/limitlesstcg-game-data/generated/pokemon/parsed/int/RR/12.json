@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned and can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Poison Bind"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by any Special Conditions, you may do 30 damage to any 1 Benched Pokémon instead. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Long Whip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roserade GL"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

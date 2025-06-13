@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "wff",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage for each damage counter on Shining Gyarados. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Outrage"
+      }
+    },
+    {
+      "cost": "wwrr",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard 2 [R] Energy cards attached to Shining Gyarados or this attack does nothing. This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pokémon that has any Energy cards attached to it and discard those Energy cards."
+      },
+      "name": {
+        "en": "Devastate"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shining Gyarados"
+  },
+  "number": "65",
+  "rarity": "sr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

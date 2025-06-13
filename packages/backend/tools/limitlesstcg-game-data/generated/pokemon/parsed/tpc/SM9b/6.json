@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "しばりつける"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "90",
+      "effect": {
+        "jp": "このポケモンに[草]エネルギーが2個ついているなら、このポケモンのHPを「60」回復する。"
+      },
+      "name": {
+        "jp": "クロロウィップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9b/SM9b_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9b/SM9b_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9b/SM9b_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "モジャンボ"
+  },
+  "number": "6",
+  "rarity": "u",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM9b",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

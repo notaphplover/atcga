@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Any damage done to Crawdaunt by your opponent's attacks is reduced by 10 for each [D] Energy attached to Crawdaunt (after applying Weakness and Resistance). You can't reduce more than 20 damage in this way.",
+  "abilityName": "Dark Protection",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubblebeam"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon is an Evolved Pokémon, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Cross-Cut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crawdaunt"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

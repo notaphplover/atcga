@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "リーフガード"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "くさむすび"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_215_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_215_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_215_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "リーフィア"
+  },
+  "number": "215",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SP",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

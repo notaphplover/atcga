@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のたねポケモンが使うワザに必要なエネルギーは、【無】エネルギー1個ぶん多くなる。",
+  "abilityName": "げんしのかぜ",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "jp": "ロックスマッシュ"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "50×",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーの数×50ダメージ。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ワイルドダイブGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11/SM11_100_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11/SM11_100_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM11/SM11_100_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "プテラGX"
+  },
+  "number": "100",
+  "rarity": "sr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 0,
+  "set": "SM11",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

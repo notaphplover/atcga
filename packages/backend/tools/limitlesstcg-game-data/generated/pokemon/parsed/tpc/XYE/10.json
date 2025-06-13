@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "20",
+      "effect": {
+        "jp": "のぞむなら、自分の手札からエネルギーを1枚選び、自分のベンチポケモンにつけてよい。"
+      },
+      "name": {
+        "jp": "ちからのかぜ"
+      }
+    },
+    {
+      "cost": "yccc",
+      "dmg": "50×",
+      "effect": {
+        "jp": "コインを4回投げ、オモテの数x50ダメージ。"
+      },
+      "name": {
+        "jp": "ハリケーンウイング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYE/XYE_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYE/XYE_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYE/XYE_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "トゲキッスEX"
+  },
+  "number": "10",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 1,
+  "set": "XYE",
+  "stage": "basic",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

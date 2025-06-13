@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may reveal the top card of your deck. If that card is a basic Energy card, attach it to 1 of your Pokémon. If not, put the card back on top of your deck. This power can't be used if Tyranitar is affected by a Special Condition.",
+  "abilityName": "Crush Draw",
+  "attacks": [
+    {
+      "cost": "rmc",
+      "dmg": "50+",
+      "effect": {
+        "en": "You may discard an Energy card attached to Tyranitar. If you do, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Delta Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DS",
+  "stage": "stage2",
+  "type": [
+    "fire",
+    "metal"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

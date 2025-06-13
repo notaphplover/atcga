@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Bullet Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metang"
+  },
+  "number": "65",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

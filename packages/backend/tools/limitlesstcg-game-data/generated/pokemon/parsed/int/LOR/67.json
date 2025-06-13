@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Pound",
+        "fr": "Écras'Face",
+        "de": "Klaps",
+        "it": "Botta",
+        "pt": "Pancada",
+        "es": "Destructor"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "90",
+      "effect": {
+        "en": "You and your opponent play Rock-Paper-Scissors until someone wins. If you win, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+        "fr": "Vous et votre adversaire jouez à pierre-ciseaux-feuille jusqu'à avoir un gagnant. Si vous gagnez, pendant le prochain tour de votre adversaire, vous évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "de": "Du und dein Gegner spielt Schere/Stein/Papier, bis jemand gewinnt. Wenn du gewinnst, verhindere während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
+        "it": "Tu e il tuo avversario giocate a morra cinese finché uno dei due non vince. Se vinci, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
+        "pt": "Você e seu oponente jogam “pedra, papel e tesoura” até alguém vencer. Se você vencer, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+        "es": "Tu rival y tú jugáis a piedra, papel o tijera hasta que gane uno de los dos. Si ganas tú, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+      },
+      "name": {
+        "en": "Tricky Slap",
+        "fr": "Gifle Rusée",
+        "de": "Listiger Klatscher",
+        "it": "Sberla Ingannevole",
+        "pt": "Tapa Ardiloso",
+        "es": "Bofetada Astuta"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_067_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mr. Mime",
+    "fr": "M. Mime",
+    "de": "Pantimos",
+    "it": "Mr. Mime",
+    "pt": "Mr. Mime",
+    "es": "Mr. Mime"
+  },
+  "number": "67",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "LOR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

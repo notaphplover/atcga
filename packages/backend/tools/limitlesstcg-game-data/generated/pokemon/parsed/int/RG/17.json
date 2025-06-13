@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Victreebel is your Active Pokémon, put 1 damage counter on each Defending Pokémon between turns. Acid Sampler stops working if your other Active Pokémon is not a Victreebel.",
+  "abilityName": "Acid Sampler",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Acid"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Victreebel"
+  },
+  "number": "17",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

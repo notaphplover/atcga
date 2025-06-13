@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Each of your Pokémon has no Weakness.",
+  "abilityName": "Erasing Sound",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Knock Back"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Exploud"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

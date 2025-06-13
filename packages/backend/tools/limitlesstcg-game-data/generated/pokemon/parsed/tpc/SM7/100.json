@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "yc",
+      "dmg": "50",
+      "effect": {
+        "jp": "次の相手の番、このポケモンは「ポケモンGX・EX」からワザのダメージを受けない。"
+      },
+      "name": {
+        "jp": "ブライトトーン"
+      }
+    },
+    {
+      "cost": "wyc",
+      "dmg": "110",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ソニックエッジ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_100_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_100_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7/SM7_100_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "チルタリスGX"
+  },
+  "number": "100",
+  "rarity": "sr",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM7",
+  "stage": "stage1",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

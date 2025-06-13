@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "As long as Articuno is your Active Pokémon, your Benched Pokémon do not take damage from and are not affected by attacks. This power cannot be used if Articuno is affected by a Special Condition.",
+  "abilityName": "Aurora Veil",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno"
+  },
+  "number": "48",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": []
+}

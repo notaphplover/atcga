@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札からスタジアムを出せない。",
+  "abilityName": "どでかいからだ",
+  "attacks": [
+    {
+      "cost": "mmmc",
+      "dmg": "130+",
+      "effect": {
+        "jp": "のぞむなら、100ダメージ追加。その場合、次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ノーズラリアット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6a/SV6a_42_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6a/SV6a_42_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV6a/SV6a_42_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダイオウドウ"
+  },
+  "number": "42",
+  "rarity": "r",
+  "regulation": "h",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "SV6a",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

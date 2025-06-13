@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンは、特殊エネルギーがついている相手のポケモンから、ワザのダメージを受けない。",
+  "abilityName": "フラッシュヘッド",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "jp": "相手の山札を上から1枚トラッシュする。"
+      },
+      "name": {
+        "jp": "ランブルワイヤー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4p/SM4p_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4p/SM4p_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4p/SM4p_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "デンジュモクGX"
+  },
+  "number": "33",
+  "rarity": "rr",
+  "regulation": "a",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SM4p",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

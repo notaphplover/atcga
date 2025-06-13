@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {
+        "en": "You may switch Seviper with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Bite and Escape"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+      },
+      "name": {
+        "en": "Paralyze Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/61_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/61.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/61.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seviper"
+  },
+  "number": "61",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

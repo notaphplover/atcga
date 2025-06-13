@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {
+        "en": "You may discard a card from your hand. If you do, your opponent discards a card from his or her hand."
+      },
+      "name": {
+        "en": "Dark One-eye"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Ambush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dusclops"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Dark Primeape does any damage while it's Confused (even to itself), it does 30 more damage.",
+  "abilityName": "Frenzy",
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "40",
+      "effect": {
+        "en": "Dark Primeape is now Confused (after doing damage)."
+      },
+      "name": {
+        "en": "Frenzied Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Primeape"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

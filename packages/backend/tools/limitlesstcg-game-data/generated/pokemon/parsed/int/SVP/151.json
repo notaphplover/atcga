@@ -1,0 +1,86 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Lunge Out",
+        "fr": "Allonger",
+        "de": "Sprungangriff",
+        "it": "Affondo Lungo",
+        "pt": "Bote",
+        "es": "Arremeter"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "100+",
+      "effect": {
+        "en": "If your opponent has 4 or fewer Prize cards remaining, this attack does 70 more damage.",
+        "fr": "S'il reste 4 cartes Récompense ou moins à votre adversaire, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn dein Gegner 4 oder weniger verbleibende Preiskarten hat, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+        "it": "Se il tuo avversario ha quattro o meno carte Premio rimanenti, questo attacco infligge 70 danni in più.",
+        "pt": "Se o seu oponente tiver 4 ou menos cartas de Prêmio restantes, este ataque causará 70 pontos de dano a mais.",
+        "es": "Si a tu rival le quedan 4 cartas de Premio o menos, este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Blazing Charge",
+        "fr": "Charge Enflammée",
+        "de": "Lodernder Ansturm",
+        "it": "Carica Ardente",
+        "pt": "Avanço Flamejante",
+        "es": "Carga Calcinadora"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_151_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gouging Fire",
+    "fr": "Feu-Perçant",
+    "de": "Keilflamme",
+    "it": "Vampeaguzze",
+    "pt": "Fogo Corrosão",
+    "es": "Flamariete"
+  },
+  "number": "151",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

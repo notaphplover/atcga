@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    },
+    {
+      "cost": "gggg",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove a number of damage counters from Butterfree equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10)."
+      },
+      "name": {
+        "en": "Mega Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Butterfree"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "LC",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

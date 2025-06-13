@@ -1,0 +1,63 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Lunge Out"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Discard as many [F] Energy cards as you like from your hand. The attack does 30 damage times the number of [F] Energy cards you discarded."
+      },
+      "name": {
+        "en": "Tumble Down"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "80",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golem"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "AR",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

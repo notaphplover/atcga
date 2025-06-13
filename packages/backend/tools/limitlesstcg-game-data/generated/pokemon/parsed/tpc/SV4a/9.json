@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番に1回使えて、使ったなら、このポケモンをきぜつさせる。自分の山札から「基本[G]エネルギー」を5枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。",
+  "abilityName": "ばくれつエナジー",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "120",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "ガードプレス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_9_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_9_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_9_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "フォレトスex"
+  },
+  "number": "9",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV4a",
+  "stage": "stage1",
+  "traitEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+  "traitName": "テラスタル",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

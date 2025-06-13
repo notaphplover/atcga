@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたたねポケモンは、ワザが使えない。"
+      },
+      "name": {
+        "jp": "フリーズダウン"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "130",
+      "effect": {
+        "jp": "このポケモンにも30ダメージ。"
+      },
+      "name": {
+        "jp": "ワイルドタックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_34_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_34_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_34_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブリザポス"
+  },
+  "number": "34",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S11",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

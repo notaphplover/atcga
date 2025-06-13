@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Quick Turn"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage, and, during your opponent's next turn, prevent all effects of attacks, including damage, done to Koga's Pidgeotto. If tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Aerial Maneuvers"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Koga's Pidgeotto"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

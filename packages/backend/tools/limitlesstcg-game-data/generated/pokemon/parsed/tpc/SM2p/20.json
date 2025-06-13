@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、60ダメージ追加。ウラなら、このポケモンにも20ダメージ。"
+      },
+      "name": {
+        "jp": "かみなりパンチ"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "170",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ギガインパクト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_20_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_20_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_20_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エレキブル"
+  },
+  "number": "20",
+  "regulation": "a",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 4,
+  "set": "SM2p",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

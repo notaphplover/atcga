@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Baby Pokémon, Basic Pokémon, or Evolution cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Crobat is affected by a Special Condition.",
+  "abilityName": "Carry Off",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads. If both of them are tails, the Defending Pokémon is now Confused and Poisoned."
+      },
+      "name": {
+        "en": "Double Cross"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crobat"
+  },
+  "number": "6",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

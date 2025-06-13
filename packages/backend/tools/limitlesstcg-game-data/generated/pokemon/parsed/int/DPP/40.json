@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
+      },
+      "name": {
+        "en": "Drag Off"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "80",
+      "effect": {
+        "en": "Regigigas can't use Giga Hammer during your next turn."
+      },
+      "name": {
+        "en": "Giga Hammer"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regigigas"
+  },
+  "number": "40",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

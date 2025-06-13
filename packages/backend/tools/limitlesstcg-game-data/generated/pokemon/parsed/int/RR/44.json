@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin for each [M] Energy attached to Lairon. This attack does 10 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Heavy Metal"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Lairon by attacks is reduced by 10 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Granite Head"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lairon"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

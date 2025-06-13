@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Ponyta has any Energy attached to it, Ponyta has no Weakness.",
+  "abilityName": "Star Barrier",
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard all [R] Energy attached to Ponyta."
+      },
+      "name": {
+        "en": "Blue Fire"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/SH11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/SH11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/SH11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ponyta"
+  },
+  "number": "SH11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

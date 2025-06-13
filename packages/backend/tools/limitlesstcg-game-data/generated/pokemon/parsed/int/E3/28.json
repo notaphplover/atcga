@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "To attach a [L] Energy card from your hand to Raikou, you must discard an Energy card attached to Raikou. (Attach the [L] Energy, and then discard an Energy card from Raikou.)",
+  "abilityName": "Pure Body",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may flip a coin. If heads, discard all [L] Energy cards attached to Raikou. This attack does 40 damage plus 20 more damage for each Energy card discarded in this way."
+      },
+      "name": {
+        "en": "Lightning Sphere"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raikou"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

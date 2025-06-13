@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Any damage done to Dewgong by attacks from [R] Pokémon and [W] Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+  "abilityName": "Thick Fat",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon is a [F] Pokémon, this attack's base damage is 80 instead of 30."
+      },
+      "name": {
+        "en": "Ice Shard"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Aurora Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dewgong"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

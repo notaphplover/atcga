@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Tangrowth by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Leaf Guard"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Before doing damage, count the remaining HP of the Defending Pokémon and Tangrowth. If the Defending Pokémon has fewer remaining HP than Tangrowth's, this attack does 120 damage instead."
+      },
+      "name": {
+        "en": "Swallow Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tangrowth"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 3,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

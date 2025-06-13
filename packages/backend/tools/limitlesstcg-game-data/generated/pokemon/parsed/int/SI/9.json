@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Butterfree. If tails, this attack does nothing (not even damage)."
+      },
+      "name": {
+        "en": "Fly"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Rainbow Powder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/si1/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/si1/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/si1/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Butterfree"
+  },
+  "number": "9",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SI",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Blaziken's remaining HP is 40 or less, Blaziken does 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Blaze",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Searing Flame"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Damage Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaziken"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

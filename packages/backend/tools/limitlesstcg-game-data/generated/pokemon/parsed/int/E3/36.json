@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "If there are any [L] Energy card in your discard pile, flip a coin. If heads, attach 1 of them to Electrode."
+      },
+      "name": {
+        "en": "Plasma"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "100",
+      "effect": {
+        "en": "This attack does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Electrode does 100 damage to itself."
+      },
+      "name": {
+        "en": "Selfdestruct"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Dusknoir is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon that has any Energy attached to it between turns.",
+  "abilityName": "Spirit Pulse",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 60 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Darkness Mist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dusknoir"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 2,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

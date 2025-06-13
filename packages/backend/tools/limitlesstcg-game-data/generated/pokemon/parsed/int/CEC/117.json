@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a card, shuffle your deck, then put that card on top of it.",
+  "abilityName": "Bulldoze",
+  "attacks": [
+    {
+      "cost": "fccc",
+      "dmg": "80+",
+      "effect": {
+        "en": "This attack does 30 more damage for each of your Benched Pokémon that has any damage counters on it.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chacun de vos Pokémon de Banc ayant au moins un marqueur de dégâts.",
+        "de": "Diese Attacke fügt 30 Schadenspunkte mehr mal der Anzahl der Pokémon auf deiner Bank zu, auf denen mindestens 1 Schadensmarke liegt.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Pokémon nella tua panchina che abbia dei segnalini danno.",
+        "es": "Este ataque hace 30 puntos de daño más por cada uno de tus Pokémon en Banca que tenga algún contador de daño sobre él."
+      },
+      "name": {
+        "en": "Tremulous Fist",
+        "fr": "Poing Trémulant",
+        "de": "Schüttelfaust",
+        "it": "Pugno Tremolante",
+        "es": "Puño Trémulo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_117_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seismitoad",
+    "fr": "Crapustule",
+    "de": "Branawarz",
+    "it": "Seismitoad",
+    "pt": "Seismitoad",
+    "es": "Seismitoad"
+  },
+  "number": "117",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CEC",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

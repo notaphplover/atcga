@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Fire Fang"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Mid-air Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Monferno"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

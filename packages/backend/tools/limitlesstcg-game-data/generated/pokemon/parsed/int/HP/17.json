@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. This power can't be used if Vileplume is affected by a Special Condition.",
+  "abilityName": "Poison Pollen",
+  "attacks": [
+    {
+      "cost": "pm",
+      "dmg": "30+",
+      "effect": {
+        "en": "Look at your opponent's hand. This attack does 30 damage plus 10 more damage for each Trainer card in your opponent's hand."
+      },
+      "name": {
+        "en": "Poltergeist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume"
+  },
+  "number": "17",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "stage2",
+  "type": [
+    "psychic",
+    "metal"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

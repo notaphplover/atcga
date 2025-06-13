@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "As long as your opponent has Groudon, Groudon ex, Rayquaza, or Rayquaza ex in play. Kyogre ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Frenzy",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "You may attach a basic Energy card from your hand to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Aqua Supply"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Tsunami"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kyogre ex"
+  },
+  "number": "37",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Glaceon is your Active Pokémon, any damage done to your Pokémon by your opponent's attacks is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Frost Wind",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If your opponent doesn't discard a card from his or her hand, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Bind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glaceon"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

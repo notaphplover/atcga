@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。ウラなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "じごくがため"
+      }
+    },
+    {
+      "cost": "lll",
+      "dmg": "150",
+      "effect": {
+        "jp": "このポケモンにも50ダメージ。"
+      },
+      "name": {
+        "jp": "ボルテージラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY6/XY6_79_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY6/XY6_79_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY6/XY6_79_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボルトロスEX"
+  },
+  "number": "79",
+  "rarity": "sr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "XY6",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

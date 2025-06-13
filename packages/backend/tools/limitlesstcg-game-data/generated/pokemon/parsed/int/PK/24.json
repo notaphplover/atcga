@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to Wobbuffet by your opponent's Pokémon-ex.",
+  "abilityName": "Safeguard",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage."
+      },
+      "name": {
+        "en": "Flip Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wobbuffet"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

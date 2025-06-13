@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Fearow has no Energy attached to it, Fearow's Retreat Cost is 0.",
+  "abilityName": "Free Flight",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Shot Air"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Drill Peck"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Fearow"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

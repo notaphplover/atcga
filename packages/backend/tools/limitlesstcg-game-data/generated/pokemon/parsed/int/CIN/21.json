@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 more damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte mehr pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 30 danni in più ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 30 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Double Stomp",
+        "fr": "Double Écrasement",
+        "de": "Doppelstampfer",
+        "it": "Doppio Pestone",
+        "es": "Pisotón Doble"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "90+",
+      "effect": {
+        "en": "You may put up to 9 damage counters on this Pokémon. This attack does 10 more damage for each damage counter you placed in this way.",
+        "fr": "Vous pouvez placer jusqu'à 9 marqueurs de dégâts sur ce Pokémon. Cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé de cette façon.",
+        "de": "Du kannst bis zu 9 Schadensmarken auf dieses Pokémon legen. Diese Attacke fügt 10 Schadenspunkte mehr mal der Anzahl der auf diese Weise platzierten Schadensmarken zu.",
+        "it": "Puoi mettere fino a nove segnalini danno su questo Pokémon. Questo attacco infligge 10 danni in più per ogni segnalino danno che hai messo in questo modo.",
+        "es": "Puedes poner hasta 9 contadores de daño en este Pokémon. Este ataque hace 10 puntos de daño más por cada contador de daño que hayas colocado de esta manera."
+      },
+      "name": {
+        "en": "Forceful Tackle",
+        "fr": "Charge Énergique",
+        "de": "Resoluter Rempler",
+        "it": "Maniere Forti",
+        "es": "Placaje Contundente"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CIN/CIN_021_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mamoswine",
+    "fr": "Mammochon",
+    "de": "Mamutel",
+    "it": "Mamoswine",
+    "pt": "Mamoswine",
+    "es": "Mamoswine"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "CIN",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

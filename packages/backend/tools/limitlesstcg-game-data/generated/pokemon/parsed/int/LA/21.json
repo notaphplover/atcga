@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, you may switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. If you do, this attack does 30 damage to the new Defending Pokémon. If the Defending Pokémon would be Knocked Out by this attack, you may remove all damage counters from Cradily."
+      },
+      "name": {
+        "en": "Drain Down"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Acid"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cradily"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

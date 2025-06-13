@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の手札から「基本[G]エネルギー」を1枚選び、このポケモンにつける。その後、自分の山札を1枚引く。",
+  "abilityName": "みどりのまい",
+  "attacks": [
+    {
+      "cost": "ggg",
+      "dmg": "30+",
+      "effect": {
+        "jp": "おたがいのバトルポケモンについているエネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "まんようしぐれ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_201_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_201_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_201_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "オーガポン みどりのめんex"
+  },
+  "number": "201",
+  "rarity": "sar",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8a",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire.",
+        "de": "Der Schaden dieser Attacke wird durch Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+        "es": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Shred",
+        "fr": "Déchiquetage",
+        "de": "Zerfetzer",
+        "it": "Tritatutto",
+        "es": "Hacer Trizas"
+      }
+    },
+    {
+      "cost": "rwc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If this Pokémon has any damage counters on it, this attack does 80 more damage.",
+        "fr": "Si des marqueurs de dégâts sont placés sur ce Pokémon, cette attaque inflige 80 dégâts supplémentaires.",
+        "de": "Wenn auf diesem Pokémon mindestens 1 Schadensmarke liegt, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 80 danni in più.",
+        "es": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más."
+      },
+      "name": {
+        "en": "Raging Blade",
+        "fr": "Lame en Furie",
+        "de": "Wutklinge",
+        "it": "Lama Furente",
+        "es": "Tajo Furioso"
+      }
+    },
+    {
+      "cost": "rrwc",
+      "dmg": "200",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé et Paralysé. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt und paralysiert. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato e paralizzato. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Dragon Nova-GX",
+        "fr": "Nova Dragon-GX",
+        "de": "Drachen-Nova-GX",
+        "it": "Dragonova-GX",
+        "es": "Estrella Dragón-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "White Kyurem-GX",
+    "fr": "Kyurem Blanc-GX",
+    "de": "Weißes Kyurem-GX",
+    "it": "Kyurem Bianco-GX",
+    "pt": "Kyurem Branco-GX",
+    "es": "Kyurem Blanco-GX"
+  },
+  "number": "141",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

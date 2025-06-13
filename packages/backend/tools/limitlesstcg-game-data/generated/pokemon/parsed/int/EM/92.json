@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Camerupt ex can't be Asleep or Paralyzed.",
+  "abilityName": "Magma Armor",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Searing Flame"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Each player discards the top card of his or her deck. This attack does 60 damage plus 20 more damage for each Energy card discarded in this way."
+      },
+      "name": {
+        "en": "Eruption"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Camerupt ex"
+  },
+  "number": "92",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

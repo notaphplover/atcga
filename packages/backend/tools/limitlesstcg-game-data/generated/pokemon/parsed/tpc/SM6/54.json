@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "このポケモンにダメカンがのっているなら、50ダメージ追加し、おたがいのバトルポケモンをこんらんにする。"
+      },
+      "name": {
+        "jp": "あらくれパンチ"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x40ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダブルスタンプ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴロンダ"
+  },
+  "number": "54",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "SM6",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

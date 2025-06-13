@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "jp": "自分の山札から[W]エネルギーを1枚選び、このポケモンにつける。そして山札を切る。"
+      },
+      "name": {
+        "jp": "フロストチャージ"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "jp": "フリーズウインド"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_270_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_270_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_270_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "グレイシアV"
+  },
+  "number": "270",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

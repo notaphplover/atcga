@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "If your opponent has 4 or more cards in their hand, they reveal their hand. Discard cards you find there until your opponent has exactly 4 cards in their hand.",
+        "fr": "Si votre adversaire a 4 cartes ou plus dans sa main, il montre sa main. Défaussez des cartes que vous y trouvez jusqu'à ce qu'il reste exactement 4 cartes dans la main de votre adversaire.",
+        "de": "Wenn dein Gegner 4 oder mehr Karten auf seiner Hand hat, zeigt er dir seine Handkarten. Lege so lang Karten, die du dort findest, auf seinen Ablagestapel, bis er genau 4 Karten auf seiner Hand hat.",
+        "it": "Se ha quattro o più carte in mano, il tuo avversario mostra la sua mano. Scarta delle carte dalla sua mano finché ne ha esattamente quattro.",
+        "es": "Si tu rival tiene 4 o más cartas en su mano, este enseña las cartas de su mano. Descarta cartas que encuentres entre ellas hasta que tu rival tenga exactamente 4 cartas en su mano."
+      },
+      "name": {
+        "en": "Make 'Em Pay",
+        "fr": "Ça Va Payer",
+        "de": "Lass sie büßen",
+        "it": "Pareggio dei Conti",
+        "es": "Ajuste de Cuentas"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 60 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Sharp Claws",
+        "fr": "Griffes Affûtées",
+        "de": "Scharfe Krallen",
+        "it": "Artigli Affilati",
+        "es": "Garras Afiladas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_126_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Persian",
+    "fr": "Persian",
+    "de": "Snobilikat",
+    "it": "Persian",
+    "pt": "Persian",
+    "es": "Persian"
+  },
+  "number": "126",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TEU",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

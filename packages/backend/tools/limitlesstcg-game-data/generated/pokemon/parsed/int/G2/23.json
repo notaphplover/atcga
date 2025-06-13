@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Mega Kick"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage plus 50 more damage if you have at least 1 Giovanni's Nidoking on your Bench. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Love Lariat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Nidoqueen"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "G2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

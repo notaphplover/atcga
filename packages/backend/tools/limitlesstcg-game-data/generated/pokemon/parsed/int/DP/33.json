@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.",
+  "abilityName": "Baby Evolution",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30×",
+      "effect": {
+        "en": "Discard 2 cards from your hand. (If you can't discard 2 cards, this attack does nothing.) Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Heave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Munchlax"
+  },
+  "number": "33",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

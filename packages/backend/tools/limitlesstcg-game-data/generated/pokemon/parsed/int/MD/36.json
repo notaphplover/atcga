@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Attack"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Drill Peck"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Fearow"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

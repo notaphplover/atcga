@@ -1,0 +1,74 @@
+{
+  "abilityEffect": "At any time between turns, heal 10 damage from each of your Pokémon.",
+  "abilityName": "Royal Heal",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "60",
+      "effect": {
+        "en": "Move as many [G] Energy attached to your Pokémon to your other Pokémon in any way you like.",
+        "fr": "Déplacez autant d'Énergies [G] attachées à vos Pokémon que vous voulez vers vos autres Pokémon, de la manière que vous voulez.",
+        "de": "Verschiebe beliebig viele an deine Pokémon angelegten [G]-Energien nach Belieben auf deine anderen Pokémon.",
+        "it": "Distribuisci a piacimento tutte le Energie [G] assegnate ai tuoi Pokémon.",
+        "es": "Mueve tantas Energías [G] unidas a tus Pokémon como quieras a tus otros Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Leaf Tornado",
+        "fr": "Phytomixeur",
+        "de": "Grasmixer",
+        "it": "Vorticerba",
+        "es": "Ciclón Hojas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_020_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Serperior",
+    "fr": "Majaspic",
+    "de": "Serpiroyal",
+    "it": "Serperior",
+    "pt": "Serperior",
+    "es": "Serperior"
+  },
+  "number": "20",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

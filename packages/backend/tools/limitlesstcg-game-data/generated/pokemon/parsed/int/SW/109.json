@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to Shuckle by your opponent's Pokémon that has any Special Energy cards attached to it.",
+  "abilityName": "Pot Shell",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. As long as the Defending Pokémon remains Poisoned by this attack, it can't use any Poké-Body."
+      },
+      "name": {
+        "en": "Ferment Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shuckle"
+  },
+  "number": "109",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

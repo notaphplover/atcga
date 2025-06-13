@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if any Pokémon were Knocked Out during your opponent's last turn, you may draw 2 cards. You can't use more than 1 Minus Charge Poké-Power each turn. This power can't be used if Minun is affected by a Special Condition.",
+  "abilityName": "Minus Charge",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "If you have Plusle on your Bench, you may move an Energy card attached to Minun to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Tag Play —"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Minun"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

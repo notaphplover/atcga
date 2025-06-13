@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "自分の番に使える。次の相手の番、自分のポケモン全員が、相手のポケモンから受けるワザのダメージは「-100」される。（新しく場に出したポケモンもふくむ。）［対戦中、自分はVSTARパワーを1回しか使えない。］",
+  "abilityName": "シールドスター",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "220",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ギガインパクト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP6/SP6_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP6/SP6_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP6/SP6_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ザマゼンタVSTAR"
+  },
+  "number": "6",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SP6",
+  "stage": "vstar",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

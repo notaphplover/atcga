@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your opponent's turn, if Jirachi would be Knocked Out by damage from an attack, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+  "abilityName": "Final Wish",
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jirachi"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 0,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Put 1 damage counter on each of your opponent's Pokémon that remains Asleep between turns.",
+  "abilityName": "Eerie Aura",
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, that Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Darkness Sleep"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Darkrai G"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

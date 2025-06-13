@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever your opponent attaches an Energy card from his or her hand to a Pokémon, this power does 10 damage to that Pokémon. (Don't apply Weakness and Resistance.) This power stops working if you have more than 1 Dark Ampharos in play or while Dark Ampharos is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Conductivity",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard all [L] Energy cards attached to Dark Ampharos or this attack does nothing."
+      },
+      "name": {
+        "en": "Shock Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Ampharos"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N4",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンは、相手のポケモンが使うワザの効果を受けない。",
+  "abilityName": "はじまりのおきて",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "jp": "このワザは、自分のベンチに[草]と[水]と[雷]ポケモンがいるときにしか使えない。自分の山札にある基本エネルギーを3枚まで、自分のポケモンに好きなようにつける。そして山札を切る。"
+      },
+      "name": {
+        "jp": "トリニティスター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5p/SM5p_37_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5p/SM5p_37_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5p/SM5p_37_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アルセウス"
+  },
+  "number": "37",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM5p",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

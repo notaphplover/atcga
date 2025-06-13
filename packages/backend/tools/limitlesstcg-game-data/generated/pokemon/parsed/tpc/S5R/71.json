@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の手札が3枚になるように、山札を引く。このポケモンがバトル場にいるなら、4枚になるように引く。この番、すでに別の「エキサイトステージ」を使っていたなら、この特性は使えない。",
+  "abilityName": "エキサイトステージ",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "シザークロス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5R/S5R_71_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5R/S5R_71_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5R/S5R_71_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コロトックV"
+  },
+  "number": "71",
+  "rarity": "sr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S5R",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

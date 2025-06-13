@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Before doing damage, discard all Pokémon Tool cards from your opponent's Active Pokémon. If you discarded a Pokémon Tool card in this way, heal all damage from this Pokémon.",
+        "fr": "Avant d'infliger des dégâts, défaussez toutes les cartes Outil Pokémon du Pokémon Actif de votre adversaire. Si vous avez défaussé une carte Outil Pokémon de cette façon, soignez tous les dégâts de ce Pokémon.",
+        "de": "Bevor du Schaden zufügst, lege alle Pokémon-Ausrüstungen vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel. Wenn du mindestens 1 Pokémon-Ausrüstung auf diese Weise auf seinen Ablagestapel gelegt hast, heile allen Schaden bei diesem Pokémon.",
+        "it": "Prima di infliggere danni, scarta tutte le carte Oggetto Pokémon assegnate al Pokémon attivo del tuo avversario. Se scarti una carta Oggetto Pokémon in questo modo, cura questo Pokémon da tutti i danni.",
+        "es": "Antes de infligir daño, descarta todas las cartas de Herramienta Pokémon del Pokémon Activo de tu rival. Si has descartado alguna carta de Herramienta Pokémon de esta manera, cura todos los puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Eat Up",
+        "fr": "Dévorer",
+        "de": "Aufessen",
+        "it": "Piatto Pulito",
+        "es": "Tragonear"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 60 damage for each heads.",
+        "fr": "Lancez 4 pièces. Cette attaque inflige 60 dégâts pour chaque côté face.",
+        "de": "Wirf 4 Münzen. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia quattro volte una moneta. Questo attacco infligge 60 danni ogni volta che esce testa.",
+        "es": "Lanza 4 monedas. Este ataque hace 60 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Tonguenado",
+        "fr": "Déferlante de Langues",
+        "de": "Schlecksturm",
+        "it": "Leccaciclone",
+        "es": "Tornado de Lametones"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_153_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lickilicky",
+    "fr": "Coudlangue",
+    "de": "Schlurplek",
+    "it": "Lickilicky",
+    "pt": "Lickilicky",
+    "es": "Lickilicky"
+  },
+  "number": "153",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "UNB",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

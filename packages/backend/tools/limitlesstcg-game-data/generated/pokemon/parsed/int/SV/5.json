@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Garchomp is your Active Pokémon and is damaged by an opponent's attack (even if Garchomp is Knocked Out), choose an Energy card attached to the Attacking Pokémon and put it into your opponent's hand.",
+  "abilityName": "Dragon Intimidation",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Garchomp by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Guard Claw"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "120-",
+      "effect": {
+        "en": "Does 120 damage minus 20 damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Speed Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Garchomp"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "SV",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

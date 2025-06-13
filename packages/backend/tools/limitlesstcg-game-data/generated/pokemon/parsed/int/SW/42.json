@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, excluding damage, done to Wormadam Sandy Cloak.",
+  "abilityName": "Sandy Cloak",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 damage for each [F] Energy attached to Wormadam Sandy Cloak."
+      },
+      "name": {
+        "en": "Push Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wormadam Sandy Cloak"
+  },
+  "number": "42",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

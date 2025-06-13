@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Smash Kick"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Ponyta during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/71_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/71.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/71.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ponyta"
+  },
+  "number": "71",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

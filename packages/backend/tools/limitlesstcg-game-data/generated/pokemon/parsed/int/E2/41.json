@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Umbreon is your Active Pokémon and has a [D] Energy attached to it, once during your turn (before your attack), you may look at your opponent's hand. Choose from it a number of cards up to the number of [D] Energy attached to Umbreon and shuffle them into your opponent's deck. Your opponent then draws the same number of cards from his or her deck. This power can't be used if Umbreon is affected by a Special Condition.",
+  "abilityName": "Dark Moon",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Shadow Bind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Umbreon"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

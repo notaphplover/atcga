@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "けとばす"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージ追加。"
+      },
+      "name": {
+        "jp": "クイックアタック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_42_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_42_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10b/SM10b_42_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "タイプ：ヌル"
+  },
+  "number": "42",
+  "rarity": "c",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM10b",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Smash Kick"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy attached to Growlithe."
+      },
+      "name": {
+        "en": "Fireworks"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/108_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/108.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/108.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Growlithe"
+  },
+  "number": "108",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

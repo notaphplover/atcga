@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, Vigoroth does 10 damage to itself."
+      },
+      "name": {
+        "en": "Reckless Charge"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If Vigoroth has any damage counters on it, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Fight Back"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/64_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/64.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/64.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vigoroth"
+  },
+  "number": "64",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 more damage for each [L] Energy attached to all of your Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie [L] attachée à tous vos Pokémon.",
+        "de": "Diese Attacke fügt für jede an alle deine Pokémon angelegte [L]-Energie 30 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Energia [L] assegnata ai tuoi Pokémon.",
+        "pt": "Este ataque causa 30 pontos de dano a mais para cada Energia [L] ligada a todos os seus Pokémon.",
+        "es": "Este ataque hace 30 puntos de daño más por cada Energía [L] unida a todos tus Pokémon."
+      },
+      "name": {
+        "en": "Bolt Storm",
+        "fr": "Tempête Éclair",
+        "de": "Elektrosturm",
+        "it": "Fulmintempesta",
+        "pt": "Tempestade Relampejante",
+        "es": "Tormenta de Relámpagos"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "230",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't use Max Bolt.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Foudromax.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon Dyna-Elektroblitz nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Dynafulmine.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá usar Corisco Max.",
+        "es": "Durante tu próximo turno, este Pokémon no puede usar Maxirrelámpago."
+      },
+      "name": {
+        "en": "Max Bolt",
+        "fr": "Foudromax",
+        "de": "Dyna-Elektroblitz",
+        "it": "Dynafulmine",
+        "pt": "Corisco Max",
+        "es": "Maxirrelámpago"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_267_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Boltund VMAX",
+    "fr": "Fulgudog VMAX",
+    "de": "Bellektro VMAX",
+    "it": "Boltund VMAX",
+    "pt": "Boltund VMAX",
+    "es": "Boltund VMAX"
+  },
+  "number": "267",
+  "rarity": "rar",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "FST",
+  "stage": "vmax",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

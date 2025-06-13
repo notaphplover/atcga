@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "80",
+      "effect": {
+        "en": "This Pokémon is now Confused.",
+        "fr": "Ce Pokémon est maintenant Confus.",
+        "de": "Dieses Pokémon ist jetzt verwirrt.",
+        "it": "Questo Pokémon viene confuso.",
+        "pt": "Este Pokémon agora está Confuso.",
+        "es": "Este Pokémon pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Tantrum",
+        "fr": "Mauvaise Humeur",
+        "de": "Rappel",
+        "it": "Collera",
+        "pt": "Petulância",
+        "es": "Rabieta"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "250",
+      "effect": {
+        "en": "If this Pokémon is affected by a Special Condition, ignore all Energy in this attack's cost.",
+        "fr": "Si ce Pokémon est affecté par un État Spécial, ignorez toutes les Énergies dans le coût de cette attaque.",
+        "de": "Wenn dieses Pokémon von einem Speziellen Zustand betroffen ist, ignoriere alle Energien in den Kosten dieser Attacke.",
+        "it": "Se questo Pokémon è influenzato da una condizione speciale, ignora tutte le Energie necessarie per usare questo attacco.",
+        "pt": "Se este Pokémon estiver afetado por uma Condição Especial, ignore todas as Energias no custo deste ataque.",
+        "es": "Si este Pokémon se ve afectado por una Condición Especial, ignora todas las Energías en el coste de este ataque."
+      },
+      "name": {
+        "en": "Gutsy Swing",
+        "fr": "Coup Courageux",
+        "de": "Mutiger Schwung",
+        "it": "Baldocolpo",
+        "pt": "Balanço Destemido",
+        "es": "Golpe con Agallas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_105_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Conkeldurr",
+    "fr": "Bétochef",
+    "de": "Meistagrif",
+    "it": "Conkeldurr",
+    "pt": "Conkeldurr",
+    "es": "Conkeldurr"
+  },
+  "number": "105",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TWM",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

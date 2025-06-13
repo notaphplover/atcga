@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Stun Spore"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Leech Life"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/97_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/97.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/97.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venonat"
+  },
+  "number": "97",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

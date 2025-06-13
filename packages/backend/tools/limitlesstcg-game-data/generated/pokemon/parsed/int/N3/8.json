@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Houndoom or this attack does nothing. If there are any [D] Energy cards in your discard pile, attach 1 of them to Houndoom."
+      },
+      "name": {
+        "en": "Dark Flame"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a number of coins equal to the number of [D] Energy attached to Houndoom. This attack does 30 damage plus 10 more damage for each heads."
+      },
+      "name": {
+        "en": "Black Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

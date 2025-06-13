@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon.",
+        "fr": "Avant d'infliger des dégâts, défaussez toutes les cartes Outil Pokémon attachées au Pokémon Actif de votre adversaire.",
+        "de": "Lege, bevor du Schaden zufügst, alle an das Aktive Pokémon deines Gegners angelegten Pokémon-Ausrüstungen auf den Ablagestapel deines Gegners.",
+        "it": "Prima di infliggere il danno, scarta tutte le carte Oggetto Pokémon assegnate al Pokémon attivo del tuo avversario.",
+        "es": "Antes de infligir daño, descarta todas las cartas de Herramienta Pokémon unidas al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Joust",
+        "fr": "Joute",
+        "de": "Lanzenstich",
+        "it": "Giostra",
+        "es": "Justa"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 40 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire a déjà des marqueurs de dégâts, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners bereits mindestens 1 Schadensmarke liegt, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon attivo del tuo avversario ha dei segnalini danno, questo attacco infligge 40 danni in più.",
+        "es": "Si el Pokémon Activo de tu rival ya tiene algún contador de daño sobre él, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Tailspin Piledriver",
+        "fr": "Vrille Incontrôlable",
+        "de": "Überkopfabservierer",
+        "it": "Avvitamento Schiacciante",
+        "es": "Martinete en Picado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_080_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skarmory-EX",
+    "fr": "Airmure-EX",
+    "de": "Panzaeron-EX",
+    "it": "Skarmory-EX",
+    "pt": "Skarmory-EX",
+    "es": "Skarmory-EX"
+  },
+  "number": "80",
+  "rarity": "rr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

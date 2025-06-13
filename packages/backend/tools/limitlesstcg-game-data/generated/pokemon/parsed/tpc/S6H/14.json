@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ヒートブラスト"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "このポケモンにダメカンが10個以上のっているなら、150ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダイナマイトタックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S6H/S6H_14_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S6H/S6H_14_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S6H/S6H_14_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボルケニオンV"
+  },
+  "number": "14",
+  "rarity": "rr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 3,
+  "set": "S6H",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

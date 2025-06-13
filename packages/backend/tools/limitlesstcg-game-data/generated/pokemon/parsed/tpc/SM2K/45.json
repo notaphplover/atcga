@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+      },
+      "name": {
+        "jp": "こうそくいどう"
+      }
+    },
+    {
+      "cost": "c",
+      "dmg": "40+",
+      "effect": {
+        "jp": "前の自分の番、このポケモンが「こうそくいどう」を使っていたなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "スワローダイブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2K/SM2K_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2K/SM2K_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2K/SM2K_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "オオスバメ"
+  },
+  "number": "45",
+  "rarity": "u",
+  "regulation": "a",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SM2K",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分のバトルポケモンが、相手のポケモンからワザのダメージを受けてきぜつするたび、1回使える。きぜつしたポケモンについている[水]エネルギーを好きなだけ選び、このポケモンにつけ替える。",
+  "abilityName": "かいていのぬし",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "40×",
+      "effect": {
+        "jp": "このポケモンについている[水]エネルギーの数×40ダメージ。"
+      },
+      "name": {
+        "jp": "アクアバースト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_26_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_26_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_26_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キングドラ"
+  },
+  "number": "26",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S8b",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Whiscash is on your Bench, prevent all damage done to Whiscash by your opponent's attacks.",
+  "abilityName": "Submerge",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Surf"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Magnitude"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Whiscash"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Masquerain is your Active Pokémon, any damage done by an opponent's attack is reduced by 20 (before applying Weakness and Resistance).",
+  "abilityName": "Intimidating Pattern",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "Draw 2 cards."
+      },
+      "name": {
+        "en": "Skim Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/68_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/68.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/68.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Masquerain"
+  },
+  "number": "68",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

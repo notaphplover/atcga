@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10×",
+      "effect": {
+        "en": "Search your discard pile for as many [W] Energy cards as you like, show them to your opponent, and this attack does 10 damage for each [W] Energy card you chose. Put those cards on top of your deck. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Aqua Stream"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard 2 cards from your hand. If you do, this attack does 40 damage plus 20 more damage and does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Dragon Pump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kingdra"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

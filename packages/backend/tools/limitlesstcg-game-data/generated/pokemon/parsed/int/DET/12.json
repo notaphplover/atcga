@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+        "fr": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire. Ce Pokémon ne peut pas utiliser cette attaque pendant le prochain tour de votre adversaire.",
+        "de": "Wähle 1 Attacke des Aktiven Pokémon deines Gegners. Jenes Pokémon kann jene Attacke während des nächsten Zuges deines Gegners nicht einsetzen.",
+        "it": "Scegli un attacco del Pokémon attivo del tuo avversario. Durante il prossimo turno del tuo avversario, quel Pokémon non potrà utilizzarlo.",
+        "es": "Elige 1 de los ataques del Pokémon Activo de tu rival. Ese Pokémon no puede usar ese ataque durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Psyjack",
+        "fr": "Détournement Psy",
+        "de": "Mentale Entführung",
+        "it": "Sequestro Psichico",
+        "es": "Secuestro Psíquico"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "130",
+      "effect": {
+        "en": "Discard 2 P Energy from this Pokémon.",
+        "fr": "Défaussez 2 Énergies [P] de ce Pokémon.",
+        "de": "Lege 2 [P]-Energien von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta due Energie [P] assegnate a questo Pokémon.",
+        "es": "Descarta 2 Energías [P] de este Pokémon."
+      },
+      "name": {
+        "en": "Break Burn",
+        "fr": "Brûlure Brisante",
+        "de": "Bruchbrand",
+        "it": "Sconfitta Cocente",
+        "es": "Quiebre Quemadura"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DET/DET_012_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mewtwo",
+    "fr": "Mewtwo",
+    "de": "Mewtu",
+    "it": "Mewtwo",
+    "pt": "Mewtwo",
+    "es": "Mewtwo"
+  },
+  "number": "12",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DET",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

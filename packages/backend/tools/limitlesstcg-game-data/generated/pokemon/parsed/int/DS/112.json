@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many [W] Energy cards and attach them to Kyogre Star."
+      },
+      "name": {
+        "en": "Critical Collection"
+      }
+    },
+    {
+      "cost": "wwwcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Sheer Cold"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/112_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/112.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/112.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kyogre Star"
+  },
+  "number": "112",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

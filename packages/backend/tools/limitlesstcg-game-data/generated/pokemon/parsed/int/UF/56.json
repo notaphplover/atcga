@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thunder Wave"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flaaffy does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flaaffy"
+  },
+  "number": "56",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

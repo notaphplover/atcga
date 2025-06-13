@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swagger"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Purugly"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

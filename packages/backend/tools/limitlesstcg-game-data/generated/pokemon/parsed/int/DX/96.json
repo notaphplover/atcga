@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Crobat ex is your Active Pokémon, you may put 1 damage counter on 1 of your opponent's Pokémon. This power can't be used if Crobat ex is affected by a Special Condition.",
+  "abilityName": "Distortion",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Cross Attack"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 60 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Pester"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crobat ex"
+  },
+  "number": "96",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "DX",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

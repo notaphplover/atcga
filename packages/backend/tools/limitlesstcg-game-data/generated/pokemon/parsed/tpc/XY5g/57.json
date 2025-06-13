@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンが使うワザの、相手の[草]ポケモンへのダメージは「+40」される。",
+  "abilityName": "そうしょく",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "80",
+      "effect": {
+        "jp": "相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "くつがえす"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_57_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_57_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_57_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バッフロン"
+  },
+  "number": "57",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY5g",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

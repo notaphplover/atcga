@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy card attached to Torchic Star."
+      },
+      "name": {
+        "en": "Fireworks"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "20+",
+      "effect": {
+        "en": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Spring Back"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/108_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/108.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/108.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torchic Star"
+  },
+  "number": "108",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

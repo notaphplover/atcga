@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Trapinch is your Active Pokémon, you may search your discard pile for a basic [F] card and attach it to Trapinch.",
+  "abilityName": "Gather Sand",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the amount of Energy attached to Trapinch."
+      },
+      "name": {
+        "en": "Grind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/84_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/84.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/84.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Trapinch"
+  },
+  "number": "84",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

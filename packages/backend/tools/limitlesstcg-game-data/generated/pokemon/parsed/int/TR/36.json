@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, the Defending Pokémon is now Confused; if tails, your Active Pokémon is now Confused. This power can't be used if Dark Gloom is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Pollen Stench",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Gloom"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

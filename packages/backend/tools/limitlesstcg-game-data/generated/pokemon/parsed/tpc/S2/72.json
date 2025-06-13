@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30+",
+      "effect": {
+        "jp": "この番、このポケモンが「ストライク」から進化していたなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "しゅうげき"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "90",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "ガードクロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_72_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_72_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_72_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハッサム"
+  },
+  "number": "72",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "S2",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

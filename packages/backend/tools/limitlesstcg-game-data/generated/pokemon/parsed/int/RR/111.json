@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Snorlax is your Active Pokémon, you may draw cards until you have 6 cards in your hand. If you do, Snorlax is now Asleep. This power can't be used if Snorlax is affected by a Special Condition.",
+  "abilityName": "Big Appetite",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "80",
+      "effect": {
+        "en": "You may discard as many Energy cards as you like from your hand. If you do, remove that many damage counters from Snorlax."
+      },
+      "name": {
+        "en": "Exercise"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/111_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/111.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/111.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Snorlax LV.X"
+  },
+  "number": "111",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 4,
+  "set": "RR",
+  "stage": "lvx",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

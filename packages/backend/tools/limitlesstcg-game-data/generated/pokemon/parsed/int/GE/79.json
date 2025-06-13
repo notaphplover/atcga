@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Light Punch"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Mankey."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/79_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/79.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/79.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mankey"
+  },
+  "number": "79",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

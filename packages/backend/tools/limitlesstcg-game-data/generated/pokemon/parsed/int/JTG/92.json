@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Pervasive Gas",
+        "fr": "Gaz Pénétrant",
+        "de": "Ausströmendes Gas",
+        "it": "Gas Dilagante",
+        "pt": "Gás Pervasivo",
+        "es": "Gas Penetrante"
+      }
+    },
+    {
+      "cost": "dc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If this Pokémon used Pervasive Gas during your last turn, this attack does 120 more damage.",
+        "fr": "Si ce Pokémon a utilisé Gaz Pénétrant pendant votre dernier tour, cette attaque inflige 120 dégâts supplémentaires.",
+        "de": "Wenn dieses Pokémon während deines letzten Zuges Ausströmendes Gas eingesetzt hat, fügt diese Attacke 120 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha usato Gas Dilagante durante il tuo ultimo turno, questo attacco infligge 120 danni in più.",
+        "pt": "Se este Pokémon usou Gás Pervasivo durante o seu último turno, este ataque causará 120 pontos de dano a mais.",
+        "es": "Si este Pokémon usó Gas Penetrante durante tu último turno, este ataque hace 120 puntos de daño más."
+      },
+      "name": {
+        "en": "Crazy Blast",
+        "fr": "Explosion Folle",
+        "de": "Verrückte Explosion",
+        "it": "Esplosione Folle",
+        "pt": "Explosão Insana",
+        "es": "Explosión Salvaje"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Weezing",
+    "fr": "Smogogo",
+    "de": "Smogmog",
+    "it": "Weezing",
+    "pt": "Weezing",
+    "es": "Weezing"
+  },
+  "number": "92",
+  "rarity": "u",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 2,
+  "set": "JTG",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

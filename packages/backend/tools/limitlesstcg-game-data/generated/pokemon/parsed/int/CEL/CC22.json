@@ -1,0 +1,90 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre d'Énergies attachées à ce Pokémon et au Pokémon Défenseur.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der an dieses und an das Verteidigende Pokémon angelegten Energien zu.",
+        "it": "Infligge 20 danni per ogni Energia assegnata a questo Pokémon e al Pokémon difensore.",
+        "pt": "Causa 20 de dano vezes a quantidade de Energia ligada a este Pokémon e ao Pokémon Defensor.",
+        "es": "Descarta una Energía unida a este Pokémon."
+      },
+      "name": {
+        "en": "X Ball",
+        "fr": "X Ball",
+        "de": "X-Ball",
+        "it": "Sfera X",
+        "pt": "Bola X",
+        "es": "Guía Psi"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard an Energy attached to this Pokémon.",
+        "fr": "Défaussez une Énergie attachée à ce Pokémon.",
+        "de": "Lege 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon.",
+        "pt": "Descarte uma Energia ligada a este Pokémon."
+      },
+      "name": {
+        "en": "Psydrive",
+        "fr": "Psykoforce",
+        "de": "Psycho-Antrieb",
+        "it": "Psicomotore",
+        "pt": "Controle Psíquico"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC22_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mewtwo-EX",
+    "fr": "Mewtwo-EX",
+    "de": "Mewtu-EX",
+    "it": "Mewtwo-EX",
+    "pt": "Mewtwo-EX",
+    "es": "Mewtwo-EX"
+  },
+  "number": "CC22",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CEL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy attached to Monferno."
+      },
+      "name": {
+        "en": "Fire Tail Slap"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Paralyzing Gaze"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Monferno"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

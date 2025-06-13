@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Jirachi is your Active Pokémon, you may look at the top 5 cards of your deck, choose 1 of them, and put it into your hand. Shuffle your deck afterward. Jirachi and your other Active Pokémon, if any, are now Asleep. This power can't be used if Jirachi is affected by a Special Condition.",
+  "abilityName": "Wishing Star",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon has any Poké-Bodies, this attack does 20 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Metallic Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jirachi"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires multipliés par le nombre d'Énergies attachées au Pokémon Actif de votre adversaire.",
+        "de": "Diese Attacke fügt 20 Schadenspunkte mehr mal der Anzahl der an das Aktive Pokémon deines Gegners angelegten Energien zu.",
+        "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Psychic",
+        "fr": "Psyko",
+        "de": "Psychokinese",
+        "it": "Psichico",
+        "es": "Psíquico"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard an Energy from this Pokémon.",
+        "fr": "Défaussez une Énergie de ce Pokémon.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon.",
+        "es": "Descarta 1 Energía de este Pokémon."
+      },
+      "name": {
+        "en": "Power Blast",
+        "fr": "Violente Déflagration",
+        "de": "Powerschuss",
+        "it": "Forzacolpo",
+        "es": "Estallido Vigoroso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_067_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys",
+    "fr": "Deoxys",
+    "de": "Deoxys",
+    "it": "Deoxys",
+    "pt": "Deoxys",
+    "es": "Deoxys"
+  },
+  "number": "67",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CES",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

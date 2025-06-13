@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、[M]エネルギーがついている自分のポケモン全員のにげるためのエネルギーは、すべてなくなる。",
+  "abilityName": "はがねのかけはし",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "160",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "アイアンブラスター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7/SV7_113_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7/SV7_113_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7/SV7_113_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブリジュラス"
+  },
+  "number": "113",
+  "rarity": "ar",
+  "regulation": "h",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SV7",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

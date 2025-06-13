@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、相手は手札からエネルギーをポケモンにつけるたび、そのポケモンにダメカンを2個のせる。",
+  "abilityName": "むしばむのろい",
+  "attacks": [
+    {
+      "cost": "dd",
+      "dmg": "160",
+      "effect": {
+        "jp": "のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手のベンチポケモンにつけ替える。"
+      },
+      "name": {
+        "jp": "トリックステップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 310,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5K/SV5K_88_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5K/SV5K_88_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5K/SV5K_88_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゲンガーex"
+  },
+  "number": "88",
+  "rarity": "sr",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV5K",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

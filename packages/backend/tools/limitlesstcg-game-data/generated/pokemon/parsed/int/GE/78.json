@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Arm Thrust"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/78_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/78.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/78.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Makuhita"
+  },
+  "number": "78",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

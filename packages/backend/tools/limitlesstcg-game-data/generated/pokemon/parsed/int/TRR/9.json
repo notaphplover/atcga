@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top card of your opponent's deck. Then, you may shuffle his or her deck. This power can't be used if Dark Slowking is affected by a Special Condition.",
+  "abilityName": "Cunning",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "You may discard a combination of up to 2 Pokémon Tool cards and Rocket's Secret Machine cards from your hand. If you do, this attack does 20 damage plus 30 more damage for each card you discarded."
+      },
+      "name": {
+        "en": "Litter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Slowking"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "psychic",
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

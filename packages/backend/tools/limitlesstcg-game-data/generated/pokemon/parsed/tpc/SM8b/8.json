@@ -1,0 +1,64 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30+",
+      "effect": {
+        "jp": "この番、このポケモンがベンチからバトル場に出ていたなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "であいがしら"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "アーマープレス"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "150",
+      "effect": {
+        "jp": "このポケモンをベンチポケモンと入れ替える。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ザンクロスGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "グソクムシャGX"
+  },
+  "number": "8",
+  "rarity": "rr",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM8b",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

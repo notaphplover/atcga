@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard an Energy from your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie du Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia dal Pokémon attivo del tuo avversario.",
+        "pt": "Descarte 1 Energia do Pokémon Ativo do seu oponente.",
+        "es": "Descarta 1 Energía del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Energy Cutoff",
+        "fr": "Coupure d'Énergie",
+        "de": "Energiesperre",
+        "it": "Calopotenza",
+        "pt": "Corte de Energia",
+        "es": "Corte de Energía"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "160",
+      "effect": {
+        "en": "Put 2 Energy attached to this Pokémon into your hand.",
+        "fr": "Ajoutez à votre main 2 Énergies attachées à ce Pokémon.",
+        "de": "Nimm 2 an dieses Pokémon angelegte Energien auf deine Hand.",
+        "it": "Prendi due Energie assegnate a questo Pokémon e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque 2 Energias ligadas a este Pokémon na sua mão.",
+        "es": "Pon 2 Energías unidas a este Pokémon en tu mano."
+      },
+      "name": {
+        "en": "Loop Cannon",
+        "fr": "Canon Cyclique",
+        "de": "Loop-Kanone",
+        "it": "Cannone Perpetuo",
+        "pt": "Canhão em Loop",
+        "es": "Cañón en Bucle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/VIV/VIV_145_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toucannon",
+    "fr": "Bazoucan",
+    "de": "Tukanon",
+    "it": "Toucannon",
+    "pt": "Toucannon",
+    "es": "Toucannon"
+  },
+  "number": "145",
+  "rarity": "r",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "VIV",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

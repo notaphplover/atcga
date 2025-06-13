@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Entei is your Active Pokémon, Entei and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Entei. (This power works even if Entei is Asleep, Confused, or Paralyzed.)",
+  "abilityName": "Legendary Body",
+  "attacks": [
+    {
+      "cost": "rrr",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip 2 coins. For each tails, discard 1 [R] Energy card from Entei, if it has any."
+      },
+      "name": {
+        "en": "Mega Flame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Entei"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

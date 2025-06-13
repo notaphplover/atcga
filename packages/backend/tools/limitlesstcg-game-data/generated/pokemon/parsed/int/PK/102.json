@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Vaporeon Star from your hand onto your Bench, you may remove all Special Conditions and 3 damage counters from each Active Pokémon (both yours and your opponent's).",
+  "abilityName": "Blue Ray",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Whirlpool"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/102_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/102.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/102.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon Star"
+  },
+  "number": "102",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

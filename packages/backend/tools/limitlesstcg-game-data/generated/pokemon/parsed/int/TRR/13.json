@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Sheer Cold"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "You may do 60 damage plus 40 more damage. If you do, Piloswine does 30 damage to itself."
+      },
+      "name": {
+        "en": "Tonnage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piloswine"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

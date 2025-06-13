@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Peck"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Water Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP03_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP03.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP03.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piplup"
+  },
+  "number": "3",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

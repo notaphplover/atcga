@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose a card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Shakedown"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard a [R] Energy or [D] Energy attached to Dark Houndoom. If you do, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Dark Fire"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Houndoom"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "fire",
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

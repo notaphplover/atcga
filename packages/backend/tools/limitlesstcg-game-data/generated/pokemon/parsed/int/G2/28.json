@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't play Trainer cards during his or her next turn."
+      },
+      "name": {
+        "en": "High Voltage"
+      }
+    },
+    {
+      "cost": "lll",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 damage times the number of damage counters on Lt. Surge's Jolteon, then flip a coin. If tails, Lt. Surge's Jolteon does 30 damage to itself."
+      },
+      "name": {
+        "en": "Thunder Flare"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lt. Surge's Jolteon"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

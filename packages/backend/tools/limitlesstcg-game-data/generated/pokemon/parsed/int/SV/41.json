@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking. Look at that card you chose, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Astonish"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sableye G"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

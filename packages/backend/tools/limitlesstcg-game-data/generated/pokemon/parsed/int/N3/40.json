@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a [P] Energy card and attach it to 1 of your Pokémon with Unown in its name. Shuffle your deck afterward. This power can be used even if Unown [Y] is Asleep, Confused, or Paralyzed.",
+  "abilityName": "[Yield]",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [Y]"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

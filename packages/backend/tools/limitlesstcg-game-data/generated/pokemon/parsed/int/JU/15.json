@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Heal",
+  "attacks": [
+    {
+      "cost": "ggg",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage)."
+      },
+      "name": {
+        "en": "Petal Dance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume"
+  },
+  "number": "15",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "JU",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

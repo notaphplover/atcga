@@ -1,0 +1,74 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may attach 1 [W] Energy card to 1 of your [W] Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Rain Dance",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each [W] Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra [W] Energy after the 2nd doesn't count.",
+        "fr": "Inflige 40 dégâts plus 10 dégâts supplémentaires pour chaque Énergie [W] attachée à Tortank en plus du coût en Énergie de cette attaque. Les Énergies [W] supplémentaires après la seconde ne comptent pas.",
+        "de": "Fügt 40 Schadenspunkte plus 10 weitere Schadenspunkte für jede auf Turtok abgelegte [W] Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde. Du kannst nicht mehr als 20 Schadenspunkte auf diese Weise hinzufügen.",
+        "it": "Infligge 40 danni più altri 10 danni per ciascuna carta Energia [W] assegnata a Blastoise che non viene usata per pagare il costo di Energia di questo attacco. Altre carte Energia [W] dopo la 2ª non contano.",
+        "pt": "Causa 40 pts. de dano + 10 pts. de dano adicionais para cada Energia [W] ligada ao Blastoise que não foi usada para pagar pelo custo de Energia deste ataque. Energia [W] extra (acima da 2ª) não conta.",
+        "es": "Hace 40 puntos de daño más otros 10 puntos por cada Energía [W] unida a Blastoise pero no puede usarse para pagar el coste Adicional de Energía de este ataque. Energía [W] adicional después de la segunda no cuenta."
+      },
+      "name": {
+        "en": "Hydro Pump",
+        "fr": "Hydrocanon",
+        "de": "Hydropumpe",
+        "it": "Idropompa",
+        "pt": "Jato d'Água",
+        "es": "Hidro Bomba"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC1_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise",
+    "fr": "Tortank",
+    "de": "Turtok",
+    "it": "Blastoise",
+    "pt": "Blastoise",
+    "es": "Blastoise"
+  },
+  "number": "CC1",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CEL",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

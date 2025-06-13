@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "jp": "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。"
+      },
+      "name": {
+        "jp": "すいつく"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、60ダメージを追加。"
+      },
+      "name": {
+        "jp": "シザークロス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_34_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_34_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_34_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カブトプス"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY10",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

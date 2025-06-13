@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Charmander in order to use this attack."
+      },
+      "name": {
+        "en": "Ember"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/69_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/69.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/69.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmander"
+  },
+  "number": "69",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

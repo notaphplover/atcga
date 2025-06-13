@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you put Absol ex from your hand onto your Bench, you may move 3 damage counters from 1 of your opponent's Pokémon to another of his or her Pokémon.",
+  "abilityName": "Cursed Eyes",
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Psychic Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Absol ex"
+  },
+  "number": "92",
+  "rarity": "ur",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

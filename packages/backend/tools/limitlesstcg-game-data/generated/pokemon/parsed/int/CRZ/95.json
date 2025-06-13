@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout effet en action sur le Pokémon Actif de votre adversaire.",
+        "de": "Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza, o da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+        "pt": "O dano deste ataque não é afetado por Fraqueza ou Resistência, ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
+        "es": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Piercing Strike",
+        "fr": "Coup Transperçant",
+        "de": "Durchbohrender Schlag",
+        "it": "Perforacolpo",
+        "pt": "Golpe Perfurante",
+        "es": "Impacto Penetrante"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "100+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 160 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon VMAX, cette attaque inflige 160 dégâts supplémentaires.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon VMAX ist, fügt diese Attacke 160 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon VMAX, questo attacco infligge 160 danni in più.",
+        "pt": "Se o Pokémon Ativo do seu oponente for um Pokémon VMAX, este ataque causará 160 pontos de dano a mais.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon VMAX, este ataque hace 160 puntos de daño más."
+      },
+      "name": {
+        "en": "Behemoth Blade",
+        "fr": "Gladius Maximus",
+        "de": "Gigantenhieb",
+        "it": "Taglio Maestoso",
+        "pt": "Espada Colossal",
+        "es": "Tajo Supremo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_095_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zacian V",
+    "fr": "Zacian V",
+    "de": "Zacian V",
+    "it": "Zacian V",
+    "pt": "Zacian V",
+    "es": "Zacian V"
+  },
+  "number": "95",
+  "rarity": "rr",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "CRZ",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

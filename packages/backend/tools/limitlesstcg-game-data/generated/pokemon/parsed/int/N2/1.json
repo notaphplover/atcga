@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Espeon"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "N2",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

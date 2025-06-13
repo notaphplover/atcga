@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If you have any [M] Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.",
+  "abilityName": "Magnetize",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Does 50 damage plus 10 more damage for each [M] Energy attached to Magnezone."
+      },
+      "name": {
+        "en": "Metal Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnezone"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

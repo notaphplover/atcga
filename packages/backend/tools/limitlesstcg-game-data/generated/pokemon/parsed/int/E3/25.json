@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Frog Hop"
+      }
+    },
+    {
+      "cost": "wwccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Move 2 [W] Energy cards attached to Politoed to 1 or 2 of your Benched Pokémon. (You may put both on the same Pokémon or 1 each on 2 different Pokémon.) If you have no Benched Pokémon, ignore this effect."
+      },
+      "name": {
+        "en": "Energy Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Politoed"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

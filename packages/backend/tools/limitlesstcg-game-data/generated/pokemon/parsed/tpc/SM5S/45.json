@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ひきさく"
+      }
+    },
+    {
+      "cost": "mmmcc",
+      "dmg": "150",
+      "effect": {
+        "jp": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "タイムレスGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5S/SM5S_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5S/SM5S_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5S/SM5S_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ディアルガGX"
+  },
+  "number": "45",
+  "rarity": "rr",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM5S",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

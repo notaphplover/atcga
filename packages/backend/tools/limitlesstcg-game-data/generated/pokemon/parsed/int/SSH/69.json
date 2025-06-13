@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Ram",
+        "fr": "Collision",
+        "de": "Ramme",
+        "it": "Carica",
+        "pt": "Aríete",
+        "es": "Apisonar"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "90",
+      "effect": {
+        "en": "Your opponent reveals their hand. If you find any Energy cards there, your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Votre adversaire dévoile sa main. Si vous y trouvez au moins une carte Énergie, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Wenn du dort mindestens 1 Energiekarte findest, ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Se ci trovi delle carte Energia, il Pokémon attivo del tuo avversario viene paralizzato.",
+        "pt": "Seu oponente revela a própria mão. Se você encontrar alguma carta de Energia lá, o Pokémon Ativo do seu oponente ficará Paralisado.",
+        "es": "Tu rival enseña las cartas de su mano. Si encuentras alguna carta de Energía entre ellas, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Strobe Shock",
+        "fr": "Strobochoc",
+        "de": "Blitzschock",
+        "it": "Stroboshock",
+        "pt": "Choque Estroboscópico",
+        "es": "Sacudida Estroboscópica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_069_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lanturn",
+    "fr": "Lanturn",
+    "de": "Lanturn",
+    "it": "Lanturn",
+    "pt": "Lanturn",
+    "es": "Lanturn"
+  },
+  "number": "69",
+  "rarity": "r",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SSH",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

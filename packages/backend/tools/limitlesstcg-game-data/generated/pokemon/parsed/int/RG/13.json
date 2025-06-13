@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Rapidash is your Active Pokémon, put 4 damage counters instead of 2 on Burned Pokémon between turns.",
+  "abilityName": "Fiery Aura",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Searing Flame"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Rear Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rapidash"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

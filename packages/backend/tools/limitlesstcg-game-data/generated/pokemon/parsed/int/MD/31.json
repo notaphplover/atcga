@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+      },
+      "name": {
+        "en": "Paralyze Poison"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toxicroak"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

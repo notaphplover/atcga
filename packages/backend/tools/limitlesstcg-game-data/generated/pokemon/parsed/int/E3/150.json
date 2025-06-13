@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [W], [L], or [F] basic Energy card from your hand to Kabutops, Kabutops's type (color) becomes the same as that type of Energy until the end of the turn.",
+  "abilityName": "Crystal Type",
+  "attacks": [
+    {
+      "cost": "wfc",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove a damage counter from Kabutops."
+      },
+      "name": {
+        "en": "Draining Cut"
+      }
+    },
+    {
+      "cost": "llfc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Triple Cutter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/150_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/150.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/150.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kabutops"
+  },
+  "number": "150",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

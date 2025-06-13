@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンが持っているワザを1つ選ぶ。次の相手の番、このワザを受けた相手のバトルポケモンは、選ばれたワザを使えない。"
+      },
+      "name": {
+        "jp": "いちゃもん"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このポケモンについているエネルギーをすべてトラッシュする。"
+      },
+      "name": {
+        "jp": "ヘルファイヤー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_11_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_11_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_11_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴウカザル"
+  },
+  "number": "11",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "BW7",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

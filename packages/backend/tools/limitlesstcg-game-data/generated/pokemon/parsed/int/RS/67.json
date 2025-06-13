@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnoblast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/67_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/67.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/67.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ralts"
+  },
+  "number": "67",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

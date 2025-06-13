@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard all Energy cards attached to Pikachu."
+      },
+      "name": {
+        "en": "Thunderbolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "26",
+  "resistance": [],
+  "retreat": 1,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

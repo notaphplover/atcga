@@ -1,0 +1,75 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10×",
+      "effect": {
+        "en": "This attack does 10 damage for each [P] Pokémon in your discard pile.",
+        "fr": "Cette attaque inflige 10 dégâts pour chaque Pokémon [P] dans votre pile de défausse.",
+        "de": "Diese Attacke fügt für jedes [P]-Pokémon in deinem Ablagestapel 10 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 10 danni per ogni Pokémon [P] nella tua pila degli scarti.",
+        "pt": "Este ataque causa 10 pontos de dano para cada Pokémon [P] na sua pilha de descarte.",
+        "es": "Este ataque hace 10 puntos de daño por cada Pokémon [P] en tu pila de descartes."
+      },
+      "name": {
+        "en": "Graveyard Gamboling",
+        "fr": "Cabriole Funèbre",
+        "de": "Grufttollerei",
+        "it": "Saltellacimitero",
+        "pt": "Cambalhotas no Cemitério",
+        "es": "Jugueteo en el Cementerio"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_070_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Greavard",
+    "fr": "Toutombe",
+    "de": "Gruff",
+    "it": "Greavard",
+    "pt": "Greavard",
+    "es": "Greavard"
+  },
+  "number": "70",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

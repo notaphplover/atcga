@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as you have Solrock in play, each player's [R] Pokémon (excluding Pokémon-ex) can't use any Poké-Powers.",
+  "abilityName": "Sol Shade",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lunatone"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

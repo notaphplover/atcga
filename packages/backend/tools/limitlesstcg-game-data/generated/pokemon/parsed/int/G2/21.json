@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever you attach a [R] Energy card from your hand to Blaine's Ninetales, remove 1 damage counter from it, if it has any. This power stops working when Blaine's Ninetales is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Healing Fire",
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, discard all [R] Energy cards attached to Blaine's Ninetales."
+      },
+      "name": {
+        "en": "Burn Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaine's Ninetales"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

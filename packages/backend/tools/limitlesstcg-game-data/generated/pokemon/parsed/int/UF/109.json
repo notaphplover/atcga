@@ -1,0 +1,49 @@
+{
+  "abilityEffect": "Steelix ex can't be Poisoned.",
+  "abilityName": "Poison Resistance",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Put 1 damage counter on Steelix ex."
+      },
+      "name": {
+        "en": "Metal Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Steelix ex"
+  },
+  "number": "109",
+  "rarity": "ur",
+  "resistance": [
+    "grass",
+    "lightning"
+  ],
+  "retreat": 5,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire",
+    "fighting"
+  ]
+}

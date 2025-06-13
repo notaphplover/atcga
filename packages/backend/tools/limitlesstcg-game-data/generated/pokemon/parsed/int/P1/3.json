@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Rayquaza during your opponent's next turn."
+      },
+      "name": {
+        "en": "Fly"
+      }
+    },
+    {
+      "cost": "rl",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop1/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop1/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop1/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza"
+  },
+  "number": "3",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P1",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

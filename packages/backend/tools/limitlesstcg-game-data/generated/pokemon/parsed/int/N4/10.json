@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Claw Swipe"
+      }
+    },
+    {
+      "cost": "r",
+      "dmg": "40×",
+      "effect": {
+        "en": "You may discard any number of [R] Energy cards attached to your Pokémon. Flip a coin for each [R] Energy card discarded in this way. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Rushing Flames"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Typhlosion"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N4",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

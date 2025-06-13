@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の場のポケモンについている[草]エネルギーを1個、このポケモンにつけ替える。",
+  "abilityName": "エナジーリロード",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "このポケモンについている[草]エネルギーの数x20ダメージ追加。"
+      },
+      "name": {
+        "jp": "ガイブラスター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3p/SM3p_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3p/SM3p_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3p/SM3p_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ひかるゲノセクト"
+  },
+  "number": "10",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM3p",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

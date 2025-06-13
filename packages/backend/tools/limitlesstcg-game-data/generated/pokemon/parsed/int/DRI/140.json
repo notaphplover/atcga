@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "You may move any amount of [M] Energy from your Pokémon to your other Pokémon in any way you like.",
+        "fr": "Vous pouvez déplacer autant d'Énergies [M] que vous le voulez de vos Pokémon vers vos autres Pokémon, comme il vous plaît.",
+        "de": "Du kannst beliebig viele [M]-Energien von deinen Pokémon beliebig auf deine anderen Pokémon verschieben.",
+        "it": "Puoi spostare un numero qualsiasi di Energie [M] dall'uno all'altro dei tuoi Pokémon nel modo che preferisci.",
+        "pt": "Você pode mover qualquer quantidade de Energia [M] dos seus Pokémon para outros Pokémon seus como desejar.",
+        "es": "Puedes mover cualquier cantidad de Energías [M] de tus Pokémon a tus otros Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Iron Shake-Up",
+        "fr": "Mélange de Fer",
+        "de": "Eisernes Schütteln",
+        "it": "Rimpasto Metallico",
+        "pt": "Sacudida de Ferro",
+        "es": "Sacudida Férrea"
+      }
+    },
+    {
+      "cost": "mccc",
+      "dmg": "80×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 80 damage for each heads.",
+        "fr": "Lancez 4 pièces. Cette attaque inflige 80 dégâts pour chaque côté face.",
+        "de": "Wirf 4 Münzen. Diese Attacke fügt 80 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia quattro volte una moneta. Questo attacco infligge 80 danni ogni volta che esce testa.",
+        "pt": "Jogue 4 moedas. Este ataque causa 80 pontos de dano para cada cara.",
+        "es": "Lanza 4 monedas. Este ataque hace 80 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Hurricane of Needles",
+        "fr": "Ouragan d'Aiguilles",
+        "de": "Nadelorkan",
+        "it": "Tifone di Aghi",
+        "pt": "Furacão de Agulhas",
+        "es": "Huracán de Púas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_140_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Forretress",
+    "fr": "Foretress",
+    "de": "Forstellka",
+    "it": "Forretress",
+    "pt": "Forretress",
+    "es": "Forretress"
+  },
+  "number": "140",
+  "rarity": "u",
+  "regulation": "i",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "DRI",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Your opponent plays with his or her hand face up. This power stops working while Omanyte is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Clairvoyance",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each [W] Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Omanyte"
+  },
+  "number": "57",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

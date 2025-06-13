@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have basic Energy cards in your discard pile, you may discard any 1 card from your hand. Then search for up to 2 basic Energy cards from your discard pile, show them to your opponent, and put them into your hand. You can't return the card you first discarded to your hand in this way. This power can't be used if Magneton is affected by a Special Condition.",
+  "abilityName": "Magnetic Field",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the amount of Energy attached to all of your Pokémon (including Magneton)."
+      },
+      "name": {
+        "en": "Magnetic Force"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

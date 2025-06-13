@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札からエネルギーをポケモンにつけるたび、そのポケモンにダメカンを2個のせる。",
+  "abilityName": "でんじウォール",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "90",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを、すべてトラッシュする。"
+      },
+      "name": {
+        "jp": "10まんボルト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_299_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_299_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_299_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サンダース"
+  },
+  "number": "299",
+  "regulation": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "SMP",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

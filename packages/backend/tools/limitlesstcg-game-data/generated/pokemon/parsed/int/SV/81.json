@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Cut"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Seed"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/81_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/81.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/81.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roserade"
+  },
+  "number": "81",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

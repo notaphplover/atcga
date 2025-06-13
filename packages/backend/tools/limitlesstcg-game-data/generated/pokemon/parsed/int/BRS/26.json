@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "80×",
+      "effect": {
+        "en": "Reveal the top 5 cards of your deck. This attack does 80 damage for each Energy card you find there. Then, discard those Energy cards and shuffle the other cards back into your deck.",
+        "fr": "Montrez les 5 cartes du dessus de votre deck. Cette attaque inflige 80 dégâts pour chaque carte Énergie que vous y trouvez. Défaussez ensuite ces cartes Énergie et mélangez les autres cartes avec votre deck.",
+        "de": "Zeige deinem Gegner die obersten 5 Karten deines Decks. Diese Attacke fügt für jede Energiekarte, die du dort findest, 80 Schadenspunkte zu. Lege anschließend jene Energiekarten auf deinen Ablagestapel und mische die anderen Karten zurück in dein Deck.",
+        "it": "Mostra le prime cinque carte del tuo mazzo. Questo attacco infligge 80 danni per ogni carta Energia presente tra quelle carte. Poi scarta quelle carte Energia e rimischia le altre carte nel tuo mazzo.",
+        "pt": "Revele as 5 cartas de cima do seu baralho. Este ataque causa 80 pontos de dano para cada carta de Energia que encontrar lá. Em seguida, descarte aquelas cartas de Energia e embaralhe as demais cartas de volta no seu baralho.",
+        "es": "Enseña las 5 primeras cartas de tu baraja. Este ataque hace 80 puntos de daño por cada carta de Energía que encuentres entre ellas. Después, descarta esas cartas de Energía, pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Infernal Vortex",
+        "fr": "Vortex Infernal",
+        "de": "Infernalischer Wirbel",
+        "it": "Vortice Infernale",
+        "pt": "Vórtice Infernal",
+        "es": "Vórtice Infernal"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "160",
+      "effect": {
+        "en": "Discard all Energy from this Pokémon.",
+        "fr": "Défaussez toute l'Énergie de ce Pokémon.",
+        "de": "Lege alle Energien von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta tutte le Energie da questo Pokémon.",
+        "pt": "Descarte todas as Energias deste Pokémon.",
+        "es": "Descarta todas las Energías de este Pokémon."
+      },
+      "name": {
+        "en": "Burning Kick",
+        "fr": "Coup de Pied Brûlant",
+        "de": "Brennender Schuss",
+        "it": "Calcio Fiammeggiante",
+        "pt": "Petardo",
+        "es": "Patada Ardiente"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_026_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Infernape",
+    "fr": "Simiabraz",
+    "de": "Panferno",
+    "it": "Infernape",
+    "pt": "Infernape",
+    "es": "Infernape"
+  },
+  "number": "26",
+  "rarity": "hr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BRS",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}
