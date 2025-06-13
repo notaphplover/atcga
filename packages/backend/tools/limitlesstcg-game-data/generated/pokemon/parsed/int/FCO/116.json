@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur le Pokémon Actif de votre adversaire.",
+        "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners zu.",
+        "it": "Durante il prossimo turno del tuo avversario, previeni tutti i danni da attacchi inflitti a questo Pokémon dai Pokémon Evoluzione.",
+        "es": "Este ataque hace 10 puntos de daño más por cada contador de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Second Bite",
+        "fr": "Double Morsure",
+        "de": "Wunde Stelle",
+        "it": "Cristalraggio",
+        "es": "Segundo Mordisco"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon.",
+        "fr": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon Évolutifs.",
+        "de": "Verhindere allen Schaden, der diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe von Entwicklungs-Pokémon zugefügt wird.",
+        "es": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Evolución."
+      },
+      "name": {
+        "en": "Crystal Ray",
+        "fr": "Rayon de Cristal",
+        "de": "Kristallstrahl",
+        "es": "Rayo de Cristal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_116_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glaceon-EX",
+    "fr": "Givrali-EX",
+    "de": "Glaziola-EX",
+    "it": "Glaceon-EX",
+    "pt": "Glaceon-EX",
+    "es": "Glaceon-EX"
+  },
+  "number": "116",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "FCO",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-10」される。"
+      },
+      "name": {
+        "jp": "ガードプレス"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "ずつき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_7_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_7_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_7_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "モノズ"
+  },
+  "number": "7",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SZD",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

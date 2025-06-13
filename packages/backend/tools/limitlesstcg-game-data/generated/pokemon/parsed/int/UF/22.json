@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Electabuzz is an Evolved Pokémon, any damage done to Electabuzz by attacks from your opponent's Pokémon that has any Special Energy cards attached to it is reduced by 40 (after applying Weakness and Resistance).",
+  "abilityName": "Stages of Evolution",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage times the number of heads. If either of the coins is heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Double Shock"
+      }
+    },
+    {
+      "cost": "lccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard 3 Energy attached to Electabuzz."
+      },
+      "name": {
+        "en": "Luster Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electabuzz"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

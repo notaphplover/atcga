@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+        "fr": "Choisissez 1 des attaques du Pokémon Défenseur. Le Pokémon Défenseur ne pourra pas l'utiliser lors du prochain tour de votre adversaire.",
+        "de": "Wähle 1 Angriff des Verteidigenden Pokémon. Das Pokémon kann den gewählten Angriff während des nächsten Zuges deines Gegners nicht einsetzen.",
+        "it": "Scegli un attacco del Pokémon difensore. Durante il prossimo turno del tuo avversario, quel Pokémon non potrà utilizzarlo.",
+        "es": "Elige 1 de los ataques del Pokémon Defensor. Dicho Pokémon no puede usar ese ataque durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Torment",
+        "fr": "Tourmente",
+        "de": "Folterknecht",
+        "it": "Attaccalite",
+        "es": "Tormento"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 40 more damage.",
+        "fr": "Si le Pokémon Défenseur a déjà des marqueurs de dégâts, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wenn auf dem Verteidigenden Pokémon bereits mindestens 1 Schadensmarke liegt, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon difensore ha dei segnalini danno, questo attacco infligge 40 danni in più.",
+        "es": "Si el Pokémon Defensor ya tiene algún contador de daño sobre él, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Krookoroll",
+        "fr": "Crocoroulade",
+        "de": "Gator-Rolle",
+        "it": "Rotoladrillo",
+        "es": "Cocodrodillo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLW/BLW_065_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Krookodile",
+    "fr": "Crocorible",
+    "de": "Rabigator",
+    "it": "Krookodile",
+    "pt": "Krookodile",
+    "es": "Krookodile"
+  },
+  "number": "65",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "BLW",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

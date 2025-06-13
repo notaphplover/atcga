@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your discard pile for a [L] Energy card and attach it to Raichu."
+      },
+      "name": {
+        "en": "Plasma"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard all Energy cards attached to Raichu."
+      },
+      "name": {
+        "en": "Thunderbolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

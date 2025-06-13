@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Clamp"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Sparkling Pearl"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/64_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/64.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/64.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Clamperl"
+  },
+  "number": "64",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

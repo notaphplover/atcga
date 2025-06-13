@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may remove 1 damage counter from each of your [G] Pokémon. You can't use more than 1 [G] Whistle Poké-Power each turn. This power can't be used if Sunflora is affected by a Special Condition.",
+  "abilityName": "Grass Whistle",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads. If you get 2 or more heads, Sunflora is now Confused."
+      },
+      "name": {
+        "en": "Petal Dance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sunflora"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

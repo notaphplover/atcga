@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
+  "abilityName": "Royal Flash",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your next turn, this Pokémon's Psych Up attack does 40 more damage (before applying Weakness and Resistance).",
+        "fr": "Pendant votre prochain tour, l'attaque Boost de ce Pokémon inflige 40 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während deines nächsten Zuges fügt die Attacke Psycho-Plus dieses Pokémon 40 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il tuo prossimo turno, l'attacco Psicamisù di questo Pokémon infligge 40 danni in più, prima di aver applicato debolezza e resistenza.",
+        "es": "Durante tu próximo turno, el ataque Más Psique de este Pokémon hace 40 puntos de daño más (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Psych Up",
+        "fr": "Boost",
+        "de": "Psycho-Plus",
+        "it": "Psicamisù",
+        "es": "Más Psique"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_021_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowking",
+    "fr": "Roigada",
+    "de": "Laschoking",
+    "it": "Slowking",
+    "pt": "Slowking",
+    "es": "Slowking"
+  },
+  "number": "21",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BKP",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

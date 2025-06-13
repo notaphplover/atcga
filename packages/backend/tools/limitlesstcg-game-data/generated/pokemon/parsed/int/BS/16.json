@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lllc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, Zapdos does 30 damage to itself."
+      },
+      "name": {
+        "en": "Thunder"
+      }
+    },
+    {
+      "cost": "llll",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard all Energy cards attached to Zapdos in order to use this attack."
+      },
+      "name": {
+        "en": "Thunderbolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base1/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base1/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base1/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zapdos"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "BS",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": []
+}

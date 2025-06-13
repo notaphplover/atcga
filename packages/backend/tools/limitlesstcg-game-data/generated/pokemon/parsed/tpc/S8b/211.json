@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分のトラッシュに「スタジアム」が8枚以上あるなら、このポケモンがワザを使うためのエネルギーは、すべてなくなる。",
+  "abilityName": "てんきよみ",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "80",
+      "effect": {
+        "jp": "自分の手札が6枚になるように、山札を引く。"
+      },
+      "name": {
+        "jp": "ウェザーフォース"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_211_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_211_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_211_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ポワルン"
+  },
+  "number": "211",
+  "rarity": "chr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 0,
+  "set": "S8b",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

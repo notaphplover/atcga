@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "If this Pokémon has full HP and would be Knocked Out by damage from an attack, it is not Knocked Out, and its remaining HP becomes 10.",
+  "abilityName": "Resolute Heart",
+  "attacks": [
+    {
+      "cost": "glm",
+      "dmg": "300",
+      "effect": {
+        "en": "Discard 3 Energy from this Pokémon.",
+        "fr": "Défaussez 3 Énergies de ce Pokémon.",
+        "de": "Lege 3 Energien von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta tre Energie da questo Pokémon.",
+        "pt": "Descarte 3 Energias deste Pokémon.",
+        "es": "Descarta 3 Energías de este Pokémon."
+      },
+      "name": {
+        "en": "Topaz Bolt",
+        "fr": "Éclair Topaze",
+        "de": "Topas-Blitz",
+        "it": "Fulmine di Topazio",
+        "pt": "Raio Topázio",
+        "es": "Rayo Topacio"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_219_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu ex",
+    "fr": "Pikachu-ex",
+    "de": "Pikachu-ex",
+    "it": "Pikachu-ex",
+    "pt": "Pikachu ex",
+    "es": "Pikachu ex"
+  },
+  "number": "219",
+  "rarity": "ur",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SSP",
+  "stage": "basic",
+  "traitEffect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+  "traitName": "Tera",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

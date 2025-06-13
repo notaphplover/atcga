@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手の手札を見て、その中からトレーナーズを1枚選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "スナイプファング"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを2個トラッシュし、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "ラジエートパルス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10D/S10D_70_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10D/S10D_70_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10D/S10D_70_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "レントラーV"
+  },
+  "number": "70",
+  "rarity": "sr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S10D",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

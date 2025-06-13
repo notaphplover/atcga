@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, Electabuzz does 30 damage to itself."
+      },
+      "name": {
+        "en": "Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/87_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/87.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/87.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electabuzz"
+  },
+  "number": "87",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

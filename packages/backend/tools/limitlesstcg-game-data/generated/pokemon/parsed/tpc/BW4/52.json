@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30",
+      "effect": {
+        "jp": "ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。"
+      },
+      "name": {
+        "jp": "ねらいおとす"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "70",
+      "effect": {
+        "jp": "次の相手の番、このポケモンの弱点はなくなる。"
+      },
+      "name": {
+        "jp": "きへいのやり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シュバルゴ"
+  },
+  "number": "52",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "BW4",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

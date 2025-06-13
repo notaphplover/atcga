@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Fire Fang"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Discard the top 3 cards of your deck. This attack does 60 damage plus 20 more damage for each [R] or [M] Energy card you discarded."
+      },
+      "name": {
+        "en": "Magma Mantle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heatran"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

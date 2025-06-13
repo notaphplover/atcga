@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Glaceon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Snow Cloak"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Speed Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glaceon"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

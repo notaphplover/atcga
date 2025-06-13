@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Steelix can't attack during your next turn."
+      },
+      "name": {
+        "en": "Metal Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Steelix"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

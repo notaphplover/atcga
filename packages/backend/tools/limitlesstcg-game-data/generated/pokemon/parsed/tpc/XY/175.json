@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の[闘]ポケモン（「レジロックEX」をのぞく）が使うワザの、相手のバトルポケモンへのダメージは「+10」される。",
+  "abilityName": "レジパワー",
+  "attacks": [
+    {
+      "cost": "fff",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "がんばんプレス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_175_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_175_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_175_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "レジロックEX"
+  },
+  "number": "175",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

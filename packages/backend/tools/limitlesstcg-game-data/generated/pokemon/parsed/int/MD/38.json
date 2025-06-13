@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Comet Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kangaskhan"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

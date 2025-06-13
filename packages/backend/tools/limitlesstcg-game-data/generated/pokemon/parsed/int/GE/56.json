@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Unown F is on your Bench, you may use this power. Put a coin next to your Active Pokémon without showing your opponent and cover it with your hand. Your opponent guesses if the coin is heads or tails. If he or she is wrong, draw a card.",
+  "abilityName": "FAKE",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "You may flip a coin. If tails, this attack does nothing. If heads, this attack's base damage is 30."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [F]"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

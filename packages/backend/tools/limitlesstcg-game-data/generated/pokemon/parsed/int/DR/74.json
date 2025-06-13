@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Hop"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Psybeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Spoink"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

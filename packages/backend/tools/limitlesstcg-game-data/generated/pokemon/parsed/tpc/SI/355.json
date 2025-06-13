@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "わしづかみ"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "このポケモンに[炎]エネルギーがついているなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "ニトロダイブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_355_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_355_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_355_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ファイアロー"
+  },
+  "number": "355",
+  "regulation": "e",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SI",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads. If either of them is heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face. Si vous obtenez au moins un côté face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 40 Schadenspunkte mal der Anzahl „Kopf“ zu. Wenn eine oder beide Münzen „Kopf\" zeigen, ist das Verteidigende Pokémon jetzt paralysiert.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa. Se esce almeno una volta testa, il Pokémon difensore viene paralizzato.",
+        "es": "Lanza 2 monedas. Este ataque hace 40 puntos de daño por cada cara. Si sale cara en alguna de ellas, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Double Freeze",
+        "fr": "Double Gelure",
+        "de": "Doppelfroster",
+        "it": "Doppiogelo",
+        "es": "Doble Congelación"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Frost Breath",
+        "fr": "Souffle Glacé",
+        "de": "Eisesodem",
+        "it": "Alitogelido",
+        "es": "Vaho Gélido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_029_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vanilluxe",
+    "fr": "Sorbouboul",
+    "de": "Gelatwino",
+    "it": "Vanilluxe",
+    "pt": "Vanilluxe",
+    "es": "Vanilluxe"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NVI",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

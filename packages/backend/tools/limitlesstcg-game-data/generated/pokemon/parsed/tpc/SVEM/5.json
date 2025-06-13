@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の手札から「基本[P]エネルギー」を1枚選び、ベンチポケモンにつける。その後、自分の山札を2枚引く。",
+  "abilityName": "アカシックセンス",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "jp": "ちょうねんりき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVEM/SVEM_5_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVEM/SVEM_5_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVEM/SVEM_5_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ネイティオ"
+  },
+  "number": "5",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SVEM",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

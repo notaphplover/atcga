@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon is a Basic Pokémon, the Defending Pokémon is now Paralyzed. Dark Flaaffy can't use Thunder Slash during your next turn."
+      },
+      "name": {
+        "en": "Thunder Slash"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Flaaffy"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "lightning",
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

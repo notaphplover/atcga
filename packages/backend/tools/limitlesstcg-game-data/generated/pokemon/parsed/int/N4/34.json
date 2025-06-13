@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't play Trainer cards during his or her next turn."
+      },
+      "name": {
+        "en": "High Voltage"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon has a Pokémon Power, that power stops working until the end of your next turn."
+      },
+      "name": {
+        "en": "Stun Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Flaaffy"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N4",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

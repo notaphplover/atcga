@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "この特性は、このカードを手札からベンチに出したとき、1回使える。相手のポケモン1匹にのっているダメカンを3個選び、相手の別のポケモン1匹にのせ替える。",
+  "abilityName": "カースドアイズ",
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {
+        "jp": "このワザのダメージは抵抗力の計算をしない。"
+      },
+      "name": {
+        "jp": "マッハクロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP4/CP4_77_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP4/CP4_77_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP4/CP4_77_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アブソル"
+  },
+  "number": "77",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "CP4",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

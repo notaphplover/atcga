@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Treecko but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Energy Ball"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove 1 damage counter from Treecko."
+      },
+      "name": {
+        "en": "Absorb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Treecko"
+  },
+  "number": "90",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

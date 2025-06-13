@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Steel Beak"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Air Cutter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skarmory"
+  },
+  "number": "27",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

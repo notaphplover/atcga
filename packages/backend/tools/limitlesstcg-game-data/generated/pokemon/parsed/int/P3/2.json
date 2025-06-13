@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard 2 basic Energy cards attached to Flareon or this attack does nothing."
+      },
+      "name": {
+        "en": "Fire Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop3/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop3/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop3/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon"
+  },
+  "number": "2",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P3",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

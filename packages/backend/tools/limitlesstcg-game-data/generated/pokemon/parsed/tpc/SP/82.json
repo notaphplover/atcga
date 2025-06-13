@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の番に1回使える。相手は相手自身の手札を、4枚になるようにトラッシュする。",
+  "abilityName": "バッドルーラー",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "180",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ナックルインパクト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_82_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_82_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_82_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラル タチフサグマ"
+  },
+  "number": "82",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragonair"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "BS2",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

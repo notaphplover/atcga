@@ -1,0 +1,85 @@
+{
+  "abilityEffect": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard an Energy attached to your opponent's Active Pokémon.",
+  "abilityName": "Twilight Eyes",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "en": "Accelerock",
+        "fr": "Vif Roc",
+        "de": "Turbofelsen",
+        "it": "Rocciarapida",
+        "es": "Roca Veloz"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "30×",
+      "effect": {
+        "en": "This attack does 30 damage for each Energy card in your opponent's discard pile. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 30 dégâts pour chaque carte Énergie dans la pile de défausse de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 30 Schadenspunkte mal der Anzahl der Energiekarten im Ablagestapel deines Gegners zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 30 danni per ogni carta Energia nella pila degli scarti dal tuo avversario. Non puoi usare più di un attacco GX a partita.",
+        "es": "Este ataque hace 30 puntos de daño por cada carta de Energía en la pila de descartes de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Splintered Shards-GX",
+        "fr": "Roches-Lames-GX",
+        "de": "Splitterregen-GX",
+        "it": "Schegge Radiali-GX",
+        "es": "Fragmentos Rocosos-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV67_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lycanroc-GX",
+    "fr": "Lougaroc-GX",
+    "de": "Wolwerock-GX",
+    "it": "Lycanroc-GX",
+    "pt": "Lycanroc-GX",
+    "es": "Lycanroc-GX"
+  },
+  "number": "SV67",
+  "rarity": "rrr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HIF",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

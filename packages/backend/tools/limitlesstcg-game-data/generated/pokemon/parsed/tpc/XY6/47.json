@@ -1,0 +1,63 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "60",
+      "effect": {
+        "jp": "場に出ているスタジアムをトラッシュする。"
+      },
+      "name": {
+        "jp": "たたきこわす"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "20×",
+      "effect": {
+        "jp": "相手の手札の枚数x20ダメージ。"
+      },
+      "name": {
+        "jp": "パワーハウル"
+      }
+    },
+    {
+      "cost": "rrwc",
+      "dmg": "170",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを3個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "スチームブラスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY6/XY6_47_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY6/XY6_47_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY6/XY6_47_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボーマンダ"
+  },
+  "number": "47",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "XY6",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

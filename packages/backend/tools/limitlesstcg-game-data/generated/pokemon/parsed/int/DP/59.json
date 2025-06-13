@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Overrun"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy attached to Rapidash and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Blaze Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/59_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/59.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/59.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rapidash"
+  },
+  "number": "59",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

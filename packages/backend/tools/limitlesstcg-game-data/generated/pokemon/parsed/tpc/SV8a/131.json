@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "最初の自分の番にだけ1回使える。自分の山札から、HPが「100」以下の[C]ポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。この番、すでに別の「ファンコール」を使っていたなら、この特性は使えない。",
+  "abilityName": "ファンコール",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "70",
+      "effect": {
+        "jp": "場にスタジアムが出ていないなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "とつげきランディング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_131_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_131_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_131_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "スピンロトム"
+  },
+  "number": "131",
+  "regulation": "h",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SV8a",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

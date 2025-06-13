@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Delcatty is your Active Pokémon and is damaged by an opponent's attack (even if Delcatty is Knocked Out), flip a coin. If heads, the Attacking Pokémon is now Confused.",
+  "abilityName": "Attracting Body",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Energy Assist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Delcatty"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

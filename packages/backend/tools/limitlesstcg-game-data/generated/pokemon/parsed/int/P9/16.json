@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "If Piplup has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus more 10 more damage."
+      },
+      "name": {
+        "en": "Water Sport"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "If you have Buizel in play, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Wavelet"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop9/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop9/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop9/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piplup"
+  },
+  "number": "16",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P9",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

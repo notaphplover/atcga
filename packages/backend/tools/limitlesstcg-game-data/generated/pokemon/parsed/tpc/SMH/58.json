@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "とびひざげり"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80-",
+      "effect": {
+        "jp": "相手のバトルポケモンのにげるためのエネルギーの数x20ダメージぶん、このワザのダメージは小さくなる。"
+      },
+      "name": {
+        "jp": "フリーフォール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMH/SMH_58_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMH/SMH_58_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMH/SMH_58_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ルチャブル"
+  },
+  "number": "58",
+  "regulation": "b",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SMH",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Any damage done to Dewgong by attacks from your opponent's Pokémon that has δ on its card is reduced by 40 (after applying Weakness and Resistance).",
+  "abilityName": "Delta Protection",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If Dewgong has at least 2 [W] Energy attached to it, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Surge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dewgong"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

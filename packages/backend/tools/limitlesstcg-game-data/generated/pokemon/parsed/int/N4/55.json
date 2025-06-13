@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Scyther."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "ggg",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Sharp Sickle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/55_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/55.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/55.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scyther"
+  },
+  "number": "55",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "N4",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

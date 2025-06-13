@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "If you have Darkrai in play, remove 1 damage counter from Cresselia between turns.",
+  "abilityName": "Lunar Aura",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "80-",
+      "effect": {
+        "en": "Does 80 damage minus 10 damage for each damage counter on Cresselia."
+      },
+      "name": {
+        "en": "Lunar Flight"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP51_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP51.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP51.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cresselia"
+  },
+  "number": "51",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

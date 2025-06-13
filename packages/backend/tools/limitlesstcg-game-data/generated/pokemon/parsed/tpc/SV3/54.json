@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "うしろげり"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "相手のサイドの残り枚数が4枚・2枚なら、120ダメージ追加。"
+      },
+      "name": {
+        "jp": "しにものぐるい"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハカドッグ"
+  },
+  "number": "54",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SV3",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

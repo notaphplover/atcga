@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Whenever your opponent attaches an Energy card from his or her hand to 1 of his or her Pokémon, put 1 damage counter on that Pokémon.",
+  "abilityName": "Conductivity",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 40 more damage. If tails, discard an Energy attached to the Defending Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts plus 40 dégâts supplémentaires. Si c'est pile, défaussez-vous d'une carte Énergie attachée au Pokémon Défenseur.",
+        "de": "Wirf eine Münze. Bei „Kopf\" fügt dieser Angriff 40 Schadenspunkte plus 40 weitere Schadenspunkte zu. Bei „Zahl“ lege eine Energiekarte, die am Verteidigenden Pokémon angelegt ist, auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni più altri 40 danni. Se esce croce, scarta una Energia assegnata al Pokémon Difensore.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 40 puntos de daño más otros 40 puntos de daño adicionales. Si sale cruz, descarta una carta de Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Lightning Crush",
+        "fr": "Écras'éclair",
+        "de": "Schmetterblitz",
+        "it": "Lamposchianto",
+        "es": "Aplaste luminoso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_105_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos",
+    "fr": "Pharamp",
+    "de": "Ampharos",
+    "it": "Ampharos",
+    "pt": "Ampharos",
+    "es": "Ampharos"
+  },
+  "number": "105",
+  "rarity": "rr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "HS",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

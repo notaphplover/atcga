@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "70",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-50」される。"
+      },
+      "name": {
+        "jp": "はがねのつばさ"
+      }
+    },
+    {
+      "cost": "mm",
+      "dmg": "120×",
+      "effect": {
+        "jp": "このポケモンについている[M]エネルギーを2枚までトラッシュし、その枚数×120ダメージ。"
+      },
+      "name": {
+        "jp": "クロスブレイカー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_210_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_210_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_210_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハッサムex"
+  },
+  "number": "210",
+  "regulation": "h",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Charmeleon."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Charmeleon."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmeleon"
+  },
+  "number": "29",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

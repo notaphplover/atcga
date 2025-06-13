@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Sunny Castform and switch it with Snow-cloud Castform. (Any cards attached to Snow-cloud Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Snow-cloud Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+  "abilityName": "Temperamental Weather",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If Magnetic Storm is in play, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "White Snow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Snow-cloud Castform"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

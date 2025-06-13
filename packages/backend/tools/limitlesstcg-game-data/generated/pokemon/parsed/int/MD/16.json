@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Bronzong is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon that has any Poké-Powers between turns.",
+  "abilityName": "Cursed Alloy",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Bronzong by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Coating"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bronzong"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [
+    "fire"
+  ],
+  "retreat": 3,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

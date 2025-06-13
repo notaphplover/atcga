@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Registeel can't be affected by any Special Conditions.",
+  "abilityName": "Clear Body",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Registeel"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

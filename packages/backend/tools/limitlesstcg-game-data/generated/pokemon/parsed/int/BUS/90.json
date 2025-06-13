@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Psybeam",
+        "fr": "Rafale Psy",
+        "de": "Psystrahl",
+        "it": "Psicoraggio",
+        "es": "Psicorrayo"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "70",
+      "effect": {
+        "en": "You may move all Energy from this Pokémon to 1 of your Benched Pokémon.",
+        "fr": "Vous pouvez déplacer toute l'Énergie de ce Pokémon vers l'un de vos Pokémon de Banc",
+        "de": "Du kannst alle Energien von diesem Pokémon auf 1 Pokémon auf deiner Bank verschieben.",
+        "it": "Puoi spostare tutta l'Energia da questo Pokémon a uno di quelli nella tua panchina.",
+        "es": "Puedes mover todas las Energías de este Pokémon a 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Energy Slosh",
+        "fr": "Renversement d'Énergie",
+        "de": "Energieflut",
+        "it": "Schizzo Energetico",
+        "es": "Chapoteo de Energía"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_090_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Malamar",
+    "fr": "Sepiatroce",
+    "de": "Calamanero",
+    "it": "Malamar",
+    "pt": "Malamar",
+    "es": "Malamar"
+  },
+  "number": "90",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "BUS",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

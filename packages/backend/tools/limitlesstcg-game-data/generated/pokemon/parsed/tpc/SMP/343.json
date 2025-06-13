@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンについている特殊エネルギーを、1個トラッシュする。"
+      },
+      "name": {
+        "jp": "くつがえす"
+      }
+    },
+    {
+      "cost": "dd",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "わしづかみ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_343_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_343_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_343_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イベルタル"
+  },
+  "number": "343",
+  "regulation": "b",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

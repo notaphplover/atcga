@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition.",
+  "abilityName": "Time Skip",
+  "attacks": [
+    {
+      "cost": "mmcc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your next turn, Dialga can't use [M] Flash."
+      },
+      "name": {
+        "en": "Metal Flash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga LV.X"
+  },
+  "number": "37",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

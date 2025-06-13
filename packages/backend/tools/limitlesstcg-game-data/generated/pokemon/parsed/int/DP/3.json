@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), if Elekid is anywhere under Electivire, you may move a [L] Energy attached to your Pokémon to Electivire. This power can't be used if Electivire is affected by a Special Condition.",
+  "abilityName": "Intense Voltage",
+  "attacks": [
+    {
+      "cost": "lllc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may discard all [L] Energy attached to Electivire. If you do, this attack's base damage is 120 instead of 60."
+      },
+      "name": {
+        "en": "Giga Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electivire"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 3,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

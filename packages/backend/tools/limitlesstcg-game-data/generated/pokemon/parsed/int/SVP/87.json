@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Heal 30 damage from this Pokémon."
+      },
+      "name": {
+        "en": "Magical Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_087_R_EN.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_087_R_EN_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_087_R_EN_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sprigatito ex"
+  },
+  "number": "87",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SVP",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

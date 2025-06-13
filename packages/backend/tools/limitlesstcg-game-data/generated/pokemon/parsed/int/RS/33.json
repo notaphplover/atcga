@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Shove"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage plus 10 more damage for each heads."
+      },
+      "name": {
+        "en": "Slap Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hariyama"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

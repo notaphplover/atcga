@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "If this Pokémon has 3 or more [W] Energy attached, it gets +150 HP.",
+  "abilityName": "Group Power",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 more damage for each basic Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie de base attachée à ce Pokémon.",
+        "de": "Diese Attacke fügt für jede an dieses Pokémon angelegte Basis-Energie 30 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Energia base assegnata a questo Pokémon.",
+        "pt": "Este ataque causa 30 pontos de dano a mais para cada Energia básica ligada a este Pokémon.",
+        "es": "Este ataque hace 30 puntos de daño más por cada Energía Básica unida a este Pokémon."
+      },
+      "name": {
+        "en": "Schooling Shot",
+        "fr": "Tir Groupé",
+        "de": "Fischschwarmschuss",
+        "it": "Colpobanco",
+        "pt": "Disparo de Cardume",
+        "es": "Disparo Banco"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVS/EVS_046_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wishiwashi",
+    "fr": "Froussardine",
+    "de": "Lusardin",
+    "it": "Wishiwashi",
+    "pt": "Wishiwashi",
+    "es": "Wishiwashi"
+  },
+  "number": "46",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EVS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "If this Pokémon has any [R] Energy attached to it, this attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Si de l'Énergie [R] est attachée à ce Pokémon, cette attaque inflige 20 dégâts à 2 des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wenn an dieses Pokémon bereits [R]-Energie angelegt ist, fügt dieser Angriff 2 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Se questo Pokémon ha delle Energie [R] assegnate, questo attacco infligge 20 danni a due dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Si este Pokémon tiene alguna Energía [R] unida a él, este ataque hace 20 puntos de daño a 2 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Burning Icicles",
+        "fr": "Stalactites Brûlantes",
+        "de": "Brennende Eiszapfen",
+        "it": "Ghiaccio Ardente",
+        "es": "Témpanos Ardientes"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "130",
+      "effect": {
+        "en": "This Pokémon can't attack during your next turn.",
+        "fr": "Ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.",
+        "it": "Questo Pokémon non può attaccare durante il tuo prossimo turno.",
+        "es": "Este Pokémon no puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Blizzard Burn",
+        "fr": "Blizzard Étourdissant",
+        "de": "Blizzardbrand",
+        "it": "Pirobora",
+        "es": "Quemadura de Hielo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_128_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "White Kyurem",
+    "fr": "Kyurem Blanc",
+    "de": "Weißes Kyurem",
+    "it": "Kyurem Bianco",
+    "pt": "Kyurem Branco",
+    "es": "Kyurem Blanco"
+  },
+  "number": "128",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

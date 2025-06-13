@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "20+",
+      "effect": {
+        "en": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Spring Back"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Treecko Star"
+  },
+  "number": "109",
+  "rarity": "ur",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can't be used if Charizard G is affected by a Special Condition.",
+  "abilityName": "Call for Power",
+  "attacks": [
+    {
+      "cost": "rrccc",
+      "dmg": "150",
+      "effect": {
+        "en": "Flip a coin. If tails, discard all Energy attached to Charizard G."
+      },
+      "name": {
+        "en": "Malevolent Fire"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard G LV.X"
+  },
+  "number": "45",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

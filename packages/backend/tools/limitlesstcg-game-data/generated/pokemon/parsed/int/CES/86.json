@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 10 damage for each heads.",
+        "fr": "Lancez 3 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 3 Münzen. Diese Attacke fügt 10 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia tre volte una moneta. Questo attacco infligge 10 danni ogni volta che esce testa.",
+        "es": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Fury Swipes",
+        "fr": "Combo-Griffe",
+        "de": "Kratzfurie",
+        "it": "Sfuriate",
+        "es": "Golpes Furia"
+      }
+    },
+    {
+      "cost": "dd",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads.",
+        "fr": "Lancez une pièce pour chacun de vos Pokémon en jeu. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 1 Münze für jedes Pokémon, das du im Spiel hast. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia una moneta per ogni Pokémon che hai in gioco. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 1 moneda por cada Pokémon que tengas en juego. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Beat Up",
+        "fr": "Baston",
+        "de": "Prügler",
+        "it": "Picchiaduro",
+        "es": "Paliza"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_086_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sneasel",
+    "fr": "Farfuret",
+    "de": "Sniebel",
+    "it": "Sneasel",
+    "pt": "Sneasel",
+    "es": "Sneasel"
+  },
+  "number": "86",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "CES",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

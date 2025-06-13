@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20+",
+      "effect": {
+        "jp": "おたがいのバトルポケモンについているエネルギーの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "イビルボール"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "90",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、ベンチポケモンにつけ替える。"
+      },
+      "name": {
+        "jp": "サイクロンY"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_79_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_79_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_79_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イベルタルEX"
+  },
+  "number": "79",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

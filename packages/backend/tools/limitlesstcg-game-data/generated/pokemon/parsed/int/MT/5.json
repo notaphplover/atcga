@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Happiny is anywhere under Blissey, you may choose a number of cards in your hand up to the amount of Energy attached to Blissey and put those cards on top of your deck. Shuffle your deck afterward. Then, draw that many cards. This power can't be used if Blissey is affected by a Special Condition.",
+  "abilityName": "Kind Egg",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 for each Energy attached to Blissey. Before doing damage, you may search your discard pile for a basic Energy card and attach it to Blissey."
+      },
+      "name": {
+        "en": "Happy Chance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blissey"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

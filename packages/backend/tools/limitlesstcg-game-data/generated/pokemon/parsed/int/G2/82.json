@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Sting"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Sharp Stinger"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/82_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/82.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/82.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Koga's Weedle"
+  },
+  "number": "82",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

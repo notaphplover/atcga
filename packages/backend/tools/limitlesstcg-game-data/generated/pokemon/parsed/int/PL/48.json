@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spark"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {
+        "en": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Tail Code"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flaaffy"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

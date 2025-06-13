@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If any of your [G] Pokémon or [R] Pokémon would be damaged by an attack, reduce that damage by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Cloudy Sky",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Worry Seed"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cherrim"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

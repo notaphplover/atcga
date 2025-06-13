@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Moltres ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Moltres ex. If you do, you may also move any number of basic [R] Energy cards attached to your Pokémon to Moltres ex.",
+  "abilityName": "Legendary Ascent",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may discard an Energy card attached to Moltres ex. If you do, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Crushing Flames"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/115_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/115.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/115.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Moltres ex"
+  },
+  "number": "115",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

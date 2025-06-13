@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "70",
+      "effect": {
+        "jp": "相手のバトルポケモンをやけどにする。"
+      },
+      "name": {
+        "jp": "あついマグマ"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "140+",
+      "effect": {
+        "jp": "おたがいの山札を上から1枚ずつトラッシュし、その中にあるエネルギーの枚数×140ダメージ追加。"
+      },
+      "name": {
+        "jp": "グラウンドバーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5a/SV5a_13_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5a/SV5a_13_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5a/SV5a_13_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マグカルゴex"
+  },
+  "number": "13",
+  "rarity": "rr",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV5a",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

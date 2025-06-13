@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, discard a [R] Energy attached to Flareon ."
+      },
+      "name": {
+        "en": "Fire Tail Slap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon E4"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

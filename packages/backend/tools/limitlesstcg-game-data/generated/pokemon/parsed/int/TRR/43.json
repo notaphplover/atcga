@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done to Heracross by attacks from your opponent's Basic Pokémon is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Crust",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 10 more damage for each Prize card more than your opponent."
+      },
+      "name": {
+        "en": "Get Even"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heracross"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it."
+      },
+      "name": {
+        "en": "Spacial Rend"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward."
+      },
+      "name": {
+        "en": "Transback"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Palkia"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

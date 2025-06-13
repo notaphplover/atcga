@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の場のたねポケモンの「ロケット団のポケモン」全員は、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果は、なくならない。）",
+  "abilityName": "レジストヴェール",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "このポケモンに「ロケット団エネルギー」がついているなら、60ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダークフロスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_22_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_22_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_22_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロケット団のフリーザー"
+  },
+  "number": "22",
+  "rarity": "r",
+  "regulation": "i",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SV10",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

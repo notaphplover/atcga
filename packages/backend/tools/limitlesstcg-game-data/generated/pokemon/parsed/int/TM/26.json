@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may do 40 damage plus 20 more damage. If you do, Machamp does 20 damage to itself.",
+        "fr": "Vous pouvez infliger 40 dégâts plus 20 dégâts supplémentaires. Dans ce cas, Mackogneur s'inflige 20 dégâts.",
+        "de": "Du kannst mit diesem Angriff kann 40 Schadenspunkte plus 20 weitere Schadenspunkte zufügen. Wenn du das machst, fügt Machomei sich selbst 20 Schadenspunkte zu.",
+        "it": "Puoi infliggere 40 danni più altri 20 danni. Se lo fai, Machamp si infligge 20 danni."
+      },
+      "name": {
+        "en": "Vital Throw",
+        "fr": "Corps perdu",
+        "de": "Überwurf",
+        "it": "Vitaltiro"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each [F] Energy attached to Machamp.",
+        "fr": "Inflige 60 dégâts plus 10 dégâts supplémentaires pour chaque carte Énergie [F] attachée à Mackogneur.",
+        "de": "Dieser Angriff fügt 60 Schadenspunkte plus 10 weitere Schadenspunkte für jede an Machomei angelegte [F]-Energie zu.",
+        "it": "Infligge 60 danni più altri 10 danni per ogni Energia [F] assegnata a Machamp."
+      },
+      "name": {
+        "en": "Hundred Furious Punches",
+        "fr": "Multipoings furieux",
+        "de": "Hundert wütende Hiebe",
+        "it": "Cento Pugni Distruttivi"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_026_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp",
+    "fr": "Mackogneur",
+    "de": "Machomei",
+    "it": "Machamp",
+    "pt": "Machamp",
+    "es": "Machamp"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TM",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

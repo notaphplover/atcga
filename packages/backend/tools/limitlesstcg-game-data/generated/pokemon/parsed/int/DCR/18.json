@@ -1,0 +1,79 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin for each Team Aqua Pokémon you have in play. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez une pièce pour chaque Pokémon de la Team Aqua que vous avez en jeu. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face."
+      },
+      "name": {
+        "en": "Teampact",
+        "fr": "Teampact"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Actif de votre adversaire."
+      },
+      "name": {
+        "en": "Crunch",
+        "fr": "Mâchouille"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DCR/DCR_018_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Mightyena",
+    "fr": "Grahyèna de la Team Aqua",
+    "de": "Team Aqua Magnayen",
+    "it": "Mightyena del Team Idro",
+    "pt": "Mightyena da Equipe Aqua",
+    "es": "Mightyena del Equipo Aqua"
+  },
+  "number": "18",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "DCR",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

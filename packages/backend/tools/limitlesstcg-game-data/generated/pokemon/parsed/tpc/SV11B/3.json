@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージは「+20」される。",
+  "abilityName": "ロイヤルエール",
+  "attacks": [
+    {
+      "cost": "gccc",
+      "dmg": "150",
+      "effect": {
+        "jp": "のぞむなら、自分の山札から好きなカードを3枚まで選び、手札に加える。そして山札を切る。"
+      },
+      "name": {
+        "jp": "グラスオーダー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11B/SV11B_3_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11B/SV11B_3_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV11B/SV11B_3_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジャローダex"
+  },
+  "number": "3",
+  "rarity": "rr",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV11B",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

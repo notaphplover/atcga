@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may reveal the top card of your deck. If that card is a basic Energy card, attach it to 1 of your Pokémon. If that card isn't a basic Energy card, discard it. This power can't be used if Salamence is affected by a Special Condition.",
+  "abilityName": "Top Accelerator",
+  "attacks": [
+    {
+      "cost": "rwc",
+      "dmg": "50",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Shoot Through"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "AR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

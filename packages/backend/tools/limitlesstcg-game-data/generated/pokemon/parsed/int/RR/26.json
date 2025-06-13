@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may devolve Jolteon and put Jolteon into your hand. This power can't be used if Jolteon is affected by a Special Condition.",
+  "abilityName": "Undevelop",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Jolteon evolved from Eevee during this turn, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon)."
+      },
+      "name": {
+        "en": "Evolving Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

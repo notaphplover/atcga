@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Arcanine G's Retreat Cost is [C] less for each [R] Energy attached to Arcanine G.",
+  "abilityName": "Extreme Speed",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Overrun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine G"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

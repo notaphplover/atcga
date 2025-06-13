@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Flame"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/73_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/73.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/73.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Vulpix"
+  },
+  "number": "73",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

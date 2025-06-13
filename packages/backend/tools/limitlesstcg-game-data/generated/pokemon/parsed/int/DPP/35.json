@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), move a Technical Machine card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Porygon-Z is affected by a Special Condition.",
+  "abilityName": "Install",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 20 more damage for each Technical Machine card attached to Porygon-Z."
+      },
+      "name": {
+        "en": "Overload"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Porygon-Z"
+  },
+  "number": "35",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Tropius during your opponent's next turn."
+      },
+      "name": {
+        "en": "Fly"
+      }
+    },
+    {
+      "cost": "gccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Solarbeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tropius"
+  },
+  "number": "52",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

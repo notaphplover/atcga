@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Lugia ex is your Active Pokémon and is damaged by an opponent's attack (even if Lugia ex is Knocked Out), flip a coin. If heads, choose an Energy card attached to the Attacking Pokémon and return it to your opponent's hand.",
+  "abilityName": "Silver Sparkle",
+  "attacks": [
+    {
+      "cost": "rwl",
+      "dmg": "200",
+      "effect": {
+        "en": "Discard a [R] Energy, [W] Energy, and [L] Energy attached to Lugia ex."
+      },
+      "name": {
+        "en": "Elemental Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lugia ex"
+  },
+  "number": "105",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

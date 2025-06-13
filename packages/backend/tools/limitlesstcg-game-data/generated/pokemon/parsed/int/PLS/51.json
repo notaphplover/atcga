@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30×",
+      "effect": {
+        "en": "Discard all [L] Energy attached to this Pokémon. This attack does 30 damage times the number of Energy cards you discarded.",
+        "fr": "Défaussez toutes les Énergies [L] attachées à ce Pokémon. Cette attaque inflige 30 dégâts multipliés par le nombre de cartes Énergie que vous avez défaussées.",
+        "de": "Lege alle an dieses Pokémon angelegten [L]-Energien auf deinen Ablagestapel. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl abgelegter Energiekarten zu.",
+        "it": "Scarta tutte le Energie [L] assegnate a questo Pokémon. Questo attacco infligge 30 danni per ogni carta Energia che hai scartato.",
+        "es": "Descarta todas las Energías [L] unidas a este Pokémon. Este ataque hace 30 puntos de daño por cada carta de Energía que hayas descartado."
+      },
+      "name": {
+        "en": "Discharge",
+        "fr": "Coup d'Jus",
+        "de": "Ladungsstoß",
+        "it": "Scarica",
+        "es": "Chispazo"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene confuso.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Signal Beam",
+        "fr": "Rayon Signal",
+        "de": "Ampelleuchte",
+        "it": "Segnoraggio",
+        "es": "Doble Rayo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_051_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Galvantula",
+    "fr": "Mygavolt",
+    "de": "Voltula",
+    "it": "Galvantula",
+    "pt": "Galvantula",
+    "es": "Galvantula"
+  },
+  "number": "51",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "PLS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

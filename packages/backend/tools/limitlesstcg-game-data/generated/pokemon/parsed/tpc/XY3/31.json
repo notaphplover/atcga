@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "相手のバトルポケモンに「ポケモンのどうぐ」がついているなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "らくらいパンチ"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「いなずまなげ」が使えない。"
+      },
+      "name": {
+        "jp": "いなずまなげ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_31_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_31_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_31_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボルトロス"
+  },
+  "number": "31",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "XY3",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

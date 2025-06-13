@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove 1 damage counter from Leafeon."
+      },
+      "name": {
+        "en": "Sprial Drain"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Leaf Blade"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Leafeon"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

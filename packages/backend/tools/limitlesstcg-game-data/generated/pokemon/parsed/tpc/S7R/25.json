@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンに[水]エネルギーが3個以上ついているなら、このポケモンの最大HPは「150」大きくなる。",
+  "abilityName": "むれのちから",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "このポケモンについている基本エネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "ぎょぐんでっぽう"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S7R/S7R_25_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S7R/S7R_25_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S7R/S7R_25_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヨワシ"
+  },
+  "number": "25",
+  "rarity": "u",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S7R",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

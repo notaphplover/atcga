@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分のベンチポケモン全員に、それぞれダメカンを2個のせる。",
+  "abilityName": "おおあれ",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "160",
+      "effect": {
+        "jp": "のぞむなら、場に出ているスタジアムをトラッシュする。"
+      },
+      "name": {
+        "jp": "ワイルドテール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMK/SMK_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMK/SMK_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMK/SMK_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギャラドス"
+  },
+  "number": "6",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SMK",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Horn Grab"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "90",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Super Slice"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/101_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/101.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/101.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pinsir"
+  },
+  "number": "101",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

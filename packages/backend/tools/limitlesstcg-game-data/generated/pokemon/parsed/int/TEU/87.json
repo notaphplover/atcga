@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Bite",
+        "fr": "Morsure",
+        "de": "Biss",
+        "it": "Morso",
+        "es": "Mordisco"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard a random card from your opponent's hand.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Lege 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario.",
+        "es": "Descarta 1 carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Dark Fang",
+        "fr": "Croc Obscurité",
+        "de": "Finsterzahn",
+        "it": "Zanna Oscura",
+        "es": "Colmillo Siniestro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_087_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mightyena",
+    "fr": "Grahyèna",
+    "de": "Magnayen",
+    "it": "Mightyena",
+    "pt": "Mightyena",
+    "es": "Mightyena"
+  },
+  "number": "87",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "TEU",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Glaceon is your Active Pokémon, your opponent's Pokémon can't use any Poké-Powers.",
+  "abilityName": "Chilly Breath",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "70",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Avalanche"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glaceon LV.X"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "lvx",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned."
+      },
+      "name": {
+        "en": "Sleep Poison"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage and remove 3 damage counters from Roserade."
+      },
+      "name": {
+        "en": "Magical Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Roserade"
+  },
+  "number": "17",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

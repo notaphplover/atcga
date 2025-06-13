@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If you have less Benched Pokémon than your opponent, each of Houndoom's attacks does 40 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Revenge Fang",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Burning Sensation"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, discard 2 [R] Energy attached to Houndoom."
+      },
+      "name": {
+        "en": "Bright Flame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom"
+  },
+  "number": "57",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

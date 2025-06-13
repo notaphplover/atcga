@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "fr": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "de": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+        "pt": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+        "es": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+      },
+      "name": {
+        "en": "Big Bite",
+        "fr": "Grosse Morsure",
+        "de": "Mächtiger Biss",
+        "it": "Grande Morso",
+        "pt": "Mordidona",
+        "es": "Gran Mordisco"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "90+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a Pokémon V or Pokémon-GX, this attack does 90 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon-V ou un Pokémon-GX, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-V oder Pokémon-GX ist, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-V o un Pokémon-GX, questo attacco infligge 90 danni in più.",
+        "pt": "Se o Pokémon Ativo do seu oponente for um Pokémon V ou um Pokémon-GX, este ataque causará 90 pontos de dano a mais.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon V o un Pokémon-GX, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Fighting Fangs",
+        "fr": "Crocs Combatifs",
+        "de": "Kämpfende Reißzähne",
+        "it": "Zanne Combattenti",
+        "pt": "Caninos de Luta",
+        "es": "Colmillos Luchadores"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_075_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Boltund",
+    "fr": "Fulgudog",
+    "de": "Bellektro",
+    "it": "Boltund",
+    "pt": "Boltund",
+    "es": "Boltund"
+  },
+  "number": "75",
+  "rarity": "hr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SSH",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

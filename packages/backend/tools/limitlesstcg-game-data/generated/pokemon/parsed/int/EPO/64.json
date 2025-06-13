@@ -1,0 +1,73 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Wirf 1 Münze. Nimm bei „Kopf“ 1 zufällige Karte aus der verdeckten Hand deines Gegners und lege sie auf dessen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, scarta una carta a caso dalla mano del tuo avversario.",
+        "es": "Lanza una moneda. Si sale cara, descarta una carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Knock Off",
+        "fr": "Sabotage",
+        "de": "Abschlag",
+        "it": "Privazione",
+        "es": "Desarme"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_064_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Purrloin",
+    "fr": "Chacripan",
+    "de": "Felilou",
+    "it": "Purrloin",
+    "pt": "Purrloin",
+    "es": "Purrloin"
+  },
+  "number": "64",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "EPO",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

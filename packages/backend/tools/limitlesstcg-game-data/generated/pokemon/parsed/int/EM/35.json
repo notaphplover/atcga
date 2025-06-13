@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Loudred does 10 damage to itself."
+      },
+      "name": {
+        "en": "Double-edge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Loudred"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

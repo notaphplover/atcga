@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move 1 damage counter from either player's Pokémon to another Pokémon (yours or your opponent's). This power can't be used if Cresselia is affected by a Special Condition.",
+  "abilityName": "Full Moon Dance",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon is Knocked Out by this attack, take 1 more Prize card."
+      },
+      "name": {
+        "en": "Moon Skip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/103_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/103.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/103.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cresselia LV.X"
+  },
+  "number": "103",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "lvx",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Heracross's remaining HP are 20 or less, you may make its Megahorn attack's base damage 120 instead of 60. This power can't be used if Heracross is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Final Blow",
+  "attacks": [
+    {
+      "cost": "ggg",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Megahorn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heracross"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N1",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

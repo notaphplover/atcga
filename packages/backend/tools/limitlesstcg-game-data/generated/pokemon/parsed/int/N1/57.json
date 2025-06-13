@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, discard 1 Energy card attached to Cyndaquil."
+      },
+      "name": {
+        "en": "Fireworks"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cyndaquil"
+  },
+  "number": "57",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

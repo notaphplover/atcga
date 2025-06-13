@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Kecleon has any React Energy cards attached to it, Kecleon is [G], [R], [W], [L], [P], and [F] type.",
+  "abilityName": "Reactive Colors",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kecleon"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

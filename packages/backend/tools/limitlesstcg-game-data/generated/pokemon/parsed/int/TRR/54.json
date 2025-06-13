@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Drowzee can't be Asleep.",
+  "abilityName": "Insomnia",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, each Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Soothing Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/54_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/54.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/54.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drowzee"
+  },
+  "number": "54",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

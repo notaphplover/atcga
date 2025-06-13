@@ -1,0 +1,63 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon isn't an Evolved Pokémon, that Pokémon is Knocked Out instead of damaged by this attack."
+      },
+      "name": {
+        "en": "Take Out"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Hurricane Punch"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each damage counter on Machamp."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

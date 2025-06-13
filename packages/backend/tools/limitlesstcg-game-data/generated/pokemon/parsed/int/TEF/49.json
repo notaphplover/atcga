@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "130",
+      "effect": {
+        "en": "This Pokémon also does 10 damage to itself for each damage counter on it.",
+        "fr": "Ce Pokémon s'inflige aussi 10 dégâts pour chaque marqueur de dégâts placé sur lui.",
+        "de": "Dieses Pokémon fügt für jede auf ihm liegende Schadensmarke auch sich selbst 10 Schadenspunkte zu.",
+        "it": "Questo Pokémon infligge anche 10 danni a se stesso per ogni segnalino danno presente su di esso.",
+        "pt": "Este Pokémon também causa 10 pontos de dano a si mesmo para cada contador de dano nele.",
+        "es": "Este Pokémon también se hace 10 puntos de daño a sí mismo por cada contador de daño que tenga sobre él."
+      },
+      "name": {
+        "en": "Vanguard Punch",
+        "fr": "Poing Avant-Garde",
+        "de": "Avantgarde-Hieb",
+        "it": "Pugno del Paladino",
+        "pt": "Soco de Vanguarda",
+        "es": "Puño Vanguardia"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "90×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 90 damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 90 dégâts pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 90 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 90 danni ogni volta che esce testa.",
+        "pt": "Jogue 2 moedas. Este ataque causa 90 pontos de dano para cada cara.",
+        "es": "Lanza 2 monedas. Este ataque hace 90 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Hit",
+        "fr": "Coup Double",
+        "de": "Doppelschlag",
+        "it": "Doppiosmash",
+        "pt": "Golpe Duplo",
+        "es": "Doble Golpe"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_049_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Palafin",
+    "fr": "Superdofin",
+    "de": "Delfinator",
+    "it": "Palafin",
+    "pt": "Palafin",
+    "es": "Palafin"
+  },
+  "number": "49",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TEF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

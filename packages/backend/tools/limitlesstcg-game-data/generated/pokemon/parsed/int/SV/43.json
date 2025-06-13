@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "90",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Horn Pierce"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, if Seaking would be Knocked Out by damage from an attack, Seaking is not Knocked Out and its remaining HP becomes 10 instead."
+      },
+      "name": {
+        "en": "Endure"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seaking"
+  },
+  "number": "43",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

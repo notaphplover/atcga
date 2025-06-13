@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Peck"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Baltoy"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

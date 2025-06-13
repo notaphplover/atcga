@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you put Moltres from your hand onto your Bench, you may flip a coin. If heads, search your discard pile for up to 3 [R] Energy cards and attach them to Moltres.",
+  "abilityName": "Flame Charge",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard all [R] Energy attached to Moltres."
+      },
+      "name": {
+        "en": "Scorching Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Moltres"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

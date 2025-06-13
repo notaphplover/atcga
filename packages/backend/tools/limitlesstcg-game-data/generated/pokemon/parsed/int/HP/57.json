@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Metal Claw"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Rising Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Anorith"
+  },
+  "number": "57",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

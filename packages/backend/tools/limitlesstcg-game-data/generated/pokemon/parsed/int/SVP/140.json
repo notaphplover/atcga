@@ -1,0 +1,93 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard a random card from your opponent's hand.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Lege 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario.",
+        "pt": "Descarte uma carta aleatória da mão do seu oponente.",
+        "es": "Descarta 1 carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Knock Off",
+        "fr": "Sabotage",
+        "de": "Abschlag",
+        "it": "Privazione",
+        "pt": "Derrubar",
+        "es": "Desarme"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "220",
+      "effect": {
+        "en": "This Pokémon also does 60 damage to itself.",
+        "fr": "Ce Pokémon s'inflige aussi 60 dégâts.",
+        "de": "Dieses Pokémon fügt auch sich selbst 60 Schadenspunkte zu.",
+        "it": "Questo Pokémon infligge anche 60 danni a se stesso.",
+        "pt": "Este Pokémon também causa 60 pontos de dano a si mesmo.",
+        "es": "Este Pokémon también se hace 60 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Wild Press",
+        "fr": "Pression Sauvage",
+        "de": "Ungestümes Hämmern",
+        "it": "Pressa Selvaggia",
+        "pt": "Apertão Selvagem",
+        "es": "Presión Salvaje"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_140_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tinkaton",
+    "fr": "Forgelina",
+    "de": "Granforgita",
+    "it": "Tinkaton",
+    "pt": "Tinkaton",
+    "es": "Tinkaton"
+  },
+  "number": "140",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

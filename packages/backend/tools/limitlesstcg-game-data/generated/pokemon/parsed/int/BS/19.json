@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "ffff",
+      "dmg": "70",
+      "effect": {
+        "en": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Earthquake"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base1/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base1/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base1/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dugtrio"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "BS",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

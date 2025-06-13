@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Flare"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Damage Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmeleon"
+  },
+  "number": "31",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

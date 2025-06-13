@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Wailord has any React Energy cards attached to it, the Retreat Cost for each of your [W] Pokémon (excluding Pokémon-ex) is 0.",
+  "abilityName": "Reactive Lift",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypno Splash"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each of your Benched Stage 1 Evolved Pokémon."
+      },
+      "name": {
+        "en": "Rely on Friends"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wailord"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

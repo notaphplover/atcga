@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Ram"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Triple Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

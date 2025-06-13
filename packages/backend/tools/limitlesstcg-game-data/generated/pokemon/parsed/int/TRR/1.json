@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Azumarill from your hand to evolve 1 of your Active Pokémon, you may use this power. Each Defending Pokémon is now Paralyzed.",
+  "abilityName": "Froth",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin for each [W] Energy attached to Azumarill. This attack does 20 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Water Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Azumarill"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

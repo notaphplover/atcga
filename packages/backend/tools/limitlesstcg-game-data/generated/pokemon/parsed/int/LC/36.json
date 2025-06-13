@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Arcanine in order to use this attack."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Arcanine does 30 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Torkoal is your Active Pokémon, prevent all effects, including damage, done to your Benched Pokémon by your opponent's attacks.",
+  "abilityName": "White Smoke",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned and Paralyzed."
+      },
+      "name": {
+        "en": "Black Soot"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torkoal"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

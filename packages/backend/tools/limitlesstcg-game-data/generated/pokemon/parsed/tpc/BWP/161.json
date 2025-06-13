@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "ひらてうち"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x20ダメージを追加。"
+      },
+      "name": {
+        "jp": "アクロバット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_161_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_161_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_161_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メロエッタ"
+  },
+  "number": "161",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

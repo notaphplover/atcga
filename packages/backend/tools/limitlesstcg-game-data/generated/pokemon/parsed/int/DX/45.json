@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "Prevent all damage done to Shelgon by attacks from your Pokémon.",
+  "abilityName": "Hard Protection",
+  "attacks": [
+    {
+      "cost": "rw",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Rock Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shelgon"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [
+    "fire",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

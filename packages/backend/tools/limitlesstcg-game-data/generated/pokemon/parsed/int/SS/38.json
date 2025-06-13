@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Volbeat is in play, any damage done to Illumise by attacks from [F] Pokémon and [D] Pokémon is reduced by 30. You can't reduce more than 30 damage even if there is more than 1 Volbeat in play.",
+  "abilityName": "Glowing Screen",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Pester"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Illumise"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

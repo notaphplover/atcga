@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Continuous Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Miltank"
+  },
+  "number": "94",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

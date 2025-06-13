@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard 2 Basic Energy cards attached to Tyranitar ex or this attack does nothing."
+      },
+      "name": {
+        "en": "Critical Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop1/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop1/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop1/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar ex"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "P1",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass",
+    "fighting"
+  ]
+}

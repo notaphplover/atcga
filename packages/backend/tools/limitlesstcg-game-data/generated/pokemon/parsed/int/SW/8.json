@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have Gastrodon West Sea in play, you may move up to 3 damage counters from Gastrodon East Sea to 1 of your Gastrodon West Sea.",
+  "abilityName": "Osmotic Pressure",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "80-",
+      "effect": {
+        "en": "Does 80 damage minus 10 damage for each damage counter on Gastrodon East Sea."
+      },
+      "name": {
+        "en": "Dwindling Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gastrodon East Sea"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

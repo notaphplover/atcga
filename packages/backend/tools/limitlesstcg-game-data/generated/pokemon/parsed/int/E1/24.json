@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Poliwrath is on your Bench, you may flip a coin. If heads, take all Energy cards attached to your Active Pokémon, if any, and attach them to Poliwrath. Then switch Poliwrath with your Active Pokémon.",
+  "abilityName": "Plunge",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a number of coins equal to the amount of [W] Energy attached to Poliwrath. This attack does 40 damage plus 10 more damage for each heads."
+      },
+      "name": {
+        "en": "Water Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Poliwrath"
+  },
+  "number": "24",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

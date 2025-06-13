@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "10+",
+      "effect": {
+        "jp": "相手の場の「ポケモンEX」の数x50ダメージを追加。"
+      },
+      "name": {
+        "jp": "ビーストファング"
+      }
+    },
+    {
+      "cost": "rwcc",
+      "dmg": "130",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「ドラゴンストライク」が使えない。"
+      },
+      "name": {
+        "jp": "ドラゴンストライク"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_254_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_254_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_254_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボーマンダEX"
+  },
+  "number": "254",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

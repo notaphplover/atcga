@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Earthquake"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Torterra can't use Frenzy Plant during your next turn."
+      },
+      "name": {
+        "en": "Frenzy Plant"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torterra"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "MD",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

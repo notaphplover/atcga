@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thunder Wave"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 80 damage to itself."
+      },
+      "name": {
+        "en": "Selfdestruct"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

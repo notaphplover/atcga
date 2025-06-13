@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.",
+  "abilityName": "Baby Evolution",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Lick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/68_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/68.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/68.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Munchlax"
+  },
+  "number": "68",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

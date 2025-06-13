@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/62_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/62.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/62.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandslash"
+  },
+  "number": "62",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

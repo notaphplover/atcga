@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Dodrio is on your Bench, you pay [C][C] less to retreat your Active Pokémon (excluding Pokémon-ex and Baby Pokémon.)",
+  "abilityName": "Retreat Aid",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Tri Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dodrio"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "You may discard 2 cards from your hand. If you do, remove 4 damage counters from 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Cleansing Ring"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "90-",
+      "effect": {
+        "en": "Does 90 damage minus 10 damage for each card in your hand."
+      },
+      "name": {
+        "en": "Scale Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/70_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/70.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/70.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic"
+  },
+  "number": "70",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

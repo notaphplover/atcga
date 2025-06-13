@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 20 danni ogni volta che esce testa.",
+        "es": "Lanza una moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Continuous Slap",
+        "fr": "Gifles Sans Fin",
+        "de": "Dauerhieb",
+        "it": "Sberla Infinita",
+        "es": "Bofetón Incesante"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Hammer In",
+        "fr": "Enfoncer",
+        "de": "Einhämmern",
+        "it": "Martello",
+        "es": "Martillear"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_062_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Makuhita",
+    "fr": "Makuhita",
+    "de": "Makuhita",
+    "it": "Makuhita",
+    "pt": "Makuhita",
+    "es": "Makuhita"
+  },
+  "number": "62",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLF",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Sleepy Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marill"
+  },
+  "number": "53",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

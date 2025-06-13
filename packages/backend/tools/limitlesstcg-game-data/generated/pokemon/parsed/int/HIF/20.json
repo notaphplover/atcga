@@ -1,0 +1,82 @@
+{
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "en": "Thunderbolt",
+        "fr": "Tonnerre",
+        "de": "Donnerblitz",
+        "it": "Fulmine"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "200",
+      "effect": {
+        "en": "(You can't use more than 1 GX attack in a game.)",
+        "fr": "(Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "(Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Spark Ball-GX",
+        "fr": "Boule Étincelles-GX",
+        "de": "Zündball-GX",
+        "it": "Sfera Scintilla-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_020_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu-GX",
+    "fr": "Raichu-GX",
+    "de": "Raichu-GX",
+    "it": "Raichu-GX",
+    "pt": "Raichu-GX",
+    "es": "Raichu-GX"
+  },
+  "number": "20",
+  "rarity": "rr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "HIF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

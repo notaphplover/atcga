@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "As long as you have Zapdos ex and Moltres ex in play, the Retreat Cost for Articuno ex is 0.",
+  "abilityName": "Synchronized Lift",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "You may move a [W] Energy attached to Articuno ex to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Ice Gift"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Freezing Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno ex"
+  },
+  "number": "32",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

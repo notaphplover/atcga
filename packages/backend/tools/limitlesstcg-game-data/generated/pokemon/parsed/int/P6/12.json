@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Splash"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Jump Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop6/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop6/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop6/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Buneary"
+  },
+  "number": "12",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P6",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

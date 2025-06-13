@@ -1,0 +1,51 @@
+{
+  "abilityEffect": "As long as your opponent has any Pokémon-ex or Stage 2 Evolved Pokémon in play, Jirachi ex pays [C] less Energy to use Shield Beam or Super Psy Bolt.",
+  "abilityName": "Star Light",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, your opponent can't use any Poké-Powers on his or her Pokémon."
+      },
+      "name": {
+        "en": "Shield Beam"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Super Psy Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jirachi ex"
+  },
+  "number": "94",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": []
+}

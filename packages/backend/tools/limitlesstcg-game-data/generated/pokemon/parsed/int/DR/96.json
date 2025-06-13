@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Muk ex is your Active Pokémon, ignore all Poké-Powers and Poké-Bodies other than Toxic Gas.",
+  "abilityName": "Toxic Gas",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Breath"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each [C] Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."
+      },
+      "name": {
+        "en": "Slimy Water"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Muk ex"
+  },
+  "number": "96",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

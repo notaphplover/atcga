@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "rw",
+      "dmg": "40+",
+      "effect": {
+        "jp": "前の相手の番に、ワザのダメージで、自分のポケモンがきぜつしていたなら、120ダメージ追加。"
+      },
+      "name": {
+        "jp": "リベンジ"
+      }
+    },
+    {
+      "cost": "rwc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "jp": "ドラゴンクロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_209_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_209_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_209_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "クリムガン"
+  },
+  "number": "209",
+  "rarity": "chr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S8b",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": []
+}

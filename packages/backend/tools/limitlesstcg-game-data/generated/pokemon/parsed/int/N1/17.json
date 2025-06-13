@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, attach a [R] Energy card from your discard pile to 1 of your [R] Pokémon. This power can't be used if Typhlosion is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Fire Recharge",
+  "attacks": [
+    {
+      "cost": "rrrr",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 60 damage plus 20 more damage and does 20 damage to Typhlosion. If tails, this attack does 60 damage."
+      },
+      "name": {
+        "en": "Flame Burst"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Typhlosion"
+  },
+  "number": "17",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N1",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

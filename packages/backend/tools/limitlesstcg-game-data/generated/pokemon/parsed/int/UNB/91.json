@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 50 damage for each heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 50 danni ogni volta che esce testa.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 50 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Bone Rush",
+        "fr": "Charge-Os",
+        "de": "Knochenhatz",
+        "it": "Ossoraffica",
+        "es": "Ataque Óseo"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "70+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 70 more damage.",
+        "fr": "Si une carte Outil Pokémon est attachée au Pokémon Actif de votre adversaire, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn an das Aktive Pokémon deines Gegners eine Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario ha una carta Oggetto Pokémon assegnata, questo attacco infligge 70 danni in più.",
+        "es": "Si el Pokémon Activo de tu rival tiene 1 carta de Herramienta Pokémon unida a él, este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Assault Boom",
+        "fr": "Dégât d'Assaut",
+        "de": "Offensiv-Donner",
+        "it": "Boatassalto",
+        "es": "Bomba de Asalto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_091_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marowak",
+    "fr": "Ossatueur",
+    "de": "Knogga",
+    "it": "Marowak",
+    "pt": "Marowak",
+    "es": "Marowak"
+  },
+  "number": "91",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UNB",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

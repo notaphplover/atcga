@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Lightning Ball"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard all Energy cards attached to Pikachu."
+      },
+      "name": {
+        "en": "Thunderbolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop5/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop5/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop5/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "12",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P5",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

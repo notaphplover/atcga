@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tail Slap"
+      }
+    },
+    {
+      "cost": "l",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Pachi"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/118_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/118.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/118.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pachirisu"
+  },
+  "number": "118",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

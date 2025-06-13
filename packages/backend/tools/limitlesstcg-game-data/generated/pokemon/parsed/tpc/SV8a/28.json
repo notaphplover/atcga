@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "場に「お祭り会場」が出ているなら、このポケモンは、持っているワザを2回連続で使える。（1回目のワザで相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目のワザを使う。）",
+  "abilityName": "おまつりおんど",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "うずしお"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_28_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_28_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_28_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "トサキント"
+  },
+  "number": "28",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8a",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

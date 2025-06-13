@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may move a [W] Energy attached to 1 of your Active Pokémon to 1 of your Benched Pokémon. This power can't be used if Swampert is affected by a Special Condition.",
+  "abilityName": "Water Cyclone",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swampert"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

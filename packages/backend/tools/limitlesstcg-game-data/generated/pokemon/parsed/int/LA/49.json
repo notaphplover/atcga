@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for any Castform and switch it with Castform Rain Form. (Any cards attached to Castform Rain Form, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Castform Rain Form back into your deck. You can't use more than 1 Temperament Poké-Power each turn.",
+  "abilityName": "Temperament",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "The defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Water Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Castform Rain Form"
+  },
+  "number": "49",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

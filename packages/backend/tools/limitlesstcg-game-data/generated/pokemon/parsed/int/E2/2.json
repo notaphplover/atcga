@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "You pay [C] less to retreat Arcanine for each Energy attached to it.",
+  "abilityName": "Extreme Speed",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may discard any number of [R] Energy cards attached to Arcanine when you use this attack. If you do, flip a number of coins equal to the number of [R] Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."
+      },
+      "name": {
+        "en": "Fire Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "2",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

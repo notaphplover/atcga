@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "ガードプレス"
+      }
+    },
+    {
+      "cost": "mc",
+      "dmg": "120",
+      "effect": {
+        "jp": "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "パワーラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_138_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_138_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_138_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ザマゼンタ"
+  },
+  "number": "138",
+  "regulation": "d",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "S4a",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンが持っているワザを1つ選ぶ。次の相手の番、このワザを受けた相手のバトルポケモンは、選ばれたワザを使えない。"
+      },
+      "name": {
+        "jp": "いちゃもん"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "ダメージを与えるとき、すでに相手のバトルポケモンにダメカンがのっているなら、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "デスロール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW1w/BW1w_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW1w/BW1w_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW1w/BW1w_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ワルビアル"
+  },
+  "number": "33",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "BW1w",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

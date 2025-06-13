@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Search your discard pile for all Energy cards and show them to your opponent. If you find any [M] Special Energy cards there this attack does 40 damage plus 30 more damage. Put all of those Energy cards on top of your deck. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Heap Up"
+      }
+    },
+    {
+      "cost": "mmmm",
+      "dmg": "60+",
+      "effect": {
+        "en": "You may do 60 damage plus 40 more damage. If you do, Aggron does 40 damage to itself."
+      },
+      "name": {
+        "en": "Hard Metal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aggron"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

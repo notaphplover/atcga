@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage times the number of [C] Pokémon your opponent has in play.",
+        "fr": "Cette attaque inflige 20 dégâts multipliés par le nombre de Pokémon [C] que votre adversaire a en jeu.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der [C]-Pokémon, die dein Gegner im Spiel hat, zu.",
+        "it": "Questo attacco infligge 20 danni per ogni Pokémon [C] che il tuo avversario ha in gioco.",
+        "es": "Este ataque hace 20 puntos de daño por cada Pokémon [C] que tu rival tenga en juego."
+      },
+      "name": {
+        "en": "Shake It Off",
+        "fr": "Bon Débarras",
+        "de": "Ausschütteln",
+        "it": "Scrollavia",
+        "es": "Espantar"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Seed Bomb",
+        "fr": "Canon Graine",
+        "de": "Samenbomben",
+        "it": "Semebomba",
+        "es": "Bomba Germen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_002_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Exeggutor",
+    "fr": "Noadkoko",
+    "de": "Kokowei",
+    "it": "Exeggutor",
+    "pt": "Exeggutor",
+    "es": "Exeggutor"
+  },
+  "number": "2",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "ROS",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

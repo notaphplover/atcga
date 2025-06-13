@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Smash Kick"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Super Singe"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bagon"
+  },
+  "number": "52",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

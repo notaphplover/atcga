@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may discard the top card of your deck. If that card is a [R] Energy card, this attack does 50 more damage.",
+        "fr": "Vous pouvez défausser la carte du dessus de votre deck. Si cette carte est une carte Énergie [R], cette attaque inflige 50 dégâts supplémentaires.",
+        "de": "Du kannst die oberste Karte deines Decks auf deinen Ablagestapel legen. Falls es eine [R]-Energiekarte ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
+        "it": "Puoi scartare la carta in cima al tuo mazzo. Se è una carta Energia [R], questo attacco infligge 50 danni in più.",
+        "es": "Puedes descartar la primera carta de tu baraja. Si es una carta de Energía [R], este ataque hace 50 puntos de daño más."
+      },
+      "name": {
+        "en": "Magma Mantle",
+        "fr": "Manteau de Magma",
+        "de": "Magmahülle",
+        "it": "Magmamanto",
+        "es": "Manto Magma"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Heat Blast",
+        "fr": "Explosion de Chaleur",
+        "de": "Hitzestoß",
+        "it": "Caldobomba",
+        "es": "Explosión de Calor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_021_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo",
+    "fr": "Volcaropod",
+    "de": "Magcargo",
+    "it": "Magcargo",
+    "pt": "Magcargo",
+    "es": "Magcargo"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

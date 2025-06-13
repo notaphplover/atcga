@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30+",
+      "effect": {
+        "en": "If there are 3 or fewer cards in your deck, this attack does 150 more damage.",
+        "fr": "S'il y a 3 cartes ou moins dans votre deck, cette attaque inflige 150 dégâts supplémentaires.",
+        "de": "Wenn 3 oder weniger Karten in deinem Deck sind, fügt diese Attacke 150 Schadenspunkte mehr zu.",
+        "it": "Se ci sono tre o meno carte nel tuo mazzo, questo attacco infligge 150 danni in più.",
+        "es": "Si hay 3 cartas o menos en tu baraja, este ataque hace 150 puntos de daño más."
+      },
+      "name": {
+        "en": "Eleventh Hour Tackle",
+        "fr": "Tacle Désespéré",
+        "de": "Notstampfer",
+        "it": "Azione in Extremis",
+        "es": "Placaje de Última Hora"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard the top 4 cards of your deck.",
+        "fr": "Défaussez les 4 cartes du dessus de votre deck.",
+        "de": "Lege die obersten 4 Karten deines Decks auf deinen Ablagestapel.",
+        "it": "Scarta le prime quattro carte del tuo mazzo.",
+        "es": "Descarta las 4 primeras cartas de tu baraja."
+      },
+      "name": {
+        "en": "Drill Bazooka",
+        "fr": "Perceuse Bazooka",
+        "de": "Bazooka-Bohrer",
+        "it": "Bazooka Perforante",
+        "es": "Bazooka Taladro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_115_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Excadrill",
+    "fr": "Minotaupe",
+    "de": "Stalobor",
+    "it": "Excadrill",
+    "pt": "Excadrill",
+    "es": "Excadrill"
+  },
+  "number": "115",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "CEC",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

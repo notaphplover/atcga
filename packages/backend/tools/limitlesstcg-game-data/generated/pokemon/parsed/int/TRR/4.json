@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Dark Electrode has no Energy attached to it, you may search your deck for a [D] or Dark [M] Energy and attach it to Dark Electrode. Shuffle your deck afterward. This power can't be used if Dark Electrode is affected by a Special Condition.",
+  "abilityName": "Darkness Navigation",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30",
+      "effect": {
+        "en": "You may move all Energy cards attached to Dark Electrode to your Benched Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Energy Bomb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Electrode"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "lightning",
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

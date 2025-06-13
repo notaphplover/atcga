@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "rw",
+      "dmg": "40+",
+      "effect": {
+        "en": "If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, this attack does 120 more damage.",
+        "fr": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire pendant son dernier tour, cette attaque inflige 120 dégâts supplémentaires.",
+        "de": "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke der Pokémon deines Gegners kampfunfähig wurde, fügt diese Attacke 120 Schadenspunkte mehr zu.",
+        "it": "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario durante il suo ultimo turno, questo attacco infligge 120 danni in più.",
+        "pt": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque dos Pokémon do seu oponente durante o último turno dele(a), este ataque causará 120 pontos de dano a mais.",
+        "es": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque de los Pokémon de tu rival durante su último turno, este ataque hace 120 puntos de daño más."
+      },
+      "name": {
+        "en": "Revenge",
+        "fr": "Vendetta",
+        "de": "Vergeltung",
+        "it": "Vendetta",
+        "pt": "Vingança",
+        "es": "Desquite"
+      }
+    },
+    {
+      "cost": "rwc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw",
+        "fr": "Draco-Griffe",
+        "de": "Drachenklaue",
+        "it": "Dragartigli",
+        "pt": "Garra de Dragão",
+        "es": "Garra Dragón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Druddigon",
+    "fr": "Drakkarmin",
+    "de": "Shardrago",
+    "it": "Druddigon",
+    "pt": "Druddigon",
+    "es": "Druddigon"
+  },
+  "number": "TG9",
+  "rarity": "chr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SIT",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": []
+}

@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Das Verteidigende Pokémon schläft jetzt.",
+        "it": "Il Pokémon difensore viene addormentato.",
+        "es": "El Pokémon Defensor pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Hypnoblast",
+        "fr": "Hypnoblast",
+        "de": "Hypnoschuss",
+        "it": "Ipnobomba",
+        "es": "Hipnorrayo"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "de": "Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert.",
+        "it": "Il danno di questo attacco non è influenzato dalla debolezza o dalla resistenza.",
+        "es": "El daño de este ataque no se ve afectado por Debilidad o Resistencia."
+      },
+      "name": {
+        "en": "Mind Shock",
+        "fr": "Choc Cérébral",
+        "de": "Verstandesschock",
+        "it": "Shock Mentale",
+        "es": "Choque Cerebral"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_056_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gothorita",
+    "fr": "Mesmérella",
+    "de": "Hypnomorba",
+    "it": "Gothorita",
+    "pt": "Gothorita",
+    "es": "Gothorita"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DRX",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

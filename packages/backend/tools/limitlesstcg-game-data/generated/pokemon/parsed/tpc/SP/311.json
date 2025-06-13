@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンは、相手のポケモンが使うワザの効果を受けない。",
+  "abilityName": "てんねん",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "このポケモンに[F]エネルギーがついているなら、120ダメージ追加。"
+      },
+      "name": {
+        "jp": "どろんこヘッド"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_311_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_311_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_311_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヌオーV"
+  },
+  "number": "311",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

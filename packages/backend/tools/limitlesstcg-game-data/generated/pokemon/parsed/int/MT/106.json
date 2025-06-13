@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Shining Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/106_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/106.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/106.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Totodile"
+  },
+  "number": "106",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "The attack cost of your Nidoran ♀, Nidorina, Nidoran ♂, Nidorino, and Nidoking's attacks is [C] less.",
+  "abilityName": "Mother Pheromone",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "90",
+      "effect": {
+        "en": "If you have the same number of or less Benched Pokémon than your opponent, this attack's base damage is 50 instead of 90."
+      },
+      "name": {
+        "en": "Give Aid"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoqueen"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

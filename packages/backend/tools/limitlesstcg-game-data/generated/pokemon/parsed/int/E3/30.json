@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage times the number of Energy attached to Starmie and the Defending Pokémon."
+      },
+      "name": {
+        "en": "Energy Burst"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Attach a basic Energy card from your discard pile to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Star Back"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Starmie"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

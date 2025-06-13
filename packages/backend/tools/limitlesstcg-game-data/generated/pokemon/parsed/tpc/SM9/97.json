@@ -1,0 +1,62 @@
+{
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくとやけどとこんらんにする。"
+      },
+      "name": {
+        "jp": "きけんなかふん"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "150",
+      "effect": {},
+      "name": {
+        "jp": "ソーラービーム"
+      }
+    },
+    {
+      "cost": "ggcc+",
+      "dmg": "180",
+      "effect": {
+        "jp": "このポケモンのHPを、すべて回復する。追加で[草]エネルギーが1個ついているなら、自分のトラッシュにあるカードをすべて山札にもどして切る。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "エバーグリーンGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9/SM9_97_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9/SM9_97_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM9/SM9_97_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "セレビィ&フシギバナGX"
+  },
+  "number": "97",
+  "rarity": "sr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SM9",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

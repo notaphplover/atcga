@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Horn Attack"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhydon"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

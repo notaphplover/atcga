@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage for each Item card in your opponent's discard pile.",
+        "fr": "Cette attaque inflige 20 dégâts pour chaque carte Objet dans la pile de défausse de votre adversaire.",
+        "de": "Diese Attacke fügt 20 Schadenspunkte mal der Anzahl der Itemkarten im Ablagestapel deines Gegners zu.",
+        "it": "Questo attacco infligge 20 danni per ogni carta Strumento nella pila degli scarti del tuo avversario.",
+        "es": "Este ataque hace 20 puntos de daño por cada carta de Objeto en la pila de descartes de tu rival."
+      },
+      "name": {
+        "en": "Trashalanche",
+        "fr": "Avalanche de Déchets",
+        "de": "Mülllawine",
+        "it": "Valanga Rifiuti",
+        "es": "Basuravalancha"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie du Pokémon Actif de votre adversaire.",
+        "de": "Wirf 1 Münze. Lege bei Kopf 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Lanza 1 moneda. Si sala cara, descarta 1 Energía del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Acid Spray",
+        "fr": "Bombe Acide",
+        "de": "Säurespeier",
+        "it": "Acidobomba",
+        "es": "Bomba Ácida"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_051a_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Garbodor",
+    "fr": "Miasmax",
+    "de": "Deponitox",
+    "it": "Garbodor",
+    "pt": "Garbodor",
+    "es": "Garbodor"
+  },
+  "number": "51a",
+  "resistance": [],
+  "retreat": 3,
+  "set": "GRI",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

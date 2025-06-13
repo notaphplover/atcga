@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you play Walrein from your hand to evolve 1 of your Pokémon, you may attach as many [W] Energy cards from your hand to Walrein as you like.",
+  "abilityName": "Gather Ice",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard an Energy card attached to Walrein and then discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Cold Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Walrein"
+  },
+  "number": "36",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "RR",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

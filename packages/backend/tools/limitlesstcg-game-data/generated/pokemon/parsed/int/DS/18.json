@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your deck for a Holon Energy card and attach it to Vaporeon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Delta Search"
+      }
+    },
+    {
+      "cost": "wmc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may return an Energy card attached to Vaporeon to your hand. If you do, choose an Energy card attached to the Defending Pokémon and return it to your opponent's hand."
+      },
+      "name": {
+        "en": "Return Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon"
+  },
+  "number": "18",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "water",
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

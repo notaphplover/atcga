@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, look at your opponent's hand. If he or she has any Trainer cards there, choose 1 of them. You opponent shuffles that card into his or her deck."
+      },
+      "name": {
+        "en": "Surprise Slash"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Persian"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

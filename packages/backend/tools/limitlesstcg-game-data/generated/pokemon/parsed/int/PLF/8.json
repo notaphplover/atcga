@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "X-Scissor",
+        "fr": "Plaie-Croix",
+        "de": "Kreuzschere",
+        "it": "Forbice X",
+        "es": "Tijera X"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "80",
+      "effect": {
+        "en": "Heal 20 damage from each of your Pokémon that has any Energy attached to it.",
+        "fr": "Soignez 20 dégâts à chacun de vos Pokémon auquel de l'Énergie est attachée.",
+        "de": "Heile 20 Schadenspunkte bei jedem deiner Pokémon, an das Energie angelegt ist.",
+        "it": "Cura da 20 danni ciascuno dei tuoi Pokémon che abbia delle Energie assegnate.",
+        "es": "Cura 20 puntos de daño a cada uno de tus Pokémon que tenga alguna Energía unida a él."
+      },
+      "name": {
+        "en": "Energy Bloom",
+        "fr": "Énergie Florissante",
+        "de": "Energieschwall",
+        "it": "Fior d'Energia",
+        "es": "Floración de Energía"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_008_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile",
+    "fr": "Jungko",
+    "de": "Gewaldro",
+    "it": "Sceptile",
+    "pt": "Sceptile",
+    "es": "Sceptile"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "PLF",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

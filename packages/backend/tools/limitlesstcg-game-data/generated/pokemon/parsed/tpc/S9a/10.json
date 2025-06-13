@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、[G]エネルギーがついている自分のポケモン全員は、特殊状態にならず、受けている特殊状態は、すべて回復する。",
+  "abilityName": "わかくさのかぜ",
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "200",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "エメラルドブレード"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ビリジオンV"
+  },
+  "number": "10",
+  "rarity": "rr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S9a",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

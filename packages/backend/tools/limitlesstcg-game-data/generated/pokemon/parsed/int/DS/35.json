@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.",
+  "abilityName": "Duplicate",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your discard pile for an Energy card and attach it to Ditto."
+      },
+      "name": {
+        "en": "Energy Link"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ditto"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

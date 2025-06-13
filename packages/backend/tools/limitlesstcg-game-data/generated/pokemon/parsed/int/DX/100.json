@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Hariyama ex is your Active Pokémon, your opponent can't play any Stadium cards from his or her hand.",
+  "abilityName": "Commanding Aura",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Knock Off"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Hariyama ex by attacks is increased by 10 (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Pivot Throw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hariyama ex"
+  },
+  "number": "100",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

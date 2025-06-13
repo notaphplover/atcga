@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your deck for a [R] Energy card and attach it to this Pokémon. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Énergie [R] dans votre deck et attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [R]-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [R] e assegnala a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Energía [R] y únela a este Pokémon. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Flame Charge",
+        "fr": "Nitrocharge",
+        "de": "Nitroladung",
+        "it": "Nitrocarica",
+        "es": "Nitrocarga"
+      }
+    },
+    {
+      "cost": "rccc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If Electivire is on your Bench, this attack does 80 more damage.",
+        "fr": "Si Élekable est sur votre Banc, cette attaque inflige 80 dégâts supplémentaires.",
+        "de": "Wenn sich Elevoltek auf deiner Bank befindet, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
+        "it": "Se Electivire è nella tua panchina, questo attacco infligge 80 danni in più.",
+        "es": "Si Electivire está en tu Banca, este ataque hace 80 puntos de daño más."
+      },
+      "name": {
+        "en": "Twin Bursts",
+        "fr": "Explosions en Duo",
+        "de": "Doppelsalve",
+        "it": "Scoppiogemello",
+        "es": "Estallidos Gemelos"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_011_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmortar",
+    "fr": "Maganon",
+    "de": "Magbrant",
+    "it": "Magmortar",
+    "pt": "Magmortar",
+    "es": "Magmortar"
+  },
+  "number": "11",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "FFI",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

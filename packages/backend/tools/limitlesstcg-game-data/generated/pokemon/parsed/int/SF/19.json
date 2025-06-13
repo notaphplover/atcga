@@ -1,0 +1,65 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "30×",
+      "effect": {
+        "en": "Does 30 damage times the number of Magikarp in your discard pile."
+      },
+      "name": {
+        "en": "Tail Revenge"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard the top card from your opponent's deck."
+      },
+      "name": {
+        "en": "Wreak Havoc"
+      }
+    },
+    {
+      "cost": "wwccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card from each of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Dragon Beat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

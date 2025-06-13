@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. If you do, your turn ends. During your next turn, each of Ludicolo's attacks does 60 more damage to the Defending Pokémon (before applying Weakness and Resistance). This power can't be used if Ludicolo is affected by a Special Condition.",
+  "abilityName": "Cheerful Voice",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mad Dance"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "en": "After doing damage, remove from Ludicolo the number of damage counters equal to the damage you did to the Defending Pokémon. Ludicolo can't use Best Dance during your next turn."
+      },
+      "name": {
+        "en": "Best Dance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ludicolo"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

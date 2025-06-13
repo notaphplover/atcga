@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard a Special Energy from your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie spéciale du Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 Spezial-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia speciale assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía Especial del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Righteous Edge",
+        "fr": "Lame Vertueuse",
+        "de": "Edle Klinge",
+        "it": "Giustalama",
+        "es": "Tajo Justiciero"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage.",
+        "fr": "Si des marqueurs de dégâts sont placés sur vos Pokémon de Banc, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn auf den Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+        "it": "Se i tuoi Pokémon in panchina hanno dei segnalini danno, questo attacco infligge 70 danni in più.",
+        "es": "Si tus Pokémon en Banca tienen algún contador de daño sobre ellos, este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Berserk",
+        "fr": "Dracolère",
+        "de": "Wutausbruch",
+        "it": "Furore",
+        "es": "Cólera"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_160_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drampa-GX",
+    "fr": "Draïeul-GX",
+    "de": "Sen-Long-GX",
+    "it": "Drampa-GX",
+    "pt": "Drampa-GX",
+    "es": "Drampa-GX"
+  },
+  "number": "160",
+  "rarity": "rar",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GRI",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

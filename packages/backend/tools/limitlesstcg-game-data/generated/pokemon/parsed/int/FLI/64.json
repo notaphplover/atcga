@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poison Jab",
+        "fr": "Direct Toxik",
+        "de": "Gifthieb",
+        "it": "Velenpuntura",
+        "es": "Puya Nociva"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If any of your [P] Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 70 more damage.",
+        "fr": "Si l'un de vos Pokémon [P] a été mis K.O. par les dégâts d'une attaque de votre adversaire pendant son dernier tour, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn mindestens 1 deiner [P]-Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+        "it": "Se uno qualsiasi dei tuoi Pokémon [P] è stato messo KO dai danni inflitti da un attacco del tuo avversario durante il suo ultimo turno, questo attacco infligge 70 danni in più.",
+        "es": "Si alguno de tus Pokémon [P] quedó Fuera de Combate por el daño de un ataque de tu rival durante su último turno, este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Exact Revenge",
+        "fr": "Vengeance Exigée",
+        "de": "Auge um Auge",
+        "it": "Ora della Vendetta",
+        "es": "Exigir Venganza"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_064_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toxicroak",
+    "fr": "Coatox",
+    "de": "Toxiquak",
+    "it": "Toxicroak",
+    "pt": "Toxicroak",
+    "es": "Toxicroak"
+  },
+  "number": "64",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "FLI",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, Magnemite does 10 damage to itself."
+      },
+      "name": {
+        "en": "Magnetic Bomb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/66_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/66.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/66.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnemite"
+  },
+  "number": "66",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "basic",
+  "traitEffect": "Magnemite's Retreat Cost is Colorless less for each Magnemite on your Bench.",
+  "traitName": "Magnet",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

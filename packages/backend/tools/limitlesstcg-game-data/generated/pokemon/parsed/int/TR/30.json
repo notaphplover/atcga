@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "No Trainer cards can be played. This power stops working while Dark Vileplume is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Hay Fever",
+  "attacks": [
+    {
+      "cost": "ggg",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coins. This attack does 30 damage times the number of heads. If you get 2 or more heads, Dark Vileplume is now Confused (after doing damage)."
+      },
+      "name": {
+        "en": "Petal Whirlwind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Vileplume"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

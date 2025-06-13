@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の場の「ロケット団のポケモン」が4匹以上のときにしか、このポケモンはワザが使えない。",
+  "abilityName": "パワーセーバー",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "160+",
+      "effect": {
+        "jp": "のぞむなら、自分のベンチポケモンについているエネルギーを2枚までトラッシュし、その枚数×60ダメージ追加。"
+      },
+      "name": {
+        "jp": "イレイザーボール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 280,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_114_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_114_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_114_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロケット団のミュウツーex"
+  },
+  "number": "114",
+  "rarity": "sr",
+  "regulation": "i",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SV10",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

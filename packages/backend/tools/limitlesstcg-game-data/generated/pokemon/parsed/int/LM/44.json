@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Whenever you attach a React Energy card from your hand to Tangela, remove all damage counters from Tangela.",
+  "abilityName": "Reactive Healing",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon is a Basic Pokémon, that Pokémon can't attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Entangling Vines"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Gentle Wrap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tangela"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

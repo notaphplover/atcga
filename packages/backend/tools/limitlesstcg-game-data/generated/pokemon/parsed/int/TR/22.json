@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Dark Dragonite from your hand, search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+  "abilityName": "Summon Minions",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Giant Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Dragonite"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

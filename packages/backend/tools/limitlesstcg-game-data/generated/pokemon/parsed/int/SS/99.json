@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned, and can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Ring of Fire"
+      }
+    },
+    {
+      "cost": "rrrcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 1 Energy card attached to Typhlosion ex. If your opponent has more than 1 Defending Pokémon, you may do 50 damage to each of them instead."
+      },
+      "name": {
+        "en": "Split Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/99_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/99.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/99.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Typhlosion ex"
+  },
+  "number": "99",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "fighting",
+    "water"
+  ]
+}

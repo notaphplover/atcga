@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As long as Hippowdon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon LV.X between turns.",
+  "abilityName": "Sand Cover",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each Energy attached to Hippowdon. Before doing damage, you may search your discard pile for a [F] Energy card and attach it to Hippowdon."
+      },
+      "name": {
+        "en": "Save Sand"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon that isn't an Evolved Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon)."
+      },
+      "name": {
+        "en": "Groundquake"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hippowdon"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

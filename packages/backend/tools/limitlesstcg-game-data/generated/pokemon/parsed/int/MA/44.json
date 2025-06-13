@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubble"
+      }
+    },
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Psyduck"
+  },
+  "number": "44",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

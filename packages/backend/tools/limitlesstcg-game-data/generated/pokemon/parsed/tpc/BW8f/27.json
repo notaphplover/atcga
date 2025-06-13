@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "この特性は、自分の番に1回使えて、使ったなら、このポケモンをきぜつさせる。ダメカン3個を、相手のポケモンに好きなようにのせる。",
+  "abilityName": "ディープグレイブ",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "70",
+      "effect": {
+        "jp": "次の相手の番、相手が投げるコインは、すべてウラとしてあつかう。"
+      },
+      "name": {
+        "jp": "ふこうのビンタ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8f/BW8f_27_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8f/BW8f_27_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW8f/BW8f_27_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "デスカーン"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BW8f",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

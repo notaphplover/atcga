@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分のベンチポケモン全員は、ワザのダメージを受けない。",
+  "abilityName": "ベンチバリア",
+  "attacks": [
+    {
+      "cost": "yc",
+      "dmg": "10×",
+      "effect": {
+        "jp": "コインを4回投げ、オモテの数x10ダメージ。"
+      },
+      "name": {
+        "jp": "ジャグリング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_90_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_90_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_90_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バリヤード"
+  },
+  "number": "90",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 1,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

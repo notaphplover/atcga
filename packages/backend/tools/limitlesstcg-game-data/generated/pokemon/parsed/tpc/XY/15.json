@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の手札から[炎]エネルギーを1枚選び、トラッシュする。その場合、この番、自分の[炎]タイプのたねポケモンが使うワザの、相手のバトルポケモンへのダメージは、「+30」される。この特性は、自分の番に1回使える。",
+  "abilityName": "スチームアップ",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "130",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ボルカニックヒート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_15_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_15_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_15_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボルケニオンEX"
+  },
+  "number": "15",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "fire",
+    "water"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

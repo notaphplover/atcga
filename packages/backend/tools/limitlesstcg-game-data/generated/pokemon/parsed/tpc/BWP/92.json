@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+      },
+      "name": {
+        "jp": "つばさのまい"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "エアスラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_92_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_92_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_92_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "スワンナ"
+  },
+  "number": "92",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

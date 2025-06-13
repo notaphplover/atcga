@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Se questo Pokémon era in panchina ed è diventato il tuo Pokémon attivo in questo turno, questo attacco infligge 60 danni in più.",
+        "es": "Durante el próximo turno de tu rival, cualquier daño infligido a este Pokémon por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Steel Wing",
+        "fr": "Aile d'Acier",
+        "de": "Stahlflügel",
+        "it": "Raffica di Stoccate",
+        "es": "Ala de Acero"
+      }
+    },
+    {
+      "cost": "mm",
+      "dmg": "50+",
+      "effect": {
+        "en": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage.",
+        "fr": "Si ce Pokémon était sur le Banc et est devenu votre Pokémon Actif pendant ce tour, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wenn dieses Pokémon auf der Bank war und während dieses Zuges zu deinem Aktiven Pokémon wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+        "es": "Si este Pokémon estaba en la Banca y se ha convertido en tu Pokémon Activo en este turno, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Gale Thrust",
+        "fr": "Coup d'Bourrasque",
+        "de": "Orkanstoß",
+        "es": "Impulso Vendaval"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_076_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scizor-EX",
+    "fr": "Cizayox-EX",
+    "de": "Scherox-EX",
+    "it": "Scizor-EX",
+    "pt": "Scizor-EX",
+    "es": "Scizor-EX"
+  },
+  "number": "76",
+  "rarity": "rr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "BKP",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

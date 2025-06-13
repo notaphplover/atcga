@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mystic Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Mightyena"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

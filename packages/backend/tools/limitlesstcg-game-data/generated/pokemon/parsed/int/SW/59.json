@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Grip and Squeeze"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack's base damage is 10 instead of 100."
+      },
+      "name": {
+        "en": "Power Guillotine"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/59_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/59.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/59.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pinsir"
+  },
+  "number": "59",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

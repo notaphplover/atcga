@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Charmeleon in order to use this attack."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/102_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/102.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/102.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmeleon"
+  },
+  "number": "102",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

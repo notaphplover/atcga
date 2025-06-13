@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Strange Behavior",
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowbro"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "FO",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

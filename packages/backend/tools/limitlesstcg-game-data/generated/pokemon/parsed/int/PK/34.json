@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Medicham is your Active Pokémon, attacks by each player's Active Pokémon do 10 more damage to any Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Vigorous Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Punch"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Rolling Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Medicham"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

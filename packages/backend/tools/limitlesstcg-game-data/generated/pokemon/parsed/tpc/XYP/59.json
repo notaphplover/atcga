@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、このポケモンの最大HPは、自分のベンチポケモン1匹につき「20」大きくなる。",
+  "abilityName": "おやぶんはだ",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "このポケモンが特殊状態なら、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "クレイジーナックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_59_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_59_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_59_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴロンダ"
+  },
+  "number": "59",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XYP",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

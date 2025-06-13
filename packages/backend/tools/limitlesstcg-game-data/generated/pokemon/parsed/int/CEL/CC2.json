@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may turn all [R] Energy attached to Charizard into [R] Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Energy Burn",
+  "attacks": [
+    {
+      "cost": "rrrr",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 2 Energy cards attached to Charizard in order to use this attack.",
+        "fr": "Défaussez 2 cartes Énergie attachées à Dracaufeu pour pouvoir utiliser cette attaque.",
+        "de": "Entferne 2 auf Glurak abgelegte Energiekarten, um diesen Angriff auszuführen.",
+        "it": "Scarta 2 carte Energia assegnate a Charizard per poter usare questo attacco.",
+        "pt": "Descarte 2 cartas de Energia ligadas ao Charizard para usar este ataque.",
+        "es": "Descarta 2 cartas de Energía unidas a Charizard para poder usar este ataque."
+      },
+      "name": {
+        "en": "Fire Spin",
+        "fr": "Danseflamme",
+        "de": "Feuerwirbel",
+        "it": "Turbofuoco",
+        "pt": "Chama Furacão",
+        "es": "Giro Fuego"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC2_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard",
+    "fr": "Dracaufeu",
+    "de": "Glurak",
+    "it": "Charizard",
+    "pt": "Charizard",
+    "es": "Charizard"
+  },
+  "number": "CC2",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "CEL",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

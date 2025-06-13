@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の手札から[草]エネルギーを1枚選び、トラッシュする。その後、自分の山札を3枚引く。この特性は、自分の番に1回使える。",
+  "abilityName": "はっぱドロー",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "20×",
+      "effect": {
+        "jp": "おたがいのベンチポケモンの数x20ダメージ。"
+      },
+      "name": {
+        "jp": "きょうらんのまい"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY2/XY2_7_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY2/XY2_7_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY2/XY2_7_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダーテング"
+  },
+  "number": "7",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

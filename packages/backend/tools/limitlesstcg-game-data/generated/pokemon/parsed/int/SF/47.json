@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Any damage done to Pupitar by attacks is reduced by 10 for each Energy attached to Pupitar (after applying Weakness and Resistance). You can't reduce more than 30 damage in this way.",
+  "abilityName": "Energy Protection",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Rock Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pupitar"
+  },
+  "number": "47",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

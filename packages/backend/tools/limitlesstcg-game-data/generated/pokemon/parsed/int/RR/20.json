@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Chop Up"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Feint"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gallade E4"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

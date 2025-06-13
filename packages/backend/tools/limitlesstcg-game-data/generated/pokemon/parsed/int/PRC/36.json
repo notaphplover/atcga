@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a card. Shuffle your deck, then put that card on top of it.",
+  "abilityName": "Diving Search",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "This attack does 30 more damage for each [W] Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie [W] attachée à ce Pokémon.",
+        "de": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede an dieses Pokémon angelegte [W]-Energie zu.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Energia [W] assegnata a questo Pokémon.",
+        "es": "Este ataque hace 30 puntos de daño más por cada Energía [W] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Hydro Pump",
+        "fr": "Hydrocanon",
+        "de": "Hydropumpe",
+        "it": "Idropompa",
+        "es": "Hidrobomba"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_036_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swampert",
+    "fr": "Laggron",
+    "de": "Sumpex",
+    "it": "Swampert",
+    "pt": "Swampert",
+    "es": "Swampert"
+  },
+  "number": "36",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PRC",
+  "stage": "stage2",
+  "traitEffect": "When you attach an Energy card from your hand to this Pokémon (except with an attack, Ability, or Trainer card), you may attach 2 Energy cards.",
+  "traitName": "α Growth",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

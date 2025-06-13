@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may discard an Item card from your hand. If you do, this attack does 40 more damage.",
+        "fr": "Vous pouvez défausser une carte Objet de votre main. Dans ce cas, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Du kannst 1 Itemkarte von deiner Hand auf den Ablagestapel legen. Wenn du das machst, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Puoi scartare una carta Strumento dalla tua mano. Se lo fai, questo attacco infligge 40 danni in più.",
+        "es": "Puedes descartar 1 carta de Objeto de tu mano. Si lo haces, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Clobber",
+        "fr": "Tabassage",
+        "de": "Vermöbeln",
+        "it": "Mazzata",
+        "es": "Aporreo"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la carta in cima al mazzo del tuo avversario.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Hammer Arm",
+        "fr": "Marto-Poing",
+        "de": "Hammerarm",
+        "it": "Martelpugno",
+        "es": "Machada"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_068_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pangoro",
+    "fr": "Pandarbare",
+    "de": "Pandagro",
+    "it": "Pangoro",
+    "pt": "Pangoro",
+    "es": "Pangoro"
+  },
+  "number": "68",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "FFI",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

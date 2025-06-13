@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "かみつく"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "120",
+      "effect": {
+        "jp": "相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "ジェットドラフト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_56_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_56_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_56_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "プテラ"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "XY10",
+  "stage": "restored",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

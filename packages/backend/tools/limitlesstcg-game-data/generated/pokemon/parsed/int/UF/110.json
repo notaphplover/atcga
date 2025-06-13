@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn when you play Typhlosion ex from your hand to evolve 1 of your Pokémon, count the number of your opponent's Benched Pokémon. You may search your deck for up to that number of [R] Energy cards and attach them to 1 of your [R] Pokémon. Shuffle your deck afterward.",
+  "abilityName": "Bursting Up",
+  "attacks": [
+    {
+      "cost": "rrcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard an Energy card attached to Typhlosion ex and then discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Kindle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/110_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/110.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/110.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Typhlosion ex"
+  },
+  "number": "110",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water",
+    "fighting"
+  ]
+}

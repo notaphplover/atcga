@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "手札からこのポケモンに[水]エネルギーをつけるたび、このポケモンのHPを「20」回復する。",
+  "abilityName": "うるおいボディ",
+  "attacks": [
+    {
+      "cost": "wyc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "この番、このポケモンのHPを回復していたなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "ぬれたつの"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_68_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_68_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6/SM6_68_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヌメルゴン"
+  },
+  "number": "68",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM6",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

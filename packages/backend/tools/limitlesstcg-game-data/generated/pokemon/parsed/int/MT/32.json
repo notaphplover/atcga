@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose 1 of your opponent's Pokémon. Ninetales is the same type as that Pokémon (all if that Pokémon is more than 1 type) until the end of your turn. This power can't be used if Ninetales is affected by a Special Condition.",
+  "abilityName": "Color Shift",
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Ninetales."
+      },
+      "name": {
+        "en": "Fire Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ninetales"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

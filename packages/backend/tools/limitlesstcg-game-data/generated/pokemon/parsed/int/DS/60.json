@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Beat"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Cubone."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cubone"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

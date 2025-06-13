@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Prevent all effects of an attack, including damage, done to Regice Star by your opponent's Pokémon-ex during your opponent's next turn."
+      },
+      "name": {
+        "en": "Ice Barrier"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "30",
+      "effect": {
+        "en": "If your opponent has only 1 Prize card left and Regice Star is the only Pokémon you have in play, this attack does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Final Blizzard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regice Star"
+  },
+  "number": "90",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

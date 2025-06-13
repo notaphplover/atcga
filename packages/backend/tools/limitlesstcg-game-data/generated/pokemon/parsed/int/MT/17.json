@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If your opponent has only 1 Prize card left, this attack does 40 damage plus 40 more damage and discard the top 3 cards from your opponent's deck."
+      },
+      "name": {
+        "en": "Payback"
+      }
+    },
+    {
+      "cost": "ffdd",
+      "dmg": "80+",
+      "effect": {
+        "en": "Each player discards the top card of his or her deck. This attack does 80 damage plus 20 more damage for each Energy card discarded in this way."
+      },
+      "name": {
+        "en": "Ground Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar"
+  },
+  "number": "17",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

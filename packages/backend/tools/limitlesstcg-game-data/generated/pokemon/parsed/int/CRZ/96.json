@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "200",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout effet en action sur le Pokémon Actif de votre adversaire.",
+        "de": "Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza, o da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+        "pt": "O dano deste ataque não é afetado por Fraqueza ou Resistência, ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
+        "es": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Break Edge",
+        "fr": "Brise-Lame",
+        "de": "Brechklinge",
+        "it": "Frangilama",
+        "pt": "Gume Destruidor",
+        "es": "Filo Rompedor"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "310",
+      "effect": {
+        "en": "This Pokémon also does 30 damage to itself. (You can't use more than 1 VSTAR Power in a game.)",
+        "fr": "Ce Pokémon s'inflige aussi 30 dégâts. (Vous ne pouvez utiliser qu’une seule Puissance VSTAR par partie.)",
+        "de": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu. (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+        "it": "Questo Pokémon infligge anche 30 danni a se stesso. Non puoi usare più di un Potere V ASTRO a partita.",
+        "pt": "Este Pokémon também causa 30 pontos de dano a si mesmo (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+        "es": "Este Pokémon también se hace 30 puntos de daño a sí mismo. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      },
+      "name": {
+        "en": "Sword Star",
+        "fr": "Star Épée",
+        "de": "Schwertstern",
+        "it": "Astro Spada",
+        "pt": "Espada Astral",
+        "es": "Astro Espada"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_096_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zacian VSTAR",
+    "fr": "Zacian VSTAR",
+    "de": "Zacian VSTAR",
+    "it": "Zacian V ASTRO",
+    "pt": "Zacian V-ASTRO",
+    "es": "Zacian V-ASTRO"
+  },
+  "number": "96",
+  "rarity": "rrr",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "CRZ",
+  "stage": "vstar",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a [L] Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Attract Current"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If Jolteon has 3 of more different types of basic Energy cards attached to it, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Multi Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

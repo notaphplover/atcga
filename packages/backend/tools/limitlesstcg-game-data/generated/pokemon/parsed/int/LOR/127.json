@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "en": "If your opponent has a Stadium in play, discard it. If you discarded a Stadium in this way, discard 2 Energy from your opponent's Active Pokémon.",
+        "fr": "Si votre adversaire a un Stade en jeu, défaussez-le. Si vous avez défaussé un Stade de cette façon, défaussez 2 Énergies du Pokémon Actif de votre adversaire.",
+        "de": "Wenn dein Gegner eine Stadionkarte im Spiel hat, lege sie auf seinen Ablagestapel. Wenn du auf diese Weise eine Stadionkarte auf seinen Ablagestapel gelegt hast, lege 2 Energien vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Se il tuo avversario ha una carta Stadio in gioco, scartala. Se hai scartato una carta Stadio in questo modo, scarta due Energie dal Pokémon attivo del tuo avversario.",
+        "pt": "Se o seu oponente tiver um Estádio em jogo, descarte-o. Se você descartou 1 Estádio desta forma, descarte 2 Energias do Pokémon Ativo do seu oponente.",
+        "es": "Si tu rival tiene un Estadio en juego, descártalo. Si has descartado un Estadio de esta manera, descarta 2 Energías del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Field Trap",
+        "fr": "Piège de Terrain",
+        "de": "Feldfalle",
+        "it": "Trappola in Campo",
+        "pt": "Armadilha de Campo",
+        "es": "Trampa de Campo"
+      }
+    },
+    {
+      "cost": "mc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Tackle",
+        "fr": "Charge",
+        "de": "Tackle",
+        "it": "Azione",
+        "pt": "Investida",
+        "es": "Placaje"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOR/LOR_127_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Galarian Stunfisk",
+    "fr": "Limonde de Galar",
+    "de": "Galar-Flunschlik",
+    "it": "Stunfisk di Galar",
+    "pt": "Stunfisk de Galar",
+    "es": "Stunfisk de Galar"
+  },
+  "number": "127",
+  "rarity": "u",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "LOR",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

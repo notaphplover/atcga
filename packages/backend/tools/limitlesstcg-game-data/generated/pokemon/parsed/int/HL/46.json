@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Rhydon is your Active Pokémon, prevent all damage done by attacks to all of your Benched Pokémon.",
+  "abilityName": "Power Diffusion",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Horn Drill"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon has any Poké-Powers or Poké-Bodies, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Hyper Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhydon"
+  },
+  "number": "46",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

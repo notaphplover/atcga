@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nosepass"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

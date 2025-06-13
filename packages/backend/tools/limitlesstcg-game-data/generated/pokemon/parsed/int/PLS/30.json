@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 20 danni in più.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 20 puntos de daño más."
+      },
+      "name": {
+        "en": "Jump On",
+        "fr": "Saut",
+        "de": "Draufspringen",
+        "it": "Salta Su",
+        "es": "Asaltar"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Wave Splash",
+        "fr": "Grosse Vague",
+        "de": "Wellenplatscher",
+        "it": "Schizzi d'Onda",
+        "es": "Chapoteo Ondulante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_030_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lombre",
+    "fr": "Lombre",
+    "de": "Lombrero",
+    "it": "Lombre",
+    "pt": "Lombre",
+    "es": "Lombre"
+  },
+  "number": "30",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PLS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

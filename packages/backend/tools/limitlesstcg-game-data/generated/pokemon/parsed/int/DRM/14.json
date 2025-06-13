@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned. It can't retreat during your opponent's next turn.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé. Il ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt. Es kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato. Durante il prossimo turno del tuo avversario, quel Pokémon non può ritirarsi.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Quemado. No puede retirarse durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Ring of Fire",
+        "fr": "Anneau de Feu",
+        "de": "Feuerring",
+        "it": "Anello di Fuoco",
+        "es": "Anillo de Fuego"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard an Energy from this Pokémon.",
+        "fr": "Défaussez une Énergie de ce Pokémon.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon.",
+        "es": "Descarta 1 Energía de este Pokémon."
+      },
+      "name": {
+        "en": "Flamethrower",
+        "fr": "Lance-Flammes",
+        "de": "Flammenwurf",
+        "it": "Lanciafiamme",
+        "es": "Lanzallamas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRM/DRM_014_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salazzle",
+    "fr": "Malamandre",
+    "de": "Amfira",
+    "it": "Salazzle",
+    "pt": "Salazzle",
+    "es": "Salazzle"
+  },
+  "number": "14",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DRM",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Mushroom Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Paras"
+  },
+  "number": "92",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

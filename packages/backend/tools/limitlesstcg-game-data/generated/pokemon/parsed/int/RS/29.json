@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Attach 1 Energy card from your discard pile to your Active Pokémon."
+      },
+      "name": {
+        "en": "Energy Call"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Energy attached to Delcatty but not used to pay for this attack's Energy cost."
+      },
+      "name": {
+        "en": "Cannonball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Delcatty"
+  },
+  "number": "29",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

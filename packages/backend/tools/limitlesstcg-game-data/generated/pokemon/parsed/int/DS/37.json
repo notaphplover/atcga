@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.",
+  "abilityName": "Duplicate",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Ditto."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ditto"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

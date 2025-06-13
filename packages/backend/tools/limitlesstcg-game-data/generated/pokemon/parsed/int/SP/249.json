@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "120",
+      "effect": {
+        "en": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon V. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Axe Break"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "30×",
+      "effect": {
+        "en": "This attack does 30 damage for each Pokémon in your discard pile. (You can't use more than 1 VSTAR Power in a game.)"
+      },
+      "name": {
+        "en": "Rampaging Star"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_249_R_EN.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_249_R_EN_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_249_R_EN_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kleavor VSTAR"
+  },
+  "number": "249",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "vstar",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

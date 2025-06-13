@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/70_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/70.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/70.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "70",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N1",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

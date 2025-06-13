@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, Marowak can't use Heavy Bone during your next turn."
+      },
+      "name": {
+        "en": "Heavy Bone"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 50 damage times the number of heads."
+      },
+      "name": {
+        "en": "Bone Rush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/63_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/63.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/63.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marowak"
+  },
+  "number": "63",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の山札から好きなカードを1枚選ぶ。残りの山札を切り、選んだカードを山札の上にもどす。",
+  "abilityName": "じならし",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "かえん"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マグカルゴ"
+  },
+  "number": "10",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM6b",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

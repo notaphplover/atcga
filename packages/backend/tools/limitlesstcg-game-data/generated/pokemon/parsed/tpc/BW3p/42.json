@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "いしあたま"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "相手のバトルポケモンの残りHPが、このポケモンの残りHPより多いなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ぶっこみキック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW3p/BW3p_42_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW3p/BW3p_42_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW3p/BW3p_42_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ズルズキン"
+  },
+  "number": "42",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "BW3p",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

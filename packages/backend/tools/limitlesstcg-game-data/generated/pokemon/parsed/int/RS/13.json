@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach a [W] Energy card from your hand to your Active Pokémon. This power can't be used if Swampert is affected by a Special Condition.",
+  "abilityName": "Water Call",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypno Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swampert"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "RS",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

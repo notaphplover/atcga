@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as your opponent has any Pokémon-ex as his or her Active Pokémon, the Retreat Cost for Rattata is 0.",
+  "abilityName": "Scramble",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 10 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/71_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/71.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/71.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rattata"
+  },
+  "number": "71",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

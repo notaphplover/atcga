@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each damage counter on Rhyperior."
+      },
+      "name": {
+        "en": "Raging Drill"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60",
+      "effect": {
+        "en": "If the Defending Pokémon would be Knocked Out by this attack, discard the top 3 cards from your opponent's deck."
+      },
+      "name": {
+        "en": "Deep Scrap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhyperior"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "SV",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

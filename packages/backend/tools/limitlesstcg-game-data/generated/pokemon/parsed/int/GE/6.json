@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may discard a basic Energy card from your hand. Porygon-Z is the same type as that Energy Card until the end of your turn. This power can't be used if Porygon-Z is affected by a Special Condition.",
+  "abilityName": "Conversion",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Tri Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Porygon-Z"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

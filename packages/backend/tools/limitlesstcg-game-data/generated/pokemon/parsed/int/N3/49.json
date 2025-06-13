@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads you get."
+      },
+      "name": {
+        "en": "Needle Storm"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Qwilfish"
+  },
+  "number": "49",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

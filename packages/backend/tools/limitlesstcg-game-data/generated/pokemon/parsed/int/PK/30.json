@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Glacia's Stadium is in play, any damage done to Glalie by attacks from your opponent's Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+  "abilityName": "Synergy Effect",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Powder Snow"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Glalie does 10 damage to itself."
+      },
+      "name": {
+        "en": "Double-edge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glalie"
+  },
+  "number": "30",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

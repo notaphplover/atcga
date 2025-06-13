@@ -1,0 +1,86 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Hammer In",
+        "fr": "Enfoncement",
+        "de": "Einhämmern",
+        "it": "Martello",
+        "pt": "Martelada",
+        "es": "Martillear"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "100+",
+      "effect": {
+        "en": "Flip 2 coins. If both of them are heads, this attack does 100 more damage.",
+        "fr": "Lancez 2 pièces. Si vous obtenez 2 côtés face, cette attaque inflige 100 dégâts supplémentaires.",
+        "de": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu.",
+        "it": "Lancia due volte una moneta. Se esce entrambe le volte testa, questo attacco infligge 100 danni in più.",
+        "pt": "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 100 pontos de dano a mais.",
+        "es": "Lanza 2 monedas. Si sale cara en ambas, este ataque hace 100 puntos de daño más."
+      },
+      "name": {
+        "en": "Dangerous Wave",
+        "fr": "Vague Dangereuse",
+        "de": "Gefährliche Welle",
+        "it": "Onda Pericolosa",
+        "pt": "Onda Perigosa",
+        "es": "Ola Peligrosa"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_012_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dondozo",
+    "fr": "Oyacata",
+    "de": "Heerashai",
+    "it": "Dondozo",
+    "pt": "Dondozo",
+    "es": "Dondozo"
+  },
+  "number": "12",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SVP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "20",
+      "effect": {
+        "en": "Search your discard pile for a [F] Energy card and attach it to Hippowdon."
+      },
+      "name": {
+        "en": "Vacuum Sand"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin for each [F] Energy attached to Hippowdon. This attack does 50 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Sand Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hippowdon"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

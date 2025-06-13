@@ -1,0 +1,85 @@
+{
+  "abilityEffect": "Once during your turn, when this Pokémon moves from your Bench to become your Active Pokémon, you may move any number of [R] Energy from your other Pokémon to it.",
+  "abilityName": "Burning Road",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "130",
+      "effect": {},
+      "name": {
+        "en": "Steaming Stomp",
+        "fr": "Piétinement Fumant",
+        "de": "Dampfstampfer",
+        "it": "Pestata Incandescente",
+        "es": "Pisotón Humeante"
+      }
+    },
+    {
+      "cost": "r",
+      "dmg": "50×",
+      "effect": {
+        "en": "This attack does 50 damage times the amount of [R] Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 50 dégâts multipliés par le nombre d'Énergies [R] attachées à ce Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 50 Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten [R]-Energien zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 50 danni per ogni Energia [R] assegnata a questo Pokémon. Non puoi usare più di un attacco GX a partita.",
+        "es": "Este ataque hace 50 puntos de daño por cada Energía [R] unida a este Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Hot Burn-GX",
+        "fr": "Brûlure Torride-GX",
+        "de": "Hitzebrand-GX",
+        "it": "Colata Rovente-GX",
+        "es": "Quemadura Caliente-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_025_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heatran-GX",
+    "fr": "Heatran-GX",
+    "de": "Heatran-GX",
+    "it": "Heatran-GX",
+    "pt": "Heatran-GX",
+    "es": "Heatran-GX"
+  },
+  "number": "25",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UNM",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

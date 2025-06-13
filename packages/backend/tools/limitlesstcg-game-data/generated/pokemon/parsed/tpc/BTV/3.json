@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "ひっかく"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "80×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x80ダメージ。"
+      },
+      "name": {
+        "jp": "ダブルファイヤー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BTV/BTV_3_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BTV/BTV_3_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BTV/BTV_3_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バオッキー"
+  },
+  "number": "3",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BTV",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does no damage to the Defending Pokémon and Giovanni's Machoke does 100 damage to itself."
+      },
+      "name": {
+        "en": "Risky Attack"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and the Defending Pokémon is now Paralyzed. If tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Headlock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Machoke"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

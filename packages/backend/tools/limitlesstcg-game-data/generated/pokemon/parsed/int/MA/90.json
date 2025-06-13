@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "As long as Cradily ex is your Active Pokémon, your opponent can't play a Pokémon from his or her hand to evolve his or her Active Pokémon.",
+  "abilityName": "Primal Vibes",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Eerie Light"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned and Burned."
+      },
+      "name": {
+        "en": "Acidic Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cradily ex"
+  },
+  "number": "90",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "water",
+    "fire"
+  ]
+}

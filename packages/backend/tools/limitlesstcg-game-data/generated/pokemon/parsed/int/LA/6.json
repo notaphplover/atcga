@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move a [R] Energy attached to 1 of your Pokémon to Heatran. This power can't be used if Heatran is affected by a Special Condition.",
+  "abilityName": "Flash Fire",
+  "attacks": [
+    {
+      "cost": "rrcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard as many basic Energy cards as you like attached to Heatran. If you do, this attack does 40 damage plus 20 more damage for each Energy card you discarded."
+      },
+      "name": {
+        "en": "Magma Storm"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heatran"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

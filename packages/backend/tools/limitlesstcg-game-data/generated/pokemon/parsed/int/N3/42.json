@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage. If tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Positive Ion"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "If the Defending Pokémon attacks Chinchou during your opponent's next turn, any damage done to Chinchou is reduced by 10 (before applying Weakness and Resistance). (Benching or evolving either Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Negative Ion"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Chinchou"
+  },
+  "number": "42",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

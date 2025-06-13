@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, discard 1 Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Thrust"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Rising Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Makuhita"
+  },
+  "number": "65",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

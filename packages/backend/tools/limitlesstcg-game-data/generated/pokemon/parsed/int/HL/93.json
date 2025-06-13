@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Groudon ex is your Active Pokémon, each player's Kyogre ex and Rayquaza ex can't attack.",
+  "abilityName": "Mark of Antiquity",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "50+",
+      "effect": {
+        "en": "You may discard from your hand as many Energy cards as you like. If you do, this attack does 50 damage plus 10 more damage for each Energy card you discarded."
+      },
+      "name": {
+        "en": "Crushing Mantle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/93_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/93.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/93.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Groudon ex"
+  },
+  "number": "93",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

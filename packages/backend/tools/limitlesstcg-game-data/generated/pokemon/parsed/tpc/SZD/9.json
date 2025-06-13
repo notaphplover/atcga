@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "40",
+      "effect": {
+        "jp": "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。"
+      },
+      "name": {
+        "jp": "くいつくす"
+      }
+    },
+    {
+      "cost": "pdcc",
+      "dmg": "90",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "デストロイビーム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_9_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_9_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SZD/SZD_9_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サザンドラ"
+  },
+  "number": "9",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SZD",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

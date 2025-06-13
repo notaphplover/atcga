@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon (1 if there is only 1). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spark"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 40 more damage to the Defending Pokémon and discard all [L] Energy cards attached to Raichu."
+      },
+      "name": {
+        "en": "Kerzap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "13",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

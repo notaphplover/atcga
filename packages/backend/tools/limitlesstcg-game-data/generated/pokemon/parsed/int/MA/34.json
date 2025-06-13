@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Target Scorch"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Damage Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Houndoom"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

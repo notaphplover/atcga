@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 10 dégâts pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 10 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 10 danni ogni volta che esce testa.",
+        "pt": "Jogue 2 moedas. Este ataque causa 10 pontos de dano para cada cara.",
+        "es": "Lanza 2 monedas. Este ataque hace 10 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Headbutt",
+        "fr": "Double Coup d'Boule",
+        "de": "Doppelte Kopfnuss",
+        "it": "Doppia Bottintesta",
+        "pt": "Cabeçada Dupla",
+        "es": "Doble Cabezazo"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Seed Bomb",
+        "fr": "Canon Graine",
+        "de": "Samenbomben",
+        "it": "Semebomba",
+        "pt": "Bomba de Sementes",
+        "es": "Bomba Germen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_006_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shroomish",
+    "fr": "Balignon",
+    "de": "Knilz",
+    "it": "Shroomish",
+    "pt": "Shroomish",
+    "es": "Shroomish"
+  },
+  "number": "6",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TEF",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

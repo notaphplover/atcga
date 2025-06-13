@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Chop"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage times the number of damage counters on Giovanni's Machop."
+      },
+      "name": {
+        "en": "Fury Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/72_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/72.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/72.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giovanni's Machop"
+  },
+  "number": "72",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

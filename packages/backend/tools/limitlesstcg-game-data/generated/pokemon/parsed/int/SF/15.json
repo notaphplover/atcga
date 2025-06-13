@@ -1,0 +1,63 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Scorpion Grapple"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads. If 2 or more of them are heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Cross Poison"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard all Special Energy cards attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Derail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drapion"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

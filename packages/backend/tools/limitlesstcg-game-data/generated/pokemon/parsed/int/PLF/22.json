@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Laid-Back",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If this Pokémon has any [F] Energy attached to it, this attack does 30 more damage.",
+        "fr": "Si de l'Énergie [F] est attachée à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon bereits [F]-Energie angelegt ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+        "it": "Se questo Pokémon ha delle Energie [F] assegnate, questo attacco infligge 30 danni in più.",
+        "es": "Si este Pokémon tiene alguna Energía [F] unida a él, este ataque hace 30 puntos de daño más."
+      },
+      "name": {
+        "en": "Mud Gun",
+        "fr": "Giclée de Boue",
+        "de": "Schlammkanone",
+        "it": "Pistolfango",
+        "es": "Pistola Lodo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_022_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quagsire",
+    "fr": "Maraiste",
+    "de": "Morlord",
+    "it": "Quagsire",
+    "pt": "Quagsire",
+    "es": "Quagsire"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

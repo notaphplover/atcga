@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the amount of Energy attached to all of your opponent's Pokémon.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre d'Énergies attachées à tous les Pokémon de votre adversaire.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der an allen Pokémon deines Gegners angelegten Energien zu.",
+        "it": "Infligge 20 danni per ogni Energia assegnata ai Pokémon del tuo avversario.",
+        "es": "Hace 20 puntos de daño por cada Energía unida a todos los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Energy Crush",
+        "fr": "Écras'Énergie",
+        "de": "Zermalmende Energie",
+        "it": "Sgretolenergia",
+        "es": "Comprimir Energía"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Does 20 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 20 dégâts à 1 de vos Pokémon. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt 1 deiner Pokémon 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 20 danni a uno dei tuoi Pokémon. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Hace 20 puntos de daño a 1 de tus Pokémon. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Flash Impact",
+        "fr": "Impact-Flash",
+        "de": "Blitzeinschlag",
+        "it": "Impattoflash",
+        "es": "Impacto Resplandor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_043_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Manectric",
+    "fr": "Élecsprint",
+    "de": "Voltenso",
+    "it": "Manectric",
+    "pt": "Manectric",
+    "es": "Manectric"
+  },
+  "number": "43",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DRX",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each damage counter on Golem GL."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Golem E4 does 60 damage to itself."
+      },
+      "name": {
+        "en": "Double-edge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golem E4"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

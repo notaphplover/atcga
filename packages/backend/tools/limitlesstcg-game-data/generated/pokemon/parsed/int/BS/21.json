@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "At any time during your turn (before your attack), you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card (instead of a Pokémon) that provides 2 energy of that type. You can't use this power if Electrode is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Buzzap",
+  "attacks": [
+    {
+      "cost": "lll",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, Electrode does 10 damage to itself."
+      },
+      "name": {
+        "en": "Electric Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base1/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base1/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base1/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

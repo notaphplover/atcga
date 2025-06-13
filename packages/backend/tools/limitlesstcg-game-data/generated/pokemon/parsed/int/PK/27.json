@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Sidney's Stadium is in play, you may choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. This power can't be used if Cacturne is affected by a Special Condition.",
+  "abilityName": "Poison Structure",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Pin Missile"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cacturne"
+  },
+  "number": "27",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

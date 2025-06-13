@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the amount of Energy attached to the Defending Pokémon.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre de cartes Énergie attachées au Pokémon Défenseur.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der an das Verteidigende Pokémon angelegten Energien zu.",
+        "it": "Infligge 20 danni per ogni Energia assegnata al Pokémon Difensore.",
+        "es": "Hace 20 puntos de daño por cada Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Psywave",
+        "fr": "Vague psy",
+        "de": "Psywelle",
+        "it": "Psico-Onda",
+        "es": "Psicoonda"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus.",
+        "de": "Wirf eine Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Confuso.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Confuso."
+      },
+      "name": {
+        "en": "Confuse Ray",
+        "fr": "Onde folie",
+        "de": "Konfustrahl",
+        "it": "Stordiraggio",
+        "es": "Rayo confuso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_011_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Xatu",
+    "fr": "Xatu",
+    "de": "Xatu",
+    "it": "Xatu",
+    "pt": "Xatu",
+    "es": "Xatu"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "UL",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

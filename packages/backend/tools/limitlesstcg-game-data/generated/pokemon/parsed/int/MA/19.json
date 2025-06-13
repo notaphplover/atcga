@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for a basic Energy card and attach it to Team Magma's Camerupt. Put 2 damage counters on Team Mamga's Camerupt. This power can't be used if Team Magma's Camerupt is affected by a Special Condition.",
+  "abilityName": "Overheat",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may move a [R] Energy card attached to Team Magma's Camerupt to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Flame Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Camerupt"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

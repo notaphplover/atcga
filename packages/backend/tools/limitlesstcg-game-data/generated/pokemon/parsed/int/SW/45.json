@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove from Breloom a number of damage counters equal to the amount of Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Drain Punch"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon's Retreat Cost is 0, this attack does 60 damage plus 60 more damage."
+      },
+      "name": {
+        "en": "Homing Uppercut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Breloom"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

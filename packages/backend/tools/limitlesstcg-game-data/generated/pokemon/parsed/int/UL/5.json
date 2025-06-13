@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move a [P] Energy attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Mismagius is affected by a Special Condition.",
+  "abilityName": "Magical Trans",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 10 dégâts à chacun des Pokémon se trouvant sur le Banc de votre adversaire et ayant des marqueurs de dégât. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners, auf dem bereits mindestens 1 Schadensmarke liegt, 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 10 danni a ciascuno dei Pokémon del tuo avversario con dei segnalini danno su di sé. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina).",
+        "es": "Hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival que tenga un contador de daño. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Psychic Pulse",
+        "fr": "Vibration psy",
+        "de": "Psychopuls",
+        "it": "Psicoimpulso",
+        "es": "Pulso psíquico"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_005_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mismagius",
+    "fr": "Magirêve",
+    "de": "Traunmagil",
+    "it": "Mismagius",
+    "pt": "Mismagius",
+    "es": "Mismagius"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "UL",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

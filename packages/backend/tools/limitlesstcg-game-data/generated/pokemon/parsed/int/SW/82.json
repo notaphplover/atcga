@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gnaw"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Lava Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/82_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/82.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/82.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmander"
+  },
+  "number": "82",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

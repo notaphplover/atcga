@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "40",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused. During your opponent's next turn, that Pokémon can't retreat.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus. Pendant le prochain tour de votre adversaire, ce Pokémon-là ne peut pas battre en retraite.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt. Während des nächsten Zuges deines Gegners kann sich jenes Pokémon nicht zurückziehen.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso. Durante il prossimo turno del tuo avversario, quel Pokémon non può ritirarsi.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso. Durante o próximo turno do seu oponente, aquele Pokémon não poderá recuar.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido. Durante el próximo turno de tu rival, ese Pokémon no puede retirarse."
+      },
+      "name": {
+        "en": "Gooped Up",
+        "fr": "Engluement",
+        "de": "Verklebt",
+        "it": "Invischiato",
+        "pt": "Melecado",
+        "es": "Pringue"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "100×",
+      "effect": {
+        "en": "This attack does 100 damage for each Special Condition affecting your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 100 dégâts pour chaque État Spécial affectant le Pokémon Actif de votre adversaire.",
+        "de": "Diese Attacke fügt für jeden Speziellen Zustand, von dem das Aktive Pokémon deines Gegners betroffen ist, 100 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 100 danni per ogni condizione speciale che influenza il Pokémon attivo del tuo avversario.",
+        "pt": "Este ataque causa 100 pontos de dano para cada Condição Especial afetando o Pokémon Ativo do seu oponente.",
+        "es": "Este ataque hace 100 puntos de daño por cada Condición Especial que afecte al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Hazardous Venom",
+        "fr": "Venin Nocif",
+        "de": "Bedrohliches Gift",
+        "it": "Veleno Pericoloso",
+        "pt": "Veneno Periculoso",
+        "es": "Veneno Nocivo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_124_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Rocket's Muk",
+    "fr": "Grotadmorv de la Team Rocket",
+    "de": "Team Rockets Sleimok",
+    "it": "Muk del Team Rocket",
+    "pt": "Muk da Equipe Rocket",
+    "es": "Muk del Team Rocket"
+  },
+  "number": "124",
+  "rarity": "u",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DRI",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

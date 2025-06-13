@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Granbull is your Active Pokémon, any damage done by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Intimidating Fang",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Crushing Blow"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Lariat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Granbull"
+  },
+  "number": "39",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

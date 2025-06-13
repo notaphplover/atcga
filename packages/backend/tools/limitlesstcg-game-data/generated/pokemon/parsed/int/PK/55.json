@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Cross Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/55_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/55.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/55.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meditite"
+  },
+  "number": "55",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

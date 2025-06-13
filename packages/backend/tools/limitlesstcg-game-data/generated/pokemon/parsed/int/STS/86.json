@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés par les attaques du Pokémon Défenseur sont réduits de 40 (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 40 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il prossimo turno del tuo avversario, i danni inflitti dagli attacchi del Pokémon difensore sono ridotti di 40, prima di aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, cualquier daño infligido por ataques del Pokémon Defensor se reduce en 40 (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Cruel Fang",
+        "fr": "Croc Cruel",
+        "de": "Grausame Fänge",
+        "it": "Zanne Crudeli",
+        "es": "Colmillo Cruel"
+      }
+    },
+    {
+      "cost": "pdc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Discard as many [D] Energy attached to your Pokémon as you like. This attack does 50 damage times the amount of [D] Energy you discarded in this way.",
+        "fr": "Défaussez autant d'Énergies [D] attachées à vos Pokémon que vous voulez. Cette attaque inflige 50 dégâts multipliés par le nombre de cartes Énergie [D] défaussées de cette façon.",
+        "de": "Lege beliebig viele an deine Pokémon angelegte [D]-Energien auf deinen Ablagestapel. Dieser Angriff fügt 50 Schadenspunkte für jede der auf diese Weise abgelegte [D]-Energie zu.",
+        "it": "Scarta a piacimento le Energie [D] assegnate ai tuoi Pokémon. Questo attacco infligge 50 danni per ogni carta Energia [D] che hai scartato in questo modo.",
+        "es": "Descarta tantas Energías [D] unidas a tus Pokémon como quieras. Este ataque hace 50 puntos de daño por cada Energía [D] que hayas descartado de esta manera."
+      },
+      "name": {
+        "en": "Dark Burn",
+        "fr": "Brûlure Obscure",
+        "de": "Schwarzer Brand",
+        "it": "Bruciabuio",
+        "es": "Quemadura Oscura"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_086_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hydreigon",
+    "fr": "Trioxhydre",
+    "de": "Trikephalo",
+    "it": "Hydreigon",
+    "pt": "Hydreigon",
+    "es": "Hydreigon"
+  },
+  "number": "86",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "STS",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

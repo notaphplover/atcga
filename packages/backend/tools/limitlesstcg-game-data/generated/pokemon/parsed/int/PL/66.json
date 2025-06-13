@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Zangoose can't be affected by any Special Conditions.",
+  "abilityName": "Thick Skin",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Chop Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/66_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/66.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/66.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zangoose"
+  },
+  "number": "66",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

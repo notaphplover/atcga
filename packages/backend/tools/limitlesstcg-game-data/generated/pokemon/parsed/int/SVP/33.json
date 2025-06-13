@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "You must discard a Basic [G] Energy card from your hand in order to use this Ability. Once during your turn, you may put 3 damage counters on 1 of your opponent's Benched Pokémon.",
+  "abilityName": "Bouquet Magic",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "100+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire a déjà au moins un marqueur de dégâts, cette attaque inflige 120 dégâts supplémentaires.",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners mindestens 1 Schadensmarke liegt, fügt diese Attacke 120 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario ha già dei segnalini danno, questo attacco infligge 120 danni in più.",
+        "pt": "Se o Pokémon Ativo do seu oponente já tiver algum contador de dano nele, este ataque causará 120 pontos de dano a mais.",
+        "es": "Si el Pokémon Activo de tu rival ya tiene algún contador de daño sobre él, este ataque hace 120 puntos de daño más."
+      },
+      "name": {
+        "en": "Scratching Nails",
+        "fr": "Griffes Griffantes",
+        "de": "Kratzende Krallen",
+        "it": "Unghie Graffianti",
+        "pt": "Unhas Arranhadoras",
+        "es": "Uñas Rasgadoras"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 310,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_033_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meowscarada ex",
+    "fr": "Miascarade-ex",
+    "de": "Maskagato-ex",
+    "it": "Meowscarada-ex",
+    "pt": "Meowscarada ex",
+    "es": "Meowscarada ex"
+  },
+  "number": "33",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

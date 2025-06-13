@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 20 dégâts à l'un des Pokémon du Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon du Banc.)",
+        "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 20 danni a 1 dei Pokémon nella Panchina del tuo avversario. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina).",
+        "es": "Hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Muddy Water",
+        "fr": "Ocroupi",
+        "de": "Lehmbrühe",
+        "it": "Fanghiglia",
+        "es": "Agua lodosa"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Mud Shot",
+        "fr": "Tir de boue",
+        "de": "Lehmschuss",
+        "it": "Colpodifango",
+        "es": "Disparo lodo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_009_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quagsire",
+    "fr": "Maraiste",
+    "de": "Morlord",
+    "it": "Quagsire",
+    "pt": "Quagsire",
+    "es": "Quagsire"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "HS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

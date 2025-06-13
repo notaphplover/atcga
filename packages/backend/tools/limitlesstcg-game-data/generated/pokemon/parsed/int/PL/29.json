@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "30",
+      "effect": {
+        "en": "If your opponent has any [W] Energy attached to any of his or her Pokémon, you may do 30 damage to any 1 Benched Pokémon instead. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Swim"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may move all Energy cards attached to Golduck to 1 of your Benched Pokémon. If you do, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Water Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golduck"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

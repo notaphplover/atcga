@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "lll",
+      "dmg": "40",
+      "effect": {
+        "en": "You may discard all [L] Energy cards attached to Raichu. If you do, this attack does 80 damage."
+      },
+      "name": {
+        "en": "Lightning Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

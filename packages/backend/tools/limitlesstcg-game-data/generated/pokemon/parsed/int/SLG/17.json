@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage.",
+        "fr": "Si des marqueurs de dégâts sont placés sur vos Pokémon de Banc, cette attaque inflige 80 dégâts supplémentaires.",
+        "de": "Wenn auf den Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+        "it": "Se i tuoi Pokémon in panchina hanno dei segnalini danno, questo attacco infligge 80 danni in più.",
+        "es": "Si tus Pokémon en Banca tienen algún contador de daño sobre ellos, este ataque hace 80 puntos de daño más."
+      },
+      "name": {
+        "en": "Profane Punch",
+        "fr": "Poing Vulgaire",
+        "de": "Ruchloshieb",
+        "it": "Pugno Ribelle",
+        "es": "Puñetazo Profano"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "180",
+      "effect": {
+        "en": "Discard all [R] Energy from this Pokémon.",
+        "fr": "Défaussez toute l'Énergie [R] de ce Pokémon.",
+        "de": "Lege alle [R]-Energien von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta tutte le Energie [R] assegnate a questo Pokémon.",
+        "es": "Descarta todas las Energías [R] de este Pokémon."
+      },
+      "name": {
+        "en": "Flare Blitz",
+        "fr": "Boutefeu",
+        "de": "Flammenblitz",
+        "it": "Fuococarica",
+        "es": "Envite Ígneo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SLG/SLG_017_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Incineroar",
+    "fr": "Félinferno",
+    "de": "Fuegro",
+    "it": "Incineroar",
+    "pt": "Incineroar",
+    "es": "Incineroar"
+  },
+  "number": "17",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SLG",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

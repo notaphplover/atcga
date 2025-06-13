@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "f",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way."
+      },
+      "name": {
+        "en": "Hydrocutter"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kabutops"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N2",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

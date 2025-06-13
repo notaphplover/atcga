@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, excluding damage, done to Toxicroak G.",
+  "abilityName": "Anticipation",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon is Poisoned, this attack does 20 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Deep Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toxicroak G"
+  },
+  "number": "40",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

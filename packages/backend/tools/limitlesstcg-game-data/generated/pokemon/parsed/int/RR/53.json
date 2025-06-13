@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the number of Energy cards in your opponent's discard pile. Then, put those Energy cards on top of your opponent's deck. Your opponent shuffles his or her deck afterward."
+      },
+      "name": {
+        "en": "Energy Typhoon"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vibrava"
+  },
+  "number": "53",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

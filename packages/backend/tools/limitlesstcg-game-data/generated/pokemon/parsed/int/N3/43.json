@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gust"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack can't be used during your next turn. (Benching Farfetch'd ends this effect.)"
+      },
+      "name": {
+        "en": "Leek Jab"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Farfetch'd"
+  },
+  "number": "43",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

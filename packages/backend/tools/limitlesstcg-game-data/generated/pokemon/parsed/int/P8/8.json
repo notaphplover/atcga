@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Fasten Claw"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thunder Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop8/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop8/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop8/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Luxio"
+  },
+  "number": "8",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "P8",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

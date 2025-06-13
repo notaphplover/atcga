@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "50×",
+      "effect": {
+        "en": "Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded."
+      },
+      "name": {
+        "en": "Hard Crush"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {
+        "en": "Search your discard pile for all [F] Energy cards, show them to your opponent, and shuffle them into your deck."
+      },
+      "name": {
+        "en": "Upthrow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhyperior LV.X"
+  },
+  "number": "29",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

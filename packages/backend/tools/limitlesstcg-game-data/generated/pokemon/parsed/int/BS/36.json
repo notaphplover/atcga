@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "rr",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Fire Punch"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Magmar in order to use this attack."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base1/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base1/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base1/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BS",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

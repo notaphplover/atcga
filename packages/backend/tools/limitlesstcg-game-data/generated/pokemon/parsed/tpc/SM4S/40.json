@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "わしづかみ"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このワザのダメージで、相手のポケモンがきぜつしたなら、このポケモンとベンチポケモンを入れ替える。"
+      },
+      "name": {
+        "jp": "スカイハンティング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_40_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_40_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM4S/SM4S_40_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ムクホーク"
+  },
+  "number": "40",
+  "rarity": "u",
+  "regulation": "a",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SM4S",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

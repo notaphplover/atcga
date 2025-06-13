@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever 1 of your opponent's Pokémon is Knocked Out by damage from Entei's attacks, discard the top 3 cards from your opponent's deck.",
+  "abilityName": "Burning Coat",
+  "attacks": [
+    {
+      "cost": "rrr",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, discard 2 [R] Energy attached to Entei."
+      },
+      "name": {
+        "en": "Blaze Roar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Entei"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

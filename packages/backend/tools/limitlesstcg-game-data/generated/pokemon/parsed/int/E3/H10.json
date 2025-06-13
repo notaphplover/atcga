@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Gyarados from your hand to evolve your Active Pokémon, you may flip 2 coins. For each heads, discard an Energy card attached to the Defending Pokémon.",
+  "abilityName": "Flame Vapor",
+  "attacks": [
+    {
+      "cost": "wccc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Gyarados has 7 or more damage counters on it, this attack's base damage is 100."
+      },
+      "name": {
+        "en": "Dragon's Vengeance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados"
+  },
+  "number": "H10",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

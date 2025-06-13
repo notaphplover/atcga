@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Lombre has any [W] Energy attached to it, the Retreat Cost for Lombre is 0.",
+  "abilityName": "Aqua Lift",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Ambush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lombre"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

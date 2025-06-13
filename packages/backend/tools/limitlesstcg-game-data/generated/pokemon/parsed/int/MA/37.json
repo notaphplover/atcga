@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Team Magma's Mightyena is your Active Pokémon, you may search your deck for a Pokémon with Team Magma in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Team Magma's Mightyena is affected by a Special Condition.",
+  "abilityName": "Call for Help",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Mightyena"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire dévoile sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano.",
+        "pt": "Seu oponente revela a própria mão.",
+        "es": "Tu rival enseña las cartas de su mano."
+      },
+      "name": {
+        "en": "Pry",
+        "fr": "Fouineur",
+        "de": "Herumschnuppern",
+        "it": "Impiccione",
+        "pt": "Bisbilhotar",
+        "es": "Fisgonear"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FST/FST_068_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Panpour",
+    "fr": "Flotajou",
+    "de": "Sodamak",
+    "it": "Panpour",
+    "pt": "Panpour",
+    "es": "Panpour"
+  },
+  "number": "68",
+  "rarity": "c",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "FST",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Spike Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/102_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/102.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/102.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Corsola"
+  },
+  "number": "102",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

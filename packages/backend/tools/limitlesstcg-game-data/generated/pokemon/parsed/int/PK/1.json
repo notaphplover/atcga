@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top 5 cards from your deck and put them back on top of your deck in any order. This power can't be used if Aggron is affected by a Special Condition.",
+  "abilityName": "Terraforming",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Metal Claw"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Your opponent discards the top card of his or her deck."
+      },
+      "name": {
+        "en": "Mix-Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aggron"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "PK",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

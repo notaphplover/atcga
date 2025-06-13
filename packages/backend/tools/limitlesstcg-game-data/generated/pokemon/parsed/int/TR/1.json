@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "30",
+      "effect": {
+        "en": "You may switch Dark Alakazam with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Teleport Blast"
+      }
+    },
+    {
+      "cost": "ppp",
+      "dmg": "40",
+      "effect": {
+        "en": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      "name": {
+        "en": "Mind Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Alakazam"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TR",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Plunder"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If Sidney's Stadium is in play, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Dark Burst"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mightyena"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 0,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

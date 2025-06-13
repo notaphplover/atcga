@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "As long as Sandslash is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon-ex between turns.",
+  "abilityName": "Delta Storm",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Rend"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandslash"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "fighting",
+    "metal"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

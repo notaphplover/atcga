@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "たたきつぶす"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "この番、手札から「サカキのカリスマ」を出して使っていたなら、140ダメージ追加。"
+      },
+      "name": {
+        "jp": "カリスマドリル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_112_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_112_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_112_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サイドン"
+  },
+  "number": "112",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SV2a",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

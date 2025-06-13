@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "ggg",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage. If tails, this attack does 30 damage."
+      },
+      "name": {
+        "en": "Charging Horn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heracross"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N4",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

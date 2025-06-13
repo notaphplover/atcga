@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Tail Smash"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Charizard."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard"
+  },
+  "number": "39",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

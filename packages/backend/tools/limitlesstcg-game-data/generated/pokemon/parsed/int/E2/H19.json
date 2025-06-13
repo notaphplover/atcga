@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, choose a Special Condition (Asleep, Burned, Confused, Paralyzed, or Poisoned). The Defending Pokémon is now affected by that Special Condition."
+      },
+      "name": {
+        "en": "Miracle Tail"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon is Burned, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Roasting Heat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ninetales"
+  },
+  "number": "H19",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, look at your opponent's hand and choose 1 card. Your opponent discards the card you chose."
+      },
+      "name": {
+        "en": "Flutter Trick"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 3 damage counters instead of 1 on the Defending Pokémon between turns."
+      },
+      "name": {
+        "en": "Triple Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crobat"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "HL",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "くらいつく"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "60×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x60ダメージ。"
+      },
+      "name": {
+        "jp": "ダブルスイング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/Y30/Y30_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/Y30/Y30_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/Y30/Y30_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ワルビル"
+  },
+  "number": "4",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "Y30",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

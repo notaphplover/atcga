@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Lanturn has any [W] Energy attached to it, Lanturn is both [W] and [L] type.",
+  "abilityName": "Dual Armor",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Razor Fin"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 20 more damage for each [W] Energy attached to Lanturn but not used to pay for this attack's Energy cost. You can't add more then 40 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lanturn"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

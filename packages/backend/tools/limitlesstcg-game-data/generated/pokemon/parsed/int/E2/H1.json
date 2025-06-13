@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "50",
+      "effect": {
+        "en": "If you have any Benched Pokémon and if there are any basic Energy cards attached to Ampharos, take 1 of those Energy cards and attach it to 1 of those Pokémon."
+      },
+      "name": {
+        "en": "Reflect Energy"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos"
+  },
+  "number": "H1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のどくのポケモンは、どくでのせるダメカンの数が5個多くなる。",
+  "abilityName": "もうどくしはい",
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "10",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "ポイズンチェーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_75_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_75_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_75_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "モモワロウ"
+  },
+  "number": "75",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

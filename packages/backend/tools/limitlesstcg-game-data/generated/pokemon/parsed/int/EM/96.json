@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Milotic ex is in play, each player can't play any Technical Machine cards from his or her hand. Discard all Technical Machine cards in play (both yours and your opponent's).",
+  "abilityName": "Mystic Scale",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Gentle Wrap"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Move 1 basic Energy card attached to Milotic ex to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Reflect Energy"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic ex"
+  },
+  "number": "96",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

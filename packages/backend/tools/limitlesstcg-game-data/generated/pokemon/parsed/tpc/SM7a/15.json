@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "相手の場に「ポケモンGX・EX」がいるなら、このポケモンのにげるためのエネルギーは、すべてなくなる。",
+  "abilityName": "ワイルドダッシュ",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "このポケモンにも10ダメージ。"
+      },
+      "name": {
+        "jp": "とっしん"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_15_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_15_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_15_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シシコ"
+  },
+  "number": "15",
+  "rarity": "c",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM7a",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

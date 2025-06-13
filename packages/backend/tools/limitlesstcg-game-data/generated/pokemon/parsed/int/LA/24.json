@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for any Deoxys and switch it with Deoxys Attack Forme. (Any cards attached to Deoxys Attack Forme, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys Attack Forme on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your next turn, Deoxys's [P] Boost attack's base damage is 20."
+      },
+      "name": {
+        "en": "Psychic Boost"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys Attack Forme"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

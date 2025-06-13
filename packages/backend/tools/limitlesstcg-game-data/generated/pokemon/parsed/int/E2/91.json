@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "You pay [C] less to retreat Magnemite for each Magnemite on your Bench.",
+  "abilityName": "Conductive Body",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, Magnemite does 10 damage to itself."
+      },
+      "name": {
+        "en": "Magnetic Bomb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnemite"
+  },
+  "number": "91",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

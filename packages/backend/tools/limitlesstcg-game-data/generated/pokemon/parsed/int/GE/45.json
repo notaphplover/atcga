@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Magcargo can't be Asleep or Paralyzed.",
+  "abilityName": "Magma Armor",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may discard the top card of your deck. If you do, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Lava Plume"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

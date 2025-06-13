@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "ぶつかる"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "相手のバトルポケモンのにげるためのエネルギーの数×40ダメージ追加。"
+      },
+      "name": {
+        "jp": "じゅうりょくおとし"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドータクン"
+  },
+  "number": "52",
+  "rarity": "u",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "S10a",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

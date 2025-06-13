@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "自分の番に、このポケモンがベンチからバトル場に出たとき、1回使える。自分の場のポケモンについているエネルギーを好きなだけ、このポケモンにつけ替える。",
+  "abilityName": "せいめいのみち",
+  "attacks": [
+    {
+      "cost": "yyy",
+      "dmg": "160",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「ブライトホーン」が使えない。"
+      },
+      "name": {
+        "jp": "ブライトホーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7b/SM7b_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7b/SM7b_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7b/SM7b_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゼルネアス"
+  },
+  "number": "33",
+  "regulation": "b",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "SM7b",
+  "stage": "basic",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tail Slap"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Icy Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/125_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/125.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/125.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seel"
+  },
+  "number": "125",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

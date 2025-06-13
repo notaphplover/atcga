@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "fr": "Si le Pokémon Défenseur essaie d'attaquer pendant le prochain tour de votre adversaire, ce dernier lance une pièce. Si c'est pile, son attaque ne fait rien.",
+        "de": "Falls das Verteidigende Pokémon während des nächsten Zuges deines Gegners angreift, wirft dein Gegner 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen.",
+        "it": "Se durante il prossimo turno del tuo avversario il Pokémon difensore prova ad attaccare, il tuo avversario lancia una moneta. Se esce croce, quell'attacco non ha effetto.",
+        "es": "Si el Pokémon Defensor intenta atacar durante el próximo turno de tu rival, este lanza 1 moneda. Si sale cruz, ese ataque no hace nada."
+      },
+      "name": {
+        "en": "Mental Panic",
+        "fr": "Panique Mentale",
+        "de": "Panikgedanke",
+        "it": "Psicostress",
+        "es": "Pánico Mental"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "70",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+        "de": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert.",
+        "it": "Il danno di questo attacco non è influenzato dalla resistenza.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia."
+      },
+      "name": {
+        "en": "Puncture",
+        "fr": "Perforation",
+        "de": "Durchdringen",
+        "it": "Perforazione",
+        "es": "Pinchazo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_077_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Malamar",
+    "fr": "Sepiatroce",
+    "de": "Calamanero",
+    "it": "Malamar",
+    "pt": "Malamar",
+    "es": "Malamar"
+  },
+  "number": "77",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "XY",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

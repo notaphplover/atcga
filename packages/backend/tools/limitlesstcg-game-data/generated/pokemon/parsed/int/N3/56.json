@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubblebeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Staryu"
+  },
+  "number": "56",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

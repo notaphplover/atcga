@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+        "pt": "Jogue 1 moeda. Se sair cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
+        "es": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Thunder Shock",
+        "fr": "Éclair",
+        "de": "Donnerschock",
+        "it": "Tuonoshock",
+        "pt": "Trovoada de Choques",
+        "es": "Impactrueno"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "90+",
+      "effect": {
+        "en": "Your opponent reveals their hand. If you find any Energy cards there, this attack does 90 more damage.",
+        "fr": "Votre adversaire dévoile sa main. Si vous y trouvez au moins une carte Énergie, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Wenn du dort mindestens 1 Energiekarte findest, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Se ci trovi delle carte Energia, questo attacco infligge 90 danni in più.",
+        "pt": "Seu oponente revela a própria mão. Se você encontrar alguma carta de Energia lá, este ataque causará 90 pontos de dano a mais.",
+        "es": "Tu rival enseña las cartas de su mano. Si encuentras alguna carta de Energía entre ellas, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Searchlight Tail",
+        "fr": "Queue de Projecteur",
+        "de": "Suchlichtschweif",
+        "it": "Codaluce",
+        "pt": "Cauda de Farol",
+        "es": "Cola Reflectora"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_049_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos",
+    "fr": "Pharamp",
+    "de": "Ampharos",
+    "it": "Ampharos",
+    "pt": "Ampharos",
+    "es": "Ampharos"
+  },
+  "number": "49",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CRE",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

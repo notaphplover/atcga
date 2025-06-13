@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Mass Explosion"
+      }
+    },
+    {
+      "cost": "ggg",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Stun Gas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Weezing"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

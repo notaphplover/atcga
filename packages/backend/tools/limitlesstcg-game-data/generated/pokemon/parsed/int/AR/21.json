@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may discard an Energy card from your hand. If you do, remove 1 damage counter from each of your Pokémon. This power can't be used if Lopunny is affected by a Special Condition.",
+  "abilityName": "Relaxing Shower",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove all Special Conditions from Lopunny."
+      },
+      "name": {
+        "en": "Hover Heal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lopunny"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

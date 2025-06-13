@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "en": "If Kirlia and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 30 instead of 60."
+      },
+      "name": {
+        "en": "Link Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kirlia"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

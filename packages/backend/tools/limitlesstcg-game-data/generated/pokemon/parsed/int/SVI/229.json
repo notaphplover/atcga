@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, they can’t play any Item cards from their hand.",
+        "fr": "Pendant le prochain tour de votre adversaire, il ne peut pas jouer de cartes Objet de sa main.",
+        "de": "Dein Gegner kann während seines nächsten Zuges keine Itemkarten aus seiner Hand spielen.",
+        "it": "Durante il suo prossimo turno, il tuo avversario non può giocare le carte Strumento che ha in mano.",
+        "pt": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da mão dele.",
+        "es": "Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Objeto de su mano."
+      },
+      "name": {
+        "en": "Everlasting Darkness",
+        "fr": "Obscurité Éternelle",
+        "de": "Ewige Finsternis",
+        "it": "Oscurità Perpetua",
+        "pt": "Escuridão Eterna",
+        "es": "Oscuridad Eterna"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Your opponent reveals their hand. This attack does 60 damage for each Trainer card you find there.",
+        "fr": "Votre adversaire montre sa main. Cette attaque inflige 60 dégâts pour chaque carte Dresseur que vous y trouvez.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Diese Attacke fügt für jede Trainerkarte, die du dort findest, 60 Schadenspunkte zu.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Questo attacco infligge 60 danni per ogni carta Allenatore presente tra quelle carte.",
+        "pt": "Seu oponente revela a mão dele. Este ataque causa 60 pontos de dano para cada carta de Treinador que encontrar lá.",
+        "es": "Tu rival enseña las cartas de su mano. Este ataque hace 60 puntos de daño por cada carta de Entrenador que encuentres entre ellas."
+      },
+      "name": {
+        "en": "Poltergeist",
+        "fr": "Esprit Frappeur",
+        "de": "Poltergeist",
+        "it": "Poltergeist",
+        "pt": "Poltergeist",
+        "es": "Poltergeist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 250,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_229_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Banette ex",
+    "fr": "Branette-ex",
+    "de": "Banette-ex",
+    "it": "Banette-ex",
+    "pt": "Banette ex",
+    "es": "Banette ex"
+  },
+  "number": "229",
+  "rarity": "ur",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SVI",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

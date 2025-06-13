@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage)."
+      },
+      "name": {
+        "en": "Plunder"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meowth"
+  },
+  "number": "13",
+  "resistance": [],
+  "retreat": 1,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "If Drake's Stadium is in play, remove 1 damage counter from Altaria between turns.",
+  "abilityName": "Synergy Effect",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Surprise"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Gust"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Altaria"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [
+    "grass",
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

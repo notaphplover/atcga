@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "ころがる"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10×",
+      "effect": {
+        "jp": "このポケモンにのっているダメカンの数x10ダメージ。"
+      },
+      "name": {
+        "jp": "じたばた"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イシツブテ"
+  },
+  "number": "33",
+  "resistance": [],
+  "retreat": 2,
+  "set": "20th",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分のベンチポケモン全員は、相手のポケモンが使うワザのダメージや効果を受けない。",
+  "abilityName": "はがねのようさい",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "60",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "ガードプレス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_48_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_48_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY10/XY10_48_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドータクン"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "XY10",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

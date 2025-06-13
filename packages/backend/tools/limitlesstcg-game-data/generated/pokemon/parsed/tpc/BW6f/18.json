@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "れいとうビーム"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "40×",
+      "effect": {
+        "jp": "コインを5回投げ、オモテの数x40ダメージ。"
+      },
+      "name": {
+        "jp": "ごどずつき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_18_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_18_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_18_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イノムー"
+  },
+  "number": "18",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW6f",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

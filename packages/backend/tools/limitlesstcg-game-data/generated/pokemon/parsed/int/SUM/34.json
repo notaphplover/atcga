@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 more damage. If tails, your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires. Si c'est pile, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu. Bei Zahl ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più. Se esce croce, il Pokémon attivo del tuo avversario viene paralizzato.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más. Si sale cruz, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Headlock",
+        "fr": "Prise de Tête",
+        "de": "Würgegriff",
+        "it": "Bloccatesta",
+        "es": "Headlock"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 20 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 20 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 20 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Guard Press",
+        "fr": "Pression de Garde",
+        "de": "Schutzdruck",
+        "it": "Pressadifesa",
+        "es": "Presión de Guardia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_034_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cloyster",
+    "fr": "Crustabri",
+    "de": "Austos",
+    "it": "Cloyster",
+    "pt": "Cloyster",
+    "es": "Cloyster"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SUM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

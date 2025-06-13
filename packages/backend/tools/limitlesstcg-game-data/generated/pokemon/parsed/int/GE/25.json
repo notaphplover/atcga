@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to Milotic by your opponent's Pokémon LV.X.",
+  "abilityName": "Marvel Scale",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Twister"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

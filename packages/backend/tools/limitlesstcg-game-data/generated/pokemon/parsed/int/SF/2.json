@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you play Empoleon from your hand to evolve 1 of your Active Pokémon, you may use this power. Your opponent can't attach any Energy cards from his or her hand to his or her Pokémon during your opponent's next turn.",
+  "abilityName": "Emperor Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Empoleon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Steel Wing"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Whirlpool"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Empoleon"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

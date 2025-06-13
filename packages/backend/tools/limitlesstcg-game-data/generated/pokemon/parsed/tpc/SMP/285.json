@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "ハードコート",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "110+",
+      "effect": {
+        "jp": "このポケモンについている[鋼]エネルギーの数x20ダメージ追加。"
+      },
+      "name": {
+        "jp": "メタルブラスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_285_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_285_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_285_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メルメタルGX"
+  },
+  "number": "285",
+  "regulation": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "SMP",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分の手札が6枚になるように、山札を引く。",
+  "abilityName": "アゲアゲストロー",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "70",
+      "effect": {
+        "jp": "このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "メガドレイン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アゲハント"
+  },
+  "number": "6",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S10a",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

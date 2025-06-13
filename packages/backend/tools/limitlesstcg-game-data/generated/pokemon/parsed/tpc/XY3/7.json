@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをねむりにする。"
+      },
+      "name": {
+        "jp": "アロマスリープ"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加し、このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "マジカルリーフ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_7_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_7_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_7_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "リーフィア"
+  },
+  "number": "7",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "XY3",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

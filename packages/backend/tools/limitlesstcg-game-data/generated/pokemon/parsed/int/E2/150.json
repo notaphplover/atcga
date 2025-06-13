@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [G], [L], or [R] basic Energy card from your hand to Nidoking, Nidoking's type (color) becomes the same as that Energy card type until the end of the turn.",
+  "abilityName": "Crystal Type",
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Horn"
+      }
+    },
+    {
+      "cost": "llff",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin, If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rolling Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/150_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/150.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/150.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoking"
+  },
+  "number": "150",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E2",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

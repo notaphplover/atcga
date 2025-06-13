@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Combustion"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Super Singe"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latias"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "psychic",
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "はたく"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "いわくだき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_40_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_40_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_40_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴビット"
+  },
+  "number": "40",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "XY3",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

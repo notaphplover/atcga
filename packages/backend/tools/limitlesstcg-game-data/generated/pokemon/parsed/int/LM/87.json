@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn, when you play Flygon ex from your hand to evolve 1 of your Pokémon, you may search your discard pile for up to 2 Energy cards and attach them to Flygon ex.",
+  "abilityName": "Emerge Charge",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard any number of React Energy cards attached to Flygon ex. If you do, this attack does 40 damage plus 30 more damage for each Energy card you discarded."
+      },
+      "name": {
+        "en": "Reactive Blast"
+      }
+    },
+    {
+      "cost": "glccc",
+      "dmg": "100",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/87_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/87.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/87.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon ex"
+  },
+  "number": "87",
+  "rarity": "ur",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

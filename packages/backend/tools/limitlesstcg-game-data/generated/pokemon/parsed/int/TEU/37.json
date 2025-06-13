@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "20×",
+      "effect": {
+        "en": "Move any number of [L] Energy from your Benched Pokémon to this Pokémon. This attack does 20 damage for each Energy card you moved in this way.",
+        "fr": "Déplacez autant d'Énergies [L] que vous voulez de vos Pokémon de Banc vers ce Pokémon. Cette attaque inflige 20 dégâts pour chaque carte Énergie déplacée de cette façon.",
+        "de": "Verschiebe beliebig viele [L]-Energien von den Pokémon auf deiner Bank auf dieses Pokémon. Diese Attacke fügt 20 Schadenspunkte mal der Anzahl der von dir auf diese Weise verschobenen Energiekarten zu.",
+        "it": "Sposta un numero qualsiasi di Energie [L] dai tuoi Pokémon in panchina a questo Pokémon. Questo attacco infligge 20 danni per ogni carta Energia che hai spostato in questo modo.",
+        "es": "Mueve cualquier cantidad de Energías [L] de tus Pokémon en Banca a este Pokémon. Este ataque hace 20 puntos de daño por cada carta de Energía que hayas movido de esta manera."
+      },
+      "name": {
+        "en": "Electromagnetic Bomb",
+        "fr": "Bombe Électromagnétique",
+        "de": "Elektromagnetische Bombe",
+        "it": "Bomba Elettromagnetica",
+        "es": "Bomba Electromagnética"
+      }
+    },
+    {
+      "cost": "lcccc",
+      "dmg": "190",
+      "effect": {
+        "en": "Discard 2 Energy from this Pokémon.",
+        "fr": "Défaussez 2 Énergies de ce Pokémon.",
+        "de": "Lege 2 Energien von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta due Energie assegnate a questo Pokémon.",
+        "es": "Descarta 2 Energías de este Pokémon."
+      },
+      "name": {
+        "en": "Super Zap Cannon",
+        "fr": "Super Élecanon",
+        "de": "Super-Blitzkanone",
+        "it": "Falcecannone Super",
+        "es": "Superelectrocañón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_037_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Alolan Golem",
+    "fr": "Grolem d'Alola",
+    "de": "Alola-Geowaz",
+    "it": "Golem di Alola",
+    "pt": "Golem de Alola",
+    "es": "Golem de Alola"
+  },
+  "number": "37",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 4,
+  "set": "TEU",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

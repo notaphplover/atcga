@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each Prize card your opponent has taken."
+      },
+      "name": {
+        "en": "Grudge"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Your opponent flips a number of coins equal to the number of his or her Benched Pokémon. This attack does 40 damage times the number of tails. This attack's damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Bench Manipulation"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Banette"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

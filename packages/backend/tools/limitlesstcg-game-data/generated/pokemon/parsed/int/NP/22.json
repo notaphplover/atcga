@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a [M] Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
+  "abilityName": "Magnetic Call",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30",
+      "effect": {
+        "en": "Put 1 damage counter on Beldum."
+      },
+      "name": {
+        "en": "Metal Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beldum"
+  },
+  "number": "22",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

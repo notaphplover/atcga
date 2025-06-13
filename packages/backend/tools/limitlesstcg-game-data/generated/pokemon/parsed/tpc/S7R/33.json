@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "バチバチ"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このポケモンについている[雷]エネルギーをすべてトラッシュし、相手のベンチポケモン2匹にも、それぞれ40ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "テラスパーク"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S7R/S7R_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S7R/S7R_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S7R/S7R_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "レジエレキ"
+  },
+  "number": "33",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S7R",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

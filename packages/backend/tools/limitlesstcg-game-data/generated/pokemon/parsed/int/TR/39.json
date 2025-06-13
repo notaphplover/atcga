@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may discard a card from your hand in order to draw a card. This power can't be used if Dark Kadabra is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Matter Exchange",
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "30",
+      "effect": {
+        "en": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      "name": {
+        "en": "Mind Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Kadabra"
+  },
+  "number": "39",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

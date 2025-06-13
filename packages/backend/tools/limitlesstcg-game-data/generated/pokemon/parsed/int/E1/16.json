@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may look at the top 4 cards of your deck and rearrange them as you like. This power can't be used if Machamp is affected by a Special Condition.",
+  "abilityName": "Terraforming",
+  "attacks": [
+    {
+      "cost": "ffcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Count the number of Pokémon you have in play with damage counters on them. Flip a coin. If heads, this attack does 50 damage plus 10 more damage for each of those Pokémon."
+      },
+      "name": {
+        "en": "Iron Fist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

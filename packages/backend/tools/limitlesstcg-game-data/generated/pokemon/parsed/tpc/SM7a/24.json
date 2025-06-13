@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、手札から自分のポケモンにエネルギーをつけるとき、同時に2枚までつけられる。（ワザ・「ハーモニクス」以外の特性・トレーナーズでつける場合はのぞく。）",
+  "abilityName": "ハーモニクス",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "相手のバトルポケモンをねむりにする。"
+      },
+      "name": {
+        "jp": "ヒプノスプラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_24_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_24_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM7a/SM7a_24_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アシレーヌ"
+  },
+  "number": "24",
+  "rarity": "u",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM7a",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

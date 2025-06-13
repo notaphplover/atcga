@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip 2 coins. If both of them are heads, your opponent discards all cards from his or her hand.",
+        "fr": "Lancez 2 pièces. Si vous obtenez deux fois un côté face, votre adversaire défausse toutes les cartes de sa main.",
+        "de": "Wirf 2 Münzen. Wenn beide „Kopf“ zeigen, legt dein Gegner alle Handkarten auf seinen Ablagestapel.",
+        "it": "Lancia 2 volte una moneta. Se esce entrambe le volte testa, il tuo avversario scarta tutte le carte che ha in mano."
+      },
+      "name": {
+        "en": "Strip Bare",
+        "fr": "Croktou",
+        "de": "Blankmacher",
+        "it": "Spogliatutto"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Does 50 damage plus 10 more damage for each damage counter on Sharpedo.",
+        "fr": "Inflige 50 dégâts plus 10 dégâts supplémentaires pour chaque marqueur de dégât placé sur Sharpedo.",
+        "de": "Dieser Angriff fügt 50 Schadenspunkte plus 10 weitere Schadenspunkte für jede Schadensmarke auf Tohaido zu.",
+        "it": "Infligge 50 danni più altri 10 danni per ogni segnalino danno presente su Sharpedo."
+      },
+      "name": {
+        "en": "Rage",
+        "fr": "Frénésie",
+        "de": "Raserei",
+        "it": "Ira"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_030_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sharpedo",
+    "fr": "Sharpedo",
+    "de": "Tohaido",
+    "it": "Sharpedo",
+    "pt": "Sharpedo",
+    "es": "Sharpedo"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TM",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

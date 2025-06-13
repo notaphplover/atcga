@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Sharp Sickle"
+      }
+    },
+    {
+      "cost": "ffff",
+      "dmg": "40",
+      "effect": {
+        "en": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+      },
+      "name": {
+        "en": "Absorb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kabutops"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "FO",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

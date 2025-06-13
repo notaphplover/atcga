@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to Mew by Evolved Pokémon. You can't use this power if Mew is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Neutral Shield",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mew"
+  },
+  "number": "47",
+  "resistance": [],
+  "retreat": 1,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

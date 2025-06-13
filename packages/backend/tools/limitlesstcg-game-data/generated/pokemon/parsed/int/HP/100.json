@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Mew ex is on your Bench, you may look at your opponent's hand.",
+  "abilityName": "Psychic Vision",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Super Psy Bolt"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may discard 2 Energy attached to Mew ex. If you do, you may remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck."
+      },
+      "name": {
+        "en": "Devo Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mew ex"
+  },
+  "number": "100",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

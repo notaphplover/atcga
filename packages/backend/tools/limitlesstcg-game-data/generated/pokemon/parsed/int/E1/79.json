@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Don't apply Resistance."
+      },
+      "name": {
+        "en": "Rock Hurl"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose 2 of your opponent's Benched Pokémon (1 if he or she has only 1). This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/79_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/79.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/79.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Graveler"
+  },
+  "number": "79",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

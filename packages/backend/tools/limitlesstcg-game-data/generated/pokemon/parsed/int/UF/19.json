@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {
+        "en": "You may attach a basic Energy card from your hand to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Aqua Supply"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If Vaporeon has 3 or more different types of basic Energy cards attached to it, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Multi Bubble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon"
+  },
+  "number": "19",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

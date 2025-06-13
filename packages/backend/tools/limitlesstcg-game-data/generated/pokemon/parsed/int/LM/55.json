@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Firebreathing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/55_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/55.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/55.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Growlithe"
+  },
+  "number": "55",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

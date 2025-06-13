@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez 3 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 3 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia tre volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 3 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Fury Swipes",
+        "fr": "Combo-Griffe",
+        "de": "Kratzfurie",
+        "it": "Sfuriate",
+        "es": "Golpes Furia"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "80-",
+      "effect": {
+        "en": "Does 80 damage minus 10 damage for each damage counter on this Pokémon.",
+        "fr": "Inflige 80 dégâts moins 10 dégâts pour chaque marqueur de dégâts placé sur ce Pokémon.",
+        "de": "Dieser Angriff fügt 80 Schadenspunkte minus 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+        "it": "Infligge 80 danni meno 10 per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Hace 80 puntos de daño menos 10 puntos de daño por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Karate Chop",
+        "fr": "Poing-Karaté",
+        "de": "Karateschlag",
+        "it": "Colpokarate",
+        "es": "Golpe Karate"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_060_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Primeape",
+    "fr": "Colossinge",
+    "de": "Rasaff",
+    "it": "Primeape",
+    "pt": "Primeape",
+    "es": "Primeape"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PLF",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

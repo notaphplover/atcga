@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Lick"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Auto Fire"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cloyster"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

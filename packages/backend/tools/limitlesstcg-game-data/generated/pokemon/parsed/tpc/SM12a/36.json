@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "このポケモンは、相手の「ポケモンGX・EX」からワザのダメージや効果を受けない。",
+  "abilityName": "ホーリーハート",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "110",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ソニックエッジ"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50×",
+      "effect": {
+        "jp": "相手のベンチポケモンの数×50ダメージ。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "かくごのつるぎGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_36_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_36_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_36_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ケルディオGX"
+  },
+  "number": "36",
+  "rarity": "rr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM12a",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

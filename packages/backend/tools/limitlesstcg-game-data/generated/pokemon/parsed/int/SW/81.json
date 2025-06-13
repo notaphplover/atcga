@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, choose a card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Bite Away"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/81_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/81.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/81.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carvanha"
+  },
+  "number": "81",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

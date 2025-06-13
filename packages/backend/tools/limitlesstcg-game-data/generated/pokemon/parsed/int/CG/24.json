@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Rain Splash"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Mud Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marshtomp"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

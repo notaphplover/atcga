@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30."
+      },
+      "name": {
+        "en": "Assurance"
+      }
+    },
+    {
+      "cost": "fff",
+      "dmg": "100",
+      "effect": {
+        "en": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hasty Headbutt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop6/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop6/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop6/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rampardos"
+  },
+  "number": "5",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P6",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

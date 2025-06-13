@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon in play have no Abilities, except for Lazy.",
+  "abilityName": "Lazy",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "160",
+      "effect": {
+        "en": "Discard an Energy from this Pokémon. It can't attack during your next turn.",
+        "fr": "Défaussez une Énergie de ce Pokémon. Il ne peut pas attaquer pendant votre prochain tour.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel. Es kann während deines nächsten Zuges nicht angreifen.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon. Non può attaccare durante il tuo prossimo turno.",
+        "es": "Descarta 1 Energía de este Pokémon. No puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Critical Move",
+        "fr": "Mouvement Décisif",
+        "de": "Entscheidung",
+        "it": "Criticomossa",
+        "es": "Ataque Crítico"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_115_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slaking",
+    "fr": "Monaflèmit",
+    "de": "Letarking",
+    "it": "Slaking",
+    "pt": "Slaking",
+    "es": "Slaking"
+  },
+  "number": "115",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CES",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

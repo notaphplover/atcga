@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Dark Wing Flaps"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Wrack Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giratina"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 3,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

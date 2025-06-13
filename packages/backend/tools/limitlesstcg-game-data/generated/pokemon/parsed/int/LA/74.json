@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin for each Tauros you have in play. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Herd Charge"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, Tauros does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thrash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tauros"
+  },
+  "number": "74",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Scyther ex during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/102_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/102.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/102.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scyther ex"
+  },
+  "number": "102",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

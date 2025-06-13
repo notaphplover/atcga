@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "40",
+      "effect": {
+        "en": "If Deoxys and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 20 instead of 40."
+      },
+      "name": {
+        "en": "Link Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

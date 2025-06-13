@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Octillery is your Active Pokémon, whenever the Defending Pokémon retreats, discard all Energy cards attached to the Defending Pokémon when it goes to the Bench.",
+  "abilityName": "Suction Cups",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Octillery"
+  },
+  "number": "H20",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

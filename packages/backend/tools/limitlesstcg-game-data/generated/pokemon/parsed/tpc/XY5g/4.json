@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "はたく"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+      },
+      "name": {
+        "jp": "こうそくいどう"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジュプトル"
+  },
+  "number": "4",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "XY5g",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

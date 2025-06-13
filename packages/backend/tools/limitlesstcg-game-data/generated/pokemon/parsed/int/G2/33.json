@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Fire Mane"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage (to the Defending Pokémon) and 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, this attack does 30 damage (to the Defending Pokémon)."
+      },
+      "name": {
+        "en": "Stamp"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaine's Rapidash"
+  },
+  "number": "33",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

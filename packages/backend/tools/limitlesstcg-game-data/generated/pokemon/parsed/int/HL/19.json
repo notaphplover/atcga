@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each [D] Pokémon in play."
+      },
+      "name": {
+        "en": "Dark Splash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Huntail"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

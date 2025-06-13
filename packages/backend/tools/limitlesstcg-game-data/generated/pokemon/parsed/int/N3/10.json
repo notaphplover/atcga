@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may take 1 Energy card attached to 1 of your Magnemites, Magnetons, or Dark Magnetons and attach it to a different 1 of your Magnemites, Magnetons, and Dark Magnetons. This power can't be used if Magneton is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Electromagnetic Power",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "30",
+      "effect": {
+        "en": "If there are any [L] Energy cards in your discard pile, attach 1 of them to Magneton."
+      },
+      "name": {
+        "en": "Plasma"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

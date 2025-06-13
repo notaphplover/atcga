@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poison Jab",
+        "fr": "Direct Toxik",
+        "de": "Gifthieb",
+        "it": "Velenpuntura",
+        "es": "Puya Nociva"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "70",
+      "effect": {
+        "en": "This Pokémon does 20 damage to itself. Don't apply Weakness to this damage.",
+        "fr": "Ce Pokémon s'inflige 20 dégâts. Ne pas appliquer la Faiblesse à ces dégâts.",
+        "de": "Dieses Pokémon fügt sich selbst 20 Schadenspunkte zu. Wende Schwäche nicht an.",
+        "it": "Questo Pokémon infligge 20 danni a se stesso. Non applicare la debolezza a questi danni.",
+        "es": "Este Pokémon se hace 20 puntos de daño a sí mismo. No apliques Debilidad a este daño."
+      },
+      "name": {
+        "en": "Dynamite Punch",
+        "fr": "Poing Dynamite",
+        "de": "Dynamitstoß",
+        "it": "Pugno Dinamite",
+        "es": "Puño Dinamita"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_069_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoqueen",
+    "fr": "Nidoqueen",
+    "de": "Nidoqueen",
+    "it": "Nidoqueen",
+    "pt": "Nidoqueen",
+    "es": "Nidoqueen"
+  },
+  "number": "69",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PRC",
+  "stage": "stage2",
+  "traitEffect": "This Pokémon may attack twice a turn. (If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.)",
+  "traitName": "Ω Barrage",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

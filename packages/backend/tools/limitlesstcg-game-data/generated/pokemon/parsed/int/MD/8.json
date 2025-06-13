@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you attach a [W] Energy card from your hand to Manaphy, remove 2 damage counters from Manaphy.",
+  "abilityName": "Aqua Skin",
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "30",
+      "effect": {
+        "en": "You may attach up to 2 basic [W] Energy cards from your hand to your Benched Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Fountain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Manaphy"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "たいあたり"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "自分のベンチに2進化ポケモンがいるなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "ひゃくにんりき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_14_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_14_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_14_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヘラクロス"
+  },
+  "number": "14",
+  "rarity": "c",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM8",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "30",
+      "effect": {
+        "en": "Move an Energy attached to your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
+        "fr": "Déplacez une Énergie attachée au Pokémon Actif de votre adversaire vers l'un des Pokémon de Banc de votre adversaire.",
+        "de": "Verschiebe 1 an das Aktive Pokémon deines Gegners angelegte Energie auf 1 Pokémon auf der Bank deines Gegners.",
+        "it": "Sposta un'Energia assegnata al Pokémon attivo del tuo avversario su uno dei Pokémon nella sua panchina.",
+        "es": "Mueve 1 Energía unida al Pokémon Activo de tu rival a 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Curly Ribbon",
+        "fr": "Ruban Bouclé",
+        "de": "Ringelschleife",
+        "it": "Arriccianastro",
+        "es": "Cinta Rizo"
+      }
+    },
+    {
+      "cost": "ycc",
+      "dmg": "50",
+      "effect": {
+        "en": "During your next turn, this Pokémon's Echoed Voice attack does 50 more damage (before applying Weakness and Resistance).",
+        "fr": "Pendant votre prochain tour, l'attaque Écho de ce Pokémon inflige 50 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während deines nächsten Zuges fügt die Attacke Widerhall dieses Pokémon 50 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il tuo prossimo turno, l'attacco Echeggiavoce di questo Pokémon infligge 50 danni in più, prima di aver applicato debolezza e resistenza.",
+        "es": "Durante tu próximo turno, el ataque Eco Voz de este Pokémon hace 50 puntos de daño más (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Echoed Voice",
+        "fr": "Écho",
+        "de": "Widerhall",
+        "it": "Echeggiavoce",
+        "es": "Eco Voz"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_072_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sylveon",
+    "fr": "Nymphali",
+    "de": "Feelinara",
+    "it": "Sylveon",
+    "pt": "Sylveon",
+    "es": "Sylveon"
+  },
+  "number": "72",
+  "rarity": "hr",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 1,
+  "set": "FFI",
+  "stage": "stage1",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

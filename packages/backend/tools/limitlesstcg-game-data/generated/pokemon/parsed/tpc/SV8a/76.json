@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンに[D]エネルギーがついているなら、このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
+  "abilityName": "アドレナフェロモン",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30×",
+      "effect": {
+        "jp": "このポケモンについているエネルギーの数×30ダメージ。"
+      },
+      "name": {
+        "jp": "エナジーフェザー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_76_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_76_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_76_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キチキギス"
+  },
+  "number": "76",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8a",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

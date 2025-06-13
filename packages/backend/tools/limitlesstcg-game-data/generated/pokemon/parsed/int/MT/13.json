@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip 3 coins. If the first coin is heads, the Defending Pokémon is now Poisoned. If the second coin is heads, the Defending Pokémon is now Burned. If the third coin is heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ultra Powder"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If your opponent has any [R] Pokémon in play, this attack does 60 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Fire Counterattack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

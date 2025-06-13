@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as you have less Pokémon in play than your opponent, your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand.",
+  "abilityName": "Lonesome",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Tight Jaw"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Houndoom."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

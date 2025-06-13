@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever your opponent plays a Trainer card, you may flip a coin. If heads, that card does nothing. Put it on top of your opponent's deck. This power can't be used if Slowking is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Mind Games",
+  "attacks": [
+    {
+      "cost": "ppp",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Mind Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowking"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

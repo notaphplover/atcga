@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Mamoswine GL is your Active Pokémon, put 1 damage counter on each Active Pokémon (excluding [W] Pokémon) (both yours and your opponent's) between turns.",
+  "abilityName": "Icy Aura",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Avalanche"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mamoswine GL"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

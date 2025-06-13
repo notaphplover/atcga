@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Spinning Attack"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.) Baltoy does 50 damage to itself."
+      },
+      "name": {
+        "en": "Selfdestruct"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Baltoy"
+  },
+  "number": "53",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "自分の番に1回使える。相手の手札を見る。",
+  "abilityName": "ガサいれ",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {},
+      "name": {
+        "jp": "とびだしヘッド"
+      }
+    },
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーの数x50ダメージ追加。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "デカチャンスGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1S/SM1S_50_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1S/SM1S_50_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1S/SM1S_50_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "デカグースGX"
+  },
+  "number": "50",
+  "rarity": "rr",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM1S",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Horn Rush"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Onix by attacks is reduced by 10 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Granite Head"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/69_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/69.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/69.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Onix"
+  },
+  "number": "69",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

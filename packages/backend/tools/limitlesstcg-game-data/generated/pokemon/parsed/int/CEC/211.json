@@ -1,0 +1,91 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may heal 30 damage from each of your Pokémon.",
+  "abilityName": "Fragrant Flower Garden",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "180-",
+      "effect": {
+        "en": "This attack does 10 less damage for each damage counter on this Pokémon.",
+        "fr": "Cette attaque inflige 10 dégâts de moins pour chaque marqueur de dégâts placé sur ce Pokémon.",
+        "de": "Diese Attacke fügt 10 Schadenspunkte weniger mal der Anzahl der Schadensmarken auf diesem Pokémon zu.",
+        "it": "Questo attacco infligge 10 danni in meno per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Este ataque hace 10 puntos de daño menos por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Massive Bloom",
+        "fr": "Floraison Massive",
+        "de": "Gewaltiges Blühen",
+        "it": "Fioritura Massiccia",
+        "es": "Floración Masiva"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé, Empoisonné et Paralysé. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt, paralysiert und vergiftet. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato, paralizzato e avvelenato. Non puoi usare più di un attacco GX a partita.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado, Paralizado y Quemado. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Allergic Explosion-GX",
+        "fr": "Explosion Allergène-GX",
+        "de": "Allergische Explosion-GX",
+        "it": "Esplosione Allergica-GX",
+        "es": "Explosión Alérgica-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 240,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_211_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume-GX",
+    "fr": "Rafflesia-GX",
+    "de": "Giflor-GX",
+    "it": "Vileplume-GX",
+    "pt": "Vileplume-GX",
+    "es": "Vileplume-GX"
+  },
+  "number": "211",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CEC",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

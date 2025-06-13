@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Double Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feraligatr"
+  },
+  "number": "46",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

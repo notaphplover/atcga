@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "As long as Salamence is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+  "abilityName": "Intimidating Fang",
+  "attacks": [
+    {
+      "cost": "rwc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard an Energy card attached to Salamence. If you do, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Dragon Flame"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

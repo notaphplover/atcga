@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach a [Y] Energy card from your hand to 1 of your Pokémon.",
+  "abilityName": "Secret Spring",
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "30×",
+      "effect": {
+        "en": "This attack does 30 damage times the amount of Energy attached to both Active Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts multipliés par le nombre d'Énergies attachées aux deux Pokémon Actifs.",
+        "de": "Diese Attacke fügt 30 Schadenspunkte mal der Anzahl der an beide Aktiven Pokémon angelegten Energien zu.",
+        "it": "Questo attacco infligge 30 danni per ogni Energia assegnata a ciascuno dei Pokémon attivi.",
+        "es": "Este ataque hace 30 puntos de daño por cada Energía unida a ambos Pokémon Activos."
+      },
+      "name": {
+        "en": "Infinite Force",
+        "fr": "Force Infinie",
+        "de": "Unendliche Macht",
+        "it": "Forza Infinita",
+        "es": "Fuerza Infinita"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BUS/BUS_140_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gardevoir-GX",
+    "fr": "Gardevoir-GX",
+    "de": "Guardevoir-GX",
+    "it": "Gardevoir-GX",
+    "pt": "Gardevoir-GX",
+    "es": "Gardevoir-GX"
+  },
+  "number": "140",
+  "rarity": "ur",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "BUS",
+  "stage": "stage2",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

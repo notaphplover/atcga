@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Surprise Attack"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 10 damage plus 10 more damage for each damage counter on Teddiursa."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Teddiursa"
+  },
+  "number": "109",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

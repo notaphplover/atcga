@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "After your opponent plays a Supporter card from his or her hand, put 1 damage counter on each of your opponent's Pokémon. You can't use more than 1 Jamming Poké-Body each turn.",
+  "abilityName": "Jamming",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "70",
+      "effect": {
+        "en": "You may discard all [L] Energy attached to Ampharos. If you do, this attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Cluster Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop7/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop7/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop7/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos"
+  },
+  "number": "1",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 3,
+  "set": "P7",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

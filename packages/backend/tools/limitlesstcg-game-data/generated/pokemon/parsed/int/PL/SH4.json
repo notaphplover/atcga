@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If Lotad has any [W] Energy attached to it, Lotad's Retreat Cost is 0.",
+  "abilityName": "Swift Swim",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove 1 damage counter from Lotad."
+      },
+      "name": {
+        "en": "Blot"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Jump On"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/SH4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/SH4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/SH4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lotad"
+  },
+  "number": "SH4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

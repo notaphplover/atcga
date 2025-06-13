@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Vine"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Vine Whip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/75_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/75.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/75.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Erika's Bellsprout"
+  },
+  "number": "75",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

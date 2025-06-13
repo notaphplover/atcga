@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you put Jolteon Star from your hand onto your Bench, you may put 1 damage counter on each Active Pokémon (both yours and your opponent's).",
+  "abilityName": "Yellow Ray",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Jolteon Star during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/101_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/101.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/101.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon Star"
+  },
+  "number": "101",
+  "rarity": "ur",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

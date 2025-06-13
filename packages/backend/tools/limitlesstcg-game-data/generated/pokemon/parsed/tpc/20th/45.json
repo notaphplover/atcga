@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがベンチにいるかぎり、自分のバトルポケモンのにげるために必要なエネルギーは、2個ぶん少なくなる。",
+  "abilityName": "にげるサポート",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40×",
+      "effect": {
+        "jp": "コインを3回投げ、オモテの数x40ダメージ。"
+      },
+      "name": {
+        "jp": "みだれづき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/20th/20th_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドードリオ"
+  },
+  "number": "45",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "20th",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

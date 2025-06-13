@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may take 1 [R] Energy card attached to 1 of your other Pokémon and attach it to Charmander. This power can't be used if Charmander is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Gather Fire",
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Fire Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmander"
+  },
+  "number": "50",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

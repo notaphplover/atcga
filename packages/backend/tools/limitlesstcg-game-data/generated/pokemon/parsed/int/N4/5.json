@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Dark Feraligatr is your Active Pokémon, all of your opponent's Baby Pokémon Powers stop working and your opponent's Baby Pokémon can't attack. This power stops working while Dark Feraligatr is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Scare",
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those cards and discard it."
+      },
+      "name": {
+        "en": "Crushing Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Feraligatr"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "N4",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

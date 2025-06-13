@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [G] Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Beedrill is affected by a Special Condition.",
+  "abilityName": "Flutter Wings",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Paralyzed and Poisoned. Ignore this effect if any of your Pokémon used Needle Shock during your last turn."
+      },
+      "name": {
+        "en": "Needle Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beedrill"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

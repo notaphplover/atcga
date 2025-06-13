@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "fff",
+      "dmg": "50",
+      "effect": {
+        "en": "Does 10 damage to each Pokémon on each player's bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Brock's Graveler does 50 damage to itself. If there is a Stadium card in play, discard it."
+      },
+      "name": {
+        "en": "Detonate"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Graveler"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

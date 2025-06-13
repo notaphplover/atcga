@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Feraligatr is your Active Pokémon and if your opponent has any Benched Pokémon, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon. Either way, if you have any Benched Pokémon, switch Feraligatr with 1 of them. This power can't be used if Feraligatr is affected by a Special Condition.",
+  "abilityName": "Major Tsunami",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "70",
+      "effect": {
+        "en": "If here are no damage counters on the Defending Pokémon, this attack's base damage is 40 instead of 70."
+      },
+      "name": {
+        "en": "Rending Jaws"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feraligatr"
+  },
+  "number": "47",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

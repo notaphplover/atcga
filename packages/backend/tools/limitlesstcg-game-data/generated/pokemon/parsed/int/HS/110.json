@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for a [R] Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
+  "abilityName": "Afterburner",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard an Energy card attached to Typhlosion and discard an Energy card attached to the Defending Pokémon.",
+        "fr": "Défaussez-vous d'une carte Énergie attachée à Typhlosion et d'une carte Énergie attachée au Pokémon Défenseur.",
+        "de": "Lege 1 Tornupto angelegte Energiekarte und 1 an das Verteidigende Pokémon angelegte Energiekarte auf den jeweiligen Ablagestapel.",
+        "it": "Scarta una carta Energia  assegnata a Typhlosion e scarta una carta Energia assegnata al Pokémon Difensore.",
+        "es": "Descarta una carta de Energía unida a Typhlosion y descarta una carta de Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Flare Destroy",
+        "fr": "Éclatodestruction",
+        "de": "Flammenhacker",
+        "it": "Distruggifiamma",
+        "es": "Llama de destrucción"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_110_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Typhlosion",
+    "fr": "Typhlosion",
+    "de": "Tornupto",
+    "it": "Typhlosion",
+    "pt": "Typhlosion",
+    "es": "Typhlosion"
+  },
+  "number": "110",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HS",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

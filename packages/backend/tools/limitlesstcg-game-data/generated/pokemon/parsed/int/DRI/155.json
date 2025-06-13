@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card.",
+  "abilityName": "Reconstitute",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage for each Supporter card that has \"Team Rocket\" in its name in your discard pile.",
+        "fr": "Cette attaque inflige 20 dégâts pour chaque carte Supporter dans votre pile de défausse ayant « Team Rocket » dans son nom.",
+        "de": "Diese Attacke fügt für jede Unterstützerkarte in deinem Ablagestapel, bei der „Team Rocket\" zum Namen gehört, 20 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 20 danni per ogni carta Aiuto nella tua pila degli scarti che ha \"Team Rocket\" nel nome.",
+        "pt": "Este ataque causa 20 pontos de dano para cada carta de Apoiador que tenha \"Equipe Rocket\" em seu nome na sua pilha de descarte.",
+        "es": "Este ataque hace 20 puntos de daño por cada carta de Partidario en tu pila de descartes que tenga \"Team Rocket\" en su nombre."
+      },
+      "name": {
+        "en": "R Command",
+        "fr": "Commande R",
+        "de": "R-Befehl",
+        "it": "Comando R",
+        "pt": "Comando R",
+        "es": "Comando R"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_155_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Rocket's Porygon-Z",
+    "fr": "Porygon-Z de la Team Rocket",
+    "de": "Team Rockets Porygon-Z",
+    "it": "Porygon-Z del Team Rocket",
+    "pt": "Porygon-Z da Equipe Rocket",
+    "es": "Porygon-Z del Team Rocket"
+  },
+  "number": "155",
+  "rarity": "u",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DRI",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

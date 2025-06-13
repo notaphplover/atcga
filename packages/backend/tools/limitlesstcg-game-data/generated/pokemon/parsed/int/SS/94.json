@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Aerodactyl ex is in play, your opponent can't play Pokémon Tool cards. Remove any Pokémon Tool cards attached to your opponent's Pokémon and put them into his or her discard pile.",
+  "abilityName": "Primal Lock",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Wing Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aerodactyl ex"
+  },
+  "number": "94",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

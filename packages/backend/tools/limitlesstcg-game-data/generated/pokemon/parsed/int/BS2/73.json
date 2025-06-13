@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Pound"
+      }
+    },
+    {
+      "cost": "pp",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/73_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/73.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/73.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drowzee"
+  },
+  "number": "73",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

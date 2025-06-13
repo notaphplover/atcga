@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat or use any Poké-Powers during your opponent's next turn."
+      },
+      "name": {
+        "en": "Black Cry"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard a [D] Energy attached to Houndoom G. If you do, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Dark Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Houndoom G"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

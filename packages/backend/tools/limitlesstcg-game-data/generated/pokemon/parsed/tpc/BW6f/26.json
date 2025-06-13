@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをこんらんにする。"
+      },
+      "name": {
+        "jp": "サイケこうせん"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "自分の手札と相手の手札が同じ枚数なら、60ダメージを追加。"
+      },
+      "name": {
+        "jp": "じんつうりき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_26_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_26_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_26_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブーピッグ"
+  },
+  "number": "26",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BW6f",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

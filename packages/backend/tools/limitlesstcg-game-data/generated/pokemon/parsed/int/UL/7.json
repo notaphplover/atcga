@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may choose a [W] Pokémon on your Bench and switch it with your Active Pokémon. This power can't be used if Politoed is affected by a Special Condition.",
+  "abilityName": "Leap Frog",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin for each [W] Pokémon you have in play. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez une pièce pour chacun de vos Pokémon [W] en jeu. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf eine Münze für jedes deiner [W]-Pokémon im Spiel. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta per ogni Pokémon [W] che hai in gioco. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza una moneda por cada Pokémon [W] que tengas en juego. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Big Chorus",
+        "fr": "Choralissime",
+        "de": "Großer Chor",
+        "it": "Grande Coro",
+        "es": "Gran coro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_007_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Politoed",
+    "fr": "Tarpaud",
+    "de": "Quaxo",
+    "it": "Politoed",
+    "pt": "Politoed",
+    "es": "Politoed"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UL",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

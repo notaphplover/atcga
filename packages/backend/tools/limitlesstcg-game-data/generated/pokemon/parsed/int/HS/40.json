@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance.",
+        "fr": "Les dégâts infligés par cette attaque ne sont pas affectés par la Résistance.",
+        "de": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert.",
+        "it": "Il danno di questo attacco non è influenzato dalla Resistenza.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia."
+      },
+      "name": {
+        "en": "Rock Hurl",
+        "fr": "Lance-pierre",
+        "de": "Steinschleuderer",
+        "it": "Scaglia Pietre",
+        "es": "Lanzamiento de rocas"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "70×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 70 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 70 dégâts multipliés par le nombre de faces.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 70 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia 2 volte una moneta. Questo attacco infligge 70 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 70 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Spin",
+        "fr": "Double tour",
+        "de": "Doppeldreher",
+        "it": "Doppio Effetto",
+        "es": "Doble giro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_040_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Donphan",
+    "fr": "Donphan",
+    "de": "Donphan",
+    "it": "Donphan",
+    "pt": "Donphan",
+    "es": "Donphan"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "HS",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

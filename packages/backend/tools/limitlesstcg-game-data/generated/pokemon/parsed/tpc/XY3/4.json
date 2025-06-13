@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "40",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "ガードプレス"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "のぞむなら、40ダメージを追加してよい。その場合、このポケモンにも20ダメージ。"
+      },
+      "name": {
+        "jp": "ギガパワー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヘラクロスEX"
+  },
+  "number": "4",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY3",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

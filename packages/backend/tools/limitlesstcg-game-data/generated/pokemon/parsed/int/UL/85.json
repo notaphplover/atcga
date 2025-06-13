@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may put 1 damage counter on 1 of your opponent's Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+  "abilityName": "Spray Splash",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "60",
+      "effect": {
+        "en": "If your opponent has any [R] Pokémon in play, this attack's base damage is 20 instead of 60.",
+        "fr": "Si votre adversaire dispose de n'importe quel Pokémon [R] en jeu, cette attaque inflige 20 dégâts de base au lieu de 60.",
+        "de": "Wenn dein Gegner mindestens 1 [R]-Pokémon im Spiel hat, beträgt der Grundschaden dieses Angriffs 20 Schadenspunkte anstelle von 60 Schadenspunkten.",
+        "it": "Se il tuo avversario ha dei Pokémon [R] in gioco, il danno base di questo attacco è 20 invece di 60.",
+        "es": "Si tu rival tiene cualquier Pokémon [R] en juego, el daño básico de este ataque son 20 puntos en lugar de 60."
+      },
+      "name": {
+        "en": "Dragon Steam",
+        "fr": "Dragovapeur",
+        "de": "Drachendampf",
+        "it": "Vapordrago",
+        "es": "Vapor de dragón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_085_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kingdra",
+    "fr": "Hyporoi",
+    "de": "Seedraking",
+    "it": "Kingdra",
+    "pt": "Kingdra",
+    "es": "Kingdra"
+  },
+  "number": "85",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UL",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

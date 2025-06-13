@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, excluding damage, done to Bibarel.",
+  "abilityName": "Unaware",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Amnesia"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Surf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bibarel"
+  },
+  "number": "32",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each damage counter on all of your Active Pokémon."
+      },
+      "name": {
+        "en": "Rock Vengeance"
+      }
+    },
+    {
+      "cost": "ffccc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 20 damage to 2 of your opponent's Benched Pokémon (1 if there is only 1). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golem"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "DR",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

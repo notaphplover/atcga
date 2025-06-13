@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Super Singe"
+      }
+    },
+    {
+      "cost": "rccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard a [R] Energy card attached to Flareon."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

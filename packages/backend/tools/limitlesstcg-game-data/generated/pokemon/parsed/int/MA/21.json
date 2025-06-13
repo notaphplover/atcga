@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Overrun"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, this attack does 40 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Bite Off"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Mightyena"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

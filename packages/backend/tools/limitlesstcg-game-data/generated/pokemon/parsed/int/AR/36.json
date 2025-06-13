@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Lick"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Night Shade"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gastly"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

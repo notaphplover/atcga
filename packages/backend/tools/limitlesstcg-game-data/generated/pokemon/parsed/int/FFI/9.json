@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "If this Pokémon evolved from Shelmet during this turn, this attack does 40 more damage.",
+        "fr": "Si ce Pokémon a évolué d'Escargaume pendant ce tour, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wenn sich dieses Pokémon während dieses Zuges aus Schnuthelm entwickelt hat, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Se questo Pokémon si è evoluto da Shelmet durante questo turno, questo attacco infligge 40 danni in più.",
+        "es": "Si este Pokémon ha evolucionado de Shelmet durante este turno, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Raid",
+        "fr": "Razzia Obscure",
+        "de": "Überfall",
+        "it": "Raid Oscuro",
+        "es": "Raid Oscuro"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "40",
+      "effect": {
+        "en": "If any damage is done to this Pokémon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage.",
+        "fr": "Si des dégâts sont infligés à ce Pokémon par des attaques pendant le prochain tour de votre adversaire, lancez une pièce. Si c'est face, évitez les dégâts.",
+        "de": "Wirf 1 Münze, wenn diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe Schaden zugefügt wird. Bei „Kopf“ verhindere diesen Schaden.",
+        "it": "Se questo Pokémon subisce danni da attacchi durante il prossimo turno del tuo avversario, lancia una moneta. Se esce testa, previeni quei danni.",
+        "es": "Si se inflige cualquier daño a este Pokémon por ataques durante el próximo turno de tu rival, lanza 1 moneda. Si sale cara, evita ese daño."
+      },
+      "name": {
+        "en": "Afterimage Strike",
+        "fr": "Frap'Invisible",
+        "de": "Nachbild-Angriff",
+        "it": "Colpo Alterimmagine",
+        "es": "Golpe de Recuerdo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_009_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Accelgor",
+    "fr": "Limaspeed",
+    "de": "Hydragil",
+    "it": "Accelgor",
+    "pt": "Accelgor",
+    "es": "Accelgor"
+  },
+  "number": "9",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "FFI",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

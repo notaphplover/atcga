@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have Unown S, Unown E, and Unown T on your Bench, you may flip a coin. If heads, search your discard pile for an Energy card, show it to your opponent, and put it on top of your deck.",
+  "abilityName": "Set",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [S]"
+  },
+  "number": "39",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, look at your opponent's hand and choose 1 card, then have your opponent shuffle that card into his or her deck."
+      },
+      "name": {
+        "en": "Interrupt"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Gentle Slap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lombre"
+  },
+  "number": "52",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

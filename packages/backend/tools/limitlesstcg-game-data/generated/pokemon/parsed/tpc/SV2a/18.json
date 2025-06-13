@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "jp": "はばたく"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "150",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+      },
+      "name": {
+        "jp": "そらをとぶ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_18_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_18_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_18_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ピジョット"
+  },
+  "number": "18",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SV2a",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

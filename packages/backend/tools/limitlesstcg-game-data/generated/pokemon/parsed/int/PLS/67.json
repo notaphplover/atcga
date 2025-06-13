@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the number of [C] in the Defending Pokémon's Retreat Cost.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre de [C] dans le coût de Retraite du Pokémon Défenseur.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte für jedes [C]-Symbol in den Rückzugskosten des Verteidigenden Pokémon zu.",
+        "it": "Infligge 20 danni per ogni [C] nel costo di ritirata del Pokémon difensore.",
+        "es": "Hace 20 puntos de daño por cada [C] en el Coste de Retirada del Pokémon Defensor."
+      },
+      "name": {
+        "en": "Ensnarl",
+        "fr": "Empêtrement",
+        "de": "Verstricker",
+        "it": "Garbuglio",
+        "es": "Enredo"
+      }
+    },
+    {
+      "cost": "pccc",
+      "dmg": "80×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 80 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 80 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 80 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 80 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Ducts",
+        "fr": "Double Boyau",
+        "de": "Doppelrinne",
+        "it": "Doppiodotto",
+        "es": "Doble Conducto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_067_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Garbodor",
+    "fr": "Miasmax",
+    "de": "Deponitox",
+    "it": "Garbodor",
+    "pt": "Garbodor",
+    "es": "Garbodor"
+  },
+  "number": "67",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLS",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

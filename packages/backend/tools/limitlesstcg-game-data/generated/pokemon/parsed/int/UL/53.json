@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Punch",
+        "fr": "Koud'poing",
+        "de": "Boxhieb",
+        "it": "Pugno",
+        "es": "Puño"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "40-",
+      "effect": {
+        "en": "Does 40 damage minus 10 damage for each damage counter on Mankey.",
+        "fr": "Inflige 40 dégâts moins 10 dégâts pour chaque marqueur de dégât sur Férosinge.",
+        "de": "Dieser Angriff fügt 40 Schadenspunkte minus 10 Schadenspunkte für jede Schadensmarke auf Menki zu.",
+        "it": "Infligge 40 danni meno 10 danni per ogni segnalino danno presente su Mankey.",
+        "es": "Hace 40 puntos de daño menos 10 puntos de daño por cada contador de daño en Mankey."
+      },
+      "name": {
+        "en": "Karate Chop",
+        "fr": "Poing-Karaté",
+        "de": "Karateschlag",
+        "it": "Colpo-Karate",
+        "es": "Golpe kárate"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_053_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mankey",
+    "fr": "Férosinge",
+    "de": "Menki",
+    "it": "Mankey",
+    "pt": "Mankey",
+    "es": "Mankey"
+  },
+  "number": "53",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UL",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

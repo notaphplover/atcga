@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Drool"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Acid"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gloom"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

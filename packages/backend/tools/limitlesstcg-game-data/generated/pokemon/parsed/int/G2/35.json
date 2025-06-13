@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Brock's Primeape ever has exactly 10 HP left, shuffle it and all cards attached to it into your deck. This power stops working while Brock's Primeape is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Scram",
+  "attacks": [
+    {
+      "cost": "fff",
+      "dmg": "60",
+      "effect": {
+        "en": "Brock's Primeape does 20 damage to itself. If there is a Stadium card in play, discard it."
+      },
+      "name": {
+        "en": "Mega Thrash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Primeape"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

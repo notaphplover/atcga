@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンに「ポケモンのどうぐ」がついているなら、おたがいの場・手札・トラッシュのカードに書かれている特性（「ダストオキシン」をのぞく）は、すべてなくなる。",
+  "abilityName": "ダストオキシン",
+  "attacks": [
+    {
+      "cost": "pccc",
+      "dmg": "60",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくとこんらんにする。"
+      },
+      "name": {
+        "jp": "どぎついボム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_50r_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_50r_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_50r_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダストダス"
+  },
+  "number": "50r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

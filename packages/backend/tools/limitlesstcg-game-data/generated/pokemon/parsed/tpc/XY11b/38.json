@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンが、相手のポケモンから受けるワザのダメージは、相手のバトルポケモンのにげるために必要なエネルギーの数x10ダメージぶん、小さくなる。",
+  "abilityName": "ヘビーバンパー",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "70",
+      "effect": {
+        "jp": "次の自分の番、このポケモンが使う「ギアスピナー」のダメージは「+70」される。"
+      },
+      "name": {
+        "jp": "ギアスピナー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11b/XY11b_38_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11b/XY11b_38_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11b/XY11b_38_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギギギアル"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "XY11b",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

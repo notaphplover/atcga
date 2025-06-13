@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "lllc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, Raichu does 30 damage to itself."
+      },
+      "name": {
+        "en": "Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "70",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ひきさく"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "150",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このポケモンにも50ダメージ。"
+      },
+      "name": {
+        "jp": "らいげき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6a/SM6a_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6a/SM6a_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6a/SM6a_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゼクロム"
+  },
+  "number": "33",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM6a",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

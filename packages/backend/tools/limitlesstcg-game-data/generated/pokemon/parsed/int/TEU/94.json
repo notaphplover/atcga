@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Your opponent discards 2 cards from their hand.",
+        "fr": "Votre adversaire défausse 2 cartes de sa main.",
+        "de": "Dein Gegner legt 2 Karten aus seiner Hand auf seinen Ablagestapel.",
+        "it": "Il tuo avversario scarta due carte che ha in mano.",
+        "es": "Tu rival descarta 2 cartas de su mano."
+      },
+      "name": {
+        "en": "Tighten Up",
+        "fr": "Resserrage",
+        "de": "Zudrücken",
+        "it": "Torchio",
+        "es": "Apretar"
+      }
+    },
+    {
+      "cost": "ddcc",
+      "dmg": "170",
+      "effect": {
+        "en": "This Pokémon is now Confused.",
+        "fr": "Ce Pokémon est maintenant Confus.",
+        "de": "Dieses Pokémon ist jetzt verwirrt.",
+        "it": "Questo Pokémon viene confuso.",
+        "es": "Este Pokémon pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Tantrum",
+        "fr": "Mauvaise Humeur",
+        "de": "Rappel",
+        "it": "Collera",
+        "es": "Rabieta"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_094_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pangoro",
+    "fr": "Pandarbare",
+    "de": "Pandagro",
+    "it": "Pangoro",
+    "pt": "Pangoro",
+    "es": "Pangoro"
+  },
+  "number": "94",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "TEU",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

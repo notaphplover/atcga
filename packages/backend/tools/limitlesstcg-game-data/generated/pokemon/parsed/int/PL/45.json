@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Firebreathing"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "High Jump Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Combusken"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

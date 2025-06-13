@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札から「サポート」を出して使えない。",
+  "abilityName": "ばんけん",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "90",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このポケモンにも20ダメージ。"
+      },
+      "name": {
+        "jp": "ワイルドタックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6c/BW6c_53_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6c/BW6c_53_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6c/BW6c_53_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ムーランド"
+  },
+  "number": "53",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW6c",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

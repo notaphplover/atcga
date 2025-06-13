@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "If Vigoroth evolved from Slakoth during this turn and Slakoth was Asleep, this attack's base damage is 60 instead of 10."
+      },
+      "name": {
+        "en": "Wake-up Punch"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/68_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/68.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/68.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vigoroth"
+  },
+  "number": "68",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

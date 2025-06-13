@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に1回使える。おたがいの場のポケモンにのっているダメカンを1個、おたがいの場の別のポケモンにのせ替える。",
+  "abilityName": "シャドームーブ",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30+",
+      "effect": {
+        "jp": "自分のトラッシュのサポートの枚数x10ダメージ追加。追加できるダメージはサポート10枚ぶんまで。"
+      },
+      "name": {
+        "jp": "かげのじゅもん"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_31_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_31_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_31_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジュペッタGX"
+  },
+  "number": "31",
+  "rarity": "rr",
+  "regulation": "b",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SM6b",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

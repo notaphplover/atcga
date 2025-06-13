@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "As long as Dark Weezing is your Active Pokémon, put 1 damage counter on each Pokémon that remains Poisoned between turns.",
+  "abilityName": "Methane Leak",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Put 2 damage counters on Dark Weezing."
+      },
+      "name": {
+        "en": "Darkness Charge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Weezing"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "grass",
+    "darkness"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

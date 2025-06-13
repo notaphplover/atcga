@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "At any time between turns, remove 1 damage counter from Ludicolo.",
+  "abilityName": "Rain Dish",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If you have a Stadium Card in play, this attack does 60 damage plus 20 more damage. If your opponent has a Stadium card in play, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Nature Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ludicolo"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

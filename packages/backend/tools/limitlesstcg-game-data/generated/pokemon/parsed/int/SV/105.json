@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Knuckle Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Focus Fist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Geodude"
+  },
+  "number": "105",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

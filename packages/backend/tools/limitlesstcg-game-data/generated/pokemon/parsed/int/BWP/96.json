@@ -1,0 +1,86 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If there is any Stadium card in play, this attack does 30 more damage.",
+        "fr": "S'il y a une carte Stade en jeu, cette attaque inflige 30 dégâts supplémentaires.",
+        "de": "Wenn eine Stadionkarte im Spiel ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+        "it": "Se c'è in gioco una carta Stadio, questo attacco infligge 30 danni in più."
+      },
+      "name": {
+        "en": "Blow Through",
+        "fr": "Grosse Bourrasque",
+        "de": "Durchdringender Strahl",
+        "it": "Colposecco"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip a coin. If tails, discard an Energy attached to this Pokémon.",
+        "fr": "Lancez une pièce. Si c'est pile, défaussez une Énergie attachée à ce Pokémon.",
+        "de": "Wirf 1 Münze. Lege bei „Zahl“ 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce croce, scarta un'Energia assegnata a questo Pokémon."
+      },
+      "name": {
+        "en": "Power Blast",
+        "fr": "Violente Déflagration",
+        "de": "Powerschuß",
+        "it": "Forzacolpo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_096_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tornadus-EX",
+    "fr": "Boréas-EX",
+    "de": "Boreos-EX",
+    "it": "Tornadus-EX",
+    "pt": "Tornadus-EX",
+    "es": "Tornadus-EX"
+  },
+  "number": "96",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Rear Kick"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandshrew"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

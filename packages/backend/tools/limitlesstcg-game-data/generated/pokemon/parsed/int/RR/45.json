@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As long as Leafeon is your Active Pokémon, whenever you attach an Energy card from your hand to 1 of your Pokémon, remove 2 damage counters from that Pokémon.",
+  "abilityName": "Energy Refresh",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "40",
+      "effect": {
+        "en": "Attach a basic Energy card from your hand to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Plus Energy"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Soothing Scent"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Leafeon"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

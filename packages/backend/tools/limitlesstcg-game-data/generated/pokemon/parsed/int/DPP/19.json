@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "Each basic [D] Energy card attached to your [D] Pokémon now has the effect \"If the Pokémon [D] Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance).\" You can't use more than 1 Dark Shadow Poké-Body each turn.",
+  "abilityName": "Dark Shadow",
+  "attacks": [
+    {
+      "cost": "ddc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pokémon is still Asleep. If both of them are tails, the Defending Pokémon is Knocked Out."
+      },
+      "name": {
+        "en": "Endless Darkness"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Darkrai LV.X"
+  },
+  "number": "19",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "DPP",
+  "stage": "lvx",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

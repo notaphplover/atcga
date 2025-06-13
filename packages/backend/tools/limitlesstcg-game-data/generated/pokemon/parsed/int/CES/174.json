@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may move 1 damage counter from 1 Pokémon to another Pokémon.",
+  "abilityName": "Shady Move",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 10 more damage for each Supporter card in your discard pile. You can't add more than 100 damage in this way.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque carte Supporter dans votre pile de défausse. Vous ne pouvez pas ajouter plus de 100 dégâts de cette façon.",
+        "de": "Diese Attacke fügt 10 Schadenspunkte mehr mal der Anzahl der Unterstützerkarten in deinem Ablagestapel zu. Du kannst auf diese Weise höchstens 100 Schadenspunkte mehr zufügen.",
+        "it": "Questo attacco infligge 10 danni in più per ogni carta Aiuto nella tua pila degli scarti. Non puoi aggiungere più di 100 danni in questo modo.",
+        "es": "Este ataque hace 10 puntos de daño más por cada carta de Partidario en tu pila de descartes. No puedes añadir más de 100 puntos de daño de esta manera."
+      },
+      "name": {
+        "en": "Shadow Chant",
+        "fr": "Chant d'Ombre",
+        "de": "Schattengesang",
+        "it": "Canto Ombra",
+        "es": "Canto Sombrío"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_174_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Banette-GX",
+    "fr": "Branette-GX",
+    "de": "Banette-GX",
+    "it": "Banette-GX",
+    "pt": "Banette-GX",
+    "es": "Banette-GX"
+  },
+  "number": "174",
+  "rarity": "rar",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "CES",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "After your attack, remove from 1 of your Pokémon the number of damage counters equal to the damage you did to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Parallel Drain"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Dozing Scales"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Butterfree"
+  },
+  "number": "14",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "GE",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

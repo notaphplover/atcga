@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a Pokémon that isn't a Pokémon-GX or Pokémon-EX, reveal it, and put it into your hand. Then, shuffle your deck.",
+  "abilityName": "Queen's Call",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 50 more damage for each Evolution Pokémon on your Bench.",
+        "fr": "Cette attaque inflige 50 dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc.",
+        "de": "Diese Attacke fügt 50 Schadenspunkte mehr mal der Anzahl der Entwicklungs-Pokémon auf deiner Bank zu.",
+        "it": "Questo attacco infligge 50 danni in più per ogni Pokémon Evoluzione nella tua panchina.",
+        "es": "Este ataque hace 50 puntos de daño más por cada Pokémon Evolución en tu Banca."
+      },
+      "name": {
+        "en": "Power Lariat",
+        "fr": "Lasso Puissant",
+        "de": "Powerlasso",
+        "it": "Lazo del Potere",
+        "es": "Lazo Poderoso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEU/TEU_056_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoqueen",
+    "fr": "Nidoqueen",
+    "de": "Nidoqueen",
+    "it": "Nidoqueen",
+    "pt": "Nidoqueen",
+    "es": "Nidoqueen"
+  },
+  "number": "56",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TEU",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

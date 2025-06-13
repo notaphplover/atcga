@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Hypno is your Active Pokémon, you may make the Defending Pokémon Asleep. This power can't be used if Hypno is affected by a Special Condition.",
+  "abilityName": "Sleep Pendulum",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon isn't Knocked Out by the damage from this attack, you may choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it."
+      },
+      "name": {
+        "en": "Spiral Aura"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hypno"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

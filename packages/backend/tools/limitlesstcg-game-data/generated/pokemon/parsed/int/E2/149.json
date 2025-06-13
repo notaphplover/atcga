@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [R], [W], or [P] basic Energy card from your hand to Lugia, Lugia's type (color) becomes the same as that Energy card type until the end of the turn.",
+  "abilityName": "Crystal Type",
+  "attacks": [
+    {
+      "cost": "pr",
+      "dmg": "10×",
+      "effect": {
+        "en": "This attack does 10 damage times the number of Energy cards attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic"
+      }
+    },
+    {
+      "cost": "wwrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard an Energy card attached to Lugia."
+      },
+      "name": {
+        "en": "Steam Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/149_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/149.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/149.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lugia"
+  },
+  "number": "149",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

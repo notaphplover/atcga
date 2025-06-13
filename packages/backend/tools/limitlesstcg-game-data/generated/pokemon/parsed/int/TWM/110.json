@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "en": "If a Stadium is in play, this attack also does 30 damage to each of your opponent's Benched Pokémon, and discard that Stadium. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Si un Stade est en jeu, cette attaque inflige aussi 30 dégâts à chacun des Pokémon de Banc de votre adversaire, et vous défaussez ce Stade. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke auch jedem Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu, und du legst jene Stadionkarte auf den Ablagestapel. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Se c'è in gioco una carta Stadio, questo attacco infligge anche 30 danni a ciascuno dei Pokémon nella panchina del tuo avversario e tu scarti quella carta Stadio. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Se um Estádio estiver em jogo, este ataque também causará 30 pontos de dano a cada um dos Pokémon no Banco do seu oponente, e descarte aquele Estádio. (Não aplique Fraqueza e Resistência aos Pokémon no Banco.)",
+        "es": "Si hay un Estadio en juego, este ataque también hace 30 puntos de daño a cada uno de los Pokémon en Banca de tu rival, y descartas ese Estadio. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Ground Crasher",
+        "fr": "Percuteur de Sol",
+        "de": "Bodencrasher",
+        "it": "Fracassaterra",
+        "pt": "Racha Chão",
+        "es": "Demolición de Tierra"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "110",
+      "effect": {},
+      "name": {
+        "en": "Hammer In",
+        "fr": "Enfoncement",
+        "de": "Einhämmern",
+        "it": "Martello",
+        "pt": "Martelada",
+        "es": "Martillear"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_110_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ting-Lu",
+    "fr": "Dinglu",
+    "de": "Dinglu",
+    "it": "Ting-Lu",
+    "pt": "Ting-Lu",
+    "es": "Ting-Lu"
+  },
+  "number": "110",
+  "rarity": "r",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "TWM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

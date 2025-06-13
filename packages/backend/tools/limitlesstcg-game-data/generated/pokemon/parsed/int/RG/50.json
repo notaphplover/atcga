@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "After your attack, you may switch Wartortle with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Smash Turn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wartortle"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

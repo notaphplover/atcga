@@ -1,0 +1,80 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20×",
+      "effect": {
+        "en": "Each player discards the top card of his or her deck. This attack does 20 damage times the number of Energy cards discarded in this way.",
+        "fr": "Chaque joueur défausse la carte du dessus de son deck. Cette attaque inflige 20 dégâts multipliés par le nombre de cartes Énergie ainsi défaussées.",
+        "de": "Jeder Spieler legt die oberste Karte seines Decks auf seinen Ablagestapel. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl aller so abgelegten Energiekarten zu.",
+        "it": "Ogni giocatore scarta la carta in cima al proprio mazzo. Questo attacco infligge 20 danni per il numero di carte Energia scartate in questo modo."
+      },
+      "name": {
+        "en": "Eruption",
+        "fr": "Éruption",
+        "de": "Eruption",
+        "it": "Eruzione"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Combustion",
+        "fr": "Fournaise",
+        "de": "Glühen",
+        "it": "Fuoco Continuo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_042_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar",
+    "fr": "Magmar",
+    "de": "Magmar",
+    "it": "Magmar",
+    "pt": "Magmar",
+    "es": "Magmar"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TM",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

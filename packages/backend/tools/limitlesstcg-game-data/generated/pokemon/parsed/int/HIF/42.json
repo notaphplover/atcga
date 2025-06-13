@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "yyc",
+      "dmg": "100+",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Diese Attacke fügt 30 Schadenspunkte mehr pro Kopf zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni in più ogni volta che esce testa."
+      },
+      "name": {
+        "en": "Rolling Rush",
+        "fr": "Ruée-Boulée",
+        "de": "Rollender Ansturm",
+        "it": "Furia Rotolante"
+      }
+    },
+    {
+      "cost": "yyc",
+      "dmg": "130",
+      "effect": {
+        "en": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Soignez tous les dégâts de ce Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Heile allen Schaden bei diesem Pokémon. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cura questo Pokémon da tutti i danni. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Lovely Star-GX",
+        "fr": "Belle Étoile-GX",
+        "de": "Lieblicher Star-GX",
+        "it": "Stella Adorata-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_042_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wigglytuff-GX",
+    "fr": "Grodoudou-GX",
+    "de": "Knuddeluff-GX",
+    "it": "Wigglytuff-GX",
+    "pt": "Wigglytuff-GX",
+    "es": "Wigglytuff-GX"
+  },
+  "number": "42",
+  "rarity": "rr",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "HIF",
+  "stage": "stage1",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

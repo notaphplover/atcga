@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "Your Basic Pokémon's attacks do 30 more damage to your opponent's Active [D] Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Justified Law",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose up to 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a basic Energy card and attach it to that Pokémon. Then, shuffle your deck.",
+        "fr": "Choisissez jusqu'à 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, cherchez dans votre deck une carte Énergie de base, puis attachez-la à ce Pokémon-là. Mélangez ensuite votre deck.",
+        "de": "Wähle bis zu 2 Pokémon auf deiner Bank. Durchsuche für jedes jener Pokémon dein Deck nach 1 Basis-Energiekarte und lege sie an jenes Pokémon an. Mische anschließend dein Deck.",
+        "it": "Scegli fino a due dei tuoi Pokémon in panchina. Per ognuno di essi, cerca nel tuo mazzo una carta Energia base e assegnala a quel Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Escolha até 2 dos seus Pokémon no Banco. Para cada um daqueles Pokémon, procure por 1 carta de Energia básica no seu baralho e ligue-a àquele Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Elige hasta 2 de tus Pokémon en Banca. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía Básica y únela a ese Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Follow-Up",
+        "fr": "Suivi",
+        "de": "Vorlage",
+        "it": "Proseguimento",
+        "pt": "Continuidade",
+        "es": "Seguimiento"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SIT/SIT_126_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cobalion",
+    "fr": "Cobaltium",
+    "de": "Kobalium",
+    "it": "Cobalion",
+    "pt": "Cobalion",
+    "es": "Cobalion"
+  },
+  "number": "126",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SIT",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

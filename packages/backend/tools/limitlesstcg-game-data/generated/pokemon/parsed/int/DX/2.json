@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Beautifly's remaining HP is 40 or less, Beautifly does 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Hunch",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+      },
+      "name": {
+        "en": "Luring Antenna"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Cutting Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beautifly"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

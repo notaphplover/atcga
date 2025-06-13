@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Heal 20 damage from this Pokémon.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chacun de vos Pokémon de Banc.",
+        "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
+        "it": "Questo attacco infligge 10 danni in più per ogni Pokémon nella tua panchina.",
+        "es": "Cura 20 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Drain Slap",
+        "fr": "Faites la Vague",
+        "de": "Watschensauger",
+        "it": "Fare la Ola",
+        "es": "Absorbebofetón"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "This attack does 10 more damage for each of your Benched Pokémon.",
+        "de": "Dieser Angriff fügt 10 weitere Schadenspunkte mal der Anzahl der Pokémon auf deiner Bank zu.",
+        "es": "Este ataque hace 10 puntos de daño más por cada uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Do the Wave",
+        "de": "Wellenreiten",
+        "es": "Hacer la Ola"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_084_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Audino-EX",
+    "fr": "Nanméouïe-EX",
+    "de": "Ohrdoch-EX",
+    "it": "Audino-EX",
+    "pt": "Audino-EX",
+    "es": "Audino-EX"
+  },
+  "number": "84",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "FCO",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

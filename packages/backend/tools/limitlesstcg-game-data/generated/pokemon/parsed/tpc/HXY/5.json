@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ニードルアーム"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "ローリングアタック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/HXY/HXY_5_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/HXY/HXY_5_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/HXY/HXY_5_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブリガロン"
+  },
+  "number": "5",
+  "resistance": [],
+  "retreat": 4,
+  "set": "HXY",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

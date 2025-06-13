@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Arcanine is your Active Pokémon and is damaged by an opponent's attack (even if Arcanine is Knocked Out), the Attacking Pokémon is now Burned.",
+  "abilityName": "Fire Veil",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, discard all [R] Energy cards attached to Arcanine."
+      },
+      "name": {
+        "en": "Burn Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

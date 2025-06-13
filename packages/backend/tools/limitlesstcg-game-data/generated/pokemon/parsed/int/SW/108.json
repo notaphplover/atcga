@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Toxic Spore"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/108_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/108.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/108.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shroomish"
+  },
+  "number": "108",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

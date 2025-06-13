@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Move 1 Energy card attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon. If your opponent has no Benched Pokémon, this effect does nothing."
+      },
+      "name": {
+        "en": "Aqua Trick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seadra"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

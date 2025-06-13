@@ -1,0 +1,71 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put this Pokémon on the bottom of your deck.",
+  "abilityName": "Prehistoric Call",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Heal 10 damage from this Pokémon.",
+        "fr": "Soignez 10 dégâts à ce Pokémon.",
+        "de": "Heile 10 Schadenspunkte bei diesem Pokémon."
+      },
+      "name": {
+        "en": "Spiral Drain",
+        "fr": "Spirale Épuisante",
+        "de": "Spiralsauger"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_003_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lileep",
+    "fr": "Lilia",
+    "de": "Liliep",
+    "it": "Lileep",
+    "pt": "Lileep",
+    "es": "Lileep"
+  },
+  "number": "3",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "PLB",
+  "stage": "restored",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

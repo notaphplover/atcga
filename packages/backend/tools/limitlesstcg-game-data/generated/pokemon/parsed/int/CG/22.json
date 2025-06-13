@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If Kingler has a Pokémon Tool card attached to it, this attack does 40 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Prop-up Pinchers"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kingler"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "fire",
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

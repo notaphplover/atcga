@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "If your opponent's Active Pokémon retreats, put 2 damage counters on that Pokémon.",
+  "abilityName": "Sinkhole",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Push Down"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "70",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Magnitude"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dugtrio"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 0,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

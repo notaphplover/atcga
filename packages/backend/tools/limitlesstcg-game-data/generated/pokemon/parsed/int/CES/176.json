@@ -1,0 +1,87 @@
+{
+  "abilityEffect": "Your Ultra Beasts take 10 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+  "abilityName": "Ultra Wall",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "en": "Gigaton Stomp",
+        "fr": "Écrasement Gigatonne",
+        "de": "Gigatonnen-Stampfer",
+        "it": "Pestone Gigatonico",
+        "es": "Pisotón Gigatón"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "50+",
+      "effect": {
+        "en": "This attack does 50 more damage for each Prize card you have taken. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 50 dégâts supplémentaires pour chaque carte Récompense que vous avez récupérée. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 50 Schadenspunkte mehr mal der Anzahl der von dir genommenen Preiskarten zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 50 danni in più per ogni carta Premio che hai preso. Non puoi usare più di un attacco GX a partita.",
+        "es": "Este ataque hace 50 puntos de daño más por cada carta de Premio que hayas cogido. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Assembly-GX",
+        "fr": "Empilage-GX",
+        "de": "Mauerwerk-GX",
+        "it": "Structura-GX",
+        "es": "UE Bloques-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_176_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Stakataka-GX",
+    "fr": "Ama-Ama-GX",
+    "de": "Muramura-GX",
+    "it": "Stakataka-GX",
+    "pt": "Stakataka-GX",
+    "es": "Stakataka-GX"
+  },
+  "number": "176",
+  "rarity": "rar",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "CES",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

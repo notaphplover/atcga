@@ -1,0 +1,77 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "If this Pokémon's remaining HP is 10, this attack does 70 more damage.",
+        "fr": "S'il reste 10 PV à ce Pokémon, cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn dieses Pokémon 10 verbliebene KP hat, fügt dieser Angriff 70 weitere Schadenspunkte zu."
+      },
+      "name": {
+        "en": "Last-Chance Chop",
+        "fr": "Dernière Chance",
+        "de": "Letzter Hoffnungshieb"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Seismic Toss",
+        "fr": "Frappe Atlas",
+        "de": "Geowurf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_048_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machoke",
+    "fr": "Machopeur",
+    "de": "Maschock",
+    "it": "Machoke",
+    "pt": "Machoke",
+    "es": "Machoke"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLB",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

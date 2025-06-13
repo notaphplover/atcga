@@ -1,0 +1,64 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "このポケモンにのっているダメカンの数x10ダメージ追加。"
+      },
+      "name": {
+        "jp": "げきりん"
+      }
+    },
+    {
+      "cost": "rrrc",
+      "dmg": "230",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「フレアストライク」が使えない。"
+      },
+      "name": {
+        "jp": "フレアストライク"
+      }
+    },
+    {
+      "cost": "rrr+",
+      "dmg": "200+",
+      "effect": {
+        "jp": "追加で[炎]エネルギーが3個ついているなら、100ダメージ追加。その場合、このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ダブルブレイズGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_97_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_97_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_97_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "レシラム&リザードンGX"
+  },
+  "number": "97",
+  "rarity": "sr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM10",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

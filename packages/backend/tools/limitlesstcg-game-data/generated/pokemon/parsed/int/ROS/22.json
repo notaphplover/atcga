@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 20 danni ogni volta che esce testa.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Continuous Tumble",
+        "fr": "Roulade Continue",
+        "de": "Dauerrollen",
+        "it": "Capriole",
+        "es": "Avalancha Continua"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "70",
+      "effect": {
+        "en": "You may move all Energy from this Pokémon to your Benched Pokémon in any way you like.",
+        "fr": "Vous pouvez déplacer toutes les Énergies de ce Pokémon vers vos Pokémon de Banc, de la manière que vous voulez.",
+        "de": "Du kannst alle an dieses Pokémon angelegten Energien beliebig auf die Pokémon auf deiner Bank verschieben.",
+        "it": "Puoi spostare a piacimento tutte le Energie da questo Pokémon a quelli nella tua panchina.",
+        "es": "Puedes mover toda la Energía de este Pokémon a tus Pokémon en Banca de la manera que desees."
+      },
+      "name": {
+        "en": "Energy Bomb",
+        "fr": "Bomb'Énergie",
+        "de": "Energiebombe",
+        "it": "Energibomba",
+        "es": "Bomba Energética"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ROS/ROS_022_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode",
+    "fr": "Électrode",
+    "de": "Lektrobal",
+    "it": "Electrode",
+    "pt": "Electrode",
+    "es": "Electrode"
+  },
+  "number": "22",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "ROS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

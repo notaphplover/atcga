@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you put Absol G LV.X from your hand onto your Active Absol G, you may flip 3 coins. For each heads, put the top card from your opponent's deck in the Lost Zone.",
+  "abilityName": "Darkness Send",
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may discard a card from your hand. If you do, this attack does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Darkness Slugger"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/141_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/141.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/141.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Absol G LV.X"
+  },
+  "number": "141",
+  "rarity": "ur",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "lvx",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "まんりきバイト"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "130",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "くらいつく"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SD/SD_26_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SD/SD_26_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SD/SD_26_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カジリガメ"
+  },
+  "number": "26",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SD",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

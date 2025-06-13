@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Rollout"
+      }
+    },
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "Discard a [R] Energy card attached to Numel and then discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Kindle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/70_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/70.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/70.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Numel"
+  },
+  "number": "70",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

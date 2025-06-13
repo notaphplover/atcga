@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each [W] Energy attached to Slowpoke but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/73_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/73.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/73.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowpoke"
+  },
+  "number": "73",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N1",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

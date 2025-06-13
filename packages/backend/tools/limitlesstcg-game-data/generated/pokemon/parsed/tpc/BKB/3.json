@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、ワザを使ったポケモンをどくとこんらんにする。",
+  "abilityName": "うらみだま",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "jp": "相手のベンチポケモンを1匹選び、そのポケモンにも10ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+      },
+      "name": {
+        "jp": "アクアバレット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKB/BKB_3_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKB/BKB_3_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKB/BKB_3_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブルンゲル"
+  },
+  "number": "3",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BKB",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

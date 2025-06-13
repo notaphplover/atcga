@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Groudon"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

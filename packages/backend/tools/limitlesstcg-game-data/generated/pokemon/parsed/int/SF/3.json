@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you play Infernape from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, search your deck for up to 4 [R] Energy cards and attach them to your Pokémon in any way you like. Shuffle your deck afterward.",
+  "abilityName": "Blaze Dance",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Infernape by attacks is increased by 30 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Close Combat"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard 2 [R] Energy attached to Infernape and this attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spreading Fire"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Infernape"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

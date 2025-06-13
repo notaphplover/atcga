@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Bear Hug"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage. If not, this attack does 40 damage."
+      },
+      "name": {
+        "en": "Rend"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/110_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/110.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/110.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ursaring"
+  },
+  "number": "110",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

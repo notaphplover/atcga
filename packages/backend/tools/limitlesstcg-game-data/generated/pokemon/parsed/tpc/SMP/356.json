@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージは「-90」される。",
+  "abilityName": "こうみつどアーマー",
+  "attacks": [
+    {
+      "cost": "fccc",
+      "dmg": "160",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "だいちをくだく"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 250,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_356_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_356_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_356_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アバゴーラGX"
+  },
+  "number": "356",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SMP",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Static Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mareep"
+  },
+  "number": "94",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

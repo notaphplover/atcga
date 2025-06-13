@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Power, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

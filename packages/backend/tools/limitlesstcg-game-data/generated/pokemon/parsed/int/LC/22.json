@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "lll",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon isn't [C], this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own)."
+      },
+      "name": {
+        "en": "Chain Lightning"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electrode"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

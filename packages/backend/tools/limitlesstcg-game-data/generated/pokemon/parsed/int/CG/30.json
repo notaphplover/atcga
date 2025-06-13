@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, Charmeleon does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thunder Jolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmeleon"
+  },
+  "number": "30",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

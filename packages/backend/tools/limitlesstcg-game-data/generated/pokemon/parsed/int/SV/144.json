@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. If you do, your turn ends. Search your discard pile for up to 3 Energy cards and attach them to your Pokémon in any way you like. This power can't be used if Electivire FB is affected by a Special Condition.",
+  "abilityName": "Energy Recycle",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 damage plus 10 more damage for each Energy attached to all of your Pokémon."
+      },
+      "name": {
+        "en": "Powerful Spark"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/144_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/144.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/144.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electivire FB LV.X"
+  },
+  "number": "144",
+  "rarity": "ur",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 3,
+  "set": "SV",
+  "stage": "lvx",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

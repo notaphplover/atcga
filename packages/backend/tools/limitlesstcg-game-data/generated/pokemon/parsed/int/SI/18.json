@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Low Kick"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each damage counter on Primeape. Flip a coin. If tails, Primeape is now Confused (after doing damage)."
+      },
+      "name": {
+        "en": "Rampage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/si1/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/si1/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/si1/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Primeape"
+  },
+  "number": "18",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SI",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

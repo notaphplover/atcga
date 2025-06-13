@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "If Mr. Mime would be Knocked Out by damage from an attack that does 70 or more damage (after applying Weakness and Resistance), Mr. Mime is not Knocked Out and its remaining HP becomes 10 instead.",
+  "abilityName": "Focus Wall",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Mr. Mime already has 5 or more damage counters on it, this attack does 20 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Desperate Slap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mr. Mime"
+  },
+  "number": "37",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": []
+}

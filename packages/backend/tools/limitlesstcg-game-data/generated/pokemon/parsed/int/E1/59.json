@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Pidgeot is your Active Pokémon, you may shuffle 1 of your Benched Pokémon and all cards attached to it into your deck. This power can't be used if Pidgeot is affected by a Special Condition.",
+  "abilityName": "Beating Wings",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Sharp Beak"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/59_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/59.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/59.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pidgeot"
+  },
+  "number": "59",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

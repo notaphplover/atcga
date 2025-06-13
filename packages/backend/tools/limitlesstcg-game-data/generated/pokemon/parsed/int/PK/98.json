@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If your opponent's Active Pokémon retreats and has 40 or more remaining HP, put 3 damage counters on that Pokémon. You can't use more than 1 [M] Gravity Poké-Body each turn.",
+  "abilityName": "Metal Gravity",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Razor Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skarmory ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

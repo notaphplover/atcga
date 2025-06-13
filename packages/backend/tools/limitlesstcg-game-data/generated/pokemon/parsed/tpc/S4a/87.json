@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
+  "abilityName": "すりぬけ",
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "120",
+      "effect": {
+        "jp": "ダメカン3個を、相手のベンチポケモンに好きなようにのせる。"
+      },
+      "name": {
+        "jp": "ゴーストダイブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_87_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_87_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_87_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドラパルト"
+  },
+  "number": "87",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "S4a",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

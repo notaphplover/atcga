@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "20×",
+      "effect": {
+        "en": "Choose up to 4 in any combination of Pokémon Tool cards and Technical Machine cards in play (both yours and your opponent's) and discard them. This attack does 20 damage times the number of cards discarded in this way."
+      },
+      "name": {
+        "en": "Crash Chant"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "40",
+      "effect": {
+        "en": "If your opponent has 4 or more Benched Pokémon, choose 1 of them and return that Pokémon and all cards attached to it to your opponent's hand."
+      },
+      "name": {
+        "en": "Horror Chant"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mismagius"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

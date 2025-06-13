@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Super Singe"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Move an Energy card attached to Torkoal to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Flame Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torkoal"
+  },
+  "number": "100",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

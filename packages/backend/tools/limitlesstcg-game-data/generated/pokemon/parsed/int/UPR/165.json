@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "This attack does 20 more damage times the amount of [W] Energy attached to this Pokémon.",
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires multipliés par le nombre d'Énergies [W] attachées à ce Pokémon.",
+        "de": "Diese Attacke fügt 20 Schadenspunkte mehr mal der Anzahl der an dieses Pokémon angelegten [W]-Energien zu.",
+        "it": "Questo attacco infligge 20 danni in più per ogni Energia [W] assegnata a questo Pokémon.",
+        "es": "Este ataque hace 20 puntos de daño más por cada Energía [W] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Hydro Pressure",
+        "fr": "Pression Hydroélectrique",
+        "de": "Wasserkraft",
+        "it": "Pressione Idrica",
+        "es": "Presión Acuática"
+      }
+    },
+    {
+      "cost": "wwwcc",
+      "dmg": "150",
+      "effect": {
+        "en": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Mélangez l'Énergie de chacun des Pokémon de votre adversaire dans son deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Mische alle Energien von jedem Pokémon deines Gegners in sein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Rimischia tutte le Energie assegnate a ciascuno dei Pokémon del tuo avversario nel suo mazzo. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Zero Vanish-GX",
+        "fr": "Zéro Disparaissant-GX",
+        "de": "Nullwert-GX",
+        "it": "Zero Evanescente-GX",
+        "es": "Fuga Cero-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_165_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Palkia-GX",
+    "fr": "Palkia-GX",
+    "de": "Palkia-GX",
+    "it": "Palkia-GX",
+    "pt": "Palkia-GX",
+    "es": "Palkia-GX"
+  },
+  "number": "165",
+  "rarity": "rar",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UPR",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

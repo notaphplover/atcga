@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "If you have Cresselia in play, each of Darkrai's attack does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Darkness Aura",
+  "attacks": [
+    {
+      "cost": "ddc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnoblast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP52_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP52.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP52.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Darkrai"
+  },
+  "number": "52",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

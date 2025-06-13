@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par les Poké-Powers, les Poké-Bodies ou tout autre effet actif sur le Pokémon Défenseur.",
+        "de": "Poké-Power, Poké-Body und alle anderen Effekte auf dem Verteidigenden Pokémon haben keine Auswirkungen auf die Schadenspunkte dieses Angriffs.",
+        "it": "Il danno di questo attacco non è influenzato da Poké-Power, Poké‑Body o qualsiasi altro effetto presente sul Pokémon Difensore.",
+        "es": "El daño de este ataque no se ve afectado por Poké-Powers, Poké-Bodies o cualquier otro efecto en el Pokémon Defensor."
+      },
+      "name": {
+        "en": "Power Claw",
+        "fr": "Griffes puissantes",
+        "de": "Kraftklaue",
+        "it": "Forzartiglio",
+        "es": "Garra de poder"
+      }
+    },
+    {
+      "cost": "ddcc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard the top 3 cards of your deck.",
+        "fr": "Défaussez les 3 cartes du dessus de votre deck.",
+        "de": "Lege die 3 obersten Karten von deinem Deck auf deinen Ablagestapel.",
+        "it": "Scarta le prime 3 carte del tuo mazzo.",
+        "es": "Descarta las 3 primeras cartas de tu mazo."
+      },
+      "name": {
+        "en": "Megaton Tail",
+        "fr": "Queue titanesque",
+        "de": "Megatonnenschweif",
+        "it": "Megacoda",
+        "es": "Cola Megaton"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_088_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar",
+    "fr": "Tyranocif",
+    "de": "Despotar",
+    "it": "Tyranitar",
+    "pt": "Tyranitar",
+    "es": "Tyranitar"
+  },
+  "number": "88",
+  "rarity": "rr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "UL",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Each of your [G] Pokémon (excluding any Shaymin) gets +40 HP. You can't use more than 1 Thankfulness Poké-Body each turn.",
+  "abilityName": "Thankfulness",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Choose as many [G] Energy cards from your hand as you like and attach them to your Pokémon in any way you like. If you do, this attack does 40 damage plus 20 more damage for each [G] Energy attached in this way."
+      },
+      "name": {
+        "en": "Seed Flare"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/126_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/126.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/126.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shaymin LV.X"
+  },
+  "number": "126",
+  "rarity": "ur",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "lvx",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

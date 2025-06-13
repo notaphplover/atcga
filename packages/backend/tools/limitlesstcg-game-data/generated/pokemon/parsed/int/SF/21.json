@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads or you may start again. Each time you start again, put 2 damage counters on Mamoswine. (If Mamoswine would be Knocked Out, you can't start again.)"
+      },
+      "name": {
+        "en": "Ramming Strike"
+      }
+    },
+    {
+      "cost": "wfcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each Swinub on your Bench, plus 20 more damage for each Piloswine on your Bench, and 40 more damage for each Mamoswine on your Bench."
+      },
+      "name": {
+        "en": "Parade"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mamoswine"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 5,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

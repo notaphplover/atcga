@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の自分の番の終わりまで、おたがいのプレイヤーは、手札からサポートを出して使えずスタジアムも出せない。"
+      },
+      "name": {
+        "jp": "ゾクゾクブレス"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。ウラなら、相手のバトルポケモンをこんらんにする。"
+      },
+      "name": {
+        "jp": "ディープフローズン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY8b/XY8b_20_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY8b/XY8b_20_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY8b/XY8b_20_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バイバニラ"
+  },
+  "number": "20",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "XY8b",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

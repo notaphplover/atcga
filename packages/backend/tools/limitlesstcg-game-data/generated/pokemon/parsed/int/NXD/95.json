@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño más."
+      },
+      "name": {
+        "en": "Glinting Claw",
+        "fr": "Griffe Scintillante",
+        "de": "Schimmernde Klaue",
+        "it": "Luminartiglio",
+        "es": "Garra Destellante"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "150",
+      "effect": {
+        "en": "Flip a coin. If tails, this Pokémon does 50 damage to itself.",
+        "fr": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige 50 dégâts.",
+        "de": "Wirf 1 Münze. Bei „Zahl“ fügt sich dieses Pokémon selbst 50 Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce croce, questo Pokémon infligge 50 danni a se stesso.",
+        "es": "Lanza una moneda. Si sale cruz, este Pokémon se hace 50 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Brave Fire",
+        "fr": "Flammes de Bravoure",
+        "de": "Tapferes Feuer",
+        "it": "Cuorinfiamme",
+        "es": "Fuego Osado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_095_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Reshiram-EX",
+    "fr": "Reshiram-EX",
+    "de": "Reshiram-EX",
+    "it": "Reshiram-EX",
+    "pt": "Reshiram-EX",
+    "es": "Reshiram-EX"
+  },
+  "number": "95",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "NXD",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "If Dark Gyarados is your Active Pokémon and is Knocked Out by an opponent's attack, put 3 damage counters on the Attacking Pokémon.",
+  "abilityName": "Dark Scale",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Sharp Fang"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dark Streak"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Gyarados"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "water",
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

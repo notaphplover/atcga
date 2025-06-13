@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Does 20 damage times the number of damage counters on this Pokémon.",
+        "fr": "Inflige 20 dégâts multipliés par le nombre de marqueurs de dégâts placés sur ce Pokémon.",
+        "de": "Dieser Angriff fügt 20 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+        "it": "Infligge 20 danni per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Hace 20 puntos de daño por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Powerful Rage",
+        "fr": "Rage Massive",
+        "de": "Mächtige Wut",
+        "it": "Forzafuria",
+        "es": "Ira Recia"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "90",
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la carta in cima al mazzo del tuo avversario.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Glacier Drop",
+        "fr": "Chute de Glacier",
+        "de": "Gletschersturz",
+        "it": "Ghiaccioslitta",
+        "es": "Caída Glacial"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_041_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beartic",
+    "fr": "Polagriffe",
+    "de": "Siberio",
+    "it": "Beartic",
+    "pt": "Beartic",
+    "es": "Beartic"
+  },
+  "number": "41",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "PLS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

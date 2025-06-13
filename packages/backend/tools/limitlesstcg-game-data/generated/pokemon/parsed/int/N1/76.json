@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Stomp"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mystifying Horns"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/76_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/76.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/76.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Stantler"
+  },
+  "number": "76",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "N1",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

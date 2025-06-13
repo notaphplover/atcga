@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 60 more damage."
+      },
+      "name": {
+        "en": "Gnaw Off"
+      }
+    },
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Raticate has any [D] Energy attached to it, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Sneaky Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/61_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/61.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/61.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raticate"
+  },
+  "number": "61",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

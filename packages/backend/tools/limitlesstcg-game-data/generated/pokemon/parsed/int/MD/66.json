@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Grainy Sand"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "Hippopotas does 10 damage to itself."
+      },
+      "name": {
+        "en": "Double-edge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/66_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/66.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/66.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hippopotas"
+  },
+  "number": "66",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

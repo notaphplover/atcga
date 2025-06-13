@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned. Flip a coin. If heads, the Defending Pokémon is also Paralyzed.",
+        "fr": "Le Pokémon Défenseur est maintenant Brûlé. Lancez une pièce. Si c'est face, le Pokémon Défenseur est aussi Paralysé.",
+        "it": "Il Pokémon difensore viene bruciato. Lancia una moneta. Se esce testa, viene anche paralizzato.",
+        "es": "El Pokémon Defensor pasa a estar Quemado. Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar también Paralizado."
+      },
+      "name": {
+        "en": "Fire Shard",
+        "fr": "Écharde de Feu",
+        "de": "Feuerscherben",
+        "it": "Frammento di Fuoco",
+        "es": "Fragmento Fuego"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard an Energy attached to this Pokémon.",
+        "fr": "Défaussez une Énergie attachée à ce Pokémon.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon.",
+        "es": "Descarta una Energía unida a este Pokémon."
+      },
+      "name": {
+        "en": "Flamethrower",
+        "fr": "Lance-Flamme",
+        "de": "Flammenwurf",
+        "it": "Lanciafiamme",
+        "es": "Lanzallamas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_022_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Camerupt",
+    "fr": "Camérupt",
+    "de": "Camerupt",
+    "it": "Camerupt",
+    "pt": "Camerupt",
+    "es": "Camerupt"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "BCR",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

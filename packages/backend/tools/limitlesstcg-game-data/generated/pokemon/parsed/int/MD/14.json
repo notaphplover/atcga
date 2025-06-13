@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you put Zapdos from your hand onto your Bench, you may flip a coin. If heads, put 1 damage counter on each of your opponent's Pokémon.",
+  "abilityName": "Sheet Lightning",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "80",
+      "effect": {
+        "en": "Does 40 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage."
+      },
+      "name": {
+        "en": "Raging Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zapdos"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Butterfree is your Active Pokémon, remove 1 damage counter from each of your Pokémon between turns.",
+  "abilityName": "Sooth Dust",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Gust"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Butterfree"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

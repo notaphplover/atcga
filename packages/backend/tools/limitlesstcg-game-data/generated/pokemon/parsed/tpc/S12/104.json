@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に何回でも使える。自分の場のポケモンについている[F]エネルギーを1個選び、このポケモンにつけ替える。",
+  "abilityName": "ししふんじん",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "90+",
+      "effect": {
+        "jp": "このポケモンについている[F]エネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "ロックバレット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_104_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_104_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_104_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヒスイ ウインディV"
+  },
+  "number": "104",
+  "rarity": "sr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 3,
+  "set": "S12",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

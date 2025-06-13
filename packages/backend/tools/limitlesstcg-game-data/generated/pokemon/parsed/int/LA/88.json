@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Razor Fin"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Chinchou has any [W] Energy attached to it, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Aqua Spark"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/88_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/88.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/88.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Chinchou"
+  },
+  "number": "88",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

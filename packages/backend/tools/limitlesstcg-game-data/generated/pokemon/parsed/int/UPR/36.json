@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+        "fr": "Lancez une pièce. Si c'est face, évitez tous les effets d'attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire.",
+        "de": "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners alle Effekte von Attacken, einschließlich Schaden, die diesem Pokémon zugefügt werden.",
+        "it": "Lancia una moneta. Se esce testa, previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon durante il prossimo turno del tuo avversario.",
+        "es": "Lanza 1 moneda. Si sale cara, evita todos los efectos de los ataques, incluido el daño, infligidos a este Pokémon durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Agility",
+        "fr": "Hâte",
+        "de": "Agilität",
+        "it": "Agilità",
+        "es": "Agilidad"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard a [W] Energy from this Pokémon.",
+        "fr": "Défaussez une Énergie [W] de ce Pokémon.",
+        "de": "Lege 1 [W]-Energie von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia [W] assegnata a questo Pokémon.",
+        "es": "Descarta 1 Energía [W] de este Pokémon."
+      },
+      "name": {
+        "en": "Aqua Blast",
+        "fr": "Explosion Aquatique",
+        "de": "Wasserschuss",
+        "it": "Esplosione Acquatica",
+        "es": "Explosión Acuática"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_036_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Floatzel",
+    "fr": "Mustéflott",
+    "de": "Bojelin",
+    "it": "Floatzel",
+    "pt": "Floatzel",
+    "es": "Floatzel"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UPR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

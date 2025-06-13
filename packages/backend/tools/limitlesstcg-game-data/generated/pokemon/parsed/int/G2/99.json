@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, this attack does no damage and Sabrina's Psyduck is now Confused."
+      },
+      "name": {
+        "en": "Random ESP"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/99_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/99.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/99.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Psyduck"
+  },
+  "number": "99",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

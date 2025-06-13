@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnoblast"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mewtwo"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

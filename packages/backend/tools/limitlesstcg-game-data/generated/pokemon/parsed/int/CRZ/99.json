@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "During your turn, you may use this Ability. During your opponent's next turn, all of your Pokémon take 100 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). (This includes Pokémon that come into play during this turn or during your opponent's next turn.) (You can't use more than 1 VSTAR Power in a game.)",
+  "abilityName": "Shield Star",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "220",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't attack.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
+        "es": "Durante tu próximo turno, este Pokémon no puede atacar."
+      },
+      "name": {
+        "en": "Giga Impact",
+        "fr": "Giga Impact",
+        "de": "Gigastoß",
+        "it": "Gigaimpatto",
+        "pt": "Gigaimpacto",
+        "es": "Gigaimpacto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_099_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zamazenta VSTAR",
+    "fr": "Zamazenta VSTAR",
+    "de": "Zamazenta VSTAR",
+    "it": "Zamazenta V ASTRO",
+    "pt": "Zamazenta V-ASTRO",
+    "es": "Zamazenta V-ASTRO"
+  },
+  "number": "99",
+  "rarity": "rrr",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "CRZ",
+  "stage": "vstar",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

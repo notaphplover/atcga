@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "As long as any Stadium card with Holon in its name is in play, each of your Pokémon that has δ on its card does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Delta Reactor",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    },
+    {
+      "cost": "lmccc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Heavy Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gyarados"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "stage1",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

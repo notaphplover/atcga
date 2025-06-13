@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "High Jump Kick"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Fake Out"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/55_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/55.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/55.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meditite"
+  },
+  "number": "55",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

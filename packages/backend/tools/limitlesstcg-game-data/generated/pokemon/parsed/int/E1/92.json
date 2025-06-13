@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
+      },
+      "name": {
+        "en": "Doubleslap"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "40",
+      "effect": {
+        "en": "Wartortle can't attack during your next turn."
+      },
+      "name": {
+        "en": "Giant Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wartortle"
+  },
+  "number": "92",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "w",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the number of damage counters on Magikarp."
+      },
+      "name": {
+        "en": "Flail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/50_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/50.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/50.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magikarp"
+  },
+  "number": "50",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

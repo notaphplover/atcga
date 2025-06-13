@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "相手の場の「ポケモンV」の数ぶん、このポケモンがワザを使うための【無】エネルギーは少なくなる。",
+  "abilityName": "とうそうほんのう",
+  "attacks": [
+    {
+      "cost": "fccc",
+      "dmg": "170",
+      "effect": {
+        "jp": "ダメージを与える前に、相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "らいめいげり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5a/S5a_37_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5a/S5a_37_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S5a/S5a_37_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガラル サンダーV"
+  },
+  "number": "37",
+  "rarity": "rr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S5a",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Pelipper is on your Bench, you may switch 1 of your Active Pokémon that has δ on its card with 1 of your Benched Pokémon.",
+  "abilityName": "Delta Transport",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Wing Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pelipper"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

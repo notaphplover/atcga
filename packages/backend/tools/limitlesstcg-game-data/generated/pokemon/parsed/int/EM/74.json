@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gnaw"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zigzagoon"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

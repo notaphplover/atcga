@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "jp": "おたがいのポケモンについている[草]エネルギーの合計x10ダメージを追加。"
+      },
+      "name": {
+        "jp": "しぜんのちから"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "jp": "このポケモンのHPを「20」回復する。"
+      },
+      "name": {
+        "jp": "ウッドホーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW1b/BW1b_7_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW1b/BW1b_7_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW1b/BW1b_7_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メブキジカ"
+  },
+  "number": "7",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "BW1b",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Das Verteidigende Pokémon schläft jetzt.",
+        "it": "Il Pokémon Difensore è Addormentato."
+      },
+      "name": {
+        "en": "Icy Wind",
+        "fr": "Vent glacé",
+        "de": "Eissturm",
+        "it": "Ventogelato"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Does 20 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 20 dégâts à chacun des Pokémon se trouvant sur le Banc de votre adversaire et ayant des marqueurs de dégât. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners, auf dem bereits mindestens 1 Schadensmarke liegt, 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 20 danni a ogni Pokémon in Panchina del tuo avversario che ha dei segnalini danno su di sé. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+      },
+      "name": {
+        "en": "Snowstorm",
+        "fr": "Tempête de neige",
+        "de": "Schneesturm",
+        "it": "Nevetempesta"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_005_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mamoswine",
+    "fr": "Mammochon",
+    "de": "Mamutel",
+    "it": "Mamoswine",
+    "pt": "Mamoswine",
+    "es": "Mamoswine"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "TM",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

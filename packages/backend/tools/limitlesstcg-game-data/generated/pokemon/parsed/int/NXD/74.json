@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, i danni inflitti a questo Pokémon dagli attacchi sono ridotti di 20, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, cualquier daño hecho a este Pokémon por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Rock Head",
+        "fr": "Tête de Roc",
+        "de": "Steinhaupt",
+        "it": "Testadura",
+        "es": "Cabeza Roca"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If this Pokémon has fewer remaining HP than the Defending Pokémon, this attack does 30 more damage.",
+        "fr": "S'il reste moins de PV à ce Pokémon qu'au Pokémon Défenseur, cette attaque inflige 30 dégâts supplémentaires.",
+        "de": "Wenn dieses Pokémon weniger verbliebene KP hat als das Verteidigende Pokémon, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+        "it": "Se questo Pokémon ha meno PV rimanenti del Pokémon difensore, questo attacco infligge 30 danni in più.",
+        "es": "Si a este Pokémon le quedan menos PV que al Pokémon Defensor, este ataque hace 30 puntos de daño más."
+      },
+      "name": {
+        "en": "Hammer Kick",
+        "fr": "Marto-Pied",
+        "de": "Hammerkick",
+        "it": "Calciomartello",
+        "es": "Patada Martillo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_074_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scrafty",
+    "fr": "Baggaïd",
+    "de": "Irokex",
+    "it": "Scrafty",
+    "pt": "Scrafty",
+    "es": "Scrafty"
+  },
+  "number": "74",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "NXD",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

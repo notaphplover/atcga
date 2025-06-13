@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "If Dark Sandslash is your Active Pokémon and is damaged by an opponent's attack (even if Dark Sandslash is Knocked Out), the Attacking Pokémon is now Poisoned.",
+  "abilityName": "Poison Payback",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Sandslash"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "fighting",
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Il Pokémon difensore viene avvelenato.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poison Sting",
+        "fr": "Dard-Venin",
+        "de": "Giftstachel",
+        "it": "Velenospina",
+        "es": "Picotazo Veneno"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 40 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 40 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Kick",
+        "fr": "Double Pied",
+        "de": "Doppelkick",
+        "it": "Doppiocalcio",
+        "es": "Doble Patada"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_041_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidorina",
+    "fr": "Nidorina",
+    "de": "Nidorina",
+    "it": "Nidorina",
+    "pt": "Nidorina",
+    "es": "Nidorina"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PLF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

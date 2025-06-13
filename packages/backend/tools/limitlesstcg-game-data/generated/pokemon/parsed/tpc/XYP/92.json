@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-20」される。"
+      },
+      "name": {
+        "jp": "ムーンフォース"
+      }
+    },
+    {
+      "cost": "yyc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x40ダメージを追加。"
+      },
+      "name": {
+        "jp": "ひかりのうず"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_92_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_92_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_92_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ディアンシーEX"
+  },
+  "number": "92",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

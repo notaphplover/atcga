@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Meditate"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Confuse Ray"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jynx"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

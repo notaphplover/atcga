@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+        "fr": "Lancez 3 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de faces.",
+        "de": "Wirf 3 Münzen. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia 3 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
+        "es": "Lanza 3 monedas. Este ataque hace 20 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Triple Kick",
+        "fr": "Triple pied",
+        "de": "Dreifachkick",
+        "it": "Triplocalcio",
+        "es": "Triplepatada"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Hitmontop by attacks is increased by 20 (after applying Weakness and Resistance).",
+        "fr": "Tous les dégâts infligés à Kapoera par des attaques pendant le prochain tour de votre adversaire sont augmentés de 20 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der Kapoera durch Angriffe zugefügt wird, um 20 Schadenspunkte erhöht (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, qualsiasi danno inflitto a Hitmontop dagli attacchi è aumentato di 20  (dopo aver applicato Debolezza e Resistenza).",
+        "es": "Durante el próximo turno de tu rival, cualquier daño hecho a Hitmontop por ataques se incrementa en 20 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Close Combat",
+        "fr": "Combat rapproché",
+        "de": "Nahkampf",
+        "it": "Zuffa",
+        "es": "A bocajarro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CL/CL_008_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmontop",
+    "fr": "Kapoera",
+    "de": "Kapoera",
+    "it": "Hitmontop",
+    "pt": "Hitmontop",
+    "es": "Hitmontop"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CL",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

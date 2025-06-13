@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "All Energy attached to Tyranitar is [D] Energy instead of its usual type.",
+  "abilityName": "Dark Aura",
+  "attacks": [
+    {
+      "cost": "dddd",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon, if any. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Stamp"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar"
+  },
+  "number": "29",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

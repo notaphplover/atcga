@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Tsunami"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Ram"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/58_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/58.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/58.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wailmer"
+  },
+  "number": "58",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

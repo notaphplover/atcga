@@ -1,0 +1,58 @@
+{
+  "abilityEffect": "このポケモンの残りHPが「100」以下なら、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+80」される。",
+  "abilityName": "きけんしょく",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "80",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+      },
+      "name": {
+        "jp": "はがねのつばさ"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "相手のバトルポケモンが進化ポケモンなら、100ダメージ追加。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ふりおろすGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_71_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_71_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_71_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハッサムGX"
+  },
+  "number": "71",
+  "rarity": "sr",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "SM6b",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

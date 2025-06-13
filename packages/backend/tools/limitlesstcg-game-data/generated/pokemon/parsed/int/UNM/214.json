@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "150",
+      "effect": {
+        "en": "Heal 30 damage from this Pokémon.",
+        "fr": "Soignez 30 dégâts à ce Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Calming Hurricane",
+        "fr": "Ouragan Apaisant",
+        "de": "Sturmruhe",
+        "it": "Uragano Riposante",
+        "es": "Huracán Calmante"
+      }
+    },
+    {
+      "cost": "ggg+",
+      "dmg": "200",
+      "effect": {
+        "en": "If this Pokémon has at least 3 extra Energy attached to it (in addition to this attack's cost), your opponent shuffles all Energy from all of their Pokémon into their deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Si au moins 3 Énergies supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), votre adversaire mélange toutes les Énergies de tous ses Pokémon avec son deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wenn an dieses Pokémon mindestens 3 extra Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), mischt dein Gegner alle an jedes seiner Pokémon angelegten Energien in sein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Se questo Pokémon ha almeno tre Energie extra assegnate, in aggiunta a quelle del costo di questo attacco, il tuo avversario rimischia tutte le Energie assegnate a tutti i suoi Pokémon nel suo mazzo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Si este Pokémon tiene por lo menos 3 Energías adicionales unidas a él (además de las del coste de este ataque), tu rival pone todas las Energías de todos sus Pokémon en su baraja y las baraja todas. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Tropical Hour-GX",
+        "fr": "Pause Tropicale-GX",
+        "de": "Tropenstunde-GX",
+        "it": "Ora Tropicale-GX",
+        "es": "Hora Tropical-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_214_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rowlet & Alolan Exeggutor-GX",
+    "fr": "Brindibou et Noadkoko d'Alola-GX",
+    "de": "Bauz & Alola-Kokowei-GX",
+    "it": "Rowlet e Exeggutor di Alola-GX",
+    "pt": "Rowlet e Exeggutor de Alola-GX",
+    "es": "Rowlet y Exeggutor de Alola-GX"
+  },
+  "number": "214",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UNM",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

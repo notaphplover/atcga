@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Rollout",
+        "fr": "Roulade",
+        "de": "Walzer",
+        "it": "Rotolamento",
+        "pt": "Rolagem",
+        "es": "Rodar"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage for each heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "de": "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
+        "pt": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+        "es": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Scratch",
+        "fr": "Double Écorchure",
+        "de": "Doppelkratzer",
+        "it": "Doppio Graffio",
+        "pt": "Arranhão Duplo",
+        "es": "Arañazo Doble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_097_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandshrew",
+    "fr": "Sabelette",
+    "de": "Sandan",
+    "it": "Sandshrew",
+    "pt": "Sandshrew",
+    "es": "Sandshrew"
+  },
+  "number": "97",
+  "rarity": "c",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TWM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

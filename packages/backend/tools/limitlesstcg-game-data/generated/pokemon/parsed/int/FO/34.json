@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Wing Attack"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them."
+      },
+      "name": {
+        "en": "Leech Life"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golbat"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "FO",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange le Pokémon Défenseur avec 1 de ses Pokémon de Banc.",
+        "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus."
+      },
+      "name": {
+        "en": "Knock Back",
+        "fr": "Dégagement",
+        "de": "Schlag versetzen"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Does 20 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 20 dégâts à chaque Pokémon de Banc (les vôtres et ceux de votre adversaire). (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (deinen und denen deines Gegners) 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+      },
+      "name": {
+        "en": "Aura of the Land",
+        "fr": "Aura de la Terre",
+        "de": "Natürliches Geheiß"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLB/PLB_059_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Aggron",
+    "fr": "Galeking",
+    "de": "Stolloss",
+    "it": "Aggron",
+    "pt": "Aggron",
+    "es": "Aggron"
+  },
+  "number": "59",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "PLB",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a Special Energy attached to your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie spéciale attachée au Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 an das Aktive Pokémon deines Gegners angelegte Spezial-Energie auf den Ablagestapel deines Gegners.",
+        "it": "Scarta un'Energia speciale assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía Especial unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Derail",
+        "fr": "Déraillement",
+        "de": "Entgleisen",
+        "it": "Deragliamento",
+        "es": "Descarrilar"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 40 damage times the number of heads.",
+        "fr": "Lancez 3 pièces. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 3 Münzen. Dieser Angriff fügt 40 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia tre volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa.",
+        "es": "Lanza 3 monedas. Este ataque hace 40 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Pin Missile",
+        "fr": "Dard-Nuée",
+        "de": "Nadelrakete",
+        "it": "Missilspillo",
+        "es": "Pin Misil"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_088_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cacturne",
+    "fr": "Cacturne",
+    "de": "Noktuska",
+    "it": "Cacturne",
+    "pt": "Cacturne",
+    "es": "Cacturne"
+  },
+  "number": "88",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "BKT",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

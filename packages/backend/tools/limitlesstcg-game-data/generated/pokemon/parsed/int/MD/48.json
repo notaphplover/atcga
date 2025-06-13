@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the number of damage counters on Sudowoodo."
+      },
+      "name": {
+        "en": "Flail"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "50",
+      "effect": {
+        "en": "Sudowoodo does 30 damage to itself."
+      },
+      "name": {
+        "en": "Wood Hammer"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sudowoodo"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

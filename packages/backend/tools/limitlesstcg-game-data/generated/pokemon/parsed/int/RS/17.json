@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon has any damage counters on it, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Rend"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 60 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Donphan"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

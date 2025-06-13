@@ -1,0 +1,93 @@
+{
+  "abilityEffect": "Steelix can't be affected by any Special Conditions.",
+  "abilityName": "Perfect Metal",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Search your discard pile for an Energy card and attach it to Steelix.",
+        "fr": "Cherchez une carte Énergie dans votre pile de défausse et attachez-la à Steelix.",
+        "de": "Durchsuche deinen Ablagestapel nach 1 Energiekarte und lege sie an Stahlos an.",
+        "it": "Cerca nella tua pila degli scarti una carta Energia e assegnala a Steelix.",
+        "es": "Busca en tu pila de descartes una carta de Energía y únela a Steelix."
+      },
+      "name": {
+        "en": "Energy Stream",
+        "fr": "Courant d'énergie",
+        "de": "Energiestrom",
+        "it": "Getto d'Energia",
+        "es": "Torrente de energía"
+      }
+    },
+    {
+      "cost": "mmccc",
+      "dmg": "100",
+      "effect": {
+        "en": "You may discard any Stadium card in play.",
+        "fr": "Vous pouvez défausser n'importe quelle carte Stade en jeu.",
+        "de": "Du kannst eine beliebige Stadion-Karte aus dem Spiel auf den Ablagestapel legen.",
+        "it": "Puoi scartare una qualsiasi carta Stadio in gioco.",
+        "es": "Puedes descartarte de cualquier carta de Estadio en juego."
+      },
+      "name": {
+        "en": "Gaia Crush",
+        "fr": "Anéantissement de Gaïa",
+        "de": "Gaia-Zermalmer",
+        "it": "Sgretolagaia",
+        "es": "Golpe Gaia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_087_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Steelix",
+    "fr": "Steelix",
+    "de": "Stahlos",
+    "it": "Steelix",
+    "pt": "Steelix",
+    "es": "Steelix"
+  },
+  "number": "87",
+  "rarity": "rr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "UL",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "jp": "ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。"
+      },
+      "name": {
+        "jp": "ついばむ"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ドリルくちばし"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1W/S1W_50_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1W/S1W_50_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1W/S1W_50_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アオガラス"
+  },
+  "number": "50",
+  "rarity": "c",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "S1W",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

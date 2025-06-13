@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "You can't attach [L] Energy cards from your hand to Zapdos.",
+  "abilityName": "Anti-Lightning",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "If there are any [L] Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Zapdos."
+      },
+      "name": {
+        "en": "Plasma"
+      }
+    },
+    {
+      "cost": "llcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, put 2 damage counters on Zapdos."
+      },
+      "name": {
+        "en": "Lightning Storm"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zapdos"
+  },
+  "number": "44",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

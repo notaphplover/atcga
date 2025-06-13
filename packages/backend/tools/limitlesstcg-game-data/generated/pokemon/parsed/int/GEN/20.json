@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed and discard an Energy attached to that Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé, et vous défaussez une Énergie lui étant attachée.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert. Lege 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato e scarti un'Energia assegnata a quel Pokémon.",
+        "es": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado, y descartas 1 Energía unida a ese Pokémon."
+      },
+      "name": {
+        "en": "Clamp Crush",
+        "fr": "Pince Broyeuse",
+        "de": "Quetschklammer",
+        "it": "Rompimorsa",
+        "es": "Machaque Tenaza"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 5 coins. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez 5 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 5 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia cinque volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 5 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Spike Cannon",
+        "fr": "Picanon",
+        "de": "Dornkanone",
+        "it": "Sparalance",
+        "es": "Clavo Cañón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_020_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cloyster",
+    "fr": "Crustabri",
+    "de": "Austos",
+    "it": "Cloyster",
+    "pt": "Cloyster",
+    "es": "Cloyster"
+  },
+  "number": "20",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "GEN",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

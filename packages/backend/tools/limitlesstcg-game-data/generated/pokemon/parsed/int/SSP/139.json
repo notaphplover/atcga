@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "This attack does 20 damage for each damage counter on your opponent's Active Pokémon.",
+        "fr": "Cette attaque inflige 20 dégâts pour chaque marqueur de dégâts sur le Pokémon Actif de votre adversaire.",
+        "de": "Diese Attacke fügt für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zu.",
+        "it": "Questo attacco infligge 20 danni per ogni segnalino danno presente sul Pokémon attivo del tuo avversario.",
+        "pt": "Este ataque causa 20 pontos de dano para cada contador de dano no Pokémon Ativo do seu oponente.",
+        "es": "Este ataque hace 20 puntos de daño por cada contador de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Acidic Spit",
+        "fr": "Crache-Acide",
+        "de": "Säuresabber",
+        "it": "Acidosputo",
+        "pt": "Cusparada Ácida",
+        "es": "Salivazo Ácido"
+      }
+    },
+    {
+      "cost": "gr",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Speed Dive",
+        "fr": "Plongée Rapide",
+        "de": "Tempohechtsprung",
+        "it": "Immersione Rapida",
+        "pt": "Mergulho Veloz",
+        "es": "Picado Rápido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_139_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flapple",
+    "fr": "Pomdrapi",
+    "de": "Drapfel",
+    "it": "Flapple",
+    "pt": "Flapple",
+    "es": "Flapple"
+  },
+  "number": "139",
+  "rarity": "u",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SSP",
+  "stage": "stage1",
+  "type": [
+    "dragon"
+  ],
+  "weakness": []
+}

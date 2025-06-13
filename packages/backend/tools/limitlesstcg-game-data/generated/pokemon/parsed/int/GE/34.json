@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Pin Missile"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Needle Arm"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cacturne"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

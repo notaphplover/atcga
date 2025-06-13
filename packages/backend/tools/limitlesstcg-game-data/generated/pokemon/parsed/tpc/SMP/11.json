@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "ころがる"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージ追加。"
+      },
+      "name": {
+        "jp": "エレキスマッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_11_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_11_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_11_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "トゲデマル"
+  },
+  "number": "11",
+  "regulation": "a",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

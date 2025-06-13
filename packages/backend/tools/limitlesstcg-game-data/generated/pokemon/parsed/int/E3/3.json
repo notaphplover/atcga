@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "When you play Arcanine from your hand to evolve your Active Pokémon, you may flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to Arcanine.",
+  "abilityName": "Energy Recharge",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Shake"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard all [R] Energy cards attached to Arcanine."
+      },
+      "name": {
+        "en": "White Flames"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "3",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

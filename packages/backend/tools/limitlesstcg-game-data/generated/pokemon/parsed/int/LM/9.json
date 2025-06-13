@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard a Special Energy card, if any, attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Derail"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 20 damage for each React Energy card attached to Machamp."
+      },
+      "name": {
+        "en": "Swift Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

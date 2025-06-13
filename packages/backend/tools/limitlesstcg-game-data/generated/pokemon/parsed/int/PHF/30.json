@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Pound",
+        "fr": "Écras'Face",
+        "de": "Pfund",
+        "it": "Botta",
+        "es": "Destructor"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Discard as many [L] Energy attached to your Pokémon as you like. This attack does 30 damage times the number of Energy cards you discarded.",
+        "fr": "Défaussez autant d'Énergies [L] attachées à vos Pokémon que vous voulez. Cette attaque inflige 30 dégâts multipliés par le nombre de cartes Énergie que vous avez défaussées.",
+        "de": "Lege beliebig viele an deine Pokémon angelegte [L]-Energien auf deinen Ablagestapel. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl abgelegter Energiekarten zu.",
+        "it": "Scarta a piacimento le Energie [L] assegnate ai tuoi Pokémon. Questo attacco infligge 30 danni per ogni carta Energia che hai scartato.",
+        "es": "Descarta tantas Energías [L] unidas a tus Pokémon como quieras. Este ataque hace 30 puntos de daño por cada carta de Energía que hayas descartado."
+      },
+      "name": {
+        "en": "Parabolic Spark",
+        "fr": "Parabétincelle",
+        "de": "Parabolfunken",
+        "it": "Scintillaparabola",
+        "es": "Chispa Parabólica"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_030_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heliolisk",
+    "fr": "Iguolta",
+    "de": "Elezard",
+    "it": "Heliolisk",
+    "pt": "Heliolisk",
+    "es": "Heliolisk"
+  },
+  "number": "30",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "PHF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

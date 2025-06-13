@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 50 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 50 weitere Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 50 danni in più.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 50 puntos de daño más."
+      },
+      "name": {
+        "en": "Ambush",
+        "fr": "Embuscade",
+        "de": "Hinterhalt",
+        "it": "Imboscata",
+        "es": "Emboscada"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "120-",
+      "effect": {
+        "en": "This attack does 120 damage minus 20 damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",
+        "fr": "Cette attaque inflige 120 dégâts moins 20 dégâts pour chaque [C] dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+        "de": "Dieser Angriff fügt 120 Schadenspunkte minus 20 Schadenspunkte für jedes [C]-Symbol in den Rückzugskosten des Aktiven Pokémon deines Gegners zu.",
+        "it": "Questo attacco infligge 120 danni meno 20 per ogni [C] nel costo di ritirata del Pokémon attivo del tuo avversario.",
+        "es": "Este ataque hace 120 puntos de daño menos 20 puntos de daño por cada [C] en el Coste de Retirada del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Sky Drop",
+        "fr": "Chute Libre",
+        "de": "Freier Fall",
+        "it": "Cadutalibera",
+        "es": "Caída Libre"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_093_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Braviary",
+    "fr": "Gueriaigle",
+    "de": "Washakwil",
+    "it": "Braviary",
+    "pt": "Braviary",
+    "es": "Braviary"
+  },
+  "number": "93",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "STS",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

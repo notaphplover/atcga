@@ -1,0 +1,71 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may discard a [R] Energy card from your hand. If you do, during this turn, your Basic [R] Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Steam Up",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "130",
+      "effect": {
+        "en": "This Pokémon can't attack during your next turn.",
+        "fr": "Ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.",
+        "es": "Este Pokémon no puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Volcanic Heat",
+        "fr": "Chaleur Volcanique",
+        "de": "Vulkanhitze",
+        "es": "Calor Volcánico"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XYP/XYP_173_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Volcanion-EX",
+    "fr": "Volcanion-EX",
+    "de": "Volcanion-EX",
+    "it": "Volcanion-EX",
+    "pt": "Volcanion-EX",
+    "es": "Volcanion-EX"
+  },
+  "number": "173",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "fire",
+    "water"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

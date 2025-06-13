@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "この特性は、このカードを手札から出して進化させたとき、1回使える。相手の山札を上から3枚トラッシュする。",
+  "abilityName": "やまおろし",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "90",
+      "effect": {
+        "jp": "コインを2回投げ、すべてウラなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "ギガホーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5z/BW5z_37_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5z/BW5z_37_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5z/BW5z_37_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボスゴドラ"
+  },
+  "number": "37",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "BW5z",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

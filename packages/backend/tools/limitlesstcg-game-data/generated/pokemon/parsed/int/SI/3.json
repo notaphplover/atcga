@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    },
+    {
+      "cost": "ffff",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/si1/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/si1/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/si1/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Onix"
+  },
+  "number": "3",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SI",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

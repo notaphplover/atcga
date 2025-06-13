@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Dazzle Blast"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard all Energy cards attached to Raichu ex."
+      },
+      "name": {
+        "en": "Mega Thunderbolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

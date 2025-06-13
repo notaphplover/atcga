@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Starmie has any [P] Energy attached to it, damage done to Starmie by attacks is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Core Guard",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic Boom"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Starmie"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

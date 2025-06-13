@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Any damage done to Ledian by attacks from Pokémon that has an owner in its name is reduced by 40.",
+  "abilityName": "Powder Protection",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Split Spiral Punch"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ledian"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "30",
+      "effect": {
+        "en": "Raichu can't use Slice during your next turn."
+      },
+      "name": {
+        "en": "Slice"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Move an Energy card attached to Raichu to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Split Ball"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 3 Energy attached to any of your Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Burst Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

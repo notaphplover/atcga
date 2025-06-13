@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "10",
+      "effect": {
+        "en": "Your opponent can't play any Trainer cards or Stadium cards from his or her hand during your opponent's next turn."
+      },
+      "name": {
+        "en": "Deafen"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Second Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga G"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

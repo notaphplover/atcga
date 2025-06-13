@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
+  "abilityName": "Bright Down",
+  "attacks": [
+    {
+      "cost": "rpc",
+      "dmg": "70",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Défenseur.",
+        "de": "Der Schaden dieses Angriffs wird durch Schwäche, Resistenz oder alle anderen Effekte auf dem Verteidigenden Pokémon nicht verändert.",
+        "it": "Il danno di questo attacco non è influenzato dalla debolezza, dalla resistenza o da qualsiasi altro effetto presente sul Pokémon difensore.",
+        "es": "El daño de este ataque no se ve afectado por Debilidad, Resistencia o cualquier otro efecto en el Pokémon Defensor."
+      },
+      "name": {
+        "en": "Barrier Break",
+        "fr": "Brise Barrière",
+        "de": "Barrierebrecher",
+        "it": "Infrangibarriera",
+        "es": "Rotura Barrera"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLF/PLF_112_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latias-EX",
+    "fr": "Latias-EX",
+    "de": "Latias-EX",
+    "it": "Latias-EX",
+    "pt": "Latias-EX",
+    "es": "Latias-EX"
+  },
+  "number": "112",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PLF",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

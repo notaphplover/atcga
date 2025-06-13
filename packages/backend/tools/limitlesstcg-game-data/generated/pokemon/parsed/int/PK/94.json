@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "If Flygon ex is damaged by an opponent's attack, you may discard up to 4 cards from your hand. If you do, any damage done to Flygon ex is reduced by 10 for each card you discarded.",
+  "abilityName": "Psychic Protector",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Flip a coin. If tails, Flygon ex can't use Slashing Strike during your next turn."
+      },
+      "name": {
+        "en": "Slashing Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon ex"
+  },
+  "number": "94",
+  "rarity": "ur",
+  "resistance": [
+    "lightning",
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "PK",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

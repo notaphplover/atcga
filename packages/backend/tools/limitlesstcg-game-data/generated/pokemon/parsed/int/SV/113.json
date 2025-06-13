@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Psyshot"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "30-",
+      "effect": {
+        "en": "Does 30 damage minus 10 damage for each damage counter on Meditite."
+      },
+      "name": {
+        "en": "Karate Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/113_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/113.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/113.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meditite"
+  },
+  "number": "113",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

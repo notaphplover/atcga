@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Misdreavus is your Active Pokémon, you may flip a coin. If heads, put 1 damage counter on 1 of your opponent's Pokémon. This power can't be used if Misdreavus is affected by a Special Condition or if your other Active Pokémon is not Misdreavus.",
+  "abilityName": "Dark Spell",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "Switch Misdreavus with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Hide in Shadows"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misdreavus"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

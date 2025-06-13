@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Confus.",
+        "de": "Das Verteidigende Pokémon ist jetzt verwirrt.",
+        "it": "Il Pokémon Difensore è Confuso.",
+        "es": "El Pokémon Defensor pasa a estar Confuso."
+      },
+      "name": {
+        "en": "Supersonic",
+        "fr": "Ultrason",
+        "de": "Superschall",
+        "it": "Supersuono",
+        "es": "Supersónico"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez 4 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 4 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia 4 volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 4 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Hurricane Wing",
+        "fr": "Tornad'aile",
+        "de": "Hurrikanschwinge",
+        "it": "Ala Uragano",
+        "es": "Ala huracán"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_014_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Crobat",
+    "fr": "Nostenfer",
+    "de": "Iksbat",
+    "it": "Crobat",
+    "pt": "Crobat",
+    "es": "Crobat"
+  },
+  "number": "14",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "UL",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

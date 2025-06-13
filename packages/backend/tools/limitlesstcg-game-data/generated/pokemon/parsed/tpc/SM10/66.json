@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
+  "abilityName": "ふわふわコットン",
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "10+",
+      "effect": {
+        "jp": "このポケモンについているエネルギーの数x30ダメージ追加。"
+      },
+      "name": {
+        "jp": "エナジーブロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 190,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_66_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_66_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_66_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エルフーンGX"
+  },
+  "number": "66",
+  "rarity": "rr",
+  "regulation": "c",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 1,
+  "set": "SM10",
+  "stage": "stage1",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

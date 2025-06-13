@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Flygon is your Active Pokémon, put 1 damage counter on each of your opponent's Active Pokémon between turns, excluding [F] Pokémon.",
+  "abilityName": "Irritating Buzz",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If you attach a [F] Energy card from your hand to Flygon during this turn, this attack does 60 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Sand Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

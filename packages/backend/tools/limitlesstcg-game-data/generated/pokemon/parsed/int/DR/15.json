@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Whenever Flygon would be damaged by your opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 20.",
+  "abilityName": "Sand Guard",
+  "attacks": [
+    {
+      "cost": "glc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, discard an Energy card attached to Flygon."
+      },
+      "name": {
+        "en": "Air Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

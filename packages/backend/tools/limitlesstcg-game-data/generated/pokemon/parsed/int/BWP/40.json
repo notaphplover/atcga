@@ -1,0 +1,70 @@
+{
+  "abilityEffect": "Put 4 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+  "abilityName": "Scorching Scales",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "70",
+      "effect": {
+        "en": "You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Burned.",
+        "fr": "Vous pouvez défausser une Énergie attachée à ce Pokémon. Dans ce cas, le Pokémon Défenseur est maintenant Brûlé.",
+        "de": "Du kannst 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel legen. Wenn du das machst, ist das Verteidigende Pokémon jetzt verbrannt.",
+        "it": "Puoi scartare un'Energia assegnata a questo Pokémon. Se lo fai, il Pokémon difensore viene bruciato."
+      },
+      "name": {
+        "en": "Burning Wind",
+        "fr": "Vent Torride",
+        "de": "Lodernder Wind",
+        "it": "Ventardente"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_040_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Volcarona",
+    "fr": "Pyrax",
+    "de": "Ramoth",
+    "it": "Volcarona",
+    "pt": "Volcarona",
+    "es": "Volcarona"
+  },
+  "number": "40",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

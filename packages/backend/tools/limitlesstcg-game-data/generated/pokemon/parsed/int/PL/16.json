@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Slaking used any attacks during your last turn, Slaking can't attack.",
+  "abilityName": "Lazy Paunch",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "150",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Slaking by attacks is increased by 50 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Best Dash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slaking"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

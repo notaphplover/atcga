@@ -1,0 +1,88 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 30 damage for each heads.",
+        "fr": "Lancez 4 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 4 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia quattro volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 4 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Spike Cannon",
+        "fr": "Picanon",
+        "de": "Dornkanone",
+        "it": "Sparalance",
+        "es": "Clavo Cañón"
+      }
+    },
+    {
+      "cost": "ppp",
+      "dmg": "150",
+      "effect": {
+        "en": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Évitez tous les effets d'attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Verhindere während des nächsten Zuges deines Gegners alle Effekte von Attacken, einschließlich Schaden, die diesem Pokémon zugefügt werden. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon durante il prossimo turno del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Total Shelter-GX",
+        "fr": "Refuge Complet-GX",
+        "de": "Vollschutz-GX",
+        "it": "Rifugio Totale-GX",
+        "es": "Protección Total-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_154_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toxapex-GX",
+    "fr": "Prédastérie-GX",
+    "de": "Aggrostella-GX",
+    "it": "Toxapex-GX",
+    "pt": "Toxapex-GX",
+    "es": "Toxapex-GX"
+  },
+  "number": "154",
+  "rarity": "rar",
+  "resistance": [],
+  "retreat": 3,
+  "set": "GRI",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

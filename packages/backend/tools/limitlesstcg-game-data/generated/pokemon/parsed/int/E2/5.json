@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, attach 1 basic Energy card from your hand to 1 of your Benched Pokémon. This power can't be used if Bellossom is affected by a Special Condition.",
+  "abilityName": "Flower Supplement",
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Knife Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bellossom"
+  },
+  "number": "5",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

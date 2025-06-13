@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have Illumise in play, you may search your discard pile for a Supporter card, show it to your opponent, and put it on top of your deck. This power can't be used if Volbeat is affected by a Special Condition.",
+  "abilityName": "Light Conduct",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Firefly Light"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Volbeat"
+  },
+  "number": "92",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

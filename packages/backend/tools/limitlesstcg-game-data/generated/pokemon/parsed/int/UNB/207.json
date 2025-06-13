@@ -1,0 +1,91 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if 1 of your Pokémon-GX or Pokémon-EX was Knocked Out during your opponent's last turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. You can't use more than 1 Cat Walk Ability each turn.",
+  "abilityName": "Cat Walk",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "10+",
+      "effect": {
+        "en": "This attack does 20 more damage for each Pokémon in your discard pile. You can't add more than 180 damage in this way.",
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon dans votre pile de défausse. Vous ne pouvez pas ajouter plus de 180 dégâts de cette façon.",
+        "de": "Diese Attacke fügt 20 Schadenspunkte mehr mal der Anzahl der Pokémon in deinem Ablagestapel zu. Du kannst auf diese Weise höchstens 180 Schadenspunkte mehr zufügen.",
+        "it": "Questo attacco infligge 20 danni in più per ogni Pokémon nella tua pila degli scarti. Non puoi aggiungere più di 180 danni in questo modo.",
+        "es": "Este ataque hace 20 puntos de daño más por cada Pokémon en tu pila de descartes. No puedes añadir más de 180 puntos de daño de esta manera."
+      },
+      "name": {
+        "en": "Vengeance",
+        "fr": "Rétorsion",
+        "de": "Rache",
+        "it": "Rivalsa",
+        "es": "Revancha"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "150",
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Échangez ce Pokémon avec l'un de vos Pokémon de Banc. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scambia questo Pokémon con uno della tua panchina. Non puoi usare più di un attacco GX a partita.",
+        "es": "Cambia este Pokémon por 1 de tus Pokémon en Banca. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Slash Back-GX",
+        "fr": "Retour de Frappe-GX",
+        "de": "Rückschnitt-GX",
+        "it": "Sferzata Inversa-GX",
+        "es": "Tajo Cambiante-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNB/UNB_207_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Persian-GX",
+    "fr": "Persian-GX",
+    "de": "Snobilikat-GX",
+    "it": "Persian-GX",
+    "pt": "Persian-GX",
+    "es": "Persian-GX"
+  },
+  "number": "207",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UNB",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

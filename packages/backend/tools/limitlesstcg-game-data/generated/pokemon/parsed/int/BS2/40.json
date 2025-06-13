@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again)."
+      },
+      "name": {
+        "en": "Leek Slap"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Pot Smash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Farfetch'd"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

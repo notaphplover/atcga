@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+        "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
+        "pt": "Jogue 1 moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más."
+      },
+      "name": {
+        "en": "Tumbling Attack",
+        "fr": "Attaque Trébuchante",
+        "de": "Taumler",
+        "it": "Attacco Capriola",
+        "pt": "Ataque Cambalhota",
+        "es": "Ataque Tambaleante"
+      }
+    },
+    {
+      "cost": "lllc",
+      "dmg": "180",
+      "effect": {
+        "en": "During your next turn, this Pokémon can't use [L] Slam.",
+        "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Tacle Foudroyant.",
+        "de": "Während deines nächsten Zuges kann dieses Pokémon Wuchtiger Einschlag nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Fulmischianto.",
+        "pt": "Durante o seu próximo turno, este Pokémon não poderá usar Pancada de Raios.",
+        "es": "Durante tu próximo turno, este Pokémon no puede usar Golpe Rayo."
+      },
+      "name": {
+        "en": "Lightning Slam",
+        "fr": "Tacle Foudroyant",
+        "de": "Wuchtiger Einschlag",
+        "it": "Fulmischianto",
+        "pt": "Pancada de Raios",
+        "es": "Golpe Rayo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BST/BST_045_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electivire",
+    "fr": "Élekable",
+    "de": "Elevoltek",
+    "it": "Electivire",
+    "pt": "Electivire",
+    "es": "Electivire"
+  },
+  "number": "45",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BST",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

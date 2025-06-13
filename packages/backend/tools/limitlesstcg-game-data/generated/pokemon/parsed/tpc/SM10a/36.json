@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。場に出ているスタジアムをトラッシュする。その後、自分の手札にある[炎]または[鋼]エネルギーを3枚まで、このポケモンにつける。",
+  "abilityName": "グラインダーアップ",
+  "attacks": [
+    {
+      "cost": "rm",
+      "dmg": "10+",
+      "effect": {
+        "jp": "このポケモンについている基本エネルギーの数×40ダメージ追加。"
+      },
+      "name": {
+        "jp": "パワフルアックス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10a/SM10a_36_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10a/SM10a_36_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10a/SM10a_36_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "オノノクス"
+  },
+  "number": "36",
+  "rarity": "r",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM10a",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

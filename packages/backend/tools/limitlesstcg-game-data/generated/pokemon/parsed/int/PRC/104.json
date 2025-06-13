@@ -1,0 +1,93 @@
+{
+  "attacks": [
+    {
+      "cost": "yc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Tail Rap",
+        "fr": "Frap'Keu",
+        "de": "Schweifklopfen",
+        "it": "Mano-Coda",
+        "es": "Coleada"
+      }
+    },
+    {
+      "cost": "ycc",
+      "dmg": "100-",
+      "effect": {
+        "en": "This attack does 100 damage minus 10 damage for each damage counter on this Pokémon.",
+        "fr": "Cette attaque inflige 100 dégâts moins 10 dégâts pour chaque marqueur de dégâts placé sur ce Pokémon.",
+        "de": "Dieser Angriff fügt 100 Schadenspunkte minus 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+        "it": "Questo attacco infligge 100 danni meno 10 per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Este ataque hace 100 puntos de daño menos 10 puntos de daño por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Dwindling Wave",
+        "fr": "Vague Faiblissante",
+        "de": "Schwindende Welle",
+        "it": "Onda Evanescente",
+        "es": "Ola Menguante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_104_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Azumarill",
+    "fr": "Azumarill",
+    "de": "Azumarill",
+    "it": "Azumarill",
+    "pt": "Azumarill",
+    "es": "Azumarill"
+  },
+  "number": "104",
+  "rarity": "hr",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 2,
+  "set": "PRC",
+  "stage": "stage1",
+  "traitEffect": "When this Pokémon is healed, double the amount healed.",
+  "traitName": "α Recovery",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

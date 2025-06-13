@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Horn Attack"
+      }
+    },
+    {
+      "cost": "ffff",
+      "dmg": "50",
+      "effect": {
+        "en": "Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)"
+      },
+      "name": {
+        "en": "Ram"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhydon"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

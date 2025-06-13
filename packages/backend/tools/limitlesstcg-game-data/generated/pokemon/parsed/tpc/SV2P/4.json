@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数×30ダメージ。"
+      },
+      "name": {
+        "jp": "にどづき"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "120",
+      "effect": {
+        "jp": "自分のベンチの「ミツハニー」を1匹選び、そのポケモンと、ついているすべてのカードを、山札にもどして切る。山札にもどせないなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "しゅうげきしれい"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2P/SV2P_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2P/SV2P_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2P/SV2P_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ビークイン"
+  },
+  "number": "4",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV2P",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

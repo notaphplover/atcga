@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "When 1 of your Basic Pokémon V is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a basic Energy card from that Pokémon to another of your Pokémon.",
+  "abilityName": "Wish Connector",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "60",
+      "effect": {
+        "en": "Both Active Pokémon are now Asleep."
+      },
+      "name": {
+        "en": "Hypnostrike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_170_R_EN.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_170_R_EN_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASR/ASR_170_R_EN_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jirachi V"
+  },
+  "number": "170",
+  "rarity": "ur",
+  "regulation": "f",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "ASR",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "You may reduce all damage done by attacks to Misty's Cloyster by 10 (after applying Weakness and Resistance). (Any other effects of attacks still happen). This power can't be used if Misty's Cloyster is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Shell Armor",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Triple Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misty's Cloyster"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

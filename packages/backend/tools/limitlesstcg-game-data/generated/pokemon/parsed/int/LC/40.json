@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Aurora Beam"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dewgong"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

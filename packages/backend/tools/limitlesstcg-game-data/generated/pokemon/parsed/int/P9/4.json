@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Double Stomp"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop9/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop9/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop9/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regigigas"
+  },
+  "number": "4",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "P9",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

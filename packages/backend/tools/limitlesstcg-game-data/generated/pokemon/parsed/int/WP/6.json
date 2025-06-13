@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "40+",
+      "effect": {
+        "en": "Discard 2 [R] Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
+      },
+      "name": {
+        "en": "Flames of Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "6",
+  "resistance": [],
+  "retreat": 1,
+  "set": "WP",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

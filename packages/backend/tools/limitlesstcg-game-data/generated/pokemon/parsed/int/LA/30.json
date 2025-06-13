@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move a [M] Energy attached to 1 of your Pokémon to Heatran. This power can't be used if Heatran is affected by a Special Condition.",
+  "abilityName": "Smelt",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin for each [M] Energy attached to Heatran. This attack does 40 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Heavy Metal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Heatran"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

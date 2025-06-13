@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "場に出ているスタジアムをトラッシュする。その後、自分のトラッシュから別の名前のスタジアムを1枚選び、場に出す。この特性は、自分の番に1回使える。",
+  "abilityName": "テレポートルーム",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "jp": "相手の手札を見る。"
+      },
+      "name": {
+        "jp": "サイコリポート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_39_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_39_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY3/XY3_39_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴチルゼル"
+  },
+  "number": "39",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY3",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "27",
+  "resistance": [],
+  "retreat": 0,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

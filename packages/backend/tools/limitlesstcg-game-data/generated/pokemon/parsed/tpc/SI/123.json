@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "スノーアイス"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "jp": "次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。"
+      },
+      "name": {
+        "jp": "ブロックフェイス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_123_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_123_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_123_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コオリッポ"
+  },
+  "number": "123",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SI",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

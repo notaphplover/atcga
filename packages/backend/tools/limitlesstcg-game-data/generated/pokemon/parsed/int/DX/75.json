@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Magma Ring"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Flare"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/75_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/75.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/75.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slugma"
+  },
+  "number": "75",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

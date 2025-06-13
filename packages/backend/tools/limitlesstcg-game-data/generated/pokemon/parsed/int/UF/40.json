@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "Search your discard pile for a basic Energy card and attach it to Lanturn."
+      },
+      "name": {
+        "en": "Energy Stream"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Lanturn does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/40_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/40.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/40.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lanturn"
+  },
+  "number": "40",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

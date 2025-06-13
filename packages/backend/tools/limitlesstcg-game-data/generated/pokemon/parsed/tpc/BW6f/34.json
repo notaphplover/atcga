@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "しっぽでたたく"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "じごくづき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_34_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_34_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_34_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "グライガー"
+  },
+  "number": "34",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "BW6f",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

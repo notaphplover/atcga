@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "30",
+      "effect": {
+        "jp": "自分のトラッシュから「基本[M]エネルギー」を1枚選び、ベンチポケモンにつける。"
+      },
+      "name": {
+        "jp": "てつのほうこう"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "130",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ブレイブキャリバー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3a/SV3a_48_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3a/SV3a_48_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3a/SV3a_48_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ザシアン"
+  },
+  "number": "48",
+  "rarity": "r",
+  "regulation": "g",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "SV3a",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

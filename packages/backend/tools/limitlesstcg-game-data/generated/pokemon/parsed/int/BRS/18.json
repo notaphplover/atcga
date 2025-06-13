@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "130+",
+      "effect": {
+        "en": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
+        "fr": "Si au moins un marqueur de dégâts est placé sur ce Pokémon, cette attaque inflige 100 dégâts supplémentaires.",
+        "de": "Wenn auf diesem Pokémon mindestens 1 Schadensmarke liegt, fügt diese Attacke 100 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 100 danni in più.",
+        "pt": "Se este Pokémon tiver algum contador de dano nele, este ataque causará 100 pontos de dano a mais.",
+        "es": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 100 puntos de daño más."
+      },
+      "name": {
+        "en": "Explosive Fire",
+        "fr": "Feu Explosif",
+        "de": "Explosives Feuer",
+        "it": "Fuoco Esplosivo",
+        "pt": "Explosão de Fogo",
+        "es": "Fuego Explosivo"
+      }
+    },
+    {
+      "cost": "rrrc",
+      "dmg": "320",
+      "effect": {
+        "en": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)",
+        "fr": "Défaussez 2 Énergies de ce Pokémon. (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+        "de": "Lege 2 Energien von diesem Pokémon auf deinen Ablagestapel. (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+        "it": "Scarta due Energie da questo Pokémon. Non puoi usare più di un Potere V ASTRO a partita.",
+        "pt": "Descarte 2 Energias deste Pokémon (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+        "es": "Descarta 2 Energías de este Pokémon. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      },
+      "name": {
+        "en": "Star Blaze",
+        "fr": "Brasier Star",
+        "de": "Sternengroßbrand",
+        "it": "Astro Fiammata",
+        "pt": "Incêndio Astral",
+        "es": "Llamarada Astro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 280,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_018_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard VSTAR",
+    "fr": "Dracaufeu VSTAR",
+    "de": "Glurak VSTAR",
+    "it": "Charizard V ASTRO",
+    "pt": "Charizard V-ASTRO",
+    "es": "Charizard V-ASTRO"
+  },
+  "number": "18",
+  "rarity": "rrr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BRS",
+  "stage": "vstar",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

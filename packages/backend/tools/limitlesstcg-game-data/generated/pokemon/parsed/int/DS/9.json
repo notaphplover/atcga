@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "If you have Latias or Latias ex in play, the attack cost of Latios's [P] Force is now [L] [M][C].",
+  "abilityName": "Delta Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw"
+      }
+    },
+    {
+      "cost": "lmccc",
+      "dmg": "80",
+      "effect": {
+        "en": "If your opponent has no Stage 2 Evolved Pokémon in play, this attack does nothing."
+      },
+      "name": {
+        "en": "Psychic Force"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latios"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "grass",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

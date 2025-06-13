@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mind Bend"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Gust"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Drifloon"
+  },
+  "number": "92",
+  "rarity": "c",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

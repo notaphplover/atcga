@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If an attack does damage to Misty's Tentacruel while it's your Active Pokémon, you may switch it with 1 of your Benched Pokémon, which prevents all other effects of that attack on Misty's Tentacruel. This power can't be used if Misty's Tentacruel is already Asleep, Confused, or Paralyzed.",
+  "abilityName": "Flee",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Jellyfish Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misty's Tentacruel"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "G1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

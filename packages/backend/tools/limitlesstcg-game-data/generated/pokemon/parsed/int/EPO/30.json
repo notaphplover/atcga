@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon can't attack during your opponent's next turn.",
+        "fr": "Le Pokémon Défenseur ne peut pas attaquer pendant le prochain tour de votre adversaire.",
+        "de": "Das Verteidigende Pokémon kann während des nächsten Zuges deines Gegners nicht angreifen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
+        "es": "El Pokémon Defensor no puede atacar durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Sheer Cold",
+        "fr": "Glaciation",
+        "de": "Eiseskälte",
+        "it": "Purogelo",
+        "es": "Frío Polar"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+        "de": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert.",
+        "it": "Il danno di questo attacco non è influenzato dalla resistenza.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia."
+      },
+      "name": {
+        "en": "Icicle Crash",
+        "fr": "Chute Glace",
+        "de": "Eiszapfhagel",
+        "it": "Scagliagelo",
+        "es": "Chuzos"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_030_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beartic",
+    "fr": "Polagriffe",
+    "de": "Siberio",
+    "it": "Beartic",
+    "pt": "Beartic",
+    "es": "Beartic"
+  },
+  "number": "30",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "EPO",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

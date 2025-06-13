@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt paralysiert.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene paralizzato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Ice Beam",
+        "fr": "Laser Glace",
+        "de": "Eisstrahl",
+        "it": "Geloraggio",
+        "es": "Rayo Hielo"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Ice Wing",
+        "fr": "Aile Glace",
+        "de": "Frostschwinge",
+        "it": "Alagelata",
+        "es": "Ala Gélida"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LTR/LTR_032_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno",
+    "fr": "Artikodin",
+    "de": "Arktos",
+    "it": "Articuno",
+    "pt": "Articuno",
+    "es": "Articuno"
+  },
+  "number": "32",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "LTR",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

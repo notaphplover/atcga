@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "30×",
+      "effect": {
+        "jp": "コインを3回投げ、オモテの数x30ダメージ。"
+      },
+      "name": {
+        "jp": "みだれづき"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについているエネルギーを1個選び、トラッシュしてよい。その場合、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "コールドクラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_125_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_125_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_125_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エンペルト"
+  },
+  "number": "125",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BWP",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

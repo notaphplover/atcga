@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "If your opponent has any Pokémon-ex in play, each of Machamp's attacks do 30 more damage to the Defending Pokémon.",
+  "abilityName": "Overzealous",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Brick Smash"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Cross Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PK",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

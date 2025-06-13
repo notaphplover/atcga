@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "If Magneton and the Defending Pokémon don't have the same number of Energy cards attached to them, the player controlling the Active Pokémon with the fewest number of Energy cards attached to it switches 1 of his or her Benched Pokémon with his or her Active Pokémon."
+      },
+      "name": {
+        "en": "Bounce Off"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 damage plus 10 damage times the number of your Benched Pokémon minus the number of your opponent's Benched Pokémon. (For example, if your opponent has 1 Benched Pokémon and you have 3, this attack will do 30 damage plus 20 more damage.)"
+      },
+      "name": {
+        "en": "Magnetic Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "H19",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

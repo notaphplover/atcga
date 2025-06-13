@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This power can't be used if Toxicroak G is affected by a Special Condition.",
+  "abilityName": "Leap Away",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Revenge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dpp/DP41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dpp/DP41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dpp/DP41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Toxicroak G"
+  },
+  "number": "41",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DPP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

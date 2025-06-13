@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Smash Kick"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "After your attack, you may switch Dodrio with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Smash Turn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dodrio"
+  },
+  "number": "26",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンは、「ポケモンEX」からワザのダメージや効果を受けない。",
+  "abilityName": "しんぴのまもり",
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーの数x10ダメージを追加。"
+      },
+      "name": {
+        "jp": "サイコキネシス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/EBB/EBB_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シンボラー"
+  },
+  "number": "52",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EBB",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

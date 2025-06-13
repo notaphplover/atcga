@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard a random card from your opponent's hand.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Nimm 1 zufällige Karte aus der verdeckten Hand deines Gegners und lege sie auf seinen Ablagestapel.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario.",
+        "es": "Descarta 1 carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Poke Through",
+        "fr": "Percée Indésirable",
+        "de": "Durchlöchern",
+        "it": "Spioncino",
+        "es": "Pinchar"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 30 weitere Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, questo attacco infligge 30 danni in più.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 30 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Spiral Rush",
+        "fr": "Course en Spirale",
+        "de": "Spiralsturmangriff",
+        "it": "Raffica a Spirale",
+        "es": "Avalancha Espiral"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_064_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Escavalier",
+    "fr": "Lançargot",
+    "de": "Cavalanzas",
+    "it": "Escavalier",
+    "pt": "Escavalier",
+    "es": "Escavalier"
+  },
+  "number": "64",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "PHF",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

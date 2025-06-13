@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Espeon Star from your hand onto your Bench, you may use this power. Each Active Pokémon (both yours and your opponent's) is now Confused.",
+  "abilityName": "Purple Ray",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic Boom"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop5/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop5/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop5/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Espeon Star"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P5",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

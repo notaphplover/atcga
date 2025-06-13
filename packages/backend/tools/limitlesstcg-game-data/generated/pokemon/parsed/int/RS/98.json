@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Steady Punch"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Sky Uppercut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmonchan ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

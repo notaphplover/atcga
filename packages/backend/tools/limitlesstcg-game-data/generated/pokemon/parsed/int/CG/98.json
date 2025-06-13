@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for 3 Energy cards and attach them to your Pokémon in any way you like. If you do, your turn ends. This power can't be used if Swampert ex is affected by a Special Condition.",
+  "abilityName": "Energy Recycle",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "You may discard 2 cards from your hand. If you do, this attack does 60 damage plus 20 more damage and does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Ultra Pump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swampert ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CG",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

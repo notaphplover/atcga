@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。この特性は、自分の番に1回使える。",
+  "abilityName": "みわくのリズム",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "自分のポケモン全員のHPを、それぞれ「20」回復する。"
+      },
+      "name": {
+        "jp": "ソーラーレイ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5t/XY5t_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5t/XY5t_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5t/XY5t_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ルンパッパ"
+  },
+  "number": "6",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY5t",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

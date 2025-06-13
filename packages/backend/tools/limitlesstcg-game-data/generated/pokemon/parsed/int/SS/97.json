@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip a number of coins equal to the amount of Energy attached to Kabutops ex. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way."
+      },
+      "name": {
+        "en": "Hydrocutter"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Remove 2 damage counter from Kabutops ex (remove 1 if there is only 1)."
+      },
+      "name": {
+        "en": "Spiral Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/97_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/97.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/97.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kabutops ex"
+  },
+  "number": "97",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass",
+    "lightning"
+  ]
+}

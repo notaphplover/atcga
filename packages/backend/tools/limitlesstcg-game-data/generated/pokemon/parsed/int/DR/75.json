@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Lullaby"
+      }
+    },
+    {
+      "cost": "l",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Stifling Fluff"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/75_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/75.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/75.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swablu"
+  },
+  "number": "75",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DR",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tongue Slap"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Lickitung"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

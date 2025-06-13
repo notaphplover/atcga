@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/71_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/71.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/71.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skitty"
+  },
+  "number": "71",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

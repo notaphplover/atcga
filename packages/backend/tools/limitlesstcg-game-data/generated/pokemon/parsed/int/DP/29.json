@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Vacuum Up"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."
+      },
+      "name": {
+        "en": "Sand Eject"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hippowdon"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

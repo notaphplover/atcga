@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may remove 2 damage counters from 1 of your Pokémon. You can't use more than 1 Heal Dance Poké-Power each turn. This power can't be used if Bellossom is affected by a Special Condition.",
+  "abilityName": "Heal Dance",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 Special Condition. The Defending Pokémon is now affected by that Special Condition."
+      },
+      "name": {
+        "en": "Miracle Powder"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Solarbeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bellossom"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

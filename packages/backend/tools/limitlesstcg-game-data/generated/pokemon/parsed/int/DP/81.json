@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, Electabuzz does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thunderpunch"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If Electabuzz is evolved from Elekid, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Shock Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/81_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/81.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/81.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electabuzz"
+  },
+  "number": "81",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

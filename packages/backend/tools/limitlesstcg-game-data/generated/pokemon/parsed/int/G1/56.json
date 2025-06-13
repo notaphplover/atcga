@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each [W] Energy attached to Misty's Starmie but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubblebeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misty's Starmie"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

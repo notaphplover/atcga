@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Freezing Breath"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "40",
+      "effect": {
+        "en": "For each Benched Pokémon (yours and your opponent's), flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Trample"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/24_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/24.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/24.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piloswine"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E3",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

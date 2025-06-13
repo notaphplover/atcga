@@ -1,0 +1,42 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electabuzz"
+  },
+  "number": "2",
+  "resistance": [],
+  "retreat": 2,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

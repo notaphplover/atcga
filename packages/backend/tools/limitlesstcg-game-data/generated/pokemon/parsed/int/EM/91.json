@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Cacturne ex is your Active Pokémon, your opponent can't attach any Special Energy cards (except for [D] and [M] Energy cards) from his or her hand to his or her Active Pokémon.",
+  "abilityName": "Cursed Glare",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Psybeam"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Spike Rend"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/91_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/91.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/91.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cacturne ex"
+  },
+  "number": "91",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

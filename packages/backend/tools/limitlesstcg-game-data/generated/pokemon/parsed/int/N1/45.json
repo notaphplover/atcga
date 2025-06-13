@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Surf"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Earthquake"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quagsire"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

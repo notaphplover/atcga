@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a [G] Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Illumise is affected by a Special Condition.",
+  "abilityName": "Scent Conduct",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon has any Poké-Bodies, that Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Firefly Scent"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/71_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/71.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/71.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Illumise"
+  },
+  "number": "71",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Unown ! from your hand onto your Bench, you may flip a coin. If heads, put 2 damage counters on 1 of your opponent's Pokémon. If tails, put 2 damage counters on 1 of your Pokémon.",
+  "abilityName": "!",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage. If tails, Unown ! does 10 damage to itself, and this attack's damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [!]"
+  },
+  "number": "42",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

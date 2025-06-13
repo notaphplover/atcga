@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Wing Attack"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Spearow"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

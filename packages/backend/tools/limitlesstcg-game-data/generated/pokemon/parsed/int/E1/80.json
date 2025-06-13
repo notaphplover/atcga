@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Nightmare"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon isn't Asleep, this attack does nothing."
+      },
+      "name": {
+        "en": "Dream Eater"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/80_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/80.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/80.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Haunter"
+  },
+  "number": "80",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "E1",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

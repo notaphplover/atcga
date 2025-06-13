@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Does 40 damage plus 10 more damage for each [G] Energy attached to all of your Pokémon."
+      },
+      "name": {
+        "en": "Green Blast"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "80",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Soothing Scent"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/39_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/39.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/39.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Torterra"
+  },
+  "number": "39",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Team Aqua's Carvanha has any [D] Energy attached to it, the Retreat Cost for Team Aqua's Carvanha is 0.",
+  "abilityName": "Dark Lift",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Slow-Acting Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Carvanha"
+  },
+  "number": "25",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

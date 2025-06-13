@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Aqua Wave"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dragonbreath"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latios"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "grass",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

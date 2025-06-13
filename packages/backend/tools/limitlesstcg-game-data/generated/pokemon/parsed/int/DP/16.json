@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all damage done to Staraptor by attacks (both yours and your opponent's) until the end of your next turn."
+      },
+      "name": {
+        "en": "Accelerative Dive"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Flip a coin. If tails, Staraptor does 100 damage to itself."
+      },
+      "name": {
+        "en": "Brave Heart"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Staraptor"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

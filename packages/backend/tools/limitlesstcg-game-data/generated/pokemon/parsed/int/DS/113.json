@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "10",
+      "effect": {
+        "en": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many [M] Energy cards and attach them to Metagross Star."
+      },
+      "name": {
+        "en": "Critical Collection"
+      }
+    },
+    {
+      "cost": "mmmcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/113_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/113.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/113.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metagross Star"
+  },
+  "number": "113",
+  "rarity": "ur",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

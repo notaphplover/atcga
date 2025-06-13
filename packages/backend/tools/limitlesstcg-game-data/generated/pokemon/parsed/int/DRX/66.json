@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza una moneda hasta que salga cruz. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Rock Cannon",
+        "fr": "Canon à Pierres",
+        "de": "Felskanone",
+        "it": "Rocciocannone",
+        "es": "Cañón Roca"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 10 dégâts à chacun de vos Pokémon de Banc. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 10 danni a ciascuno dei tuoi Pokémon in panchina. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Hace 10 puntos de daño a cada uno de tus Pokémon en Banca. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Earthquake",
+        "fr": "Séisme",
+        "de": "Erdbeben",
+        "it": "Terremoto",
+        "es": "Terremoto"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_066_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Boldore",
+    "fr": "Géolithe",
+    "de": "Sedimantur",
+    "it": "Boldore",
+    "pt": "Boldore",
+    "es": "Boldore"
+  },
+  "number": "66",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DRX",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

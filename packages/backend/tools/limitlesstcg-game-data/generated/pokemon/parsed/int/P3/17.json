@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Ho-Oh ex would be Knocked Out by damage from an opponent's attack, you may move up to 2 Energy attached to Ho-Oh ex to your Pokémon in any way you like.",
+  "abilityName": "Golden Wing",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 20 more damage for each type of basic Energy card attached to Ho-Oh ex."
+      },
+      "name": {
+        "en": "Rainbow Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop3/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop3/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop3/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ho-Oh ex"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "P3",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

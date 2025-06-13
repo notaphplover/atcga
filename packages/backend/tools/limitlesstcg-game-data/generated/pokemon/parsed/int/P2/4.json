@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Suicune is Burned or Poisoned by an opponent's attack (even if Suicune is Knocked Out), the Attacking Pokémon is now affected by the same Special Conditions (1 if there is only 1).",
+  "abilityName": "Mirror Coat",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubblebeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop2/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop2/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop2/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Suicune"
+  },
+  "number": "4",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P2",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

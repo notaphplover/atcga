@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番に何回でも使える。自分の場のポケモンについている[超]エネルギーを1個、自分の別のポケモンにつけ替える。",
+  "abilityName": "サイコトランス",
+  "attacks": [
+    {
+      "cost": "pppp",
+      "dmg": "120",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンのHPは、回復しない。"
+      },
+      "name": {
+        "jp": "シャドーレイ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 250,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1M/SM1M_62_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1M/SM1M_62_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM1M/SM1M_62_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ルナアーラGX"
+  },
+  "number": "62",
+  "rarity": "sr",
+  "regulation": "a",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SM1M",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

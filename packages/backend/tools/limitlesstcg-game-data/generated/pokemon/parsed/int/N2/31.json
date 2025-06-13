@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Slam"
+      }
+    },
+    {
+      "cost": "ddcc",
+      "dmg": "50",
+      "effect": {
+        "en": "For each Benched Pokémon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Trample"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tyranitar"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "N2",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": []
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you attach a [W] Energy card from your hand to Marshtomp, remove all Special Conditions from Marshtomp.",
+  "abilityName": "Natural Cure",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marshtomp"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

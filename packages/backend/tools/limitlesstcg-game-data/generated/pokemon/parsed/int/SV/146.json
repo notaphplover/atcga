@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Rayquaza C is your Active Pokémon and is damaged but not Knocked Out by an opponent's attack, you may search your discard pile for an Energy card and attach it to Rayquaza C.",
+  "abilityName": "Dragon Spirit",
+  "attacks": [
+    {
+      "cost": "wpfc",
+      "dmg": "200",
+      "effect": {
+        "en": "Discard all Energy attached to Rayquaza C. Ignore this effect if you have no cards in your hand."
+      },
+      "name": {
+        "en": "Final Blowup"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/146_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/146.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/146.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza C LV.X"
+  },
+  "number": "146",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SV",
+  "stage": "lvx",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

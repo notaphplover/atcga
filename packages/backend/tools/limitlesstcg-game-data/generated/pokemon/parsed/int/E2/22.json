@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Magneton is your Active Pokémon, you may flip a coin. If heads, choose 2 of your opponent's Pokémon that have Energy cards attached to them. Choose 1 of the Energy cards attached to each of those Pokémon and switch them between the Pokémon. This power can't be used if Magneton is affected by a Special Condition.",
+  "abilityName": "Magnetic Flow",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Benched Pokémon that are the same type (color) as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Steel Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

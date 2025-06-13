@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 10 dégâts supplémentaires.",
+        "de": "Wirf eine Münze. Bei „Kopf\" fügt dieser Angriff 10 Schadenspunkte plus 10 weitere Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 10 danni più altri 10 danni.",
+        "es": "Lanza una moneda. Si sale cara, este ataque hace 10 puntos de daño más otros 10 puntos de daño adicionales."
+      },
+      "name": {
+        "en": "Water Splash",
+        "fr": "Éclaboussure",
+        "de": "Wasserplatscher",
+        "it": "Acquasplash",
+        "es": "Chapoteo agua"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Tail Slap",
+        "fr": "Coud'keu",
+        "de": "Schweifschlag",
+        "it": "Codasberla",
+        "es": "Bofetón cola"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HS/HS_074_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marill",
+    "fr": "Marill",
+    "de": "Marill",
+    "it": "Marill",
+    "pt": "Marill",
+    "es": "Marill"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

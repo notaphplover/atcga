@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Stun Spore"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+      },
+      "name": {
+        "en": "Toxic Dust"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dustox"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

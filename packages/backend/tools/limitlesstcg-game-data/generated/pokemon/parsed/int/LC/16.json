@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Toxic Gas",
+  "attacks": [
+    {
+      "cost": "ggg",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Sludge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Muk"
+  },
+  "number": "16",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LC",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

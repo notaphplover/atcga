@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Each player's Pokémon-ex can't use any Poké-Powers and pays [C] more Energy to use its attacks. Each Pokémon can't be affected by more than 1 Extra Liquid Poké-Body.",
+  "abilityName": "Extra Liquid",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each Prize card your opponent has taken."
+      },
+      "name": {
+        "en": "Power Revenge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile ex"
+  },
+  "number": "96",
+  "rarity": "ur",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

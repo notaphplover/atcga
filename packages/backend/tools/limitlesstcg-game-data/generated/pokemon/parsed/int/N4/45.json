@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Freezing Breath"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "40",
+      "effect": {
+        "en": "Until the end of your opponent's next turn, as long as Light Dewgong is your Active Pokémon, prevent all damage done by attacks to your Benched Pokémon. (Any other effects of attacks still happen.)"
+      },
+      "name": {
+        "en": "Ice Pillar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Light Dewgong"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N4",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

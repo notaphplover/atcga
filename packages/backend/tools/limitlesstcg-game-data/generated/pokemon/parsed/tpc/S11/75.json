@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番のはじめに、山札からこのカードを引いたとき、自分のベンチに空きがあるなら、手札に加える前に1回使える。このカードを自分のベンチに出す。その後、自分の山札を3枚引く。",
+  "abilityName": "きんきゅうエントリー",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の自分の番、このポケモンの「コメットパンチ」のダメージは「+100」される。"
+      },
+      "name": {
+        "jp": "コメットパンチ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_75_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_75_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S11/S11_75_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メタグロス"
+  },
+  "number": "75",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "S11",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

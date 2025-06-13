@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have a [F] Energy card in your discard pile, you may discard 2 cards from your hand. Then, attach a [F] Energy card from your discard pile to Regirock. This power can't be used if Regirock is affected by a Special Condition.",
+  "abilityName": "Regi Cycle",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Stone Edge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regirock"
+  },
+  "number": "38",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

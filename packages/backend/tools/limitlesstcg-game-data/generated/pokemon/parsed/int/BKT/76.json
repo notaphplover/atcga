@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash",
+        "fr": "Tranche",
+        "de": "Schlitzer",
+        "it": "Lacerazione",
+        "es": "Cuchillada"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "80",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Actif de votre adversaire.",
+        "de": "Der Schaden dieses Angriffs wird durch Schwäche, Resistenz oder alle anderen Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati dalla debolezza, dalla resistenza o da qualsiasi altro effetto presente sul Pokémon attivo del tuo avversario.",
+        "es": "El daño de este ataque no se ve afectado por Debilidad, Resistencia o cualquier otro efecto en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Swift",
+        "fr": "Météores",
+        "de": "Sternschauer",
+        "it": "Comete",
+        "es": "Rapidez"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_076_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sandslash",
+    "fr": "Sablaireau",
+    "de": "Sandamer",
+    "it": "Sandslash",
+    "pt": "Sandslash",
+    "es": "Sandslash"
+  },
+  "number": "76",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BKT",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

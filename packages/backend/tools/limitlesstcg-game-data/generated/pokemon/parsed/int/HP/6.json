@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "Switch Deoxys with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Teleportation Burst"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

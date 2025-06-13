@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Psyshot"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Shadow Bind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/42_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/42.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/42.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Haunter"
+  },
+  "number": "42",
+  "rarity": "u",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

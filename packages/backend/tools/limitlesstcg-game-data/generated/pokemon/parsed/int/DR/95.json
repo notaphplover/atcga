@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard the top card from your deck. If that card is a basic Energy card, attach it to Magcargo ex."
+      },
+      "name": {
+        "en": "Melting Mountain"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "40+",
+      "effect": {
+        "en": "You may discard any number of basic Energy cards attached to Magcargo ex when you use this attack. If you do, this attack does 40 damage plus 20 more damage for each basic Energy card you discarded."
+      },
+      "name": {
+        "en": "Lava Flow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo ex"
+  },
+  "number": "95",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Rolling Tackle"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "30",
+      "effect": {
+        "en": "Take all Energy cards attached to Dark Electrode and attach them to your Benched Pokémon (in any way you choose). If you have no Benched Pokémon, discard all Energy cards attached to Dark Electrode."
+      },
+      "name": {
+        "en": "Energy Bomb"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Electrode"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

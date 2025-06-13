@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Metang during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Metal Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/64_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/64.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/64.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metang"
+  },
+  "number": "64",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

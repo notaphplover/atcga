@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 10 dégâts à chacun des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Infligge 10 danni a ciascun Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Blizzard",
+        "fr": "Blizzard",
+        "de": "Blizzard",
+        "it": "Bora",
+        "es": "Ventisca"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "If this Pokémon has any Plasma Energy attached to it, the Defending Pokémon is now Paralyzed.",
+        "fr": "Si de l'Énergie Plasma est attachée à ce Pokémon, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wenn an dieses Pokémon bereits Plasma-Energie angelegt ist, ist das Verteidigende Pokémon jetzt paralysiert.",
+        "it": "Se questo Pokémon ha delle Energie Plasma assegnate, il Pokémon difensore viene paralizzato.",
+        "es": "Si este Pokémon tiene cualquier Energía Plasma unida a él, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Frost Prison",
+        "fr": "Prison de Givre",
+        "de": "Kalter Knast",
+        "it": "Gabbiagelata",
+        "es": "Prisión Gélida"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_132_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno-EX",
+    "fr": "Artikodin-EX",
+    "de": "Arktos-EX",
+    "it": "Articuno-EX",
+    "pt": "Articuno-EX",
+    "es": "Articuno-EX"
+  },
+  "number": "132",
+  "rarity": "ur",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "PLS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

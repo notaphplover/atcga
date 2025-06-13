@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "As long as you have Articuno ex and Moltres ex in play, the Retreat Cost for Zapdos ex is 0.",
+  "abilityName": "Synchronized Lift",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "You may move a [L] Energy card attached to Zapdos ex to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Thunder Gift"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Lightning Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/33_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/33.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/33.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zapdos ex"
+  },
+  "number": "33",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

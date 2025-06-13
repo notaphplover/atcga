@@ -1,0 +1,78 @@
+{
+  "abilityEffect": "This Pokémon can't attack unless you have 4 or more Team Rocket's Pokémon in play.",
+  "abilityName": "Power Saver",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "160+",
+      "effect": {
+        "en": "You may discard up to 2 Energy from your Benched Pokémon. This attack does 60 more damage for each card you discarded in this way.",
+        "fr": "Vous pouvez défausser jusqu'à 2 Énergies de vos Pokémon de Banc. Cette attaque inflige 60 dégâts supplémentaires pour chaque carte défaussée de cette façon.",
+        "de": "Du kannst bis zu 2 Energien von Pokémon auf deiner Bank auf deinen Ablagestapel legen. Diese Attacke fügt für jede auf diese Weise abgelegte Karte 60 Schadenspunkte mehr zu.",
+        "it": "Puoi scartare fino a due Energie dai tuoi Pokémon in panchina. Questo attacco infligge 60 danni in più per ogni carta che hai scartato in questo modo.",
+        "pt": "Você pode descartar até 2 Energias dos seus Pokémon no Banco. Este ataque causa 60 pontos de dano a mais para cada carta descartada desta forma.",
+        "es": "Puedes descartar hasta 2 Energías de tus Pokémon en Banca. Este ataque hace 60 puntos de daño más por cada carta que hayas descartado de esta manera."
+      },
+      "name": {
+        "en": "Erasure Ball",
+        "fr": "Boule Effacement",
+        "de": "Löschball",
+        "it": "Annientapalla",
+        "pt": "Bola de Supressão",
+        "es": "Bola Correctora"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 280,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_213_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Rocket's Mewtwo ex",
+    "fr": "Mewtwo-ex de la Team Rocket",
+    "de": "Team Rockets Mewtu-ex",
+    "it": "Mewtwo-ex del Team Rocket",
+    "pt": "Mewtwo ex da Equipe Rocket",
+    "es": "Mewtwo ex del Team Rocket"
+  },
+  "number": "213",
+  "rarity": "ur",
+  "regulation": "i",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "DRI",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {
+        "en": "During your next turn, each of Combusken's attacks does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Bulk Up"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Combusken"
+  },
+  "number": "35",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

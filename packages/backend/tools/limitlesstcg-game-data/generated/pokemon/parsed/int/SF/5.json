@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [L] or [M] Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Magnezone is affected by a Special Condition.",
+  "abilityName": "Magnetic Search",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard an Energy attached to Magnezone."
+      },
+      "name": {
+        "en": "Crush Volt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnezone"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SF",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

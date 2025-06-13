@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a Basic Pokémon or Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Nidoqueen is affected by a Special Condition.",
+  "abilityName": "Invitation",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Basic Pokémon and each Evolution card in your discard pile. You can't add more than 60 damage in this way."
+      },
+      "name": {
+        "en": "Vengeance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoqueen"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

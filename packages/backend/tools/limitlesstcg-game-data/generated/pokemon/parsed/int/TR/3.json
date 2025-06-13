@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 20 more damage for each [W] Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way."
+      },
+      "name": {
+        "en": "Hydrocannon"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. (Any other effects of attacks still happen.)"
+      },
+      "name": {
+        "en": "Rocket Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Blastoise"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

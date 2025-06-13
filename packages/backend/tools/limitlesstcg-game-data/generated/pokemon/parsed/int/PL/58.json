@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "50×",
+      "effect": {
+        "en": "Reveal the top 5 cards of your deck. Flip a coin for each Energy card you find there. This attack does 50 damage times the number of heads. Shuffle the revealed cards back into your deck."
+      },
+      "name": {
+        "en": "Water Vein"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "40",
+      "effect": {
+        "en": "Any time the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack does nothing. (If the Defending Pokémon is no longer your opponent's Active Pokémon, this effect ends.)"
+      },
+      "name": {
+        "en": "Octazooka"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/58_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/58.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/58.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Octillery"
+  },
+  "number": "58",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Brick Smash"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard a Basic Pokémon or Evolution card from your hand or this attack does nothing."
+      },
+      "name": {
+        "en": "Hard Bone"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Marowak"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "fighting",
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Dark Tyranitar."
+      },
+      "name": {
+        "en": "Grind"
+      }
+    },
+    {
+      "cost": "ddccc",
+      "dmg": "70+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, this attack does 70 damage plus 50 more damage."
+      },
+      "name": {
+        "en": "Bite Off"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Tyranitar"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

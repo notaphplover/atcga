@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x30ダメージを追加。"
+      },
+      "name": {
+        "jp": "アクロバット"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "120",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「+40」される。"
+      },
+      "name": {
+        "jp": "ジェットシュート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY4/XY4_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY4/XY4_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY4/XY4_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ファイアロー"
+  },
+  "number": "10",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "XY4",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

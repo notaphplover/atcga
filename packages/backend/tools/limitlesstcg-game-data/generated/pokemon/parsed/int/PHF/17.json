@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pokémon.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Pour chaque côté face, défaussez une Énergie attachée au Pokémon Actif de votre adversaire.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Lege pro „Kopf“ 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta 1 Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Hyper Whirlpool",
+        "fr": "Hyper Tourbillon",
+        "de": "Hyper Whirlpool",
+        "it": "Ipermulinello",
+        "es": "Hipertorbellino"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire a déjà des marqueurs de dégâts, cette attaque inflige 80 dégâts supplémentaires.",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners bereits mindestens 1 Schadensmarke liegt, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon attivo del tuo avversario ha dei segnalini danno, questo attacco infligge 80 danni in più.",
+        "es": "Si el Pokémon Activo de tu rival ya tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más."
+      },
+      "name": {
+        "en": "Second Strike",
+        "fr": "Deuxième Coup",
+        "de": "Sekundärschlag",
+        "it": "Secondocolpo",
+        "es": "Segundo Golpe"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PHF/PHF_017_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feraligatr",
+    "fr": "Aligatueur",
+    "de": "Impergator",
+    "it": "Feraligatr",
+    "pt": "Feraligatr",
+    "es": "Feraligatr"
+  },
+  "number": "17",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "PHF",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

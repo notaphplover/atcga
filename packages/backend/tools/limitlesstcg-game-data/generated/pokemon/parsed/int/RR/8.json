@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Apply Weakness for each Pokémon (both yours and your opponent's) as ×2 instead.",
+  "abilityName": "Boundary Aura",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Combo Throw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lucario GL"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

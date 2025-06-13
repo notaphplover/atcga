@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "gpc",
+      "dmg": "90",
+      "effect": {
+        "en": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+        "fr": "Les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Défenseur.",
+        "de": "Der Schaden dieses Angriffs wird durch Effekte auf dem Verteidigenden Pokémon nicht verändert.",
+        "it": "Il danno di questo attacco non è influenzato da alcun effetto presente sul Pokémon difensore.",
+        "es": "El daño de este ataque no se ve afectado por ninguno de los efectos en el Pokémon Defensor."
+      },
+      "name": {
+        "en": "Shred",
+        "fr": "Déchiquetage",
+        "de": "Zerfetzer",
+        "it": "Tritatutto",
+        "es": "Hacer Trizas"
+      }
+    },
+    {
+      "cost": "gpcc",
+      "dmg": "130",
+      "effect": {
+        "en": "Discard the top 3 cards of your deck.",
+        "fr": "Défaussez les 3 cartes du dessus de votre deck.",
+        "de": "Lege die obersten 3 Karten deines Decks auf deinen Ablagestapel.",
+        "it": "Scarta le prime tre carte del tuo mazzo.",
+        "es": "Descarta las 3 primeras cartas de tu baraja."
+      },
+      "name": {
+        "en": "Dragon Pulse",
+        "fr": "Dracochoc",
+        "de": "Drachenpuls",
+        "it": "Dragopulsar",
+        "es": "Pulso Dragón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_124_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Giratina-EX",
+    "fr": "Giratina-EX",
+    "de": "Giratina-EX",
+    "it": "Giratina-EX",
+    "pt": "Giratina-EX",
+    "es": "Giratina-EX"
+  },
+  "number": "124",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DRX",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

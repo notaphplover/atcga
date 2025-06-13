@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Switch Raikou Star with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Lightning Turn"
+      }
+    },
+    {
+      "cost": "lll",
+      "dmg": "70",
+      "effect": {
+        "en": "If you have less Prize cards left than your opponent, this attack does 40 damage to each of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Meta Voltage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/114_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/114.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/114.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raikou Star"
+  },
+  "number": "114",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Fire Wing"
+      }
+    },
+    {
+      "cost": "rrrc",
+      "dmg": "60",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Ho-Oh."
+      },
+      "name": {
+        "en": "Fire Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop5/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop5/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop5/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ho-Oh"
+  },
+  "number": "1",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "P5",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

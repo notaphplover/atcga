@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Ariados is in play, each player must pay an additional [C] to retreat his or her Active Pokémon. Gluey Slime can't make a player pay more than an additional [C] to retreat a Pokémon, even if there is more than 1 Ariados in play.",
+  "abilityName": "Gluey Slime",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, this attack does 20 damage and the defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Spider Force"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ariados"
+  },
+  "number": "3",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

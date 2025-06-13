@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may put 3 damage counters on your opponent's Pokémon in any way you like.",
+  "abilityName": "Cursed Shadow",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Burned and Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Brûlé et Confus.",
+        "de": "Das Verteidigende Pokémon ist jetzt verbrannt und verwirrt.",
+        "it": "Il Pokémon difensore viene bruciato e confuso.",
+        "es": "El Pokémon Defensor pasa a estar Quemado y Confundido."
+      },
+      "name": {
+        "en": "Eerie Glow",
+        "fr": "Lueur Sinistre",
+        "de": "Gruselglühen",
+        "it": "Lucemistero",
+        "es": "Resplandor Sobrecogedor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_060_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Chandelure",
+    "fr": "Lugulabre",
+    "de": "Skelabra",
+    "it": "Chandelure",
+    "pt": "Chandelure",
+    "es": "Chandelure"
+  },
+  "number": "60",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NVI",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

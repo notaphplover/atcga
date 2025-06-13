@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分のバトルポケモンの特殊状態を1つ回復する。",
+  "abilityName": "ハッピーサプリ",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "80×",
+      "effect": {
+        "jp": "このポケモンについているエネルギーの数ぶんコインを投げ、オモテの数x80ダメージ。"
+      },
+      "name": {
+        "jp": "パワフルビンタ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_67_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_67_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_67_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハピナス"
+  },
+  "number": "67",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SM8",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

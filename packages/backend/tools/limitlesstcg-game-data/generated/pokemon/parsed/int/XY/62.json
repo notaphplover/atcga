@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip a coin for each [F] Energy attached to this Pokémon. This attack does 50 damage times the number of heads.",
+        "fr": "Lancez une pièce pour chaque Énergie [F] attachée à ce Pokémon. Cette attaque inflige 50 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf für jede an dieses Pokémon angelegte [F]-Energie 1 Münze. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta per ogni Energia [F] assegnata a questo Pokémon. Questo attacco infligge 50 danni ogni volta che esce testa.",
+        "es": "Lanza 1 moneda por cada Energía [F] unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Rock Blast",
+        "fr": "Boule Roc",
+        "de": "Felswurf",
+        "it": "Cadutamassi",
+        "es": "Pedrada"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "130",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance. This Pokémon can't attack during your next turn.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance. Ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+        "de": "Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert. Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.",
+        "it": "Il danno di questo attacco non è influenzato dalla debolezza o dalla resistenza. Questo Pokémon non può attaccare durante il tuo prossimo turno.",
+        "es": "El daño de este ataque no se ve afectado por Debilidad o Resistencia. Este Pokémon no puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Rock Wrecker",
+        "fr": "Roc-Boulet",
+        "de": "Felswerfer",
+        "it": "Devastomasso",
+        "es": "Romperrocas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/XY/XY_062_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhyperior",
+    "fr": "Rhinastoc",
+    "de": "Rihornior",
+    "it": "Rhyperior",
+    "pt": "Rhyperior",
+    "es": "Rhyperior"
+  },
+  "number": "62",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "XY",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

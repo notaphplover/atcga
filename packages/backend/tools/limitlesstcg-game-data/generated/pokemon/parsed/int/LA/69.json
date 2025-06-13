@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may do 30 damage plus 30 more damage. If you do, Piloswine does 30 damage to itself."
+      },
+      "name": {
+        "en": "Charge Dash"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Icy Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/69_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/69.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/69.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piloswine"
+  },
+  "number": "69",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

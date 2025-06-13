@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Burmy Plant Cloak is your Active Pokémon, you may search your discard pile for a basic [G] Energy card and attach it to Burmy Plant Cloak.",
+  "abilityName": "Wear Cloak",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "If Burmy Plant Cloak has any [G] Energy attached to it, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Plant Cloak Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/78_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/78.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/78.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Burmy Plant Cloak"
+  },
+  "number": "78",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

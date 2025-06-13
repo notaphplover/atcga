@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Each player's Active Basic Pokémon (excluding Pokémon-ex) can't use any Poké-Powers.",
+  "abilityName": "Rear Sensor",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon has any Special Energy cards attached to it, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Disorder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Girafarig"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

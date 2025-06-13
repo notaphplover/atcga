@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+      },
+      "name": {
+        "en": "Needles"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Sandstorm"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Brock's Sandslash"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

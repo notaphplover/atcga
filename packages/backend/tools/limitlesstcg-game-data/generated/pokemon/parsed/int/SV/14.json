@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Yanmega is your Active Pokémon, you may search your discard pile for a [G] Energy card and attach it to Yanmega. This power can't be used if Yanmega is affected by a Special Condition.",
+  "abilityName": "Speed Boost",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "You may return all [G] Energy attached to Yanmega to your hand. If you do, this attack does 20 damage plus 20 more damage for each Energy card you returned."
+      },
+      "name": {
+        "en": "Wind Return"
+      }
+    },
+    {
+      "cost": "ggcc",
+      "dmg": "70",
+      "effect": {},
+      "name": {
+        "en": "Speed Dive"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Yanmega"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

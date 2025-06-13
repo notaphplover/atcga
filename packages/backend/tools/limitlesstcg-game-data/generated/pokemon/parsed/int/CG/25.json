@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Medicham has any [P] Energy cards attached to it, Medicham is both [P] and [F] type.",
+  "abilityName": "Dual Armor",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Psyshock"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Sky Uppercut"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Medicham"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "CG",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

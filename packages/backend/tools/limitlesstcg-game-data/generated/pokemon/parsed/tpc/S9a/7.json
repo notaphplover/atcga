@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "どくのムチ"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "60",
+      "effect": {
+        "jp": "相手のバトルポケモンが特殊状態なら、相手のベンチポケモン1匹にも、60ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "アサシンローズ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_7_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_7_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S9a/S9a_7_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロズレイド"
+  },
+  "number": "7",
+  "rarity": "u",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S9a",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

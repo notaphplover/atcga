@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Mesprit from your hand onto your Bench, you may use this power. Your opponent can't use any Poké-Powers on his or her Pokémon during your opponent's next turn.",
+  "abilityName": "Psychic Bind",
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "20+",
+      "effect": {
+        "en": "If you have the same number of cards in your hand as your opponent, this attack does 20 damage plus 50 more damage."
+      },
+      "name": {
+        "en": "Extrasensory"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mesprit"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

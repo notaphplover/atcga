@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "All damage done by attacks to Shuckle is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Vase Body",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonous Saliva"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/96_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/96.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/96.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shuckle"
+  },
+  "number": "96",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

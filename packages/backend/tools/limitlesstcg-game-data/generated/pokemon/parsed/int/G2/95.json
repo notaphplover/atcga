@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      "name": {
+        "en": "Mind Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Drowzee"
+  },
+  "number": "95",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G2",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

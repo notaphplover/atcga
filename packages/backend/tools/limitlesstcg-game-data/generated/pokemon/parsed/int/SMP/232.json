@@ -1,0 +1,84 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "150",
+      "effect": {
+        "en": "This Pokémon does 30 damage to itself."
+      },
+      "name": {
+        "en": "Volt Tackle"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Tail Break-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu-GX",
+    "fr": "Pikachu-GX",
+    "de": "Pikachu-GX",
+    "it": "Pikachu-GX",
+    "pt": "Pikachu-GX",
+    "es": "Pikachu-GX"
+  },
+  "number": "232",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

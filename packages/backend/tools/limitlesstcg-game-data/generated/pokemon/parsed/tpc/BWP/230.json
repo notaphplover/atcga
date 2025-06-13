@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "場に「スタジアム」が出ているなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ふきぬける"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "パワーブラスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_230_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_230_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_230_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "トルネロスEX"
+  },
+  "number": "230",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

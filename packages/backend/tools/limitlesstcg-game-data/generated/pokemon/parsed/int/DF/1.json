@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Treat each Basic Pokémon and Evolution card in your deck, in your discard pile, in your hand, and in play as a Pokémon that has δ on its card.",
+  "abilityName": "Holon Veil",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each Pokémon you have in play that has δ on its card."
+      },
+      "name": {
+        "en": "Delta Circle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "前の相手の番に、自分の「ポケモンGX・EX」がきぜつしていたなら、自分の番に1回使える。自分の山札にある好きなカードを2枚まで、手札に加える。そして山札を切る。この番、すでに別の「キャットウォーク」を使っていたなら、この特性は使えない。",
+  "abilityName": "キャットウォーク",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "10+",
+      "effect": {
+        "jp": "自分のトラッシュにあるポケモンの枚数x20ダメージ追加。追加できるダメージはポケモン9枚ぶんまで。"
+      },
+      "name": {
+        "jp": "ふくしゅう"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "150",
+      "effect": {
+        "jp": "このポケモンをベンチポケモンと入れ替える。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "スラッシュバックGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_69_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_69_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM10/SM10_69_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ペルシアンGX"
+  },
+  "number": "69",
+  "rarity": "rr",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM10",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

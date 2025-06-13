@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "At any time between turns, remove 1 damage counter from Ludicolo.",
+  "abilityName": "Rain Dish",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Does 50 damage plus 10 more damage for each [W] Energy attached to Ludicolo but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Hydro Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ludicolo"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "リーフブレード"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個トラッシュし、相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "パワーポイズン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジュカイン"
+  },
+  "number": "6",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY5g",
+  "stage": "stage2",
+  "traitEffect": "このポケモンは、相手が使うトレーナーズの効果を受けない。（ポケモンのどうぐ・スタジアムはのぞく。）",
+  "traitName": "Ω（オメガ）バリア",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

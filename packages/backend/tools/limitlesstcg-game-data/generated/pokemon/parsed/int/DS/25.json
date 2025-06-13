@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have less than 6 cards in your hand, you may draw cards until you have 6 cards in your hand. This power can't be used if Porygon2 is affected by a Special Condition.",
+  "abilityName": "Backup",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "If Porygon2 has a Technical Machine card attached to it, the Defending Pokémon is now Asleep and Burned."
+      },
+      "name": {
+        "en": "Machine Burst"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Porygon2"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

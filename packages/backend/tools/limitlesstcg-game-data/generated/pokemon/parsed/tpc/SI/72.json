@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンが使うワザの、相手のバトルポケモンへのダメージは、相手がすでにとったサイド1枚につき「+30」される。",
+  "abilityName": "かじばのパワー",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "150",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ひのたまシュート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_72_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_72_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_72_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エースバーン"
+  },
+  "number": "72",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SI",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

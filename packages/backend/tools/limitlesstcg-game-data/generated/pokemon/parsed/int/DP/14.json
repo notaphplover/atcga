@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Shiftry is your Active Pokémon, you may flip a coin. If heads, choose 1 Evolved Pokémon on your opponent's Bench, remove the highest Stage Evolution card from that Pokémon, and put it back into his or her hand. This power can't be used if Shiftry is affected by a Special Condition.",
+  "abilityName": "Darkness Fan",
+  "attacks": [
+    {
+      "cost": "ddc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Spirit Dance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shiftry"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "stage2",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

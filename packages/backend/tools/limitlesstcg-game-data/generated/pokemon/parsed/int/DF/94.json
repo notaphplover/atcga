@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Any damage done to your Stage 2 Pokémon-ex by your opponent's attacks is reduced by 10 (before applying Weakness and Resistance).",
+  "abilityName": "Extra Smoke",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Search your discard pile for an Energy card and attach it to Kingdra ex."
+      },
+      "name": {
+        "en": "Energy Link"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Kingdra ex has no Weakness during your opponent's next turn."
+      },
+      "name": {
+        "en": "Protective Swirl"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kingdra ex"
+  },
+  "number": "94",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

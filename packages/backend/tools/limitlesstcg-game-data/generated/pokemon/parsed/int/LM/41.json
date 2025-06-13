@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Pound"
+      }
+    },
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Plunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nuzleaf"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

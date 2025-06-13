@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Poison Ring"
+      }
+    },
+    {
+      "cost": "ggccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Sceptile ex can't use Slashing Strike during your next turn."
+      },
+      "name": {
+        "en": "Slashing Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/93_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/93.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/93.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sceptile ex"
+  },
+  "number": "93",
+  "rarity": "ur",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "grass",
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Claw"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, all damage done by attacks to Skarmory during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Steel Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skarmory"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "N1",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

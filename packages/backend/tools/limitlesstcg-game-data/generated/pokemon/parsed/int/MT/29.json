@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Mantyke is anywhere under Mantine, the Retreat Cost for each of your [W] Pokémon is [C][C] less.",
+  "abilityName": "Jumbo Fin",
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "50",
+      "effect": {
+        "en": "Mantine can't use Giant Wave during your next turn."
+      },
+      "name": {
+        "en": "Giant Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mantine"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

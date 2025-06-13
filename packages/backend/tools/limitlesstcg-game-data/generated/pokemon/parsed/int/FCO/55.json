@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard as many cards as you like from your hand. Then, draw that many cards.",
+        "fr": "Défaussez autant de cartes que vous voulez de votre main. Ensuite, piochez autant de cartes.",
+        "de": "Lege beliebig viele Karten von deiner Hand auf deinen Ablagestapel. Ziehe anschließend dieselbe Anzahl Karten.",
+        "it": "Se un Pokémon Megaevoluzione del tuo avversario viene messo KO dai danni di questo attacco, prendi due carte Premio in più.",
+        "es": "Descarta tantas cartas como quieras de tu mano. Después, roba ese mismo número de cartas."
+      },
+      "name": {
+        "en": "Veil of Darkness",
+        "fr": "Voile des Ténèbres",
+        "de": "Schleier der Dunkelheit",
+        "it": "Finegioco",
+        "es": "Velo Oscuro"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "70",
+      "effect": {
+        "en": "If your opponent's Mega Evolution Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards.",
+        "fr": "Si le Pokémon Méga-Évolution de votre adversaire est mis K.O. par les dégâts de cette attaque, récupérez 2 cartes Récompense supplémentaires.",
+        "de": "Wenn das Mega-Entwicklungs-Pokémon deines Gegners durch Schaden dieses Angriffs kampfunfähig wird, nimm 2 zusätzliche Preiskarten.",
+        "es": "Si el Pokémon Megaevolución de tu rival queda Fuera de Combate por el daño de este ataque, coge 2 cartas de Premio más."
+      },
+      "name": {
+        "en": "Endgame",
+        "fr": "Phase Finale",
+        "de": "Endphase",
+        "es": "Momentos Finales"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FCO/FCO_055_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Umbreon-EX",
+    "fr": "Noctali-EX",
+    "de": "Nachtara-EX",
+    "it": "Umbreon-EX",
+    "pt": "Umbreon-EX",
+    "es": "Umbreon-EX"
+  },
+  "number": "55",
+  "rarity": "rr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "FCO",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

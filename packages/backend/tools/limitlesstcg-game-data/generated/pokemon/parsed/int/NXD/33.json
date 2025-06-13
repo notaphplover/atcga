@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon. If you do, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+  "abilityName": "Slippery Soles",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 10 more damage for each [C] in the Defending Pokémon's Retreat Cost.",
+        "fr": "Inflige 10 dégâts supplémentaires pour chaque [C] dans le coût de Retraite du Pokémon Défenseur.",
+        "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede [C]-Energie in den Rückzugskosten des Verteidigenden Pokémon zu.",
+        "it": "Infligge 10 danni in più per ogni Energia [C] nel costo di ritirata del Pokémon difensore.",
+        "es": "Hace 10 puntos de daño más por cada [C] en el Coste de Retirada del Pokémon Defensor."
+      },
+      "name": {
+        "en": "Crushing Ice",
+        "fr": "Brise-Glace",
+        "de": "Berstendes Eis",
+        "it": "Spaccaghiaccio",
+        "es": "Hielo Devastador"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NXD/NXD_033_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vanilluxe",
+    "fr": "Sorbouboul",
+    "de": "Gelatwino",
+    "it": "Vanilluxe",
+    "pt": "Vanilluxe",
+    "es": "Vanilluxe"
+  },
+  "number": "33",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NXD",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

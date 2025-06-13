@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Each of Charizard's attacks does 10 more damage for each [R] Pokémon on your Bench to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Fire Formation",
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Fire Wing"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Charizard."
+      },
+      "name": {
+        "en": "Burning Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "AR",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

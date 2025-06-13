@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "はっぱカッター"
+      }
+    },
+    {
+      "cost": "g",
+      "dmg": "130",
+      "effect": {
+        "jp": "自分の手札から「基本[G]エネルギー」を2枚トラッシュする。2枚トラッシュできないなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "はなきりまい"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ラランテス"
+  },
+  "number": "6",
+  "rarity": "u",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV10",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
+  "abilityName": "Poison Point",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pokémon. If both of them are tails, this attack does nothing.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, défaussez une Énergie du Pokémon Actif de votre adversaire. Si vous obtenez 2 côtés pile, cette attaque ne fait rien.",
+        "de": "Wirf 2 Münzen. Lege pro Kopf 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel. Wenn beide Münzen Zahl zeigen, hat diese Attacke keine Auswirkungen.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, scarta un'Energia assegnata al Pokémon attivo del tuo avversario. Se esce entrambe le volte croce, questo attacco non ha effetto.",
+        "es": "Lanza 2 monedas. Por cada cara, descarta 1 Energía del Pokémon Activo de tu rival. Si ambas son cruz, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Twister",
+        "fr": "Ouragan",
+        "de": "Windhose",
+        "it": "Tornado",
+        "es": "Ciclón"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_053_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragalge",
+    "fr": "Kravarech",
+    "de": "Tandrak",
+    "it": "Dragalge",
+    "pt": "Dragalge",
+    "es": "Dragalge"
+  },
+  "number": "53",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "FLI",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

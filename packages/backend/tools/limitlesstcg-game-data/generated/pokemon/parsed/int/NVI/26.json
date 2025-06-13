@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, reduce that damage by 50 (after applying Weakness and Resistance).",
+  "abilityName": "Solid Rock",
+  "attacks": [
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard an Energy attached to the Defending Pokémon.",
+        "fr": "Défaussez une Énergie attachée au Pokémon Défenseur.",
+        "de": "Lege 1 an das Verteidigende Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Scarta un'Energia assegnata al Pokémon difensore.",
+        "es": "Descarta una Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Crunch",
+        "fr": "Mâchouille",
+        "de": "Knirscher",
+        "it": "Sgranocchio",
+        "es": "Triturar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_026_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carracosta",
+    "fr": "Mégapagos",
+    "de": "Karippas",
+    "it": "Carracosta",
+    "pt": "Carracosta",
+    "es": "Carracosta"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "NVI",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for any Castform and switch it with Castform. (Any cards attached to Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Castform on top of your deck. Shuffle your deck afterward. You can't use more than 1 Temperament Poké-Power each turn.",
+  "abilityName": "Temperament",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If you have a Stadium card in play, remove 3 damage counters from Castform. If your opponent has a Stadium card in play, this attack does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Weather Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Castform"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

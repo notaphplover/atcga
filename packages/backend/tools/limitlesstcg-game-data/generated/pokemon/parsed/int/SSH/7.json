@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Zzzt",
+        "fr": "Bzzz",
+        "de": "Piiieks",
+        "it": "Bzzz",
+        "pt": "Bzzz",
+        "es": "Bzzz"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "60×",
+      "effect": {
+        "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage for each heads.",
+        "fr": "Lancez une pièce pour chaque Énergie attachée à ce Pokémon. Cette attaque inflige 60 dégâts pour chaque côté face.",
+        "de": "Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia una moneta per ogni Energia assegnata a questo Pokémon. Questo attacco infligge 60 danni ogni volta che esce testa.",
+        "pt": "Jogue 1 moeda para cada Energia ligada a este Pokémon. Este ataque causa 60 pontos de dano para cada cara.",
+        "es": "Lanza 1 moneda por cada Energía unida a este Pokémon. Este ataque hace 60 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Powerful Needles",
+        "fr": "Piquants Puissants",
+        "de": "Kräftige Stacheln",
+        "it": "Spine Poderose",
+        "pt": "Espinhos Poderosos",
+        "es": "Espinas Poderosas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_007_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Maractus",
+    "fr": "Maracachi",
+    "de": "Maracamba",
+    "it": "Maractus",
+    "pt": "Maractus",
+    "es": "Maractus"
+  },
+  "number": "7",
+  "rarity": "c",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SSH",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

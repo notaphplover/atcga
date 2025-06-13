@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may discard any Stadium card in play.",
+        "fr": "Vous pouvez défausser toute carte Stade en jeu.",
+        "de": "Lege eine beliebige Stadionkarte aus dem Spiel auf den Ablagestapel.",
+        "it": "Puoi scartare una carta Stadio in gioco.",
+        "es": "Puedes descartar cualquier carta de Estadio en juego."
+      },
+      "name": {
+        "en": "Knock Over",
+        "fr": "Culbute",
+        "de": "Umwerfen",
+        "it": "Sconvolgimento",
+        "es": "Tumbar"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "70+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 70 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon [F], cette attaque inflige 70 dégâts supplémentaires.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein [F]-Pokémon ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon attivo del tuo avversario è di tipo [F], questo attacco infligge 70 danni in più.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon [F], este ataque hace 70 puntos de daño más."
+      },
+      "name": {
+        "en": "Frozen Splash",
+        "fr": "Trempette Glacée",
+        "de": "Frostiger Platscher",
+        "it": "Spruzzo Artico",
+        "es": "Chapoteo Congelado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_048_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Walrein",
+    "fr": "Kaimorse",
+    "de": "Walraisa",
+    "it": "Walrein",
+    "pt": "Walrein",
+    "es": "Walrein"
+  },
+  "number": "48",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "PRC",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

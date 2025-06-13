@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "If Raichu has a Pokémon Tool card attached to it, this attack does 20 damage to each of your opponent's Benched Pokémon that isn't an Evolved Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Boosted Voltage"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard a [L] Energy card attached to Raichu."
+      },
+      "name": {
+        "en": "Thunder Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Raichu"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

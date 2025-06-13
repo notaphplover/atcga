@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "きりさく"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "60×",
+      "effect": {
+        "jp": "コインを3回投げ、オモテの数x60ダメージ。"
+      },
+      "name": {
+        "jp": "トリプルカッター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_91_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_91_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_91_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハハコモリ"
+  },
+  "number": "91",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

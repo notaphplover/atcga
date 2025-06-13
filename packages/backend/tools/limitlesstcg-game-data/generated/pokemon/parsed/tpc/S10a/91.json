@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "自分の番に使える。このポケモンのHPを、すべて回復する。［対戦中、自分はVSTARパワーを1回しか使えない。］",
+  "abilityName": "モイストスター",
+  "attacks": [
+    {
+      "cost": "wmc",
+      "dmg": "200",
+      "effect": {
+        "jp": "次の相手の番、このポケモンが受けるワザのダメージは「-80」される。"
+      },
+      "name": {
+        "jp": "アイアンローリング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_91_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_91_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S10a/S10a_91_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヒスイ ヌメルゴンVSTAR"
+  },
+  "number": "91",
+  "rarity": "hr",
+  "regulation": "f",
+  "resistance": [],
+  "retreat": 3,
+  "set": "S10a",
+  "stage": "vstar",
+  "type": [
+    "dragon"
+  ],
+  "weakness": []
+}

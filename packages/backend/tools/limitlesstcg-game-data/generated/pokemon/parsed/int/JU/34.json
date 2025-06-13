@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Dodrio is Benched, pay [C] less to retreat your Active Pokémon.",
+  "abilityName": "Retreat Aid",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Dodrio."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dodrio"
+  },
+  "number": "34",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

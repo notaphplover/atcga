@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn, after you flip any coins for an attack, you may ignore all effects of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn.",
+  "abilityName": "Victory Star",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Move all Energy attached to this Pokémon to 1 of your Benched Pokémon.",
+        "fr": "Déplacez toutes les Énergies attachées à ce Pokémon vers 1 de vos Pokémon de Banc.",
+        "de": "Verschiebe alle an dieses Pokémon angelegte Energie auf 1 Pokémon auf deiner Bank.",
+        "it": "Sposta tutte le Energie da questo Pokémon a uno di quelli nella tua panchina.",
+        "es": "Mueve todas las Energías unidas a este Pokémon a 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Stored Power",
+        "fr": "Force Ajoutée",
+        "de": "Kraftvorrat",
+        "it": "Veicolaforza",
+        "es": "Poderreserva"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_014_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Victini",
+    "fr": "Victini",
+    "de": "Victini",
+    "it": "Victini",
+    "pt": "Victini",
+    "es": "Victini"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "NVI",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

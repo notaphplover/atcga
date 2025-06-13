@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "All Energy cards that provide only [C] Energy attached to your [G] Pokémon provide [G] Energy instead.",
+  "abilityName": "Chlorophyll",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [G] Energy attached to all of your Pokémon."
+      },
+      "name": {
+        "en": "Green Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venusaur"
+  },
+  "number": "28",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CG",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

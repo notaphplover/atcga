@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "If Staryu has any [P] Energy attached to it, damage done to Staryu by any attack is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Core Guard",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Pound"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/75_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/75.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/75.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Staryu"
+  },
+  "number": "75",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

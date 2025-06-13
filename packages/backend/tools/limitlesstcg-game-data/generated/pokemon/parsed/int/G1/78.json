@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "If there are any damage counters on Erika's Oddish, remove 1 of them."
+      },
+      "name": {
+        "en": "Blot"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "If Erika's Oddish has any damage counters on it, flip a coin. If heads, remove 1 of those damage counters."
+      },
+      "name": {
+        "en": "Sporadic Sponging"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/78_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/78.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/78.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Erika's Oddish"
+  },
+  "number": "78",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

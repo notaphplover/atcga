@@ -1,0 +1,75 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may attach a [L] Energy card from your hand to 1 of your Pokémon.",
+  "abilityName": "Magnetic Circuit",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard a [L] Energy attached to this Pokémon.",
+        "fr": "Défaussez une Énergie [L] attachée à ce Pokémon.",
+        "de": "Lege 1 an dieses Pokémon angelegte [L]-Energie auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia [L] assegnata a questo Pokémon.",
+        "es": "Descarta 1 Energía [L] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Thunder Blast",
+        "fr": "Grondement de Tonnerre",
+        "de": "Donnerkeil",
+        "it": "Tuonobomba",
+        "es": "Estallido Trueno"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_054_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnezone",
+    "fr": "Magnézone",
+    "de": "Magnezone",
+    "it": "Magnezone",
+    "pt": "Magnezone",
+    "es": "Magnezone"
+  },
+  "number": "54",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 3,
+  "set": "BKT",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

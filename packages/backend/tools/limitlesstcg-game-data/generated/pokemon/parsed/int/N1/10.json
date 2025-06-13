@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Meganium from your hand, you may flip a coin. If heads, remove all damage counters from all [G] Pokémon in play.",
+  "abilityName": "Herbal Scent",
+  "attacks": [
+    {
+      "cost": "ggcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "N1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

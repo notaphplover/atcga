@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "30+",
+      "effect": {
+        "en": "If your opponent has exactly 3 Prize cards remaining, this attack does 90 more damage.",
+        "fr": "S'il reste exactement 3 cartes Récompense à votre adversaire, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Wenn dein Gegner genau 3 verbleibende Preiskarten hat, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Se il tuo avversario ha esattamente tre carte Premio rimanenti, questo attacco infligge 90 danni in più.",
+        "es": "Si a tu rival le quedan exactamente 3 cartas de Premio, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Three Mirrors",
+        "fr": "Triple Reflet",
+        "de": "Drei Spiegel",
+        "it": "Tre Specchi",
+        "es": "Tres Espejos"
+      }
+    },
+    {
+      "cost": "ll",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Signal Beam",
+        "fr": "Rayon Signal",
+        "de": "Ampelleuchte",
+        "it": "Segnoraggio",
+        "es": "Doble Rayo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_070_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Xurkitree",
+    "fr": "Câblifère",
+    "de": "Voltriant",
+    "it": "Xurkitree",
+    "pt": "Xurkitree",
+    "es": "Xurkitree"
+  },
+  "number": "70",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "UNM",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

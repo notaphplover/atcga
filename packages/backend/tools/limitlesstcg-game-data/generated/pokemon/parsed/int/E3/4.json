@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "You can't attach [W] Energy cards from your hand to Articuno.",
+  "abilityName": "Water Immunity",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "If there are any [W] Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Articuno."
+      },
+      "name": {
+        "en": "Freeze Solid"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Pokémon in play. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Ice Cyclone"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno"
+  },
+  "number": "4",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "jp": "いあいぎり"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "50×",
+      "effect": {
+        "jp": "コインを4回投げ、オモテの数x50ダメージ。"
+      },
+      "name": {
+        "jp": "クロスウィップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_198_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_198_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_198_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジャローダ"
+  },
+  "number": "198",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

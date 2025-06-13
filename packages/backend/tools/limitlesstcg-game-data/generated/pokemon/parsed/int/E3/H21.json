@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Nidoqueen is on your Bench, you may search your deck for a card that evolves from your Active Pokémon and attach it to your Active Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.",
+  "abilityName": "Evolution Helper",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads"
+      },
+      "name": {
+        "en": "Double Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoqueen"
+  },
+  "number": "H21",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

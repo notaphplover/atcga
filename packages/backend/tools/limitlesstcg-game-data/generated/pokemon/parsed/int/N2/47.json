@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "Whenever a [D] Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power works even if Unown [D] is Asleep, Confused, or Paralyzed.)",
+  "abilityName": "[Darkness]",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Unown [D]"
+  },
+  "number": "47",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

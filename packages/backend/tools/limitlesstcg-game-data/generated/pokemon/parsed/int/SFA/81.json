@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20+",
+      "effect": {
+        "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.",
+        "fr": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 120 dégâts supplémentaires.",
+        "de": "Wenn dieses Pokémon während dieses Zuges von deiner Bank in die Aktive Position gewechselt ist, fügt diese Attacke 120 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon si è spostato dalla tua panchina in posizione attiva nel turno in corso, questo attacco infligge 120 danni in più.",
+        "pt": "Se este Pokémon foi movido do seu Banco para o Campo Ativo neste turno, este ataque causará 120 pontos de dano a mais.",
+        "es": "Si este Pokémon se ha movido de tu Banca al Puesto Activo en este turno, este ataque hace 120 puntos de daño más."
+      },
+      "name": {
+        "en": "Accelerator Flash",
+        "fr": "Flash Accélérateur",
+        "de": "Turbozündung",
+        "it": "Acceleratore Flash",
+        "pt": "Clarão do Acelerador",
+        "es": "Destello Acelerador"
+      }
+    },
+    {
+      "cost": "mmm",
+      "dmg": "250",
+      "effect": {
+        "en": "Discard this Pokémon and all attached cards.",
+        "fr": "Défaussez ce Pokémon et toutes les cartes qui lui sont attachées.",
+        "de": "Lege dieses Pokémon und alle angelegten Karten auf deinen Ablagestapel.",
+        "it": "Scarta questo Pokémon e tutte le carte a esso assegnate.",
+        "pt": "Descarte este Pokémon e todas as cartas ligadas a ele.",
+        "es": "Descarta este Pokémon y todas las cartas unidas a él."
+      },
+      "name": {
+        "en": "Shattering Speed",
+        "fr": "Vitesse Fracassante",
+        "de": "Zerlegendes Tempo",
+        "it": "Velocità Devastante",
+        "pt": "Velocidade Desintegradora",
+        "es": "Velocidad Demoledora"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 280,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Revavroom ex",
+    "fr": "Vrombotor-ex",
+    "de": "Knattatox-ex",
+    "it": "Revavroom-ex",
+    "pt": "Revavroom ex",
+    "es": "Revavroom ex"
+  },
+  "number": "81",
+  "rarity": "ur",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SFA",
+  "stage": "stage1",
+  "traitEffect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+  "traitName": "Tera",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

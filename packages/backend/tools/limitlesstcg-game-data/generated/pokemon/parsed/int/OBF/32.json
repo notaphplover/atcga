@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Discard the top card of each player's deck. This attack does 100 more damage for each Energy card discarded in this way.",
+        "fr": "Défaussez la carte du dessus du deck de chaque joueur. Cette attaque inflige 100 dégâts supplémentaires pour chaque carte Énergie défaussée de cette façon.",
+        "de": "Lege die oberste Karte des Decks jedes Spielers auf seinen Ablagestapel. Diese Attacke fügt für jede Energiekarte, die auf diese Weise auf den Ablagestapel gelegt wurde, 100 Schadenspunkte mehr zu.",
+        "it": "Scarta la prima carta del mazzo di ciascun giocatore. Questo attacco infligge 100 danni in più per ogni carta Energia scartata in questo modo.",
+        "pt": "Descarte a carta de cima do baralho de cada jogador. Este ataque causa 100 pontos de dano a mais para cada carta de Energia descartada desta forma.",
+        "es": "Descarta la primera carta de la baraja de cada jugador. Este ataque hace 100 puntos de daño más por cada carta de Energía descartada de esta manera."
+      },
+      "name": {
+        "en": "Eruption",
+        "fr": "Éruption",
+        "de": "Eruption",
+        "it": "Eruzione",
+        "pt": "Erupção",
+        "es": "Estallido"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "en": "Steaming Stomp",
+        "fr": "Piétinement Fumant",
+        "de": "Dampfstampfer",
+        "it": "Pestata Incandescente",
+        "pt": "Pisoteada Fumegante",
+        "es": "Pisotón Humeante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/OBF/OBF_032_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Camerupt",
+    "fr": "Camérupt",
+    "de": "Camerupt",
+    "it": "Camerupt",
+    "pt": "Camerupt",
+    "es": "Camerupt"
+  },
+  "number": "32",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "OBF",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "このカードがトラッシュにあるなら、自分の番に1回使える。このカードをベンチに出す。その後、相手のベンチポケモン2匹に、それぞれダメカンを1個のせる。",
+  "abilityName": "やぶれたとびら",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "130",
+      "effect": {
+        "jp": "自分のポケモン1匹に、ダメカンを4個のせる。"
+      },
+      "name": {
+        "jp": "シャドーインパクト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_57_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_57_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_57_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギラティナ"
+  },
+  "number": "57",
+  "regulation": "b",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "SM12a",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

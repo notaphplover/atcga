@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach a [G] Energy card from your hand to 1 of your Pokémon. If you do, remove 1 damage counter from that Pokémon. This power can't be used if Meganium ex is affected by a Special Condition.",
+  "abilityName": "Nurture and Heal",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Razor Leaf"
+      }
+    },
+    {
+      "cost": "ggccc",
+      "dmg": "90",
+      "effect": {
+        "en": "Discard 1 Energy attached to Meganium ex. The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Power Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/106_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/106.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/106.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium ex"
+  },
+  "number": "106",
+  "rarity": "ur",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "grass",
+    "fire"
+  ]
+}

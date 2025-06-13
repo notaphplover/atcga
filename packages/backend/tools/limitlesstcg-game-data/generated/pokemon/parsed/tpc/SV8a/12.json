@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "相手がすでにとったサイド1枚につき、このポケモンの最大HPは「＋50」される。",
+  "abilityName": "ざっそうだましい",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "80×",
+      "effect": {
+        "jp": "このポケモンについているエネルギーの数ぶんコインを投げ、オモテの数×80ダメージ。"
+      },
+      "name": {
+        "jp": "パワフルニードル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_12_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_12_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_12_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アノホラグサ"
+  },
+  "number": "12",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV8a",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

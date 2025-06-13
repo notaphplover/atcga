@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If you have no cards in your hand, prevent all damage done to Milotic by attacks from your opponent's Pokémon.",
+  "abilityName": "Aqua Mirage",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "80-",
+      "effect": {
+        "en": "Does 80 damage minus 10 damage for each damage counter on Milotic."
+      },
+      "name": {
+        "en": "Dwindling Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/SH7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/SH7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/SH7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic"
+  },
+  "number": "SH7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

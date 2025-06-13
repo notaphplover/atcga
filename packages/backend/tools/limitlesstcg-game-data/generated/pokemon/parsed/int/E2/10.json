@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "To attach a [R] Energy card from your hand to Entei, you must discard an Energy card attached to Entei. (Attach the [R] Energy, and then discard an Energy from Entei.)",
+  "abilityName": "Pure Body",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "You may flip a coin. If heads, discard a [R] Energy card attached to Entei and the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Burning Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Entei"
+  },
+  "number": "10",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

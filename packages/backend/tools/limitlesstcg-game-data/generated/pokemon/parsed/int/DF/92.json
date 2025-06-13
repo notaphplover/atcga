@@ -1,0 +1,43 @@
+{
+  "abilityEffect": "As long as Flygon ex is your Active Pokémon, put 1 damage counter on each of your opponent's Benched Basic Pokémon between turns. You can't use more than 1 Sand Damage Poké-Body between turns.",
+  "abilityName": "Sand Damage",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "80",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Psychic Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flygon ex"
+  },
+  "number": "92",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": []
+}

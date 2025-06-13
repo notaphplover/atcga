@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "ねんりき"
+      }
+    },
+    {
+      "cost": "ppcc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「しねんのやいば」が使えない。"
+      },
+      "name": {
+        "jp": "しねんのやいば"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_202_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_202_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_202_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ミュウツー"
+  },
+  "number": "202",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

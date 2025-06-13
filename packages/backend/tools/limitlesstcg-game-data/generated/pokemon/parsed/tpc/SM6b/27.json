@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンが持っているワザを1つ選ぶ。次の相手の番、このワザを受けたポケモンは、選ばれたワザを使えない。"
+      },
+      "name": {
+        "jp": "ドわすれ"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "相手のバトルポケモンの残りHPが、このポケモンの残りHPより少ないなら、80ダメージ追加。"
+      },
+      "name": {
+        "jp": "まるのみ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_27_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_27_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM6b/SM6b_27_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マルノーム"
+  },
+  "number": "27",
+  "rarity": "c",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM6b",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

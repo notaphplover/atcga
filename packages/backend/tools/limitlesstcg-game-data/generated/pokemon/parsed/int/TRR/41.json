@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Dark Streak"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Rock Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Pupitar"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "fighting",
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

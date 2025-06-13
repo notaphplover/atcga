@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを2個のせる。",
+  "abilityName": "さめはだ",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "ハードバイト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKW/BKW_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKW/BKW_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKW/BKW_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "サメハダー"
+  },
+  "number": "4",
+  "resistance": [],
+  "retreat": 0,
+  "set": "BKW",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

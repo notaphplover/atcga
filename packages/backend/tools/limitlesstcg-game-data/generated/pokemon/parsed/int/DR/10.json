@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Salamence is your Active Pokémon, you may switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. This power can't be used if Salamence is affected by a Special Condition.",
+  "abilityName": "Dragon Wind",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Salamence during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "rwcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Dragon Claw"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Salamence"
+  },
+  "number": "10",
+  "rarity": "hr",
+  "resistance": [
+    "fighting",
+    "fire"
+  ],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

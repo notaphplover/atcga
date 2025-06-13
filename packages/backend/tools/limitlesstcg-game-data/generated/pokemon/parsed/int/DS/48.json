@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Speed Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magneton"
+  },
+  "number": "48",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

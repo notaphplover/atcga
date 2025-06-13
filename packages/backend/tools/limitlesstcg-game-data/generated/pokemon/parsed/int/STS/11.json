@@ -1,0 +1,90 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "40",
+      "effect": {
+        "en": "Until the end of your opponent's next turn, each Stadium or Pokémon Tool card in play has no effect. (This includes cards that come into play on that turn.)",
+        "fr": "Jusqu'à la fin du prochain tour de votre adversaire, aucune des cartes Stade ou Outil Pokémon en jeu n'a d'effet. (Cela comprend les cartes qui sont en jeu pendant ce tour.)",
+        "de": "Bis zum Ende des nächsten Zuges deines Gegners hat jede Stadionkarte oder Pokémon-Ausrüstung im Spiel keine Wirkung. (Dazu gehören Karten, die während des Zuges ins Spiel kommen.)",
+        "it": "Fino alla fine del prossimo turno del tuo avversario, nessuna delle carte Stadio e Oggetto Pokémon in gioco ha effetto (incluse le carte entrate in gioco in quel turno).",
+        "es": "Hasta el final del próximo turno de tu rival, las cartas de Estadio o Herramienta Pokémon en juego no tienen efecto. (Esto incluye cartas que entran en juego durante ese turno)."
+      },
+      "name": {
+        "en": "Wicked Wind",
+        "fr": "Vent Infernal",
+        "de": "Arglistiger Wind",
+        "it": "Vento Malefico",
+        "es": "Viento Malvado"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If you have the same number of cards in your hand as your opponent, this attack does 60 more damage.",
+        "fr": "Si vous avez le même nombre de cartes dans votre main que votre adversaire, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wenn du die gleiche Anzahl Karten auf der Hand hast wie dein Gegner, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+        "it": "Se hai lo stesso numero di carte in mano rispetto al tuo avversario, questo attacco infligge 60 danni in più.",
+        "es": "Si tienes el mismo número de cartas en tu mano que tu rival, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Extrasensory",
+        "fr": "Extrasenseur",
+        "de": "Sondersensor",
+        "it": "Extrasenso",
+        "es": "Paranormal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_011_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shiftry",
+    "fr": "Tengalice",
+    "de": "Tengulist",
+    "it": "Shiftry",
+    "pt": "Shiftry",
+    "es": "Shiftry"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "STS",
+  "stage": "stage2",
+  "type": [
+    "grass",
+    "darkness"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "fr": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+        "de": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+        "es": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Bone Lock",
+        "fr": "Piège Osseux",
+        "de": "Knochenriegel",
+        "it": "Ossoblocco",
+        "es": "Bloqueo Óseo"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon has any Resistance, this attack does 30 more damage.",
+        "fr": "Si le Pokémon Défenseur a une Résistance, cette attaque inflige 30 dégâts supplémentaires.",
+        "de": "Besitzt das Verteidigende Pokémon eine Resistenz, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+        "it": "Se il Pokémon difensore ha una resistenza, questo attacco infligge 30 danni in più.",
+        "es": "Si el Pokémon Defensor tiene alguna Resistencia, este ataque hace 30 puntos de daño más."
+      },
+      "name": {
+        "en": "Vortex Chop",
+        "fr": "Coupe-Tourbillon",
+        "de": "Wirbelsturm-Schlag",
+        "it": "Taglio a Vortice",
+        "es": "Golpe Vórtice"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_061_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Marowak",
+    "fr": "Ossatueur",
+    "de": "Knogga",
+    "it": "Marowak",
+    "pt": "Marowak",
+    "es": "Marowak"
+  },
+  "number": "61",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "DRX",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

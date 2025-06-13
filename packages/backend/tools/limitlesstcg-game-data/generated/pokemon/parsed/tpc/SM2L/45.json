@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "はばたく"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "かまいたち"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2L/SM2L_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2L/SM2L_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2L/SM2L_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ヒノヤコマ"
+  },
+  "number": "45",
+  "rarity": "c",
+  "regulation": "a",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SM2L",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

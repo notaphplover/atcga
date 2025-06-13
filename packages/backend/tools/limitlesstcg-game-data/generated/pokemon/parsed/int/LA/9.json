@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Ice Fang"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "You may do 60 damage plus 40 more damage and 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If you do, Mamoswine does 40 damage to itself."
+      },
+      "name": {
+        "en": "Charge Through"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mamoswine"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 4,
+  "set": "LA",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

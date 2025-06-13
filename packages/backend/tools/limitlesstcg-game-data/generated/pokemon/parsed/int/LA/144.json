@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Prevent all effects of attacks, including damage, done to Mewtwo by your opponent's Pokémon that isn't an Evolved Pokémon.",
+  "abilityName": "Psybarrier",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "120",
+      "effect": {
+        "en": "Discard all Energy attached to Mewtwo."
+      },
+      "name": {
+        "en": "Giga Burn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/144_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/144.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/144.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mewtwo LV.X"
+  },
+  "number": "144",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "lvx",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

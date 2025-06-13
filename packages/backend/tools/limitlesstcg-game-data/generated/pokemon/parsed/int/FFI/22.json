@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 20 more damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque [C] dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+        "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jedes [C]-Symbol in den Rückzugskosten des Aktiven Pokémon deines Gegners zu.",
+        "it": "Questo attacco infligge 20 danni in più per ogni [C] nel costo di ritirata del Pokémon attivo del tuo avversario.",
+        "es": "Este ataque hace 20 puntos de daño más por cada [C] en el Coste de Retirada del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Igloo Hold",
+        "fr": "Piège Igloo",
+        "de": "Iglugriff",
+        "it": "Criostretta",
+        "es": "Agarre Iglú"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "80+",
+      "effect": {
+        "en": "If there is any Stadium card in play, this attack does 40 more damage.",
+        "fr": "S'il y a une carte Stade en jeu, cette attaque inflige 40 dégâts supplémentaires.",
+        "de": "Wenn eine Stadionkarte im Spiel ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+        "it": "Se c'è in gioco una carta Stadio, questo attacco infligge 40 danni in più.",
+        "es": "Si hay alguna carta de Estadio en juego, este ataque hace 40 puntos de daño más."
+      },
+      "name": {
+        "en": "Mountain Drop",
+        "fr": "Montagne Écrasante",
+        "de": "Gebirgssturz",
+        "it": "Smottamento",
+        "es": "Caída Montaña Abajo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FFI/FFI_022_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beartic",
+    "fr": "Polagriffe",
+    "de": "Siberio",
+    "it": "Beartic",
+    "pt": "Beartic",
+    "es": "Beartic"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "FFI",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

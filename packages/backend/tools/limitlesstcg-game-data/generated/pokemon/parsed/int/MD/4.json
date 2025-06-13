@@ -1,0 +1,47 @@
+{
+  "attacks": [
+    {
+      "cost": "mmcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 60 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Diamond Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "MD",
+  "stage": "basic",
+  "traitEffect": "If an Active Pokémon has Weakness to Metal type, Dialga's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance).",
+  "traitName": "Adamant Orb",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

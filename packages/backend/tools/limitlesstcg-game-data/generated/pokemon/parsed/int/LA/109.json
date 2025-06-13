@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Sharpen"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Probopass is on your Bench, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Nose Poke"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nosepass"
+  },
+  "number": "109",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

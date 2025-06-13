@@ -1,0 +1,92 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "If there are any [L] Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos.",
+        "fr": "S'il y a au moins une carte Énergie [L] dans votre pile de défausse, attachez l'une d'elles à Électhor de Rocket.",
+        "de": "Wenn du 1 oder mehr [L]-Energiekarten in deinem Ablagestapel hast, lege 1 von ihnen an Rockets Zapdos an.",
+        "it": "Se ci sono delle carte Energia [L] nella tua pila degli scarti, assegnane una a Rocket Zapdos.",
+        "pt": "Se houver quaisquer cartas de Energia [L] na sua pilha de descarte, ligue 1 delas a Zapdos da Equipe Rocket.",
+        "es": "Si hay alguna carta de Energía [L] en tu pila de descartes, une 1 de ellas a Zapdos del Rocket."
+      },
+      "name": {
+        "en": "Plasma",
+        "fr": "Plasma",
+        "de": "Plasma",
+        "it": "Plasma",
+        "pt": "Plasma",
+        "es": "Plasma"
+      }
+    },
+    {
+      "cost": "lllc",
+      "dmg": "70",
+      "effect": {
+        "en": "Rocket's Zapdos does damage to itself equal to 10 times the number of [L] Energy cards attached to it.",
+        "fr": "Électhor de Rocket s'inflige une quantité de dégâts égale à 10 fois le nombre de cartes Énergie [L] qui lui sont attachées.",
+        "de": "Rockets Zapdos fügt sich selbst 10 Schadenspunkte mal der Anzahl der an es angelegten [L]-Energiekarten zu.",
+        "it": "Rocket Zapdos infligge danni a se stesso uguali a 10 volte il numero di carte Energia [L] assegnategli.",
+        "pt": "Zapdos da Equipe Rocket causa dano a si mesmo equivalente a 10 vezes o número de cartas de Energia [L] ligadas a ele.",
+        "es": "Zapdos del Rocket se hace daño a sí mismo igual a 10 veces el número de cartas de Energía [L] unidas a él."
+      },
+      "name": {
+        "en": "Electroburn",
+        "fr": "Électrobrûlure",
+        "de": "Elektrobrand",
+        "it": "Elettroscottata",
+        "pt": "Queimadura Elétrica",
+        "es": "Electroquemadura"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEL/CEL_CC7_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Zapdos",
+    "fr": "Électhor de Rocket",
+    "de": "Rockets Zapdos",
+    "it": "Rocket Zapdos",
+    "pt": "Zapdos da Equipe Rocket",
+    "es": "Zapdos del Rocket"
+  },
+  "number": "CC7",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "CEL",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": []
+}

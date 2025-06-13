@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Bagon has any Energy attached to it, Bagon has no Weakness.",
+  "abilityName": "Star Barrier",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Dragon Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/SH10_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/SH10.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/SH10.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bagon"
+  },
+  "number": "SH10",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

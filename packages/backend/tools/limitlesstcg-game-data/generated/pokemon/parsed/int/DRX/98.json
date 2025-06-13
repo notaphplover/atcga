@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
+        "fr": "Soignez à ce Pokémon la même quantité de dégâts que vous avez infligée au Pokémon Défenseur.",
+        "de": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Verteidigenden Pokémon zugefügt hast.",
+        "it": "Cura questo Pokémon da una quantità di danni pari a quelli inflitti al Pokémon difensore.",
+        "es": "Cura a este Pokémon el mismo número de puntos de daño que hayas hecho al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Consume",
+        "fr": "Consumation",
+        "de": "Verzehren",
+        "it": "Sbafata",
+        "es": "Consumo"
+      }
+    },
+    {
+      "cost": "pdcc",
+      "dmg": "90",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Défenseur.",
+        "de": "Wirf 1 Münze. Lege bei „Kopf“ 1 an das Verteidigende Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta. Se esce testa, scarta un'Energia assegnata al Pokémon difensore.",
+        "es": "Lanza una moneda. Si sale cara, descarta una Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Destructor Beam",
+        "fr": "Rayon Destructeur",
+        "de": "Zerstörerstrahl",
+        "it": "Devastaraggio",
+        "es": "Rayo Destructor"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRX/DRX_098_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hydreigon",
+    "fr": "Trioxhydre",
+    "de": "Trikephalo",
+    "it": "Hydreigon",
+    "pt": "Hydreigon",
+    "es": "Hydreigon"
+  },
+  "number": "98",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DRX",
+  "stage": "stage2",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

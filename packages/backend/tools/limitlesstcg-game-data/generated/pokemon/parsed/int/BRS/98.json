@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 10 more damage for each Pokémon in your discard pile.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque Pokémon dans votre pile de défausse.",
+        "de": "Diese Attacke fügt für jedes Pokémon in deinem Ablagestapel 10 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni Pokémon nella tua pila degli scarti.",
+        "pt": "Este ataque causa 10 pontos de dano a mais para cada Pokémon na sua pilha de descarte.",
+        "es": "Este ataque hace 10 puntos de daño más por cada Pokémon en tu pila de descartes."
+      },
+      "name": {
+        "en": "Matron's Anger",
+        "fr": "Dame Colérique",
+        "de": "Zorn der Dame",
+        "it": "Ira della Dama",
+        "pt": "Fúria Matriarcal",
+        "es": "Enfado de Dama"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "90",
+      "effect": {},
+      "name": {
+        "en": "Scrap Drop",
+        "fr": "Largage",
+        "de": "Schrottentsorgung",
+        "it": "Caduta Scarti",
+        "pt": "Despejo de Sucata",
+        "es": "Caída de Chatarra"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BRS/BRS_098_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wormadam",
+    "fr": "Cheniselle",
+    "de": "Burmadame",
+    "it": "Wormadam",
+    "pt": "Wormadam",
+    "es": "Wormadam"
+  },
+  "number": "98",
+  "rarity": "r",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "BRS",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

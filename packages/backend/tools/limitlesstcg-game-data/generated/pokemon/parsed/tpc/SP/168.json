@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ほのお"
+      }
+    },
+    {
+      "cost": "rccc",
+      "dmg": "210",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ぜんりょくシュート"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_168_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_168_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SP/SP_168_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エースバーンV"
+  },
+  "number": "168",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

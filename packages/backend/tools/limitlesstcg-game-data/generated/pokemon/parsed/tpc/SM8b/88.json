@@ -1,0 +1,56 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の「ウルトラビースト」全員が、相手のポケモンから受けるワザのダメージは「-10」される。",
+  "abilityName": "ウルトラウォール",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "jp": "ギガトンスタンプ"
+      }
+    },
+    {
+      "cost": "mmc",
+      "dmg": "50+",
+      "effect": {
+        "jp": "自分がすでにとったサイドの枚数x50ダメージ追加。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "レイGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_88_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_88_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_88_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ツンデツンデGX"
+  },
+  "number": "88",
+  "rarity": "rr",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "SM8b",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

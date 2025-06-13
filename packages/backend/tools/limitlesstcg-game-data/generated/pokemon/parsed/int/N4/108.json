@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ffl",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, this attack does 30 damage and Shining Kabutops does 10 damage to itself."
+      },
+      "name": {
+        "en": "Lightning Cut"
+      }
+    },
+    {
+      "cost": "ffww",
+      "dmg": "50+",
+      "effect": {
+        "en": "Does 50 damage plus 10 more damage for each [W] Energy attached to Shining Kabutops but not used to pay for this attack's Energy cost. Don't apply Resistance."
+      },
+      "name": {
+        "en": "Water Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/108_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/108.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/108.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shining Kabutops"
+  },
+  "number": "108",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N4",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

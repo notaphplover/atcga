@@ -1,0 +1,59 @@
+{
+  "abilityEffect": "As long as Rayquaza has any Holon Energy cards attached to it, ignore the effect of Rayquaza's [L] Storm attack.",
+  "abilityName": "Delta Guard",
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the amount of Energy attached to Rayquaza."
+      },
+      "name": {
+        "en": "Power Blow"
+      }
+    },
+    {
+      "cost": "lmcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Put 7 damage counters on Rayquaza."
+      },
+      "name": {
+        "en": "Lightning Storm"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [
+    "water",
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

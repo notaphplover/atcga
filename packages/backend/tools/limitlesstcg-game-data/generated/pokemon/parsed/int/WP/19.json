@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Pound"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "40",
+      "effect": {
+        "en": "This attack can't be used unless Sabrina's Abra and the Defending Pokémon have the same number of Energy cards attached to them."
+      },
+      "name": {
+        "en": "Synchronize"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Abra"
+  },
+  "number": "19",
+  "resistance": [],
+  "retreat": 0,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

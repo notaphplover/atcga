@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Tornadus is on your Bench, this attack does 50 more damage.",
+        "fr": "Si Boréas est sur votre Banc, cette attaque inflige 50 dégâts supplémentaires.",
+        "de": "Wenn sich Boreos auf deiner Bank befindet, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+        "it": "Se Tornadus è nella tua panchina, questo attacco infligge 50 danni in più.",
+        "es": "Si Tornadus está en tu Banca, este ataque hace 50 puntos de daño más."
+      },
+      "name": {
+        "en": "Thunderous Gale",
+        "fr": "Bourrasque Fulgurante",
+        "de": "Donnernder Wind",
+        "it": "Raffica Tonante",
+        "es": "Vendaval Atronador"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "120",
+      "effect": {
+        "en": "This attack does 40 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 40 dégâts à l'un de vos Pokémon de Banc. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt 1 Pokémon auf deiner Bank 40 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 40 danni a uno dei tuoi Pokémon in panchina. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 40 puntos de daño a 1 de tus Pokémon en Banca. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Raging Thunder",
+        "fr": "Tonnerre Déchaîné",
+        "de": "Tosender Donner",
+        "it": "Rombotuono",
+        "es": "Trueno Rabioso"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UNM/UNM_068_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Thundurus",
+    "fr": "Fulguris",
+    "de": "Voltolos",
+    "it": "Thundurus",
+    "pt": "Thundurus",
+    "es": "Thundurus"
+  },
+  "number": "68",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "UNM",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

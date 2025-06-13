@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Glalie is your Active Pokémon, any damage done by attacks from your opponent's Stage 2 Evolved Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+  "abilityName": "Craggy Face",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't play any Trainer cards or Supporter cards from his or her hand during your opponent's next turn."
+      },
+      "name": {
+        "en": "Intimidation Pebble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Glalie"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

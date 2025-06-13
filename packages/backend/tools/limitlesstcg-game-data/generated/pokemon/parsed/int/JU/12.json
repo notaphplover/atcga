@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each [W] Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra [W] Energy after the 2nd doesn't count."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

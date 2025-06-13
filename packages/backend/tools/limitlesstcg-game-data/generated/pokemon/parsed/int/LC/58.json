@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Spike Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/58_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/58.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/58.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Omastar"
+  },
+  "number": "58",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

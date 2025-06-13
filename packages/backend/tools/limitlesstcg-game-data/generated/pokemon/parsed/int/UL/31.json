@@ -1,0 +1,85 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Razor Leaf",
+        "fr": "Tranch'herbe",
+        "de": "Rasierblatt",
+        "it": "Foglielama",
+        "es": "Hoja afilada"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Wirf eine Münze. Bei „Kopf“ schläft das Verteidigende Pokémon jetzt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Addormentato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Sleep Powder",
+        "fr": "Poudre dodo",
+        "de": "Schlafpuder",
+        "it": "Sonnifero",
+        "es": "Somnífero"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_031_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Grotle",
+    "fr": "Boskara",
+    "de": "Chelcarain",
+    "it": "Grotle",
+    "pt": "Grotle",
+    "es": "Grotle"
+  },
+  "number": "31",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "UL",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

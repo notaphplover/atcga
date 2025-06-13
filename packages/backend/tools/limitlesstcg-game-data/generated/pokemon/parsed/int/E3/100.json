@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Snorlax is your Active Pokémon, you may remove 1 damage counter from Snorlax. Snorlax is now Asleep. This power can't be used if Snorlax is affected by a Special Condition.",
+  "abilityName": "Lolling About",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Continuous Tumble"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Snorlax"
+  },
+  "number": "100",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 3,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

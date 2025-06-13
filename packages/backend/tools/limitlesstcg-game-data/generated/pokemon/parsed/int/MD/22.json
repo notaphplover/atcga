@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Mach Punch"
+      }
+    },
+    {
+      "cost": "r",
+      "dmg": "40×",
+      "effect": {
+        "en": "Discard all [R] Energy attached to Infernape. This attack does 40 damage times the amount of [R] Energy you discarded."
+      },
+      "name": {
+        "en": "Mega Bravo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Infernape"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "MD",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

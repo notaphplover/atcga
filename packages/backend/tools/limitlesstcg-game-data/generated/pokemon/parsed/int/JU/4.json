@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Pin Missile"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

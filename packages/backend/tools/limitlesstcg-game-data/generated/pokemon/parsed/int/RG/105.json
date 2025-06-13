@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "All Energy attached to Charizard ex are [R] Energy instead of its usual type.",
+  "abilityName": "Energy Flame",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "rrrrr",
+      "dmg": "200",
+      "effect": {
+        "en": "Discard 5 [R] Energy attached to Charizard ex. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, and any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Burn Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard ex"
+  },
+  "number": "105",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water",
+    "lightning"
+  ]
+}

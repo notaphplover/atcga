@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Switch Yanma with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "U-turn"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Yanma during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/128_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/128.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/128.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Yanma"
+  },
+  "number": "128",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

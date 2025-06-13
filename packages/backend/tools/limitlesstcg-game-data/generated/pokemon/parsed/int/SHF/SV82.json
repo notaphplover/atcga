@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent reveals their hand. Choose a card you find there and put it on the bottom of their deck.",
+        "fr": "Votre adversaire dévoile sa main. Choisissez-y une carte, puis placez-la en dessous de son deck.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Wähle 1 Karte, die du dort findest, und lege sie unter sein Deck.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scegline una e mettila in fondo al suo mazzo.",
+        "pt": "Seu oponente revela a própria mão. Escolha 1 carta que encontrar lá e coloque-a como a carta de baixo do baralho dele(a).",
+        "es": "Tu rival enseña las cartas de su mano. Elige 1 carta que encuentres entre ellas y ponla en la parte inferior de su baraja."
+      },
+      "name": {
+        "en": "Thief",
+        "fr": "Larcin",
+        "de": "Raub",
+        "it": "Furto",
+        "pt": "Roubar",
+        "es": "Ladrón"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "90",
+      "effect": {},
+      "name": {
+        "en": "Darkness Fang",
+        "fr": "Croc Obscur",
+        "de": "Fänge der Dunkelheit",
+        "it": "Oscurizanna",
+        "pt": "Presa Sombria",
+        "es": "Colmillo de Oscuridad"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SHF/SHF_SV82_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "​Thievul",
+    "fr": "Roublenard",
+    "de": "Gaunux",
+    "it": "Thievul",
+    "pt": "Thievul",
+    "es": "​Thievul"
+  },
+  "number": "SV82",
+  "rarity": "rr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SHF",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

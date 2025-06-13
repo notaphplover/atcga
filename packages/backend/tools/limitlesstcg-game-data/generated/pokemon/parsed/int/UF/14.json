@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a Pokémon Tool card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Slowking is affected by a Special Condition.",
+  "abilityName": "Item Search",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each Pokémon Tool card in your discard pile. You can't add more than 60 damage in this way."
+      },
+      "name": {
+        "en": "Aftermath"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowking"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gnaw"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thundershock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/120_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/120.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/120.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "120",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

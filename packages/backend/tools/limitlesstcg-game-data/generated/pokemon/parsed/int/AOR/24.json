@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+        "es": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Ice Beam",
+        "fr": "Laser Glace",
+        "de": "Eisstrahl",
+        "it": "Geloraggio",
+        "es": "Rayo Hielo"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "70",
+      "effect": {
+        "en": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by Pokémon-EX.",
+        "fr": "Pendant le prochain tour de votre adversaire, évitez tous les effets d'attaques, y compris les dégâts, infligés à ce Pokémon par des Pokémon-EX.",
+        "de": "Verhindere alle Effekte von Angriffen, einschließlich Schaden, die diesem Pokémon durch Pokémon-EX während des nächsten Zuges deines Gegners zugefügt werden.",
+        "it": "Durante il prossimo turno del tuo avversario, previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon da Pokémon-EX.",
+        "es": "Durante el próximo turno de tu rival, evita todos los efectos de los ataques, incluido el daño, infligidos a este Pokémon por Pokémon-EX."
+      },
+      "name": {
+        "en": "Resistance Blizzard",
+        "fr": "Résistance Blizzard",
+        "de": "Sturm des Widerstands",
+        "it": "Crioscudo",
+        "es": "Resistencia Ventisca"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_024_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regice",
+    "fr": "Regice",
+    "de": "Regice",
+    "it": "Regice",
+    "pt": "Regice",
+    "es": "Regice"
+  },
+  "number": "24",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "AOR",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

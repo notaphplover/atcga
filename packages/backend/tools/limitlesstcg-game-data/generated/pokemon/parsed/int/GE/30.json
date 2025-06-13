@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Wailord remains Asleep between turns, remove 1 damage counter from Wailord.",
+  "abilityName": "Sleeping Pulse",
+  "attacks": [
+    {
+      "cost": "wwwc",
+      "dmg": "60",
+      "effect": {
+        "en": "If Wailord has any damage counters on it, Wailord is now Asleep."
+      },
+      "name": {
+        "en": "Sink Deep"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wailord"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

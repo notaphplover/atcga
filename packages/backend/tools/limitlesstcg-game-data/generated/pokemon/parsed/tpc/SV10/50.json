@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のたねポケモン全員に、それぞれダメカンを2個のせる。",
+  "abilityName": "すなおこし",
+  "attacks": [
+    {
+      "cost": "fccc",
+      "dmg": "180",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "ぶちぬきタックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_50_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_50_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV10/SV10_50_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ロケット団のバンギラス"
+  },
+  "number": "50",
+  "rarity": "r",
+  "regulation": "i",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV10",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

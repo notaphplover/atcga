@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 50 dégâts multipliés par le nombre de côtés face.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 50 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Slash",
+        "fr": "Double Lame",
+        "de": "Doppelschlitzer",
+        "it": "Doppia Lacerazione",
+        "es": "Cuchillada Doble"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Heal 30 damage from this Pokémon.",
+        "fr": "Soignez 30 dégâts à ce Pokémon.",
+        "it": "Cura questo Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Mega Drain",
+        "fr": "Méga-Sangsue",
+        "de": "Megasauger",
+        "it": "Megassorbimento",
+        "es": "Megaagotar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_013_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Serperior",
+    "fr": "Majaspic",
+    "de": "Serpiroyal",
+    "it": "Serperior",
+    "pt": "Serperior",
+    "es": "Serperior"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BCR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

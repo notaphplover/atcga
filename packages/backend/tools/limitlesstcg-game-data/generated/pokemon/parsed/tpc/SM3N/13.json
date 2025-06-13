@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "しっぽではたく"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "でんきショック"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3N/SM3N_13_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3N/SM3N_13_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3N/SM3N_13_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ピカチュウ"
+  },
+  "number": "13",
+  "rarity": "c",
+  "regulation": "a",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "SM3N",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

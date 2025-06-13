@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Psybeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Espeon"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

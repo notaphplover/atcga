@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you attach a [W] Energy card from your hand to Quagsire, remove all Special Conditions and 2 damage counters from Quagsire.",
+  "abilityName": "Saturation",
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 20 more damage for each basic Energy card attached to Quagsire but not used to pay for this attack's Energy cost. You can't add more than 60 damage in this way."
+      },
+      "name": {
+        "en": "Hyper Pump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quagsire"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TRR",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

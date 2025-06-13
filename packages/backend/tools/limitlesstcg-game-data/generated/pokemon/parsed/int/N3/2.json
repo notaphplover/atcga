@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "When you play Blissey from your hand, you may flip a coin. If heads, remove 8 damage counters from Blissey. If tails, remove 4 damage counters from Blissey. Either way, if Blissey has fewer damage counters than that, remove all of them.",
+  "abilityName": "Softboiled",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blissey"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

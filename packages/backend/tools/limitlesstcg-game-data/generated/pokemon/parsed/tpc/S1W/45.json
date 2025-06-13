@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "つつく"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "130",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについているエネルギーを2個選び、トラッシュする。その場合、次の相手の番、このポケモンが受けるワザのダメージは「-100」される。"
+      },
+      "name": {
+        "jp": "くろがねのつばさ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1W/S1W_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1W/S1W_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S1W/S1W_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アーマーガア"
+  },
+  "number": "45",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "S1W",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

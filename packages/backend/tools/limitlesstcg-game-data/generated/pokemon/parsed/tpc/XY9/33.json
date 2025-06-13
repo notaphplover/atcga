@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "つぶやく"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "ねんじる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY9/XY9_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY9/XY9_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY9/XY9_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "スリープ"
+  },
+  "number": "33",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY9",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

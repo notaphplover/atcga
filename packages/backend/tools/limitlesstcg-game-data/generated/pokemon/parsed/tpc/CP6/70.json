@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "この特性は、このカードを手札からベンチに出したとき、1回使える。自分のトラッシュからたねポケモン（「カイリューEX」をのぞく）を2枚選び、相手に見せてから、手札に加える。",
+  "abilityName": "ひきあげる",
+  "attacks": [
+    {
+      "cost": "cccc",
+      "dmg": "130",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "はかいこうせん"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP6/CP6_70_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP6/CP6_70_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP6/CP6_70_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カイリューEX"
+  },
+  "number": "70",
+  "rarity": "rr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 3,
+  "set": "CP6",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

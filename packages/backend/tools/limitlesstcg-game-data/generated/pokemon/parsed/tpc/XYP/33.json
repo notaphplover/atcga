@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "かみくだく"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "120",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを2個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "おうじゃのほのお"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYP/XYP_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "カエンジシ"
+  },
+  "number": "33",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XYP",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

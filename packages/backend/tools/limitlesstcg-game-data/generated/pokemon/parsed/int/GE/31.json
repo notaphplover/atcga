@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "At any time between turns, each player puts 1 more damage counter on his or her Poisoned Pokémon.",
+  "abilityName": "Toxic Virus",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+      },
+      "name": {
+        "en": "Offensive Gas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp4/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp4/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp4/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Weezing"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "GE",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

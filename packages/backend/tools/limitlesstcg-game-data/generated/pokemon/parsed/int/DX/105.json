@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove 1 damage counter from each of your Pokémon (including Latias Star)."
+      },
+      "name": {
+        "en": "Healing Light"
+      }
+    },
+    {
+      "cost": "rwp",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, discard all Energy cards attached to Latias Star and this attack does 50 damage plus 100 more damage."
+      },
+      "name": {
+        "en": "Shooting Star"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latias Star"
+  },
+  "number": "105",
+  "rarity": "ur",
+  "resistance": [
+    "psychic",
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

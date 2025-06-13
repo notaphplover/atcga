@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "dcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Return 2 Energy attached to Deoxys to your hand."
+      },
+      "name": {
+        "en": "Energy Loop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/3_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/3.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/3.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Dragon Rage"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 2 Energy attached to Garchomp and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Jet Sword"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop9/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop9/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop9/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Garchomp"
+  },
+  "number": "1",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "P9",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

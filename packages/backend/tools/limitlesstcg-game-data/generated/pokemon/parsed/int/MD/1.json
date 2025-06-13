@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you put Articuno from your hand onto your Bench, you may flip a coin. If heads, choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed.",
+  "abilityName": "Freezing Screech",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Blizzard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

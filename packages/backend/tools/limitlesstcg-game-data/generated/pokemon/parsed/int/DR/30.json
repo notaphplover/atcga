@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Magnitude"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Rollout"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Graveler"
+  },
+  "number": "30",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

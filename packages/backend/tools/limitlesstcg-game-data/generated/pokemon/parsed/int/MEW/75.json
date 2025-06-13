@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 40 damage for each heads.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Cette attaque inflige 40 dégâts pour chaque côté face.",
+        "de": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 40 danni ogni volta che esce testa.",
+        "pt": "Jogue uma moeda até sair coroa. Este ataque causa 40 pontos de dano para cada cara.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 40 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Rock Cannon",
+        "fr": "Canon à Pierres",
+        "de": "Felskanone",
+        "it": "Rocciocannone",
+        "pt": "Canhão de Rochas",
+        "es": "Cañón Roca"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Heavy Impact",
+        "fr": "Gros Impact",
+        "de": "Schwerer Einschlag",
+        "it": "Impatto Pesante",
+        "pt": "Impacto Pesado",
+        "es": "Impacto Pesado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_075_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Graveler",
+    "fr": "Gravalanch",
+    "de": "Georok",
+    "it": "Graveler",
+    "pt": "Graveler",
+    "es": "Graveler"
+  },
+  "number": "75",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MEW",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

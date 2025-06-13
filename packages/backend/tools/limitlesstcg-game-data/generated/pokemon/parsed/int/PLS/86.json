@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange le Pokémon Défenseur avec 1 de ses Pokémon de Banc.",
+        "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus.",
+        "it": "Il tuo avversario scambia il Pokémon difensore con uno dei suoi Pokémon in panchina.",
+        "es": "Tu rival cambia al Pokémon Defensor por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Kick Away",
+        "fr": "Coud'Pied Éjecteur",
+        "de": "Wegkicken",
+        "it": "Calciavia",
+        "es": "Patadón"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage.",
+        "fr": "Si une carte Outil Pokémon est attachée à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon eine Pokémon-Ausrüstung angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
+        "it": "Se questo Pokémon ha una carta Oggetto Pokémon assegnata, questo attacco infligge 50 danni in più.",
+        "es": "Si este Pokémon tiene una carta de Herramienta Pokémon unida a él, este ataque hace 50 puntos de daño más."
+      },
+      "name": {
+        "en": "Reinforced Headbutt",
+        "fr": "Coup d'Boule Renforcé",
+        "de": "Kräftige Kopfnuss",
+        "it": "Zuccadura",
+        "es": "Cabezazo Reforzado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PLS/PLS_086_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Scrafty",
+    "fr": "Baggaïd",
+    "de": "Irokex",
+    "it": "Scrafty",
+    "pt": "Scrafty",
+    "es": "Scrafty"
+  },
+  "number": "86",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "PLS",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

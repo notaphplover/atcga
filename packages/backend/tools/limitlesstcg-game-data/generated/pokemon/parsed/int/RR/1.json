@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Arcanine has any [R] Energy attached to it, Arcanine has no Weakness.",
+  "abilityName": "Flare Condition",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30+",
+      "effect": {
+        "en": "You may do 30 damage plus 30 more damage. If you do, Arcanine is now Burned."
+      },
+      "name": {
+        "en": "Burn Out"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Arcanine. This attack does 60 damage plus 10 more damage for each damage counter on Arcanine."
+      },
+      "name": {
+        "en": "Flames of Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RR",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

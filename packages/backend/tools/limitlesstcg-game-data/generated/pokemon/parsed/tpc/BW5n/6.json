@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "しびればり"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージを追加。"
+      },
+      "name": {
+        "jp": "きょうかニードル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW5n/BW5n_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マラカッチ"
+  },
+  "number": "6",
+  "rarity": "c",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "BW5n",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

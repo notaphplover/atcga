@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Wing Attack"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/58_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/58.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/58.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pidgeotto"
+  },
+  "number": "58",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

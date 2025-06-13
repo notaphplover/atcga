@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "60",
+      "effect": {
+        "en": "Your opponent can't play any Trainer cards from their hand during their next turn. If 1 of your Pokémon used Cold Snap during your last turn, this attack can't be used.",
+        "fr": "Votre adversaire ne peut pas jouer de carte Dresseur de sa main pendant son prochain tour. Si l'un de vos Pokémon a utilisé Vague de Froid pendant votre dernier tour, cette attaque ne peut pas être utilisée.",
+        "de": "Dein Gegner kann während seines nächsten Zuges keine Trainerkarten aus seiner Hand spielen. Wenn eins deiner Pokémon während deines letzten Zuges Kälteeinbruch eingesetzt hat, kann diese Attacke nicht eingesetzt werden.",
+        "it": "Il tuo avversario non può giocare le carte Allenatore che ha in mano durante il suo prossimo turno. Se uno dei tuoi Pokémon ha usato Gelo Istantaneo durante il tuo ultimo turno, questo attacco non può essere usato.",
+        "es": "Tu rival no puede jugar ninguna carta de Entrenador de su mano durante su próximo turno. Si 1 de tus Pokémon usó Ola de Frío durante tu último turno, este ataque no se puede usar."
+      },
+      "name": {
+        "en": "Cold Snap",
+        "fr": "Vague de Froid",
+        "de": "Kälteeinbruch",
+        "it": "Gelo Istantaneo",
+        "es": "Ola de Frío"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "120",
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 10 danni a ciascun Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Blizzard",
+        "fr": "Blizzard",
+        "de": "Blizzard",
+        "it": "Bora",
+        "es": "Ventisca"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CEC/CEC_052_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Walrein",
+    "fr": "Kaimorse",
+    "de": "Walraisa",
+    "it": "Walrein",
+    "pt": "Walrein",
+    "es": "Walrein"
+  },
+  "number": "52",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "CEC",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

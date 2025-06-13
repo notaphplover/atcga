@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Actif de votre adversaire.",
+        "de": "Wirf 1 Münze. Lege bei „Kopf“ 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta. Se esce testa, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Lanza 1 moneda. Si sala cara, descarta 1 Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Swagger",
+        "fr": "Vantardise",
+        "de": "Angeberei",
+        "it": "Bullo",
+        "es": "Contoneo"
+      }
+    },
+    {
+      "cost": "ff",
+      "dmg": "30+",
+      "effect": {
+        "en": "If, before doing damage, your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage.",
+        "fr": "Si, avant d'infliger des dégâts, il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wenn, bevor du Schaden zufügst, das Aktive Pokémon deines Gegners mehr verbliebene KP hat als dieses Pokémon, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+        "it": "Se, prima di infliggere i danni, il Pokémon attivo del tuo avversario ha più PS rimanenti di questo Pokémon, questo attacco infligge 60 danni in più.",
+        "es": "Si, antes de infligir daño, al Pokémon Activo de tu rival le quedan más PS que a este Pokémon, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Spirited Throw",
+        "fr": "Lancer Plein d'Esprit",
+        "de": "Energischer Wurf",
+        "it": "Lancio Vigoroso",
+        "es": "Lanzamiento Inspirado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_053_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Primeape",
+    "fr": "Colossinge",
+    "de": "Rasaff",
+    "it": "Primeape",
+    "pt": "Primeape",
+    "es": "Primeape"
+  },
+  "number": "53",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "STS",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

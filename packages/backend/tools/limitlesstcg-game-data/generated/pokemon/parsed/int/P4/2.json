@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+  "abilityName": "Form Change",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "During your next turn, Deoxys's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Crystal Laser"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop4/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop4/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop4/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Deoxys"
+  },
+  "number": "2",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P4",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

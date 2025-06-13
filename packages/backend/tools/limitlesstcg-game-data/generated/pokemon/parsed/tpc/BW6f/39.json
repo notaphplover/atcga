@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "jp": "相手の手札からオモテを見ないで1枚選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "はたきおとす"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "70×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x70ダメージ。"
+      },
+      "name": {
+        "jp": "ダブルウィップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_39_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_39_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW6f/BW6f_39_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コジョンド"
+  },
+  "number": "39",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BW6f",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

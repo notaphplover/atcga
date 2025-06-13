@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Each player discards the top card of his or her deck. This attack does 40 damage plus 10 more damage for each Energy card discarded in this way."
+      },
+      "name": {
+        "en": "Eruption"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Groudon"
+  },
+  "number": "14",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

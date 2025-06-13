@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Gas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/58_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/58.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/58.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Koffing"
+  },
+  "number": "58",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

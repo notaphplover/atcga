@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move a React Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Delcatty is affected by a Special Condition.",
+  "abilityName": "Reactive Shift",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Search your discard pile for an Energy card and attach it to Delcatty."
+      },
+      "name": {
+        "en": "Energy Link"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Tail Whap"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Delcatty"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

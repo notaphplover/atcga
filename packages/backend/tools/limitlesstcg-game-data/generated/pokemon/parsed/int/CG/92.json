@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Exploud ex is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon-ex between turns.",
+  "abilityName": "Extra Noise",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard a Special Energy card, if any, attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Derail"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If the Defending Pokémon has any Poké-Powers or Poké-Bodies, this attack does 60 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Hyper Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/92_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/92.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/92.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Exploud ex"
+  },
+  "number": "92",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "CG",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

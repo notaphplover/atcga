@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Spit Up"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "20",
+      "effect": {
+        "en": "After your attack, remove from Pelipper the number of damage counters equal to the damage you did to the Defending Pokémon. If Pelipper has fewer damage counters than that, remove all of them."
+      },
+      "name": {
+        "en": "Swallow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pelipper"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

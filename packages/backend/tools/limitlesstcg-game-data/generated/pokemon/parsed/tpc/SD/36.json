@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "かじりつく"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "90+",
+      "effect": {
+        "jp": "相手のバトルポケモンが「ポケモンV・GX」なら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "とうしのキバ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SD/SD_36_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SD/SD_36_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SD/SD_36_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "パルスワン"
+  },
+  "number": "36",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SD",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

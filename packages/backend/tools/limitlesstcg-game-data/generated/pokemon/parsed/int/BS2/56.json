@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Scratch"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon attacks Persian during your next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Pounce"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Persian"
+  },
+  "number": "56",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 0,
+  "set": "BS2",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

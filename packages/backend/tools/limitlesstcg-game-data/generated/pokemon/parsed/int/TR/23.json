@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Whenever your opponent's Active Pokémon retreats, your opponent flips a coin. If tails, this power does 20 damage to that Pokémon. (Don't apply Weakness and Resistance.) This power stops working while Dark Dugtrio is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Sinkhole",
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "20+",
+      "effect": {
+        "en": "Your opponent flips a coin. If tails, this attack does 20 damage plus 20 more damage; if heads, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Knock Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Dugtrio"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

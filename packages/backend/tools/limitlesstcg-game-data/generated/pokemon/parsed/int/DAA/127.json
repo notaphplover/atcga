@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Beam",
+        "fr": "Rayon",
+        "de": "Strahl",
+        "it": "Raggio",
+        "pt": "Feixe",
+        "es": "Transmisión"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "200",
+      "effect": {
+        "en": "If you don't have Klink and Klang on your Bench, this attack does nothing.",
+        "fr": "Si vous n'avez pas Tic et Clic sur votre Banc, cette attaque ne fait rien.",
+        "de": "Wenn sich Klikk und Kliklak nicht auf deiner Bank befinden, hat diese Attacke keine Auswirkungen.",
+        "it": "Se non hai Klink e Klang nella tua panchina, questo attacco non ha effetto.",
+        "pt": "Se Klink e Klang não estiverem no seu Banco, este ataque não fará nada.",
+        "es": "Si no tienes a Klink y Klang en tu Banca, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Clockwork",
+        "fr": "Mécanisme",
+        "de": "Uhrwerk",
+        "it": "Ingranaggi",
+        "pt": "Mecanismo",
+        "es": "Mecanismo de Relojería"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_127_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Klinklang",
+    "fr": "Cliticlic",
+    "de": "Klikdiklak",
+    "it": "Klinklang",
+    "pt": "Klinklang",
+    "es": "Klinklang"
+  },
+  "number": "127",
+  "rarity": "r",
+  "regulation": "d",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 3,
+  "set": "DAA",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

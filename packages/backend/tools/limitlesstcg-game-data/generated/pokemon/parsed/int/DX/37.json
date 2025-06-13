@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Headbutt"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Magcargo has at least 2 [R] Energy attached to it, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Burning Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magcargo"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

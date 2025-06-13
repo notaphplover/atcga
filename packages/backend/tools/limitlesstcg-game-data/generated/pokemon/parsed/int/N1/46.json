@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard 1 [R] Energy card attached to Quilava in order to use this attack."
+      },
+      "name": {
+        "en": "Ember"
+      }
+    },
+    {
+      "cost": "rr",
+      "dmg": "20",
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, choose 1 of them. Flip 2 coins. For each heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance.)"
+      },
+      "name": {
+        "en": "Fire Wind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quilava"
+  },
+  "number": "46",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

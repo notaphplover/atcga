@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Vine Whip"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, remove from Carnivine the number of damage counters equal to the damage you did to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swallow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/53_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/53.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/53.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carnivine"
+  },
+  "number": "53",
+  "rarity": "u",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

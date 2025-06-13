@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Ledian from your hand to evolve 1 of your Pokémon, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+  "abilityName": "Prowl",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30",
+      "effect": {
+        "en": "If Ledian has a Pokémon Tool card attached to it, draw 3 cards."
+      },
+      "name": {
+        "en": "Metal Star"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ledian"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "DF",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

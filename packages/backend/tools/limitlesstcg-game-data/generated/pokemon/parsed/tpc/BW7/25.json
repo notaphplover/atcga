@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の番に、自分が使える「サポート」の枚数は2枚になる。",
+  "abilityName": "ダブルブレイン",
+  "attacks": [
+    {
+      "cost": "llc",
+      "dmg": "80",
+      "effect": {
+        "jp": "このポケモンをベンチポケモンと入れ替える。その後、相手は相手自身のバトルポケモンをベンチポケモンと入れ替える。"
+      },
+      "name": {
+        "jp": "ジャイロボール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_25_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_25_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_25_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジバコイル"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW7",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

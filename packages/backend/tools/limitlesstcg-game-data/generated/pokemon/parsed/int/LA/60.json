@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Comet Punch"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "50",
+      "effect": {
+        "en": "You may switch Ledian with 1 of your Benched Pokémon. If you do, move as many Energy cards attached to Ledian as you like to the new Active Pokémon."
+      },
+      "name": {
+        "en": "Baton Pass"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ledian"
+  },
+  "number": "60",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "LA",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

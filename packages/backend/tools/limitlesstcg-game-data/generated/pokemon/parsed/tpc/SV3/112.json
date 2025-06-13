@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンは、相手の[L]ポケモンからワザのダメージを受けない。",
+  "abilityName": "ぜつえんたい",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "100",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "サンダーエッジ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_112_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_112_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_112_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハラバリー"
+  },
+  "number": "112",
+  "rarity": "ar",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV3",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

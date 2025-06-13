@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Discard the top card of your deck. If that card is a [F] Energy card, attach it to this Pokémon.",
+        "fr": "Défaussez la carte du dessus de votre deck. Si c'est une carte Énergie [F], attachez-la à ce Pokémon.",
+        "de": "Lege die oberste Karte deines Decks auf deinen Ablagestapel. Handelt es sich um eine [F]-Energiekarte, lege sie an dieses Pokémon an.",
+        "it": "Scarta la carta in cima al tuo mazzo. Se è una carta Energia [F], assegnala a questo Pokémon.",
+        "es": "Descarta la primera carta de tu baraja. Si es una carta de Energía [F], únela a este Pokémon."
+      },
+      "name": {
+        "en": "Dig Out",
+        "fr": "Excavation",
+        "de": "Freischaufeln",
+        "it": "Scavata",
+        "es": "Cavar"
+      }
+    },
+    {
+      "cost": "fccc",
+      "dmg": "90×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 90 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 90 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 90 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 90 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 90 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Double Lariat",
+        "fr": "Double Lasso",
+        "de": "Doppel-Lasso",
+        "it": "Doppio Lazzo",
+        "es": "Doble Lazo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_041_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Golurk",
+    "fr": "Golemastoc",
+    "de": "Golgantes",
+    "it": "Golurk",
+    "pt": "Golurk",
+    "es": "Golurk"
+  },
+  "number": "41",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 4,
+  "set": "AOR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

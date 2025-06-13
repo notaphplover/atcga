@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50+",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 50 more damage for each heads. If the first flip is tails, your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 50 dégâts supplémentaires pour chaque côté face. Si le premier lancer est pile, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Diese Attacke fügt 50 Schadenspunkte mehr pro Kopf zu. Wenn das Ergebnis des ersten Münzwurfs Zahl ist, ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 50 danni in più ogni volta che esce testa. Se la prima volta esce croce, il Pokémon attivo del tuo avversario viene paralizzato.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 50 puntos de daño más por cada cara. Si sale cruz en el primer lanzamiento, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Dangerous Lick",
+        "fr": "Lécher Dangereux",
+        "de": "Gefährlicher Schlecker",
+        "it": "Leccata Pericolosa",
+        "es": "Lametazo Peligroso"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "110",
+      "effect": {},
+      "name": {
+        "en": "Rolling Tackle",
+        "fr": "Roulé-Boulé",
+        "de": "Rolltackle",
+        "it": "Rollazione",
+        "es": "Placaje Giro"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_103_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lickilicky",
+    "fr": "Coudlangue",
+    "de": "Schlurplek",
+    "it": "Lickilicky",
+    "pt": "Lickilicky",
+    "es": "Lickilicky"
+  },
+  "number": "103",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UPR",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

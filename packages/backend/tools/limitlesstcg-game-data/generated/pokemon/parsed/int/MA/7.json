@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin for each Energy attached to Team Magma's Aggron. This attack does 30 damage times the number of heads."
+      },
+      "name": {
+        "en": "Crush"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "You may discard any number of basic Energy cards attached to Team Magma's Aggron. If you do, this attack does 50 damage plus 20 more damage for each basic Energy card you discarded."
+      },
+      "name": {
+        "en": "Land Stream"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Aggron"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage2",
+  "type": [
+    "fighting",
+    "darkness"
+  ],
+  "weakness": [
+    "grass",
+    "water"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に1回使える。自分のバトルポケモンの特殊状態を、すべて回復する。",
+  "abilityName": "せわやきナース",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "150",
+      "effect": {
+        "jp": "このポケモンについているエネルギーをすべて、ベンチポケモン1匹につけ替える。"
+      },
+      "name": {
+        "jp": "ハッピーサイクロン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_60_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_60_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_60_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハピナス"
+  },
+  "number": "60",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV1V",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard a [R] Energy card attached to Cyndaquil."
+      },
+      "name": {
+        "en": "Ember"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/105_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/105.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/105.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cyndaquil"
+  },
+  "number": "105",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

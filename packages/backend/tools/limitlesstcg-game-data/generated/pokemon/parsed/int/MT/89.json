@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the number of damage counters on Magikarp."
+      },
+      "name": {
+        "en": "Flail"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Dragon Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/89_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/89.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/89.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magikarp"
+  },
+  "number": "89",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

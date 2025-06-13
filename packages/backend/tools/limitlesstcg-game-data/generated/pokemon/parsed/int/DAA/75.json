@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "40",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Mind Bend",
+        "fr": "Contrôleur d'Esprit",
+        "de": "Gedankenverbiegung",
+        "it": "Fusione Mentale",
+        "pt": "Dobra Mentes",
+        "es": "Fusión Mental"
+      }
+    },
+    {
+      "cost": "pc",
+      "dmg": "90",
+      "effect": {
+        "en": "Choose 2 random cards from your opponent's hand. Your opponent reveals those cards and shuffles them into their deck.",
+        "fr": "Choisissez 2 cartes au hasard dans la main de votre adversaire. Votre adversaire montre ces cartes, puis les mélange avec son deck.",
+        "de": "Wähle 2 zufällige Karten aus der Hand deines Gegners. Dein Gegner zeigt dir jene Karten und mischt sie in sein Deck.",
+        "it": "Scegli due carte a caso dalla mano del tuo avversario. Il tuo avversario mostra quelle carte e le rimischia nel suo mazzo.",
+        "pt": "Escolha 2 cartas aleatórias da mão do seu oponente. Seu oponente revela aquelas cartas e as embaralha no próprio baralho.",
+        "es": "Elige 2 cartas aleatorias de la mano de tu rival. Tu rival enseña esas cartas, las pone en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Bend",
+        "fr": "Tordre",
+        "de": "Verbiegung",
+        "it": "Distorcere",
+        "pt": "Dobrar",
+        "es": "Torcer"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_075_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gothitelle",
+    "fr": "Sidérella",
+    "de": "Morbitesse",
+    "it": "Gothitelle",
+    "pt": "Gothitelle",
+    "es": "Gothitelle"
+  },
+  "number": "75",
+  "rarity": "r",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DAA",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

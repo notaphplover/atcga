@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "You may discard a [G] Energy card attached to Seviper. If you do, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Deadly Poison"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Asleep and Poisoned."
+      },
+      "name": {
+        "en": "Extra Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seviper"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SS",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

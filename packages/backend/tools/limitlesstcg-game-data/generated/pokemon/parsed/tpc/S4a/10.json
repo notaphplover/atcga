@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ひっかく"
+      }
+    },
+    {
+      "cost": "gggc",
+      "dmg": "130+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについている[草]エネルギーを3枚まで選び、トラッシュする。その場合、トラッシュした枚数×50ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダイレンダ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 330,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S4a/S4a_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴリランダーVMAX"
+  },
+  "number": "10",
+  "rarity": "rrr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 3,
+  "set": "S4a",
+  "stage": "vmax",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

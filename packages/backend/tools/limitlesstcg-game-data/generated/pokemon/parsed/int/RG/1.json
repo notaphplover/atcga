@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "This attack does 50 damage plus 30 more damage for each Beedrill (excluding this one) you have in play."
+      },
+      "name": {
+        "en": "Link Needle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beedrill"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

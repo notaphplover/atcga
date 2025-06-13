@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Rushing Water"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "40+",
+      "effect": {
+        "en": "If you played any Supporter card from your hand during this turn, this attack does 40 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Escort"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Empoleon FB"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

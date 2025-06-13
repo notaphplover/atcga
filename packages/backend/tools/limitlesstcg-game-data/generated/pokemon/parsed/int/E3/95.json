@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Headbutt"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Beam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Seel"
+  },
+  "number": "95",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

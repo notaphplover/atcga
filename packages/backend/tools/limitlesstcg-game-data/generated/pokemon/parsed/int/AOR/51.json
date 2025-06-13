@@ -1,0 +1,91 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Iron Head",
+        "fr": "Tête de Fer",
+        "de": "Eisenschädel",
+        "it": "Metaltestata",
+        "es": "Cabeza de Hierro"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "70",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a Pokémon-EX, discard an Energy attached to that Pokémon.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon-EX, défaussez une Énergie lui étant attachée.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-EX ist, lege 1 an das Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-EX, scarta un'Energia assegnata a quel Pokémon.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon-EX, descarta 1 Energía unida a ese Pokémon."
+      },
+      "name": {
+        "en": "Forbidden Iron Hammer",
+        "fr": "Marteau de Fer Défendu",
+        "de": "Verbotener Stahlhammer",
+        "it": "Fantamartello Metallico",
+        "es": "Martillo de Hierro Prohibido"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_051_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Registeel",
+    "fr": "Registeel",
+    "de": "Registeel",
+    "it": "Registeel",
+    "pt": "Registeel",
+    "es": "Registeel"
+  },
+  "number": "51",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "AOR",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

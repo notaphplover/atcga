@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Metal Claw"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Mid-air Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lucario C"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

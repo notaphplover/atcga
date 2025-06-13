@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Bagon."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/76_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/76.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/76.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bagon"
+  },
+  "number": "76",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

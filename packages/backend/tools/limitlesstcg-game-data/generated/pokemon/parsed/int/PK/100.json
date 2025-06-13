@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you put Flareon Star from your hand onto your Bench, you may use this power. Each Active Pokémon (both yours and your opponent's) is now Burned.",
+  "abilityName": "Crimson Ray",
+  "attacks": [
+    {
+      "cost": "rrc",
+      "dmg": "50",
+      "effect": {
+        "en": "Discard a [R] Energy attached to Flareon Star."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flareon Star"
+  },
+  "number": "100",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

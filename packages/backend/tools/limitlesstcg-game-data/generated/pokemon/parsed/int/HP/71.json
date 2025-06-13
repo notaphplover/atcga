@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "mc",
+      "dmg": "10",
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Pay Day"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/71_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/71.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/71.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meowth"
+  },
+  "number": "71",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "basic",
+  "type": [
+    "darkness",
+    "metal"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rock Slide"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/63_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/63.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/63.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Larvitar"
+  },
+  "number": "63",
+  "rarity": "c",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

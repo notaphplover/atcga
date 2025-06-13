@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "jp": "ずつき"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "60",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このワザは失敗。"
+      },
+      "name": {
+        "jp": "ふいをつく"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_71_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_71_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8b/SM8b_71_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "モノズ"
+  },
+  "number": "71",
+  "regulation": "a",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "SM8b",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

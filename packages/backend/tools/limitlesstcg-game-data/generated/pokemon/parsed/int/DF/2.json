@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Each of your Pokémon that has δ on its card does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Battle Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+      },
+      "name": {
+        "en": "Drag Off"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Sharp Fang"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feraligatr"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DF",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

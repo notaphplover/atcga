@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bind"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Omanyte, Omastar, Kabuto, Kabutops, and Kabutops ex in your discard pile. You can't add more than 60 damage in this way."
+      },
+      "name": {
+        "en": "Vengeful Spikes"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Omastar"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HP",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

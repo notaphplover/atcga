@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Arcanine from your hand to evolve 1 of your Benched Pokémon, you may switch Arcanine with 1 of your Active Pokémon. If you do, you may move any number of Energy cards attached to that Pokémon to Arcanine.",
+  "abilityName": "Flame Dash",
+  "attacks": [
+    {
+      "cost": "rrcc",
+      "dmg": "120",
+      "effect": {
+        "en": "Arcanine does 40 damage to itself."
+      },
+      "name": {
+        "en": "Inferno Onrush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

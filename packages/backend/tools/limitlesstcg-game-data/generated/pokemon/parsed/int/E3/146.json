@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [R], [L], or [F] basic Energy card from your hand to Charizard, Charizard's type (color) becomes the same as that type of Energy until the end of the turn.",
+  "abilityName": "Crystal Type",
+  "attacks": [
+    {
+      "cost": "rrf",
+      "dmg": "40",
+      "effect": {
+        "en": "Discard an Energy card attached to Charizard."
+      },
+      "name": {
+        "en": "Fireblast"
+      }
+    },
+    {
+      "cost": "rllc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 50 damage times the number of heads."
+      },
+      "name": {
+        "en": "Dragon Tail"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/146_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/146.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/146.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard"
+  },
+  "number": "146",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 4,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

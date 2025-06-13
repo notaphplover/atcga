@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Surf"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Swift"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/30_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/30.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/30.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Starmie"
+  },
+  "number": "30",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "water",
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

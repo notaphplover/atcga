@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "どくばり"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、40ダメージ追加。ウラなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "あばれしょくしゅ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2L/SM2L_9_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2L/SM2L_9_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2L/SM2L_9_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドククラゲ"
+  },
+  "number": "9",
+  "rarity": "u",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM2L",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

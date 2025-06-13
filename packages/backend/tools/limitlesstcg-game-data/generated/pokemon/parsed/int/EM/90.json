@@ -1,0 +1,51 @@
+{
+  "abilityEffect": "Any damage done to Altaria ex by attacks from Stage 2 Evolved Pokémon (both yours and your opponent's) is reduced by 30 (after applying Weakness and Resistance).",
+  "abilityName": "Mist",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Dive"
+      }
+    },
+    {
+      "cost": "wlc",
+      "dmg": "70",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Dragon Mist"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Altaria ex"
+  },
+  "number": "90",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": []
+}

@@ -1,0 +1,74 @@
+{
+  "abilityEffect": "Apply Weakness for each Pokémon (both yours and your opponent's) as x4 instead.",
+  "abilityName": "Allergy Panic",
+  "attacks": [
+    {
+      "cost": "gccc",
+      "dmg": "50",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi et Empoisonné.",
+        "it": "Il Pokémon difensore viene addormentato e avvelenato.",
+        "es": "El Pokémon Defensor pasa a estar Dormido y Envenenado."
+      },
+      "name": {
+        "en": "Pollen Spray",
+        "fr": "Crache-Pollen",
+        "de": "Pollenspray",
+        "it": "Pollinspruzzo",
+        "es": "Rociada de Polen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_003_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vileplume",
+    "fr": "Rafflesia",
+    "de": "Giflor",
+    "it": "Vileplume",
+    "pt": "Vileplume",
+    "es": "Vileplume"
+  },
+  "number": "3",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 3,
+  "set": "BCR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

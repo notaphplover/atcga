@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, discard a [R] Energy card attached to Rapidash and this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Gallop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rapidash"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Damage done to your opponent's Pokémon by your Omanyte, Omastar, Kabuto, Kabutops, or Kabutops ex isn't affected by Resistance.",
+  "abilityName": "Ancient Tentacles",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Rising Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Omanyte"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンについているエネルギーを、1個トラッシュする。"
+      },
+      "name": {
+        "jp": "かみくだく"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "jp": "アクセルロック"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "200",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを、2個トラッシュする。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "ガルファングGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM2p/SM2p_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ルガルガンGX"
+  },
+  "number": "54",
+  "rarity": "sr",
+  "regulation": "a",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM2p",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

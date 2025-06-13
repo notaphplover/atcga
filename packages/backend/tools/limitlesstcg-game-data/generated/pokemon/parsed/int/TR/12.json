@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "When you play Dark Slowbro from your hand, choose up to 3 Basic Pokémon and/or Evolution cards from your discard pile and put them into your hand.",
+  "abilityName": "Reel In",
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Fickle Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dark Slowbro"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "TR",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

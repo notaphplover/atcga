@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けた相手のバトルポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+      },
+      "name": {
+        "jp": "すなかけ"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについている[炎]エネルギーを1個選び、トラッシュしてよい。その場合、30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ファイヤースラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_8_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_8_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_8_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ブースター"
+  },
+  "number": "8",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BW4",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

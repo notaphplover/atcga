@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Magnemite, Magneton, and Dark Magneton on your Bench."
+      },
+      "name": {
+        "en": "Magnetism"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base5/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base5/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base5/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magnemite"
+  },
+  "number": "60",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TR",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "50",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "バブルこうせん"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "100+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、150ダメージ追加。"
+      },
+      "name": {
+        "jp": "ごうかいパンチ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_62_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_62_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV2a/SV2a_62_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ニョロボン"
+  },
+  "number": "62",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV2a",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

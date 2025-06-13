@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "When you attach a [G] Energy card from your hand to Vespiquen E4, remove 1 damage counter from Vespiquen E4.",
+  "abilityName": "Royal Gain",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin for each [G] Energy attached to Vespiquen E4. This attack does 30 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Leaf Needle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl2/35_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl2/35.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl2/35.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vespiquen E4"
+  },
+  "number": "35",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "RR",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

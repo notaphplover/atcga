@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever you attach a [G], [W], or [P] basic Energy card from your hand to Celebi, Celebi's type (color) becomes the same as that type of Energy until the end of the turn.",
+  "abilityName": "Crystal Type",
+  "attacks": [
+    {
+      "cost": "gpc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mind Bend"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/145_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/145.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/145.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Celebi"
+  },
+  "number": "145",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

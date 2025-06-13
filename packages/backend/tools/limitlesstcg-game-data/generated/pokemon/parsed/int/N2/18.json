@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. Your opponent now puts 3 damage counters on it instead of 1 after each player's turn (even if it was already Poisoned)."
+      },
+      "name": {
+        "en": "Triple Poison"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Pin Missile"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/18_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/18.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/18.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beedrill"
+  },
+  "number": "18",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "N2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Breloom."
+      },
+      "name": {
+        "en": "Power Blow"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Body Slam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Breloom"
+  },
+  "number": "22",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

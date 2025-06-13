@@ -1,0 +1,71 @@
+{
+  "abilityEffect": "Prevent all damage done to your Benched [G] Pokémon by attacks.",
+  "abilityName": "Defense Sign",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your next turn, Vespiquen's Retreat Cost is 0.",
+        "fr": "Pendant votre prochain tour, le Coût de retraite d'Apireine est de 0.",
+        "de": "Die Rückzugskosten für Honweisel betragen in deinem nächsten Zug 0.",
+        "it": "Durante il tuo prossimo turno, il Costo di Ritirata di Vespiquen è 0."
+      },
+      "name": {
+        "en": "Mach Wind",
+        "fr": "Vent frénétique",
+        "de": "Steife Brise",
+        "it": "MachVento"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_023_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vespiquen",
+    "fr": "Apireine",
+    "de": "Honweisel",
+    "it": "Vespiquen",
+    "pt": "Vespiquen",
+    "es": "Vespiquen"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UD",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

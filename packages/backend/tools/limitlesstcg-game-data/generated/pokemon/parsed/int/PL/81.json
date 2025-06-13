@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each Energy attached to Lotad but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Energy Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/81_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/81.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/81.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lotad"
+  },
+  "number": "81",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

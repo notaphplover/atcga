@@ -1,0 +1,57 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Look at your opponent's hand. This attack does 40 damage plus 10 more damage for each Trainer card in your opponent's hand."
+      },
+      "name": {
+        "en": "Poltergeist"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If you have more Prize cards left than your opponent, this attack does 60 damage plus 40 more damage."
+      },
+      "name": {
+        "en": "Prize Count"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex6/108_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex6/108.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex6/108.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gengar ex"
+  },
+  "number": "108",
+  "rarity": "ur",
+  "resistance": [
+    "fighting",
+    "colorless"
+  ],
+  "retreat": 2,
+  "set": "RG",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic",
+    "darkness"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分のトラッシュにある「ハイダイ」の枚数ぶん、このポケモンがワザを使うための[C]エネルギーは少なくなる。",
+  "abilityName": "したごしらえ",
+  "attacks": [
+    {
+      "cost": "wcccc",
+      "dmg": "250",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「おおぶりパンチ」が使えない。"
+      },
+      "name": {
+        "jp": "おおぶりパンチ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7/SV7_107_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7/SV7_107_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV7/SV7_107_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ケケンカニ"
+  },
+  "number": "107",
+  "rarity": "ar",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV7",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

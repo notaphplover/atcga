@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "どくづき"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "70",
+      "effect": {
+        "jp": "弱点の計算をせずに、このポケモンにも20ダメージ。"
+      },
+      "name": {
+        "jp": "ダイナマイトパンチ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_28_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_28_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5g/XY5g_28_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ニドクイン"
+  },
+  "number": "28",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "XY5g",
+  "stage": "stage2",
+  "traitEffect": "このポケモンは、ワザを2回連続で使える。（1回目で相手のバトルポケモンがきぜつしたなら、次のポケモンが出た後、2回目を使う。）",
+  "traitName": "Ω（オメガ）連打",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

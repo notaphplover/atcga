@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "If Rocket's Hitmonchan ex is your Active Pokémon and is damaged by an opponent's attack (even if Rocket's Hitmonchan ex is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+  "abilityName": "Strikes Back",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "10",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Mach Punch"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Magnum Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Hitmonchan ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

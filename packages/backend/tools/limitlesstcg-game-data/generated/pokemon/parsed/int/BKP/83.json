@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "y",
+      "dmg": "20",
+      "effect": {
+        "en": "You may attach an Energy card from your hand to 1 of your Benched Pokémon.",
+        "fr": "Vous pouvez attacher une carte Énergie de votre main à l'un de vos Pokémon de Banc.",
+        "de": "Du kannst 1 Energiekarte von deiner Hand an 1 deiner Pokémon auf deiner Bank anlegen.",
+        "it": "Lancia quattro volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
+        "es": "Puedes unir 1 carta de Energía de tu mano a 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Mighty Wind",
+        "fr": "Vent Redoutable",
+        "de": "Mächtiger Wind",
+        "it": "Ala Uragano",
+        "es": "Viento Poderoso"
+      }
+    },
+    {
+      "cost": "yccc",
+      "dmg": "50×",
+      "effect": {
+        "en": "Flip 4 coins. This attack does 50 damage times the number of heads.",
+        "fr": "Lancez 4 pièces. Cette attaque inflige 50 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 4 Münzen. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "es": "Lanza 4 monedas. Este ataque hace 50 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Hurricane Wing",
+        "fr": "Tornad'Aile",
+        "de": "Hurrikanschwinge",
+        "es": "Ala Huracán"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_083_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Togekiss-EX",
+    "fr": "Togekiss-EX",
+    "de": "Togekiss-EX",
+    "it": "Togekiss-EX",
+    "pt": "Togekiss-EX",
+    "es": "Togekiss-EX"
+  },
+  "number": "83",
+  "rarity": "rr",
+  "resistance": [
+    "darkness"
+  ],
+  "retreat": 1,
+  "set": "BKP",
+  "stage": "basic",
+  "type": [
+    "fairy"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "40+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、30ダメージを追加。ウラなら、相手のバトルポケモンをやけどにする。"
+      },
+      "name": {
+        "jp": "ブレイズキック"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "130",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "かえんほうしゃ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_12_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_12_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW4/BW4_12_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バシャーモ"
+  },
+  "number": "12",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BW4",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

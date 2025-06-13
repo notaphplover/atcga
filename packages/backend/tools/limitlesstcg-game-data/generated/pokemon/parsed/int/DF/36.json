@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Smash Kick"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quilava"
+  },
+  "number": "36",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DF",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

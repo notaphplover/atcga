@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "50",
+      "effect": {
+        "jp": "のぞむなら、場に出ているスタジアムをトラッシュしてよい。"
+      },
+      "name": {
+        "jp": "つきくずす"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "70+",
+      "effect": {
+        "jp": "相手のバトルポケモンが[闘]タイプなら、70ダメージを追加。"
+      },
+      "name": {
+        "jp": "ひょうけつスプラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5t/XY5t_26_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5t/XY5t_26_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY5t/XY5t_26_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "トドゼルガ"
+  },
+  "number": "26",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 4,
+  "set": "XY5t",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

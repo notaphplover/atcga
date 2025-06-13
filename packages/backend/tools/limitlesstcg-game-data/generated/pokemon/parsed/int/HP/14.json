@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "As long as Pidgeot has any Holon Energy cards attached to it, each player's Pokémon (excluding Pokémon that has δ on its card) can't use any Poké-Powers.",
+  "abilityName": "Delta Reserve",
+  "attacks": [
+    {
+      "cost": "lmc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may discard an Energy card attached to Pidgeot. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Pidgeot."
+      },
+      "name": {
+        "en": "Rotating Claws"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex13/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex13/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex13/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pidgeot"
+  },
+  "number": "14",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "HP",
+  "stage": "stage2",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Tackle"
+      }
+    },
+    {
+      "cost": "ww",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/86_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/86.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/86.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misty's Horsea"
+  },
+  "number": "86",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 0,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

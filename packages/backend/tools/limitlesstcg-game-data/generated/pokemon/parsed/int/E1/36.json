@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubble"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Cannon"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blastoise"
+  },
+  "number": "36",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

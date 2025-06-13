@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Rampardos's attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+  "abilityName": "Iron Skull",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "80",
+      "effect": {
+        "en": "If the Defending Pokémon would be Knocked Out by this attack, Rampardos does 40 damage to itself."
+      },
+      "name": {
+        "en": "Head Smash"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "40",
+      "effect": {
+        "en": "Any damage done to Rampardos by attacks is reduced by 20 (after applying Weakness and Resistance) until the end of your next turn."
+      },
+      "name": {
+        "en": "Mold Breaker"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rampardos"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

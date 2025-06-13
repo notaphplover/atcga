@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Each of your [G] Pokémon's and [R] Pokémon's attacks does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Sunny Day",
+  "attacks": [
+    {
+      "cost": "0",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove 2 damage counters from 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Salty-sweet Pollen"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Solarbeam"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Cherrim"
+  },
+  "number": "14",
+  "rarity": "r",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

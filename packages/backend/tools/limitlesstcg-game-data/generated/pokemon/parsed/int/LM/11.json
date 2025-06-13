@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "As long as Muk is your Active Pokémon, each player's Pokémon can't use any Poké-Powers.",
+  "abilityName": "Stench",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Poison Ring"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Sludge Toss"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Muk"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

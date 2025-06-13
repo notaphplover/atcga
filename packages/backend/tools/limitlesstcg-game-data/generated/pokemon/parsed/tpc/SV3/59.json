@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、このポケモンに「ポケモンのどうぐ」がついているなら、ワザを使ったポケモンにダメカンを5個のせる。",
+  "abilityName": "カスタムトラップ",
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "じひびき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_59_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_59_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV3/SV3_59_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マッギョ"
+  },
+  "number": "59",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV3",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

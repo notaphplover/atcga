@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn, when you put Dialga from your hand onto your Bench, you may search your discard pile for up to 3 in any combination of Pokémon (excluding Pokémon LV.X) and basic Energy cards. Show them to your opponent and put them on top of your deck in any order.",
+  "abilityName": "Reverse Time",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Draw cards until you have 7 cards in your hand."
+      },
+      "name": {
+        "en": "Time-Space Traveling"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

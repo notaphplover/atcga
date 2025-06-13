@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As long as you have more Prize cards left than your opponent, Vespiquen's attacks do 10 more damage for each [G] Pokémon on your Bench to the Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Green Dignity",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "After your attack, remove from Vespiquen the number of damage counters equal to the damage you did to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Bee Drain"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip 2 coins. If both are heads, the Defending Pokémon is now Burned, Paralyzed, and Poisoned."
+      },
+      "name": {
+        "en": "Bee Powder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp7/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp7/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp7/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vespiquen"
+  },
+  "number": "31",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SF",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

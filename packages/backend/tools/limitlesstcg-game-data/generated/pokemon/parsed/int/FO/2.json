@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "www",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Freeze Dry"
+      }
+    },
+    {
+      "cost": "wwww",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Blizzard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/2_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/2.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/2.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Articuno"
+  },
+  "number": "2",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "FO",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": []
+}

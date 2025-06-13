@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "At any time between turns, remove 1 damage counter from Regirock ex.",
+  "abilityName": "Healing Stone",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "60+",
+      "effect": {
+        "en": "You may do 60 damage plus 20 more damage. If you do, Regirock ex does 30 damage to itself."
+      },
+      "name": {
+        "en": "Tonnage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/98_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/98.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/98.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regirock ex"
+  },
+  "number": "98",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

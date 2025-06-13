@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "30",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Bind Down"
+      }
+    },
+    {
+      "cost": "gcc",
+      "dmg": "60",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Leafeon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Leaf Guard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Leafeon"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As often as you like during your turn (before your attack), you may move a basic Energy card attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Ampharos is affected by a Special Condition.",
+  "abilityName": "Energy Connect",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may discard all [L] Energy attached to Ampharos. If you do, the Defending Pokémon is now Burned and Confused."
+      },
+      "name": {
+        "en": "Miraculous Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

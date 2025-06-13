@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "30+",
+      "effect": {
+        "en": "If there is any Stadium card in play, this attack does 30 damage plus 20 more damage. Discard that Stadium card."
+      },
+      "name": {
+        "en": "Storm Up"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {
+        "en": "Rhydon does 10 damage to itself. Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Crash Impact"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp1/60_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp1/60.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp1/60.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rhydon"
+  },
+  "number": "60",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 2,
+  "set": "DP",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

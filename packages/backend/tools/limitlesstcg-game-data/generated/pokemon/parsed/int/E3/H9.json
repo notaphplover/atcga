@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "When you play Gengar from your hand to evolve your Active Pokémon, you may put a Basic Pokémon (excluding Baby Pokémon) from your discard pile onto your Bench. Then, flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to that Pokémon.",
+  "abilityName": "Manipulate",
+  "attacks": [
+    {
+      "cost": "ppcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned. If tails, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Hydrokinesis"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/H9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/H9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/H9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gengar"
+  },
+  "number": "H9",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "E3",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

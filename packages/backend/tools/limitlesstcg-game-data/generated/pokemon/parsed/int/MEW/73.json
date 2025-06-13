@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Envenenado.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poisonous Whip",
+        "fr": "Fouet Empoisonné",
+        "de": "Giftpeitsche",
+        "it": "Frustata Velenosa",
+        "pt": "Chicote Venenoso",
+        "es": "Látigo Venenoso"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "90×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 90 damage for each heads. If the first flip is tails, your opponent's Active Pokémon is now Confused.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Cette attaque inflige 90 dégâts pour chaque côté face. Si le premier lancer est pile, le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 90 Schadenspunkte pro Kopf zu. Wenn der erste Münzwurf Zahl zeigt, ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 90 danni ogni volta che esce testa. Se la prima volta esce croce, il Pokémon attivo del tuo avversario viene confuso.",
+        "pt": "Jogue uma moeda até sair coroa. Este ataque causa 90 pontos de dano para cada cara. Se a primeira jogada sair coroa, o Pokémon Ativo do seu oponente agora estará Confuso.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 90 puntos de daño por cada cara. Si sale cruz en el primer lanzamiento, el Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Tentacular Panic",
+        "fr": "Panique Tentaculaire",
+        "de": "Tentakelpanik",
+        "it": "Panico Tentacolare",
+        "pt": "Tentáculo do Pânico",
+        "es": "Pánico Tentacular"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEW/MEW_073_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tentacruel",
+    "fr": "Tentacruel",
+    "de": "Tentoxa",
+    "it": "Tentacruel",
+    "pt": "Tentacruel",
+    "es": "Tentacruel"
+  },
+  "number": "73",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MEW",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

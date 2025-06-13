@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If you have Uxie and Mesprit in play, the attack cost of each of your opponent's Basic Pokémon's attacks is [C] more. You can't use more than 1 Downer Material Poké-Body each turn.",
+  "abilityName": "Downer Material",
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "10",
+      "effect": {
+        "en": "During your opponent's next turn, your opponent can't attach any Special Energy cards from his or her hand to any of his or her Pokémon."
+      },
+      "name": {
+        "en": "Bind Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Azelf"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

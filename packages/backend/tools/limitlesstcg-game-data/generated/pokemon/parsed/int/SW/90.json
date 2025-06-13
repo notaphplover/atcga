@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Hoppip has any [G] Energy attached to it, the Retreat Cost for Hoppip is 0.",
+  "abilityName": "Cottonweed",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Remove all Special Conditions from Hoppip."
+      },
+      "name": {
+        "en": "Hover Heal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hoppip"
+  },
+  "number": "90",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SW",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

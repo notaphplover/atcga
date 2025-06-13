@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンは、相手の特性を持つポケモンからワザのダメージを受けない。",
+  "abilityName": "いしずえのかまえ",
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "140",
+      "effect": {
+        "jp": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ぶちやぶる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_216_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_216_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_216_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "オーガポン いしずえのめんex"
+  },
+  "number": "216",
+  "rarity": "sar",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8a",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

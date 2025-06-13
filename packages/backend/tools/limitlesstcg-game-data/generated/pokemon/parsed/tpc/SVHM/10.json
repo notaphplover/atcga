@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "jp": "相手のベンチポケモン1匹にも、20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "ジェミニレーザー"
+      }
+    },
+    {
+      "cost": "ppc",
+      "dmg": "120",
+      "effect": {
+        "jp": "次の自分の番、このポケモンは「しねんのやいば」が使えない。"
+      },
+      "name": {
+        "jp": "しねんのやいば"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVHM/SVHM_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVHM/SVHM_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVHM/SVHM_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "テツノブジン"
+  },
+  "number": "10",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVHM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

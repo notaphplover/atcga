@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "Once during your turn, you may attach a Basic [G] Energy card from your hand to 1 of your Pokémon. If you attached Energy to a Pokémon in this way, heal 30 damage from that Pokémon.",
+  "abilityName": "Ripening Charge",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 30 more damage for each [G] Energy attached to all of your Pokémon.",
+        "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie [G] attachée à tous vos Pokémon.",
+        "de": "Diese Attacke fügt für jede an alle deine Pokémon angelegte [G]-Energie 30 Schadenspunkte mehr zu.",
+        "it": "Questo attacco infligge 30 danni in più per ogni Energia [G] assegnata ai tuoi Pokémon.",
+        "pt": "Este ataque causa 30 pontos de dano a mais para cada Energia [G] ligada a todos os seus Pokémon.",
+        "es": "Este ataque hace 30 puntos de daño más por cada Energía [G] unida a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Syrup Storm",
+        "fr": "Tempête Nectar",
+        "de": "Sirupsturm",
+        "it": "Tempesta Sciroppata",
+        "pt": "Tempestade Melada",
+        "es": "Tormenta en Almíbar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 330,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_156_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hydrapple ex",
+    "fr": "Pomdorochi-ex",
+    "de": "Hydrapfel-ex",
+    "it": "Hydrapple-ex",
+    "pt": "Hydrapple ex",
+    "es": "Hydrapple ex"
+  },
+  "number": "156",
+  "rarity": "ur",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SCR",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

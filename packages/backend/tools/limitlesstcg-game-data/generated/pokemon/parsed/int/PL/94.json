@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have a Stadium card in play, you may use this power. Each Active Pokémon (both yours and your opponent's) (excluding Pokémon SP) is now Poisoned. This power can't be used if Skuntank is affected by a Special Condition.",
+  "abilityName": "Poison Structure",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Smokescreen"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skuntank G"
+  },
+  "number": "94",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

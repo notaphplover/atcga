@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "l",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip 3 coins. For each heads, you may search your deck for a [L] Energy card and attach it to 1 of your [L] Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Attract Current"
+      }
+    },
+    {
+      "cost": "lllc",
+      "dmg": "40+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, this attack does 40 damage and the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Gigavolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/1_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/1.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/1.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ampharos"
+  },
+  "number": "1",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "N3",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

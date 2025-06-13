@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you attach a [M] Energy card from your hand to Beldum (excluding effects of attacks or Poké-Powers), you may search your deck for Beldum and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
+  "abilityName": "Metal Chain",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "30",
+      "effect": {
+        "en": "Beldum does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/83_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/83.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/83.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Beldum"
+  },
+  "number": "83",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

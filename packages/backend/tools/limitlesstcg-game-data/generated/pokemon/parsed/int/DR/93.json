@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnoblast"
+      }
+    },
+    {
+      "cost": "rwc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard a [R] Energy and a [W] Energy attached to Latias ex."
+      },
+      "name": {
+        "en": "Mist Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/93_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/93.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/93.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Latias ex"
+  },
+  "number": "93",
+  "rarity": "ur",
+  "resistance": [
+    "fighting",
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

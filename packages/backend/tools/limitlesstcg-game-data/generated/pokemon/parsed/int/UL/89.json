@@ -1,0 +1,85 @@
+{
+  "abilityEffect": "If Ursaring has any damage counters on it, each of Ursaring's attacks does 60 more damage (before applying Weakness and Resistance).",
+  "abilityName": "Berserk",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Discard the top card from your opponent's deck.",
+        "fr": "Défaussez la première carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario.",
+        "es": "Descarta la primera carta del mazo de tu rival."
+      },
+      "name": {
+        "en": "Hammer Arm",
+        "fr": "Marto-Poing",
+        "de": "Hammerarm",
+        "it": "Martelpugno",
+        "es": "Machada"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Megaton Lariat",
+        "fr": "Lasso titanesque",
+        "de": "Megatonnenlasso",
+        "it": "Lazo Megatonico",
+        "es": "Lazo Megaton"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UL/UL_089_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ursaring",
+    "fr": "Ursaring",
+    "de": "Ursaring",
+    "it": "Ursaring",
+    "pt": "Ursaring",
+    "es": "Ursaring"
+  },
+  "number": "89",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UL",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

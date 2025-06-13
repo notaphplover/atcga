@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may attach an Energy card from your hand to 1 of your Pokémon. This power can't be used if Leafeon is affected by a Special Condition.",
+  "abilityName": "Energy Forcing",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 10 more damage for each Energy attached to all of your Pokémon."
+      },
+      "name": {
+        "en": "Verdant Dance"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/99_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/99.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/99.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Leafeon LV.X"
+  },
+  "number": "99",
+  "rarity": "ur",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "lvx",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

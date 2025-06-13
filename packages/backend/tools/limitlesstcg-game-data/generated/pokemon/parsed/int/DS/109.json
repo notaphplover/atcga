@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "Once during your turn, when you play Jolteon ex from your hand to evolve 1 of your Pokémon, you may put 1 damage counter on each of your opponent's Pokémon.",
+  "abilityName": "Evolutionary Thunder",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Second Bite"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Discard a [L] Energy card attached to Jolteon ex."
+      },
+      "name": {
+        "en": "Thunder Blast"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/109_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/109.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/109.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon ex"
+  },
+  "number": "109",
+  "rarity": "ur",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 0,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

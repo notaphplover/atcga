@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your deck for a Holon Energy card and attach it to Jolteon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Delta Search"
+      }
+    },
+    {
+      "cost": "lmc",
+      "dmg": "50",
+      "effect": {
+        "en": "You may return an Energy card attached to Jolteon to your hand. If you do, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Return Spark"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Jolteon"
+  },
+  "number": "7",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "stage1",
+  "type": [
+    "lightning",
+    "metal"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

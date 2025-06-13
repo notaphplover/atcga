@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Light Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Remove 1 damage counter from Larvitar."
+      },
+      "name": {
+        "en": "Dig Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/63_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/63.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/63.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Larvitar"
+  },
+  "number": "63",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

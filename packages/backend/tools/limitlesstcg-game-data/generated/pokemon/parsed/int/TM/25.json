@@ -1,0 +1,80 @@
+{
+  "attacks": [
+    {
+      "cost": "f",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Lunar Blast",
+        "fr": "Explosion lunaire",
+        "de": "Mondsturm",
+        "it": "Furia Lunare"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.) Lunatone does 60 damage to itself.",
+        "fr": "Cette attaque inflige 10 dégâts à chaque Pokémon de Banc (les vôtres et ceux de votre adversaire).(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) Seleroc s'inflige 60 dégâts.",
+        "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (deinen und denen deines Gegners) 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) Lunastein fügt sich selbst 60 Schadenspunkte zu.",
+        "it": "Infligge 10 danni a ciascun Pokémon in Panchina (sia i tuoi che quelli del tuo avversario). (Non applicare Debolezza e Resistenza ai Pokémon in Panchina). Lunatone si infligge 60 danni."
+      },
+      "name": {
+        "en": "Selfdestruct",
+        "fr": "Destruction",
+        "de": "Finale",
+        "it": "Autodistruzione"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TM/TM_025_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lunatone",
+    "fr": "Seleroc",
+    "de": "Lunastein",
+    "it": "Lunatone",
+    "pt": "Lunatone",
+    "es": "Lunatone"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TM",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "This attack does 10 more damage for each card in your hand.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque carte dans votre main.",
+        "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede Karte auf deiner Hand zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni carta nella tua mano.",
+        "es": "Este ataque hace 10 puntos de daño más por cada carta en tu mano."
+      },
+      "name": {
+        "en": "Machine Gun Stomp",
+        "fr": "Mitraille-Piétinage",
+        "de": "Trommelfeuer-Stampfer",
+        "it": "Pestata Mitra",
+        "es": "Pisotón Incesante"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, i danni inflitti a questo Pokémon dagli attacchi sono ridotti di 20, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, cualquier daño infligido a este Pokémon por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Guard Press",
+        "fr": "Pression de Garde",
+        "de": "Schutzdruck",
+        "it": "Pressadifesa",
+        "es": "Presión de Guardia"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_050_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metagross",
+    "fr": "Métalosse",
+    "de": "Metagross",
+    "it": "Metagross",
+    "pt": "Metagross",
+    "es": "Metagross"
+  },
+  "number": "50",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "AOR",
+  "stage": "stage2",
+  "traitEffect": "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
+  "traitName": "θ Double",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

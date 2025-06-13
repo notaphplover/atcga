@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Each React Energy card attached to all of your Huntail and Gorebyss provides 2 Energy of every type but has no effect other than providing Energy.",
+  "abilityName": "Reactive Booster",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Does 30 damage plus 20 more damage for each [W] Energy attached to Gorebyss but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+      },
+      "name": {
+        "en": "Hydro Pump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gorebyss"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 0,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

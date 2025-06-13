@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Feebas is on your Bench, prevent all damage done to Feebas by attacks (both yours and your opponent's).",
+  "abilityName": "Submerge",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 30,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/49_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/49.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/49.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Feebas"
+  },
+  "number": "49",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EM",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

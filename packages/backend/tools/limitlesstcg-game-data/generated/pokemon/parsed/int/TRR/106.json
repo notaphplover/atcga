@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Rocket's Zapdos ex has any [D] Energy attached to it, damage done to Rocket's Zapdos ex by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Darkness Guard",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your discard pile for a [L] Energy card and attach it to Rocket's Zapdos ex."
+      },
+      "name": {
+        "en": "Plasma"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack does 30 damage to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Raging Thunder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/106_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/106.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/106.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rocket's Zapdos ex"
+  },
+  "number": "106",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

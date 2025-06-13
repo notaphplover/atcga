@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Skarmory has any [M] Energy attached to it, the Retreat Cost for Skarmory is 0.",
+  "abilityName": "Metallic Lift",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin for each [M] Energy attached to Skarmory. This attack does 10 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "Heavy Metal"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skarmory"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

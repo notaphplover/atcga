@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30+",
+      "effect": {
+        "jp": "前の相手の番に、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージを追加。"
+      },
+      "name": {
+        "jp": "かたきうち"
+      }
+    },
+    {
+      "cost": "dc",
+      "dmg": "60",
+      "effect": {
+        "jp": "このワザのダメージは抵抗力の計算をしない。"
+      },
+      "name": {
+        "jp": "マッハクロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_32_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_32_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY11r/XY11r_32_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キリキザン"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "XY11r",
+  "stage": "stage1",
+  "type": [
+    "darkness",
+    "metal"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

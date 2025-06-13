@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Any damage done to Corphish by attacks is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Exoskeleton",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/57_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/57.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/57.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Corphish"
+  },
+  "number": "57",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

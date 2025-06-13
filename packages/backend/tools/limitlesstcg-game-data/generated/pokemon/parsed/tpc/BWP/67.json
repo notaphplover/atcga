@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "きりさく"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "コインを3回投げる。オモテが1回なら、10ダメージを追加。オモテが2回なら、30ダメージを追加。すべてオモテなら、60ダメージを追加。"
+      },
+      "name": {
+        "jp": "れんぞくぎり"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_67_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_67_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_67_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "キリキザン"
+  },
+  "number": "67",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

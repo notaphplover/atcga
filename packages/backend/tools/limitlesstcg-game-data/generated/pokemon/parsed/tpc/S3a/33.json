@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "jp": "自分のトラッシュから基本エネルギーを1枚選び、このポケモンにつける。"
+      },
+      "name": {
+        "jp": "きんぞくぶそう"
+      }
+    },
+    {
+      "cost": "gpm",
+      "dmg": "150+",
+      "effect": {
+        "jp": "相手の場に「ポケモンVMAX」がいるなら、150ダメージ追加。"
+      },
+      "name": {
+        "jp": "アメイジングソード"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3a/S3a_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3a/S3a_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3a/S3a_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ザシアン"
+  },
+  "number": "33",
+  "rarity": "a",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S3a",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

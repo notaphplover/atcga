@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Stomp"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base2/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base2/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base2/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rapidash"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 0,
+  "set": "JU",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

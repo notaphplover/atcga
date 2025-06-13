@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "次の相手の番、このポケモンは特性を持つポケモンからワザのダメージを受けない。"
+      },
+      "name": {
+        "jp": "インゴットスイング"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "150",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "ブラストハンマー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_72_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_72_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_72_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "メルメタル"
+  },
+  "number": "72",
+  "rarity": "r",
+  "regulation": "e",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "S8",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

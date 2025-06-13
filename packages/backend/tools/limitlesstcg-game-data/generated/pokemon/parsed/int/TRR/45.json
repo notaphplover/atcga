@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may remove 1 damage counter from 1 of your Pokémon (excluding Mantine). This power can't be used if Mantine is affected by a Special Condition.",
+  "abilityName": "Ripples",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {
+        "en": "Mantine can't attack during your next turn."
+      },
+      "name": {
+        "en": "Aqua Slash"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Mantine"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 20 more damage for each heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 20 dégâts supplémentaires pour chaque côté face.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 20 weitere Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Scarta due Energie assegnate a questo Pokémon.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño más por cada cara."
+      },
+      "name": {
+        "en": "Spiral Punch",
+        "fr": "Coup d'Poing Spirale",
+        "de": "Spiralschlag",
+        "it": "Vampata Potente",
+        "es": "Puño en Espiral"
+      }
+    },
+    {
+      "cost": "rrcc",
+      "dmg": "150",
+      "effect": {
+        "en": "Discard 2 Energy attached to this Pokémon.",
+        "fr": "Défaussez 2 Énergies attachées à ce Pokémon.",
+        "de": "Lege 2 an dieses Pokémon angelegte Energien auf deinen Ablagestapel.",
+        "es": "Descarta 2 Energías unidas a este Pokémon."
+      },
+      "name": {
+        "en": "Strong Flare",
+        "fr": "Flamboiement Intense",
+        "de": "Großes Auflodern",
+        "es": "Fuerte Llama"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKP/BKP_014_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Emboar-EX",
+    "fr": "Roitiflam-EX",
+    "de": "Flambirex-EX",
+    "it": "Emboar-EX",
+    "pt": "Emboar-EX",
+    "es": "Emboar-EX"
+  },
+  "number": "14",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BKP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

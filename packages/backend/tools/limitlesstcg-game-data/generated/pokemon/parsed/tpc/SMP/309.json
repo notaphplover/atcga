@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "場にスタジアムが出ているなら、このポケモンの弱点は、すべてなくなる。",
+  "abilityName": "ステルスボディ",
+  "attacks": [
+    {
+      "cost": "lllc",
+      "dmg": "120+",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについている[雷]エネルギーを、すべてトラッシュする。その場合、100ダメージ追加。"
+      },
+      "name": {
+        "jp": "エレキほう"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_309_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_309_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_309_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "クワガノン"
+  },
+  "number": "309",
+  "regulation": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SMP",
+  "stage": "stage2",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

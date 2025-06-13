@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "30",
+      "effect": {
+        "jp": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+      },
+      "name": {
+        "jp": "おいつめる"
+      }
+    },
+    {
+      "cost": "dcc",
+      "dmg": "90+",
+      "effect": {
+        "jp": "この番、手札から「ネズ」を出して使っていたなら、90ダメージ追加。"
+      },
+      "name": {
+        "jp": "バッドブロウル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_58_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_58_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S3/S3_58_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ズルズキン"
+  },
+  "number": "58",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S3",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

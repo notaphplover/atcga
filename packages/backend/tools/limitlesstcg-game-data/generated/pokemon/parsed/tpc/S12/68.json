@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分のたねポケモンが使うワザの、相手のバトル場の[D]ポケモンへのダメージは「+30」される。",
+  "abilityName": "せいぎのおきて",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "jp": "自分のベンチポケモンを2匹まで選び、山札から基本エネルギーを1枚ずつつける。そして山札を切る。"
+      },
+      "name": {
+        "jp": "フォローアップ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_68_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_68_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12/S12_68_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コバルオン"
+  },
+  "number": "68",
+  "rarity": "c",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "S12",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

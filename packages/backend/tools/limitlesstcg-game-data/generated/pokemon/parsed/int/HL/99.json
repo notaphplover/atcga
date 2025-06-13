@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Any damage done to Registeel ex by attacks is reduced by 10 (after applying Weakness and Resistance).",
+  "abilityName": "Exoskeleton",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "50",
+      "effect": {
+        "en": "Does 20 damage to each of your opponent's Benched Pokémon of the same type as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Steel Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/99_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/99.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/99.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Registeel ex"
+  },
+  "number": "99",
+  "rarity": "ur",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

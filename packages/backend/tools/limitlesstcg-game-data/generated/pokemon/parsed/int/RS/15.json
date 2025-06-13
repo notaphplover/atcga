@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Clutch"
+      }
+    },
+    {
+      "cost": "rccc",
+      "dmg": "80",
+      "effect": {
+        "en": "Discard a [R] Energy card attached to Blaziken."
+      },
+      "name": {
+        "en": "Flamethrower"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaziken"
+  },
+  "number": "15",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RS",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

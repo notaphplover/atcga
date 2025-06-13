@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Staraptor FB"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

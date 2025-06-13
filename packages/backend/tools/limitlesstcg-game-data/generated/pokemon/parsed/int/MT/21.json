@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Prevent all damage done to your Benched Pokémon by your opponent's attacks.",
+  "abilityName": "Protective Wall",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "60",
+      "effect": {
+        "en": "If Bastiodon was damaged by an attack during your opponent's last turn, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Anger Revenge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bastiodon"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

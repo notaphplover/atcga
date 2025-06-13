@@ -1,0 +1,86 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Dual Claw",
+        "fr": "Paire de Griffes",
+        "de": "Doppelpranke",
+        "it": "Doppiagrinfia",
+        "es": "Garra Dual"
+      }
+    },
+    {
+      "cost": "wlcc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard an Energy attached to this Pokémon.",
+        "fr": "Défaussez une Énergie attachée à ce Pokémon.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon.",
+        "es": "Descarta una Energía unida a este Pokémon."
+      },
+      "name": {
+        "en": "Flash Freeze",
+        "fr": "Tonnerre de Glace",
+        "de": "Froststrahl",
+        "it": "Lampogelido",
+        "es": "Destello Helado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BWP/BWP_058_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Black Kyurem",
+    "fr": "Kyurem Noir",
+    "de": "Schwarzes Kyurem",
+    "it": "Kyurem Nero",
+    "pt": "Kyurem Preto",
+    "es": "Kyurem Negro"
+  },
+  "number": "58",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BWP",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

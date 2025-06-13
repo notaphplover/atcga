@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、相手のバトルポケモンのにげるためのエネルギーは、1個ぶん多くなる。",
+  "abilityName": "トラップテリトリー",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "90+",
+      "effect": {
+        "jp": "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。"
+      },
+      "name": {
+        "jp": "ワイヤーハング"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_101_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_101_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV1V/SV1V_101_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ワナイダーex"
+  },
+  "number": "101",
+  "rarity": "sar",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV1V",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

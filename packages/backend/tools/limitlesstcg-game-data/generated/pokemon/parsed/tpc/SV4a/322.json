@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、エネルギーがついている自分のポケモン全員は、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果は、なくならない。）",
+  "abilityName": "まもりのきんし",
+  "attacks": [
+    {
+      "cost": "gg",
+      "dmg": "80+",
+      "effect": {
+        "jp": "自分のベンチの[G]エネルギーがついているポケモンの数×40ダメージ追加。"
+      },
+      "name": {
+        "jp": "コロニーラッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_322_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_322_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_322_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "リククラゲex"
+  },
+  "number": "322",
+  "rarity": "ssr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV4a",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

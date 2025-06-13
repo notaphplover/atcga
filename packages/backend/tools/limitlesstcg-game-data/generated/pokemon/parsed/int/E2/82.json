@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Double Kick"
+      }
+    },
+    {
+      "cost": "fcc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, switch Hitmontop with 1 of your Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Triple Spin"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/82_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/82.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/82.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmontop"
+  },
+  "number": "82",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

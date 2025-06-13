@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "pp",
+      "dmg": "20",
+      "effect": {
+        "en": "All Pokémon Powers stop working until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Dark Wave"
+      }
+    },
+    {
+      "cost": "ppp",
+      "dmg": "40",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Shadow Bind"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym2/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym2/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym2/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sabrina's Gengar"
+  },
+  "number": "29",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "G2",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": []
+}

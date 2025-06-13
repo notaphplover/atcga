@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Carvanha is your Active Pokémon and is damaged by an opponent's attack (even if Carvanha is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+  "abilityName": "Rough Skin",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Big Bite"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/51_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/51.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/51.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carvanha"
+  },
+  "number": "51",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

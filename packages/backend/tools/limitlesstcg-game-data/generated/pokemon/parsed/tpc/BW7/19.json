@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "ポケモンチェックのたび、このポケモンのHPを「20」回復する。",
+  "abilityName": "あめうけざら",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "70",
+      "effect": {
+        "jp": "のぞむなら、このポケモンについているエネルギーを1個選び、トラッシュしてよい。その場合、相手のバトルポケモンをこんらんにする。"
+      },
+      "name": {
+        "jp": "ノリノリダンス"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_19_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_19_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BW7/BW7_19_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ルンパッパ"
+  },
+  "number": "19",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BW7",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

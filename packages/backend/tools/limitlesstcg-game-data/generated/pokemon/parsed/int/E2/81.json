@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "10×",
+      "effect": {
+        "en": "Flip 5 coins. This attack does 10 damage times the number of heads. Hitmonchan can't attack during your next turn."
+      },
+      "name": {
+        "en": "Rush"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Smash Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/81_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/81.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/81.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hitmonchan"
+  },
+  "number": "81",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

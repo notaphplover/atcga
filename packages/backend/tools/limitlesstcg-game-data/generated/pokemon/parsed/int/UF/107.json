@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "Switch Politoed ex with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Punch and Run"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "70",
+      "effect": {
+        "en": "Before doing damage, count the remaining HP of the Defending Pokémon and Politoed ex. If the Defending Pokémon has fewer remaining HP than Politoed ex's, this attack does 120 damage instead."
+      },
+      "name": {
+        "en": "Swallow Up"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/107_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/107.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/107.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Politoed ex"
+  },
+  "number": "107",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 3,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move an Energy card attached to 1 of your Pokémon SP to another of your Pokémon. Then, put 2 damage counters on Bronzong G. This power can't be used if Bronzong G is affected by a Special Condition.",
+  "abilityName": "Galactic Switch",
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Psychic Pulse"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/41_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/41.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/41.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bronzong G"
+  },
+  "number": "41",
+  "rarity": "u",
+  "resistance": [
+    "fire"
+  ],
+  "retreat": 3,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

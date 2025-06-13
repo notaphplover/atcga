@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn, when you play Quagsire from your hand to evolve 1 of your Pokémon, you may search your discard pile for up to 2 Pokémon Tool cards, show them to your opponent, and put them into your hand.",
+  "abilityName": "Dig Up",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If Quagsire has a Pokémon Tool card attached to it, this attack does 50 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Pump Out"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex15/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex15/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex15/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Quagsire"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DF",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

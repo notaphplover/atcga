@@ -1,0 +1,57 @@
+{
+  "abilityEffect": "As long as Bastiodon has a Pokémon Tool attached to it, remove 1 damage counter from Bastiodon between turns.",
+  "abilityName": "Metal Trait",
+  "attacks": [
+    {
+      "cost": "mmc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Bastiodon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Iron Defense"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Bastiodon does 30 damage to itself."
+      },
+      "name": {
+        "en": "Iron Tackle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bastiodon"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 4,
+  "set": "PL",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

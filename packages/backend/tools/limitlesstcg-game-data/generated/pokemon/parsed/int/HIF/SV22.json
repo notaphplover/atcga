@@ -1,0 +1,73 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if you have Garchomp in play, you may search your deck for a card and put it into your hand. Then, shuffle your deck.",
+  "abilityName": "Precognitive Aura",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "70",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance.",
+        "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+        "de": "Der Schaden dieser Attacke wird durch Resistenz nicht verändert.",
+        "it": "I danni di questo attacco non sono influenzati dalla resistenza.",
+        "es": "El daño de este ataque no se ve afectado por Resistencia."
+      },
+      "name": {
+        "en": "Missile Jab",
+        "fr": "Coup Propulsé",
+        "de": "Wieselflinke Gerade",
+        "it": "Missilpugno",
+        "es": "Puya Misil"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/HIF/HIF_SV22_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lucario",
+    "fr": "Lucario",
+    "de": "Lucario",
+    "it": "Lucario",
+    "pt": "Lucario",
+    "es": "Lucario"
+  },
+  "number": "SV22",
+  "rarity": "rr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HIF",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

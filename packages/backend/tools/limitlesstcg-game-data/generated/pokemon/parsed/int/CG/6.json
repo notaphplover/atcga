@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "If your opponent has any Pokémon-ex in play, each of Ludicolo's attacks does 30 more damage to the Defending Pokémon.",
+  "abilityName": "Overzealous",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Knock Off"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Fire Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex14/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex14/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex14/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ludicolo"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "CG",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

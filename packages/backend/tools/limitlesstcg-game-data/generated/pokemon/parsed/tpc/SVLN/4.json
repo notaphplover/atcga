@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "自分の場に「テラスタル」のポケモンがいるなら、このポケモンが「すてみタックル」を使うためのエネルギーは、[P]エネルギー1個になる。",
+  "abilityName": "きらきらシャボン",
+  "attacks": [
+    {
+      "cost": "pppp",
+      "dmg": "230",
+      "effect": {
+        "jp": "このポケモンにも50ダメージ。"
+      },
+      "name": {
+        "jp": "すてみタックル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVLN/SVLN_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVLN/SVLN_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVLN/SVLN_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "マリルリ"
+  },
+  "number": "4",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVLN",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

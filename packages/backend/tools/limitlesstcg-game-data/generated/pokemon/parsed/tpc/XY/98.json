@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンは、相手のＭ進化ポケモンからワザのダメージや効果を受けない。",
+  "abilityName": "はんこつのはどう",
+  "attacks": [
+    {
+      "cost": "gpcc",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の相手の番、相手は手札から、「ポケモンのどうぐ」「特殊エネルギー」を出してつけられず「スタジアム」も出せない。"
+      },
+      "name": {
+        "jp": "カオスウィール"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 170,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_98_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_98_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY/XY_98_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギラティナEX"
+  },
+  "number": "98",
+  "resistance": [],
+  "retreat": 3,
+  "set": "XY",
+  "stage": "basic",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "fairy"
+  ]
+}

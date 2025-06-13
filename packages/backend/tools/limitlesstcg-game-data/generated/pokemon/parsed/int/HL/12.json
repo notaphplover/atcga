@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn, when you play Milotic from your hand to evolve 1 of your Pokémon, you may remove all damage counters from all of your Pokémon and your opponent's Pokémon (excluding Pokémon-ex).",
+  "abilityName": "Healing Shower",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Wave Splash"
+      }
+    },
+    {
+      "cost": "wwcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Before doing damage, remove 3 damage counters from the Defending Pokémon (all if there are less than 3)."
+      },
+      "name": {
+        "en": "Distorted Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

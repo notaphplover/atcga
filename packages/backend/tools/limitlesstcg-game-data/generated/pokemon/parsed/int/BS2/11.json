@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
+      },
+      "name": {
+        "en": "Thrash"
+      }
+    },
+    {
+      "cost": "ggg",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+      },
+      "name": {
+        "en": "Toxic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/11_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/11.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/11.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Nidoking"
+  },
+  "number": "11",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BS2",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If all of your Benched Pokémon have at least 1 damage counter on them, this attack does 150 more damage.",
+        "fr": "Si tous vos Pokémon de Banc ont au moins un marqueur de dégâts, cette attaque inflige 150 dégâts supplémentaires.",
+        "de": "Wenn auf jedem Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 150 Schadenspunkte mehr zu.",
+        "it": "Se tutti i tuoi Pokémon in panchina hanno almeno un segnalino danno, questo attacco infligge 150 danni in più.",
+        "es": "Si todos tus Pokémon en Banca tienen por lo menos 1 contador de daño sobre ellos, este ataque hace 150 puntos de daño más."
+      },
+      "name": {
+        "en": "Cavern Counter",
+        "fr": "Marqueur des Grottes",
+        "de": "Höhlenkonter",
+        "it": "Segnali Rupestri",
+        "es": "Contraataque Gruta"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "110",
+      "effect": {},
+      "name": {
+        "en": "Boulder Crush",
+        "fr": "Rocher Écrasant",
+        "de": "Felsenquetscher",
+        "it": "Macignata",
+        "es": "Alud de Rocas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Terrakion",
+    "fr": "Terrakium",
+    "de": "Terrakium",
+    "it": "Terrakion",
+    "pt": "Terrakion",
+    "es": "Terrakion"
+  },
+  "number": "205",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

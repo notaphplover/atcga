@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Look at your opponent's hand. This attack does 10 damage times the number of Energy cards there."
+      },
+      "name": {
+        "en": "Bursting Hand"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Look at a number of cards on top of your opponent's deck equal to the number of Energy cards attached to the Defending Pokémon. Put those cards in any order, and then put them back on top of your opponent's deck."
+      },
+      "name": {
+        "en": "Shuffle Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/34_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/34.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/34.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slowking"
+  },
+  "number": "34",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

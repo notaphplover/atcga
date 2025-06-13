@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If Skiploom has any [G] Energy attached to it, any damage done to Skiploom by attacks from your opponent's Evolved Pokémon is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Cotton Balloon",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "20",
+      "effect": {
+        "en": "Switch Skiploom with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "U-turn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp3/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp3/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp3/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Skiploom"
+  },
+  "number": "65",
+  "rarity": "u",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "SW",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "As long as Slaking is your Active Pokémon, any damage done by attacks from your opponent's Pokémon-ex is reduced by 30 (before applying Weakness and Resistance).",
+  "abilityName": "Lazy Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Amnesia"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "70",
+      "effect": {
+        "en": "Slaking is now Asleep."
+      },
+      "name": {
+        "en": "Lazy Headbutt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/15_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/15.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/15.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Slaking"
+  },
+  "number": "15",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "DX",
+  "stage": "stage2",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

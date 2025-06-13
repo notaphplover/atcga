@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、相手のバトルポケモンは、やけどでのせるダメカンの数が6個になる。",
+  "abilityName": "あつきとうし",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "50",
+      "effect": {
+        "jp": "相手のバトルポケモンをやけどにする。"
+      },
+      "name": {
+        "jp": "バーストパンチ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5p/SM5p_25_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5p/SM5p_25_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5p/SM5p_25_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴウカザル"
+  },
+  "number": "25",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SM5p",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

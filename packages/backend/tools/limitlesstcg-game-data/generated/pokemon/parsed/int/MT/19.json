@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Abomasnow is your Active Pokémon and is damaged by an opponent's attack (even if Abomasnow is Knocked Out), the Attacking Pokémon is now Asleep.",
+  "abilityName": "Glacier Snow",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If heads, put 1 damage counter on each of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Heavy Blizzard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/19_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/19.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/19.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Abomasnow"
+  },
+  "number": "19",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

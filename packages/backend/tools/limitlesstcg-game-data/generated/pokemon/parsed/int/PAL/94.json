@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose 1 of your opponent's Active Pokémon’s attacks. During your opponent’s next turn, that Pokémon can’t use that attack.",
+        "fr": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire. Pendant le prochain tour de votre adversaire, ce Pokémon-là ne peut pas utiliser cette attaque.",
+        "de": "Wähle 1 Attacke des Aktiven Pokémon deines Gegners. Während des nächsten Zuges deines Gegners kann jenes Pokémon jene Attacke nicht einsetzen.",
+        "it": "Scegli un attacco del Pokémon attivo del tuo avversario. Durante il prossimo turno del tuo avversario, quel Pokémon non potrà utilizzarlo.",
+        "pt": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente. Durante o próximo turno do seu oponente, aquele Pokémon não poderá usar aquele ataque.",
+        "es": "Elige uno de los ataques del Pokémon Activo de tu rival. Durante el próximo turno de tu rival, dicho Pokémon no puede usar ese ataque."
+      },
+      "name": {
+        "en": "Plotter's Command",
+        "fr": "Ordre du Conspirateur",
+        "de": "Befehl des Strategen",
+        "it": "Ordine del Cospiratore",
+        "pt": "Comando do Conspirador",
+        "es": "Mandato del Conspirador"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "80",
+      "effect": {},
+      "name": {
+        "en": "Super Psy Bolt",
+        "fr": "Super Psy",
+        "de": "Super-Psischlag",
+        "it": "Superpsico",
+        "pt": "Super-raio Psíquico",
+        "es": "Superrayo Psi"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_094_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Oranguru",
+    "fr": "Gouroutan",
+    "de": "Kommandutan",
+    "it": "Oranguru",
+    "pt": "Oranguru",
+    "es": "Oranguru"
+  },
+  "number": "94",
+  "rarity": "u",
+  "regulation": "g",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "PAL",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may change Lanturn's type to [W] until the end of your turn. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed. If Lanturn becomes Asleep, Confused, or Paralyzed after you have used this power, its type changes back to [L].",
+  "abilityName": "Submerge",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Blinding Light"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo3/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo3/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo3/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lanturn"
+  },
+  "number": "32",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N3",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

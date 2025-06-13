@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Rayquaza has any basic [R] Energy cards and any basic [L] Energy cards attached to it, prevent all effects, except damage, by an opponent's attack done to Rayquaza.",
+  "abilityName": "Dragon Aura",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Tumbling Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Rayquaza"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

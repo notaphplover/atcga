@@ -1,0 +1,42 @@
+{
+  "attacks": [
+    {
+      "cost": "ll",
+      "dmg": "10",
+      "effect": {
+        "en": "This attack does 20 damage to any Pokémon with a [L] Rod marker on it. Apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Lightning Bolt"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/46_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/46.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/46.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Electabuzz"
+  },
+  "number": "46",
+  "resistance": [],
+  "retreat": 1,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

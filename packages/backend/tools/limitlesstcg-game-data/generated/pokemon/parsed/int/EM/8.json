@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Surf"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Super Hypno Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/8_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/8.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/8.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Milotic"
+  },
+  "number": "8",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

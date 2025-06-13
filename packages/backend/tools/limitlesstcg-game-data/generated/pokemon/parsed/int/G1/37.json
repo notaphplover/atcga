@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage; if tails, this attack does 10 damage."
+      },
+      "name": {
+        "en": "Firebreathing"
+      }
+    },
+    {
+      "cost": "rrr",
+      "dmg": "20×",
+      "effect": {
+        "en": "Discard the top 5 cards of your deck. (If there are fewer than 5 cards in your deck, discard all of them.) This attack does 20 damage for each [R] Energy card you discarded in this way."
+      },
+      "name": {
+        "en": "Lava Burst"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blaine's Magmar"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "G1",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may remove 2 damage counter from 1 of your Pokémon. You can't use more than 1 Heal Dance Poké-Power each turn. This power can't be used if Gardevoir is affected by a Special Condition.",
+  "abilityName": "Heal Dance",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Psypunch"
+      }
+    },
+    {
+      "cost": "pccc",
+      "dmg": "60",
+      "effect": {
+        "en": "This attack's damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Mind Shock"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex9/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex9/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex9/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gardevoir"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "EM",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

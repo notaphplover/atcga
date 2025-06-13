@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンの特性（「あんやのはばたき」をのぞく）は、すべてなくなる。",
+  "abilityName": "あんやのはばたき",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "90",
+      "effect": {
+        "jp": "ダメカン2個を、相手のベンチポケモンに好きなようにのせる。"
+      },
+      "name": {
+        "jp": "たたりとばす"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_72_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_72_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8a/SV8a_72_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハバタクカミ"
+  },
+  "number": "72",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8a",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

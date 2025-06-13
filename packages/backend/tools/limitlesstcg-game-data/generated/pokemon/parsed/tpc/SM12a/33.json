@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、自分の場の「イーブイ」から進化する「ポケモンGX」全員の最大HPは、それぞれ「60」大きくなる。この効果は、この特性を持つポケモンが何匹いても、重ならない",
+  "abilityName": "バイタルエール",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "60",
+      "effect": {
+        "jp": "分のポケモン全員のHPを、それぞれ「30」回復する。"
+      },
+      "name": {
+        "jp": "キュアレイン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_33_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_33_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12a/SM12a_33_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シャワーズ"
+  },
+  "number": "33",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM12a",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

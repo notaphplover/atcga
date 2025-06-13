@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, search your discard pile for 2 [R] Energy cards and attach them to Charizard (1 if there is only 1)."
+      },
+      "name": {
+        "en": "Collect Fire"
+      }
+    },
+    {
+      "cost": "rccc",
+      "dmg": "60",
+      "effect": {
+        "en": "You may discard a [R] Energy card attached to Charizard. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Flame Pillar"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/100_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/100.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/100.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charizard"
+  },
+  "number": "100",
+  "rarity": "sr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

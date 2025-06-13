@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Psyduck but not used to pay for this attack. You can't add more than 20 damage in this way."
+      },
+      "name": {
+        "en": "Water Gun"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/88_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/88.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/88.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Psyduck"
+  },
+  "number": "88",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LC",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

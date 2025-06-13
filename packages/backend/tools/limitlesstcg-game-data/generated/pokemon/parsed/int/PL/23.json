@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, search your discard pile for a basic Energy card and attach it to Dialga."
+      },
+      "name": {
+        "en": "Energy Stream"
+      }
+    },
+    {
+      "cost": "mmmc",
+      "dmg": "100",
+      "effect": {
+        "en": "Dialga can't attack during your next turn."
+      },
+      "name": {
+        "en": "Diamond Blow"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/23_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/23.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/23.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dialga"
+  },
+  "number": "23",
+  "rarity": "r",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

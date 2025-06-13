@@ -1,0 +1,83 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "en": "Slash",
+        "fr": "Tranche",
+        "de": "Schlitzer",
+        "it": "Lacerazione",
+        "es": "Cuchillada"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "90",
+      "effect": {
+        "en": "Discard a [R] Energy attached to this Pokémon.",
+        "fr": "Défaussez une Énergie [R] attachée à ce Pokémon.",
+        "de": "Lege 1 an dieses Pokémon angelegte [R]-Energie auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia [R] assegnata a questo Pokémon.",
+        "es": "Descarta 1 Energía [R] unida a este Pokémon."
+      },
+      "name": {
+        "en": "Flamethrower",
+        "fr": "Lance-Flammes",
+        "de": "Flammenwurf",
+        "it": "Lanciafiamme",
+        "es": "Lanzallamas"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_010_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Charmeleon",
+    "fr": "Reptincel",
+    "de": "Glutexo",
+    "it": "Charmeleon",
+    "pt": "Charmeleon",
+    "es": "Charmeleon"
+  },
+  "number": "10",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EVO",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

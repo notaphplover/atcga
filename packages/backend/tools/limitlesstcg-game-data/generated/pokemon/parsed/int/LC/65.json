@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+      },
+      "name": {
+        "en": "Stomp"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage)."
+      },
+      "name": {
+        "en": "Rampage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base6/65_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base6/65.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base6/65.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tauros"
+  },
+  "number": "65",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "LC",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

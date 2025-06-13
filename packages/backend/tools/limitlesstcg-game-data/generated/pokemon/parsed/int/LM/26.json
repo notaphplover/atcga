@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Spinda is your Active Pokémon, whenever your opponent's Basic Pokémon tries to attack, your opponent flips a coin. If tails, that attack does nothing. You can't use more than 1 Pattern Distraction Poké-Body each turn.",
+  "abilityName": "Pattern Distraction",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If tails, Spinda does 10 damage to itself."
+      },
+      "name": {
+        "en": "Double-edge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Spinda"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

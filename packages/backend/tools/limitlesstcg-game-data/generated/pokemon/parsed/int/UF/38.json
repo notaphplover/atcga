@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage isn't affected by Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Croconaw"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "UF",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

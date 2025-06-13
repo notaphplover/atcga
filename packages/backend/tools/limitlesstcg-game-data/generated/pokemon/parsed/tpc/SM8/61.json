@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "このポケモンが受けるワザのダメージは「-30」される。",
+  "abilityName": "かたいからだ",
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "相手のバトルポケモンに特殊エネルギーがついているなら、70ダメージ追加。"
+      },
+      "name": {
+        "jp": "スペシャルブロー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_61_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_61_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_61_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ハッサム"
+  },
+  "number": "61",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "SM8",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

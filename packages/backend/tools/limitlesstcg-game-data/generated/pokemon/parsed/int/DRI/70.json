@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "30",
+      "effect": {
+        "en": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",
+        "fr": "Vous pouvez déplacer une Énergie du Pokémon Actif de votre adversaire vers l'un de ses Pokémon de Banc.",
+        "de": "Du kannst 1 Energie vom Aktiven Pokémon deines Gegners auf 1 Pokémon auf seiner Bank verschieben.",
+        "it": "Puoi spostare un'Energia dal Pokémon attivo del tuo avversario a uno dei suoi Pokémon in panchina.",
+        "pt": "Você pode mover uma Energia do Pokémon Ativo do seu oponente para 1 dos Pokémon no Banco dele.",
+        "es": "Puedes mover 1 Energía del Pokémon Activo de tu rival a uno de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Jamming Wing",
+        "fr": "Aile Encombrante",
+        "de": "Störflügel",
+        "it": "Ala di Interferenza",
+        "pt": "Asa Bloqueadora",
+        "es": "Ala Fastidiosa"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage.",
+        "fr": "Si au moins une Énergie de la Team Rocket est attachée à ce Pokémon, cette attaque inflige 60 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon mindestens 1 Team Rockets Energie angelegt ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha delle Energie del Team Rocket assegnate, questo attacco infligge 60 danni in più.",
+        "pt": "Se este Pokémon tiver alguma Energia da Equipe Rocket ligada a ele, este ataque causará 60 pontos de dano a mais.",
+        "es": "Si este Pokémon tiene alguna Energía del Team Rocket unida, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Wicked Thunder",
+        "fr": "Tonnerre Malveillant",
+        "de": "Arglistiger Donner",
+        "it": "Tuono Malvagio",
+        "pt": "Trovão Traiçoeiro",
+        "es": "Trueno Malvado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_070_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Rocket's Zapdos",
+    "fr": "Électhor de la Team Rocket",
+    "de": "Team Rockets Zapdos",
+    "it": "Zapdos del Team Rocket",
+    "pt": "Zapdos da Equipe Rocket",
+    "es": "Zapdos del Team Rocket"
+  },
+  "number": "70",
+  "rarity": "r",
+  "regulation": "i",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "DRI",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "110+",
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 110 more damage.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon-ex ou un Pokémon-V, cette attaque inflige 110 dégâts supplémentaires.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-ex oder Pokémon-V ist, fügt diese Attacke 110 Schadenspunkte mehr zu.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-ex o un Pokémon-V, questo attacco infligge 110 danni in più.",
+        "pt": "Se o Pokémon Ativo do seu oponente for um Pokémon ex ou um Pokémon V, este ataque causará 110 pontos de dano a mais.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon ex o un Pokémon V, este ataque hace 110 puntos de daño más."
+      },
+      "name": {
+        "en": "Charged Web",
+        "fr": "Toile Chargée",
+        "de": "Geladenes Netz",
+        "it": "Tela Elettrificata",
+        "pt": "Eletroteia",
+        "es": "Tela Cargada"
+      }
+    },
+    {
+      "cost": "glf",
+      "dmg": "180",
+      "effect": {
+        "en": "Discard all Energy from this Pokémon. During your opponent's next turn, they can't play any Item cards from their hand.",
+        "fr": "Défaussez toutes les Énergies de ce Pokémon. Pendant son prochain tour, votre adversaire ne peut pas jouer de cartes Objet de sa main.",
+        "de": "Lege alle Energien von diesem Pokémon auf deinen Ablagestapel. Dein Gegner kann während seines nächsten Zuges keine Itemkarten aus seiner Hand spielen.",
+        "it": "Scarta tutte le Energie da questo Pokémon. Durante il suo prossimo turno, il tuo avversario non può giocare le carte Strumento che ha in mano.",
+        "pt": "Descarte todas as Energias deste Pokémon. Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da mão dele.",
+        "es": "Descarta todas las Energías de este Pokémon. Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Objeto de su mano."
+      },
+      "name": {
+        "en": "Fulgurite",
+        "fr": "Fulgurite",
+        "de": "Fulgurit",
+        "it": "Folgorite",
+        "pt": "Fulgurito",
+        "es": "Fulgurita"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_051_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Galvantula ex",
+    "fr": "Mygavolt-ex",
+    "de": "Voltula-ex",
+    "it": "Galvantula-ex",
+    "pt": "Galvantula ex",
+    "es": "Galvantula ex"
+  },
+  "number": "51",
+  "rarity": "rr",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SCR",
+  "stage": "stage1",
+  "traitEffect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
+  "traitName": "Tera",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

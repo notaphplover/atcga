@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "fcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Push Out"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "60",
+      "effect": {
+        "en": "If the Defending Pokémon has any Resistance, this attack's base damage is 120 instead of 60."
+      },
+      "name": {
+        "en": "Vortex Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/20_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/20.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/20.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Hariyama"
+  },
+  "number": "20",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 4,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

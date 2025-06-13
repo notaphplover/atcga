@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as Magmar is an Evolved Pokémon, all Energy attached to Magmar are [R] Energy instead of their usual types.",
+  "abilityName": "Stages of Evolution",
+  "attacks": [
+    {
+      "cost": "rrr",
+      "dmg": "40",
+      "effect": {
+        "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Burning Sensation"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/21_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/21.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/21.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar"
+  },
+  "number": "21",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "LM",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

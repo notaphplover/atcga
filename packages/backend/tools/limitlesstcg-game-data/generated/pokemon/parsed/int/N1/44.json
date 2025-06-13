@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "ww",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack. (Benching or evolving the Defending Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Freeze"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "30",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon; if tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Blizzard"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Piloswine"
+  },
+  "number": "44",
+  "rarity": "u",
+  "resistance": [
+    "lightning"
+  ],
+  "retreat": 3,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

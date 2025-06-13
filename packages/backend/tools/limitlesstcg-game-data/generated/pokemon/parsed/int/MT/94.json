@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a [L] Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.",
+  "abilityName": "Electro Recycle",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "BikaBika"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/94_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/94.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/94.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pikachu"
+  },
+  "number": "94",
+  "rarity": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

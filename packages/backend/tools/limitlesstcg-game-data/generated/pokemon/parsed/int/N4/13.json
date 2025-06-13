@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubble"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "If you have any Benched Pokémon, flip a coin. If heads, take 2 Energy cards attached to Light Azumarill and attach them to 1 of your Benched Pokémon. Then return Light Azumarill and all cards attached to it to your hand."
+      },
+      "name": {
+        "en": "Bubble Jump"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/13_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/13.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/13.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Light Azumarill"
+  },
+  "number": "13",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N4",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

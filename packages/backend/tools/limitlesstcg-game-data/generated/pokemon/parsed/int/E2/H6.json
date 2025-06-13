@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), choose 1 of your Benched Pokémon and flip a coin. If heads, count the number of Energy attached to Blissey and then remove that many damage counters from the chosen Benched Pokémon. This power can't be used if Blissey is affected by a Special Condition.",
+  "abilityName": "Happy Healing",
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "50",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Smash Bomber"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard2/H6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard2/H6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard2/H6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Blissey"
+  },
+  "number": "H6",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "E2",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

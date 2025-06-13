@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "ccc",
+      "dmg": "60",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+      },
+      "name": {
+        "jp": "ハードプレス"
+      }
+    },
+    {
+      "cost": "mccc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "コインを3回投げ、オモテの数×40ダメージ追加。"
+      },
+      "name": {
+        "jp": "トリプルノーズ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12/SM12_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12/SM12_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12/SM12_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダイノーズ"
+  },
+  "number": "54",
+  "rarity": "u",
+  "regulation": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "SM12",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

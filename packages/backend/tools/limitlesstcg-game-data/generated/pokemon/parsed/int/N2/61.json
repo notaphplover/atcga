@@ -1,0 +1,43 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, Pineco does 40 damage to itself and 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, this attack does nothing (not even damage)."
+      },
+      "name": {
+        "en": "Burst"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/61_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/61.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/61.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Pineco"
+  },
+  "number": "61",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

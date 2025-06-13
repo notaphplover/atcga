@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if Claydol is your Active Pokémon, you may shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand. This power can't be used if Claydol is affected by a Special Condition.",
+  "abilityName": "Psychic Trace",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If Claydol has any [P] Energy attached to it, the Defending Pokémon is now Confused. If Claydol has any [F] Energy attached to it, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Ancient Mantra"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Claydol"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

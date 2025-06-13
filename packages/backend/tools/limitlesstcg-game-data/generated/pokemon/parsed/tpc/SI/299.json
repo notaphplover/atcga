@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "mcc",
+      "dmg": "90",
+      "effect": {
+        "jp": "相手のベンチポケモン2匹にも、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "いわなだれ"
+      }
+    },
+    {
+      "cost": "mcccc",
+      "dmg": "150+",
+      "effect": {
+        "jp": "相手のバトルポケモンにダメカンがのっているなら、150ダメージ追加。"
+      },
+      "name": {
+        "jp": "むじひないちげき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_299_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_299_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SI/SI_299_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ボスゴドラV"
+  },
+  "number": "299",
+  "regulation": "f",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "SI",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

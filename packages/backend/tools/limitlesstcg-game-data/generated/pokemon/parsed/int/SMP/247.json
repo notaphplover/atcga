@@ -1,0 +1,106 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30+",
+      "effect": {
+        "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur ce Pokémon.",
+        "de": "Diese Attacke fügt 10 Schadenspunkte mehr mal der Anzahl der Schadensmarken auf diesem Pokémon zu.",
+        "it": "Questo attacco infligge 10 danni in più per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Este ataque hace 10 puntos de daño más por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Outrage",
+        "fr": "Colère",
+        "de": "Wutanfall",
+        "it": "Oltraggio",
+        "es": "Enfado"
+      }
+    },
+    {
+      "cost": "rrrc",
+      "dmg": "230",
+      "effect": {
+        "en": "This Pokémon can't use Flare Strike during your next turn.",
+        "fr": "Ce Pokémon ne peut pas utiliser Attaque Flamboyante pendant votre prochain tour.",
+        "de": "Dieses Pokémon kann Feuergeschoss während deines nächsten Zuges nicht einsetzen.",
+        "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Colpo Fiammante.",
+        "es": "Este Pokémon no puede usar Impacto Ígneo durante tu próximo turno."
+      },
+      "name": {
+        "en": "Flare Strike",
+        "fr": "Attaque Flamboyante",
+        "de": "Feuergeschoss",
+        "it": "Colpo Fiammante",
+        "es": "Impacto Ígneo"
+      }
+    },
+    {
+      "cost": "rrr+",
+      "dmg": "200+",
+      "effect": {
+        "en": "If this Pokémon has at least 3 extra [R] Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Si au moins 3 Énergies [R] supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 100 dégâts supplémentaires, et les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wenn an dieses Pokémon mindestens 3 extra [R]-Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 100 Schadenspunkte mehr zu und der Schaden dieser Attacke wird durch Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Se questo Pokémon ha almeno tre Energie [R] extra assegnate, in aggiunta a quelle del costo di questo attacco, questo attacco infligge 100 danni in più e i suoi danni non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario. Non puoi usare più di un attacco GX a partita.",
+        "es": "Si este Pokémon tiene por lo menos 3 Energías [R] adicionales unidas a él (además de las del coste de este ataque), este ataque hace 100 puntos de daño más, y el daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Double Blaze-GX",
+        "fr": "Double Brasier-GX",
+        "de": "Doppelbrand-GX",
+        "it": "Doppia Vampata-GX",
+        "es": "Doble Llama-GX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 270,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Reshiram & Charizard-GX",
+    "fr": "Reshiram et Dracaufeu-GX",
+    "de": "Reshiram & Glurak-GX",
+    "it": "Reshiram e Charizard-GX",
+    "pt": "Reshiram e Charizard-GX",
+    "es": "Reshiram y Charizard-GX"
+  },
+  "number": "247",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

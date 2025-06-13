@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Zangoose can't be affected by any Special Conditions.",
+  "abilityName": "Thick Skin",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Sharp Claws"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex16/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex16/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex16/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Zangoose"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PK",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

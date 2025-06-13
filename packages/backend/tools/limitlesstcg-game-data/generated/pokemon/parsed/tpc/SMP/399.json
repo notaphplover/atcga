@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "かじる"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "30×",
+      "effect": {
+        "jp": "インを3回投げ、オモテの数×30ダメージ。"
+      },
+      "name": {
+        "jp": "おてだまスピン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_399_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_399_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMP/SMP_399_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イーブイ"
+  },
+  "number": "399",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SMP",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

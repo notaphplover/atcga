@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30+",
+      "effect": {
+        "jp": "ウラが出るまでコインを投げ、オモテの数x30ダメージを追加。"
+      },
+      "name": {
+        "jp": "ダメージラッシュ"
+      }
+    },
+    {
+      "cost": "ddcc",
+      "dmg": "80×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x80ダメージ。"
+      },
+      "name": {
+        "jp": "ダブルラリアット"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYC/XYC_2_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYC/XYC_2_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XYC/XYC_2_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴロンダ"
+  },
+  "number": "2",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 3,
+  "set": "XYC",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

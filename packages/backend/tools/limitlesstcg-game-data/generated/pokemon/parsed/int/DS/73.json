@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Bite"
+      }
+    },
+    {
+      "cost": "rc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      },
+      "name": {
+        "en": "Rising Lunge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/73_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/73.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/73.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Larvitar"
+  },
+  "number": "73",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

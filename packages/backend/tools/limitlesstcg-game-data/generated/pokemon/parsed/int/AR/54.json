@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnosis"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Spinning Attack"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/54_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/54.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/54.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bronzor"
+  },
+  "number": "54",
+  "rarity": "c",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "AR",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

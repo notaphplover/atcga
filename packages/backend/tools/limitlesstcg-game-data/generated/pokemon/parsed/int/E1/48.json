@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), if your opponent has 3 or fewer Prizes, you may move 1 damage counter from 1 Pokémon (yours or your opponent's) to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is affected by a Special Condition.",
+  "abilityName": "Chaos Move",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "40",
+      "effect": {
+        "en": "Switch Gengar with 1 of your Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Hide in Shadows"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/48_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/48.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/48.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gengar"
+  },
+  "number": "48",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

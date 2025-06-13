@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "If your opponent's Active Pokémon has any Poké-Bodies, each of Butterfree FB's attacks does 30 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+  "abilityName": "Compound Eyes",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Choose either Burned or Poisoned. The Defending Pokémon is now affected by that Special Condition."
+      },
+      "name": {
+        "en": "Select Powder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/17_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/17.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/17.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Butterfree FB"
+  },
+  "number": "17",
+  "rarity": "r",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SV",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

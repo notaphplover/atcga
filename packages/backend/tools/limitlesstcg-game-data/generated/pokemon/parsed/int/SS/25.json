@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Aurora Beam"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "50",
+      "effect": {
+        "en": "This attack's damage is not affected by Resistance."
+      },
+      "name": {
+        "en": "Aqua Sonic"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex2/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex2/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex2/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vaporeon"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SS",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

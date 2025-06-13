@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "相手がすでにとったサイドの枚数ぶん、このポケモンが「ブラッドムーン」を使うための[C]エネルギーは少なくなる。",
+  "abilityName": "ろうれんのわざ",
+  "attacks": [
+    {
+      "cost": "ccccc",
+      "dmg": "240",
+      "effect": {
+        "jp": "次の自分の番、このポケモンはワザが使えない。"
+      },
+      "name": {
+        "jp": "ブラッドムーン"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 260,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5a/SV5a_52_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5a/SV5a_52_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV5a/SV5a_52_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ガチグマ アカツキex"
+  },
+  "number": "52",
+  "rarity": "rr",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV5a",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

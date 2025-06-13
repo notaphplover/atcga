@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "このポケモンがいるかぎり、おたがいの場の[超]タイプの弱点を持つポケモンが、ワザのダメージを受けるとき、弱点を計算しない。",
+  "abilityName": "サイキックゾーン",
+  "attacks": [
+    {
+      "cost": "ppp",
+      "dmg": "100",
+      "effect": {
+        "jp": "次の相手の番、このポケモンはワザのダメージや効果を受けない。［対戦中、自分はGXワザを1回しか使えない。］"
+      },
+      "name": {
+        "jp": "スターシールドGX"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMM/SMM_2_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMM/SMM_2_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SMM/SMM_2_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ジラーチGX"
+  },
+  "number": "2",
+  "regulation": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SMM",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "en": "Razor Leaf"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base4/64_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base4/64.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base4/64.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Weepinbell"
+  },
+  "number": "64",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BS2",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

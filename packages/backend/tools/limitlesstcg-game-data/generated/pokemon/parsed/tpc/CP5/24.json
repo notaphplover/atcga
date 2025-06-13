@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "ダークカッター"
+      }
+    },
+    {
+      "cost": "ddc",
+      "dmg": "80",
+      "effect": {
+        "jp": "相手のバトルポケモンをねむりにする。ポケモンチェックのとき、このねむりで投げるコインは2回になり、すべてオモテが出ないと回復しない。"
+      },
+      "name": {
+        "jp": "アビススリープ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP5/CP5_24_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP5/CP5_24_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/CP5/CP5_24_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ダークライ"
+  },
+  "number": "24",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 2,
+  "set": "CP5",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

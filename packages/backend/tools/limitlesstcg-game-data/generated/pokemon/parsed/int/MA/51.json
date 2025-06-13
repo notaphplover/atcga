@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Slash"
+      }
+    },
+    {
+      "cost": "cc",
+      "dmg": "10",
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Slow-Acting Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/51_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/51.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/51.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Corphish"
+  },
+  "number": "51",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

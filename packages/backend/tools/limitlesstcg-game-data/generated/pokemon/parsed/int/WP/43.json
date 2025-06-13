@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "ff",
+      "dmg": "20+",
+      "effect": {
+        "en": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads."
+      },
+      "name": {
+        "en": "Seething Anger"
+      }
+    },
+    {
+      "cost": "ffcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Fling"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machamp"
+  },
+  "number": "43",
+  "resistance": [],
+  "retreat": 3,
+  "set": "WP",
+  "stage": "stage2",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

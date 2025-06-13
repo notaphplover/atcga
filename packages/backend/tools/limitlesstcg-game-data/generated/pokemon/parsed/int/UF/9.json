@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "As long as Meganium is your Active Pokémon, remove 1 damage counter from each Pokémon (excluding Pokémon-ex) (both yours and your opponent's) between turns.",
+  "abilityName": "Healing Aroma",
+  "attacks": [
+    {
+      "cost": "ggc",
+      "dmg": "50+",
+      "effect": {
+        "en": "You may put up to 5 damage counters on Meganium. If you do, this attack does 50 damage plus 10 more damage for each damage counter you put on Meganium in this way."
+      },
+      "name": {
+        "en": "Bouncy Move"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex10/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex10/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex10/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Meganium"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [
+    "water"
+  ],
+  "retreat": 3,
+  "set": "UF",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

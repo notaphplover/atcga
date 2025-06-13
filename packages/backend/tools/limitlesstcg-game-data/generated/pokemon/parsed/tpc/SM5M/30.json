@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の手札にある[超]エネルギーを2枚、このポケモンにつける。",
+  "abilityName": "カオティックスター",
+  "attacks": [
+    {
+      "cost": "pppp",
+      "dmg": "160",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを、2個トラッシュする。"
+      },
+      "name": {
+        "jp": "クライシスダイブ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 160,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_30_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_30_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM5M/SM5M_30_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギラティナ"
+  },
+  "number": "30",
+  "regulation": "b",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "SM5M",
+  "stage": "basic",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

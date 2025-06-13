@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Surf"
+      }
+    },
+    {
+      "cost": "wc",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Muddy Water"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/73_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/73.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/73.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Shellos East Sea"
+  },
+  "number": "73",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Grumpig can't be Confused.",
+  "abilityName": "Carefree",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "20",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnoblast"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "If the Defending Pokémon is Pokémon-ex, this attack does 50 damage plus 30 more damage."
+      },
+      "name": {
+        "en": "Extra Ball"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex8/32_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex8/32.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex8/32.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Grumpig"
+  },
+  "number": "32",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DX",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

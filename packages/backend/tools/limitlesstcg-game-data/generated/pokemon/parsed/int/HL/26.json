@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Snow-cloud Castform and switch it with Sunny Castform. (Any cards attached to Sunny Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Sunny Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+  "abilityName": "Temperamental Weather",
+  "attacks": [
+    {
+      "cost": "rcc",
+      "dmg": "40",
+      "effect": {
+        "en": "If High Pressure System is in play, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Sunburn"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/26_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/26.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/26.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Sunny Castform"
+  },
+  "number": "26",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

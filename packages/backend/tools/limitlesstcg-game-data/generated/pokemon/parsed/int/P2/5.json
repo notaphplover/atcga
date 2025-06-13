@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Does 10 damage plus 10 more damage for each damage counter on Tauros."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "40",
+      "effect": {
+        "en": "Tauros does 10 damage to itself."
+      },
+      "name": {
+        "en": "Take Down"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop2/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop2/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop2/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tauros"
+  },
+  "number": "5",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "P2",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

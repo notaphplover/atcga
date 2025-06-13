@@ -1,0 +1,86 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "60",
+      "effect": {},
+      "name": {
+        "en": "Heat Blast",
+        "fr": "Explosion de Chaleur",
+        "de": "Hitzestoß",
+        "it": "Caldobomba",
+        "pt": "Raio de Calor",
+        "es": "Explosión de Calor"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "260",
+      "effect": {
+        "en": "This Pokémon can't use Blaze Blitz again until it leaves the Active Spot.",
+        "fr": "Ce Pokémon ne peut pas réutiliser Assaut Flamboyant tant qu'il ne quitte pas le Poste Actif.",
+        "de": "Dieses Pokémon kann Feuerblitz nicht wieder einsetzen, bis es die Aktive Position verlässt.",
+        "it": "Questo Pokémon non può più usare Carica Infuocata finché non lascia la posizione attiva.",
+        "pt": "Este Pokémon não poderá usar Avanço Incendiário novamente até sair do Campo Ativo.",
+        "es": "Este Pokémon no puede usar Envite Llameante de nuevo hasta que deje el Puesto Activo."
+      },
+      "name": {
+        "en": "Blaze Blitz",
+        "fr": "Assaut Flamboyant",
+        "de": "Feuerblitz",
+        "it": "Carica Infuocata",
+        "pt": "Avanço Incendiário",
+        "es": "Envite Llameante"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 230,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_144_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gouging Fire ex",
+    "fr": "Feu-Perçant-ex",
+    "de": "Keilflamme-ex",
+    "it": "Vampeaguzze-ex",
+    "pt": "Fogo Corrosão ex",
+    "es": "Flamariete ex"
+  },
+  "number": "144",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SVP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), when you put Lucario LV.X from your hand onto your Active Lucario, you may use this power. Prevent all effects of an attack, including damage, done to Lucario during your opponent's next turn. (If Lucario is no longer your Active Pokémon, this effect ends.)",
+  "abilityName": "Stance",
+  "attacks": [
+    {
+      "cost": "ffc",
+      "dmg": "80",
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Lucario by attacks is increased by 30 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Close Combat"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/122_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/122.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/122.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lucario LV.X"
+  },
+  "number": "122",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 1,
+  "set": "MT",
+  "stage": "lvx",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

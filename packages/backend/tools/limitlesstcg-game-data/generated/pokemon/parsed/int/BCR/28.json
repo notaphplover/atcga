@@ -1,0 +1,87 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+        "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 20 danni ogni volta che esce testa.",
+        "es": "Lanza una moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Continuous Tumble",
+        "fr": "Roulade Continue",
+        "de": "Dauerrollen",
+        "it": "Capriole",
+        "es": "Avalancha Continua"
+      }
+    },
+    {
+      "cost": "rcc",
+      "dmg": "60+",
+      "effect": {
+        "en": "If this Pokémon has any damage counters on it, this attack does 60 more damage.",
+        "fr": "Si ce Pokémon a des marqueurs de dégâts, cette attaque inflige 60 dégâts supplémentaires.",
+        "it": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 60 danni in più.",
+        "es": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 60 puntos de daño más."
+      },
+      "name": {
+        "en": "Damage Counterpunch",
+        "fr": "Riposte Enragée",
+        "de": "Konterklatsche",
+        "it": "Dannopugno",
+        "es": "Contragolpe de Daño"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BCR/BCR_028_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Darmanitan",
+    "fr": "Darumacho",
+    "de": "Flampivian",
+    "it": "Darmanitan",
+    "pt": "Darmanitan",
+    "es": "Darmanitan"
+  },
+  "number": "28",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "BCR",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

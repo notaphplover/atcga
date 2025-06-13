@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may remove all Special Conditions from your Active Pokémon. This power can't be used if Butterfree is affected by a Special Condition.",
+  "abilityName": "Miraculous Powder",
+  "attacks": [
+    {
+      "cost": "gcc",
+      "dmg": "40",
+      "effect": {
+        "en": "Flip a coin. If heads, remove 2 damage counters from Butterfree."
+      },
+      "name": {
+        "en": "Spiral Drain"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard1/5_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard1/5.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard1/5.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Butterfree"
+  },
+  "number": "5",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 0,
+  "set": "E1",
+  "stage": "stage2",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

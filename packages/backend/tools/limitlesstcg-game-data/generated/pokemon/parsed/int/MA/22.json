@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20+",
+      "effect": {
+        "en": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 20 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Second Strike"
+      }
+    },
+    {
+      "cost": "ffc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, discard an Energy card attached to Team Magma's Rhydon."
+      },
+      "name": {
+        "en": "Land Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/22_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/22.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/22.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Magma's Rhydon"
+  },
+  "number": "22",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

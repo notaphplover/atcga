@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分のトラッシュからサポートを1枚選び、相手に見せて、手札に加える。",
+  "abilityName": "ハッピーマッチ",
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "50",
+      "effect": {
+        "jp": "のぞむなら、このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。"
+      },
+      "name": {
+        "jp": "まいあがる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_10_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_10_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_10_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ワタシラガV"
+  },
+  "number": "10",
+  "rarity": "rr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "S2",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

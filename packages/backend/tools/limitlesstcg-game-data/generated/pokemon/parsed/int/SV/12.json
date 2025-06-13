@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Any damage done to Swampert by attacks from your opponent's Pokémon that isn't an Evolved Pokémon is reduced by 20 (after applying Weakness and Resistance).",
+  "abilityName": "Root Protector",
+  "attacks": [
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Before doing damage, you may switch your opponent's Active Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Drag Off"
+      }
+    },
+    {
+      "cost": "wccc",
+      "dmg": "60+",
+      "effect": {
+        "en": "Does 60 damage plus 10 more damage for each [F] Energy attached to Swampert."
+      },
+      "name": {
+        "en": "Push Over"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl3/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl3/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl3/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Swampert"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SV",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

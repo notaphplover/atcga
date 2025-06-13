@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Pound"
+      }
+    },
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "If Plusle is on your Bench, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "(+) Spark"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp5/25_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp5/25.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp5/25.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Minun"
+  },
+  "number": "25",
+  "rarity": "r",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "MD",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

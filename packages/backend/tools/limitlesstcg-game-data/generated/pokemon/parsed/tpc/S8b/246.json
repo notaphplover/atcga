@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "30",
+      "effect": {
+        "jp": "のぞむなら、自分の手札から[悪]エネルギーを1枚選び、ベンチポケモンにつける。"
+      },
+      "name": {
+        "jp": "パワーアクセル"
+      }
+    },
+    {
+      "cost": "dccc",
+      "dmg": "120+",
+      "effect": {
+        "jp": "相手のバトルポケモンが「ポケモンVMAX」なら、120ダメージ追加。"
+      },
+      "name": {
+        "jp": "ダイマックスほう"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 220,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_246_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_246_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8b/S8b_246_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ムゲンダイナV"
+  },
+  "number": "246",
+  "rarity": "csr",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S8b",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

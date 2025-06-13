@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Smoke Bomb"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "80",
+      "effect": {
+        "en": "If Magby isn't anywhere under Magmortar, discard 2 Energy cards from your hand. (If you can't discard 2 Energy cards from your hand, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Flame Drum"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp2/12_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp2/12.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp2/12.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmortar"
+  },
+  "number": "12",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 3,
+  "set": "MT",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

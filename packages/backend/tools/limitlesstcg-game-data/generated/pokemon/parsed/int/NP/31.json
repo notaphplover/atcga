@@ -1,0 +1,54 @@
+{
+  "abilityEffect": "As long as you have Articuno ex and Zapdos ex in play, the Retreat Cost for Moltres ex is 0.",
+  "abilityName": "Synchronized Lift",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "You may move a [R] Energy card attached to Moltres ex to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Flame Gift"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "90",
+      "effect": {
+        "en": "Discard all [R] Energy attached to Moltres ex."
+      },
+      "name": {
+        "en": "Scorching Wing"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 100,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/np/31_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/np/31.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/np/31.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Moltres ex"
+  },
+  "number": "31",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityEffect": "Whenever you attach a [R] Energy from your hand to Arcanine ex, remove 1 damage counter and all Special Conditions from Arcanine ex.",
+  "abilityName": "Fire Remedy",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "30",
+      "effect": {
+        "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Overrun"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "100",
+      "effect": {
+        "en": "Discard 2 [R] Energy or 1 React Energy card attached to Arcanine ex."
+      },
+      "name": {
+        "en": "Flame Swirl"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 120,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex12/83_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex12/83.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex12/83.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Arcanine ex"
+  },
+  "number": "83",
+  "rarity": "ur",
+  "resistance": [],
+  "retreat": 2,
+  "set": "LM",
+  "stage": "stage1",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

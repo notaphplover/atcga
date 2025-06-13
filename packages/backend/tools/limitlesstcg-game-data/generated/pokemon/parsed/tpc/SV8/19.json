@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンは、相手のポケモンが使うワザの効果を受けない。",
+  "abilityName": "てんねん",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "60+",
+      "effect": {
+        "jp": "おたがいのベンチポケモンの数×20ダメージ追加。"
+      },
+      "name": {
+        "jp": "フレアリサイタル"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 180,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_19_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_19_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_19_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ラウドボーン"
+  },
+  "number": "19",
+  "rarity": "r",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 3,
+  "set": "SV8",
+  "stage": "stage2",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

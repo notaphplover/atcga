@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "m",
+      "dmg": "20",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Magnitude"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+      },
+      "name": {
+        "en": "One-Two Strike"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/37_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/37.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/37.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Lairon"
+  },
+  "number": "37",
+  "rarity": "u",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 2,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

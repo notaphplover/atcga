@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Ram"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Sting"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl1/103_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl1/103.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl1/103.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Wurmple"
+  },
+  "number": "103",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "PL",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "mc",
+      "dmg": "40",
+      "effect": {
+        "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. If you do, this attack does 40 damage to the new Defending Pokémon."
+      },
+      "name": {
+        "en": "Metal Reversal"
+      }
+    },
+    {
+      "cost": "mmcc",
+      "dmg": "50+",
+      "effect": {
+        "en": "During your next turn, Extra Comet Punch does 50 damage plus 50 more damage."
+      },
+      "name": {
+        "en": "Extra Comet Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 150,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/95_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/95.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/95.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Metagross ex"
+  },
+  "number": "95",
+  "rarity": "ur",
+  "resistance": [
+    "grass"
+  ],
+  "retreat": 4,
+  "set": "HL",
+  "stage": "stage2",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fighting",
+    "fire"
+  ]
+}

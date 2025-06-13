@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "cc",
+      "dmg": "20×",
+      "effect": {
+        "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      },
+      "name": {
+        "en": "Fury Swipes"
+      }
+    },
+    {
+      "cost": "ccc",
+      "dmg": "20+",
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each damage counter on Vigoroth."
+      },
+      "name": {
+        "en": "Rage"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/47_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/47.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/47.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Vigoroth"
+  },
+  "number": "47",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

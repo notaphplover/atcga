@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンのHPがまんたんの状態で、このポケモンがワザのダメージを受けてきぜつするとき、きぜつせず、残りHPが「10」の状態で場に残る。",
+  "abilityName": "がんばりハート",
+  "attacks": [
+    {
+      "cost": "glm",
+      "dmg": "300",
+      "effect": {
+        "jp": "このポケモンについているエネルギーを3個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "トパーズボルト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 200,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_122_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_122_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV8/SV8_122_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ピカチュウex"
+  },
+  "number": "122",
+  "rarity": "sr",
+  "regulation": "h",
+  "resistance": [],
+  "retreat": 1,
+  "set": "SV8",
+  "stage": "basic",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

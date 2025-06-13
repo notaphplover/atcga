@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "jp": "かいてんアタック"
+      }
+    },
+    {
+      "cost": "mcc",
+      "dmg": "30×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x30ダメージ。"
+      },
+      "name": {
+        "jp": "ギアソーサー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKc/BKc_4_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKc/BKc_4_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BKc/BKc_4_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ギアル"
+  },
+  "number": "4",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "BKc",
+  "stage": "basic",
+  "type": [
+    "metal"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

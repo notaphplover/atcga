@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "20",
+      "effect": {
+        "jp": "相手のバトルポケモンをやけどにする。"
+      },
+      "name": {
+        "jp": "ほのおのキバ"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "80+",
+      "effect": {
+        "jp": "おたがいの山札を上から1枚ずつトラッシュし、その中のエネルギーの枚数x60ダメージ追加。"
+      },
+      "name": {
+        "jp": "ふんか"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_22_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_22_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM8/SM8_22_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "エンテイ"
+  },
+  "number": "22",
+  "rarity": "r",
+  "regulation": "b",
+  "resistance": [],
+  "retreat": 2,
+  "set": "SM8",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Transparency",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Nightmare"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/base3/6_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/base3/6.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/base3/6.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Haunter"
+  },
+  "number": "6",
+  "rarity": "hr",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 0,
+  "set": "FO",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": []
+}

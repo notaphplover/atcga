@@ -1,0 +1,94 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "You may draw cards until you have 5 cards in your hand.",
+        "fr": "Vous pouvez piocher des cartes jusqu'à en avoir 5 en main.",
+        "de": "Du kannst so lange Karten ziehen, bis du 5 Karten auf deiner Hand hast.",
+        "it": "Puoi pescare fino ad avere cinque carte in mano.",
+        "pt": "Você pode comprar cartas até ter 5 cartas na sua mão.",
+        "es": "Puedes robar cartas hasta que tengas 5 cartas en tu mano."
+      },
+      "name": {
+        "en": "Return",
+        "fr": "Retour",
+        "de": "Rückkehr",
+        "it": "Ritorno",
+        "pt": "Retorno",
+        "es": "Retribución"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "40",
+      "effect": {
+        "en": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+        "fr": "Soignez ce Pokémon du nombre de dégâts que vous avez infligés au Pokémon Actif de votre adversaire.",
+        "de": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast.",
+        "it": "Cura questo Pokémon da una quantità di danni pari a quelli che hai inflitto al Pokémon attivo del tuo avversario.",
+        "pt": "Cure deste Pokémon a mesma quantidade de dano que você causou ao Pokémon Ativo do seu oponente.",
+        "es": "Cura a este Pokémon la misma cantidad de puntos de daño que hayas infligido al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Giga Drain",
+        "fr": "Giga-Sangsue",
+        "de": "Gigasauger",
+        "it": "Gigassorbimento",
+        "pt": "Gigadreno",
+        "es": "Gigadrenado"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DAA/DAA_005_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Carnivine",
+    "fr": "Vortente",
+    "de": "Venuflibis",
+    "it": "Carnivine",
+    "pt": "Carnivine",
+    "es": "Carnivine"
+  },
+  "number": "5",
+  "rarity": "u",
+  "regulation": "d",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DAA",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

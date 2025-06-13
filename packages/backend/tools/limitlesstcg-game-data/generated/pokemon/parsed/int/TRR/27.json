@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "If Qwilfish is your Active Pokémon and is damaged by an opponent's attack (even if Qwilfish is Knocked Out), flip a coin until you get tails. For each heads, put 1 damage counter on the Attacking Pokémon.",
+  "abilityName": "Spiny",
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+      },
+      "name": {
+        "en": "Stun Poison"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex7/27_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex7/27.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex7/27.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Qwilfish"
+  },
+  "number": "27",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 1,
+  "set": "TRR",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

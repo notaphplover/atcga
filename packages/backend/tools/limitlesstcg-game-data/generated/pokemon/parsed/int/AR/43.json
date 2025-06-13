@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Kick"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "40×",
+      "effect": {
+        "en": "Discard all [L] Energy attached to Luxio. Flip a coin for each Energy card you discarded. This attack does 40 damage times the number of heads."
+      },
+      "name": {
+        "en": "Discharge"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Luxio"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "AR",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

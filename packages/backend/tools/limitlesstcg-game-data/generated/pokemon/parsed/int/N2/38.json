@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Whenever you attach an Energy card to Eevee, flip a coin. If heads, search your deck for a card that evolves from Eevee that is the same type as the Energy card you attached to Eevee. Attach that card to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed.",
+  "abilityName": "Energy Evolution",
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Smash Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/38_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/38.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/38.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Eevee"
+  },
+  "number": "38",
+  "rarity": "u",
+  "resistance": [
+    "psychic"
+  ],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

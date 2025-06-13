@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "As long as you have Volbeat in play, prevent all effects, including damage, done to Illumise by attacks from your opponent's Pokémon that has Dark in its name.",
+  "abilityName": "Beacon Protection",
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon is an Evolved Pokémon, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Strange Rasping"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex11/45_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex11/45.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex11/45.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Illumise"
+  },
+  "number": "45",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "DS",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

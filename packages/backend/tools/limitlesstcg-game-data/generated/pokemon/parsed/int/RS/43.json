@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "During your opponent's turn, if Silcoon would be damaged by an opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 30.",
+  "abilityName": "Hard Cocoon",
+  "attacks": [
+    {
+      "cost": "g",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Gooey Thread"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex1/43_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex1/43.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex1/43.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Silcoon"
+  },
+  "number": "43",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "RS",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

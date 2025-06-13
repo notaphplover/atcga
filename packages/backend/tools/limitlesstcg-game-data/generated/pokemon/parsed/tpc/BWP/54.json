@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "でんこうせっか"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "90",
+      "effect": {
+        "jp": "コインを1回投げウラなら、このポケモンについている[雷]エネルギーをすべてトラッシュする。"
+      },
+      "name": {
+        "jp": "ショックボルト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_54_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_54_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_54_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゼブライカ"
+  },
+  "number": "54",
+  "resistance": [],
+  "retreat": 1,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

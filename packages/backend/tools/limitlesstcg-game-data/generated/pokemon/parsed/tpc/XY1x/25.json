@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "jp": "次の自分の番の終わりまで、このワザを受けたポケモンが持つ特性はなくなる。"
+      },
+      "name": {
+        "jp": "いえき"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "50",
+      "effect": {
+        "jp": "相手のバトルポケモンをどくにする。"
+      },
+      "name": {
+        "jp": "どくづき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY1x/XY1x_25_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY1x/XY1x_25_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/XY1x/XY1x_25_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "アーボック"
+  },
+  "number": "25",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 1,
+  "set": "XY1x",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

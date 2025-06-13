@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "gc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    },
+    {
+      "cost": "ggc",
+      "dmg": "30",
+      "effect": {
+        "en": "During your opponent's next turn, Bayleef can't become Asleep, Confused, Paralyzed, or Poisoned. (All other effects of attacks, Pokémon Powers and Trainer cards still happen.)"
+      },
+      "name": {
+        "en": "Pollen Shield"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo1/28_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo1/28.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo1/28.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Bayleef"
+  },
+  "number": "28",
+  "rarity": "u",
+  "resistance": [],
+  "retreat": 2,
+  "set": "N1",
+  "stage": "stage1",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

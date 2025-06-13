@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gnaw"
+      }
+    },
+    {
+      "cost": "gc",
+      "dmg": "10",
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo4/90_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo4/90.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo4/90.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Venonat"
+  },
+  "number": "90",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N4",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

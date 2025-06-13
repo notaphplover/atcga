@@ -1,0 +1,44 @@
+{
+  "abilityEffect": "このポケモンが使うワザの、[悪]ポケモンへのダメージは「+50」される。",
+  "abilityName": "せいぎのこころ",
+  "attacks": [
+    {
+      "cost": "ffcc",
+      "dmg": "80",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+      },
+      "name": {
+        "jp": "はかいのいちげき"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 130,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_155_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_155_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_155_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "テラキオン"
+  },
+  "number": "155",
+  "resistance": [],
+  "retreat": 4,
+  "set": "BWP",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

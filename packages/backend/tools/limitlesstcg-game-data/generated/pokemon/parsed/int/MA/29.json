@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "If the Defending Pokémon has Team Magma in its name, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Aqua Beam"
+      }
+    },
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "If the Defending Pokémon is Confused, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Chaos Crush"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/29_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/29.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/29.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Manectric"
+  },
+  "number": "29",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Knuckle Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "30-",
+      "effect": {
+        "en": "Does 30 damage minus 10 damage for each damage counter on Machop."
+      },
+      "name": {
+        "en": "Karate Chop"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex5/64_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex5/64.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex5/64.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machop"
+  },
+  "number": "64",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "HL",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

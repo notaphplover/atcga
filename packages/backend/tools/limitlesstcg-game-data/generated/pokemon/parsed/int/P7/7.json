@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {
+        "en": "Search your deck for a [L] Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Attract Current"
+      }
+    },
+    {
+      "cost": "llc",
+      "dmg": "60",
+      "effect": {
+        "en": "Flip a coin. If tails, Flaaffy does 10 damage to itself."
+      },
+      "name": {
+        "en": "Electromagnetic Kick"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pop7/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pop7/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pop7/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Flaaffy"
+  },
+  "number": "7",
+  "rarity": "u",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "P7",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

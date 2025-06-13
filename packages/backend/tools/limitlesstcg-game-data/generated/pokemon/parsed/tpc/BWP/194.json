@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10+",
+      "effect": {
+        "jp": "コインを1回投げオモテなら、20ダメージを追加。"
+      },
+      "name": {
+        "jp": "はねとばす"
+      }
+    },
+    {
+      "cost": "rwc",
+      "dmg": "50",
+      "effect": {},
+      "name": {
+        "jp": "ころがる"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_194_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_194_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/BWP/BWP_194_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "コモルー"
+  },
+  "number": "194",
+  "resistance": [],
+  "retreat": 3,
+  "set": "BWP",
+  "stage": "stage1",
+  "type": [
+    "dragon"
+  ],
+  "weakness": [
+    "dragon"
+  ]
+}

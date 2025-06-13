@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move any number of basic Energy cards attached to 1 of your Pokémon with Team Aqua in its name to another of your Pokémon. This power can't be used if Team Aqua's Manectric is affected by a Special Condition.",
+  "abilityName": "Power Shift",
+  "attacks": [
+    {
+      "cost": "lcc",
+      "dmg": "50",
+      "effect": {
+        "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's) that has Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Thunderspark"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex4/4_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex4/4.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex4/4.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Team Aqua's Manectric"
+  },
+  "number": "4",
+  "rarity": "hr",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 1,
+  "set": "MA",
+  "stage": "stage1",
+  "type": [
+    "lightning",
+    "darkness"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

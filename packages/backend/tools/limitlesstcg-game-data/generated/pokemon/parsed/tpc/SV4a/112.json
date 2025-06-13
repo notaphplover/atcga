@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "自分の番の終わりに、このポケモンがバトル場にいるなら、必ず1回使う。自分の山札を上から5枚トラッシュする。",
+  "abilityName": "ゆさぶりくずす",
+  "attacks": [
+    {
+      "cost": "fccc",
+      "dmg": "260",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "グレートバッシュ"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 250,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_112_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_112_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SV4a/SV4a_112_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "イダイナキバex"
+  },
+  "number": "112",
+  "rarity": "rr",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 4,
+  "set": "SV4a",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

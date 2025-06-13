@@ -1,0 +1,46 @@
+{
+  "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札から「ポケモンのどうぐ」を出してつけられない。",
+  "abilityName": "じゅばくのかげろう",
+  "attacks": [
+    {
+      "cost": "rc",
+      "dmg": "70×",
+      "effect": {
+        "jp": "相手の手札を見て、その中にあるトレーナーズの枚数×70ダメージ。"
+      },
+      "name": {
+        "jp": "ダイポルターガイスト"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_15_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_15_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8/S8_15_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "シャンデラVMAX"
+  },
+  "number": "15",
+  "rarity": "rrr",
+  "regulation": "e",
+  "resistance": [],
+  "retreat": 2,
+  "set": "S8",
+  "stage": "vmax",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "dc",
+      "dmg": "30",
+      "effect": {},
+      "name": {
+        "jp": "かぜおこし"
+      }
+    },
+    {
+      "cost": "dccc",
+      "dmg": "80×",
+      "effect": {
+        "jp": "コインを2回投げ、オモテの数x80ダメージ。"
+      },
+      "name": {
+        "jp": "デュアルカッター"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/KLD/KLD_6_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/KLD/KLD_6_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/KLD/KLD_6_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "バルジーナ"
+  },
+  "number": "6",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "KLD",
+  "stage": "stage1",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

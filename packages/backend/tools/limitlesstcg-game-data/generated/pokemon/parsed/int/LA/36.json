@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may use this power. Discard 2 cards from your hand and choose 1 of your opponent's Active Pokémon that isn't an Evolved Pokémon. Then, your opponent switches that Pokémon with 1 of his or her Benched Pokémon. This power can't be used if Regice is affected by a Special Condition.",
+  "abilityName": "Regi Move",
+  "attacks": [
+    {
+      "cost": "wwc",
+      "dmg": "50",
+      "effect": {
+        "en": "If Regice was damaged by an attack during your opponent's last turn, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Ice Reflect"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/dp6/36_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/dp6/36.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/dp6/36.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Regice"
+  },
+  "number": "36",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 3,
+  "set": "LA",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "60",
+      "effect": {
+        "jp": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+      },
+      "name": {
+        "jp": "ひきさく"
+      }
+    },
+    {
+      "cost": "pp",
+      "dmg": "130",
+      "effect": {
+        "jp": "ダメカン5個を、相手のベンチポケモンに好きなようにのせる。"
+      },
+      "name": {
+        "jp": "ダイファントム"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 320,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_50_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_50_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S2/S2_50_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ドラパルトVMAX"
+  },
+  "number": "50",
+  "regulation": "d",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "S2",
+  "stage": "vmax",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

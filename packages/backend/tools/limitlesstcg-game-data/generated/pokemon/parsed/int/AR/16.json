@@ -1,0 +1,47 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another of your opponent's Pokémon. This power can't be used if Gengar is affected by a Special Condition.",
+  "abilityName": "Curse",
+  "attacks": [
+    {
+      "cost": "ppc",
+      "dmg": "60",
+      "effect": {
+        "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) You may switch Gengar with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Shadow Skip"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/pl4/16_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/pl4/16.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/pl4/16.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Gengar"
+  },
+  "number": "16",
+  "rarity": "r",
+  "resistance": [
+    "colorless"
+  ],
+  "retreat": 0,
+  "set": "AR",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

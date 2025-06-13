@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "p",
+      "dmg": "30×",
+      "effect": {
+        "en": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+        "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+        "de": "Wirf 2 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.",
+        "it": "Lancia due volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+        "es": "Lanza 2 monedas. Este ataque hace 30 puntos de daño por cada cara."
+      },
+      "name": {
+        "en": "Dizzy Punch",
+        "fr": "Uppercut",
+        "de": "Irrschlag",
+        "it": "Stordipugno",
+        "es": "Puño Mareo"
+      }
+    },
+    {
+      "cost": "pcc",
+      "dmg": "60",
+      "effect": {
+        "en": "The Defending Pokémon is now Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Confus.",
+        "de": "Das Verteidigende Pokémon ist jetzt verwirrt.",
+        "it": "Il Pokémon difensore viene confuso.",
+        "es": "El Pokémon Defensor pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Mind Bend",
+        "fr": "Contrôleur d'Esprit",
+        "de": "Gedankenverbiegung",
+        "it": "Fusione Mentale",
+        "es": "Fusión Mental"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 90,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/NVI/NVI_053_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Reuniclus",
+    "fr": "Symbios",
+    "de": "Zytomega",
+    "it": "Reuniclus",
+    "pt": "Reuniclus",
+    "es": "Reuniclus"
+  },
+  "number": "53",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "NVI",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}

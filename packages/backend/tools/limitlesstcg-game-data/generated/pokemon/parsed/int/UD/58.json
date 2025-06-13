@@ -1,0 +1,71 @@
+{
+  "attacks": [
+    {
+      "cost": "d",
+      "dmg": "10",
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking. Look at that card you chose, then have your opponent shuffle that card into his or her deck.",
+        "fr": "Lancez une pièce. Si c'est face, choisissez au hasard une carte dans la main de votre adversaire. Regardez la carte que vous avez choisie, puis demandez à votre adversaire de la mélanger avec son deck.",
+        "de": "Wirf eine Münze. Wähle bei „Kopf“ 1 Karte von der Hand deines Gegners (ohne sie vorher anzusehen). Sieh dir die gewählte Karte an und gib sie deinem Gegner. Er mischt die Karte zurück in sein Deck.",
+        "it": "Lancia una moneta. Se esce testa, scegli senza guardare 1 delle carte che il tuo avversario ha in mano. Guarda la carta che hai scelto, e falla rimischiare al tuo avversario nel suo mazzo."
+      },
+      "name": {
+        "en": "Astonish",
+        "fr": "Étonnement",
+        "de": "Erstauner",
+        "it": "Sgomento"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UD/UD_058_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Murkrow",
+    "fr": "Cornebre",
+    "de": "Kramurx",
+    "it": "Murkrow",
+    "pt": "Murkrow",
+    "es": "Murkrow"
+  },
+  "number": "58",
+  "rarity": "c",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "UD",
+  "stage": "basic",
+  "type": [
+    "darkness"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

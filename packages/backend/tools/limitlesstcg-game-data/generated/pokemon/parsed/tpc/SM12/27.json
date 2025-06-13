@@ -1,0 +1,48 @@
+{
+  "abilityEffect": "自分の番に何回でも使える。相手の山札を上から1枚見て、もとにもどす。",
+  "abilityName": "ちらちらライト",
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "50",
+      "effect": {
+        "jp": "のぞむなら、相手に相手自身の山札を切らせる。"
+      },
+      "name": {
+        "jp": "かくはんりゅう"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 110,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12/SM12_27_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12/SM12_27_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM12/SM12_27_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ランターン"
+  },
+  "number": "27",
+  "rarity": "u",
+  "regulation": "c",
+  "resistance": [
+    "metal"
+  ],
+  "retreat": 2,
+  "set": "SM12",
+  "stage": "stage1",
+  "type": [
+    "lightning"
+  ],
+  "weakness": [
+    "fighting"
+  ]
+}

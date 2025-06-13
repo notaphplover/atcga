@@ -1,0 +1,45 @@
+{
+  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card named Kabuto and put it on your Bench. Shuffle your deck afterward. Treat the new Kabuto as a Basic Pokémon. This power can't be used if Kabuto is Asleep, Confused, or Paralyzed (or if your Bench is full).",
+  "abilityName": "Revive Friends",
+  "attacks": [
+    {
+      "cost": "fc",
+      "dmg": "10+",
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage for each Omanyte, Omastar, Kabuto, and Kabutops on your Bench."
+      },
+      "name": {
+        "en": "Work Together"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/neo2/56_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/neo2/56.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/neo2/56.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Kabuto"
+  },
+  "number": "56",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "N2",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

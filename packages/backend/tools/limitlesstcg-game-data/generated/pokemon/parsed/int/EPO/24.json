@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10×",
+      "effect": {
+        "en": "Does 10 damage times the number of damage counters on this Pokémon.",
+        "fr": "Inflige 10 dégâts multipliés par le nombre de marqueurs de dégâts placés sur ce Pokémon.",
+        "de": "Dieser Angriff fügt 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+        "it": "Infligge 10 danni per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Hace 10 puntos de daño por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Flail",
+        "fr": "Fléau",
+        "de": "Dreschflegel",
+        "it": "Flagello",
+        "es": "Azote"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "80",
+      "effect": {
+        "en": "Flip 2 coins. If both of them are tails, this Pokémon does 80 damage to itself.",
+        "fr": "Lancez 2 pièces. Si vous obtenez 2 côtés pile, ce Pokémon s'inflige 80 dégâts.",
+        "de": "Wirf 2 Münzen. Zeigen beide „Zahl“, fügt sich dieses Pokémon selbst 80 Schadenspunkte zu.",
+        "it": "Lancia due volte una moneta. Se esce entrambe le volte croce, questo Pokémon infligge 80 danni a se stesso.",
+        "es": "Lanza 2 monedas. Si ambas son cruz, este Pokémon se hace 80 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Final Gambit",
+        "fr": "Tout ou Rien",
+        "de": "Wagemut",
+        "it": "Azzardo",
+        "es": "Sacrificio"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 80,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EPO/EPO_024_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Basculin",
+    "fr": "Bargantua",
+    "de": "Barschuft",
+    "it": "Basculin",
+    "pt": "Basculin",
+    "es": "Basculin"
+  },
+  "number": "24",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "EPO",
+  "stage": "basic",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

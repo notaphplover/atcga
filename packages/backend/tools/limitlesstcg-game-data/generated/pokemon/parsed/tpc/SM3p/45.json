@@ -1,0 +1,54 @@
+{
+  "attacks": [
+    {
+      "cost": "pcc",
+      "dmg": "10+",
+      "effect": {
+        "jp": "コインを3回投げ、オモテの数x60ダメージ追加。"
+      },
+      "name": {
+        "jp": "トリプルスマッシュ"
+      }
+    },
+    {
+      "cost": "pccc",
+      "dmg": "120",
+      "effect": {},
+      "name": {
+        "jp": "ゴルーグハンマー"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3p/SM3p_45_R_JP.png"
+    },
+    "sm": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3p/SM3p_45_R_JP_SM.png"
+    },
+    "xs": {
+      "jp": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SM3p/SM3p_45_R_JP_XS.png"
+    }
+  },
+  "language": "jp",
+  "name": {
+    "jp": "ゴルーグ"
+  },
+  "number": "45",
+  "rarity": "u",
+  "regulation": "a",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 4,
+  "set": "SM3p",
+  "stage": "stage1",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "darkness"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "10",
+      "effect": {},
+      "name": {
+        "en": "Gnaw"
+      }
+    },
+    {
+      "cost": "gg",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Ledyba."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 40,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/si1/7_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/si1/7.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/si1/7.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Ledyba"
+  },
+  "number": "7",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 1,
+  "set": "SI",
+  "stage": "basic",
+  "type": [
+    "grass"
+  ],
+  "weakness": [
+    "fire"
+  ]
+}

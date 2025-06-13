@@ -1,0 +1,76 @@
+{
+  "abilityEffect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 3 cards.",
+  "abilityName": "Gather Materials",
+  "attacks": [
+    {
+      "cost": "pc",
+      "dmg": "90+",
+      "effect": {
+        "en": "If this Pokémon has any Special Energy attached, this attack does 90 more damage.",
+        "fr": "Si au moins une Énergie spéciale est attachée à ce Pokémon, cette attaque inflige 90 dégâts supplémentaires.",
+        "de": "Wenn an dieses Pokémon mindestens 1 Spezial-Energie angelegt ist, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+        "it": "Se questo Pokémon ha delle Energie speciali assegnate, questo attacco infligge 90 danni in più.",
+        "pt": "Se este Pokémon tiver alguma Energia Especial ligada a ele, este ataque causará 90 pontos de dano a mais.",
+        "es": "Si este Pokémon tiene alguna Energía Especial unida, este ataque hace 90 puntos de daño más."
+      },
+      "name": {
+        "en": "Special Hammer",
+        "fr": "Marteau Spécial",
+        "de": "Spezieller Hammer",
+        "it": "Martello Speciale",
+        "pt": "Martelo Especial",
+        "es": "Martillo Especial"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PAL/PAL_105_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tinkaton",
+    "fr": "Forgelina",
+    "de": "Granforgita",
+    "it": "Tinkaton",
+    "pt": "Tinkaton",
+    "es": "Tinkaton"
+  },
+  "number": "105",
+  "rarity": "r",
+  "regulation": "g",
+  "resistance": [],
+  "retreat": 2,
+  "set": "PAL",
+  "stage": "stage2",
+  "type": [
+    "psychic"
+  ],
+  "weakness": [
+    "metal"
+  ]
+}

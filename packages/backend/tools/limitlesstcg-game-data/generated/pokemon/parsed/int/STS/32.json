@@ -1,0 +1,89 @@
+{
+  "attacks": [
+    {
+      "cost": "wc",
+      "dmg": "40",
+      "effect": {
+        "en": "If the damage from this attack reduces your opponent's Active Pokémon's HP to 60 or less, that Pokémon is Knocked Out.",
+        "fr": "Si les dégâts de cette attaque réduisent les PV du Pokémon Actif de votre adversaire à 60 ou moins, ce dernier est mis K.O.",
+        "de": "Wenn der Schaden dieses Angriffs die KP des Aktiven Pokémon deines Gegners auf 60 oder weniger reduziert, wird jenes Pokémon kampfunfähig.",
+        "it": "Se i danni di questo attacco riducono i PS del Pokémon attivo del tuo avversario a 60 o meno, quel Pokémon viene messo KO.",
+        "es": "Si el daño de este ataque reduce los PS del Pokémon Activo de tu rival a 60 o menos, ese Pokémon queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Ultimate Blade",
+        "fr": "Ultime Lame",
+        "de": "Vollendete Klinge",
+        "it": "Lamafinale",
+        "es": "Tajo Definitivo"
+      }
+    },
+    {
+      "cost": "wwc",
+      "dmg": "90",
+      "effect": {
+        "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 30 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 30 danni a uno dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 30 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Pike",
+        "fr": "Javelot",
+        "de": "Langspieß",
+        "it": "Picca",
+        "es": "Lanza"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 140,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/STS/STS_032_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Samurott",
+    "fr": "Clamiral",
+    "de": "Admurai",
+    "it": "Samurott",
+    "pt": "Samurott",
+    "es": "Samurott"
+  },
+  "number": "32",
+  "rarity": "r",
+  "resistance": [],
+  "retreat": 2,
+  "set": "STS",
+  "stage": "stage2",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "grass"
+  ]
+}

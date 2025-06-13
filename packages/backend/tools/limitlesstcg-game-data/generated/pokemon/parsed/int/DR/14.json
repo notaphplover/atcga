@@ -1,0 +1,56 @@
+{
+  "attacks": [
+    {
+      "cost": "lc",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Dazzle Blast"
+      }
+    },
+    {
+      "cost": "wcc",
+      "dmg": "30",
+      "effect": {
+        "en": "Remove 1 damage counter from each of your Active Pokémon."
+      },
+      "name": {
+        "en": "Healing Wave"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ex3/14_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ex3/14.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ex3/14.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Dragonair"
+  },
+  "number": "14",
+  "rarity": "r",
+  "resistance": [
+    "grass",
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "DR",
+  "stage": "stage1",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "colorless"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "attacks": [
+    {
+      "cost": "r",
+      "dmg": "10+",
+      "effect": {
+        "en": "When you use this attack, you may discard any number of [R] Energy cards attached to your Pokémon in play. This attack does 10 damage plus 10 more damage for each [R] Energy card you discarded in this way."
+      },
+      "name": {
+        "en": "Burning Fire"
+      }
+    },
+    {
+      "cost": "rrc",
+      "dmg": "40",
+      "effect": {},
+      "name": {
+        "en": "Magma Punch"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 60,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/basep/44_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/basep/44.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/basep/44.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Magmar"
+  },
+  "number": "44",
+  "resistance": [],
+  "retreat": 2,
+  "set": "WP",
+  "stage": "basic",
+  "type": [
+    "fire"
+  ],
+  "weakness": [
+    "water"
+  ]
+}

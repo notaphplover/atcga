@@ -1,0 +1,51 @@
+{
+  "attacks": [
+    {
+      "cost": "w",
+      "dmg": "20",
+      "effect": {},
+      "name": {
+        "en": "Tail Snap"
+      }
+    },
+    {
+      "cost": "www",
+      "dmg": "30+",
+      "effect": {
+        "en": "Flip 2 coins. If both of them are heads, this attack does 30 damage plus 60 more damage. If 1 or both of them are tails, this attack does 30 damage."
+      },
+      "name": {
+        "en": "Knockout Needle"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 70,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/gym1/9_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/gym1/9.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/gym1/9.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Misty's Seadra"
+  },
+  "number": "9",
+  "rarity": "hr",
+  "resistance": [],
+  "retreat": 1,
+  "set": "G1",
+  "stage": "stage1",
+  "type": [
+    "water"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

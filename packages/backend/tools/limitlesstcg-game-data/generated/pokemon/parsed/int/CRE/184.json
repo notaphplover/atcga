@@ -1,0 +1,96 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20+",
+      "effect": {
+        "en": "If a Stadium is in play, this attack does 20 more damage.",
+        "fr": "Si un Stade est en jeu, cette attaque inflige 20 dégâts supplémentaires.",
+        "de": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke 20 Schadenspunkte mehr zu.",
+        "it": "Se c'è in gioco una carta Stadio, questo attacco infligge 20 danni in più.",
+        "pt": "Se um Estádio estiver em jogo, este ataque causará 20 pontos de dano a mais.",
+        "es": "Si hay un Estadio en juego, este ataque hace 20 puntos de daño más."
+      },
+      "name": {
+        "en": "Blow Through",
+        "fr": "Grosse Bourrasque",
+        "de": "Durchdringender Strahl",
+        "it": "Colposecco",
+        "pt": "Sopro Intenso",
+        "es": "Gran Torbellino"
+      }
+    },
+    {
+      "cost": "cccc",
+      "dmg": "180",
+      "effect": {
+        "en": "Discard an Energy from this Pokémon.",
+        "fr": "Défaussez une Énergie de ce Pokémon.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel.",
+        "it": "Scarta un'Energia da questo Pokémon.",
+        "pt": "Descarte 1 Energia deste Pokémon.",
+        "es": "Descarta 1 Energía de este Pokémon."
+      },
+      "name": {
+        "en": "Blasting Hammer",
+        "fr": "Marteau Impitoyable",
+        "de": "Sprengender Hammer",
+        "it": "Martello Distruttivo",
+        "pt": "Martelada Avassaladora",
+        "es": "Martillo Explosivo"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 210,
+  "imageUrls": {
+    "lg": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_EN.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_FR.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_DE.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_IT.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_PT.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_ES.png"
+    },
+    "sm": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_EN_SM.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_FR_SM.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_DE_SM.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_IT_SM.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_PT_SM.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_ES_SM.png"
+    },
+    "xs": {
+      "en": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_EN_XS.png",
+      "fr": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_FR_XS.png",
+      "de": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_DE_XS.png",
+      "it": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_IT_XS.png",
+      "pt": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_PT_XS.png",
+      "es": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_184_R_ES_XS.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Tornadus V",
+    "fr": "Boréas V",
+    "de": "Boreos V",
+    "it": "Tornadus V",
+    "pt": "Tornadus V",
+    "es": "Tornadus V"
+  },
+  "number": "184",
+  "rarity": "ur",
+  "regulation": "e",
+  "resistance": [
+    "fighting"
+  ],
+  "retreat": 2,
+  "set": "CRE",
+  "stage": "basic",
+  "type": [
+    "colorless"
+  ],
+  "weakness": [
+    "lightning"
+  ]
+}

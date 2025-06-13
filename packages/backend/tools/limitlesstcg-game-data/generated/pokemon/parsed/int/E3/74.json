@@ -1,0 +1,53 @@
+{
+  "attacks": [
+    {
+      "cost": "c",
+      "dmg": "20",
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing."
+      },
+      "name": {
+        "en": "Smash Punch"
+      }
+    },
+    {
+      "cost": "fc",
+      "dmg": "20",
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon.)"
+      },
+      "name": {
+        "en": "Fling"
+      }
+    }
+  ],
+  "cardType": "pokemon",
+  "hp": 50,
+  "imageUrls": {
+    "lg": {
+      "en": "https://images.pokemontcg.io/ecard3/74_hires.png"
+    },
+    "sm": {
+      "en": "https://images.pokemontcg.io/ecard3/74.png"
+    },
+    "xs": {
+      "en": "https://images.pokemontcg.io/ecard3/74.png"
+    }
+  },
+  "language": "en",
+  "name": {
+    "en": "Machop"
+  },
+  "number": "74",
+  "rarity": "c",
+  "resistance": [],
+  "retreat": 1,
+  "set": "E3",
+  "stage": "basic",
+  "type": [
+    "fighting"
+  ],
+  "weakness": [
+    "psychic"
+  ]
+}
