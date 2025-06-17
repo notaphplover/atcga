@@ -3,9 +3,11 @@
   "bugs": {
     "url": "https://github.com/notaphplover/atcga/issues"
   },
-  "description": "atcga backend env package",
+  "description": "atcga backend catalog env package",
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "@atcga/backend-env": "workspace:*",
+    "envalid": "8.0.0",
+    "inversify": "7.5.2"
   },
   "devDependencies": {
     "@types/node": "22.15.3",
@@ -34,7 +36,7 @@
       "require": "./lib/cjs/index.js"
     }
   },
-  "name": "@atcga/backend-env",
+  "name": "@atcga/backend-catalog-env",
   "publishConfig": {
     "access": "public"
   },
