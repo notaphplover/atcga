@@ -1,6 +1,6 @@
-[![Test coverage](https://codecov.io/gh/notaphplover/atcga/branch/main/graph/badge.svg?flag=%40atcga%2Flimitlesstcg-game-importer)](https://codecov.io/gh/notaphplover/atcga/branch/main/graph/badge.svg?flag=%40atcga%2Flimitlesstcg-game-importer)
-[![npm version](https://img.shields.io/github/package-json/v/notaphplover/atcga?filename=packages%2Fbackend%2Ftools%2Flimitlesstcg-game-importer%2Fpackage.json&style=plastic)](https://www.npmjs.com/package/@atcga/limitlesstcg-game-importer)
+[![Test coverage](https://codecov.io/gh/notaphplover/atcga/branch/main/graph/badge.svg?flag=%40atcga%2Fbackend-env)](https://codecov.io/gh/notaphplover/atcga/branch/main/graph/badge.svg?flag=%40atcga%2Fbackend-env)
+[![npm version](https://img.shields.io/github/package-json/v/notaphplover/atcga?filename=packages%2Fbackend%2Flibraries%2Fbackend-env%2Fpackage.json&style=plastic)](https://www.npmjs.com/package/@atcga/backend-env)
 
-# @atcga/limitlesstcg-game-importer
+# @atcga/backend-env
 
-atcga limitlesstcg game importer modules.
+atcga backend env library.
