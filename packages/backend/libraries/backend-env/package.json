@@ -48,7 +48,6 @@
     "build:esm": "rollup -c ./rollup.config.mjs && pnpm exec foundation-ts-package-esm ./lib/esm",
     "build:clean": "rimraf lib",
     "format": "prettier --write ./src",
-    "generate:pokemon": "node ./lib/cjs/scripts/generatePokemonCardJsonFiles.js",
     "lint": "eslint ./src",
     "prebuild": "pnpm run build:clean",
     "test": "vitest run",
