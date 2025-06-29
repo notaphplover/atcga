@@ -19,14 +19,14 @@ export interface BaseTcgPokemonParsedCard<TType extends TcgPokemonCardType> {
   language: string;
   name: I18nString;
   number: string;
-  rarity: TcgPokemonRarity | undefined;
-  regulation: string | undefined;
+  rarity?: TcgPokemonRarity | undefined;
+  regulation?: string | undefined;
   set: string;
 }
 
 export interface TcgPokemonParsedPokemonCardAttack {
-  cost: string | undefined;
-  dmg: string | undefined;
+  cost?: string | undefined;
+  dmg?: string | undefined;
   effect: I18nString;
   name: I18nString;
 }
@@ -39,15 +39,15 @@ export interface TcgPokemonParsedEnergyCard
 
 export interface TcgPokemonParsedPokemonCard
   extends BaseTcgPokemonParsedCard<TcgPokemonCardType.pokemon> {
-  abilityName: string | undefined;
-  abilityEffect: string | undefined;
+  abilityName?: string | undefined;
+  abilityEffect?: string | undefined;
   attacks: TcgPokemonParsedPokemonCardAttack[];
   hp: number;
   resistance: TcgPokemonType[];
-  retreat: number | undefined;
-  stage: TcgPokemonStage | undefined;
-  traitName: string | undefined;
-  traitEffect: string | undefined;
+  retreat?: number | undefined;
+  stage?: TcgPokemonStage | undefined;
+  traitName?: string | undefined;
+  traitEffect?: string | undefined;
   type: TcgPokemonType[];
   weakness: TcgPokemonType[];
 }
