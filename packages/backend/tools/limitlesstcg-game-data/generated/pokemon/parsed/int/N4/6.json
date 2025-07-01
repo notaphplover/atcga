@@ -3,7 +3,11 @@
   "abilityName": "Deep Sleep",
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If your opponent has any Benched Pokémon, you may choose 1 of them and switch it with the Defending Pokémon (before doing damage or other effects of this attack). Either way, the Defending Pokémon is now Asleep."

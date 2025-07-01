@@ -3,7 +3,10 @@
   "abilityName": "Form Change",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your next turn, Deoxys's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."

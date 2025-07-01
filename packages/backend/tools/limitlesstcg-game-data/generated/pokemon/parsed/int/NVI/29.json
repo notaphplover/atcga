@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads. If either of them is heads, the Defending Pokémon is now Paralyzed.",
@@ -19,7 +22,10 @@
       }
     },
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

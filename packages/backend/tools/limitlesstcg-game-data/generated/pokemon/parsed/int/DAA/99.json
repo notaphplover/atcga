@@ -3,7 +3,11 @@
   "abilityName": "Rapid-Fire Poison",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

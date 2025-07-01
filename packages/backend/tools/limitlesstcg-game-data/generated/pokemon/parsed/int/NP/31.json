@@ -3,7 +3,9 @@
   "abilityName": "Synchronized Lift",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "You may move a [R] Energy card attached to Moltres ex to 1 of your Pokémon."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard all [R] Energy attached to Moltres ex."

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -14,7 +18,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Flip 2 coins. If both of them are heads, this attack does 100 more damage.",

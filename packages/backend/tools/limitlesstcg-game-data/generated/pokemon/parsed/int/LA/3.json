@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Discard a [P] Energy attached to Froslass. During your opponent's next turn, if Froslass would be Knocked Out by damage from an attack, the Attacking Pokémon is Knocked Out."
+      },
+      "name": {
+        "en": "Destiny Bond"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Asleep. Put 1 damage counter on each of your opponent's Benched Pokémon."

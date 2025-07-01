@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
       },
       "name": {
         "en": "Quick Attack"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Mach Blade"
       }
     }
   ],

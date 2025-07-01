@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire dévoile sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano."
+      },
+      "name": {
+        "en": "Curiosity",
+        "fr": "Curiosité",
+        "de": "Neugier",
+        "it": "Curiosità"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 10 damage to itself.",

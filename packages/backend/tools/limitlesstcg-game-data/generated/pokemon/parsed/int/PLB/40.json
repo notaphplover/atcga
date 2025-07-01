@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Draw 3 cards. This Pokémon is now Asleep.",
+        "fr": "Piochez 3 cartes. Ce Pokémon est maintenant Endormi.",
+        "de": "Ziehe 3 Karten. Dieses Pokémon schläft jetzt."
+      },
+      "name": {
+        "en": "Precognitive Dream",
+        "fr": "Rêve Prémonitoire",
+        "de": "Visionärer Traum"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon is now Confused.",

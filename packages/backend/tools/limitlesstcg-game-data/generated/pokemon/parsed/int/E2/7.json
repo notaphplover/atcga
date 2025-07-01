@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads."

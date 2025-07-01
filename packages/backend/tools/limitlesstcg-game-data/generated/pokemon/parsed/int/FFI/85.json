@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals his or her hand. Choose an Item card you find there. Your opponent shuffles that card into his or her deck.",
+        "fr": "Votre adversaire montre sa main. Choisissez une carte Objet que vous y trouvez. Votre adversaire mélange la carte choisie avec son deck.",
+        "de": "Dein Gegner deckt seine Handkarten auf. Wähle 1 Itemkarte aus, die du darunter findest. Dein Gegner mischt diese Karte zurück in sein Deck.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scegli una carta Strumento presente tra quelle carte. Il tuo avversario rimischia quella carta nel suo mazzo.",
+        "es": "Tu rival enseña las cartas de su mano. Elige 1 carta de Objeto que encuentres entre ellas. Tu rival pone esa carta en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Held-Item Inspection",
+        "fr": "Inspection des Bagages",
+        "de": "Itemkontrolle",
+        "it": "Ispezione Strumenti",
+        "es": "Inspección de Objetos"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip 2 coins. For each heads, discard an Energy attached to your opponent's Active Pokémon.",

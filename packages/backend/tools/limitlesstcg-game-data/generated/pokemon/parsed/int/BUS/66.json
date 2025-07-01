@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

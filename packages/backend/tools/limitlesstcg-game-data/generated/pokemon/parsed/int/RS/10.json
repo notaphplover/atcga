@@ -3,7 +3,11 @@
   "abilityName": "Intimidating Fang",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it."

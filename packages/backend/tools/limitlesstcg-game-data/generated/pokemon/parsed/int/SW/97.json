@@ -1,5 +1,28 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Collect"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. If either of them is heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Skin"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

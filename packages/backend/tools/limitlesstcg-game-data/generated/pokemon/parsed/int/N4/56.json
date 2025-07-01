@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon attacks during your opponent's next turn, any damage it does is reduced by 10 (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Charm"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Togepi does 10 damage to itself."

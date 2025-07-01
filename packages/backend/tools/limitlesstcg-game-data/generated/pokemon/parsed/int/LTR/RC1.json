@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a [G] Energy card from your hand to this Pokémon."
+      },
+      "name": {
+        "en": "Growth"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

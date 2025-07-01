@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Teddiursa from your discard pile onto your Bench. Then, attach an Energy card from your discard pile to that Pokémon."
+      },
+      "name": {
+        "en": "Picnic Weather"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 3 coins. This attack does 50 damage times the number of heads."

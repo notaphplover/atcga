@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may move any amount of [M] Energy from your Pokémon to your other Pokémon in any way you like.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Flip 4 coins. This attack does 80 damage for each heads.",

@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than [C]."
+      },
+      "name": {
+        "en": "Conversion 1"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Change Porygon's Resistance to a type of your choice other than [C]."
+      },
+      "name": {
+        "en": "Conversion 2"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

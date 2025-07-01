@@ -3,7 +3,21 @@
   "abilityName": "Uplifting Glow",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Toxic Vibration"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage."

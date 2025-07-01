@@ -3,7 +3,11 @@
   "abilityName": "Intimidating Mane",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may discard a [R] Energy attached to this Pokémon. If you do, this attack does 30 more damage.",

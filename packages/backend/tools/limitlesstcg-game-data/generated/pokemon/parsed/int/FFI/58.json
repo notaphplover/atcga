@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

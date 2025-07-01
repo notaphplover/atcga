@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched [L] Pokémon.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "240",
       "effect": {},
       "name": {

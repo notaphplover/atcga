@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez un Minidraco, un Draco et un Dracolosse dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Dratini, 1 Dragonir und 1 Dragoran, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Dratini, un Dragonair e un Dragonite, mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 Dratini, 1 Dragonair y 1 Dragonite, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Signs of Evolution",
+        "fr": "Signes d'Évolution",
+        "de": "Spuren der Evolution",
+        "it": "Evolvisegni",
+        "es": "Indicios de Evolución"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Dusty Defense",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 120 more damage. Then, discard that Stadium card.",
@@ -21,7 +25,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "220",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",

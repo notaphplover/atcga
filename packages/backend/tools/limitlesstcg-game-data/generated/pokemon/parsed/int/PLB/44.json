@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance).",
@@ -15,7 +17,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",

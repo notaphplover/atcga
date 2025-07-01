@@ -1,5 +1,31 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. If either of them is heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Mislead"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all [R] Energy cards attached to Ninetales. This attack does 30 damage plus 20 more damage for each card discarded this way."
+      },
+      "name": {
+        "en": "Ethereal Flame"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

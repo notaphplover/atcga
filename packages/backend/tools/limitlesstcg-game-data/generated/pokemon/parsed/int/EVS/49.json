@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Attach a [L] Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie [L] de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 1 [L]-Energiekarte aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia [L] dalla tua pila degli scarti.",
+        "pt": "Ligue 1 carta de Energia [L] da sua pilha de descarte a este Pokémon.",
+        "es": "Une 1 carta de Energía [L] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Energize",
+        "fr": "Énergisant",
+        "de": "Energiezufuhr",
+        "it": "Energizza",
+        "pt": "Energizar",
+        "es": "Vigorizar"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

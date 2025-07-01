@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it.",
+        "fr": "Placez 2 marqueurs de dégâts sur chacun des Pokémon de votre adversaire ayant au moins un marqueur de dégâts.",
+        "de": "Lege 2 Schadensmarken auf jedes Pokémon deines Gegners, auf dem mindestens 1 Schadensmarke liegt.",
+        "it": "Metti due segnalini danno su ciascuno dei Pokémon del tuo avversario che ha dei segnalini danno.",
+        "pt": "Coloque 2 contadores de dano em cada um dos Pokémon do seu oponente que tem algum contador de dano nele.",
+        "es": "Pon 2 contadores de daño en cada uno de los Pokémon de tu rival que tenga algún contador de daño sobre él."
+      },
+      "name": {
+        "en": "Corrosive Winds",
+        "fr": "Vents Corrosifs",
+        "de": "Korrosionswinde",
+        "it": "Venti Corrosivi",
+        "pt": "Ventos Corrosivos",
+        "es": "Vientos Corrosivos"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",

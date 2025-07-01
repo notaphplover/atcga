@@ -3,7 +3,12 @@
   "abilityName": "Burning Energy",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Flip 2 coins. If 1 of them is tails, discard 2 Energy cards attached to Charizard. If both are tails, discard all Energy cards attached to Charizard."

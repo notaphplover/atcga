@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Discard a [P] Energy attached to Alakazam E4 and remove 4 damage counters from Alakazam E4."
+      },
+      "name": {
+        "en": "Recover"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."

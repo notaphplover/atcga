@@ -3,7 +3,10 @@
   "abilityName": "Intimidating Ring",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."

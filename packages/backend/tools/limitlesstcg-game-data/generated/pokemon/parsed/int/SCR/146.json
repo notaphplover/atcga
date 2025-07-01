@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned. During your opponent's next turn, that Pokémon can't retreat.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon also does 60 damage to itself.",

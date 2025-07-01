@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnosis"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

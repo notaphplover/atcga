@@ -3,7 +3,9 @@
   "abilityName": "Explosiveness",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Choose 3 of your opponent's Pokémon. This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Triple Breach"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, this attack does 30 damage plus 20 more damage."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If your opponent has any TAG TEAM Pokémon in play, this attack does 70 more damage.",

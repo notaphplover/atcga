@@ -3,7 +3,10 @@
   "abilityName": "Subjugating Chains",
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "This attack does 60 damage for each Prize card your opponent has taken.",

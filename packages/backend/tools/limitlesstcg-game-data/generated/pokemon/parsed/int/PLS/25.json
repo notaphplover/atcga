@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "If this Pokémon has any Plasma Energy attached to it, the Defending Pokémon is now Paralyzed.",

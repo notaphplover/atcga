@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -14,7 +16,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

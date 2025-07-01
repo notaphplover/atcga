@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Spheal during your opponent's next turn."
+      },
+      "name": {
+        "en": "Defense Curl"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

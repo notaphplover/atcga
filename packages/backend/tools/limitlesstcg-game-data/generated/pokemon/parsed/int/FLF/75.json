@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each Prize card your opponent has taken."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Your opponent flips a number of coins equal to the number of his or her Benched Pokémon. This attack does 40 damage times the number of tails. This attack's damage isn't affected by Weakness or Resistance."

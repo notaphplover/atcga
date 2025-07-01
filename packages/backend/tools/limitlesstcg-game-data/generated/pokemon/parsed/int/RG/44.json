@@ -3,7 +3,21 @@
   "abilityName": "Thick Skin",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Claws"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Confused."

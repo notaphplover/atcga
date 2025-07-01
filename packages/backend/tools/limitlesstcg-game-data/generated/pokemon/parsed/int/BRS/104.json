@@ -3,7 +3,11 @@
   "abilityName": "Gear Wall",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 90 more damage.",

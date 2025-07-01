@@ -3,7 +3,10 @@
   "abilityName": "Space Beacon",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

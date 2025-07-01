@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, draw a card."
+      },
+      "name": {
+        "en": "Flat-Out Dash"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack."

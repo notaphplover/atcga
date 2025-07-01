@@ -3,7 +3,11 @@
   "abilityName": "Growl of the Shield",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "150",
       "effect": {},
       "name": {

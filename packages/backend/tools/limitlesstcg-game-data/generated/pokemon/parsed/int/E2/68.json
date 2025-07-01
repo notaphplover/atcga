@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Vine"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."

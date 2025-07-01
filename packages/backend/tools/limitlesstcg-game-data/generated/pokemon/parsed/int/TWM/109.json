@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed and Poisoned.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé et Empoisonné.",
+        "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert und vergiftet.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato e avvelenato.",
+        "pt": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Envenenado e Paralisado.",
+        "es": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Envenenado y Paralizado."
+      },
+      "name": {
+        "en": "Stun Poison",
+        "fr": "Poison Neural",
+        "de": "Nervengift",
+        "it": "Bloccanervi",
+        "pt": "Veneno Atordoante",
+        "es": "Veneno Paralizador"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Poisoned, this attack does 100 more damage.",

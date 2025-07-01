@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {
@@ -14,7 +18,13 @@
       }
     },
     {
-      "cost": "wwccc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard any Stadium in play.",

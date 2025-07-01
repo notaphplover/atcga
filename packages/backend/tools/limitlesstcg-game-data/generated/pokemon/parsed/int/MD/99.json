@@ -3,7 +3,10 @@
   "abilityName": "Energy Forcing",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each Energy attached to all of your Pokémon."

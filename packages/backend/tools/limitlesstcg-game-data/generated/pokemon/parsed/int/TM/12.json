@@ -3,7 +3,10 @@
   "abilityName": "Tangling Tendrils",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Burned and Poisoned. Remove 3 damage counters from Victreebel.",

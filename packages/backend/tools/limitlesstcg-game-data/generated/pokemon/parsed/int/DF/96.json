@@ -3,7 +3,10 @@
   "abilityName": "Link Wing",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Prevent all effects of attack, including damage, done to Latios ex by your opponent's Pokémon-ex during your opponent's next turn."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

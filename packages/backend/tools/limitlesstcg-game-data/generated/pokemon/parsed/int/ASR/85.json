@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

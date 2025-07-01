@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a card and put it into your hand. Then, shuffle your deck. If tails, discard a card from your hand.",
+        "fr": "Lancez une pièce. Si c'est face, cherchez dans votre deck une carte et ajoutez-la à votre main. Mélangez ensuite votre deck. Si c'est pile, défaussez une carte de votre main.",
+        "de": "Wirf 1 Münze. Durchsuche bei Kopf dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck. Lege bei Zahl 1 Karte aus deiner Hand auf deinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, cerca nel tuo mazzo una carta e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo. Se esce croce, scarta una carta che hai in mano.",
+        "pt": "Jogue uma moeda. Se sair cara, procure por uma carta no seu baralho e coloque-a na sua mão. Em seguida, embaralhe o seu baralho. Se sair coroa, descarte uma carta da sua mão.",
+        "es": "Lanza 1 moneda. Si sale cara, busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja. Si sale cruz, descarta 1 carta de tu mano."
+      },
+      "name": {
+        "en": "Tail-Fishing",
+        "fr": "Pêche à la Queue",
+        "de": "Schweifangeln",
+        "it": "Codapesca",
+        "pt": "Pesca de Cauda",
+        "es": "Cola Cebo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

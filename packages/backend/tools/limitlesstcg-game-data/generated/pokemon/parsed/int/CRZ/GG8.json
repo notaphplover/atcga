@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If any of your Benched Magmortar have any damage counters on them, this attack does 90 more damage.",
@@ -18,6 +20,29 @@
         "it": "Lampo Esplosivo",
         "pt": "Raio Explosivo",
         "es": "Rayo Explosivo"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 50 dégâts à chacun des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 50 danni a ciascuno dei Pokémon del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Este ataque causa 50 pontos de dano a cada um dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Este ataque hace 50 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "High-Voltage Current",
+        "fr": "Courant Haute-Tension",
+        "de": "Hochspannungsstrom",
+        "it": "Corrente Folgorante",
+        "pt": "Corrente de Alta Tensão",
+        "es": "Corriente de Alta Tensión"
       }
     }
   ],

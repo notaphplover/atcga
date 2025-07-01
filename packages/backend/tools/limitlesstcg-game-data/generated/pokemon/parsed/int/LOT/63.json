@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If your opponent has a Stadium card in play, discard it.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If this Pokémon has any [R] Energy attached to it, this attack does 80 more damage.",

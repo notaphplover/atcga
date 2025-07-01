@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 [R] Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "Exploder"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned."

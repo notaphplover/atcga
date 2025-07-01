@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Heal 10 damage from this Pokémon.",
@@ -18,7 +20,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

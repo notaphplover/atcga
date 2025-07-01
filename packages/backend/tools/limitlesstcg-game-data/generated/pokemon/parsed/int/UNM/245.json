@@ -1,7 +1,13 @@
 {
   "attacks": [
     {
-      "cost": "ddddc",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "If your opponent's Pokémon-GX or Pokémon-EX is Knocked Out by damage from this attack, take 1 more Prize card.",
@@ -19,7 +25,13 @@
       }
     },
     {
-      "cost": "ddddc",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "250",
       "effect": {
         "en": "If this Pokémon has at least 5 extra Energy attached to it (in addition to this attack's cost), discard the top 15 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)",

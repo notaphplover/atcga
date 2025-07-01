@@ -3,7 +3,9 @@
   "abilityName": "Top Entry",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Attach a [R] Energy card from your discard pile to 1 of your Pokémon.",

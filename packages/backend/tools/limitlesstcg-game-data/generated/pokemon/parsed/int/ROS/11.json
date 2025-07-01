@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on each of your opponent's Pokémon. Switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Placez 1 marqueur de dégâts sur chacun des Pokémon de votre adversaire. Échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Lege 1 Schadensmarke auf jedes Pokémon deines Gegners. Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Metti un segnalino danno su ciascuno dei Pokémon del tuo avversario. Scambia questo Pokémon con uno della tua panchina.",
+        "es": "Pon 1 contador de daño en cada uno de los Pokémon de tu rival. Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Cursed Rain",
+        "fr": "Pluie Ensorcelée",
+        "de": "Verfluchter Regen",
+        "it": "Pioggia Maledetta",
+        "es": "Lluvia Maldita"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage times the number of damage counters on this Pokémon.",

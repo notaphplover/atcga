@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Collect"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

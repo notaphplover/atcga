@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Whenever your opponent plays an Item or Supporter card from their hand during their next turn, prevent all effects of that card done to the Defending Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

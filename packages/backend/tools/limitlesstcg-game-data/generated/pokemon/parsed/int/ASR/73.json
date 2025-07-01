@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your Benched Pokémon have any damage counters on them, this attack does 140 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "During your next turn, this Pokémon can't use G-Max Chi Strike.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "en": "If your opponent's Active Pokémon has no damage counters on it before this attack does damage, this attack does nothing.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "チューニングエコー",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "相手のバトルポケモンをこんらんにする。"

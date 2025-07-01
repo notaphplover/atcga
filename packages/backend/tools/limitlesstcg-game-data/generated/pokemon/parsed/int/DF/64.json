@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put Jynx from your hand onto Smoochum (this counts as evolving Smoochum) and remove all damage counters from Smoochum.",
   "abilityName": "Baby Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon and basic Energy card, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Alluring Kiss"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

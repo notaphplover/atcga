@@ -3,7 +3,12 @@
   "abilityName": "Golden Wing",
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Discard an Energy from this Pokémon."

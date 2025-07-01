@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -14,7 +17,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

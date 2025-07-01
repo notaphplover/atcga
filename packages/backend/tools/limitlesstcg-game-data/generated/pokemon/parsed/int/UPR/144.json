@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 more damage for each [C] in your opponent's Active Pokémon's Retreat Cost."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
@@ -19,7 +28,12 @@
       }
     },
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can't use more than 1 GX attack in a game.)"

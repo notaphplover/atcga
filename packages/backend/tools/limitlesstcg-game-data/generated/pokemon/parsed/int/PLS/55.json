@@ -3,7 +3,11 @@
   "abilityName": "Night Sight",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns.",

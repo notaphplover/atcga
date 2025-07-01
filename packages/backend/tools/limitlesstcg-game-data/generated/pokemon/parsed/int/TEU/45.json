@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon evolved from Blitzle during this turn, this attack does 90 more damage.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

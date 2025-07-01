@@ -3,7 +3,10 @@
   "abilityName": "Loose Shell",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may switch Ninjask with 1 of your Benched Pokémon. If you do, you may move any number of [G] Energy cards attached to Ninjask to the new Active Pokémon."

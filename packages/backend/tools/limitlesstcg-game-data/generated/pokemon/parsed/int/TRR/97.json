@@ -3,13 +3,28 @@
   "abilityName": "Dark Condition",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Search your discard pile for an Energy card and attach it to Rocket's Entei ex."
       },
       "name": {
         "en": "Energy Link"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy attached to Rocket's Entei ex and then choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Volcanic Ash"
       }
     }
   ],

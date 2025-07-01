@@ -3,7 +3,11 @@
   "abilityName": "Auxiliary Light",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

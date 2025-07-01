@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Put 2 Energy attached to this Pokémon into your hand.",

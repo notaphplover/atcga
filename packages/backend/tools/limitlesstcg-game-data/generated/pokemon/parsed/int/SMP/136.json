@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Search your deck for a basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
@@ -11,7 +13,12 @@
       }
     },
     {
-      "cost": "wpcc",
+      "cost": [
+        "w",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Flip a coin. If tails, discard all Energy attached to this Pokémon."

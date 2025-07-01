@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange le Pokémon Défenseur avec 1 de ses Pokémon de Banc.",
+        "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus."
+      },
+      "name": {
+        "en": "Roar",
+        "fr": "Hurlement",
+        "de": "Brüller"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 more damage.",

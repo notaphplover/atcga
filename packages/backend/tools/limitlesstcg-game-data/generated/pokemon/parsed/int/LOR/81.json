@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Pokémon and put 2 damage counters on each of them.",
+        "fr": "Choisissez 2 des Pokémon de votre adversaire, puis placez 2 marqueurs de dégâts sur chacun d'eux.",
+        "de": "Wähle 2 Pokémon deines Gegners und lege 2 Schadensmarken auf jedes von ihnen.",
+        "it": "Scegli due dei Pokémon del tuo avversario e metti due segnalini danno su ciascuno di essi.",
+        "pt": "Escolha 2 dos Pokémon do seu oponente e coloque 2 contadores de dano em cada um deles.",
+        "es": "Elige 2 de los Pokémon de tu rival y pon 2 contadores de daño en cada uno de ellos."
+      },
+      "name": {
+        "en": "Night Footsteps",
+        "fr": "Empreintes Nocturnes",
+        "de": "Nächtliche Schritte",
+        "it": "Orme Notturne",
+        "pt": "Pegadas Noturnas",
+        "es": "Pisadas Nocturnas"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Phantom Strike.",

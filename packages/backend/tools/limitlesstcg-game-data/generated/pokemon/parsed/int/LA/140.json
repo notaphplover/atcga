@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Each of your [P] Pokémon has no Weakness.",
   "abilityName": "Psychic Aura",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. Put 1 damage counter on that Pokémon for each Energy attached to all of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Deep Balance"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

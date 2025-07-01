@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Double the number of damage counters on each of your opponent's Pokémon.",
+        "fr": "Doublez le nombre de marqueurs de dégâts sur chacun des Pokémon de votre adversaire.",
+        "de": "Verdopple die Anzahl der Schadensmarken auf jedem Pokémon deines Gegners.",
+        "it": "Raddoppia il numero di segnalini danno su ciascuno dei Pokémon del tuo avversario.",
+        "pt": "Duplique o número de contadores de dano em cada um dos Pokémon do seu oponente.",
+        "es": "Dobla la cantidad de contadores de daño en cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Lunar Pain",
+        "fr": "Douleur Lunaire",
+        "de": "Mondschmerz",
+        "it": "Supplizio Lunare",
+        "pt": "Dor Lunar",
+        "es": "Dolor Lunar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

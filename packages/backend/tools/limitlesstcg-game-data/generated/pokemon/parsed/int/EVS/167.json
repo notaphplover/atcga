@@ -3,7 +3,11 @@
   "abilityName": "Greening Cells",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 60 more damage.",

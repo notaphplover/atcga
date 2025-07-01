@@ -1,7 +1,30 @@
 {
   "abilityEffect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
   "abilityName": "Trade",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
+      "effect": {
+        "en": "Choose 1 of your Benched N's Pokémon's attacks and use it as this attack.",
+        "fr": "Choisissez l'une des attaques de vos Pokémon de N de Banc et utilisez-la en tant que cette attaque.",
+        "de": "Wähle 1 Attacke der Ns Pokémon auf deiner Bank und setze sie als diese Attacke ein.",
+        "it": "Scegli un attacco di un Pokémon di N nella tua panchina e usalo al posto di questo attacco.",
+        "pt": "Escolha 1 dos ataques dos seus Pokémon do N no Banco e use-o como este ataque.",
+        "es": "Elige uno de los ataques de tus Pokémon de N en Banca y úsalo para este ataque."
+      },
+      "name": {
+        "en": "Night Joker",
+        "fr": "Joker Nocturne",
+        "de": "Nachtjoker",
+        "it": "Burlone Notturno",
+        "pt": "Curinga Noturno",
+        "es": "Bromista Nocturno"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 280,
   "imageUrls": {

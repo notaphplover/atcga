@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Attach up to 2 basic Energy cards from your discard pile to Flaaffy."
+      },
+      "name": {
+        "en": "Energy Recall"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

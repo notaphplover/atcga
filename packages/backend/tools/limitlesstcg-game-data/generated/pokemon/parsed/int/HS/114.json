@@ -3,7 +3,11 @@
   "abilityName": "Ocean Grow",
   "attacks": [
     {
-      "cost": "rwl",
+      "cost": [
+        "r",
+        "w",
+        "l"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard a [R] Energy, [W] Energy, and [L] Energy attached to Lugia LEGEND.",

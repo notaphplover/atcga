@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, discard a [R] Energy card attached to Torchic Star."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Confused."

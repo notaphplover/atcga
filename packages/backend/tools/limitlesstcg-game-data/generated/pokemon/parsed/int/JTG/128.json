@@ -3,7 +3,11 @@
   "abilityName": "Tuning Echo",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard your opponent's Active Pokémon and all attached cards. If this Pokémon didn't evolve from Loudred during this turn, this attack does nothing.",
+        "fr": "Défaussez le Pokémon Actif de votre adversaire et toutes les cartes qui lui sont attachées. Si ce Pokémon n'a pas évolué de Ramboum pendant ce tour, cette attaque ne fait rien.",
+        "de": "Lege das Aktive Pokémon deines Gegners und alle angelegten Karten auf seinen Ablagestapel. Wenn sich dieses Pokémon während dieses Zuges nicht aus Krakeelo entwickelt hat, hat diese Attacke keine Auswirkungen.",
+        "it": "Scarta il Pokémon attivo del tuo avversario e tutte le carte a esso assegnate. Se questo Pokémon non si è evoluto da Loudred durante questo turno, questo attacco non ha effetto.",
+        "pt": "Descarte o Pokémon Ativo do seu oponente e todas as cartas ligadas a ele. Se este Pokémon não evoluiu de Loudred durante este turno, este ataque não fará nada.",
+        "es": "Descarta el Pokémon Activo de tu rival y todas las cartas unidas a él. Si este Pokémon no ha evolucionado de Loudred durante este turno, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Sudden Shout",
+        "fr": "Cri Soudain",
+        "de": "Schlagartiger Schrei",
+        "it": "Urlo Improvviso",
+        "pt": "Grito Repentino",
+        "es": "Bramido Súbito"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

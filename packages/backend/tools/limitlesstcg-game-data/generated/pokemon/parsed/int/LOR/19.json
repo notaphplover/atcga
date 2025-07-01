@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",

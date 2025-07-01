@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Count the number of your Pokémon that have any damage counters on them. Put that many damage counters on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Avenge"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 20 more damage for each Energy attached to the Defending Pokémon."

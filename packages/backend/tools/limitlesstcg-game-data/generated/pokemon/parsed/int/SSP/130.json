@@ -3,7 +3,11 @@
   "abilityName": "Assemble Alloy",
   "attacks": [
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon has no Weakness.",

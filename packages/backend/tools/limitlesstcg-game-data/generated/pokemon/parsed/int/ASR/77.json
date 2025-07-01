@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -14,7 +16,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "240",
       "effect": {
         "en": "If your opponent has 3 or fewer cards in their hand, this attack does nothing.",

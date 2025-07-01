@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -10,6 +14,28 @@
         "de": "Flügelschlag",
         "it": "Attacco d'Ala",
         "es": "Ataque Ala"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent shuffles the Defending Pokémon and all cards attached to it into his or her deck.",
+        "fr": "Votre adversaire mélange le Pokémon Défenseur et toutes les cartes qui lui sont attachées avec son deck.",
+        "de": "Dein Gegner mischt das Verteidigende Pokémon und alle daran angelegten Karten zurück in sein Deck.",
+        "it": "Il tuo avversario rimischia nel suo mazzo il Pokémon difensore e tutte le carte a lui assegnate.",
+        "es": "Tu rival pone al Pokémon Defensor y todas las cartas unidas a él en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Strong Breeze",
+        "fr": "Forte Brise",
+        "de": "Steife Brise",
+        "it": "Fortebrezza",
+        "es": "Fuerte Brisa"
       }
     }
   ],

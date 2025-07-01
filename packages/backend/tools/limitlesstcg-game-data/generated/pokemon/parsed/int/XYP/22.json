@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Asleep, this attack does 60 more damage and heal 30 damage from this Pokémon."

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Froakie and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 2 Grenousse, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Froxy und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due Froakie e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 2 Froakie no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 2 Froakie y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Flock",
+        "fr": "Nuée",
+        "de": "Ausschwärmen",
+        "it": "Frotta",
+        "pt": "Bando",
+        "es": "Multitud"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch Magnemite with 1 of your Benched Pokémon.",
+        "fr": "Échangez Magneti avec l'un de vos Pokémon de Banc.",
+        "de": "Tausche Magnetilo gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Scambia Magnemite con 1 dei tuoi Pokémon in Panchina."
+      },
+      "name": {
+        "en": "Magnetic Switch",
+        "fr": "Échange magnétique",
+        "de": "Magnettausch",
+        "it": "Scambio Magnetico"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",

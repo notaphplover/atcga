@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals his or her hand.",
+        "fr": "Votre adversaire montre sa main."
+      },
+      "name": {
+        "en": "Infiltrate",
+        "fr": "Mission Infiltration"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

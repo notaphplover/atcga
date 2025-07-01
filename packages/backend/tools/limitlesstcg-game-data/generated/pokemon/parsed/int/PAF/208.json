@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. Put a number of cards up to the number of heads from your discard pile into your hand.",
+        "fr": "Lancez 3 pièces. De votre pile de défausse, ajoutez à votre main un nombre de cartes inférieur ou égal au nombre de côtés face obtenus.",
+        "de": "Wirf 3 Münzen. Nimm bis zu so viele Karten, wie du Kopf geworfen hast, aus deinem Ablagestapel auf deine Hand.",
+        "it": "Lancia tre volte una moneta. Prendi dalla tua pila degli scarti un numero di carte uguale o inferiore al numero di volte in cui è uscito testa e aggiungile a quelle che hai in mano.",
+        "pt": "Jogue 3 moedas. Coloque um número de cartas da sua pilha de descarte na sua mão até o número de caras.",
+        "es": "Lanza 3 monedas. Coge de tu pila de descartes una cantidad de cartas igual o inferior al número de caras que te hayan salido y ponlas en tu mano."
+      },
+      "name": {
+        "en": "Finest Selection",
+        "fr": "Premier Choix",
+        "de": "Feinste Auslese",
+        "it": "Assortimento Sopraffino",
+        "pt": "Seleção Primorosa",
+        "es": "Cuidada Selección"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

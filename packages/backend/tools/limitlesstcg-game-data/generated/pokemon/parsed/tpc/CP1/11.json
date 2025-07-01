@@ -3,7 +3,11 @@
   "abilityName": "マグマスイッチ",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

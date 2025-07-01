@@ -3,7 +3,10 @@
   "abilityName": "Double Type",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 70 more damage for each damage counter on this Pokémon.",

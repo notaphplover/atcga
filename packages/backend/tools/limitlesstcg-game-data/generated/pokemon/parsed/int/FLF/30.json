@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la carta in cima al mazzo del tuo avversario.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Stomp Off",
+        "fr": "Tohu-Bohu",
+        "de": "Davonstapfen",
+        "it": "Pestatura",
+        "es": "Pisotear"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

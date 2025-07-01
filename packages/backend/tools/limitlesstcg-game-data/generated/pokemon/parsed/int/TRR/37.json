@@ -3,7 +3,11 @@
   "abilityName": "Fire Breath",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If you have less Benched Pokémon than your opponent, this attack does 40 damage plus 20 more damage."

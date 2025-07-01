@@ -3,7 +3,11 @@
   "abilityName": "My Way",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",

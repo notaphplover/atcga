@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Attach a [P] Energy card from your discard pile to this Pokémon."
+      },
+      "name": {
+        "en": "Cloak in Shadows"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat."

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, remove 4 damage counters from Erika's Gloom. If Erika's Gloom has fewer damage counters than that, remove all of them."
+      },
+      "name": {
+        "en": "Healing Pollen"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep, Confused, Paralyzed, or Poisoned (your choice)."

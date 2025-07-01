@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Attach a Basic [G] Energy card from your hand to 1 of your Benched Pokémon.",
+        "fr": "Attachez une carte Énergie [G] de base de votre main à l'un de vos Pokémon de Banc.",
+        "de": "Lege 1 Basis-[G]-Energiekarte aus deiner Hand an 1 Pokémon auf deiner Bank an.",
+        "it": "Assegna a uno dei tuoi Pokémon in panchina una carta Energia base [G] dalla tua mano.",
+        "pt": "Ligue uma carta de Energia [G] Básica da sua mão a 1 dos seus Pokémon no Banco.",
+        "es": "Une 1 carta de Energía [G] Básica de tu mano a uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Clinging Spore",
+        "fr": "Spore Agrippante",
+        "de": "Haftspore",
+        "it": "Spora Appiccicosa",
+        "pt": "Esporos Grudentos",
+        "es": "Espora Pegajosa"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

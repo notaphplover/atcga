@@ -3,7 +3,10 @@
   "abilityName": "Single Strike Roar",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

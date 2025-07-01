@@ -3,7 +3,11 @@
   "abilityName": "Pika Dash",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

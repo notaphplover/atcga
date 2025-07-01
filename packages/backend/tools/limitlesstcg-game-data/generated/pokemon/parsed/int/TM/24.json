@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
@@ -17,7 +20,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 3 coins. If 1 of them is heads, this attack does 20 damage plus 20 more damage. If 2 of them are heads, this attack does 20 damage plus 40 more damage. If all of them are heads, this attack does 20 damage plus 100 more damage.",

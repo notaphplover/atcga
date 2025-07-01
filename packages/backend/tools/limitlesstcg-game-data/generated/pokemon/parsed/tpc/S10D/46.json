@@ -3,7 +3,11 @@
   "abilityName": "ギガマグネット",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

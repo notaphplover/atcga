@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -9,7 +12,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Discard as many [F] Energy cards as you like from your hand. The attack does 30 damage times the number of [F] Energy cards you discarded."
@@ -19,7 +26,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance."

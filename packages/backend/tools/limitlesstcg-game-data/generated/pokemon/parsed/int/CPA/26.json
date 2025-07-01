@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each [F] Pokémon in your discard pile.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

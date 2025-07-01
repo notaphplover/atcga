@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle this Pokémon and all cards attached to it into your deck.",
+        "fr": "Mélangez ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck.",
+        "de": "Mische dieses Pokémon und alle an es angelegten Karten in dein Deck.",
+        "it": "Rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo.",
+        "es": "Pon este Pokémon y todas las cartas unidas a él en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Scamper Away",
+        "fr": "Cavalcade",
+        "de": "Weghuschen",
+        "it": "Fuggivia",
+        "es": "Escabullirse"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

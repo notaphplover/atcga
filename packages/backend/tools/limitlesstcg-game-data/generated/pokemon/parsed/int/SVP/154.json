@@ -3,7 +3,10 @@
   "abilityName": "Obliging Heal",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

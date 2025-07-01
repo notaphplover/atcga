@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pd",
+      "cost": [
+        "p",
+        "d"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -14,7 +17,12 @@
       }
     },
     {
-      "cost": "pdcc",
+      "cost": [
+        "p",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

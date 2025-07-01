@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      },
+      "name": {
+        "en": "Swagger"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If you have more cards in your hand than your opponent, this attack does 80 more damage."

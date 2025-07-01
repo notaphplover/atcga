@@ -3,7 +3,10 @@
   "abilityName": "Assaulting Hunt",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

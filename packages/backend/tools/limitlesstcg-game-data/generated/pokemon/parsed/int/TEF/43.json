@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip 3 coins. For each heads, discard a random card from your opponent's hand.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

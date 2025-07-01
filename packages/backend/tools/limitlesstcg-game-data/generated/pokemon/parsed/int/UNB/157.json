@@ -3,7 +3,11 @@
   "abilityName": "Crazy Code",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon is now Confused.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon.",

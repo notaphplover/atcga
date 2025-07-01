@@ -3,7 +3,11 @@
   "abilityName": "Fragrance Trap",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",

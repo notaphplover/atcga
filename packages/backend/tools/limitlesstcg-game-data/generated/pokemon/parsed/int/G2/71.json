@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Irongrip"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Poison Spore"
       }
     }
   ],

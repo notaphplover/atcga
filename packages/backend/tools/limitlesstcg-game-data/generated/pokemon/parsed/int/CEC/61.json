@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",
@@ -19,7 +22,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If you have any Stadium card in play, this attack does 100 more damage.",

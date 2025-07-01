@@ -3,7 +3,11 @@
   "abilityName": "トップエントリー",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "jp": "コインを3回投げオモテの数×40ダメージ。"

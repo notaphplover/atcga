@@ -3,7 +3,23 @@
   "abilityName": "Protective Dust",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+      },
+      "name": {
+        "en": "Toxic"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Incendiary Song",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",

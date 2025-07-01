@@ -3,7 +3,11 @@
   "abilityName": "Solid Shell",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

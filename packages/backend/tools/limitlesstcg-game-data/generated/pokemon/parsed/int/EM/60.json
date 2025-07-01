@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -9,7 +11,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

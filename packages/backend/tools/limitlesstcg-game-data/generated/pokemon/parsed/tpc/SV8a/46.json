@@ -3,7 +3,9 @@
   "abilityName": "マイティソウル",
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "250",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

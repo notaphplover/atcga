@@ -3,7 +3,21 @@
   "abilityName": "Sticky Hold",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Gastrodon and put them onto your Bench as Basic Pokémon. Put 2 damage counters on each of them. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Calling Wave"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

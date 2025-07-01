@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso e avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido y Envenenado."
+      },
+      "name": {
+        "en": "Dancing Tentacles",
+        "fr": "Tentacules Dansantes",
+        "de": "Tanzende Tentakel",
+        "it": "Tentacoli Danzanti",
+        "es": "Tentáculos Bailarines"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal 30 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each Energy attached to this Pokémon.",
@@ -18,6 +20,29 @@
         "it": "Forzasplash",
         "pt": "Esguicho Poderoso",
         "es": "Salpicadura Enérgica"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "p",
+        "m"
+      ],
+      "effect": {
+        "en": "Look at the top 20 cards of your deck and attach any number of Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 20 cartes du dessus de votre deck, puis attachez le nombre voulu de cartes Énergie que vous y trouvez à vos Pokémon, comme il vous plaît. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 20 Karten deines Decks an und lege beliebig viele Energiekarten, die du dort findest, beliebig an deine Pokémon an. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime 20 carte del tuo mazzo e assegna un numero qualsiasi di carte Energia presenti tra esse ai tuoi Pokémon nel modo che preferisci. Poi rimischia le altre carte nel tuo mazzo.",
+        "pt": "Olhe as 20 cartas de cima do seu baralho e ligue qualquer número de cartas de Energia que encontrar lá aos seus Pokémon como desejar. Embaralhe as outras cartas de volta no seu baralho.",
+        "es": "Mira las 20 primeras cartas de tu baraja y une cualquier cantidad de cartas de Energía que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Larimar Rain",
+        "fr": "Pluie Larimar",
+        "de": "Larimar-Regen",
+        "it": "Pioggia di Larimar",
+        "pt": "Chuva de Larimar",
+        "es": "Lluvia Larimar"
       }
     }
   ],

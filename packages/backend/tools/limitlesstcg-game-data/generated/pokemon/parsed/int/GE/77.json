@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Reveal the top card of your deck and put it into your hand. If that card is a Pokémon, draw 2 cards."
+      },
+      "name": {
+        "en": "Rendezvous"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If Luvdisc and the Defending Pokémon have the same amount of Energy attached to them, this attack does 10 damage plus 20 more damage."

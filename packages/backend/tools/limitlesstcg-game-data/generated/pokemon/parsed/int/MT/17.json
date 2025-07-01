@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If your opponent has only 1 Prize card left, this attack does 40 damage plus 40 more damage and discard the top 3 cards from your opponent's deck."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ffdd",
+      "cost": [
+        "f",
+        "f",
+        "d",
+        "d"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Each player discards the top card of his or her deck. This attack does 80 damage plus 20 more damage for each Energy card discarded in this way."

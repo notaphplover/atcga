@@ -3,7 +3,11 @@
   "abilityName": "いかくのキバ",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "jp": "コインを1回投げオモテなら、100ダメージ追加。"

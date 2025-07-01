@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each Basic Energy card in your opponent's discard pile.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard all Energy from this Pokémon, and this attack also does 90 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

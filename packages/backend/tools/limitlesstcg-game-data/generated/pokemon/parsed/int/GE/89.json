@@ -1,11 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Peck"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Singe"
       }
     }
   ],

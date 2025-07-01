@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for Nidoran♀ and put it onto your Bench. Shuffle your deck afterward.",
+        "fr": "Cherchez Nidoran♀ dans votre deck et placez-le sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach Nidoran♀ und lege es auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca Nidoran♀ nel tuo mazzo e mettilo nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 Nidoran♀ y ponlo en tu Banca. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Come Along",
+        "fr": "Compagnon",
+        "de": "Komm mit!",
+        "it": "Rimorchiare",
+        "es": "Acompáñame"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

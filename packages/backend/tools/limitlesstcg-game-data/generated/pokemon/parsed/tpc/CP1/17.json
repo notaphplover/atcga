@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "相手の手札を見る。"
+      },
+      "name": {
+        "jp": "せんにゅう"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

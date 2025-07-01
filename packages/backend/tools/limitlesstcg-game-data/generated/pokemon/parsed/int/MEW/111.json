@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

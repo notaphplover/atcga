@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

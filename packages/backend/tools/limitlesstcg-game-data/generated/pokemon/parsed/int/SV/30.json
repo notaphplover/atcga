@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a Basic Energy card from your hand to 1 of your Pokémon. Then, remove 2 damage counters from that Pokémon."
+      },
+      "name": {
+        "en": "Licking-Licking Heal"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Draw cards until you have 6 cards in your hand."

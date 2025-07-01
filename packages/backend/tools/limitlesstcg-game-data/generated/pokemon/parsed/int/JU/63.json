@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance)."

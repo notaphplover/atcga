@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "10+",
       "effect": {
         "en": "If you have no cards in your hand, this attack does 150 more damage.",
@@ -21,7 +21,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

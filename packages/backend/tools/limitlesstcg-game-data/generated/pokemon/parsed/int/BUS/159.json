@@ -3,7 +3,9 @@
   "abilityName": "Secret Spring",
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage times the amount of Energy attached to both Active Pokémon.",
@@ -18,6 +20,25 @@
         "de": "Unendliche Macht",
         "it": "Forza Infinita",
         "es": "Fuerza Infinita"
+      }
+    },
+    {
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Shuffle 10 cards from your discard pile into your deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Mélangez 10 cartes de votre pile de défausse avec votre deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Mische 10 Karten aus deinem Ablagestapel in dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Rimischia dieci carte dalla tua pila degli scarti nel tuo mazzo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Pon 10 cartas de tu pila de descartes en tu baraja y barájalas todas. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Twilight-GX",
+        "fr": "Tombée de la Nuit-GX",
+        "de": "Zwielicht-GX",
+        "it": "Crepuscolo-GX",
+        "es": "Crepúsculo-GX"
       }
     }
   ],

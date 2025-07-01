@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."

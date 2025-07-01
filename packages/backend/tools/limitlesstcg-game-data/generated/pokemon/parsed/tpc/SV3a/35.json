@@ -3,7 +3,10 @@
   "abilityName": "ナイトゲート",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

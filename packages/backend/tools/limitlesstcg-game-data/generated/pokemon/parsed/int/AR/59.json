@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [R] Basic Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Call for Friends"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

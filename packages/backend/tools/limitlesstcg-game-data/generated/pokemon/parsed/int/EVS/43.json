@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Look at the top 6 cards of your deck and attach any number of basic Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 6 cartes du dessus de votre deck puis attachez le nombre voulu de cartes Énergie de base que vous y trouvez à vos Pokémon, comme il vous plaît. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 6 Karten deines Decks an und lege beliebig viele Basis-Energiekarten, die du dort findest, beliebig an deine Pokémon an. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime sei carte del tuo mazzo e assegna un numero qualsiasi di carte Energia base presenti tra esse ai tuoi Pokémon nel modo che preferisci. Poi rimischia le altre carte nel tuo mazzo.",
+        "pt": "Olhe as 6 cartas de cima do seu baralho e ligue qualquer número de cartas de Energia básica que encontrar lá aos seus Pokémon como desejar. Embaralhe as demais cartas de volta no seu baralho.",
+        "es": "Mira las 6 primeras cartas de tu baraja y une cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Element Chain",
+        "fr": "Chaîne Élémentaire",
+        "de": "Elementkette",
+        "it": "Catena di Elementi",
+        "pt": "Corrente Elemental",
+        "es": "Cadena de Elementos"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

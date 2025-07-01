@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to 1 of your opponent's Pokémon. Also apply Weakness and Resistance for Benched Pokémon.",
+        "fr": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire. Appliquez aussi la Faiblesse et la Résistance aux Pokémon de Banc.",
+        "de": "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu. Wende Schwäche und Resistenz auch bei Pokémon auf der Bank an.",
+        "it": "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario. Dovrai applicare debolezza e resistenza anche ai Pokémon in panchina.",
+        "es": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival. Aplica también Debilidad y Resistencia para los Pokémon en Banca."
+      },
+      "name": {
+        "en": "Live Wire",
+        "fr": "Fil Sous Tension",
+        "de": "Unter Strom stehen",
+        "it": "Filo Elettrificato",
+        "es": "Cable Conectado"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

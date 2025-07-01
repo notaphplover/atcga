@@ -3,7 +3,10 @@
   "abilityName": "Magnetic Draw",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Put as many Energy cards attached to your Pokémon as you like in the Lost Zone. This attack does 50 damage times the number of Energy cards put in the Lost Zone in this way.",

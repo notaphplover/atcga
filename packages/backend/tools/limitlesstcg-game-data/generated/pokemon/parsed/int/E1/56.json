@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Hypnosis"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."

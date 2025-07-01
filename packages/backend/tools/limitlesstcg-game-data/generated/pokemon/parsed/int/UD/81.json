@@ -3,7 +3,10 @@
   "abilityName": "Evolution Memories",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Remove 1 damage counter from each of your Pokémon.",

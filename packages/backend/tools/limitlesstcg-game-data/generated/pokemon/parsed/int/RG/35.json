@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Seed"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may attach a [L] Energy card from your hand to 1 of your Benched Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

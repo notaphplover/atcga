@@ -3,7 +3,11 @@
   "abilityName": "Fighting Tag",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard a Special Energy card attached to the Defending Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Does 100 damage plus 10 more damage for each of your Benched Pokémon that has any damage counters on it.",

@@ -1,5 +1,49 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a card from your hand. If you do, draw 3 cards.",
+        "fr": "Défaussez une carte de votre main. Dans ce cas, piochez 3 cartes.",
+        "de": "Lege 1 Karte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 3 Karten.",
+        "it": "Scarta una delle carte che hai in mano. Se lo fai, pesca tre carte.",
+        "pt": "Descarte 1 carta da sua mão. Se fizer isto, compre 3 cartas.",
+        "es": "Descarta 1 carta de tu mano. Si lo haces, roba 3 cartas."
+      },
+      "name": {
+        "en": "Concoction",
+        "fr": "Concoction",
+        "de": "Gebräu",
+        "it": "Intruglio",
+        "pt": "Elixir Mágico",
+        "es": "Brebaje"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out.",
+        "fr": "À la fin du prochain tour de votre adversaire, le Pokémon Défenseur sera mis K.O.",
+        "de": "Am Ende des nächsten Zuges deines Gegners wird das Verteidigende Pokémon kampfunfähig.",
+        "it": "Alla fine del prossimo turno del tuo avversario, il Pokémon difensore verrà messo KO.",
+        "pt": "O Pokémon Defensor será Nocauteado no final do próximo turno do seu oponente.",
+        "es": "Al final del próximo turno de tu rival, el Pokémon Defensor quedará Fuera de Combate."
+      },
+      "name": {
+        "en": "Word of Ruin",
+        "fr": "Promesse de Déclin",
+        "de": "Wort des Verderbens",
+        "it": "Parola Nefasta",
+        "pt": "Maldizer",
+        "es": "Palabra de Perdición"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 220,
   "imageUrls": {

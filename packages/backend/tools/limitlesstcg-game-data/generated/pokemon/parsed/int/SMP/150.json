@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you have any [L] Energy cards in the Lost Zone, this attack does 90 more damage.",

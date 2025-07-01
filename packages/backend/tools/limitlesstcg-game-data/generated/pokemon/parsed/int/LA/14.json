@@ -3,7 +3,12 @@
   "abilityName": "Speed Gain",
   "attacks": [
     {
-      "cost": "rrll",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "l"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard all Energy attached to Rayquaza."

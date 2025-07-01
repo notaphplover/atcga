@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Flip 2 coins. This attack does 80 damage times the number of heads.",

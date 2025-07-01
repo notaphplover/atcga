@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Singe"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

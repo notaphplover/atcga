@@ -3,7 +3,10 @@
   "abilityName": "Lure Ring",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each [W] Energy attached to Lumineon. Then, return all [W] Energy attached to Lumineon to your hand."

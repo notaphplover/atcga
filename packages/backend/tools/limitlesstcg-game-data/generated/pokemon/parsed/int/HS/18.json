@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 2 Energy cards and attach them to Exeggutor.",
+        "fr": "Cherchez dans votre pile de défausse jusqu'à deux cartes Énergie et attachez-les à Noadkoko.",
+        "de": "Durchsuche deinen Ablagestapel nach bis zu 2 Energiekarten und lege sie an Kokowei an.",
+        "it": "Cerca nella tua pila degli scarti fino a 2 carte Energia e assegnale a Exeggutor.",
+        "es": "Busca en tu pila de descartes hasta 2 cartas de Energía y únelas a Exeggutor."
+      },
+      "name": {
+        "en": "Energy Absorption",
+        "fr": "Absorption d'énergie",
+        "de": "Energieaufnahme",
+        "it": "Assorbienergia",
+        "es": "Absorción de energía"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip a coin for each Energy attached to Exeggutor. This attack does 40 damage times the number of heads.",

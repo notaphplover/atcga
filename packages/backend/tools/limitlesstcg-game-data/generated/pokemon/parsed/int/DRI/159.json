@@ -3,7 +3,10 @@
   "abilityName": "Greedy Order",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

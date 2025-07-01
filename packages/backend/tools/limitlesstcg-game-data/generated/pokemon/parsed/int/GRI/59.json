@@ -3,7 +3,11 @@
   "abilityName": "Steelworker",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

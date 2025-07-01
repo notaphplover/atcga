@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, choose 1 of you opponent's Pokémon and put 1 damage counter on that Pokémon."
+      },
+      "name": {
+        "en": "Psymist"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on each of your opponent's Pokémon that already has damage counters on it."
+      },
+      "name": {
+        "en": "Pain Amplifier"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

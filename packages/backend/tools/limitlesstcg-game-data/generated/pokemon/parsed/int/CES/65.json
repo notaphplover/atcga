@@ -1,7 +1,28 @@
 {
   "abilityEffect": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put a Basic Pokémon from your opponent's discard pile onto their Bench.",
   "abilityName": "Red Eyes",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "For each of your opponent's Pokémon in play, put 1 damage counter on your opponent's Pokémon in any way you like.",
+        "fr": "Pour chaque Pokémon en jeu de votre adversaire, placez un marqueur de dégâts sur les Pokémon de votre adversaire de la manière que vous voulez.",
+        "de": "Lege für jedes Pokémon deines Gegners im Spiel 1 Schadensmarke beliebig auf die Pokémon deines Gegners.",
+        "it": "Per ogni Pokémon in gioco del tuo avversario, metti a piacimento un segnalino danno sui suoi Pokémon.",
+        "es": "Por cada uno de los Pokémon en juego de tu rival, pon 1 contador de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Enemy Show",
+        "fr": "Spectacle Ennemi",
+        "de": "Feindlicher Auftritt",
+        "it": "Siparietto Nemico",
+        "es": "Show del Enemigo"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

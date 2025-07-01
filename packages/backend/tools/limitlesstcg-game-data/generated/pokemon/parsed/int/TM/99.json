@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Choose 2 Energy attached to Darkrai & Cresselia LEGEND and put them in the Lost Zone. If any of your opponent's Pokémon would be Knocked Out by damage from this attack, put that Pokémon and all cards attached to it in the Lost Zone instead of discarding it.",
@@ -14,6 +19,23 @@
         "fr": "Crise perdue",
         "de": "Nirgendwo-Krise",
         "it": "Crisi Perduta"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Move as many damage counters on your opponent's Pokémon as you like to any of your opponent's other Pokémon in any way you like.",
+        "fr": "Retirez autant de marqueurs de dégât que vous le voulez aux Pokémon de votre adversaire et attribuez-les comme bon vous semble aux autres Pokémon de votre adversaire.",
+        "de": "Verschiebe beliebig viele Schadensmarken von Pokémon deines Gegners in beliebiger Verteilung auf andere gegnerische Pokémon.",
+        "it": "Sposta nel modo che preferisci quanti segnalini danno vuoi tra quelli presenti sui Pokémon del tuo avversario sugli altri Pokémon del tuo avversario."
+      },
+      "name": {
+        "en": "Moon's Invite",
+        "fr": "Invitation lunaire",
+        "de": "Mondeinladung",
+        "it": "Invito Lunare"
       }
     }
   ],

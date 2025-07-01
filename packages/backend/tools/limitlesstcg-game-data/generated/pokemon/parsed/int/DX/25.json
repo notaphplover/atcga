@@ -3,7 +3,11 @@
   "abilityName": "Fan Action",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 50 damage plus 20 more damage."

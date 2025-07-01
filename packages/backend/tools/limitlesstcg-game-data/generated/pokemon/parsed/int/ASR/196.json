@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon V. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -11,7 +14,9 @@
       }
     },
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each Pokémon in your discard pile. (You can't use more than 1 VSTAR Power in a game.)"

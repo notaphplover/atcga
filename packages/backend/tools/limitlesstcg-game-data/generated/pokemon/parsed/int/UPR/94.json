@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon.",
@@ -16,6 +18,26 @@
         "de": "Psywelle",
         "it": "Psiconda",
         "es": "Psicoonda"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
+      "effect": {
+        "en": "Move any number of damage counters on your opponent's Pokémon to their other Pokémon in any way you like.",
+        "fr": "Déplacez autant de marqueurs de dégâts que vous voulez des Pokémon de votre adversaire vers ses autres Pokémon, de la manière que vous voulez.",
+        "de": "Verschiebe beliebig viele Schadensmarken auf den Pokémon deines Gegners beliebig auf seine anderen Pokémon.",
+        "it": "Distribuisci a piacimento i segnalini danno presenti sui Pokémon del tuo avversario.",
+        "es": "Mueve cualquier cantidad de contadores de daño de los Pokémon de tu rival a sus otros Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Magical Swap",
+        "fr": "Permutation Magique",
+        "de": "Magischer Austausch",
+        "it": "Magibaratto",
+        "es": "Cambio Mágico"
       }
     }
   ],

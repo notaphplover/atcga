@@ -3,7 +3,11 @@
   "abilityName": "Exoskeleton",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon has an Ability, this attack does 60 more damage.",

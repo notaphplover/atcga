@@ -3,7 +3,10 @@
   "abilityName": "Fleet-Footed",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",

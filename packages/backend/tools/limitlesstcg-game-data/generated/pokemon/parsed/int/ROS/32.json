@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent can't play any Pokémon from his or her hand to evolve his or her Pokémon during his or her next turn.",
@@ -16,6 +18,26 @@
         "de": "Entwicklungsstörer",
         "it": "Evolviblocco",
         "es": "Interferente de Evolución"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 5 damage counters on your opponent's Active Pokémon.",
+        "fr": "Placez 5 marqueurs de dégâts sur le Pokémon Actif de votre adversaire.",
+        "de": "Lege 5 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti cinque segnalini danno sul Pokémon attivo del tuo avversario.",
+        "es": "Pon 5 contadores de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Curse Deeply",
+        "fr": "Malédiction Intense",
+        "de": "Nachhaltiger Fluch",
+        "it": "Sortilegio",
+        "es": "Profunda Maldición"
       }
     }
   ],

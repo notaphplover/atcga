@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +13,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them."

@@ -3,7 +3,11 @@
   "abilityName": "Bolt",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon."

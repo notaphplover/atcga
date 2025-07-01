@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Yawn"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

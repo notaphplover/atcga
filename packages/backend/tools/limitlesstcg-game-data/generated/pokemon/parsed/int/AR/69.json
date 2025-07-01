@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, if Nosepass would be damaged by an attack, prevent that attack's damage done to Nosepass if that damage is 30 or less."
+      },
+      "name": {
+        "en": "Harden"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."

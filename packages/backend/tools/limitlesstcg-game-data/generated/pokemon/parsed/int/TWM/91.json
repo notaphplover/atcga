@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

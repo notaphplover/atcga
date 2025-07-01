@@ -3,7 +3,11 @@
   "abilityName": "Bully of the Sands",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

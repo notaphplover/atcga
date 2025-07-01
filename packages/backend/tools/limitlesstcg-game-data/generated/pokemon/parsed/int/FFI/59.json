@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If you have any [D] Pokémon on your Bench, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.",
+        "fr": "Si vous avez un Pokémon [D] sur votre Banc, cherchez dans votre deck une carte Évolution de ce Pokémon et placez-la sur ce Pokémon. (Cela équivaut à faire évoluer ce Pokémon.) Mélangez ensuite votre deck.",
+        "de": "Wenn du mindestens 1 [D]-Pokémon auf deiner Bank hast, durchsuche dein Deck nach einer Karte, zu der sich dieses Pokémon entwickelt, und lege sie auf dieses Pokémon (dies zählt als Entwicklung dieses Pokémon). Mische anschließend dein Deck.",
+        "it": "Se hai dei Pokémon [D] in panchina, cerca nel tuo mazzo una carta che si evolve da questo Pokémon e metticela sopra (quest'azione vale come evoluzione del Pokémon). Poi rimischia le carte del tuo mazzo.",
+        "es": "Si tienes algún Pokémon [D] en tu Banca, busca en tu baraja 1 carta que evolucione de este Pokémon y ponla sobre él. (Esto equivale a hacer evolucionar a este Pokémon). Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Bad-Influence Evolution",
+        "fr": "Évolution Influençable",
+        "de": "Schiefe-Bahn-Entwicklung",
+        "it": "Evoluzione Malacompagnia",
+        "es": "Evolución por Mal Camino"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

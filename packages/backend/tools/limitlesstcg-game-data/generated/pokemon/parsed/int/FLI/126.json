@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {
@@ -28,6 +34,26 @@
         "de": "Aurorahörner",
         "it": "Corni dell'Aurora",
         "es": "Cuernos Aurora"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
+      "effect": {
+        "en": "Move all damage counters from each of your Pokémon to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Déplacez tous les marqueurs de dégâts de chacun de vos Pokémon vers le Pokémon Actif de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Verschiebe alle Schadensmarken von jedem deiner Pokémon auf das Aktive Pokémon deines Gegners. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Sposta tutti i segnalini danno da ciascuno dei tuoi Pokémon al Pokémon attivo del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Sanctuary-GX",
+        "fr": "Sanctuaire-GX",
+        "de": "Refugium-GX",
+        "it": "Santuario-GX",
+        "es": "Santuario-GX"
       }
     }
   ],

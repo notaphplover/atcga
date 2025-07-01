@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may discard all Energy from this Pokémon. If you do, this attack does 80 more damage.",

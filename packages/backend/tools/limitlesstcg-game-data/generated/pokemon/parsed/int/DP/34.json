@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose a card from your hand and put it as a Prize card face up. Then, choose 1 of your face-down Prize cards without looking and put it into your hand. This attack does nothing if all of your Prize cards are face up."
+      },
+      "name": {
+        "en": "See Beyond"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 30 damage plus 50 more damage."

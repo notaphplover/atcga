@@ -3,7 +3,9 @@
   "abilityName": "Toxic Gas",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 10 more damage for each [C] Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."

@@ -1,5 +1,28 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose an attack on 1 of your opponent's Pokémon in play. Mimicry copies that attack. This attack does nothing if Mew Star doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew Star performs that attack."
+      },
+      "name": {
+        "en": "Mimicry"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Choose 1 basic Energy card attached to Mew Star. This attack does 20 damage to each of your opponent's Pokémon that is the same type as the basic Energy card that you chose. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Rainbow Wave"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

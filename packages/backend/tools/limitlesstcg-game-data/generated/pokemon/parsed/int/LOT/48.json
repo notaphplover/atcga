@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard the top 5 cards of your deck.",

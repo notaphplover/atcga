@@ -1,7 +1,27 @@
 {
   "abilityEffect": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 3 basic Energy cards and discard them. Then, shuffle your deck.",
   "abilityName": "Fresh Squeezed",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Attach 2 basic Energy cards from your discard pile to your Pokémon in any way you like.",
+        "fr": "Attachez 2 cartes Énergie de base de votre pile de défausse à vos Pokémon, de la manière que vous voulez.",
+        "de": "Lege 2 Basis-Energiekarten aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Assegna a piacimento ai tuoi Pokémon due carte Energia base dalla tua pila degli scarti.",
+        "es": "Une 2 cartas de Energía Básica de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Energy Drink",
+        "fr": "Boisson Énergisante",
+        "de": "Energiegetränk",
+        "it": "Bevanda Energetica",
+        "es": "Bebida Energética"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

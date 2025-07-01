@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. Put a number of cards up to the number of heads from your discard pile into your hand.",
+        "fr": "Lancez 3 pièces. Ajoutez à votre main un nombre de cartes de votre pile de défausse inférieur ou égal au nombre de côtés face obtenus.",
+        "de": "Wirf 3 Münzen. Nimm bis zu so viele Karten, wie du Kopf geworfen hast, aus deinem Ablagestapel auf deine Hand.",
+        "it": "Lancia tre volte una moneta. Prendi dalla tua pila degli scarti un numero di carte uguale o inferiore al numero di volte in cui è uscito testa e aggiungile a quelle che hai in mano.",
+        "pt": "Jogue 3 moedas. Coloque um número de cartas da sua pilha de descarte na sua mão até o número de caras.",
+        "es": "Lanza 3 monedas. Pon tantas cartas como veces haya salido cara de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Follow the Scent",
+        "fr": "Chasse aux Senteurs",
+        "de": "Folge dem Duft",
+        "it": "Scia di Profumino",
+        "pt": "Cheirinho Bom",
+        "es": "Señuelo Aroma"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

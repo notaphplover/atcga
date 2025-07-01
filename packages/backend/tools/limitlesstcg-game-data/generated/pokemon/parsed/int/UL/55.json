@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,25 @@
         "de": "Schnabel",
         "it": "Beccata",
         "es": "Picotazo"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Switch Natu with 1 of your Benched Pokémon.",
+        "fr": "Échangez Natu avec l'un des Pokémon de votre Banc.",
+        "de": "Tausche Natu gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Scambia Natu con 1 dei tuoi Pokémon in Panchina.",
+        "es": "Cambia a Natu por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Teleport",
+        "fr": "Téléport",
+        "de": "Teleport",
+        "it": "Teletrasporto",
+        "es": "Teletransp"
       }
     }
   ],

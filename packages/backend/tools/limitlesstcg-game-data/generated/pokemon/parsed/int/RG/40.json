@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
         "en": "Scratch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Evolution cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Fast Evolution"
       }
     }
   ],

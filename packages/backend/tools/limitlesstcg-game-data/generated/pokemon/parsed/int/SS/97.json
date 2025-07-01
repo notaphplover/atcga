@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip a number of coins equal to the amount of Energy attached to Kabutops ex. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way."
@@ -11,7 +13,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Remove 2 damage counter from Kabutops ex (remove 1 if there is only 1)."

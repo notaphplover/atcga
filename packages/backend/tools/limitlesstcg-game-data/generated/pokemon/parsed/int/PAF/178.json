@@ -3,7 +3,10 @@
   "abilityName": "Blessed Salt",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

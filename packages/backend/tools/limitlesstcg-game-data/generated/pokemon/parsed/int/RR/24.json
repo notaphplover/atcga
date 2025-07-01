@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [],
+      "effect": {
+        "en": "During your next turn, Heracross E4's Megahorn attack's base damage is 100."
+      },
+      "name": {
+        "en": "Focus Energy"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

@@ -3,7 +3,12 @@
   "abilityName": "Quaking Demolition",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "260",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",

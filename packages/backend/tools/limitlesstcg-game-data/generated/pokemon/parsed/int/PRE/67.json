@@ -3,7 +3,10 @@
   "abilityName": "Protective Bell",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

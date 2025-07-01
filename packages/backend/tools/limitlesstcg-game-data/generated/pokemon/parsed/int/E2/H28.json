@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Destructive Roar"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +24,13 @@
       }
     },
     {
-      "cost": "ddccc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Each player discards the top 3 cards from his or her deck."

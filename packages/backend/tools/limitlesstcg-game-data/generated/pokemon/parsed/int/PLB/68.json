@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "fm",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt paralysiert."
+      },
+      "name": {
+        "en": "Paralyzing Gaze",
+        "fr": "Regard Paralysant",
+        "de": "Lähmender Blick"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "m"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

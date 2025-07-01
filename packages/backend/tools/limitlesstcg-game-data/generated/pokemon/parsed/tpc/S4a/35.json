@@ -3,7 +3,11 @@
   "abilityName": "ブライトヒール",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

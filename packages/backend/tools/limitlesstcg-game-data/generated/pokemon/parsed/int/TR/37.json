@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Discard 1 Energy card attached to Dark Golduck in order to draw up to 3 cards."
+      },
+      "name": {
+        "en": "Third Eye"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

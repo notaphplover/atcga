@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Anorith by attacks is reduced by 20 (after applying Weakness and Resistance)."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."

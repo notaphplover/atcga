@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This Pokémon can't use Sacred Sword during your next turn.",

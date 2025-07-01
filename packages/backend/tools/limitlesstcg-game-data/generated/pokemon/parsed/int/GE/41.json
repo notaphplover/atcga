@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 40 more damage."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If Hariyama has fewer remaining HP than the Defending Pokémon, this attack's base damage is 80."

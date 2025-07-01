@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Lullaby"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each of your Benched Pokémon."

@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "rlc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, if any of your current Active Pokémon does damage to any Defending Pokémon, the attack does 30 more damage (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Dragon Dance"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

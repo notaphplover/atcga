@@ -3,7 +3,10 @@
   "abilityName": "Fellowship",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "During your opponent's next turn, Bellossom has no Weakness."

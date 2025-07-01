@@ -3,7 +3,10 @@
   "abilityName": "Elusive Master",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

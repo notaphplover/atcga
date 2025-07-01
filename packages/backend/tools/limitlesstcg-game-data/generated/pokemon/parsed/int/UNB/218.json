@@ -3,7 +3,10 @@
   "abilityName": "Solid Shell",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Shuffle any amount of [W] Energy from your Pokémon into your deck. This attack does 60 damage for each card you shuffled into your deck in this way.",
@@ -18,6 +21,25 @@
         "de": "Raketenplatscher",
         "it": "Razzo Spruzzo",
         "es": "Salpicadura Vertiginosa"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Attach any number of [W] Energy cards from your hand to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Attachez autant de cartes Énergie [W] que vous le voulez de votre main à vos Pokémon, de la manière que vous voulez. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege beliebig viele [W]-Energiekarten aus deiner Hand beliebig an deine Pokémon an. (Du kannst pro Spiel nur 1 GX Attacke einsetzen.)",
+        "it": "Assegna a piacimento ai tuoi Pokémon un numero qualsiasi di carte Energia [W] dalla tua mano. Non puoi usare più di un attacco GX a partita.",
+        "es": "Une cualquier cantidad de cartas de Energía [W] de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Giant Geyser-GX",
+        "fr": "Geyser Géant-GX",
+        "de": "Riesengeysir-GX",
+        "it": "Geyser Gigante-GX",
+        "es": "Géiser Gigante-GX"
       }
     }
   ],

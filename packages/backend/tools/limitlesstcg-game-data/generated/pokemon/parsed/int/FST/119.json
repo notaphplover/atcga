@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon's attacks cost [C] more, and its Retreat Cost is [C] more.",

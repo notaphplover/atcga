@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Controlled Burn",
+        "fr": "Feu Contrôlé",
+        "de": "Brandrodung",
+        "it": "Incendio Preventivo",
+        "es": "Fuego Controlado"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

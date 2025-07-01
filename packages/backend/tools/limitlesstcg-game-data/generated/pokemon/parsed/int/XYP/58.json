@@ -3,7 +3,11 @@
   "abilityName": "Contrary",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, your opponent's Active Pokémon is now Confused."

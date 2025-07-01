@@ -3,7 +3,10 @@
   "abilityName": "Hydroelectric Power",
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

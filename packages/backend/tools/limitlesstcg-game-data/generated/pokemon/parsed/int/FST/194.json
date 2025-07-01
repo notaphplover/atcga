@@ -3,7 +3,12 @@
   "abilityName": "Blue Assist",
   "attacks": [
     {
-      "cost": "wwpc",
+      "cost": [
+        "w",
+        "w",
+        "p",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

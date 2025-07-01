@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, search your discard pile for a [M] Energy card and attach it to Lairon.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

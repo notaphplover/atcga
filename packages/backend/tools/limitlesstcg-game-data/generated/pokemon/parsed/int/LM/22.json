@@ -3,7 +3,10 @@
   "abilityName": "Reactive Recharge",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If Magneton has any React Energy cards attached to it, this attack does 30 damage plus 10 more damage for each Magnemite and Magneton (both yours and your opponent's) in play."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

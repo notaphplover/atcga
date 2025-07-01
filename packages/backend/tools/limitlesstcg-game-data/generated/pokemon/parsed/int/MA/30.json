@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for Pokémon that has Team Aqua in its name, show up to 3 of them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Aqua Call"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

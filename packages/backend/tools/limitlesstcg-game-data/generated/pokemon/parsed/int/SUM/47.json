@@ -3,7 +3,9 @@
   "abilityName": "Innards Out",
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 damage for each heads.",

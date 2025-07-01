@@ -3,7 +3,10 @@
   "abilityName": "Darkest Impulse",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard all [L] Energy attached to Dark Ampharos."

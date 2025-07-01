@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Look at your opponent's hand and put a card you find there in the Lost Zone.",
+        "fr": "Regardez la main de votre adversaire et placez une carte que vous y trouvez dans la Zone Perdue.",
+        "de": "Schau dir die Hand deines Gegners an und lege 1 Karte, die du dort findest, ins Nirgendwo.",
+        "it": "Guarda le carte in mano al tuo avversario, prendi una carta presente tra esse e mettila nell'area perduta.",
+        "es": "Mira las cartas de la mano de tu rival y pon 1 carta que encuentres entre ellas en la Zona Perdida."
+      },
+      "name": {
+        "en": "Memory Melt",
+        "fr": "Mémoire Déliquescente",
+        "de": "Gedächtnisschmelze",
+        "it": "Vuoto di Memoria",
+        "es": "Disipar Memoria"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon.",

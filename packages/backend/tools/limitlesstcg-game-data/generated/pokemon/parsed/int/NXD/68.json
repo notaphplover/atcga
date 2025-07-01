@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for 2 Pokémon Tool cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez 2 cartes Outil Pokémon dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 2 Pokémon-Ausrüstungen, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo due carte Oggetto Pokémon, mostrale e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 2 cartas de Herramienta Pokémon, enséñalas y ponlas en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Haul In",
+        "fr": "Mainmise",
+        "de": "Einziehen",
+        "it": "Rete",
+        "es": "Arrastrar"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 10 more damage for each damage counter on the Defending Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -14,7 +16,10 @@
       }
     },
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "This attack does 80 more damage for each of your Benched Charjabug.",

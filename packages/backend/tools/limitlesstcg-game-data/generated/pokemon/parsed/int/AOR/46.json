@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. The new Active Pokémon is now Confused.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif. Le nouveau Pokémon Actif est maintenant Confus.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus. Das neue Aktive Pokémon ist jetzt verwirrt.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Il nuovo Pokémon attivo viene confuso.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. El nuevo Pokémon Activo pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Entangling Control",
+        "fr": "Contrôle Emmêlant",
+        "de": "Kontrollschlinge",
+        "it": "Invischiacomando",
+        "es": "Control Estrangulador"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Put a card from your discard pile into your hand.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a [R] Energy card from your hand. Then, draw 3 cards.",
+        "fr": "Défaussez une carte Énergie [R] de votre main. Ensuite, piochez 3 cartes.",
+        "de": "Lege 1 [R]-Energiekarte von deiner Hand auf deinen Ablagestapel. Ziehe danach 3 Karten.",
+        "it": "Scarta una carta Energia [R] presente tra le carte che hai in mano. Poi pesca 3 carte.",
+        "es": "Descarta una carta de Energía [R] de tu mano. Luego roba 3 cartas."
+      },
+      "name": {
+        "en": "Flare Bonus",
+        "fr": "Bonus d'intimidation",
+        "de": "Flammenbonus",
+        "it": "Bonus Fiammata",
+        "es": "Bonus de llama"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

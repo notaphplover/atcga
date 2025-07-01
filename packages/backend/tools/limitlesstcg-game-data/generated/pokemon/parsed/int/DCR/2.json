@@ -3,7 +3,11 @@
   "abilityName": "Burning Draft",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",

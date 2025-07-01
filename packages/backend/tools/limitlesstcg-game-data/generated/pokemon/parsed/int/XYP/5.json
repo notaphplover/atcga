@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "yyc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Choose 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a [Y] Energy card and attach it to that Pokémon. Shuffle your deck afterward.",
+        "fr": "Choisissez 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, cherchez une carte Énergie [Y] dans votre deck et attachez-la au Pokémon choisi. Mélangez ensuite votre deck.",
+        "de": "Wähle 2 Pokémon auf deiner Bank aus. Durchsuche dein Deck nach jeweils 1 [Y]-Energiekarte für jedes dieser Pokémon und lege sie an das jeweilige Pokémon an. Mische anschließend dein Deck.",
+        "it": "Scegli due dei tuoi Pokémon in panchina. Per ognuno di essi, cerca nel tuo mazzo una carta Energia [Y] e assegnagliela. Poi rimischia le carte del tuo mazzo.",
+        "es": "Elige 2 de tus Pokémon en Banca. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía [Y] y únela a ese Pokémon. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Geomancy",
+        "fr": "Géo-Contrôle",
+        "de": "Geokontrolle",
+        "it": "Geocontrollo",
+        "es": "Geocontrol"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon.",

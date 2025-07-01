@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon. During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 60 (before applying Weakness and Resistance).",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ddd",
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

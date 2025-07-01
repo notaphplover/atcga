@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",

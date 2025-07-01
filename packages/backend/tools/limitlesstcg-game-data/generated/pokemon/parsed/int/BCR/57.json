@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [R] Energy card and attach it to this Pokémon. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Énergie [R] dans votre deck et attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [R] e assegnala a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja una carta de Energía [R] y únela a este Pokémon. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Flame Charge",
+        "fr": "Nitrocharge",
+        "de": "Nitroladung",
+        "it": "Nitrocarica",
+        "es": "Nitrocarga"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 30 damage to itself.",

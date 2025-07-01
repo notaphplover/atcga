@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Once during your turn (before your attack), if Unown Z is on your Bench and you have no cards in your deck, you may discard all cards attached to Unown Z and put Unown Z on top of your deck.",
   "abilityName": "ZERO",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove as many damage counters as you like from each Unown you have in play. Put that many damage counters on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

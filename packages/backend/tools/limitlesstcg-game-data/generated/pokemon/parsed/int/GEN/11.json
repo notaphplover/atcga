@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach a [R] Energy card from your discard pile to this Pokémon.",
@@ -19,7 +22,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 more damage for each heads.",

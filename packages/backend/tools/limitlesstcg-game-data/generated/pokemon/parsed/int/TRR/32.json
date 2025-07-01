@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Tackle"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."

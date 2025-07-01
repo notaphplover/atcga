@@ -3,7 +3,12 @@
   "abilityName": "Energy Burn",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 2 Energy cards attached to Charizard in order to use this attack.",

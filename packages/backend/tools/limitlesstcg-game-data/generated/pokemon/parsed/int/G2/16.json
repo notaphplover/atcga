@@ -3,7 +3,12 @@
   "abilityName": "Psylink",
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You can't use this attack during your next turn."

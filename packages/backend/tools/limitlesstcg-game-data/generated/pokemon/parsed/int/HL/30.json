@@ -3,7 +3,21 @@
   "abilityName": "Temperamental Weather",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Stadium card and play it. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Forecast"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon is Pokémon-ex, this attack does 20 damage plus 20 more damage."

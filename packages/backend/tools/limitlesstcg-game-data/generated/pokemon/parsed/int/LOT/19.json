@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Devolve any number of your Benched Pokémon as many times as you like. Put each Evolution card removed this way into your hand.",
+        "fr": "Faites dés-évoluer autant de vos Pokémon de Banc autant de fois que vous voulez. Placez chaque carte Évolution retirée de cette façon dans votre main.",
+        "de": "Rückentwickle beliebig viele Pokémon auf deiner Bank beliebig oft. Nimm jede auf diese Weise entfernte Entwicklungskarte auf deine Hand.",
+        "it": "Annulla a piacimento l'evoluzione di un numero qualsiasi di Pokémon che hai in panchina. Aggiungi le carte Evoluzione rimosse in questo modo a quelle che hai in mano.",
+        "es": "Involuciona cualquier cantidad de tus Pokémon en Banca tantas veces como desees. Pon cada carta de Evolución eliminada de esta manera en tu mano."
+      },
+      "name": {
+        "en": "Time Distortion",
+        "fr": "Distorsion Temporelle",
+        "de": "Zeitverzerrung",
+        "it": "Distorsione Temporale",
+        "es": "Distorsión Temporal"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",

@@ -3,7 +3,10 @@
   "abilityName": "Solid Shell",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "140×",
       "effect": {
         "en": "Discard up to 2 Basic [W] Energy cards from your hand. This attack does 140 damage for each card you discarded in this way.",

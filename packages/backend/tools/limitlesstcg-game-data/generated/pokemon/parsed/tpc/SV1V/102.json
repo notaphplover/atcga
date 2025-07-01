@@ -3,7 +3,11 @@
   "abilityName": "タンデムユニット",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

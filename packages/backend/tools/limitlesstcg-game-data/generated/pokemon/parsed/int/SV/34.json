@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent draws 2 cards."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each card in your opponent's hand."

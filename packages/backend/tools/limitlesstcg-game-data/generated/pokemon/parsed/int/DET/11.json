@@ -3,7 +3,10 @@
   "abilityName": "Pantomime",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 4 coins. This attack does 20 damage for each heads.",

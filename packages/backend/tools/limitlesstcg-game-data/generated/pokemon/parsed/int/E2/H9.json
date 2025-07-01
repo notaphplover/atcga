@@ -3,7 +3,11 @@
   "abilityName": "Energy Return",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a number of coins equal to the number of damage counters on the Defending Pokémon. This attack does 30 damage plus 10 more damage for each heads."

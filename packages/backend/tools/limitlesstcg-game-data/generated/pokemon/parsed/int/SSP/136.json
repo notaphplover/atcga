@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gw",
+      "cost": [
+        "g",
+        "w"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each Basic Energy attached to this Pokémon.",

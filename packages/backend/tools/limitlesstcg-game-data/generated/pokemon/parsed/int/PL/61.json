@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [],
+      "effect": {
+        "en": "Remove 4 damage counters from Seviper."
+      },
+      "name": {
+        "en": "Shed Skin"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may switch Seviper with 1 of your Benched Pokémon."
@@ -11,7 +22,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."

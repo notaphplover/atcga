@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+      },
+      "name": {
+        "en": "Offensive Gas"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Koffing does 30 damage to itself, and don't apply Weakness and Resistance to this damage."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Flip a coin. If tails, Raikou ex does 20 damage to itself."

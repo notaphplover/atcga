@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -14,7 +16,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "You may discard your hand. If you discarded any cards in this way, this attack does 120 more damage.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a [W] Energy card from your hand to this Pokémon.",
+        "fr": "Attachez une carte Énergie [W] de votre main à ce Pokémon.",
+        "de": "Lege 1 [W]-Energiekarte aus deiner Hand an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia [W] dalla tua mano.",
+        "pt": "Ligue 1 carta de Energia [W] da sua mão a este Pokémon.",
+        "es": "Une 1 carta de Energía [W] de tu mano a este Pokémon."
+      },
+      "name": {
+        "en": "Soak in Water",
+        "fr": "Barbotage",
+        "de": "Einweichen",
+        "it": "Bagnato Fradicio",
+        "pt": "Deixar de Molho",
+        "es": "En Remojo"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

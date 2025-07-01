@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent may choose up to 3 Baby Pokémon, Basic Pokémon, and/or Evolution cards from his or her discard pile and shuffle them into his or her deck. Either way, you may do the same."
+      },
+      "name": {
+        "en": "Fish Out"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If there are more Energy attached to the Defending Pokémon than to Light Slowbro, this attack does 20 damage plus 20 more damage. If not, this attack does 20 damage."

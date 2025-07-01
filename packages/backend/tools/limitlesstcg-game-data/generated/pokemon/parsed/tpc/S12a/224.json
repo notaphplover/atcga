@@ -3,7 +3,11 @@
   "abilityName": "まじょのりょういき",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "jp": "相手のバトルポケモンをこんらんにする。"

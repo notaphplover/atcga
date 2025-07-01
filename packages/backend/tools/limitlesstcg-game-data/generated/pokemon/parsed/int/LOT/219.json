@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned and Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé et Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt und verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato e confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido y Quemado."
+      },
+      "name": {
+        "en": "Bursting Burn",
+        "fr": "Brûlure Explosante",
+        "de": "Berstender Brand",
+        "it": "Botto Ustionante",
+        "es": "Quemadura Explosiva"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Put any amount of [R] Energy attached to your Pokémon in the Lost Zone. This attack does 50 damage for each card put in the Lost Zone in this way.",
@@ -16,6 +38,24 @@
         "de": "Knallkopf",
         "it": "Sbalorditesta",
         "es": "Cabeza Sorpresa"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard 1 of your Prize cards. If it's an Energy card, attach it to 1 of your Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez l'une de vos cartes Récompense. Si c'est une carte Énergie, attachez-la à l'un de vos Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 1 deiner Preiskarten auf deinen Ablagestapel. Wenn es eine Energiekarte ist, lege sie an 1 deiner Pokémon an. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta una delle tue carte Premio. Se è una carta Energia, assegnala a uno dei tuoi Pokémon. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Burst-GX",
+        "fr": "Détonation-GX",
+        "de": "Detonation-GX",
+        "it": "Fragor-GX",
+        "es": "Explosivo-GX"
       }
     }
   ],

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 8 cards of your deck. You may put any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 8 cartes du dessus de votre deck. Vous pouvez placer sur votre Banc le nombre voulu de Pokémon que vous y trouvez. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 8 Karten deines Decks an. Du kannst beliebig viele Pokémon, die du dort findest, auf deine Bank legen. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime otto carte del tuo mazzo. Puoi mettere un numero qualsiasi di Pokémon presenti tra esse nella tua panchina. Rimischia le altre carte nel tuo mazzo.",
+        "pt": "Olhe as 8 cartas de cima do seu baralho. Você pode colocar qualquer número de Pokémon que encontrar lá no seu Banco. Embaralhe as outras cartas de volta no seu baralho.",
+        "es": "Mira las 8 primeras cartas de tu baraja. Puedes poner cualquier cantidad de Pokémon que encuentres entre ellas en tu Banca. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Summoning Gate",
+        "fr": "Portail Invocatoire",
+        "de": "Beschwörendes Portal",
+        "it": "Portale Evocativo",
+        "pt": "Portal da Invocação",
+        "es": "Portal de Invocación"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

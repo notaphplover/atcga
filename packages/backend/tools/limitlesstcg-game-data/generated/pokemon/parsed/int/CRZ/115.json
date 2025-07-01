@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle up to 2 Energy cards from your discard pile into your deck.",
+        "fr": "Mélangez avec votre deck jusqu'à 2 cartes Énergie de votre pile de défausse.",
+        "de": "Mische bis zu 2 Energiekarten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia fino a due carte Energia dalla tua pila degli scarti nel tuo mazzo.",
+        "pt": "Embaralhe até 2 cartas de Energia da sua pilha de descarte no seu baralho.",
+        "es": "Pon hasta 2 cartas de Energía de tu pila de descartes en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Gather Flowers",
+        "fr": "Brassée de Fleurs",
+        "de": "Blumen sammeln",
+        "it": "Coglifiori",
+        "pt": "Reunir Flores",
+        "es": "Recoger Flores"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

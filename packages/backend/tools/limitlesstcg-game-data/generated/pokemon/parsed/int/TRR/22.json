@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose up to 3 cards in your hand and put them on top of your deck. Then, search your deck for that many cards and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Quick Change"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Before doing damage, you may flip a coin. If heads, this attack does 80 damage instead. If tails, this attack does nothing."

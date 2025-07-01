@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep, Burned, and Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi, Brûlé et Empoisonné.",
+        "de": "Das Verteidigende Pokémon schläft jetzt, ist verbrannt und vergiftet.",
+        "it": "Il Pokémon difensore viene addormentato, bruciato e avvelenato.",
+        "es": "El Pokémon Defensor pasa a estar Dormido, Quemado y Envenenado."
+      },
+      "name": {
+        "en": "Hazardous Scales",
+        "fr": "Écailles Fatales",
+        "de": "Gefährliche Schuppen",
+        "it": "Scaglieferoci",
+        "es": "Escamas Nocivas"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

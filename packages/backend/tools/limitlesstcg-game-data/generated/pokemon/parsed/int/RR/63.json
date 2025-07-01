@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [R] Energy card and attach it to Growlithe. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Stoke"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Growlithe does 10 damage to itself."

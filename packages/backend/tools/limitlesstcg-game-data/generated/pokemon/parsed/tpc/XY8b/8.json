@@ -3,7 +3,11 @@
   "abilityName": "エナジーカラー",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

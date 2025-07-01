@@ -3,7 +3,10 @@
   "abilityName": "Natural Remedy",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each [W] Energy attached to all of your Pokémon.",

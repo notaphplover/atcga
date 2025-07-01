@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Each player draws 2 cards.",
+        "fr": "Chaque joueur pioche 2 cartes.",
+        "de": "Jeder Spieler zieht 2 Karten.",
+        "it": "Ciascun giocatore pesca due carte.",
+        "pt": "Cada jogador compra 2 cartas.",
+        "es": "Cada jugador roba 2 cartas."
+      },
+      "name": {
+        "en": "Teatime",
+        "fr": "Thérémonie",
+        "de": "Teatime",
+        "it": "Ora del Tè",
+        "pt": "Hora do Chá",
+        "es": "Hora del Té"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gf",
+      "cost": [
+        "g",
+        "f"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {
@@ -14,7 +17,12 @@
       }
     },
     {
-      "cost": "gffc",
+      "cost": [
+        "g",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "160+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 160 more damage, and discard 3 Energy from this Pokémon.",

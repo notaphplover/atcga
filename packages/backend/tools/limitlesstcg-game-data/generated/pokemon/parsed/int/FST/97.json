@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If this Pokémon evolved from Eelektrik during this turn, your opponent's Active Pokémon is now Paralyzed.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

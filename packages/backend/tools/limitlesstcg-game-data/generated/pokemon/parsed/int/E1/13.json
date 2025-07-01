@@ -3,7 +3,11 @@
   "abilityName": "Chaos Move",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Switch Gengar with 1 of your Benched Pokémon, if any."

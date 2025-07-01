@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "jp": "このポケモンのHPを「20」回復する。"
+      },
+      "name": {
+        "jp": "だっぴ"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

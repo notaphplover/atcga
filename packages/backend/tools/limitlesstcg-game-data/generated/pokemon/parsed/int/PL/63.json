@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for a card that evolves from Silcoon and put it onto Silcoon. (This counts as evolving Silcoon.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Ascension"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

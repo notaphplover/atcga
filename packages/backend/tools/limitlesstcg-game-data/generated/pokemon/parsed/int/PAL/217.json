@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This attack's damage isn’t affected by any effects on your opponent’s Active Pokémon.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card and put it into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez une carte dans votre deck, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta no seu baralho e coloque-a na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Wise Guidance",
+        "fr": "Conseil Avisé",
+        "de": "Weises Geleit",
+        "it": "Guida Saggia",
+        "pt": "Orientação Sábia",
+        "es": "Guía de la Sabiduría"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

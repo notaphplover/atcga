@@ -3,7 +3,10 @@
   "abilityName": "Evolutionary Swirl",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

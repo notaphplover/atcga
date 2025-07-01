@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it."
+      },
+      "name": {
+        "en": "Attract"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

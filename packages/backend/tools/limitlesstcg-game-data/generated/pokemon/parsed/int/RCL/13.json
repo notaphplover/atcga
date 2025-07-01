@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

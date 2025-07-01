@@ -1,13 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."
       },
       "name": {
         "en": "Surprise Attack"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard a [W] Energy card attached to Staryu and remove 4 damage counters from Staryu (all if there are less than 4)."
+      },
+      "name": {
+        "en": "Recover"
       }
     }
   ],

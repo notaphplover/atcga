@@ -1,7 +1,31 @@
 {
   "abilityEffect": "If this Pokémon has any [R] Energy attached, it has no Retreat Cost.",
   "abilityName": "Flare Float",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
+      "effect": {
+        "en": "Discard 2 [R] Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Défaussez 2 Énergies [R] de ce Pokémon. Cette attaque inflige 120 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Lege 2 [R]-Energien von diesem Pokémon auf deinen Ablagestapel. Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 120 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Scarta due Energie [R] da questo Pokémon. Questo attacco infligge 120 danni a uno dei Pokémon nella panchina del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Descarte 2 Energias [R] deste Pokémon. Este ataque causa 120 pontos de dano a 1 dos Pokémon no Banco do seu oponente. (Não aplique Fraqueza e Resistência aos Pokémon no Banco.)",
+        "es": "Descarta 2 Energías [R] de este Pokémon. Este ataque hace 120 puntos de daño a uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Blazing Flight",
+        "fr": "Vol Enflammé",
+        "de": "Feuriger Flug",
+        "it": "Volo Rovente",
+        "pt": "Voo Flamejante",
+        "es": "Vuelo Calcinador"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 120,
   "imageUrls": {

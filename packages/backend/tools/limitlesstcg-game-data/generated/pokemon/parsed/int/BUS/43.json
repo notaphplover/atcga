@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon does 20 damage to itself.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

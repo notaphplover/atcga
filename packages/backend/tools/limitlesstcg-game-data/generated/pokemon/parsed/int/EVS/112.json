@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon V, it can't attack during your opponent's next turn.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "pmmc",
+      "cost": [
+        "p",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "210",
       "effect": {},
       "name": {

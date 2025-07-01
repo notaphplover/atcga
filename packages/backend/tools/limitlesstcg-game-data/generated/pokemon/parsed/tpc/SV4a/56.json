@@ -3,7 +3,11 @@
   "abilityName": "ライアース",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "jp": "このポケモンにも50ダメージ。"

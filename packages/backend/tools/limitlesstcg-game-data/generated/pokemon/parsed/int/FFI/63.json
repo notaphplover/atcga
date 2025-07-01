@@ -3,7 +3,9 @@
   "abilityName": "Shining Spirit",
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60",
       "effect": {
         "en": "If your opponent's Active Pokémon isn't a Pokémon-EX, this attack does nothing.",

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a card from your hand. If you do, draw 3 cards.",
+        "fr": "Défaussez une carte de votre main. Dans ce cas, piochez 3 cartes.",
+        "de": "Lege 1 Karte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 3 Karten.",
+        "it": "Scarta una delle carte che hai in mano. Se lo fai, pesca tre carte.",
+        "pt": "Descarte uma carta da sua mão. Se fizer isto, compre 3 cartas.",
+        "es": "Descarta 1 carta de tu mano. Si lo haces, roba 3 cartas."
+      },
+      "name": {
+        "en": "Fruit Bearing",
+        "fr": "Récolte de Fruits",
+        "de": "Obsternte",
+        "it": "Fruttificazione",
+        "pt": "Safra das Frutas",
+        "es": "Cosecha de Frutas"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

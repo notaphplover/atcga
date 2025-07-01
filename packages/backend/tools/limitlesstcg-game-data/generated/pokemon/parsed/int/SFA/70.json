@@ -3,7 +3,11 @@
   "abilityName": "Cursed Blast",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

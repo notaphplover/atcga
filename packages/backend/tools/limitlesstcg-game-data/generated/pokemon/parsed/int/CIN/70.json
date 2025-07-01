@@ -3,7 +3,11 @@
   "abilityName": "Slice Off",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "You may shuffle this Pokémon and all cards attached to it into your deck.",
@@ -18,6 +22,25 @@
         "de": "Sturmschwert",
         "it": "Raffica di Lame",
         "es": "Tajo Huracanado"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Take a Prize card. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Récupérez une carte Récompense. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Nimm 1 Preiskarte. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi una carta Premio. Non puoi usare più di un attacco GX a partita.",
+        "es": "Coge 1 carta de Premio. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Blade-GX",
+        "fr": "Lame-GX",
+        "de": "Schwerthieb-GX",
+        "it": "Sectio-GX",
+        "es": "Tajo-GX"
       }
     }
   ],

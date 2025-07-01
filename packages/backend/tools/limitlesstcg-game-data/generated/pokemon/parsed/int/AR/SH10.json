@@ -3,7 +3,9 @@
   "abilityName": "Star Barrier",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip 2 coins. If either of them is tails, this attack does nothing."

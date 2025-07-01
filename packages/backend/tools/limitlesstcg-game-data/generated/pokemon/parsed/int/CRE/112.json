@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 90 more damage.",

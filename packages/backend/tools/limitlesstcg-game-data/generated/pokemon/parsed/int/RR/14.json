@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If Aggron was damaged by an attack during your opponent's last turn, this attack does the same amount of damage done to Aggron to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Return Blow"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may discard the top card of your deck. If you do, remove 2 damage counters and all Special Conditions from Aggron."
@@ -11,7 +27,12 @@
       }
     },
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

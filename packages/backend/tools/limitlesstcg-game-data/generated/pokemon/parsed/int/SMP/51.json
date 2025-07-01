@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a card and put it into your hand. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "Nasty Plot"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

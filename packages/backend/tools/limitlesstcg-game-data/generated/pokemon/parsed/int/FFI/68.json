@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "You may discard an Item card from your hand. If you do, this attack does 40 more damage.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

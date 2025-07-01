@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put Jigglypuff from your hand onto Igglybuff (this counts as evolving Igglybuff), and remove all damage counters from Igglybuff.",
   "abilityName": "Baby Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon and a basic Energy card, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Set Song"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

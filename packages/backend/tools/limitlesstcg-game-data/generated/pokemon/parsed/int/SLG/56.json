@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "rllc",
+      "cost": [
+        "r",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",

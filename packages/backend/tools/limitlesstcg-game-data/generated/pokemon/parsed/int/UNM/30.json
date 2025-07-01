@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Discard the top 5 cards of your deck. This attack does 60 more damage for each Pokémon you discarded in this way. Then, put any number of [R] Pokémon you discarded in this way onto your Bench.",

@@ -1,5 +1,48 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Your opponent may draw 2 cards. Either way, you may draw 2 cards.",
+        "fr": "Votre adversaire peut piocher 2 cartes. Quoi qu'il décide, vous pouvez aussi piocher 2 cartes.",
+        "de": "Dein Gegner darf 2 Karten ziehen. Unabhängig davon darfst du 2 Karten ziehen.",
+        "it": "Il tuo avversario può pescare 2 carte. In ogni caso, anche tu puoi pescare 2 carte.",
+        "pt": "Seu oponente pode comprar 2 cartas. De qualquer maneira, você pode comprar 2 cartas.",
+        "es": "Tu rival puede robar 2 cartas. Tanto si lo hace como si no, puedes robar 2 cartas."
+      },
+      "name": {
+        "en": "Gold Scale",
+        "fr": "Écaille d'or",
+        "de": "Goldschuppen",
+        "it": "Squama d'Oro",
+        "pt": "Escama Dourada",
+        "es": "Escama Áurea"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Search your deck for a card named Gyarados, Dark Gyarados, or Shining Gyarados. Show it to your opponent and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Léviator, Léviator Obscur ou Léviator Brillant dans votre deck. Montrez-la à votre adversaire et placez-la dans votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach einer Karte namens Garados, Dunkles Garados oder Schimmerndes Garados. Zeige diese Karte deinem Gegner und nimm sie auf deine Hand. Mische danach dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta chiamata Gyarados, Dark Gyarados o Shining Gyarados. Mostrala al tuo avversario e aggiungila alla tua mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta chamada Gyarados, Gyarados Sombrio, ou Gyarados Luminescente no seu baralho. Mostre-a ao seu oponente e coloque-a na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu mazo una carta llamada Gyarados, Gyarados Oscuro o Gyarados Luminoso. Muéstrala a tu rival y ponla en tu mano. Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Dragon Bond",
+        "fr": "Lien du Dragon",
+        "de": "Drachenbund",
+        "it": "Dragolegame",
+        "pt": "Vínculo Dracônico",
+        "es": "Vínculos de Dragón"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

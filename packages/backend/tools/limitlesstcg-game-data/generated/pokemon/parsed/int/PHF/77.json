@@ -3,7 +3,12 @@
   "abilityName": "Slip Trip",
   "attacks": [
     {
-      "cost": "wycc",
+      "cost": [
+        "w",
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard the top card of your deck.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
@@ -21,7 +24,13 @@
       }
     },
     {
-      "cost": "mcccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",

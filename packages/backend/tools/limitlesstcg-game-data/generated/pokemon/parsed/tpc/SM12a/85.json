@@ -3,7 +3,10 @@
   "abilityName": "ヘアーウォール",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

@@ -3,7 +3,12 @@
   "abilityName": "Rock Wall",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

@@ -3,7 +3,10 @@
   "abilityName": "Power Huddle",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

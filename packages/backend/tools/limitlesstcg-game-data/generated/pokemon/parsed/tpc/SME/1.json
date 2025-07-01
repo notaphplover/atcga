@@ -3,7 +3,11 @@
   "abilityName": "プレッシャー",
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

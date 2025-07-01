@@ -3,7 +3,10 @@
   "abilityName": "Submerge",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "140",
       "effect": {
         "en": "This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

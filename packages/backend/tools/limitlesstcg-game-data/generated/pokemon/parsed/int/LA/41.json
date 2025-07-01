@@ -3,7 +3,10 @@
   "abilityName": "White Smoke",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Burned and Paralyzed."

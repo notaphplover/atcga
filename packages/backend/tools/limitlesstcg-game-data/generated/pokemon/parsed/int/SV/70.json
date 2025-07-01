@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may discard 2 cards from your hand. If you do, remove 4 damage counters from 1 of your Pokémon."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "90-",
       "effect": {
         "en": "Does 90 damage minus 10 damage for each card in your hand."

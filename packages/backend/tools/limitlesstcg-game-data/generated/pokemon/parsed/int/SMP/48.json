@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "dycc",
+      "cost": [
+        "d",
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard a [D] Energy and a [Y] Energy from this Pokémon.",

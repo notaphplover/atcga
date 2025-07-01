@@ -3,7 +3,10 @@
   "abilityName": "Stench",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat during your opponent's next turn."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards. If you do, this Pokémon is now Asleep.",
+        "fr": "Piochez 3 cartes. Dans ce cas, ce Pokémon est maintenant Endormi.",
+        "de": "Ziehe 3 Karten. Wenn du das machst, schläft dieses Pokémon jetzt.",
+        "it": "Pesca tre carte. Se lo fai, questo Pokémon viene addormentato.",
+        "pt": "Compre 3 cartas. Se fizer isto, este Pokémon ficará Adormecido.",
+        "es": "Roba 3 cartas. Si lo haces, este Pokémon pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Caturday",
+        "fr": "Chamedi",
+        "de": "Schnurrtag",
+        "it": "Giornogatto",
+        "pt": "Dia de Gato",
+        "es": "Sábado Gatuno"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

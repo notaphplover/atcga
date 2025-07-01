@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Me First",
+        "fr": "Moi d'Abord",
+        "de": "Egotrip",
+        "it": "Precedenza",
+        "es": "Yo Primero"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

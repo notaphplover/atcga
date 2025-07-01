@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Once during your turn (before your attack), if Unown Y is on your Bench, you may remove 1 damage counter from 1 of your Active Unown and that Unown is now Asleep.",
   "abilityName": "YAWN",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Trainer cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

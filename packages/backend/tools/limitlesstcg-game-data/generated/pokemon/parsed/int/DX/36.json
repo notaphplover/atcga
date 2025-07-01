@@ -3,7 +3,21 @@
   "abilityName": "Moonglow",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of either player's deck and put them back on top of that player's deck in any order."
+      },
+      "name": {
+        "en": "Foresight"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each Solrock you have in play."

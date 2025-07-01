@@ -1,7 +1,21 @@
 {
   "abilityEffect": "自分の番に1回使える。自分の手札が3枚になるように、山札を引く。",
   "abilityName": "リスタート",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "jp": "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。"
+      },
+      "name": {
+        "jp": "ゲノムハック"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 180,
   "imageUrls": {

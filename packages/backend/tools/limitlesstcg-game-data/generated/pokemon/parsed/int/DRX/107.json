@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Both this Pokémon and the Defending Pokémon are now Asleep.",

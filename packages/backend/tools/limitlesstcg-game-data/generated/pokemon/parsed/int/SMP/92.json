@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If any of your [W] Pokémon were healed during this turn, this attack does 60 more damage."

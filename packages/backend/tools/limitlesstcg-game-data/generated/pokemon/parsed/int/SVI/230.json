@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard a Stadium in play.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "250",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

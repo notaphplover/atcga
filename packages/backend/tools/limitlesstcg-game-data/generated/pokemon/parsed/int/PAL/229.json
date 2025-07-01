@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -14,7 +16,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",

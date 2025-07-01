@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [P] Energy card and attach it to Slowpoke. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Afternoon Nap"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

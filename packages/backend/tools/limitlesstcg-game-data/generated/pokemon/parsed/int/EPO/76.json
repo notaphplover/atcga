@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach an Energy card from your discard pile to this Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon can't use Zap Cannon during your next turn.",

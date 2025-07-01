@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, if Cascoon would be damaged by an attack, prevent that attack's damage done to Cascoon if that damage is 30 or less."
+      },
+      "name": {
+        "en": "Harden"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

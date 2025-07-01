@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This Pokémon does 10 damage to itself.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

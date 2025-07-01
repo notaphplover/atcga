@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put Electabuzz from your hand onto Elekid (this counts as evolving Elekid) and remove all damage counters from Elekid.",
   "abilityName": "Baby Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Gather Energy"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

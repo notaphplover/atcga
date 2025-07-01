@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each of your Evolution Pokémon in play.",
@@ -21,7 +24,12 @@
       }
     },
     {
-      "cost": "gccc",
+      "cost": [
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

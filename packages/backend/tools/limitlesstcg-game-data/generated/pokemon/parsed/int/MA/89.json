@@ -1,13 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Burned."
       },
       "name": {
         "en": "Blaze Kick"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 [R] Energy attached to Blaziken ex and then choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Volcanic Ash"
       }
     }
   ],

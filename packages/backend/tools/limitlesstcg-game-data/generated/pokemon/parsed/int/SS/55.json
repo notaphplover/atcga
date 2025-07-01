@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may remove 1 damage counter from each of your Active Pokémon. This power can't be used if Xatu is affected by a Special Condition.",
   "abilityName": "Healing Wind",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on each of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Psyimpact"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

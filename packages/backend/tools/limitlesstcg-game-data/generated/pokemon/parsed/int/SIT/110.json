@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -14,7 +16,10 @@
       }
     },
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 50 more damage from attacks (after applying Weakness and Resistance).",

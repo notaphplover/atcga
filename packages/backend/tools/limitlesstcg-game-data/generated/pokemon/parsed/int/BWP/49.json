@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Lead"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Both this Pokémon and the Defending Pokémon are now Asleep."

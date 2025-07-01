@@ -3,7 +3,10 @@
   "abilityName": "Trump Card",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your next turn, Slowking's Psych Up attack's base damage is 60."

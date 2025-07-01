@@ -3,7 +3,11 @@
   "abilityName": "プリンセスエール",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "自分のベンチポケモン全員のHPを、それぞれ「30」回復する。"

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 50 damage to itself.",

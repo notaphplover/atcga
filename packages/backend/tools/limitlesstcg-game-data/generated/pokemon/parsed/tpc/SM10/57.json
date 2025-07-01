@@ -3,7 +3,9 @@
   "abilityName": "うらみだめ",
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "10+",
       "effect": {
         "jp": "このポケモンにのっているダメカンの数x30ダメージ追加。"

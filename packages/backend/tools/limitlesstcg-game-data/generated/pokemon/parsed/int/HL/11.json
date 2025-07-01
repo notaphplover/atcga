@@ -3,7 +3,11 @@
   "abilityName": "Metal Juncture",
   "attacks": [
     {
-      "cost": "pmc",
+      "cost": [
+        "p",
+        "m",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 4 coins. This attack does 30 damage times the number of heads."

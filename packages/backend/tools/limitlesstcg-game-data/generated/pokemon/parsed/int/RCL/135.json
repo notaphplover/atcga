@@ -3,7 +3,11 @@
   "abilityName": "Big Shield",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

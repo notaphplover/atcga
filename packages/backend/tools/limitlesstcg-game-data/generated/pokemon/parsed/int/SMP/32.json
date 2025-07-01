@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +11,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "You may discard all Energy from this Pokémon. If you do, this attack does 60 more damage."
@@ -19,7 +25,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"

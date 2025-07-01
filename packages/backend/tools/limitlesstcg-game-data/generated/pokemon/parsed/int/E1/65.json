@@ -3,7 +3,12 @@
   "abilityName": "Heat Up",
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."

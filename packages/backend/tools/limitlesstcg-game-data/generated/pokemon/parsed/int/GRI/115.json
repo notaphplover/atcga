@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage.",
@@ -34,6 +40,24 @@
         "de": "Wutausbruch",
         "it": "Furore",
         "es": "Cólera"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Mélangez votre main avec votre deck. Ensuite, piochez 10 cartes. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Mische deine Handkarten in dein Deck. Ziehe anschließend 10 Karten. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Rimischia le carte che hai in mano nel tuo mazzo. Poi pesca 10 carte. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Big Wheel-GX",
+        "fr": "Grande Roue-GX",
+        "de": "Riesenrad-GX",
+        "it": "Gran Carosello-GX",
+        "es": "Gran Rueda-GX"
       }
     }
   ],

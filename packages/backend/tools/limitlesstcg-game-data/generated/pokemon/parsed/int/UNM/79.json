@@ -3,7 +3,30 @@
   "abilityName": "Psychic Zone",
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Search your deck for an Energy card and attach it to 1 of your [P] Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez une carte Énergie dans votre deck et attachez-la à l'un de vos Pokémon [P]. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Energiekarte und lege sie an 1 deiner [P]-Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia e assegnala a uno dei tuoi Pokémon [P]. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Energía y únela a 1 de tus Pokémon [P]. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Star Search",
+        "fr": "Recherche Étoile",
+        "de": "Sternenfund",
+        "it": "Ricerca Stellare",
+        "es": "Búsqueda Estelar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",

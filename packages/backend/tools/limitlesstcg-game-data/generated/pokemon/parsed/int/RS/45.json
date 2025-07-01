@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."
       },
       "name": {
         "en": "Claw"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all damage counters from Slakoth. Slakoth can't attack during your next turn."
+      },
+      "name": {
+        "en": "Slack Off"
       }
     }
   ],

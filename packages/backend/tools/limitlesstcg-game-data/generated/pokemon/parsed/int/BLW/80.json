@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put an Item card from your discard pile into your hand.",
+        "fr": "Prenez une carte Objet dans votre pile de défausse et ajoutez-la à votre main.",
+        "de": "Nimm 1 Itemkarte von deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Strumento dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "es": "Pon una carta de Objeto de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Pickup",
+        "fr": "Ramassage",
+        "de": "Mitnahme",
+        "it": "Raccogliere",
+        "es": "Recogida"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

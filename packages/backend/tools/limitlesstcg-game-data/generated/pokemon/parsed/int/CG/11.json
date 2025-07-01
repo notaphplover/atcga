@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose either Burned or Poisoned, and either Asleep or Confused. The Defending Pokémon is now affected by both Special Conditions."
+      },
+      "name": {
+        "en": "Pick and Choose"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 20 more damage for each Special Condition affecting the Defending Pokémon."

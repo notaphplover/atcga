@@ -3,7 +3,20 @@
   "abilityName": "Camouflage Gas",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Count the number of damage counters on Weezing. Put that many damage counters on the Defending Pokémon and Weezing is now Confused."
+      },
+      "name": {
+        "en": "Damage Breakdown"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

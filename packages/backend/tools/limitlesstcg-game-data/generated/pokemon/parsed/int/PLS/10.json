@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

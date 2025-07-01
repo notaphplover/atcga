@@ -1,5 +1,26 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for Grimer and put it onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Division"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Gas"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

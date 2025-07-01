@@ -3,7 +3,11 @@
   "abilityName": "Defense Sign",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, Vespiquen's Retreat Cost is 0.",

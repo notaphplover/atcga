@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Scambia questo Pokémon con uno della tua panchina.",
+        "es": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Run Around",
+        "fr": "Course Effrénée",
+        "de": "Herumrennen",
+        "it": "Correre Intorno",
+        "es": "Correr Alrededor"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

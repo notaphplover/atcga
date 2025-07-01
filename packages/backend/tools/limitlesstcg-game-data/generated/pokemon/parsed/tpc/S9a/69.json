@@ -3,7 +3,10 @@
   "abilityName": "やまあぶり",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

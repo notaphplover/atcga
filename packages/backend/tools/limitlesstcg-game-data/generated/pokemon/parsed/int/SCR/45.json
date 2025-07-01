@@ -3,7 +3,12 @@
   "abilityName": "Food Prep",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",

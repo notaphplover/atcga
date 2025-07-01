@@ -3,7 +3,11 @@
   "abilityName": "Swaying Strangle",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

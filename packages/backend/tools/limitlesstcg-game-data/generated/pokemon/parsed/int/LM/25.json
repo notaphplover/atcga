@@ -1,7 +1,30 @@
 {
   "abilityEffect": "As long as you have Lunatone in play, each player's [C] Pokémon (excluding Pokémon-ex) can't use any Poké-Powers.",
   "abilityName": "Luna Shade",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Lunatone and put it onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Call for Family"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Hyper Beam"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

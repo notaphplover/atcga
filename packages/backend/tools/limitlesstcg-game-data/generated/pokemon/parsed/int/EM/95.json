@@ -3,7 +3,23 @@
   "abilityName": "Wise Aura",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Pure Power"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If the Defending Pokémon has [F] Resistance, this attack does 60 damage plus 40 more damage."

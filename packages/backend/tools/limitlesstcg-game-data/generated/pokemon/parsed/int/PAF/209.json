@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Collect",
+        "fr": "Collecte",
+        "de": "Sammeln",
+        "it": "Tassa",
+        "pt": "Coleta",
+        "es": "Coleccionar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

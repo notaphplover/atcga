@@ -3,7 +3,9 @@
   "abilityName": "Minus Charge",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If you have Plusle on your Bench, you may move an Energy card attached to Minun to 1 of your Benched Pokémon."

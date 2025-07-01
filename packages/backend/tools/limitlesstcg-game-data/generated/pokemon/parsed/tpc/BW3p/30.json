@@ -3,7 +3,10 @@
   "abilityName": "よちむ",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "jp": "このポケモンをねむりにする。"

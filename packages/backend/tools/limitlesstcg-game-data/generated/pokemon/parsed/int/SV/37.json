@@ -3,7 +3,10 @@
   "abilityName": "Focus Wall",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Mr. Mime already has 5 or more damage counters on it, this attack does 20 damage plus 40 more damage."

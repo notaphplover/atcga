@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 2 coins. This attack does 50 damage times the number of heads.",
@@ -18,7 +21,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

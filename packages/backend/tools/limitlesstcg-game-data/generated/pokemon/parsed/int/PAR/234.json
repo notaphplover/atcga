@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If you go first, you can use this attack during your first turn. Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Si vous jouez en premier, vous pouvez utiliser cette attaque pendant votre premier tour. Cherchez dans votre deck jusqu'à 3 Pokémon de base, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Wenn du als Erster am Zug bist, kannst du diese Attacke während deines ersten Zuges einsetzen. Durchsuche dein Deck nach bis zu 3 Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Se inizi per primo, puoi usare questo attacco durante il tuo primo turno. Cerca nel tuo mazzo fino a tre Pokémon Base e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Se você for o primeiro a jogar, poderá usar este ataque durante o seu primeiro turno. Procure por até 3 Pokémon Básicos no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Si sales en primer lugar, puedes usar este ataque durante tu primer turno. Busca en tu baraja hasta 3 Pokémon Básicos y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Fast Carrier",
+        "fr": "Transporteur Rapide",
+        "de": "Schneller Lieferant",
+        "it": "Corriere Celere",
+        "pt": "Entrega a Jato",
+        "es": "Transportista Veloz"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "You may put this Pokémon and all attached cards into your hand.",

@@ -1,13 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
       },
       "name": {
         "en": "Double Slap"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) Clefable performs that attack."
+      },
+      "name": {
+        "en": "Metronome"
       }
     }
   ],

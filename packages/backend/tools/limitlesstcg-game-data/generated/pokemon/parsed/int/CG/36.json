@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      "name": {
+        "en": "Roar"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Put 1 damage counter on Lairon."

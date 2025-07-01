@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at your face-down Prize cards.",
+        "fr": "Regardez vos cartes Récompense (actuellement face cachée).",
+        "de": "Sieh dir deine verdeckten Preiskarten an.",
+        "it": "Guarda le tue carte Premio coperte.",
+        "es": "Mira tus cartas de Premio que están boca abajo."
+      },
+      "name": {
+        "en": "Eye Opener",
+        "fr": "Ouvrir les Yeux",
+        "de": "Spähen",
+        "it": "Sbirciata",
+        "es": "Bebida Amanecer"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

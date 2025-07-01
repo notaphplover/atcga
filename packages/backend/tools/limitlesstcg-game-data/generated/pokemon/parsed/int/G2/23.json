@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -9,7 +13,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 damage plus 50 more damage if you have at least 1 Giovanni's Nidoking on your Bench. If tails, this attack does nothing."

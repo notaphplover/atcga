@@ -3,7 +3,11 @@
   "abilityName": "Sharing",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

@@ -3,7 +3,18 @@
   "abilityName": "Keystone Seal",
   "attacks": [
     {
-      "cost": "d",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) If you do, put 1 damage counter on Spiritomb. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Darkness Grace"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

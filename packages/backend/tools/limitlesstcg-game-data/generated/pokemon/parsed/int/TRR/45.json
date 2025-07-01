@@ -3,7 +3,10 @@
   "abilityName": "Ripples",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Mantine can't attack during your next turn."

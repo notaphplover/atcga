@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 20 more damage for each [G] Energy attached to this Pokémon.",

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Spit Poison"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

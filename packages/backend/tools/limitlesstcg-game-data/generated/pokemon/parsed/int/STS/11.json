@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Until the end of your opponent's next turn, each Stadium or Pokémon Tool card in play has no effect. (This includes cards that come into play on that turn.)",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 60 more damage.",

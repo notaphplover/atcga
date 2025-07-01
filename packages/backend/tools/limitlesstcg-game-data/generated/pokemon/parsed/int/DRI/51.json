@@ -3,7 +3,11 @@
   "abilityName": "Repelling Veil",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage.",

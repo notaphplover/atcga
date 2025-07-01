@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, put any 1 card from your discard pile into your hand."
+      },
+      "name": {
+        "en": "Delivery"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch Drifloon with 1 of your Benched Pokémon."

@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to Remoraid. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Energy Draw"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

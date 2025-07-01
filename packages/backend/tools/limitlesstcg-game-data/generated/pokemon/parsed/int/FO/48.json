@@ -1,13 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       "name": {
         "en": "Nasty Goo"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Minimize"
       }
     }
   ],

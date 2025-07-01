@@ -3,7 +3,10 @@
   "abilityName": "Effect Spore",
   "attacks": [
     {
-      "cost": "yy",
+      "cost": [
+        "y",
+        "y"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If your opponent's Active Pokémon is Asleep, your opponent shuffles all Energy from it into their deck.",

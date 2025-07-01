@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Elektroball",
         "it": "Energisfera",
         "es": "Bola Voltio"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck.",
+        "fr": "Lancez 3 pièces. Pour chaque côté face, choisissez une carte au hasard de la main de votre adversaire. Votre adversaire montre la carte choisie et la mélange avec son deck.",
+        "de": "Wirf 3 Münzen. Wähle pro „Kopf“ 1 zufällige Karte aus der verdeckten Hand deines Gegners. Dein Gegner zeigt diese Karte und mischt sie zurück in sein Deck.",
+        "it": "Lancia tre volte una moneta. Ogni volta che esce testa, scegli una carta a caso dalla mano del tuo avversario. Il tuo avversario mostra quella carta e la rimischia nel suo mazzo.",
+        "es": "Lanza 3 monedas. Por cada cara, elige 1 carta aleatoria de la mano de tu rival. Tu rival enseña esa carta, la pone en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Electric Mischief",
+        "fr": "Espièglerie Électrique",
+        "de": "Elektrostreich",
+        "it": "Elettroburla",
+        "es": "Jugarreta Eléctrica"
       }
     }
   ],

@@ -3,7 +3,11 @@
   "abilityName": "Final Blow",
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

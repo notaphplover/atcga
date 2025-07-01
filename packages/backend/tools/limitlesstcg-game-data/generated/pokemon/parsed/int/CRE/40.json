@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Put an Energy attached to this Pokémon into your hand.",

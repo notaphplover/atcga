@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Both Active Pokémon are now Asleep.",
@@ -18,6 +20,28 @@
         "it": "Torpore",
         "pt": "Ataque Resvalador",
         "es": "Placaje Acrobático"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "You can use this attack only if your opponent has exactly 1 Prize card remaining. Take 2 Prize cards.",
+        "fr": "Vous ne pouvez utiliser cette attaque que s'il reste exactement une carte Récompense à votre adversaire. Vous récupérez 2 cartes Récompense.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn dein Gegner genau 1 verbleibende Preiskarte hat. Nimm 2 Preiskarten.",
+        "it": "Puoi usare questo attacco solo se il tuo avversario ha esattamente una carta Premio rimanente. Prendi due carte Premio.",
+        "pt": "Você só pode usar este ataque se seu oponente tiver exatamente 1 carta de Prêmio restante. Pegue 2 cartas de Prêmio.",
+        "es": "Puedes usar este ataque solo si a tu rival le queda exactamente 1 carta de Premio. Coge 2 cartas de Premio."
+      },
+      "name": {
+        "en": "Twilight Inspiration",
+        "fr": "Inspiration Nocturne",
+        "de": "Zwielichtinspiration",
+        "it": "Ispirazione Crepuscolare",
+        "pt": "Inspiração Crepuscular",
+        "es": "Inspiración Crepuscular"
       }
     }
   ],

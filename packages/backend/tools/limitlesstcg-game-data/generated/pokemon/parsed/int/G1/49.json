@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned."
+      },
+      "name": {
+        "en": "Sleep Poison"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

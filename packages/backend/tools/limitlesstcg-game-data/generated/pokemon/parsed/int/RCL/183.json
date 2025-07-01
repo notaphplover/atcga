@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -14,7 +16,10 @@
       }
     },
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 80 more damage.",

@@ -3,7 +3,10 @@
   "abilityName": "Wonder Tag",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance.",
@@ -20,6 +23,27 @@
         "it": "Motore Energia",
         "pt": "Impulso de Energia",
         "es": "Impulso de Energía"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Soignez tous les dégâts de 2 de vos Pokémon de Banc. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Heile allen Schaden bei 2 Pokémon auf deiner Bank. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cura due dei tuoi Pokémon in panchina da tutti i danni. Non puoi usare più di un attacco GX a partita.",
+        "pt": "Cure todo o dano de 2 dos seus Pokémon no Banco (você não pode usar mais de 1 ataque GX por partida).",
+        "es": "Cura todos los puntos de daño a 2 de tus Pokémon en Banca. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Tapu Cure-GX",
+        "fr": "Toko Soins-GX",
+        "de": "Kapu-Heilung-GX",
+        "it": "Tapucura-GX",
+        "pt": "Cura Tapu-GX",
+        "es": "Cura Tapu-GX"
       }
     }
   ],

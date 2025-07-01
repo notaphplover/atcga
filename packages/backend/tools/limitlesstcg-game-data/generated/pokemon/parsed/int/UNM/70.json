@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If your opponent has exactly 3 Prize cards remaining, this attack does 90 more damage.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

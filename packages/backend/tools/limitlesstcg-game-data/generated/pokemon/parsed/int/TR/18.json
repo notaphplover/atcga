@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may switch Dark Alakazam with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)"
@@ -11,7 +15,11 @@
       }
     },
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"

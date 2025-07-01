@@ -3,7 +3,11 @@
   "abilityName": "Moon-Watching Party",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each [P] Energy attached to all of your Pokémon.",

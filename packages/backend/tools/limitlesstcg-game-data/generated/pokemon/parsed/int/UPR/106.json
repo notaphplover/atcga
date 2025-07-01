@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "fr": "Si le Pokémon Défenseur essaie d'attaquer pendant le prochain tour de votre adversaire, ce dernier lance une pièce. Si c'est pile, son attaque ne fait rien.",
+        "de": "Wenn das Verteidigende Pokémon versucht, während des nächsten Zuges deines Gegners anzugreifen, wirft dein Gegner 1 Münze. Bei Zahl hat jene Attacke keine Auswirkungen.",
+        "it": "Se durante il prossimo turno del tuo avversario il Pokémon difensore prova ad attaccare, il tuo avversario lancia una moneta. Se esce croce, quell'attacco non ha effetto.",
+        "es": "Si el Pokémon Defensor intenta atacar durante el próximo turno de tu rival, este lanza 1 moneda. Si sale cruz, ese ataque no hace nada."
+      },
+      "name": {
+        "en": "Weak Kneed",
+        "fr": "Genoux Tremblants",
+        "de": "Weiche Knie",
+        "it": "Smidollato",
+        "es": "Rodillas Temblonas"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

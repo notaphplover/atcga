@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "yy",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Each player draws a card.",
+        "fr": "Chaque joueur pioche une carte.",
+        "de": "Jeder Spieler zieht 1 Karte.",
+        "it": "Ciascun giocatore pesca una carta."
+      },
+      "name": {
+        "en": "Happy Mime",
+        "fr": "Mime Heureux",
+        "de": "Fröhlicher Pantomime",
+        "it": "Allegro Mimo"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "y"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage for each heads.",

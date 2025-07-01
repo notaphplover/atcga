@@ -3,7 +3,10 @@
   "abilityName": "Vamoose",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

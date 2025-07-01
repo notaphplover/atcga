@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still [C].)"
+      },
+      "name": {
+        "en": "Metronome"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Minimize"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your next turn, each of this Pokémon's attacks does 20 more damage (before applying Weakness and Resistance).",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

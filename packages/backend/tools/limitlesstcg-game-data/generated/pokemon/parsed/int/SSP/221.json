@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -18,6 +22,29 @@
         "it": "Sabbiotomba",
         "pt": "Fosso de Areia",
         "es": "Bucle Arena"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "p",
+        "f"
+      ],
+      "effect": {
+        "en": "Put damage counters on each of your opponent's Benched Pokémon until its remaining HP is 100.",
+        "fr": "Placez des marqueurs de dégâts sur chacun des Pokémon de Banc de votre adversaire jusqu'à ce qu'il ne lui reste que 100 PV.",
+        "de": "Lege so lange Schadensmarken auf jedes Pokémon auf der Bank deines Gegners, bis seine verbleibenden KP gleich 100 sind.",
+        "it": "Metti dei segnalini danno su ciascuno dei Pokémon nella panchina del tuo avversario finché i suoi PS rimanenti diventano 100.",
+        "pt": "Coloque contadores de dano em cada um dos Pokémon no Banco do seu oponente até o PS restante dele ser 100.",
+        "es": "Pon contadores de daño en cada uno de los Pokémon en Banca de tu rival hasta que le queden 100 PS a cada uno de ellos."
+      },
+      "name": {
+        "en": "Barite Jail",
+        "fr": "Prison de Barytine",
+        "de": "Baryt-Gefängnis",
+        "it": "Sbarre di Barite",
+        "pt": "Prisão de Barita",
+        "es": "Prisión Barita"
       }
     }
   ],

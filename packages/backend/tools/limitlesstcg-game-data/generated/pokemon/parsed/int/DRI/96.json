@@ -3,7 +3,12 @@
   "abilityName": "Sand Stream",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",

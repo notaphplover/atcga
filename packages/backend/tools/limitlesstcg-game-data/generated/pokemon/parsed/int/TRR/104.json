@@ -3,7 +3,10 @@
   "abilityName": "Dark Healer",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Rocket's Snorlax ex is now Asleep."

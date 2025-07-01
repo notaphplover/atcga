@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Confused."
       },
       "name": {
         "en": "Confusion Gas"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Each Defending Pokémon is now Poisoned. Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Poison Smog"
       }
     }
   ],

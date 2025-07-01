@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 4 different types of basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Quick Charge"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."

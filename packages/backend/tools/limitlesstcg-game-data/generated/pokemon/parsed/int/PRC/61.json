@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard all [L] Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",

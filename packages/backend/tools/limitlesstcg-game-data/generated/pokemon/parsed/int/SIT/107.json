@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards.",
+        "fr": "Piochez 3 cartes.",
+        "de": "Ziehe 3 Karten.",
+        "it": "Pesca tre carte.",
+        "pt": "Compre 3 cartas.",
+        "es": "Roba 3 cartas."
+      },
+      "name": {
+        "en": "Triple Draw",
+        "fr": "Triple Pioche",
+        "de": "Dreifachzug",
+        "it": "Pescata Tripla",
+        "pt": "Compra Tripla",
+        "es": "Triple Robo"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Murkrow.",

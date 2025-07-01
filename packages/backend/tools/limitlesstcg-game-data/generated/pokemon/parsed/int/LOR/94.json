@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

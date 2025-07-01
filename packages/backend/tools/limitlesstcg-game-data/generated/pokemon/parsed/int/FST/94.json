@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all Pokémon Tools from all of your opponent's Pokémon.",
+        "fr": "Défaussez tous les Outils Pokémon de tous les Pokémon de votre adversaire.",
+        "de": "Lege alle Pokémon-Ausrüstungen von allen Pokémon deines Gegners auf den Ablagestapel.",
+        "it": "Scarta tutte le carte Oggetto Pokémon da tutti i Pokémon del tuo avversario.",
+        "pt": "Descarte todas as Ferramentas Pokémon de todos os Pokémon do seu oponente.",
+        "es": "Descarta todas las Herramientas Pokémon de todos los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Surprise Short",
+        "fr": "Court-Circuit Surprise",
+        "de": "Überraschender Kurzschluss",
+        "it": "Cortocircuito a Sorpresa",
+        "pt": "Curto-circuito Surpresa",
+        "es": "Cortocircuito Sorpresa"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon has any damage counters on it, this attack does 30 damage plus 30 more damage."
@@ -11,7 +15,13 @@
       }
     },
     {
-      "cost": "mmccc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"

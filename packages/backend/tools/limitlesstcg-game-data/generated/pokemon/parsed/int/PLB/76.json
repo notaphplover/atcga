@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your next turn, each of this Pokémon's attacks does 50 more damage (before applying Weakness and Resistance).",
@@ -15,7 +19,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

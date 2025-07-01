@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card and put it into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez une carte dans votre deck, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta qualsiasi e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Nasty Plot",
+        "fr": "Machination",
+        "de": "Ränkeschmied",
+        "it": "Congiura",
+        "es": "Maquinación"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If you have more cards in your hand than your opponent, this attack does 80 more damage.",

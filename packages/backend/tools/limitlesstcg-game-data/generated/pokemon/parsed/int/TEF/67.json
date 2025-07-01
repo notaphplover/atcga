@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Allure",
+        "fr": "Allure",
+        "de": "Verlockung",
+        "it": "Affascinante",
+        "pt": "Fascinar",
+        "es": "Atractivo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

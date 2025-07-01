@@ -3,7 +3,12 @@
   "abilityName": "Fortitude",
   "attacks": [
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 4 coins. This attack does 30 damage times the number of heads."

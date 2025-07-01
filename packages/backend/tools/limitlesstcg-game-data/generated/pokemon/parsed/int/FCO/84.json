@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 10 more damage for each of your Benched Pokémon.",

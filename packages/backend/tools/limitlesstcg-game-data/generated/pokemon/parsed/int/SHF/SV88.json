@@ -3,7 +3,10 @@
   "abilityName": "Snap Trap",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",

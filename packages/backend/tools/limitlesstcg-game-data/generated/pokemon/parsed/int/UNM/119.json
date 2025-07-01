@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Shuffle 4 cards from your discard pile into your deck.",
+        "fr": "Mélangez 4 cartes de votre pile de défausse avec votre deck.",
+        "de": "Mische 4 Karten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia quattro carte dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 4 cartas de tu pila de descartes en tu baraja y baraja todas las cartas."
+      },
+      "name": {
+        "en": "Rototiller",
+        "fr": "Fertilisation",
+        "de": "Pflüger",
+        "it": "Aracampo",
+        "es": "Fertilizante"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

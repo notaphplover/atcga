@@ -3,7 +3,11 @@
   "abilityName": "Captivating Rhythm",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Heal 20 damage from each of your Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
@@ -11,7 +13,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You can't use this attack unless Giovanni's Nidoran ♂ has 2 or more damage counters on it."

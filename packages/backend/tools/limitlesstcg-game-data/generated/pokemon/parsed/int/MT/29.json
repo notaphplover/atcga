@@ -3,7 +3,10 @@
   "abilityName": "Jumbo Fin",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Mantine can't use Giant Wave during your next turn."

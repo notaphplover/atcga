@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage.",

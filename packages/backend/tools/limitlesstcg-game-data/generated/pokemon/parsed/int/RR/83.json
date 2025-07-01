@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+      },
+      "name": {
+        "en": "Cosmic Draw"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."

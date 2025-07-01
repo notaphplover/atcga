@@ -3,7 +3,11 @@
   "abilityName": "Toxic Wetland",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",

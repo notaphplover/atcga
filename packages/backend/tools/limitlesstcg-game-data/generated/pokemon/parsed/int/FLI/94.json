@@ -3,7 +3,11 @@
   "abilityName": "Hydration",
   "attacks": [
     {
-      "cost": "wyc",
+      "cost": [
+        "w",
+        "y",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If this Pokémon was healed during this turn, this attack does 80 more damage.",

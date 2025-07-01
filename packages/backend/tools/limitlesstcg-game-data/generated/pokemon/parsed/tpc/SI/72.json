@@ -3,7 +3,10 @@
   "abilityName": "かじばのパワー",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

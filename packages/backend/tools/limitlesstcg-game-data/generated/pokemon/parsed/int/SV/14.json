@@ -3,7 +3,10 @@
   "abilityName": "Speed Boost",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "You may return all [G] Energy attached to Yanmega to your hand. If you do, this attack does 20 damage plus 20 more damage for each Energy card you returned."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

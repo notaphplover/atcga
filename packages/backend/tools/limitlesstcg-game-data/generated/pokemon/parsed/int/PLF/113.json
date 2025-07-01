@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "wpc",
+      "cost": [
+        "w",
+        "p",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard all Energy attached to this Pokémon.",

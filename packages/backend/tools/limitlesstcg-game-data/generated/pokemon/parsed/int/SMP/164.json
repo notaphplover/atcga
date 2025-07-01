@@ -3,7 +3,11 @@
   "abilityName": "Power Suction",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "During your next turn, this Pokémon's Psycho Boost attack's base damage is 50."

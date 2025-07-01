@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

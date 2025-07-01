@@ -1,7 +1,19 @@
 {
   "abilityEffect": "As long as Unown U is on your Bench, prevent all effects of attacks, including damage, done by your opponent's Pokémon to any Unown on your Bench.",
   "abilityName": "UNSEEN",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for any 1 card and discard it. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

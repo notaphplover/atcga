@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Share"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads."

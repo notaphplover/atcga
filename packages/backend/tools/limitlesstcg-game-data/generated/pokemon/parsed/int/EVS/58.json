@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, Energy cards can't be attached from your opponent's hand to the Defending Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard the top 3 cards of your deck.",

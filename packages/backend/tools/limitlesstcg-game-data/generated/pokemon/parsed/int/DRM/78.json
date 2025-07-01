@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pm",
+      "cost": [
+        "p",
+        "m"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Discard all basic [P] Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
@@ -16,6 +19,26 @@
         "de": "Photonen-Geysir",
         "it": "Geyser Fotonico",
         "es": "Géiser Fotónico"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "m"
+      ],
+      "effect": {
+        "en": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Vous ne pouvez utiliser cette attaque que s'il reste un total de 6 cartes Récompense ou moins aux deux joueurs. Placez 6 marqueurs de dégâts sur chacun des Pokémon de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn die Summe der verbleibenden Preiskarten beider Spieler 6 oder weniger ist. Lege 6 Schadensmarken auf jedes Pokémon deines Gegners. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Puoi usare questo attacco solo se il totale delle carte Premio rimanenti a entrambi i giocatori è sei o meno. Metti sei segnalini danno su ciascuno dei Pokémon del tuo avversario. Non puoi usare più di un attacco GX a partita.",
+        "es": "Puedes usar este ataque solo si el total de cartas de Premio que les queden a ambos jugadores es de 6 o menos. Pon 6 contadores de daño en cada uno de los Pokémon de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Sky-Scorching Light-GX",
+        "fr": "Lumière Apocalyptique-GX",
+        "de": "Licht des Erlöschens-GX",
+        "it": "Fotodistruzione Celeste-GX",
+        "es": "Luz Apocalíptica-GX"
       }
     }
   ],

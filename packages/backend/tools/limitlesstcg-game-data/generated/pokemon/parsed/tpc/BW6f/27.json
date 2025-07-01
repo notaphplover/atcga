@@ -3,7 +3,12 @@
   "abilityName": "きらめくりゅうし",
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "次の相手の番、このポケモンの弱点はなくなる。"

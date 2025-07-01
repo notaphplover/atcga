@@ -3,7 +3,11 @@
   "abilityName": "ひだまりのこうら",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

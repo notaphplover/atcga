@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon also does 60 damage to itself.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -14,7 +16,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 30 more damage for each [W] Energy attached to this Pokémon.",

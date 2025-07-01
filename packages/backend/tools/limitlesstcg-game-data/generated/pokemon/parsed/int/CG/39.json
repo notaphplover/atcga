@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a [D] Energy card from your hand to Nuzleaf."
+      },
+      "name": {
+        "en": "Self Charge"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

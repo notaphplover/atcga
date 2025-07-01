@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a [R] Energy from your opponent's Active Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

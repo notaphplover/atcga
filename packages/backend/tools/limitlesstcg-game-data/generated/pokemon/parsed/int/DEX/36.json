@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Heal 30 damage from each of your Pokémon.",
+        "fr": "Soignez 30 dégâts à chacun de vos Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei jedem deiner Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 30 danni."
+      },
+      "name": {
+        "en": "Healing Pirouette",
+        "fr": "Pirouette Apaisante",
+        "de": "Heilender Reigen",
+        "it": "Curoetta"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 20 more damage for each heads.",

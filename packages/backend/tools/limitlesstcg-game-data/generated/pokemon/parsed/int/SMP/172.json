@@ -3,13 +3,28 @@
   "abilityName": "Hydrating Drops",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "This attack does 30 more damage times the amount of [W] Energy attached to this Pokémon."
       },
       "name": {
         "en": "Hydro Pump"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Heal all damage from all of your [W] Pokémon. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Cure Shower-GX"
       }
     }
   ],

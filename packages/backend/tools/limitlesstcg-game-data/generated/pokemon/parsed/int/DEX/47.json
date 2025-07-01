@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
@@ -14,6 +18,26 @@
         "fr": "Succion Guérisseuse",
         "de": "Saugheilung",
         "it": "Aspiracura"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. This attack does 60 damage to the new Defending Pokémon.",
+        "fr": "Échangez le Pokémon Défenseur avec 1 des Pokémon de Banc de votre adversaire. Cette attaque inflige 60 dégâts au nouveau Pokémon Défenseur.",
+        "de": "Tausche das Verteidigende Pokémon gegen 1 Pokémon auf der Bank deines Gegners aus. Dieser Angriff fügt dem neuen Verteidigenden Pokémon 60 Schadenspunkte zu.",
+        "it": "Scambia il Pokémon difensore con uno dei Pokémon in panchina del tuo avversario. Questo attacco infligge 60 danni al nuovo Pokémon difensore."
+      },
+      "name": {
+        "en": "Slurp Shakedown",
+        "fr": "Aspiration Brutale",
+        "de": "Ansaugen und Zuschlagen",
+        "it": "Riscossone"
       }
     }
   ],

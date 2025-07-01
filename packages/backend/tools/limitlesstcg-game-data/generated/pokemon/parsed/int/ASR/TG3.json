@@ -3,7 +3,9 @@
   "abilityName": "Deep Sea King",
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each [W] Energy attached to this Pokémon.",

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Remove from Regigigas FB a number of damage counters equal to the amount of Energy attached to the Defending Pokémon."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the number of different types of Pokémon SP you have in play."

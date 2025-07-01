@@ -3,7 +3,11 @@
   "abilityName": "Justified",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage."

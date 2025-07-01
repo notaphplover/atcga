@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle Pidgey and all cards attached to it back into your deck.",
+        "fr": "Cherchez un Pokémon dans votre deck, montrez-le à votre adversaire et ajoutez-le à votre main. Mélangez Roucool et toutes les cartes qui lui sont attachées avec votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Pokémon-Karte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische Taubsi und alle daran angelegten Karten zurück in dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon, mostralo al tuo avversario, e aggiungilo alle carte che hai in mano. Rimischia Pidgey e tutte le carte a lui assegnate nel tuo mazzo."
+      },
+      "name": {
+        "en": "Messenger",
+        "fr": "Messager",
+        "de": "Bote",
+        "it": "Messaggero"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

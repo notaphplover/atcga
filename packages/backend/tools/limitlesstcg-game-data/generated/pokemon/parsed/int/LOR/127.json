@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If your opponent has a Stadium in play, discard it. If you discarded a Stadium in this way, discard 2 Energy from your opponent's Active Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

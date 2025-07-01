@@ -3,7 +3,10 @@
   "abilityName": "きおくにもぐる",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

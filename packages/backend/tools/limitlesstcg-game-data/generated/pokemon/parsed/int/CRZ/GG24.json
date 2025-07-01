@@ -3,7 +3,10 @@
   "abilityName": "Miracle Body",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",

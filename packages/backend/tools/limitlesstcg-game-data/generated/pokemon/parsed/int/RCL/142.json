@@ -3,7 +3,10 @@
   "abilityName": "Lucky Match",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

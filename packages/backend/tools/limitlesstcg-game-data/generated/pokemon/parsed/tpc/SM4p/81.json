@@ -3,7 +3,12 @@
   "abilityName": "うみたてタマゴ",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "このポケモンにも80ダメージ。"

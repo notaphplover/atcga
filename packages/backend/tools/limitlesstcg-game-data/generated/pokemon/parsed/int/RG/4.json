@@ -3,7 +3,9 @@
   "abilityName": "Form Variation",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Energy attached to Ditto but not used to pay for this attack's Energy cost. You can't add more then 20 damage in this way."

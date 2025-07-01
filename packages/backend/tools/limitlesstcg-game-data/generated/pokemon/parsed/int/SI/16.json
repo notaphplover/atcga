@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 Pokémon (yours or your opponent's) with damage counters on it and remove 2 damage counters from it (1 if it only has 1)."
+      },
+      "name": {
+        "en": "Lick Wounds"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Tongue Stretch"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

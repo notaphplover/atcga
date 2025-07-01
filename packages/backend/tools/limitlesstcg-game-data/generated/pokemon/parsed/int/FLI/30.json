@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent can't play any Stadium cards from their hand during their next turn.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

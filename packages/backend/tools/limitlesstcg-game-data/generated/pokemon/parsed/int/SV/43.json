@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip 2 coins. If either of them is tails, this attack does nothing."
@@ -11,7 +13,9 @@
       }
     },
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, during your opponent's next turn, if Seaking would be Knocked Out by damage from an attack, Seaking is not Knocked Out and its remaining HP becomes 10 instead."

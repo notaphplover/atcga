@@ -3,7 +3,9 @@
   "abilityName": "Shady Move",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",

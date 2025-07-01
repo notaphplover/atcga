@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn.",
+        "fr": "Lancez une pièce. Si c'est face, évitez tous les dégâts infligés à ce Pokémon par des attaques pendant le prochain tour de votre adversaire.",
+        "it": "Lancia una moneta. Se esce testa, previeni tutti i danni da attacchi inflitti a questo Pokémon durante il prossimo turno del tuo avversario.",
+        "es": "Lanza una moneda. Si sale cara, evita todo el daño infligido a este Pokémon por ataques durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Withdraw",
+        "fr": "Repli",
+        "de": "Panzerschutz",
+        "it": "Ritirata",
+        "es": "Refugio"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

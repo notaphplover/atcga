@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal all damage from 1 of your Pokémon. Then, discard all Energy attached to this Pokémon.",
+        "fr": "Soignez tous les dégâts de l'un de vos Pokémon. Ensuite, défaussez toutes les Énergies attachées à ce Pokémon.",
+        "de": "Heile allen Schaden bei 1 deiner Pokémon. Lege anschließend alle an dieses Pokémon angelegten Energien auf deinen Ablagestapel.",
+        "it": "Cura tutti i danni da uno dei tuoi Pokémon. Poi, scarta tutte le Energie assegnate a questo Pokémon.",
+        "es": "Cura todos los puntos de daño a 1 de tus Pokémon. Después, descarta todas las Energías unidas a este Pokémon."
+      },
+      "name": {
+        "en": "Max Milk",
+        "fr": "Lait Max",
+        "de": "Megamilch",
+        "it": "Latte Max",
+        "es": "Leche Max"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

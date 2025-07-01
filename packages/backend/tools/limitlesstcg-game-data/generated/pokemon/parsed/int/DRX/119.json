@@ -3,7 +3,11 @@
   "abilityName": "Rebirth",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 more damage for each different type of basic Energy attached to this Pokémon.",

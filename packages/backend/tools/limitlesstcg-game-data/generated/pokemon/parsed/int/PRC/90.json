@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Pour chaque côté face, défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Lege pro „Kopf“ die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta la carta in cima al mazzo del tuo avversario.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Ear Dig",
+        "fr": "Excav'Oreille",
+        "de": "Ohrschaufel",
+        "it": "Fossorecchio",
+        "es": "Excavar con Orejas"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

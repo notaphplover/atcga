@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +12,12 @@
       }
     },
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard 2 Energy attached to this Pokémon."

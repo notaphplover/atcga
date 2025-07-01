@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Supersonic"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

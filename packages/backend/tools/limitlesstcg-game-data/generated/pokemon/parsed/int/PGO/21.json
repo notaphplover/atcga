@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for any number of Magikarp, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck autant de cartes Magicarpe que vous le voulez, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach beliebig vielen Karpador, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un numero qualsiasi di Magikarp, mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por qualquer número de Magikarp no seu baralho, revele-os e coloque-os na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja cualquier cantidad de Magikarp, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Lively Grouping",
+        "fr": "Ensemble Enjoué",
+        "de": "Muntere Truppe",
+        "it": "Vispo Raduno",
+        "pt": "Agrupamento Animado",
+        "es": "Reunión Animada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each Magikarp and Gyarados in your discard pile.",

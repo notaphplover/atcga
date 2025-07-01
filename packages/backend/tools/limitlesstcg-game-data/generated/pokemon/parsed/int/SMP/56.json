@@ -1,13 +1,41 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Side Eye"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
       },
       "name": {
         "en": "Jumping Side Kick"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent discards 4 cards from their hand. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Queen's Command-GX"
       }
     }
   ],

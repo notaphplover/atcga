@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Confuse Ray",
+        "fr": "Onde Folie",
+        "de": "Konfustrahl",
+        "it": "Stordiraggio",
+        "es": "Rayo Confuso"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Before doing damage, you may discard any number of Pokémon Tool cards from your Pokémon. This attack does 40 more damage for each card you discarded in this way.",

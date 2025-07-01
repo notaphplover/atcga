@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put up to 2 Basic [M] Energy cards from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 2 cartes Énergie [M] de base de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 2 Basis-[M]-Energiekarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a due carte Energia base [M] dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 2 cartas de Energia [M] Básica da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 2 cartas de Energía [M] Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Iron Collecting",
+        "fr": "Collecte de Fer",
+        "de": "Eisen sammeln",
+        "it": "Raccolta di Ferro",
+        "pt": "Coleta de Ferro",
+        "es": "Acopio de Hierro"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

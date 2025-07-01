@@ -3,7 +3,11 @@
   "abilityName": "グロウヒーリング",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

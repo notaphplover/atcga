@@ -3,7 +3,12 @@
   "abilityName": "Hurricane Charge",
   "attacks": [
     {
-      "cost": "wlcc",
+      "cost": [
+        "w",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",

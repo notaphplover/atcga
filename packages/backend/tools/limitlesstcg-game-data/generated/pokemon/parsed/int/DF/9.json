@@ -3,7 +3,22 @@
   "abilityName": "Armor",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon that has δ on its card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Delta Call"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

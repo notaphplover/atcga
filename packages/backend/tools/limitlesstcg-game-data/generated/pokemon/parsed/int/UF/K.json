@@ -3,7 +3,10 @@
   "abilityName": "Shuffle",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may discard any Stadium card in play."

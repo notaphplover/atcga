@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Search your deck for a [L] Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "Charge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {
@@ -9,7 +24,11 @@
       }
     },
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "100×",
       "effect": {
         "en": "Flip 4 coins. This attack does 100 damage for each heads. (You can't use more than 1 GX attack in a game.)"

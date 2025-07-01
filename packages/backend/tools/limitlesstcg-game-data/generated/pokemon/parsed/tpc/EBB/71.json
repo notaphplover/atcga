@@ -1,7 +1,19 @@
 {
   "abilityEffect": "このポケモンがいるかぎり、おたがいのプレイヤーは、手札から「ACE SPEC」のカードを出して使えない。",
   "abilityName": "ふういんのさけび",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "自分の手札をすべて山札にもどし、山札を切る。その後、相手の手札の枚数ぶん、自分の山札を引く。"
+      },
+      "name": {
+        "jp": "オカルトミラー"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

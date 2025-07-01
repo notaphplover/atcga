@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -12,7 +16,13 @@
       }
     },
     {
-      "cost": "rrrcc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If tails, discard all [R] Energy attached to Ho-Oh.",

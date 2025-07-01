@@ -3,7 +3,22 @@
   "abilityName": "Methane Leak",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Smog"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Put 2 damage counters on Dark Weezing."

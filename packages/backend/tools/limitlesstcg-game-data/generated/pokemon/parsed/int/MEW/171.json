@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Put up to 3 Basic [W] Energy cards from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 3 cartes Énergie [W] de base de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 3 Basis-[W]-Energiekarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a tre carte Energia base [W] dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 3 cartas de Energia [W] Básica da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 3 cartas de Energía [W] Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Free Diving",
+        "fr": "Plongée en Apnée",
+        "de": "Freitauchen",
+        "it": "Tuffo Libero",
+        "pt": "Mergulho Livre",
+        "es": "Buceo Libre"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

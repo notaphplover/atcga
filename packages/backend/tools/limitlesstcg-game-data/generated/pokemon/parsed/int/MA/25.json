@@ -3,7 +3,10 @@
   "abilityName": "Dark Lift",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."

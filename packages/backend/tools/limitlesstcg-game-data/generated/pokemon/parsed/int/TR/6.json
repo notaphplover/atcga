@@ -3,7 +3,10 @@
   "abilityName": "Sinkhole",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Your opponent flips a coin. If tails, this attack does 20 damage plus 20 more damage; if heads, this attack does 20 damage."

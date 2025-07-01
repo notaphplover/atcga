@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "If you have more Prize cards remaining than your opponent, their Active Pokémon is now Paralyzed.",

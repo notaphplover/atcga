@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca 2 carte.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Collect",
+        "fr": "Collectionner",
+        "de": "Sammeln",
+        "it": "Raccolta",
+        "es": "Coleccionar"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch Farfetch'd with 1 of your Benched Pokémon.",

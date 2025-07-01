@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",

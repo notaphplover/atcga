@@ -3,7 +3,12 @@
   "abilityName": "Massive Body",
   "attacks": [
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130+",
       "effect": {
         "en": "You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack.",

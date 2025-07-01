@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene confuso."
+      },
+      "name": {
+        "en": "Supersonic",
+        "fr": "Ultrason",
+        "de": "Superschall",
+        "it": "Supersuono"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

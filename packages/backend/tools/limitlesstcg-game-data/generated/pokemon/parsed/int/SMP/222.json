@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."

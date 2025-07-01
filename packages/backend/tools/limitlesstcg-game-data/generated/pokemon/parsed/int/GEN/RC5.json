@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of this Pokémon's attacks from its previous Evolutions and use it as this attack.",
+        "fr": "Choisissez l'une des attaques de pré-évolutions de ce Pokémon et utilisez-la en tant que cette attaque.",
+        "de": "Wähle 1 Attacke aus den vorangegangenen Entwicklungsstufen dieses Pokémon und verwende sie für diesen Angriff.",
+        "it": "Scegli uno degli attacchi degli stadi evolutivi precedenti di questo Pokémon e usalo al posto di questo attacco.",
+        "es": "Elige 1 de los ataques de las Evoluciones anteriores de este Pokémon y úsalo para este ataque."
+      },
+      "name": {
+        "en": "Recall",
+        "fr": "Récupération",
+        "de": "Abruf",
+        "it": "Memoria",
+        "es": "Recordar"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon can't use Combustion Blast during your next turn.",

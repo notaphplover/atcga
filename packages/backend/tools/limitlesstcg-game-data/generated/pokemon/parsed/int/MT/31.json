@@ -3,7 +3,11 @@
   "abilityName": "Mother Pheromone",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "If you have the same number of or less Benched Pokémon than your opponent, this attack's base damage is 50 instead of 90."

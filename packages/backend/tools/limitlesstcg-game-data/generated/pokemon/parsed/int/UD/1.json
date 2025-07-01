@@ -3,7 +3,10 @@
   "abilityName": "Hustle Step",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage times the number of heads. Bellossom is now Asleep.",

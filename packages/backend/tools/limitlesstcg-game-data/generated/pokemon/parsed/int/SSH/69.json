@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -14,7 +16,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Your opponent reveals their hand. If you find any Energy cards there, your opponent's Active Pokémon is now Paralyzed.",

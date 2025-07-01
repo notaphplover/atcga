@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 80 more damage.",

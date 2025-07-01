@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "150+",
       "effect": {
         "en": "If your Benched Pokémon have any damage counters on them, this attack does 100 more damage.",

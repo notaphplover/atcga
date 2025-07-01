@@ -3,7 +3,10 @@
   "abilityName": "Gnawing Curse",
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "160",
       "effect": {
         "en": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",

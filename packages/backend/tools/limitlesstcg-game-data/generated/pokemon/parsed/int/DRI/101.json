@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 2 Basic [F] Energy cards from your discard pile to this Pokémon.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [F] de base de votre pile de défausse à ce Pokémon.",
+        "de": "Lege bis zu 2 Basis-[F]-Energiekarten aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon fino a due carte Energia base [F] dalla tua pila degli scarti.",
+        "pt": "Ligue até 2 cartas de Energia [F] Básica da sua pilha de descarte a este Pokémon.",
+        "es": "Une hasta 2 cartas de Energía [F] Básica de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Regi Charge",
+        "fr": "Regi-Charge",
+        "de": "Regi-Ladung",
+        "it": "Carica Regi",
+        "pt": "Carga Regi",
+        "es": "Regi Carga"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "140+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Stage 2 Pokémon, this attack does 140 more damage.",

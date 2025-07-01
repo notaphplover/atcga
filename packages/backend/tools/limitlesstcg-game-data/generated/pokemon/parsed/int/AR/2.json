@@ -3,7 +3,10 @@
   "abilityName": "Snow Gift",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If there is any Stadium Card in play, this attack does nothing."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,6 +13,28 @@
         "it": "Granvoce",
         "pt": "Hipervoz",
         "es": "Vozarrón"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle 1 of your Benched Pokémon and all attached cards into your deck.",
+        "fr": "Mélangez avec votre deck l'un de vos Pokémon de Banc et toutes les cartes qui lui sont attachées.",
+        "de": "Mische 1 Pokémon auf deiner Bank und alle angelegten Karten in dein Deck.",
+        "it": "Rimischia uno dei tuoi Pokémon in panchina e tutte le carte a esso assegnate nel tuo mazzo.",
+        "pt": "Embaralhe 1 dos seus Pokémon no Banco e todas as cartas ligadas a ele no seu baralho.",
+        "es": "Pon 1 de tus Pokémon en Banca y todas las cartas unidas a él en tu baraja, y barájalas todas."
+      },
+      "name": {
+        "en": "Homeward Chime",
+        "fr": "Carillon de Rentrée",
+        "de": "Heimklang",
+        "it": "Tintinnio Familiare",
+        "pt": "Sino de Boas-vindas",
+        "es": "Campanas de Bienvenida"
       }
     }
   ],

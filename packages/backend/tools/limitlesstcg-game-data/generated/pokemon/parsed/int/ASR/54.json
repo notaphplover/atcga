@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like.",
@@ -18,6 +22,27 @@
         "it": "Fiamma Vacua",
         "pt": "Chama Vazia",
         "es": "Llama Hueca"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. (You can't use more than 1 VSTAR Power in a game.)",
+        "fr": "Si le Pokémon Actif de votre adversaire a exactement 4 marqueurs de dégâts, il est mis K.O. (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners genau 4 Schadensmarken liegen, ist jenes Pokémon kampfunfähig. (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+        "it": "Se il Pokémon attivo del tuo avversario ha esattamente quattro segnalini danno, quel Pokémon viene messo KO. Non puoi usare più di un Potere V ASTRO a partita.",
+        "pt": "Se o Pokémon Ativo do seu oponente tiver exatamente 4 contadores de dano nele, aquele Pokémon será Nocauteado (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+        "es": "Si el Pokémon Activo de tu rival tiene exactamente 4 contadores de daño sobre él, ese Pokémon queda Fuera de Combate. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      },
+      "name": {
+        "en": "Shimmering Star",
+        "fr": "Miroitement Star",
+        "de": "Flimmernder Stern",
+        "it": "Astro Luccicante",
+        "pt": "Miragem Astral",
+        "es": "Astro Resplandeciente"
       }
     }
   ],

@@ -3,7 +3,10 @@
   "abilityName": "Floating Electrons",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

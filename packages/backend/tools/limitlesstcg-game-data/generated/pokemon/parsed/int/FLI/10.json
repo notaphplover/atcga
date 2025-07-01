@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, heal 40 damage from this Pokémon.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, soignez 40 dégâts à ce Pokémon.",
+        "de": "Wirf 2 Münzen. Heile pro Kopf 40 Schadenspunkte bei diesem Pokémon.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, cura questo Pokémon da 40 danni.",
+        "es": "Lanza 2 monedas. Por cada cara, cura 40 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Milk Drink",
+        "fr": "Lait à Boire",
+        "de": "Milchgetränk",
+        "it": "Buonlatte",
+        "es": "Batido"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

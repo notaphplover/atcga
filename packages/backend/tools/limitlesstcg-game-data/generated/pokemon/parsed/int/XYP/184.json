@@ -3,7 +3,12 @@
   "abilityName": "Devour Light",
   "attacks": [
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Discard a random card from your opponent's hand."

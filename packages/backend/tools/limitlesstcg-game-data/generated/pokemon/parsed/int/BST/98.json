@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put an Item card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Objet de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Itemkarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Strumento dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "pt": "Coloque uma carta de Item da sua pilha de descarte na sua mão.",
+        "es": "Pon 1 carta de Objeto de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Gather Food",
+        "fr": "Approvisionnement",
+        "de": "Futter sammeln",
+        "it": "Raccolta di Cibo",
+        "pt": "Catar Comida",
+        "es": "Avituallamiento"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If you have no cards in your hand, this attack does 90 more damage.",

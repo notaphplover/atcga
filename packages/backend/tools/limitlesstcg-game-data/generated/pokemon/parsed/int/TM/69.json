@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of your deck, choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 5 cartes du dessus de votre deck, choisissez-y un Pokémon, montrez-le à votre adversaire et ajoutez-le à votre main. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 5 Karten deines Decks an, wähle 1 Pokémon-Karte, die du dort gefunden hast, zeige sie deinem Gegner und nimm sie auf die Hand. Mische die anderen Karten anschließend in dein Deck.",
+        "it": "Guarda le prime 5 carte del tuo mazzo, scegli un Pokémon presente tra quelle carte, mostralo al tuo avversario e aggiungilo alle carte che hai in mano. Rimischia le altre carte nel tuo mazzo."
+      },
+      "name": {
+        "en": "Friend Search",
+        "fr": "À la recherche d'amis",
+        "de": "Freunde suchen",
+        "it": "Cercamici"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads.",

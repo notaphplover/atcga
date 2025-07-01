@@ -3,7 +3,11 @@
   "abilityName": "Tag Team",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon has Dark in its name or is a [D] Pokémon, flip a coin. If heads, this attack does 100 damage instead of 50."

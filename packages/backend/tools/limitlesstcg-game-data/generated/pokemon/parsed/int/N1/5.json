@@ -3,7 +3,11 @@
   "abilityName": "Downpour",
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 damage times the number of [W] Energy cards in your discard pile. Then, shuffle all [W] Energy cards from your discard pile into your deck."

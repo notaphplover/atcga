@@ -3,7 +3,10 @@
   "abilityName": "Prize Shift",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Slowking has a [W] Energy card attached to it, this attack does 20 damage plus 20 more damage. If Slowking has a [P] Energy card attached to it, discard a Special Energy card attached to the Defending Pokémon, if any."

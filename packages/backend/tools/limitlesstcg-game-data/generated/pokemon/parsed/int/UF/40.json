@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Search your discard pile for a basic Energy card and attach it to Lanturn."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Lanturn does 10 damage to itself."

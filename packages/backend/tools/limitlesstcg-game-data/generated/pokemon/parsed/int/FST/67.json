@@ -3,7 +3,10 @@
   "abilityName": "Rapid Strike Canceler",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

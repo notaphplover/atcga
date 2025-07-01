@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thunder Wave"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
@@ -21,7 +24,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "You may do 120 more damage. If you do, this Pokémon also does 50 damage to itself.",

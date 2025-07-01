@@ -1,5 +1,30 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, put damage counter on the Defending Pokémon until it is 10 HP away from being Knocked Out."
+      },
+      "name": {
+        "en": "Life Drain"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on your opponent's Pokémon in any way you like. Then, switch Gengar with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Shadow Dance"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 110,
   "imageUrls": {

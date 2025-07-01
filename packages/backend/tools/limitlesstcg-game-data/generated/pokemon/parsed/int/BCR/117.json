@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, heal 60 damage from each of your Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, soignez 60 dégâts à chacun de vos Pokémon.",
+        "it": "Lancia una moneta. Se esce testa, cura ciascuno dei tuoi Pokémon da 60 danni.",
+        "es": "Lanza una moneda. Si sale cara, cura 60 puntos de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Healing Melody",
+        "fr": "Mélodie Apaisante",
+        "de": "Heilende Melodie",
+        "it": "Cura Melodiosa",
+        "es": "Melodía Curativa"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",

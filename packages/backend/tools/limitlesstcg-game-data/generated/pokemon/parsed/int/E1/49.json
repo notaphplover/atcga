@@ -3,7 +3,12 @@
   "abilityName": "Rock Body",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Don't apply Resistance."

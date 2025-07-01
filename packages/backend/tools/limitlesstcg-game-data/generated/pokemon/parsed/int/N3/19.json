@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Use any attack from Kingdra's Basic Pokémon card or Evolution card. (Kingdra doesn't have to pay for that attack's Energy cost.)"
+      },
+      "name": {
+        "en": "Genetic Memory"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip 2 coins. For each heads, choose 1 Energy card attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing (not even damage)."

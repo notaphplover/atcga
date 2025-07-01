@@ -3,7 +3,11 @@
   "abilityName": "Mirror Counter",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",
@@ -21,7 +25,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "This attack does 60 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",

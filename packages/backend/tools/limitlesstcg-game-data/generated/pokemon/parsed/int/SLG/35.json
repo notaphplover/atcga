@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -14,7 +16,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 2 coins. This attack does 50 damage for each heads.",

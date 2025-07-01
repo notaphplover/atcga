@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "rwc",
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 80 more damage.",
@@ -37,7 +43,12 @@
       }
     },
     {
-      "cost": "rrwc",
+      "cost": [
+        "r",
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)",

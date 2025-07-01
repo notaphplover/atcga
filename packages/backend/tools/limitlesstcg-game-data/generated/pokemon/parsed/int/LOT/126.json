@@ -3,7 +3,10 @@
   "abilityName": "Exoskeleton",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon has any Special Energy attached to it, this attack does 70 more damage.",

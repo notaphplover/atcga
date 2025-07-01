@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your deck for 2 basic Energy cards and attach them to your Benched Pokémon in any way you like. Shuffle your deck afterward.",
+        "fr": "Cherchez 2 cartes Énergie de base dans votre deck et attachez-les à vos Pokémon de Banc, de la manière que vous voulez. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 2 Basis-Energiekarten und lege sie beliebig an die Pokémon auf deiner Bank an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo due carte Energia base e assegnale a piacimento ai tuoi Pokémon in panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 2 cartas de Energía Básica y únelas a tus Pokémon en Banca de la manera que desees. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Turbo Energize",
+        "fr": "Énergisant Spontané",
+        "de": "Schubenergie",
+        "it": "Turboenergia",
+        "es": "Turboenergía"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage.",

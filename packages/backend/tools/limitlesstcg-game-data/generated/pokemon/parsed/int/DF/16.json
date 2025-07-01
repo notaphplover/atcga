@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and switch Gligar with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Sting Turn"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If the Defending Pokémon is Pokémon-ex, this attack does 10 damage plus 10 more damage and the Defending Pokémon is now Poisoned."

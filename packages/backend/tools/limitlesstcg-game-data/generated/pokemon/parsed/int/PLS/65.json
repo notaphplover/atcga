@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage for each Pokémon Tool card attached to Pokémon in play (both yours and your opponent's).",

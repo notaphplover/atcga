@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck un Pokémon de base, puis placez-le sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-Pokémon und lege es auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon Base e mettilo nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 Pokémon Básico no seu baralho e coloque-o no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Regi Gate",
+        "fr": "Porte Regi",
+        "de": "Regi-Pforte",
+        "it": "Portale Regi",
+        "pt": "Portal Regi",
+        "es": "Regi Puerta"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon V, it can't attack during your opponent's next turn.",

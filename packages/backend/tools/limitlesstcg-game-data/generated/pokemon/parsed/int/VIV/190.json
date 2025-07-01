@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "160+",
       "effect": {
         "en": "This attack does 30 more damage for each Prize card you have taken.",

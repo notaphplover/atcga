@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your deck for a [W] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

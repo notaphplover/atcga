@@ -1,5 +1,28 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. Copy copies that attack. This attack does nothing if Mew doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew performs that attack."
+      },
+      "name": {
+        "en": "Copy"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "If your opponent has any Pokémon-ex in play, search your deck for up to 2 basic Energy cards and attach them to Mew. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Extra Draw"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

@@ -1,7 +1,29 @@
 {
   "abilityEffect": "Once during your turn, you may choose a Basic Pokémon V from your discard pile and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
   "abilityName": "V Transformation",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a basic Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie de base de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 1 Basis-Energiekarte aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia base dalla tua pila degli scarti.",
+        "pt": "Ligue 1 carta de Energia básica da sua pilha de descarte a este Pokémon.",
+        "es": "Une 1 carta de Energía Básica de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Stick On",
+        "fr": "Collage",
+        "de": "Ankleistern",
+        "it": "Collante",
+        "pt": "Grudar",
+        "es": "Adherir"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 170,
   "imageUrls": {

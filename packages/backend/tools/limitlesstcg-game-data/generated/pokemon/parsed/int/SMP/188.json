@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokemon is now Confused."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent's Active Pokemon is Confused, this attack does 80 more damage."
@@ -21,7 +27,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Draw 5 cards. (You can't use more than 1 GX attack in a game.)"

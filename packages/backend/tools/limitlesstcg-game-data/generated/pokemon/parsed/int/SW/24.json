@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Dugtrio during your opponent's next turn. If Dugtrio is your Active Pokémon at the end of your opponent's next turn, put 6 damage counters on 1 of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Dig Trap"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Your opponent flips a coin. If tails, this attack does 50 damage plus 50 more damage."

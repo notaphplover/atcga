@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "w"
+      ],
+      "effect": {
+        "en": "Discard 1 [W] Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie."
+      },
+      "name": {
+        "en": "Recover"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

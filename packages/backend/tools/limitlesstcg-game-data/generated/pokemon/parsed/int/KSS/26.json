@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

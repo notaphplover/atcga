@@ -1,7 +1,29 @@
 {
   "abilityEffect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, prevent all damage done to this Pokémon by attacks from your opponent's Pokémon.",
   "abilityName": "Mimic Barrier",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 3 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege 3 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Metti tre segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Coloque 3 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Pon 3 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Psypower",
+        "fr": "Puissance Psy",
+        "de": "Psy-Power",
+        "it": "Psicotere",
+        "pt": "Poder Psíquico",
+        "es": "Psicopoder"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

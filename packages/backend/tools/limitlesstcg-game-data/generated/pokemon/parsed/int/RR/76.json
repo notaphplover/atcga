@@ -3,7 +3,11 @@
   "abilityName": "Submerge",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may switch Quagsire GL with 1 of your Benched Pokémon."

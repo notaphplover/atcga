@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire dévoile sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano.",
+        "pt": "Seu oponente revela a própria mão.",
+        "es": "Tu rival enseña las cartas de su mano."
+      },
+      "name": {
+        "en": "Scout",
+        "fr": "Espionnage",
+        "de": "Späher",
+        "it": "Esplorazione",
+        "pt": "Explorador",
+        "es": "Explorar"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

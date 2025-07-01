@@ -1,11 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Mud Spatter"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard a [W] Energy attached to Shellos West Sea and remove all damage counters from Shellos West Sea."
+      },
+      "name": {
+        "en": "Recover"
       }
     }
   ],

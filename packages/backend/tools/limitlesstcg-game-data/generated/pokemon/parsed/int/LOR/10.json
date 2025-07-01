@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused and Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné. Pendant le Contrôle Pokémon, placez 8 marqueurs de dégâts sur ce Pokémon-là au lieu d'un.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt und vergiftet. Lege beim Pokémon-Check 8 Schadensmarken anstelle von 1 Schadensmarke auf jenes Pokémon.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso e avvelenato. Metti otto segnalini danno invece di uno su quel Pokémon durante il controllo Pokémon.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso e Envenenado. Durante o Checape Pokémon, coloque 8 contadores de dano ao invés de 1 naquele Pokémon.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido y Envenenado. Durante el Chequeo Pokémon, pon 8 contadores de daño en vez de 1 en ese Pokémon."
+      },
+      "name": {
+        "en": "Nadir Powder",
+        "fr": "Poudre Nadir",
+        "de": "Nadirpuder",
+        "it": "Polvere Distruttiva",
+        "pt": "Pó das Profundezas",
+        "es": "Polvareda Nadir"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

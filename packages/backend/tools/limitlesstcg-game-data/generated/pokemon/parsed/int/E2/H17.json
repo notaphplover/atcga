@@ -3,7 +3,10 @@
   "abilityName": "Heavyweight",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a number of coins equal to the amount of [G] Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned."

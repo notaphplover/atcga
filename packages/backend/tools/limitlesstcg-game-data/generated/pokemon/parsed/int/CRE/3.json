@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has any Special Energy attached, it is Knocked Out.",
+        "fr": "Si de l'Énergie spéciale est attachée au Pokémon Actif de votre adversaire, il est mis K.O.",
+        "de": "Wenn an das Aktive Pokémon deines Gegners mindestens 1 Spezial-Energie angelegt ist, ist es kampfunfähig.",
+        "it": "Se il Pokémon attivo del tuo avversario ha delle Energie speciali assegnate, viene messo KO.",
+        "pt": "Se o Pokémon Ativo do seu oponente tiver alguma Energia Especial ligada a ele, ele será Nocauteado.",
+        "es": "Si el Pokémon Activo de tu rival tiene alguna Energía Especial unida a él, queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Persist Sting",
+        "fr": "Dard Durable",
+        "de": "Beharrlicher Stich",
+        "it": "Pungiglione Ostinato",
+        "pt": "Ferroada Persistente",
+        "es": "Aguijonazo Persistente"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

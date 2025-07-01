@@ -3,7 +3,22 @@
   "abilityName": "Shadow Curse",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on your opponent's Pokémon in any way you like. If Gengar has any React Energy cards attached to it, put 4 damage counters instead."
+      },
+      "name": {
+        "en": "Cursed Reaction"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

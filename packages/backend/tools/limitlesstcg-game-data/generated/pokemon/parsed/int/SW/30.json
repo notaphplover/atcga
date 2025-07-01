@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If Jynx was damaged by an attack during your opponent's last turn, the Defending Pokémon is now Paralyzed."
       },
       "name": {
         "en": "Icy Kiss"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Move 2 damage counters from Jynx to the Defending Pokémon. If Smoochum is anywhere under Jynx, move 4 damage counters instead."
+      },
+      "name": {
+        "en": "Lovely Kiss"
       }
     }
   ],

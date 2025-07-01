@@ -3,7 +3,12 @@
   "abilityName": "Dragon DNA",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, choose 1 card from your opponent's hand without looking and discard it. If the first coin is tails, Gyarados is now Confused."

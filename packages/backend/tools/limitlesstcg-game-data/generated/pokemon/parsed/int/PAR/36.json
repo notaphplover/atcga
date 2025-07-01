@@ -3,7 +3,10 @@
   "abilityName": "Lifeboat",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

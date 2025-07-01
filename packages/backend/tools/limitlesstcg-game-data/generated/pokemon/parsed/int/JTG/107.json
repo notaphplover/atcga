@@ -3,7 +3,9 @@
   "abilityName": "Auto Heal",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Draw 2 cards.",

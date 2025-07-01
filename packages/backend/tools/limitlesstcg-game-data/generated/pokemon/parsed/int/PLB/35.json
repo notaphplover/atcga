@@ -3,7 +3,11 @@
   "abilityName": "Drifting Balloon",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard a Special Energy attached to the Defending Pokémon.",

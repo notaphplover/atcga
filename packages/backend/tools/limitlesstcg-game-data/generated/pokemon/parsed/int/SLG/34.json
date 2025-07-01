@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Collect",
+        "fr": "Collecte",
+        "de": "Sammeln",
+        "it": "Tassa",
+        "es": "Coleccionar"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

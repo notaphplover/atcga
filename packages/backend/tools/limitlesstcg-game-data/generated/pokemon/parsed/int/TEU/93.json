@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Discard an Item card from your hand. If you do, this attack does 60 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness or Resistance.",
+        "fr": "Défaussez une carte Objet de votre main. Dans ce cas, cette attaque inflige 60 dégâts à l'un des Pokémon de votre adversaire. Ces dégâts ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "de": "Lege 1 Itemkarte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, fügt diese Attacke 1 Pokémon deines Gegners 60 Schadenspunkte zu. Dieser Schaden wird durch Schwäche und Resistenz nicht verändert.",
+        "it": "Scarta una carta Strumento dalla tua mano. Se lo fai, questo attacco infligge 60 danni a uno dei Pokémon del tuo avversario. Questi danni non sono influenzati dalla debolezza o dalla resistenza.",
+        "es": "Descarta 1 carta de Objeto de tu mano. Si lo haces, este ataque hace 60 puntos de daño a 1 de los Pokémon de tu rival. Este daño no se ve afectado por Debilidad o Resistencia."
+      },
+      "name": {
+        "en": "Trash Crash",
+        "fr": "Déchets Déchus",
+        "de": "Plunderfall",
+        "it": "Lancio Rifiuti",
+        "es": "Choque Basura"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

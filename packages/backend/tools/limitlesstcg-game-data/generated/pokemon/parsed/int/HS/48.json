@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep. Remove 4 damage counters from Parasect.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi. Retirez 4 marqueurs de dégâts de Parasect.",
+        "de": "Das Verteidigende Pokémon schläft jetzt. Entferne 4 Schadensmarken von Parasek.",
+        "it": "Il Pokémon Difensore è Addormentato. Togli 4 segnalini danno da Parasect.",
+        "es": "El Pokémon Defensor pasa a estar Dormido. Quita 4 contadores de daño a Parasect."
+      },
+      "name": {
+        "en": "Sleep Drain",
+        "fr": "Aspirododo",
+        "de": "Schlafentzug",
+        "it": "Sonnoassorbimento",
+        "es": "Drenaje de sueño"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

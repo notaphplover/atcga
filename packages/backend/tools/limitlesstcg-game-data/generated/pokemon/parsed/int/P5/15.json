@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Zangoose during your opponent's next turn."
+      },
+      "name": {
+        "en": "Detect"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

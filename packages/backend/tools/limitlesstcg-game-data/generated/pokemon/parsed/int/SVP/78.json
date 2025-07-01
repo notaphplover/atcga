@@ -3,7 +3,10 @@
   "abilityName": "Bouquet Magic",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",

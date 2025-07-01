@@ -3,7 +3,11 @@
   "abilityName": "Buzzap",
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, Electrode does 10 damage to itself."

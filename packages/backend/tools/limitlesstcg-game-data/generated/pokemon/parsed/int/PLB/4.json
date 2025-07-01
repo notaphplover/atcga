@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "For each Energy attached to this Pokémon, search your deck for a Stage 2 Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+        "fr": "Pour chaque Énergie attachée à ce Pokémon, cherchez un Pokémon de Niveau 2 dans votre deck et placez-le sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach jeweils 1 Phase-2-Pokémon für jede an dieses Pokémon angelegte Energie und lege es auf deine Bank. Mische anschließend dein Deck."
+      },
+      "name": {
+        "en": "Lifesplosion",
+        "fr": "Explovie",
+        "de": "Lebenstaumel"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",

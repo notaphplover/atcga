@@ -3,7 +3,11 @@
   "abilityName": "Shock Blast",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage plus 10 more damage for each heads."

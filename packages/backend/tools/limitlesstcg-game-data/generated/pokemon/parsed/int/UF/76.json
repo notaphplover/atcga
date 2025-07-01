@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Minor Errand-Running"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

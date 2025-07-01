@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This attack's damage is not affected by Resistance."

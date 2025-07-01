@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 3 [R] Energy cards and attach them to 1 of your Pokémon.",
+        "fr": "Cherchez dans votre pile de défausse jusqu'à 3 cartes Énergie [R] et attachez-les à l'un de vos Pokémon.",
+        "de": "Durchsuche deinen Ablagestapel nach bis zu 3 [R]-Energiekarten und lege sie an 1 deiner Pokémon an.",
+        "it": "Cerca nella tua pila degli scarti fino a 3 carte Energia [R] e assegnale a 1 dei tuoi Pokémon.",
+        "es": "Busca en tu pila de descartes hasta 3 cartas de Energía [R] y únelas a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Heat Acceleration",
+        "fr": "Accélération ardente",
+        "de": "Hitze marsch!",
+        "it": "Accelerocalore",
+        "es": "Aceleración de calor"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Burned.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may move an Energy attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, this attack does 30 more damage.",

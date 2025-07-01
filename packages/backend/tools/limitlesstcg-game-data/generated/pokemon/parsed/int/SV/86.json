@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Collect"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Togekiss C does 10 damage to itself."

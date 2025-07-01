@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 more damage for each heads.",

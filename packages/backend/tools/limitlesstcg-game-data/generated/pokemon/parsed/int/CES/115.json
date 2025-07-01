@@ -3,7 +3,11 @@
   "abilityName": "Lazy",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard an Energy from this Pokémon. It can't attack during your next turn.",

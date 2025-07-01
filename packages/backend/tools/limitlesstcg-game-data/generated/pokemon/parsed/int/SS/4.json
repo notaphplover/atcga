@@ -1,5 +1,31 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. If both of them are heads, the Defending Pokémon is Knocked Out."
+      },
+      "name": {
+        "en": "Judgement"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put a total of 5 damage counters on all Defending Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Random Curse"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

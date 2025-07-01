@@ -3,7 +3,9 @@
   "abilityName": "てんねん",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "jp": "コインを1回投げウラなら、このワザは失敗。"

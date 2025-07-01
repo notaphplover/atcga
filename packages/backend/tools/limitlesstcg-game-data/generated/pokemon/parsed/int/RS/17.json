@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon has any damage counters on it, this attack does 20 damage plus 20 more damage."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip 2 coins. This attack does 60 damage times the number of heads."

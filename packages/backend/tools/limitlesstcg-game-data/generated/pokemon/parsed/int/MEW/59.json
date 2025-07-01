@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach up to 2 Basic [R] Energy cards from your discard pile to this Pokémon.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "Discard 2 [R] Energy from this Pokémon.",

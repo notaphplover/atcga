@@ -3,7 +3,11 @@
   "abilityName": "じゃえんのつばさ",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

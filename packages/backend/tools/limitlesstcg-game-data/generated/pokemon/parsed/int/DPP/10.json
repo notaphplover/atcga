@@ -3,7 +3,10 @@
   "abilityName": "Burning Head",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Search your discard pile for 8 [R] Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 [R] Energy cards in your discard pile.)"

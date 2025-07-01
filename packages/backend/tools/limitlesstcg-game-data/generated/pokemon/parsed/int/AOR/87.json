@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "llcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 4 cards of your deck and attach as many [L] Energy cards you find there as you like to this Pokémon. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 4 cartes du dessus de votre deck et attachez autant de cartes Énergie [L] que vous voulez et que vous y trouvez à ce Pokémon. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 4 Karten deines Decks an und lege beliebig viele [L]-Energiekarten, die du darunter findest, an dieses Pokémon an. Mische die anderen Karten zurück in dein Deck.",
+        "it": "I danni di questo attacco non sono influenzati dalla debolezza, dalla resistenza o da qualsiasi altro effetto presente sul Pokémon attivo del tuo avversario.",
+        "es": "Mira las 4 primeras cartas de tu baraja y une tantas cartas de Energía [L] que encuentres entre ellas como quieras a este Pokémon. Pon el resto de cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Thunder Rod",
+        "fr": "Parafoudre",
+        "de": "Donnerantrieb",
+        "it": "Luminocoda",
+        "es": "Bólido Trueno"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",

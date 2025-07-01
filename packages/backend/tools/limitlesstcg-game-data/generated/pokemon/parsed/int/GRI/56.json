@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "For each Pokémon in your opponent's discard pile, put 1 damage counter on your opponent's Pokémon in any way you like.",
+        "fr": "Pour chaque Pokémon dans la pile de défausse de votre adversaire, placez un marqueur de dégâts sur les Pokémon de votre adversaire de la manière que vous voulez.",
+        "de": "Lege für jedes Pokémon im Ablagestapel deines Gegners 1 Schadensmarke beliebig auf die Pokémon deines Gegners.",
+        "it": "Per ogni Pokémon nella pila degli scarti del tuo avversario, metti un segnalino danno a piacimento sui suoi Pokémon.",
+        "es": "Por cada Pokémon en la pila de descartes de tu rival, pon 1 contador de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Supernatural Dance",
+        "fr": "Danse Surnaturelle",
+        "de": "Übernatürlicher Tanz",
+        "it": "Danza Soprannaturale",
+        "es": "Danza Sobrenatural"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If there is no Stadium card in play, this attack does nothing.",

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Pelipper."
+      },
+      "name": {
+        "en": "Water Ball"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

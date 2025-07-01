@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Attach up to 3 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Flight Up"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "r"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned."

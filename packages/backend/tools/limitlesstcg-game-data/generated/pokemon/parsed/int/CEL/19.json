@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard up to 3 Special Energy from your opponent's Pokémon.",
+        "fr": "Défaussez jusqu'à 3 Énergies spéciales des Pokémon de votre adversaire.",
+        "de": "Lege bis zu 3 Spezial-Energien von Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta fino a tre Energie speciali dai Pokémon del tuo avversario.",
+        "pt": "Descarte até 3 Energias Especiais dos Pokémon do seu oponente.",
+        "es": "Descarta hasta 3 Energías Especiales de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Cry of Destruction",
+        "fr": "Cri d'Annihilation",
+        "de": "Ruf der Zerstörung",
+        "it": "Grido della Distruzione",
+        "pt": "Grito da Destruição",
+        "es": "Alaridos de Destrucción"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

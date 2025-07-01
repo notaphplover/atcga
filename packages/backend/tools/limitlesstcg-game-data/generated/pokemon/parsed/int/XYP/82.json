@@ -3,7 +3,12 @@
   "abilityName": "Earthen Awakening",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip 2 coins. If both of them are tails, this attack does nothing."

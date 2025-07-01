@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Remove from Breloom a number of damage counters equal to the amount of Energy attached to the Defending Pokémon."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If the Defending Pokémon's Retreat Cost is 0, this attack does 60 damage plus 60 more damage."

@@ -1,7 +1,21 @@
 {
   "abilityEffect": "Once during your turn, when you put Raichu LV.X onto Raichu and use Voltage Shoot, you may use another attack of Raichu afterward. This power can't be used if Raichu is affected by a Special Condition.",
   "abilityName": "Link Lightning",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 [L] Energy cards from your hand and choose 1 of your opponent's Pokémon. This attack does 80 to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Voltage Shoot"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 110,
   "imageUrls": {

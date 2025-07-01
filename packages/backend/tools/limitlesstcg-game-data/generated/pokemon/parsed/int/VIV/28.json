@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -14,7 +18,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

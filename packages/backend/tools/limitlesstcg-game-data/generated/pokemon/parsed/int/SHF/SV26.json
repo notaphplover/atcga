@@ -3,7 +3,10 @@
   "abilityName": "Shady Dealings",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

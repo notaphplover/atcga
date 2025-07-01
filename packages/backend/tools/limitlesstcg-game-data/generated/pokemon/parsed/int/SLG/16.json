@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie du Pokémon Actif de votre adversaire.",
+        "de": "Wirf 1 Münze. Lege bei Kopf 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Lanza 1 moneda. Si sala cara, descarta 1 Energía del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Swagger",
+        "fr": "Vantardise",
+        "de": "Angeberei",
+        "it": "Bullo",
+        "es": "Contoneo"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

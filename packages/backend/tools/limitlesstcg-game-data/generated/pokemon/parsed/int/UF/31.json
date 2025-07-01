@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put Jynx from your hand onto Smoochum (this counts as evolving Smoochum) and remove all damage counters from Smoochum.",
   "abilityName": "Baby Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Blown Kiss"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard any Stadium card in play."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a Special Energy card, if any, attached to the Defending Pokémon."
@@ -21,7 +26,11 @@
       }
     },
     {
-      "cost": "fdc",
+      "cost": [
+        "f",
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent discards the top card of his or her deck."
@@ -31,7 +40,12 @@
       }
     },
     {
-      "cost": "fddc",
+      "cost": [
+        "f",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard the top 3 cards of your deck."

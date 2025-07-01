@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card from the bottom of your deck."
+      },
+      "name": {
+        "en": "Down Draw"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

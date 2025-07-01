@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",
@@ -18,7 +20,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

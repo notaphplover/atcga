@@ -3,7 +3,10 @@
   "abilityName": "Scent Conduct",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If the Defending Pokémon has any Poké-Bodies, that Pokémon is now Asleep."

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+      },
+      "name": {
+        "en": "Psychic Erase"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."

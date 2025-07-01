@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Discard all Special Energy from each of your opponent's Pokémon.",
+        "fr": "Défaussez toute l'Énergie spéciale attachée à chacun des Pokémon de votre adversaire.",
+        "de": "Lege alle Spezial-Energien von jedem Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta tutte le Energie speciali assegnate a ciascuno dei Pokémon del tuo avversario.",
+        "es": "Descarta todas las Energías Especiales de cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Surprising Pattern",
+        "fr": "Motif Surprise",
+        "de": "Überraschendes Muster",
+        "it": "Disegno Inaspettato",
+        "es": "Diseño Sorprendente"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 4 coins. This attack does 40 damage for each heads.",

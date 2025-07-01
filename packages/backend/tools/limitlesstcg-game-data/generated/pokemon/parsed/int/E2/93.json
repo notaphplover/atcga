@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach 1 [L] Energy card from your discard pile to Mareep."
+      },
+      "name": {
+        "en": "Charge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

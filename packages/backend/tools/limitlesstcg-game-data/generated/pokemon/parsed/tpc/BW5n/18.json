@@ -1,7 +1,19 @@
 {
   "abilityEffect": "このポケモンがきぜつしても、相手はサイドをとれない。",
   "abilityName": "ぬけがら",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "jp": "ダメカン3個を、相手のポケモンに好きなようにのせる。"
+      },
+      "name": {
+        "jp": "のろいのしずく"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

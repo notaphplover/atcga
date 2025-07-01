@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn. If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing. (Benching either Pokémon ends this effect.)"

@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Once during your turn (before your attack), choose 1 of your Active Pokémon or 1 or your Benched Pokémon and switch Gardevoir with that Pokémon. This power can't be used if Gardevoir is affected by a Special Condition.",
   "abilityName": "Teleportation",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 1 Pokémon (yours or your opponent's) with the fewest remaining HP (excluding Gardevoir) and that Pokémon is now Knocked Out."
+      },
+      "name": {
+        "en": "Bring Down"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 30 more damage."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

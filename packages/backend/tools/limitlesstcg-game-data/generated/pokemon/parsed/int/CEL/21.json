@@ -3,7 +3,10 @@
   "abilityName": "Rush In",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",

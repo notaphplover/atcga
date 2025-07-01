@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 2 Pokémon, show them to your opponent, and put them into your hand."
+      },
+      "name": {
+        "en": "Rescue"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

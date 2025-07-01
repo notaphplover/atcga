@@ -3,7 +3,11 @@
   "abilityName": "Star Guardian",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

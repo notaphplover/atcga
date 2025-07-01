@@ -3,7 +3,13 @@
   "abilityName": "Ancient Wisdom",
   "attacks": [
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 150 more damage.",

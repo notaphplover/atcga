@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "90",
       "effect": {
         "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ddd",
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "220",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

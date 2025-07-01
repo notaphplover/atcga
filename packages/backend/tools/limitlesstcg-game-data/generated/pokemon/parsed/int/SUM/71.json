@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard any amount of [F] Energy from your Pokémon. This attack does 50 damage for each card you discarded in this way.",
@@ -19,7 +22,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

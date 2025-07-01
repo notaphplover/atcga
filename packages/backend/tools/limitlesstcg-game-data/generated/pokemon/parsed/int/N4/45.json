@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Until the end of your opponent's next turn, as long as Light Dewgong is your Active Pokémon, prevent all damage done by attacks to your Benched Pokémon. (Any other effects of attacks still happen.)"

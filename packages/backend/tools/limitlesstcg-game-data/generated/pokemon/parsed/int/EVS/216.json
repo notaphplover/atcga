@@ -3,7 +3,10 @@
   "abilityName": "Rubbish Collecting",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat.",

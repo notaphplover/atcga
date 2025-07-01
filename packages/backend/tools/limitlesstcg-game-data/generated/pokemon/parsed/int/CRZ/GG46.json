@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon V. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -11,7 +15,9 @@
       }
     },
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "This attack does 60 damage for each Energy attached to both Active Pokémon. (You can't use more than 1 VSTAR Power in a game.)"

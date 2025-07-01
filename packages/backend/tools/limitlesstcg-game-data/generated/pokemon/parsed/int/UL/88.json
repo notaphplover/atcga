@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to each Pokémon in play (both yours and your opponent's) (excluding any [D] Pokémon). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 20 dégâts à chaque Pokémon en jeu (les vôtres et ceux de votre adversaire), à l'exception des Pokémon [D]. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon im Spiel (deinen und denen deines Gegners) 10 Schadenspunkte zu. ([D]-Pokémon sind hiervon ausgenommen.) (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 20 danni ad ogni Pokémon in gioco (sia i tuoi che quelli del tuo avversario) esclusi tutti i Pokémon [D]. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina).",
+        "es": "Este ataque hace 20 puntos de daño a cada Pokémon en juego (tanto tuyos como de tu rival) (excluyendo cualquier Pokémon [D]). (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Darkness Howl",
+        "fr": "Obscurlement",
+        "de": "Finsternisjauler",
+        "it": "Grido Oscuro",
+        "es": "Aullido oscuro"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This attack's damage isn't affected by Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
@@ -19,7 +42,12 @@
       }
     },
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard the top 3 cards of your deck.",

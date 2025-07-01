@@ -3,7 +3,11 @@
   "abilityName": "Initialization",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",

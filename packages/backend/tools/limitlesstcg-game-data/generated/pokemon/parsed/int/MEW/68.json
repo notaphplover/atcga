@@ -3,7 +3,10 @@
   "abilityName": "Guts",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard the top 2 cards of your opponent's deck.",

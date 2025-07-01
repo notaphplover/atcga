@@ -3,7 +3,11 @@
   "abilityName": "Emperor's Eyes",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",

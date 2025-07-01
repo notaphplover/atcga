@@ -3,7 +3,11 @@
   "abilityName": "Stranglehold Master",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 80 more damage.",

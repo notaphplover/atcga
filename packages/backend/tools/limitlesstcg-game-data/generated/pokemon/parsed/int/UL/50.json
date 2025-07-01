@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck. Then, remove 2 damage counters from Larvitar.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire. Ensuite, retirez 2 marqueurs de dégât à Embrylex.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel. Entferne dann 2 Schadensmarken von Larvitar.",
+        "it": "Scarta la carta in cima al mazzo del tuo avversario. Poi togli 2 segnalini danno da Larvitar.",
+        "es": "Descarta la carta superior del mazo de tu rival. Luego quita 2 contadores de daño de Larvitar."
+      },
+      "name": {
+        "en": "Mountain Eater",
+        "fr": "Mange-montagne",
+        "de": "Bergfresser",
+        "it": "Mangiamontagna",
+        "es": "Comemontañas"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Larvitar does 10 damage to itself.",

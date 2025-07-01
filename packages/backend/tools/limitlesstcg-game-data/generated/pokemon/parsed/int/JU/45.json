@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +13,12 @@
       }
     },
     {
-      "cost": "ffff",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)"

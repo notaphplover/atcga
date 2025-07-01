@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put an Energy card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Énergie de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Energiekarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Energia dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "es": "Pon 1 carta de Energía de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Dig Deep",
+        "fr": "Trou Profond",
+        "de": "Tief graben",
+        "it": "Scavaffondo",
+        "es": "Cavahondo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

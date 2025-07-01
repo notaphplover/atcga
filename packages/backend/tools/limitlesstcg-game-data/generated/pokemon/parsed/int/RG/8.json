@@ -3,13 +3,30 @@
   "abilityName": "Power Gene",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Poisoned."
       },
       "name": {
         "en": "Earth Poison"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Nidoking can't use Bound Crush during your next turn."
+      },
+      "name": {
+        "en": "Bound Crush"
       }
     }
   ],

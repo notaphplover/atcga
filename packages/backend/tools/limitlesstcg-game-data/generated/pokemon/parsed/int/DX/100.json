@@ -3,7 +3,10 @@
   "abilityName": "Commanding Aura",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Choose 1 card from your opponent's hand without looking and discard it."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Hariyama ex by attacks is increased by 10 (before applying Weakness and Resistance)."

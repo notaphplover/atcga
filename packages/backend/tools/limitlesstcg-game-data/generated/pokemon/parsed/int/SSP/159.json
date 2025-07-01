@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -21,7 +25,11 @@
       }
     },
     {
-      "cost": "grp",
+      "cost": [
+        "g",
+        "r",
+        "p"
+      ],
       "dmg": "180",
       "effect": {
         "en": "You may draw 5 cards.",

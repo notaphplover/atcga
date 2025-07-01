@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin until you get tails. Search your deck for a number of basic [R] Energy cards up to the number of heads and attach them to any of your Pokémon in any way you like. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Flame Bash"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If you have more Energy in play than your opponent, the Defending Pokémon is now Burned and Confused."

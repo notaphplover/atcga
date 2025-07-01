@@ -3,7 +3,12 @@
   "abilityName": "Time Aura",
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard all [M] Energy attached to Dialga."

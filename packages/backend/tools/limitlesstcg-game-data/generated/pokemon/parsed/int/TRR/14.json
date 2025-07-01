@@ -3,11 +3,27 @@
   "abilityName": "Holy Shield",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
         "en": "Dive"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon's attacks. Rainbow Moves copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Togetic's type is still [C].) Togetic performs that attack."
+      },
+      "name": {
+        "en": "Rainbow Moves"
       }
     }
   ],

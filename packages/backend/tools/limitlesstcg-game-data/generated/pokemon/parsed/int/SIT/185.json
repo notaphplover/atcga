@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a card from your hand. If you do, draw 3 cards.",
+        "fr": "Défaussez une carte de votre main. Dans ce cas, piochez 3 cartes.",
+        "de": "Lege 1 Karte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 3 Karten.",
+        "it": "Scarta una delle carte che hai in mano. Se lo fai, pesca tre carte.",
+        "pt": "Descarte 1 carta da sua mão. Se fizer isto, compre 3 cartas.",
+        "es": "Descarta 1 carta de tu mano. Si lo haces, roba 3 cartas."
+      },
+      "name": {
+        "en": "Read the Wind",
+        "fr": "Lecture des Vents",
+        "de": "Winddeutung",
+        "it": "Leggivento",
+        "pt": "Leitura dos Ventos",
+        "es": "Leer el Viento"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "You may discard a Stadium in play.",

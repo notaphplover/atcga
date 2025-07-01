@@ -3,7 +3,10 @@
   "abilityName": "Fragrant Flower Garden",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "180-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",
@@ -21,7 +24,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)",

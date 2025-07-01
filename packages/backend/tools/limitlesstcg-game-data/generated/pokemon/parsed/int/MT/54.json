@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -9,7 +11,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard an Energy attached to Magmar."

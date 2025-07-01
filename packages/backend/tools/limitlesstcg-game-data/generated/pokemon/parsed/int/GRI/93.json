@@ -3,7 +3,10 @@
   "abilityName": "Flower Shield",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent draws a card.",

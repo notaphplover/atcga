@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Discard the top card from your opponent's deck, and flip a coin. If tails, discard a [R] Energy attached to Team Magma's Torkoal."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a [R] Energy attached to Team Magma's Torkoal and your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."

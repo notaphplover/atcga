@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Drifblim does 20 damage to itself.",
@@ -14,6 +17,25 @@
         "fr": "Charge Ballon",
         "de": "Ballon-Tackle",
         "it": "Pallone-azione"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle Drifblim and all cards attached to it back into your deck. Then, your opponent shuffles the Defending Pokémon and all cards attached to it into his or her deck. (You choose your new Active Pokémon first.)",
+        "fr": "Mélangez Grodrive et toutes les cartes qui lui sont attachées avec votre deck. Ensuite, votre adversaire mélange le Pokémon Défenseur et toutes les cartes qui lui sont attachées avec son deck. (Vous choisissez votre nouveau Pokémon Actif en premier.)",
+        "de": "Mische Drifzepeli und alle daran angelegten Karten zurück in dein Deck. Anschließend mischt dein Gegner das Verteidigende Pokémon und alle daran angelegten Karten zurück in sein Deck. (Du wählt dein neues Aktives Pokémon zuerst.)",
+        "it": "Rimetti Drifblim e tutte le carte a lui assegnate nel tuo mazzo. Il tuo avversario rimischia quindi nel suo mazzo il Pokémon Difensore e tutte le carte a lui assegnate. (Scegli il tuo nuovo Pokémon Attivo per primo)."
+      },
+      "name": {
+        "en": "Take Away",
+        "fr": "Envolée",
+        "de": "Schnappi",
+        "it": "Asporto"
       }
     }
   ],

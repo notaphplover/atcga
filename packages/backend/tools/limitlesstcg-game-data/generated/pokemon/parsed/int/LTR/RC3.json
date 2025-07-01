@@ -3,7 +3,11 @@
   "abilityName": "Royal Garden",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Eerie Beam",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.",

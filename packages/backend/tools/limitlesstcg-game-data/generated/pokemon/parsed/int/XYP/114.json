@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +12,11 @@
       }
     },
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pokémon is still Asleep."

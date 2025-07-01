@@ -3,7 +3,11 @@
   "abilityName": "Full Moon Dance",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If the Defending Pokémon is Knocked Out by this attack, take 1 more Prize card."

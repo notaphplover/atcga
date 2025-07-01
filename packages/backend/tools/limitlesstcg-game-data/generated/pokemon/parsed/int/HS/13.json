@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage times the number of damage counters on Wobbuffet.",

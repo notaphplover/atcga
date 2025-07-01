@@ -3,7 +3,11 @@
   "abilityName": "Bust In",
   "attacks": [
     {
-      "cost": "ggl",
+      "cost": [
+        "g",
+        "g",
+        "l"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may discard an Energy attached to this Pokémon. If you do, this attack does 40 more damage.",

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage for each Basculin you have in play to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Pour chaque Bargantua que vous avez en jeu, cette attaque inflige 20 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte mal der Anzahl der Barschuft, die du im Spiel hast, zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 20 danni per ogni Basculin che hai in gioco a uno dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 20 puntos de daño por cada Basculin que tengas en juego a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Swarming Bites",
+        "fr": "Armada Mordante",
+        "de": "Schwarmbiss",
+        "it": "Morsi Brulicanti",
+        "es": "Cardumen de Mordiscos"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

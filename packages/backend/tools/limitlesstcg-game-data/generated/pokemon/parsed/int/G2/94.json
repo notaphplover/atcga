@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Look at your opponent's hand."
+      },
+      "name": {
+        "en": "Psyscan"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."

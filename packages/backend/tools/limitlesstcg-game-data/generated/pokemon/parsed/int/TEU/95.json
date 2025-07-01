@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

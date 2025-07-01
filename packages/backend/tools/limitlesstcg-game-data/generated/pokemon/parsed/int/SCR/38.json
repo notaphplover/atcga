@@ -3,7 +3,10 @@
   "abilityName": "Primal Knowledge",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "150",
       "effect": {},
       "name": {

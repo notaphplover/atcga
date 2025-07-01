@@ -3,7 +3,10 @@
   "abilityName": "Emergency Rotation",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

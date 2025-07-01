@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "gpc",
+      "cost": [
+        "g",
+        "p",
+        "c"
+      ],
       "dmg": "280",
       "effect": {
         "en": "Put 2 Energy attached to your Pokémon in the Lost Zone.",
@@ -18,6 +22,28 @@
         "it": "Impatto Perduto",
         "pt": "Impacto Perdido",
         "es": "Impacto Perdido"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "p"
+      ],
+      "effect": {
+        "en": "You can use this attack only if you have 10 or more cards in the Lost Zone. Your opponent's Active Pokémon is Knocked Out. (You can't use more than 1 VSTAR Power in a game.)",
+        "fr": "Vous ne pouvez utiliser cette attaque que si vous avez 10 cartes ou plus dans la Zone Perdue. Le Pokémon Actif de votre adversaire est mis K.O. (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du 10 oder mehr Karten im Nirgendwo hast. Das Aktive Pokémon deines Gegners ist kampfunfähig. (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+        "it": "Puoi usare questo attacco solo se hai 10 o più carte nell'area perduta. Il Pokémon attivo del tuo avversario viene messo KO. Non puoi usare più di un Potere V ASTRO a partita.",
+        "pt": "Você só pode usar este ataque se tiver 10 ou mais cartas na Zona Perdida. O Pokémon Ativo do seu oponente é Nocauteado (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+        "es": "Puedes usar este ataque solo si tienes 10 cartas o más en la Zona Perdida. El Pokémon Activo de tu rival queda Fuera de Combate. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      },
+      "name": {
+        "en": "Star Requiem",
+        "fr": "Requiem Star",
+        "de": "Sternenrequiem",
+        "it": "Astro Requiem",
+        "pt": "Réquiem Astral",
+        "es": "Astro Réquiem"
       }
     }
   ],

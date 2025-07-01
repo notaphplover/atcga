@@ -3,7 +3,10 @@
   "abilityName": "Sticky Goo",
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

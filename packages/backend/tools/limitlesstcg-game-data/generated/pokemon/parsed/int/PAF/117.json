@@ -3,7 +3,10 @@
   "abilityName": "Strange Behavior",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

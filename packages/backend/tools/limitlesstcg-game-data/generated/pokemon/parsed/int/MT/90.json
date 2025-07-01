@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for Murkrow and put it onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Swarm"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch Murkrow with 1 of your Benched Pokémon."

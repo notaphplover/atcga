@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the number of damage counters on Blaine's Doduo."

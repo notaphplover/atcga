@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you have fewer Pokémon in play than your opponent, this attack does 60 more damage for each Pokémon fewer you have in play.",

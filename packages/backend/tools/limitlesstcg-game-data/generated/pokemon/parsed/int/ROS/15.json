@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards. You may switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Piochez 3 cartes. Vous pouvez échanger ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Ziehe 3 Karten. Du kannst dieses Pokémon gegen 1 Pokémon auf deiner Bank austauschen.",
+        "it": "Pesca tre carte. Puoi scambiare questo Pokémon con uno della tua panchina.",
+        "es": "Roba 3 cartas. Puedes cambiar este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Grand Loop",
+        "fr": "Grande Boucle",
+        "de": "Großartiger Looping",
+        "it": "Granvirata",
+        "es": "Gran Bucle"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon does 20 damage to itself.",

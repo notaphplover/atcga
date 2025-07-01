@@ -3,7 +3,11 @@
   "abilityName": "Sludge Street",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused and Poisoned.",

@@ -3,7 +3,10 @@
   "abilityName": "Self-Generation",
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Put all Energy cards attached to Pachirisu in the Lost Zone.",

@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, discard all Energy cards attached to Misty's Golduck."
       },
       "name": {
         "en": "Electro Beam"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pokémon that has any Energy cards and discard those Energy cards."
+      },
+      "name": {
+        "en": "Super Removal"
       }
     }
   ],

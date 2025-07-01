@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 Energy cards from your discard pile into your hand.",
+        "fr": "Ajoutez 3 cartes Énergie de votre pile de défausse à votre main.",
+        "de": "Nimm 3 Energiekarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi tre carte Energia dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "es": "Pon 3 cartas de Energía de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Orb Polish",
+        "fr": "Orbe Lustré",
+        "de": "Orbpolitur",
+        "it": "Lucidasfera",
+        "es": "Pulidor de Orbes"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

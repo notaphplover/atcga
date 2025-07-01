@@ -3,7 +3,10 @@
   "abilityName": "Overzealous",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage."

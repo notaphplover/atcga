@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt paralysiert."
+      },
+      "name": {
+        "en": "Bubble",
+        "fr": "Écume",
+        "de": "Blubber"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Sleep Pulse"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

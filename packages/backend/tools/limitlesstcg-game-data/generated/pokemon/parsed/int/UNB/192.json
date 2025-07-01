@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "During your next turn, this Pokémon's Elegant Sole attack's base damage is 60.",
@@ -37,7 +43,9 @@
       }
     },
     {
-      "cost": "g+",
+      "cost": [
+        "g"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If your opponent's Pokémon is Knocked Out by damage from this attack, take 1 more Prize card. If this Pokémon has at least 7 extra Energy attached to it (in addition to this attack's cost), take 3 more Prize cards instead. (You can't use more than 1 GX attack in a game.)",

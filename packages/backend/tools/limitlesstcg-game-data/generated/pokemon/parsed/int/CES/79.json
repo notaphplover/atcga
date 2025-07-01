@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each Steven's Resolve card in your discard pile.",

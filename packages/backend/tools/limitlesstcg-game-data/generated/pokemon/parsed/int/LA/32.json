@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [],
+      "effect": {
+        "en": "Choose up to 2 basic [W] Energy cards from your hand and attach them to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Drizzle"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard 2 [W] Energy attached to Kyogre. This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"

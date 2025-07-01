@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from this Pokémon.",
+        "fr": "Soignez 40 dégâts à ce Pokémon.",
+        "de": "Heile 40 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 40 danni.",
+        "es": "Cura 40 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Shed Skin",
+        "fr": "Mue",
+        "de": "Expidermis",
+        "it": "Muta",
+        "es": "Mudar"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

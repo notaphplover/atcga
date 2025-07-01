@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip 2 coins. If both of them are tails, this Pokémon also does 90 damage to itself.",

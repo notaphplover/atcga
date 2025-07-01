@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "This attack does 90 damage to each of your opponent's Pokémon that has a Pokémon Tool attached. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 90 dégâts à chacun des Pokémon de votre adversaire auquel un Outil Pokémon est attaché. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt jedem Pokémon deines Gegners, an das eine Pokémon-Ausrüstung angelegt ist, 90 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 90 danni a ciascuno dei Pokémon del tuo avversario che ha una carta Oggetto Pokémon assegnata. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Este ataque causa 90 pontos de dano a cada um dos Pokémon do seu oponente que tiver uma Ferramenta Pokémon ligada a ele (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Este ataque hace 90 puntos de daño a cada uno de los Pokémon de tu rival que tenga 1 Herramienta Pokémon unida a él. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Shorting Spark",
+        "fr": "Étincelle Court-Circuit",
+        "de": "Kurzschlussfunke",
+        "it": "Cortoscintilla",
+        "pt": "Faísca de Curto-circuito",
+        "es": "Chispa Cortocircuito"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

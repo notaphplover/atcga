@@ -3,7 +3,10 @@
   "abilityName": "どっきりほうし",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

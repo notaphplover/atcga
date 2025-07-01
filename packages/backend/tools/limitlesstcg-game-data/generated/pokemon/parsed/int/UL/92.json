@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Raikou & Suicune LEGEND does 50 damage to itself, and don't apply Weakness to this damage.",
@@ -19,7 +23,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Remove 5 damage counters from Raikou & Suicune LEGEND.",

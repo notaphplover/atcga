@@ -3,7 +3,9 @@
   "abilityName": "Fluff",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 times the number of heads."

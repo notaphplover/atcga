@@ -3,7 +3,11 @@
   "abilityName": "Scorching Feathers",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

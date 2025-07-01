@@ -3,7 +3,11 @@
   "abilityName": "ニードルライン",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

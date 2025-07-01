@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "dccc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. This attack does 40 damage to the new Defending Pokémon.",
+        "fr": "Échangez 1 des Pokémon de Banc de votre adversaire avec le Pokémon Défenseur. Cette attaque inflige 40 dégâts au nouveau Pokémon Défenseur.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Verteidigende Pokémon aus. Dieser Angriff fügt dem neuen Verteidigenden Pokémon 40 Schadenspunkte zu.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il Pokémon difensore. Questo attacco infligge 40 danni al nuovo Pokémon difensore.",
+        "es": "Cambia a 1 de los Pokémon en Banca de tu rival por el Pokémon Defensor. Este ataque hace 40 puntos de daño al nuevo Pokémon Defensor."
+      },
+      "name": {
+        "en": "Tractorbeam",
+        "fr": "Rayon Inversion",
+        "de": "Traktorstrahl",
+        "it": "Tiraggio",
+        "es": "Rayo Tractor"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Before doing damage, discard all Pokémon Tool cards attached to the Defending Pokémon.",

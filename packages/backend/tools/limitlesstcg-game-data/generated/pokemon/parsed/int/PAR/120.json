@@ -3,7 +3,10 @@
   "abilityName": "Rob-'n'-Run",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "de": "Wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon während deines Zuges zu entwickeln, kannst du deinen Gegner dazu veranlassen, dir seine Handkarten zu zeigen. Wähle anschließend 2 Energiekarten, die du dort findest, und mische sie in das Deck deines Gegners."
@@ -15,6 +18,12 @@
         "it": "Lacerartiglio",
         "pt": "Golpe de Garra",
         "es": "Cuchillada Garra"
+      }
+    },
+    {
+      "effect": {},
+      "name": {
+        "de": "Klauenschlitzer"
       }
     }
   ],

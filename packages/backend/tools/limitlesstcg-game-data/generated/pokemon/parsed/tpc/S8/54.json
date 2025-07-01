@@ -3,7 +3,11 @@
   "abilityName": "やけくそボンバー",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

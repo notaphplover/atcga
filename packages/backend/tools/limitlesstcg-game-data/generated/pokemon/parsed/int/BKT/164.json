@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage times the amount of [P] Energy attached to this Pokémon."
       },
       "name": {
         "en": "Shatter Shot"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch all damage counters on this Pokémon with those on your opponent's Active Pokémon."
+      },
+      "name": {
+        "en": "Damage Change"
       }
     }
   ],

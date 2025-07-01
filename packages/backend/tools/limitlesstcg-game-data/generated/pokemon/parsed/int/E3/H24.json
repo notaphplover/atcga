@@ -3,7 +3,11 @@
   "abilityName": "Strange Spiral",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."

@@ -3,7 +3,11 @@
   "abilityName": "Gooey Regeneration",
   "attacks": [
     {
-      "cost": "wyc",
+      "cost": [
+        "w",
+        "y",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 40 more damage.",

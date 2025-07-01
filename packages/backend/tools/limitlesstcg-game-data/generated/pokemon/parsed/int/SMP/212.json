@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
@@ -12,7 +17,12 @@
       }
     },
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "(You can't use more than 1 GX attack in a game.)",

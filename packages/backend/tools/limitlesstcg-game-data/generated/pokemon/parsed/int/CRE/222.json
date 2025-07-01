@@ -3,7 +3,11 @@
   "abilityName": "Buzzap Generator",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

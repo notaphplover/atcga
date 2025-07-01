@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for any 3 cards and put them into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez 3 cartes dans votre deck puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 3 beliebigen Karten und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo tre carte qualsiasi e aggiungile a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 3 cartas cualesquiera y ponlas en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Clear Search",
+        "fr": "Recherche Libre",
+        "de": "Klare Sicht",
+        "it": "Ricerca Libera",
+        "es": "Búsqueda Pura"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon is now Asleep.",

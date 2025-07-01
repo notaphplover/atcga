@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Das Verteidigende Pokémon schläft jetzt.",
+        "it": "Il Pokémon difensore viene addormentato.",
+        "es": "El Pokémon Defensor pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Icy Wind",
+        "fr": "Vent Glace",
+        "de": "Eissturm",
+        "it": "Ventogelato",
+        "es": "Viento Hielo"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon is a [F] Pokémon, this attack does 40 more damage.",

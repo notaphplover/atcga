@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "This attack does 70 damage for each Fusion Strike Energy attached to all of your Pokémon.",

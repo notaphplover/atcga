@@ -3,7 +3,11 @@
   "abilityName": "Pure Body",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may flip a coin. If heads, discard a [R] Energy card attached to Entei and the Defending Pokémon is now Burned."

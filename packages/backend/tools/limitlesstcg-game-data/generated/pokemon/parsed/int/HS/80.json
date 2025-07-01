@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at your opponent's hand.",
+        "fr": "Regardez la main de votre adversaire.",
+        "de": "Schau dir die Handkarten deines Gegners an.",
+        "it": "Guarda le carte che il tuo avversario ha in mano.",
+        "es": "Mira la mano de tu rival."
+      },
+      "name": {
+        "en": "Scout",
+        "fr": "Espion",
+        "de": "Späher",
+        "it": "Esplorazione",
+        "es": "Explorar"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Sand Sac",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has at least 1 extra [F] Energy attached (in addition to this attack's cost), this attack does 70 more damage.",

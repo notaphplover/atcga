@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a [W] Pokémon from your discard pile into your hand.",
+        "fr": "Ajoutez un Pokémon [W] de votre pile de défausse à votre main.",
+        "de": "Nimm 1 [W]-Pokémon aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi un Pokémon [W] dalla tua pila degli scarti e aggiungilo alle carte che hai in mano.",
+        "es": "Pon 1 Pokémon [W] de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Bail Out",
+        "fr": "Renflouage",
+        "de": "Freilassen",
+        "it": "Soccorso",
+        "es": "Sacar de Apuros"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",

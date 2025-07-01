@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 10 more damage for each card in your hand.",
@@ -19,7 +22,12 @@
       }
     },
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",

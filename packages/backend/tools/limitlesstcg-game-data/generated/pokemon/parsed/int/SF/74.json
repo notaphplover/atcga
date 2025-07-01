@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Snover during your opponent's next turn."
+      },
+      "name": {
+        "en": "Hide"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."

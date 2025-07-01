@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Scratch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all damage counters from Teddiursa. Teddiursa is now Asleep."
+      },
+      "name": {
+        "en": "Nap Time"
       }
     }
   ],

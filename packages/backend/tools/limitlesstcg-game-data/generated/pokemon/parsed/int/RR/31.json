@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Thunder Throw"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each of your opponent's Benched Pokémon that has any damage counters on it."

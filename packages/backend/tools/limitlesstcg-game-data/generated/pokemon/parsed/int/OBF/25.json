@@ -3,7 +3,11 @@
   "abilityName": "Double Type",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

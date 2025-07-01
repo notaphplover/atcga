@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Stretch Vine"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove 2 damage counters from Carnivine."
@@ -11,7 +25,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Burned and Poisoned."

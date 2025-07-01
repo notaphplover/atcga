@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance).",
@@ -18,6 +22,30 @@
         "it": "Muro di Fuoco",
         "pt": "Cortina de Chamas",
         "es": "Pantallama"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a Team Rocket's Energy from this Pokémon. If you do, discard your opponent's Active Pokémon and all attached cards.",
+        "fr": "Défaussez une Énergie de la Team Rocket de ce Pokémon. Dans ce cas, défaussez le Pokémon Actif de votre adversaire et toutes les cartes qui lui sont attachées.",
+        "de": "Lege 1 Team Rockets Energie von diesem Pokémon auf deinen Ablagestapel. Wenn du das machst, lege das Aktive Pokémon deines Gegners und alle angelegten Karten auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia del Team Rocket da questo Pokémon. Se lo fai, scarta il Pokémon attivo del tuo avversario e tutte le carte a esso assegnate.",
+        "pt": "Descarte uma Energia da Equipe Rocket deste Pokémon. Se fizer isto, descarte o Pokémon Ativo do seu oponente e todas as cartas ligadas a ele.",
+        "es": "Descarta 1 Energía del Team Rocket de este Pokémon. Si lo haces, descarta el Pokémon Activo de tu rival y todas las cartas unidas a él."
+      },
+      "name": {
+        "en": "Evil Incineration",
+        "fr": "Calcination Maléfique",
+        "de": "Boshafte Einäscherung",
+        "it": "Incenerimento Maligno",
+        "pt": "Incineração do Mal",
+        "es": "Calcinación Malvada"
       }
     }
   ],

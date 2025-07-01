@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Minor Errand-Running"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, Pachirisu does 10 damage to itself."

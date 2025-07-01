@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Moomoo Milk card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Lait Meumeu dans votre deck, montrez-la à votre adversaire, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Kuhmuh-Milch-Karte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Latte Mumu, mostrala al tuo avversario e aggiungila alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo una carta Leche MooMoo, enséñasela a tu rival y ponla en tu mano. Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Moomoo Squeeze",
+        "fr": "Compression Meumeu",
+        "de": "Kuhmuh-Quetsche",
+        "it": "Spremi Mumu",
+        "es": "ChorritoMooMoo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",

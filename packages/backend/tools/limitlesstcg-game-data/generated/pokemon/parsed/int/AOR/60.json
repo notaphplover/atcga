@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wycc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to 1 of your opponent's Pokémon for each [C] in its Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 20 dégâts à l'un des Pokémon de votre adversaire pour chaque [C] dans son Coût de Retraite. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 20 Schadenspunkte für jedes [C]-Symbol in dessen Rückzugskosten zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 20 danni a uno dei Pokémon del tuo avversario per ogni [C] nel suo costo di ritirata. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 20 puntos de daño a 1 de los Pokémon de tu rival por cada [C] en su Coste de Retirada. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Liquid Blow",
+        "fr": "Coup Liquide",
+        "de": "Flüssiger Hieb",
+        "it": "Colpofluido",
+        "es": "Golpe Líquido"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon can't be affected by any Special Conditions.",

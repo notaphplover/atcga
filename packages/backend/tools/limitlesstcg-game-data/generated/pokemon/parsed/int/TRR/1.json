@@ -3,7 +3,10 @@
   "abilityName": "Froth",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin for each [W] Energy attached to Azumarill. This attack does 20 damage plus 20 more damage for each heads."

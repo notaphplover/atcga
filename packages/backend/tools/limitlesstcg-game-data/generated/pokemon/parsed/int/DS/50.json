@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Once during your turn, when you play Persian from your hand to evolve 1 of your Pokémon, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
   "abilityName": "Prowl",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Snap Tail"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

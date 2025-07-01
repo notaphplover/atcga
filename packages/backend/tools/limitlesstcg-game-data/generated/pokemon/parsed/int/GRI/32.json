@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 80 more damage.",

@@ -1,7 +1,32 @@
 {
   "abilityEffect": "Once during your turn (before your attack), if Dark Crobat is your Active Pokémon, you may choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. This power can't be used if Dark Crobat is affected by a Special Condition.",
   "abilityName": "Black Beam",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Remove from Dark Crobat a number of damage counters equal to the number of your opponent's Pokémon in play."
+      },
+      "name": {
+        "en": "Dark Drain"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Skill Dive"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

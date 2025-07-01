@@ -3,7 +3,10 @@
   "abilityName": "Zap Zone",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If your opponent's Active Pokémon has [F] Resistance, this attack does 60 more damage.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 60 more damage.",
@@ -16,6 +18,26 @@
         "de": "Zerreißende Dornen",
         "it": "Fendilancia",
         "es": "Púas Desgarradoras"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 40 damage to the new Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif. Cette attaque inflige 40 dégâts au nouveau Pokémon Actif.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus. Diese Attacke fügt dem neuen Aktiven Pokémon 40 Schadenspunkte zu.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Questo attacco infligge 40 danni al nuovo Pokémon attivo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. Este ataque hace 40 puntos de daño al nuevo Pokémon Activo."
+      },
+      "name": {
+        "en": "Hunt",
+        "fr": "Chasse",
+        "de": "Jagd",
+        "it": "Agguato",
+        "es": "Caza"
       }
     }
   ],

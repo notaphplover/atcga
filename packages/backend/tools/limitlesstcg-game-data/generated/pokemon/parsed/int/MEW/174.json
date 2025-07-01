@@ -3,7 +3,12 @@
   "abilityName": "Enthusiastic King",
   "attacks": [
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

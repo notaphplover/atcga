@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard the top 3 cards from your deck. This attack does 50 damage times the number of Energy cards you discarded.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 2 [R] Energy attached to Magmortar.",

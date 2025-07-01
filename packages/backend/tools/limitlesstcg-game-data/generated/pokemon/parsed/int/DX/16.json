@@ -3,7 +3,10 @@
   "abilityName": "Form Change",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If Deoxys and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 20 instead of 40."

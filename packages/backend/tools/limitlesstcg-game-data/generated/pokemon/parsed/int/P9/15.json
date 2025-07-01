@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Growl"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If Pikachu evolved from Pichu during this turn, the Defending Pokémon is now Paralyzed."

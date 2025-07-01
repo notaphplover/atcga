@@ -3,7 +3,11 @@
   "abilityName": "キャリーラン",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "jp": "コインを1回投げウラなら、このワザは失敗。"

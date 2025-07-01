@@ -3,7 +3,10 @@
   "abilityName": "Healing Shower",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Before doing damage, remove 3 damage counters from the Defending Pokémon (all if there are less than 3)."

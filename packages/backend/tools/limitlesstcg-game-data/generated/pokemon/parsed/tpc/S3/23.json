@@ -3,7 +3,10 @@
   "abilityName": "そこびえ",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

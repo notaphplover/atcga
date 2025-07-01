@@ -3,7 +3,10 @@
   "abilityName": "Delta Heal",
   "attacks": [
     {
-      "cost": "pm",
+      "cost": [
+        "p",
+        "m"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

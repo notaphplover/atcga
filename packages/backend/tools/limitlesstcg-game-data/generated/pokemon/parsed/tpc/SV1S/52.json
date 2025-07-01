@@ -3,7 +3,12 @@
   "abilityName": "どくぶくろ",
   "attacks": [
     {
-      "cost": "dccc",
+      "cost": [
+        "d",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

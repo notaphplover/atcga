@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Sweet Scent"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage."

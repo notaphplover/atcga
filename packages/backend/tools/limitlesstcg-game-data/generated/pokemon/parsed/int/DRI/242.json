@@ -3,7 +3,10 @@
   "abilityName": "Biting Spree",
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "120",
       "effect": {
         "en": "You may put this Pokémon into your hand. (Discard all cards attached to this Pokémon.)",

@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a Supporter card from your hand. If you do, use the effect of that card as the effect of this attack.",
+        "fr": "Défaussez une carte Supporter de votre main. Dans ce cas, utilisez l'effet de cette carte en tant qu'effet de cette attaque.",
+        "de": "Lege 1 Unterstützerkarte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, kannst du den Effekt jener Karte als Effekt dieser Attacke einsetzen.",
+        "it": "Scarta una carta Aiuto che hai in mano. Se lo fai, usa l'effetto di quella carta come effetto di questo attacco.",
+        "es": "Descarta 1 carta de Partidario de tu mano. Si lo haces, usa el efecto de esa carta como efecto de este ataque."
+      },
+      "name": {
+        "en": "Impersonation",
+        "fr": "Usurpation",
+        "de": "Verkörperung",
+        "it": "Emulazione",
+        "es": "Suplantación"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Pokémon and put 2 damage counters on each of them.",
+        "fr": "Choisissez 2 des Pokémon de votre adversaire et placez 2 marqueurs de dégâts sur chacun d'eux.",
+        "de": "Wähle 2 Pokémon deines Gegners und lege 2 Schadensmarken auf jedes von ihnen.",
+        "it": "Scegli due dei Pokémon del tuo avversario e metti due segnalini danno su ciascuno di essi.",
+        "es": "Elige 2 de los Pokémon de tu rival y pon 2 contadores de daño en cada uno de ellos."
+      },
+      "name": {
+        "en": "Mischievous Hands",
+        "fr": "Mains Malicieuses",
+        "de": "Dreiste Hände",
+        "it": "Mani Birichine",
+        "es": "Manos Traviesas"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

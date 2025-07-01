@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Add On",
+        "fr": "Ajout",
+        "de": "Hinzufügen",
+        "it": "Supplemento",
+        "pt": "Adicionar",
+        "es": "Sumar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Stun Spore"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."

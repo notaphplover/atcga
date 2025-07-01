@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may attach a [D] Energy card from your hand to 1 of your Benched Pokémon.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "dccc",
+      "cost": [
+        "d",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 120 more damage.",

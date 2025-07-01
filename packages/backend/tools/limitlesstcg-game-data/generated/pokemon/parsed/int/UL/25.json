@@ -3,7 +3,10 @@
   "abilityName": "Hot Snort",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

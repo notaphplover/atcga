@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like.",

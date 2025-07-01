@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, heal 40 damage from this Pokémon.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, soignez 40 dégâts à ce Pokémon.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, cura questo Pokémon da 40 danni.",
+        "es": "Lanza 2 monedas. Por cada cara, cura 40 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Deep Dive",
+        "fr": "Plongée Profonde",
+        "de": "Unterwasserausflug",
+        "it": "Immersione Profonda",
+        "es": "Zambullida Submarina"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

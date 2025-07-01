@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rw",
+      "cost": [
+        "r",
+        "w"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, this attack does 120 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "rwc",
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

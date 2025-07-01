@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné. Placez 2 marqueurs de dégâts au lieu d'un sur le Pokémon ciblé entre chaque tour.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet. Lege zwischen den Zügen 2 Schadensmarken anstelle von 1 Schadensmarke auf das Pokémon.",
+        "it": "Il Pokémon difensore viene avvelenato. Tra un turno e l'altro, metti due segnalini danno invece di uno su quel Pokémon.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado. Pon 2 contadores de daño en vez de 1 en ese Pokémon entre turnos."
+      },
+      "name": {
+        "en": "Toxic",
+        "fr": "Toxik",
+        "de": "Toxin",
+        "it": "Tossina",
+        "es": "Tóxico"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",

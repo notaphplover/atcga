@@ -3,7 +3,12 @@
   "abilityName": "Jumbo-Sized",
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If this Pokémon has any Special Energy attached, this attack does 120 more damage.",

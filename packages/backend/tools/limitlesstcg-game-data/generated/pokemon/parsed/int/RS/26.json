@@ -1,7 +1,19 @@
 {
   "abilityEffect": "During your opponent's turn, if Cascoon would be damaged by an opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 30.",
   "abilityName": "Hard Cocoon",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Thread"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "90×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 90 damage for each heads.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

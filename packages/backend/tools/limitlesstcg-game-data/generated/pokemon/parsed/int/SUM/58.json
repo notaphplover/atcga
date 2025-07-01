@@ -3,7 +3,12 @@
   "abilityName": "Power of Alchemy",
   "attacks": [
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",

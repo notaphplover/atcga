@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mm",
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may attach a [M] Energy card from your hand to this Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

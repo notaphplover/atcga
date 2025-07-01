@@ -3,7 +3,11 @@
   "abilityName": "Toxic Spikes",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",

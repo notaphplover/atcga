@@ -3,7 +3,10 @@
   "abilityName": "Crisis Power",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, attach up to 2 Basic [L] Energy cards from your hand to this Pokémon.",
+        "fr": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc. Dans ce cas, attachez jusqu'à 2 cartes Énergie [L] de base de votre main à ce Pokémon.",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus. Wenn du das machst, lege bis zu 2 Basis-[L]-Energiekarten aus deiner Hand an dieses Pokémon an.",
+        "it": "Scambia questo Pokémon con uno della tua panchina. Se lo fai, assegna a questo Pokémon fino a due carte Energia base [L] dalla tua mano.",
+        "pt": "Troque este Pokémon por 1 dos seus Pokémon no Banco. Se fizer isto, ligue até 2 cartas de Energia [L] Básica da sua mão a este Pokémon.",
+        "es": "Cambia este Pokémon por uno de tus Pokémon en Banca. Si lo haces, une hasta 2 cartas de Energía [L] Básica de tu mano a este Pokémon."
+      },
+      "name": {
+        "en": "Return Charge",
+        "fr": "Charge Retour",
+        "de": "Rückkehrladung",
+        "it": "Carica di Ritorno",
+        "pt": "Carga de Retorno",
+        "es": "Carga de Retorno"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "This attack does 40 more damage for each [L] Energy attached to this Pokémon.",

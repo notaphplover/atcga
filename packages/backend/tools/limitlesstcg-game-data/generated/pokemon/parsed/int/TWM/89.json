@@ -1,7 +1,29 @@
 {
   "abilityEffect": "If Festival Grounds is in play, this Pokémon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.",
   "abilityName": "Festival Lead",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on 1 of your opponent's Pokémon.",
+        "fr": "Placez 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire.",
+        "de": "Lege 2 Schadensmarken auf 1 Pokémon deines Gegners.",
+        "it": "Metti due segnalini danno su uno dei Pokémon del tuo avversario.",
+        "pt": "Coloque 2 contadores de dano em 1 dos Pokémon do seu oponente.",
+        "es": "Pon 2 contadores de daño en uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Sneaky Placement",
+        "fr": "Placement Vicieux",
+        "de": "Heimlichtuerei",
+        "it": "Furtivappoggio",
+        "pt": "Posição Sorrateira",
+        "es": "Colocación Furtiva"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

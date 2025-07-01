@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard a [W] Energy attached to Corsola and remove all damage counters from Corsola.",
+        "fr": "Défaussez une carte Énergie [W] attachée à Corayon et retirez tous les marqueurs de dégâts sur Corayon.",
+        "de": "Lege 1 an Corasonn angelegte [W]-Energie auf deinen Ablagestapel und entferne alle Schadensmarken von Corasonn.",
+        "it": "Scarta una Energia [W] assegnata a Corsola e togli tutti i segnalini danno da Corsola.",
+        "es": "Descarta una Energía [W] unida a Corsola y quita todos los contadores de daño de Corsola."
+      },
+      "name": {
+        "en": "Recover",
+        "fr": "Soin",
+        "de": "Genesung",
+        "it": "Ripresa",
+        "es": "Recuperación"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 2 coins. If both of them are heads, this attack does 20 damage plus 50 more damage.",

@@ -3,7 +3,11 @@
   "abilityName": "Changing Seasons",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

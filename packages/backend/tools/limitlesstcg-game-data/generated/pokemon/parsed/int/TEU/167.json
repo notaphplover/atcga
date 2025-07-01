@@ -3,7 +3,11 @@
   "abilityName": "Scar Charge",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",
@@ -21,7 +25,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 50 more damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)",

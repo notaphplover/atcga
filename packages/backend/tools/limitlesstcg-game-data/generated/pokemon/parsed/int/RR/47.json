@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, search your discard pile for a basic Energy card, show it to your opponent, and put it into your hand."
+      },
+      "name": {
+        "en": "Pickup Power"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

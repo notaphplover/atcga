@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Put up to 12 damage counters on this Pokémon. This attack does 20 damage for each damage counter you placed in this way.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "150",
       "effect": {},
       "name": {

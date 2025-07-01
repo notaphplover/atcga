@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose any number of your Benched Pokémon that don't already have a Pokémon Tool attached to them. For each of those Pokémon, search your deck for a Pokémon Tool card and attach it to that Pokémon. Then, shuffle your deck.",
+        "fr": "Choisissez autant de vos Pokémon de Banc auxquels aucun Outil Pokémon n'est attaché que vous voulez. Pour chacun de ces Pokémon, cherchez une carte Outil Pokémon dans votre deck et attachez-la à ce Pokémon-là. Mélangez ensuite votre deck.",
+        "de": "Wähle beliebig viele Pokémon auf deiner Bank, an die noch keine Pokémon-Ausrüstung angelegt ist. Durchsuche für jedes jener Pokémon dein Deck nach 1 Pokémon-Ausrüstung und lege sie an jenes Pokémon an. Mische anschließend dein Deck.",
+        "it": "Scegli un numero qualsiasi di Pokémon che hai in panchina che non abbiano già un Oggetto Pokémon assegnato. Per ognuno di essi, cerca nel tuo mazzo una carta Oggetto Pokémon e assegnagliela. Poi rimischia le carte del tuo mazzo.",
+        "es": "Elige cualquier cantidad de tus Pokémon en Banca que aún no tengan ninguna Herramienta Pokémon unida a ellos. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Herramienta Pokémon y únela a ese Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Happy Delivery",
+        "fr": "Livraison en Fanfare",
+        "de": "Freudige Lieferung",
+        "it": "Allegra Consegna",
+        "es": "Entrega Feliz"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -16,6 +19,26 @@
         "de": "Gespenstische Woge",
         "it": "Ondamistero",
         "es": "Onda Sobrecogedora"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy attached to this Pokémon. Put 8 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Défaussez 2 Énergies attachées à ce Pokémon. Placez 8 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez.",
+        "de": "Lege 2 an dieses Pokémon angelegte Energien auf deinen Ablagestapel. Verteile 8 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Scarta due Energie assegnate a questo Pokémon. Distribuisci a piacimento otto segnalini danno sui Pokémon del tuo avversario.",
+        "es": "Descarta 2 Energías unidas a este Pokémon. Pon 8 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Burst Curse",
+        "fr": "Malédiction en Rafale",
+        "de": "Geplatzter Fluch",
+        "it": "Maledizione Esplosiva",
+        "es": "Maldición Explosiva"
       }
     }
   ],

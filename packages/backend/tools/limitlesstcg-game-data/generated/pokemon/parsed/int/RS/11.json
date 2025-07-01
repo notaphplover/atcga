@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If 1 Energy is attached to Sceptile, the Defending Pokémon is now Asleep. If 2 Energy is attached to Sceptile, the Defending Pokémon is now Poisoned. If 3 Energy is attached to Sceptile, the Defending Pokémon is now Asleep and Poisoned. If 4 or more Energy is attached to Sceptile, the Defending Pokémon is now Asleep, Burned, and Poisoned."
@@ -11,7 +13,13 @@
       }
     },
     {
-      "cost": "ggccc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

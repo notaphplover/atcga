@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+        "fr": "Cherchez jusqu'à 2 Pokémon de base dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due Pokémon Base e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 Pokémon Básicos y ponlos en tu Banca. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Entrainment",
+        "fr": "Ten-Danse",
+        "de": "Zwango",
+        "it": "Saltamicizia",
+        "es": "Danza Amiga"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon.",

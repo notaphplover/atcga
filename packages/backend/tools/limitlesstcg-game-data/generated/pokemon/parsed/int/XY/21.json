@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "You may discard the top card of your deck. If that card is a [R] Energy card, this attack does 50 more damage.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

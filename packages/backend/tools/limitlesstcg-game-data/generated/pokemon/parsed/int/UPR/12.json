@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",
@@ -19,7 +22,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "90-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",

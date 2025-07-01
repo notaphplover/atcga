@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw a card for each card in your opponent's hand."
+      },
+      "name": {
+        "en": "Mimic"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage."

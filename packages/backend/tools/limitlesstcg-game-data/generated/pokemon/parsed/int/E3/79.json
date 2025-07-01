@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. Put a damage counter on that Pokémon."
+      },
+      "name": {
+        "en": "Evil Eye"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon that has a damage counter on it. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Blindside"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

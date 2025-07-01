@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage times the amount of [P] Energy attached to this Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like.",

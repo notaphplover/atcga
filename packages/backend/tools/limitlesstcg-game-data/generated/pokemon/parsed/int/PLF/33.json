@@ -3,7 +3,11 @@
   "abilityName": "Magnetic Draw",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

@@ -1,7 +1,19 @@
 {
   "abilityEffect": "As long as Dusclops ex is on your Bench, don't apply [D] Weakness for all of your Pokémon is play.",
   "abilityName": "Dark Hole",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on the Defending Pokémon for each Energy attached to Dusclops ex."
+      },
+      "name": {
+        "en": "Shadow Beam"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 100,
   "imageUrls": {

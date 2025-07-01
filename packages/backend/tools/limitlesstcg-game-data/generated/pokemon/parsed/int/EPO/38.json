@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt vergiftet.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene avvelenato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poison Sting",
+        "fr": "Dard-Venin",
+        "de": "Giftstachel",
+        "it": "Velenospina",
+        "es": "Picotazo Veneno"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

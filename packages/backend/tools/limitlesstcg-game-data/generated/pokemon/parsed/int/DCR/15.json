@@ -3,7 +3,12 @@
   "abilityName": "Power Saver",
   "attacks": [
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",

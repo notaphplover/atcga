@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 2 [R] Energy cards and attach them to Numel."
+      },
+      "name": {
+        "en": "Draw In"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

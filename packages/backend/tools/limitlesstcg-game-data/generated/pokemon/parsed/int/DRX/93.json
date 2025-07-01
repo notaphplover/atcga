@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt paralysiert.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene paralizzato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Deep Growl",
+        "fr": "Rugissement Profond",
+        "de": "Kraftvoller Knurrer",
+        "it": "Cuporuggito",
+        "es": "Intenso Rugido"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon.",

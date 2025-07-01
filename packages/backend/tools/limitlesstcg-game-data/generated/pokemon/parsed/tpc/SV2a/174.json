@@ -3,7 +3,12 @@
   "abilityName": "はりきりキング",
   "attacks": [
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

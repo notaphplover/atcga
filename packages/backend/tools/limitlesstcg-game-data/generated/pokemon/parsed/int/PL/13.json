@@ -3,7 +3,9 @@
   "abilityName": "Iron Skull",
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "80",
       "effect": {
         "en": "If the Defending Pokémon would be Knocked Out by this attack, Rampardos does 40 damage to itself."
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Any damage done to Rampardos by attacks is reduced by 20 (after applying Weakness and Resistance) until the end of your next turn."

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fm",
+      "cost": [
+        "f",
+        "m"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {
@@ -14,7 +17,11 @@
       }
     },
     {
-      "cost": "fmm",
+      "cost": [
+        "f",
+        "m",
+        "m"
+      ],
       "dmg": "140",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon's attacks do 30 less damage (before applying Weakness and Resistance).",

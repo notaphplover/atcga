@@ -1,5 +1,24 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene paralizzato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Paralyzing Gaze",
+        "fr": "Regard Paralysant",
+        "de": "Lähmender Blick",
+        "it": "Sguardo Paralizzante",
+        "es": "Mirada Paralizante"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

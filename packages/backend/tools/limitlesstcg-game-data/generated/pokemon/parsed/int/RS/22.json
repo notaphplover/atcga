@@ -3,7 +3,11 @@
   "abilityName": "Rough Skin",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard a [D] Energy card attached to Sharpedo. If you do, this attack does 40 damage plus 30 more damage."

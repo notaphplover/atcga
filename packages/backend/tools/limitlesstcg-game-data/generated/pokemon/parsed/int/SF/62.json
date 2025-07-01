@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [],
+      "effect": {
+        "en": "You opponent can't play any Trainer cards from his or her hand during your opponent's next turn."
+      },
+      "name": {
+        "en": "Pitch-Dark"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "You may switch Gastly with 1 of your Benched Pokémon."

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Each player either draws or discards cards until that player has 4 cards in his or her hand. (Your opponent does this first.)",
+        "fr": "Chaque joueur pioche ou défausse des cartes jusqu'à avoir 4 cartes dans sa main. (Votre adversaire le fait en premier.)",
+        "de": "Jeder Spieler muss so viele Karten ziehen oder ablegen, bis der Spieler 4 Karten auf der Hand hat. (Dein Gegner beginnt.)",
+        "it": "Ciascun giocatore pesca o scarta carte fino ad avere quattro carte in mano. Inizia il tuo avversario.",
+        "es": "Cada jugador roba o descarta cartas hasta tener 4 cartas en su mano. (Tu rival lo hace primero)."
+      },
+      "name": {
+        "en": "Mirror Mirror",
+        "fr": "Miroir",
+        "de": "Spieglein, Spieglein",
+        "it": "Specchio Specchio",
+        "es": "Espejo Espejito"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

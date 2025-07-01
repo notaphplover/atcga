@@ -3,7 +3,11 @@
   "abilityName": "Buzzap Thunder",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

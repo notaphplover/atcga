@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, base damage of Vigoroth's Slash is attack is 90 instead of 40."
+      },
+      "name": {
+        "en": "Focus Energy"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

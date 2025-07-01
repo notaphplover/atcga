@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "After your attack, remove from Beautifly the number of damage counters equal to the damage you did to the Defending Pokémon."

@@ -3,7 +3,11 @@
   "abilityName": "Mystic Heart",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon's Soul Blaster attack's base damage is 60.",

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {
@@ -11,6 +15,30 @@
         "it": "Sabbia Inquietante",
         "pt": "Areia Assustadora",
         "es": "Arena Embrujada"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a Basic Pokémon, it is Knocked Out.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, il est mis K.O.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, ist es kampfunfähig.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Base, viene messo KO.",
+        "pt": "Se o Pokémon Ativo do seu oponente for um Pokémon Básico, ele será Nocauteado.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon Básico, queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Oppressing Sandstorm",
+        "fr": "Sirocco Étouffant",
+        "de": "Schrecklicher Sandsturm",
+        "it": "Terrempesta Opprimente",
+        "pt": "Tempestade de Areia Opressiva",
+        "es": "Tormenta de Arena Opresiva"
       }
     }
   ],

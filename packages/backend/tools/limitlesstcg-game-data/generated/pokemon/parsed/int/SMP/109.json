@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Agility"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 20 damage to itself."

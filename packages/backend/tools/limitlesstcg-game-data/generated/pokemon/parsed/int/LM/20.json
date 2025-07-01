@@ -3,7 +3,20 @@
   "abilityName": "Sol Shade",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Trainer card (excluding Supporter cards), show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Moon Guidance"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

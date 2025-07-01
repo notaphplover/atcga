@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Heal 20 damage from this Pokémon."
+      },
+      "name": {
+        "en": "Nap"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

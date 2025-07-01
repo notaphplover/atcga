@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you played a Supporter card from your hand during this turn, this attack does 30 more damage.",

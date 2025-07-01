@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "If your opponent has any Ultra Beasts in play, this attack can be used for [C].",

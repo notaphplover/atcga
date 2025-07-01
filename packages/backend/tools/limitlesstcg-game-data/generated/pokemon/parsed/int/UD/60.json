@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -9,6 +11,23 @@
         "fr": "Collision",
         "de": "Ramme",
         "it": "Carica"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a [G] Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Lancez une pièce. Si c'est face, cherchez un Pokémon [G] dans votre deck, montrez-le à votre adversaire, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Wirf eine Münze. Durchsuche bei „Kopf“ dein Deck nach 1 [G]-Pokémon-Karte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische anschließend dein Deck.",
+        "it": "Lancia una moneta. Se esce testa, cerca nel tuo mazzo un Pokémon [G], mostralo al tuo avversario e aggiungilo alle carte che hai mano. Poi rimischia le carte del tuo mazzo."
+      },
+      "name": {
+        "en": "Find a Friend",
+        "fr": "Trouver un ami",
+        "de": "Freunde finden",
+        "it": "Trovamico"
       }
     }
   ],

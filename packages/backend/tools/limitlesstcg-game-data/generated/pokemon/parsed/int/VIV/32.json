@@ -3,7 +3,12 @@
   "abilityName": "Water Veil",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 40 more damage for each [W] Energy attached to this Pokémon.",

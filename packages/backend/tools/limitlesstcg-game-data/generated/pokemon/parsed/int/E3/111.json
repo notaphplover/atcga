@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, remove 1 damage counter from each of your Pokémon. If a Pokémon has fewer damage counters than the number of heads, remove all of them."
+      },
+      "name": {
+        "en": "Healing Dust"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, choose a Special Condition (Asleep, Burned, Confused, Paralyzed, or Poisoned). The Defending Pokémon is now affected by that Special Condition."

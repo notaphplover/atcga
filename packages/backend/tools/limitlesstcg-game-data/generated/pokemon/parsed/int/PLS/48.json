@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
@@ -19,7 +22,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If this Pokémon has any Plasma Energy attached to it, this attack does 40 more damage.",

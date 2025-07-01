@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your opponent's next turn, attacks used by the Defending Pokémon cost [C] more, and its Retreat Cost is [C] more.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

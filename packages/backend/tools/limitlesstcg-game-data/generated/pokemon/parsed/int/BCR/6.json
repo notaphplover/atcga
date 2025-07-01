@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Does 30 damage times the amount of [G] Energy attached to this Pokémon. This Pokémon can't use Hundred Furious Lashes during your next turn.",
@@ -18,7 +20,12 @@
       }
     },
     {
-      "cost": "gccc",
+      "cost": [
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

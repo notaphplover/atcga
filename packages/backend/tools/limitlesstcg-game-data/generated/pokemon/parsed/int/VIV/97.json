@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -14,7 +17,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "180-",
       "effect": {
         "en": "This attack does 30 less damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",

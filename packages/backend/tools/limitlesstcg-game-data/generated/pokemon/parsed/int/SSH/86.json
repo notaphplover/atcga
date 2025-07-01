@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch all damage counters on this Pokémon with those on your opponent's Active Pokémon.",
+        "fr": "Échangez tous les marqueurs de dégâts de ce Pokémon contre ceux du Pokémon Actif de votre adversaire.",
+        "de": "Tausche alle Schadensmarken auf diesem Pokémon gegen jene auf dem Aktiven Pokémon deines Gegners aus.",
+        "it": "Scambia tutti i segnalini danno presenti su questo Pokémon con quelli sul Pokémon attivo del tuo avversario.",
+        "pt": "Troque todos os contadores de dano neste Pokémon por aqueles no Pokémon Ativo do seu oponente.",
+        "es": "Cambia todos los contadores de daño de este Pokémon por los del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Gritty Comeback",
+        "fr": "Retour Abrasif",
+        "de": "Mutiges Comeback",
+        "it": "Ripresa Decisa",
+        "pt": "Vingança Resoluta",
+        "es": "Reaparición Resuelta"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "For each damage counter on this Galarian Runerigus, put 2 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Pour chaque marqueur de dégâts sur ce Tutétékri de Galar, placez 2 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege für jede Schadensmarke auf diesem Galar-Oghnatoll 2 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Per ogni segnalino danno presente su questo Runerigus di Galar, metti due segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Para cada contador de dano neste Runerigus de Galar, coloque 2 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Por cada contador de daño en este Runerigus de Galar, pon 2 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Spreading Spite",
+        "fr": "Mépris Réparti",
+        "de": "Boshafte Ausbreitung",
+        "it": "Spargidispetti",
+        "pt": "Disseminar Rancor",
+        "es": "Esparcir Rencor"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

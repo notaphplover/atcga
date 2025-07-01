@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "100×",
       "effect": {
         "en": "This attack does 100 damage for each Special Condition affecting this Pokémon.",
@@ -21,7 +21,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

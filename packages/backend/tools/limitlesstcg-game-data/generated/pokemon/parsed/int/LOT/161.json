@@ -3,7 +3,9 @@
   "abilityName": "Unit Color 1",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 50 more damage.",

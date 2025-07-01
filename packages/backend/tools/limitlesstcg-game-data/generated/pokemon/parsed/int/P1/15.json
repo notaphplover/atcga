@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, base damage of Swellow's Agility is 70 instead of 30."
+      },
+      "name": {
+        "en": "Focus Energy"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn."

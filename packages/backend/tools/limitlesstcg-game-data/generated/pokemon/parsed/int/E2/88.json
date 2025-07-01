@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 3 cards of your deck, and then choose 1 of those cards and put it into your hand. Shuffle the rest into your deck afterward."
+      },
+      "name": {
+        "en": "Baby Outing"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

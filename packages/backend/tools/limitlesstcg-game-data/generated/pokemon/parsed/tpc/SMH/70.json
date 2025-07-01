@@ -1,7 +1,20 @@
 {
   "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンは、にげられない。",
   "abilityName": "じゅばくのうず",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "jp": "ダメカン3個を、相手のポケモンに好きなようにのせる。"
+      },
+      "name": {
+        "jp": "のろいのしずく"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

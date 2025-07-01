@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mmmm",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "For each of your opponent's Pokémon in play, attach a [M] Energy card from your discard pile to your Pokémon in any way you like.",
+        "fr": "Pour chaque Pokémon de votre adversaire en jeu, attachez une carte Énergie [M] de votre pile de défausse à vos Pokémon, de la manière que vous voulez.",
+        "de": "Lege für jedes Pokémon deines Gegners im Spiel 1 [M]-Energiekarte aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Per ogni Pokémon del tuo avversario in gioco, assegna a piacimento ai tuoi Pokémon una carta Energia [M] dalla tua pila degli scarti.",
+        "es": "Por cada uno de los Pokémon de tu rival en juego, une 1 carta de Energía [M] de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Radiant Star",
+        "fr": "Étoile Soleil Levant",
+        "de": "Aufgangsstern",
+        "it": "Stella del Sole Nascente",
+        "es": "Estrella Sol Ascendente"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

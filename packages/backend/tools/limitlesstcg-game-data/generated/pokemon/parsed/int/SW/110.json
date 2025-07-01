@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Gossip"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

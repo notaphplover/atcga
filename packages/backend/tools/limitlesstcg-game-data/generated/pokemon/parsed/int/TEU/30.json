@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Reveal the top 7 cards of your deck. This attack does 30 more damage times the amount of [W] Energy you find there. Then, shuffle those Energy cards back into your deck and discard the other cards.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",

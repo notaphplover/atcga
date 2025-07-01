@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card and attach it to Electabuzz. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Energy Draw"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If you have any Benched Pokémon and if there are any basic Energy cards attached to Electabuzz, take 1 of those Energy cards and attach it to 1 of those Pokémon."

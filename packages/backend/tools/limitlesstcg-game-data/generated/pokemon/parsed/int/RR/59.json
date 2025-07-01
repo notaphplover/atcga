@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 cards that evolve from Eevee, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Signs of Evolution"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Switch Eevee with 1 of your Benched Pokémon."

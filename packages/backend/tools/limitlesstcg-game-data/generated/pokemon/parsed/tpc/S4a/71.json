@@ -3,7 +3,11 @@
   "abilityName": "ライフシェイカー",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

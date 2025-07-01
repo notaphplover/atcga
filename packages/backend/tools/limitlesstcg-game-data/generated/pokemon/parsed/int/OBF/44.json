@@ -3,7 +3,10 @@
   "abilityName": "Scorching Armor",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

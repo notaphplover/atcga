@@ -3,7 +3,11 @@
   "abilityName": "Irritating Buzz",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If you attach a [F] Energy card from your hand to Flygon during this turn, this attack does 60 damage plus 20 more damage."

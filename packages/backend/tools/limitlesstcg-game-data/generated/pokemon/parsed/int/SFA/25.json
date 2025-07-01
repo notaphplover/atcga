@@ -3,7 +3,11 @@
   "abilityName": "Battle-Hardened",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon.",

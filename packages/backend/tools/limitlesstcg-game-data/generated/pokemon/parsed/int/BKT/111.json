@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "As long as this Haxorus is your Active Pokémon, each of its attacks does 100 more damage (before applying Weakness and Resistance). You can't add more than 100 damage in this way.",
+        "fr": "Tant que ce Tranchodon est votre Pokémon Actif, chacune de ses attaques inflige 100 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance). Vous ne pouvez pas ajouter plus de 100 dégâts de cette façon.",
+        "de": "Solang Maxax dein Aktives Pokémon ist, fügt jeder seiner Angriffe 100 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden). Du kannst so nicht mehr als 100 Schadenspunkte hinzufügen.",
+        "it": "Fintanto che questo Haxorus è il tuo Pokémon attivo, ciascuno dei suoi attacchi infligge 100 danni in più, prima di aver applicato debolezza e resistenza. Non puoi aggiungere più di 100 danni in questo modo.",
+        "es": "Mientras este Haxorus sea tu Pokémon Activo, cada uno de sus ataques hace 100 puntos de daño más (antes de aplicar Debilidad y Resistencia). No puedes añadir más de 100 puntos de daño de esta manera."
+      },
+      "name": {
+        "en": "Dragon Dance",
+        "fr": "Danse Draco",
+        "de": "Drachentanz",
+        "it": "Dragodanza",
+        "es": "Danza Dragón"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -13,7 +34,10 @@
       }
     },
     {
-      "cost": "fm",
+      "cost": [
+        "f",
+        "m"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard the top 3 cards of your deck."

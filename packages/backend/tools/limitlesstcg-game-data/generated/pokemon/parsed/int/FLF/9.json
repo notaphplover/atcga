@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pokémon.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Pour chaque côté face, défaussez une Énergie attachée au Pokémon Actif de votre adversaire.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Lege pro „Kopf“ 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta 1 Energía unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Whiplash",
+        "fr": "Fouet Furieux",
+        "de": "Peitschenhieb",
+        "it": "Scudisciata",
+        "es": "Correazo"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",

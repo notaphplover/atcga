@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "130",
       "effect": {
         "en": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",

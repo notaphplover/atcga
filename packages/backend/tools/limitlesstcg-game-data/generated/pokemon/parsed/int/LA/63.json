@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, Marowak can't use Heavy Bone during your next turn."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 50 damage times the number of heads."

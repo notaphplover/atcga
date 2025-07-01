@@ -3,7 +3,11 @@
   "abilityName": "Skyscraper",
   "attacks": [
     {
-      "cost": "fmm",
+      "cost": [
+        "f",
+        "m",
+        "m"
+      ],
       "dmg": "220",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",

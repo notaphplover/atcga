@@ -3,7 +3,11 @@
   "abilityName": "Flare Navigate",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

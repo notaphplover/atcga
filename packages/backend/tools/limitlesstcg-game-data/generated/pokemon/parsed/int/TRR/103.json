@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. If you do, this attack does 10 damage to the new Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each of your [D] Pokémon in play."

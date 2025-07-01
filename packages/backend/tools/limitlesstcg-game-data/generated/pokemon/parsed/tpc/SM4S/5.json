@@ -3,7 +3,11 @@
   "abilityName": "そうしょく",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "jp": "このポケモンのHPを「20」回復する。"

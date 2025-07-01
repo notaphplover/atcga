@@ -3,7 +3,10 @@
   "abilityName": "Lose Cool",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "160",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Impact Blow.",

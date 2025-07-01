@@ -3,7 +3,10 @@
   "abilityName": "Good Night Melody",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If Igglybuff is anywhere under Wigglytuff, this attack does 40 damage plus 20 more damage."

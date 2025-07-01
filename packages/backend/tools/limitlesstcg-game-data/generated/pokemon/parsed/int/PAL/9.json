@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage for each heads.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Choose 1 of your Benched Combee and shuffle that Pokémon and all attached cards into your deck. If you can't shuffle a Combee into your deck, this attack does nothing.",

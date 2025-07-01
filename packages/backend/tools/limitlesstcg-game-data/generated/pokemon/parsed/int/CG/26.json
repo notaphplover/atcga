@@ -3,7 +3,10 @@
   "abilityName": "Delta Transport",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Confused."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

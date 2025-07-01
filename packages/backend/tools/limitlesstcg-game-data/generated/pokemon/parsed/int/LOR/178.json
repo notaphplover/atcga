@@ -3,7 +3,11 @@
   "abilityName": "Guardian of Love",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Attach up to 2 basic Energy cards from your discard pile to your Benched Pokémon in any way you like.",

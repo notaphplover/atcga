@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé, Confus et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt, verwirrt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato, confuso e avvelenato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Confuso, Envenenado e Queimado.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido, Envenenado y Quemado."
+      },
+      "name": {
+        "en": "Panic Poison",
+        "fr": "Poison Panique",
+        "de": "Panikgift",
+        "it": "Velenostress",
+        "pt": "Veneno do Pânico",
+        "es": "Pánico Venenoso"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

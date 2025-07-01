@@ -3,7 +3,12 @@
   "abilityName": "フレアコマンド",
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

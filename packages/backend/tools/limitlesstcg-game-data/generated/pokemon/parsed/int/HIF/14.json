@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Attach 2 [W] Energy cards from your discard pile to 1 of your Pokémon.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {
@@ -28,7 +34,9 @@
       }
     },
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "This attack does 40 more damage times the amount of [W] Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)",

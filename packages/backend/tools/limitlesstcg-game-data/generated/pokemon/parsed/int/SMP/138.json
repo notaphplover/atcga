@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon-GX or a Pokémon-EX, this attack does 60 more damage. This attack's damage isn't affected by Weakness."
@@ -11,7 +13,12 @@
       }
     },
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip 2 coins. This attack does 60 more damage for each heads."
@@ -21,7 +28,12 @@
       }
     },
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"

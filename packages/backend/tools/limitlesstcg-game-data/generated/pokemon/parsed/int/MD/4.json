@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Draw cards until you have 6 cards in your hand."
+      },
+      "name": {
+        "en": "Time Shift"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 60 damage plus 20 more damage."

@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [],
+      "effect": {
+        "en": "Look at your opponent's hand."
+      },
+      "name": {
+        "en": "Curiosity"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, Snover does 10 damage to itself."

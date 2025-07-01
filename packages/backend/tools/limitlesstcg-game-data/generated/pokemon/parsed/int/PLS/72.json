@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 60 more damage. Discard that Stadium card.",

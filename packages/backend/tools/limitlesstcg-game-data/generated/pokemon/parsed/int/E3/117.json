@@ -1,5 +1,28 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Sound Waves"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. Don't apply Weakness and Resistance. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      "name": {
+        "en": "Flitter"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

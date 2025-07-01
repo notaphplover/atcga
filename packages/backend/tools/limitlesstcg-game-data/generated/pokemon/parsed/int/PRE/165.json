@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {
@@ -14,7 +16,10 @@
       }
     },
     {
-      "cost": "rp",
+      "cost": [
+        "r",
+        "p"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Put 6 damage counters on your opponent's Benched Pokémon in any way you like.",

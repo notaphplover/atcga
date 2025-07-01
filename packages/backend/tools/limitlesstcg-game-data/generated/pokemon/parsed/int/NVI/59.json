@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+        "fr": "Échangez le Pokémon Défenseur avec 1 des Pokémon de Banc de votre adversaire.",
+        "de": "Tausche das Verteidigende Pokémon gegen 1 Pokémon auf der Bank deines Gegners aus.",
+        "it": "Scambia il Pokémon difensore con uno dei Pokémon in panchina del tuo avversario.",
+        "es": "Cambia al Pokémon Defensor por 1 de los Pokémon en Banca de tu rival."
+      },
+      "name": {
+        "en": "Luring Light",
+        "fr": "Appât Lumineux",
+        "de": "Köderleuchte",
+        "it": "Lucincanto",
+        "es": "Luz Tentadora"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

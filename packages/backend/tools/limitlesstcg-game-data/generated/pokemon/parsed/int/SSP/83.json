@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 6 damage counters on each Pokémon that has an Ability (both yours and your opponent's).",
+        "fr": "Placez 6 marqueurs de dégâts sur chacun des Pokémon ayant un talent (les vôtres et ceux de votre adversaire).",
+        "de": "Lege 6 Schadensmarken auf jedes Pokémon (deine und die deines Gegners), das eine Fähigkeit hat.",
+        "it": "Metti sei segnalini danno su ciascun Pokémon che ha un'abilità, sia tuo che del tuo avversario.",
+        "pt": "Coloque 6 contadores de dano em cada Pokémon que tem uma Habilidade (seus e do seu oponente).",
+        "es": "Pon 6 contadores de daño en cada Pokémon que tenga una habilidad (tanto tuyos como de tu rival)."
+      },
+      "name": {
+        "en": "Law of the Underworld",
+        "fr": "Loi de l'Outre-Monde",
+        "de": "Gebot der Unterwelt",
+        "it": "Legge del Sottomondo",
+        "pt": "Lei do Submundo",
+        "es": "Ley del Inframundo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

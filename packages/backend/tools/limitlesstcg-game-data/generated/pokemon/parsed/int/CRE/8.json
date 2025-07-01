@@ -3,7 +3,10 @@
   "abilityName": "Curative Forest",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",

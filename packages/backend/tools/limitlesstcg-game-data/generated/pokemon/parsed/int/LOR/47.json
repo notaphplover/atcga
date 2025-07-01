@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

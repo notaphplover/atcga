@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -9,7 +11,11 @@
       }
     },
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

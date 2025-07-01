@@ -3,7 +3,12 @@
   "abilityName": "Flame Dash",
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Arcanine does 40 damage to itself."

@@ -3,7 +3,11 @@
   "abilityName": "Sky Circus",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "You may discard a card from your hand. If you do, this attack does 70 more damage.",

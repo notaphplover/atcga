@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [],
+      "effect": {
+        "en": "For each Energy attached to your opponent's Pokémon, attach a [R] Energy card from your discard pile to your Pokémon in any way you like.",
+        "fr": "Pour chaque Énergie attachée au Pokémon de votre adversaire, attachez une carte Énergie [R] de votre pile de défausse à vos Pokémon de la manière que vous voulez.",
+        "de": "Lege für jede an die Pokémon deines Gegners angelegte Energie 1 [R]-Energiekarte aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Per ogni Energia assegnata ai Pokémon del tuo avversario, assegna a piacimento ai tuoi Pokémon una carta Energia [R] dalla tua pila degli scarti.",
+        "es": "Por cada Energía unida a los Pokémon de tu rival, une 1 carta de Energía [R] de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Dance of Flames",
+        "fr": "Flammes Dansantes",
+        "de": "Tanz der Flammen",
+        "it": "Danzafiamma",
+        "es": "Baile de Llamas"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip 2 coins. This attack does 70 damage for each heads. If either of them is heads, your opponent's Active Pokémon is now Burned.",

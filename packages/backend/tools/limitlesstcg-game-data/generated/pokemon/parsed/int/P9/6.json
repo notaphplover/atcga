@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Whirlpool"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If you have Pachirisu in play, flip a coin. If heads, prevent all effects of an attack, including damage, done to Buizel during your opponent's next turn."

@@ -3,7 +3,10 @@
   "abilityName": "Delta Charge",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Dragonite during your opponent's next turn."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "lmcc",
+      "cost": [
+        "l",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

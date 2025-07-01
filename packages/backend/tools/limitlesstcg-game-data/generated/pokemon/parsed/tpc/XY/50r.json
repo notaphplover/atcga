@@ -3,7 +3,12 @@
   "abilityName": "ダストオキシン",
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "相手のバトルポケモンをどくとこんらんにする。"

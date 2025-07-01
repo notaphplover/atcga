@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, this Pokémon's Returning Echo attack does 60 more damage (before applying Weakness and Resistance).",
+        "fr": "Pendant votre prochain tour, l'attaque Écho de Retour de ce Pokémon inflige 60 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+        "de": "Während deines nächsten Zuges fügt die Attacke Widerhallendes Echo dieses Pokémon 60 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Durante il tuo prossimo turno, l'attacco Eco di Ritorno di questo Pokémon infligge 60 danni in più, prima di aver applicato debolezza e resistenza.",
+        "es": "Durante tu próximo turno, el ataque Eco Retorno de este Pokémon hace 60 puntos de daño más (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Wave Amplification",
+        "fr": "Amplification d'Onde",
+        "de": "Wellenamplifikation",
+        "it": "Amplificazione Onde",
+        "es": "Amplificación de Ondas"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, return this Pokémon and all cards attached to it to your hand.",

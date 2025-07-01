@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 30 damage from this Pokémon. This Pokémon is now Asleep.",
+        "fr": "Soignez 30 dégâts à ce Pokémon. Ce Pokémon est maintenant Endormi.",
+        "de": "Heile 30 Schadenspunkte bei diesem Pokémon. Dieses Pokémon schläft jetzt.",
+        "it": "Cura questo Pokémon da 30 danni. Questo Pokémon viene addormentato.",
+        "es": "Cura 30 puntos de daño a este Pokémon. Este Pokémon pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Rest",
+        "fr": "Repos",
+        "de": "Erholung",
+        "it": "Riposo",
+        "es": "Descanso"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

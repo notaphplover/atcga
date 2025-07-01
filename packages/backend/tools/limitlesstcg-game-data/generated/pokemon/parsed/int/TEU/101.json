@@ -3,7 +3,11 @@
   "abilityName": "Heatproof",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

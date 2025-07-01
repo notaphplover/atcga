@@ -3,7 +3,10 @@
   "abilityName": "Pollen Stench",
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

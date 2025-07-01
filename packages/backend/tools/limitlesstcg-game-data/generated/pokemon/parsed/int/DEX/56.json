@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 30 dégâts à 1 des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 30 danni a uno dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina."
+      },
+      "name": {
+        "en": "Tunnel Strike",
+        "fr": "Frappe en Tunnel",
+        "de": "Tunnelhieb",
+        "it": "Colponero"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Put a card from your discard pile into your hand.",

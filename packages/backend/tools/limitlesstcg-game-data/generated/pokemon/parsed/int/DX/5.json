@@ -3,7 +3,10 @@
   "abilityName": "Psychic Trace",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Claydol has any [P] Energy attached to it, the Defending Pokémon is now Confused. If Claydol has any [F] Energy attached to it, this attack does 20 damage plus 20 more damage."

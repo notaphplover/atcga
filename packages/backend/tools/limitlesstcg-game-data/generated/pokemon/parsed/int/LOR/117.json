@@ -3,7 +3,10 @@
   "abilityName": "Cursed Message",
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 60 more damage for each Spiritomb in your discard pile.",

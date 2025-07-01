@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose [G], [R], [W], [L], [P], [F], [D], [M], [Y], or [N] type. Until the end of your next turn, this Pokémon is that type."
+      },
+      "name": {
+        "en": "Type Switch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard an Energy card attached to this Pokémon."

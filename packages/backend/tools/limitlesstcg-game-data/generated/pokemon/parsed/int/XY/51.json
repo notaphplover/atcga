@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

@@ -3,7 +3,10 @@
   "abilityName": "Hard Protection",
   "attacks": [
     {
-      "cost": "rw",
+      "cost": [
+        "r",
+        "w"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage."

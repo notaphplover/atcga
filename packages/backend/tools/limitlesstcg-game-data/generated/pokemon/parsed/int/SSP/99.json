@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

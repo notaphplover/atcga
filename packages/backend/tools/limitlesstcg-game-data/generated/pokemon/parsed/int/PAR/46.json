@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put damage counters on 1 of your opponent's Pokémon until its remaining HP is 30.",
+        "fr": "Placez des marqueurs de dégâts sur l'un des Pokémon de votre adversaire jusqu'à ce qu'il ne lui reste que 30 PV.",
+        "de": "Lege so lange Schadensmarken auf 1 Pokémon deines Gegners, bis seine verbleibenden KP gleich 30 sind.",
+        "it": "Metti dei segnalini danno su uno dei Pokémon del tuo avversario finché i suoi PS rimanenti diventano 30.",
+        "pt": "Coloque contadores de dano em 1 dos Pokémon do seu oponente até o PS restante dele ser 30.",
+        "es": "Pon contadores de daño en uno de los Pokémon de tu rival hasta que le queden 30 PS."
+      },
+      "name": {
+        "en": "Icicle Sole",
+        "fr": "Semelle Stalactite",
+        "de": "Eiszapfensohle",
+        "it": "Gelopianta",
+        "pt": "Sola Gélida",
+        "es": "Suela Témpano"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Heal 30 damage from this Pokémon, and it recovers from all Special Conditions.",

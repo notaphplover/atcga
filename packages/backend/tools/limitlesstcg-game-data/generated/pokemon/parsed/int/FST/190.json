@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",

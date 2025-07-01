@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 70 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

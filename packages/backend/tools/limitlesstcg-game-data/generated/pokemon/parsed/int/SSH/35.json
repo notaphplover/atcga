@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

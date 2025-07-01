@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange le Pokémon Défenseur avec l'un des Pokémon de son Banc.",
+        "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus.",
+        "it": "Il tuo avversario scambia il Pokémon Difensore con 1 dei suoi Pokémon in Panchina.",
+        "es": "Tu rival cambia al Pokémon Defensor por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Roar",
+        "fr": "Hurlement",
+        "de": "Gebrüll",
+        "it": "Boato",
+        "es": "Rugido"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

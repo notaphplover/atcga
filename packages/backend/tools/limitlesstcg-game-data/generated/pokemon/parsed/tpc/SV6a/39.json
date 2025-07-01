@@ -3,7 +3,10 @@
   "abilityName": "しはいのくさり",
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "60×",
       "effect": {
         "jp": "相手がすでにとったサイドの枚数×60ダメージ。"

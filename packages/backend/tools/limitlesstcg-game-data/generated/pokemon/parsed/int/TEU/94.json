@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent discards 2 cards from their hand.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "This Pokémon is now Confused.",

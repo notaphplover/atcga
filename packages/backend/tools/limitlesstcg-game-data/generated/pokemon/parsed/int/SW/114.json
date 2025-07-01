@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, remove all damage counters from Sunkern, search your deck for an Evolution card that evolves from Sunkern, and put it onto Sunkern. (This counts as evolving Sunkern.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Sun Soak"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

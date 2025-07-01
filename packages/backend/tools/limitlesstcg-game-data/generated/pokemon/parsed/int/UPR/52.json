@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Move 4 damage counters from each of your Pokémon to your opponent's Active Pokémon.",
+        "fr": "Déplacez 4 marqueurs de dégâts de chacun de vos Pokémon vers le Pokémon Actif de votre adversaire.",
+        "de": "Verschiebe 4 Schadensmarken von jedem deiner Pokémon auf das Aktive Pokémon deines Gegners.",
+        "it": "Sposta quattro segnalini danno da ciascuno dei tuoi Pokémon al Pokémon attivo del tuo avversario.",
+        "es": "Mueve 4 contadores de daño de cada uno de tus Pokémon al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Damage Transport",
+        "fr": "Transport de Dégâts",
+        "de": "Schadensflug",
+        "it": "Trasporto Danni",
+        "es": "Transporte de Daño"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",

@@ -3,7 +3,10 @@
   "abilityName": "てんねん",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

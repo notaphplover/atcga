@@ -3,7 +3,10 @@
   "abilityName": "Fire Breath",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 2 Energy attached to Blaziken."

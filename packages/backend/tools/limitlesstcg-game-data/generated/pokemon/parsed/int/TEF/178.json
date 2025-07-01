@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, this Pokémon's Meteor Mash attack does 60 more damage (before applying Weakness and Resistance).",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

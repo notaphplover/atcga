@@ -1,7 +1,27 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may switch this Pokémon with a Wishiwashi-GX in your hand. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
   "abilityName": "Schooling",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 10 danni a uno dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 10 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Sharpshooting",
+        "fr": "Tir de Précision",
+        "de": "Scharfschuss",
+        "it": "Tiratore Scelto",
+        "es": "Tirador Certero"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

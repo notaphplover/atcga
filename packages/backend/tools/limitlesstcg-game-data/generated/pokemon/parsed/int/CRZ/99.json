@@ -3,7 +3,11 @@
   "abilityName": "Shield Star",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

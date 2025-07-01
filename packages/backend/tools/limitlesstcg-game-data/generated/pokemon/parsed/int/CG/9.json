@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. If that card is a Pokémon Tool card, you may attach it to 1 of your Pokémon instead. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Mining"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon is Pokémon-ex, this attack does 20 damage plus 30 more damage."

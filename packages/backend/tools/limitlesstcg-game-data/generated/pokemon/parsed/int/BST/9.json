@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip 3 coins. This attack does 60 damage for each heads.",

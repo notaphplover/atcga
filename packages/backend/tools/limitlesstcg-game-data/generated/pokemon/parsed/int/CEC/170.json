@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Nice-Nice Catch",
+        "fr": "Jolie Jolie Prise",
+        "de": "Gut-gut-Fang",
+        "it": "Parapiglia",
+        "es": "Captura Guay-Guay"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Discard up to 2 cards from your hand. This attack does 60 damage for each card you discarded in this way.",

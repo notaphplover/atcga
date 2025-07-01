@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "ddd",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Reach Over"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon is Cresselia, this attack's base damage is 100."

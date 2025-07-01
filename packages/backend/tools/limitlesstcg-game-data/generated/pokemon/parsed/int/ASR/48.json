@@ -3,7 +3,12 @@
   "abilityName": "Massive Ice",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If a Stadium is in play, this attack does 120 more damage. Then, discard that Stadium.",

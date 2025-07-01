@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for a [G] Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Synthesis"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

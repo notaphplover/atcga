@@ -3,7 +3,11 @@
   "abilityName": "やみのしょうたいじょう",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "jp": "相手のベンチポケモンの数x30ダメージ追加。"

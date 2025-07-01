@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "I Choose You!"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard all Energy from this Pokémon."

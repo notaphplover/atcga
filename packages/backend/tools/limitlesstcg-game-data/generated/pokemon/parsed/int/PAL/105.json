@@ -3,7 +3,10 @@
   "abilityName": "Gather Materials",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If this Pokémon has any Special Energy attached, this attack does 90 more damage.",

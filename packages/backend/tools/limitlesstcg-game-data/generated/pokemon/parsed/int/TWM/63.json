@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Put up to 9 damage counters on this Pokémon. This attack does 20 damage for each damage counter you placed in this way.",

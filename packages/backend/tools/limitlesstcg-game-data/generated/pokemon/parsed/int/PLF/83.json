@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent can't play any Item cards from his or her hand during his or her next turn.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "glcc",
+      "cost": [
+        "g",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

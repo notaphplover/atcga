@@ -1,5 +1,24 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with the Defending Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, échangez le Pokémon Défenseur avec 1 des Pokémon de Banc de votre adversaire.",
+        "it": "Lancia una moneta. Se esce testa, scambia il Pokémon difensore con uno dei Pokémon in panchina del tuo avversario.",
+        "es": "Lanza una moneda. Si sale cara, cambia al Pokémon Defensor por 1 de los Pokémon en Banca de tu rival."
+      },
+      "name": {
+        "en": "Captivate",
+        "fr": "Séduction",
+        "de": "Liebreiz",
+        "it": "Incanto",
+        "es": "Seducción"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

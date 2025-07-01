@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Leer"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

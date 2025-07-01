@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 30 damage to your opponent's Active Pokémon. If tails, this Pokémon does 30 damage to itself.",
+        "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts au Pokémon Actif de votre adversaire. Si c'est pile, ce Pokémon s'inflige 30 dégâts.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff dem Aktiven Pokémon deines Gegners 30 weitere Schadenspunkte zu. Bei „Zahl“ fügt sich dieses Pokémon selbst 30 Schadenspunkte zu.",
+        "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni al Pokémon attivo del tuo avversario. Se esce croce, questo Pokémon infligge 30 danni a se stesso.",
+        "es": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño al Pokémon Activo de tu rival. Si sale cruz, este Pokémon se hace 30 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Exhausted Tackle",
+        "fr": "Tacle Épuisé",
+        "de": "Erschöpfter Tackle",
+        "it": "Placcaggio Moscio",
+        "es": "Placaje Fatigado"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Tackle",
         "it": "Azione",
         "es": "Placaje"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Confuse Ray",
+        "fr": "Onde Folie",
+        "de": "Konfustrahl",
+        "it": "Stordiraggio",
+        "es": "Rayo Confuso"
       }
     }
   ],

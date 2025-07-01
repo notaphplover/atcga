@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose a card from your hand and put it in the Lost Zone. Then, draw 3 cards.",
+        "fr": "Choisissez une carte de votre main et placez-la dans la Zone Perdue. Ensuite, piochez 3 cartes.",
+        "de": "Wähle 1 Karte von deiner Hand und lege sie ins Nirgendwo. Ziehe anschließend 3 Karten.",
+        "it": "Scegli una delle carte che hai in mano e mettila nell'Area Perduta. Poi pesca 3 carte."
+      },
+      "name": {
+        "en": "Prehistoric Wisdom",
+        "fr": "Sagesse préhistorique",
+        "de": "Prähistorische Weisheit",
+        "it": "Saggezza Preistorica"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Relicanth by attacks is reduced by 30 (after applying Weakness and Resistance).",

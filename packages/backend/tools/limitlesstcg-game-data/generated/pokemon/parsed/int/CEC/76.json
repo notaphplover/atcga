@@ -3,7 +3,10 @@
   "abilityName": "Blow-Away Bomb",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

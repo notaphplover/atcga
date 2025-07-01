@@ -3,7 +3,10 @@
   "abilityName": "しんしゅつきぼつ",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

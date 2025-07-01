@@ -3,7 +3,11 @@
   "abilityName": "Rain Dish",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 10 more damage for each [W] Energy attached to Ludicolo but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."

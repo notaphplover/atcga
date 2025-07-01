@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon can't retreat during your opponent's next turn."
@@ -11,7 +11,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 4 coins. This attack does 20 damage times the number of heads. If 2 or more of them are heads, the Defending Pokémon is now Poisoned."
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard all Special Energy cards attached to the Defending Pokémon."

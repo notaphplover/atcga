@@ -3,7 +3,10 @@
   "abilityName": "Surprise Spores",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

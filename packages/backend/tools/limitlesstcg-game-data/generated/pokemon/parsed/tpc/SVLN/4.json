@@ -3,7 +3,12 @@
   "abilityName": "きらきらシャボン",
   "attacks": [
     {
-      "cost": "pppp",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "230",
       "effect": {
         "jp": "このポケモンにも50ダメージ。"

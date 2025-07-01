@@ -3,7 +3,11 @@
   "abilityName": "Forest Breath",
   "attacks": [
     {
-      "cost": "gpc",
+      "cost": [
+        "g",
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to Celebi by attacks from your opponent's Stage 1 or Stage 2 Pokémon.",

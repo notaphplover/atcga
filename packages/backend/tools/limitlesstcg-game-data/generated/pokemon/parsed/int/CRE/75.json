@@ -3,7 +3,11 @@
   "abilityName": "Underworld Door",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each [P] Energy attached to all of your Pokémon.",

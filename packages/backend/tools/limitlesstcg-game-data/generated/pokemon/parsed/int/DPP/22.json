@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr.",
   "abilityName": "Baby Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+      },
+      "name": {
+        "en": "Mime"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

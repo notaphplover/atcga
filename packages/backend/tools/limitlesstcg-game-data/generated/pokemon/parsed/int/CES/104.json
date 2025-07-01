@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This Pokémon does 10 damage to itself.",

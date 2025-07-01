@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Remove 1 damage counter from Bastiodon GL."

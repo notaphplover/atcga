@@ -3,7 +3,10 @@
   "abilityName": "Strange Behavior",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

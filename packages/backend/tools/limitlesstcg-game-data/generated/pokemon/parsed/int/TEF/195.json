@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance).",
@@ -21,7 +24,10 @@
       }
     },
     {
-      "cost": "mm",
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "120×",
       "effect": {
         "en": "Discard up to 2 [M] Energy from this Pokémon. This attack does 120 damage for each card you discarded in this way.",

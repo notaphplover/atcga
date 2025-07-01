@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Backflip",
+        "fr": "Salto Arrière",
+        "de": "Rückwärtssalto",
+        "it": "Capovolta",
+        "es": "Voltereta Atrás"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

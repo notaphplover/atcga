@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. The new Defending Pokémon is now Asleep.",
+        "fr": "Échangez le Pokémon Défenseur avec un Pokémon du Banc de votre adversaire. Le nouveau Pokémon Défenseur est maintenant Endormi.",
+        "de": "Tausche das Verteidigende Pokémon gegen 1 Pokémon auf der Bank deines Gegners aus. Das neue Verteidigende Pokémon schläft jetzt.",
+        "it": "Scambia il Pokémon Difensore con 1 dei Pokémon in Panchina del tuo avversario. Il nuovo Pokémon Difensore è Addormentato.",
+        "es": "Cambia el Pokémon Defensor por 1 de los Pokémon en Banca de tu rival. El nuevo Pokémon Defensor pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Sleep Inducer",
+        "fr": "Poussododo",
+        "de": "Schlafeinflößer",
+        "it": "Induci-Sonno",
+        "es": "Inductor sueño"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",

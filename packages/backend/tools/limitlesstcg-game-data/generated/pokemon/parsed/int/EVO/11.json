@@ -3,7 +3,12 @@
   "abilityName": "Energy Burn",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard 3 Energy attached to this Pokémon.",

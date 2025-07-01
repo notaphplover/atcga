@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 30 more damage.",
@@ -17,7 +21,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

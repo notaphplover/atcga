@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Draw 3 cards.",
+        "fr": "Piochez 3 cartes.",
+        "de": "Ziehe 3 Karten.",
+        "it": "Pesca tre carte.",
+        "es": "Roba 3 cartas."
+      },
+      "name": {
+        "en": "Collect",
+        "fr": "Collecte",
+        "de": "Sammeln",
+        "it": "Tassa",
+        "es": "Coleccionar"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",
@@ -19,7 +42,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)",

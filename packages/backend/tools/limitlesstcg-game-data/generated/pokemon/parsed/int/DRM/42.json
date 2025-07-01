@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "rw",
+      "cost": [
+        "r",
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

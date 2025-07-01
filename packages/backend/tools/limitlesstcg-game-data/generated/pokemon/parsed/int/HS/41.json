@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf eine Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Paralizzato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Glare",
+        "fr": "Intimidation",
+        "de": "Giftblick",
+        "it": "Bagliore",
+        "es": "Deslumbrar"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Return Dunsparce and all cards attached to it to your hand.",

@@ -3,7 +3,10 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "rl",
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rwwc",
+      "cost": [
+        "r",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard an Energy card attached to Ho-oh and flip a coin. If heads, the Defending Pokémon is now Burned."

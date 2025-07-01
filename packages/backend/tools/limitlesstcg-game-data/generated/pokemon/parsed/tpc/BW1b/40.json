@@ -3,7 +3,11 @@
   "abilityName": "ギアチェンジ",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "jp": "コインを2回投げ、オモテの数x80ダメージ。"

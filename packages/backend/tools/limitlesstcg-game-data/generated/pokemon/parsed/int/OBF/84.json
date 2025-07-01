@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Each player draws 3 cards.",
+        "fr": "Chaque joueur pioche 3 cartes.",
+        "de": "Jeder Spieler zieht 3 Karten.",
+        "it": "Ciascun giocatore pesca tre carte.",
+        "pt": "Cada jogador compra 3 cartas.",
+        "es": "Cada jugador roba 3 cartas."
+      },
+      "name": {
+        "en": "Shared Peace",
+        "fr": "Paix Partagée",
+        "de": "Geteilter Frieden",
+        "it": "Pace Condivisa",
+        "pt": "Paz Compartilhada",
+        "es": "Paz Compartida"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

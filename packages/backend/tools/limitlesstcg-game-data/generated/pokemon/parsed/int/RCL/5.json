@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle up to 5 basic Energy cards from your discard pile into your deck.",
+        "fr": "Mélangez avec votre deck jusqu'à 5 cartes Énergie de base de votre pile de défausse.",
+        "de": "Mische bis zu 5 Basis-Energiekarten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia fino a cinque carte Energia base dalla tua pila degli scarti nel tuo mazzo.",
+        "pt": "Embaralhe até 5 cartas de Energia básica da sua pilha de descarte no seu baralho.",
+        "es": "Pon hasta 5 cartas de Energía Básica de tu pila de descartes en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Berry Picking",
+        "fr": "Cueillette de Baies",
+        "de": "Beerenpflücken",
+        "it": "Raccolta di Bacche",
+        "pt": "Catando Frutas",
+        "es": "Recogida de Bayas"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

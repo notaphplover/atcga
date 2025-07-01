@@ -3,7 +3,10 @@
   "abilityName": "Poison Pollen",
   "attacks": [
     {
-      "cost": "pm",
+      "cost": [
+        "p",
+        "m"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Look at your opponent's hand. This attack does 30 damage plus 10 more damage for each Trainer card in your opponent's hand."

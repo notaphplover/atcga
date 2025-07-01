@@ -3,7 +3,9 @@
   "abilityName": "Fettered in Misfortune",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Put this Pokémon and all attached cards into your hand.",

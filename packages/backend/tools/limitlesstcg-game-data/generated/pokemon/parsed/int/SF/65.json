@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, draw a card."
+      },
+      "name": {
+        "en": "Sea Spray"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

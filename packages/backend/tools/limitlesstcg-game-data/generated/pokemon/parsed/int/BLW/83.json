@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, put a card from your discard pile into your hand.",
+        "fr": "Lancez 3 pièces. Pour chaque côté face, prenez une carte dans votre pile de défausse et ajoutez-la à votre main.",
+        "de": "Wirf 3 Münzen. Nimm pro „Kopf“ 1 Karte von deinem Ablagestapel auf deine Hand.",
+        "it": "Lancia tre volte una moneta. Ogni volta che esce testa, prendi una carta dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "es": "Lanza 3 monedas. Por cada cara, pon una carta de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Odor Sleuth",
+        "fr": "Flair",
+        "de": "Schnüffler",
+        "it": "Segugio",
+        "es": "Rastreo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

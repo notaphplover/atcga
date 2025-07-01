@@ -3,7 +3,10 @@
   "abilityName": "Dig Dig Dig",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

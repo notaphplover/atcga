@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Does 40 damage times the amount of [M] Energy attached to this Pokémon.",
@@ -12,6 +14,22 @@
         "en": "Dragonaxe",
         "fr": "Hache Draconique",
         "de": "Drachenaxt"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "m"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon is a Team Plasma Pokémon, it is Knocked Out. (If the Defending Pokémon is not a Team Plasma Pokémon, this attack does nothing.)",
+        "fr": "Si le Pokémon Défenseur est un Pokémon de la Team Plasma, il est mis K.O. (Si le Pokémon Défenseur n'est pas un Pokémon de la Team Plasma, cette attaque ne fait rien.)",
+        "de": "Wenn das Verteidigende Pokémon ein Team Plasma-Pokémon ist, wird es kampfunfähig. (Wenn das Verteidigende Pokémon kein Team Plasma-Pokémon ist, hat dieser Angriff keine Auswirkungen.)"
+      },
+      "name": {
+        "en": "Strike of the Champion",
+        "fr": "Frappe de Maître",
+        "de": "Meisterstreich"
       }
     }
   ],

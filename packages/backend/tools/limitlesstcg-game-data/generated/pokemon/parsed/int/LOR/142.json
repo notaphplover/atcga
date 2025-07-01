@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Devolve 1 of your opponent's evolved Pokémon by removing any number of Evolution cards from it. Your opponent shuffles those cards into their deck.",
+        "fr": "Faites dés-évoluer l'un des Pokémon évolués de votre adversaire en ôtant le nombre voulu de cartes Évolution. Votre adversaire mélange ces cartes avec son deck.",
+        "de": "Rückentwickle 1 entwickeltes Pokémon deines Gegners, indem du beliebig viele Entwicklungskarten von ihm entfernst. Dein Gegner mischt jene Karten in sein Deck.",
+        "it": "Annulla l'evoluzione di uno dei Pokémon evoluti del tuo avversario rimuovendone un numero qualsiasi di carte Evoluzione. Il tuo avversario rimischia quelle carte nel suo mazzo.",
+        "pt": "Reverta a evolução de 1 dos Pokémon evoluídos do seu oponente removendo qualquer número de cartas de Evolução sobre ele. Seu oponente embaralha aquelas cartas no próprio baralho.",
+        "es": "Involuciona 1 de los Pokémon evolucionados de tu rival quitándole cualquier cantidad de cartas de Evolución. Tu rival pone esas cartas en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Downgrading Beam",
+        "fr": "Rayon Rétrograde",
+        "de": "Rückstufender Strahl",
+        "it": "Raggio Declassante",
+        "pt": "Raio de Degradação",
+        "es": "Transmisión de Involución"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

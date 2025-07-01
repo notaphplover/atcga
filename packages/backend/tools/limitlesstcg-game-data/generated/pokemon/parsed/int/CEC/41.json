@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Put an Energy attached to this Pokémon into your hand.",

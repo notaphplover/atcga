@@ -3,7 +3,12 @@
   "abilityName": "オーバーヒーター",
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "相手のバトルポケモンをやけどにする。"

@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. (Any other effects of attacks still happen.)"
+      },
+      "name": {
+        "en": "Withdraw"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

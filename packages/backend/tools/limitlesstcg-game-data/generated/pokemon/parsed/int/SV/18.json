@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may move a [R] Energy card attached to 1 of your Benched Pokémon to Camerupt."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip 3 coins. For each tails, discard the top card of your deck. Ignore this effect if your opponent has any [W] Pokémon in play."

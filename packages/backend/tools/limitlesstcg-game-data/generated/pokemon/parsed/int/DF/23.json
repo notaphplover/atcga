@@ -3,7 +3,9 @@
   "abilityName": "Tropical Heal",
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the amount of Energy attached to Tropius."

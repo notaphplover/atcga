@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard 2 Energy attached to this Pokémon.",

@@ -3,7 +3,10 @@
   "abilityName": "Shuffle",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, search your discard pile for a card, show it to your opponent, and put it on top of your deck."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may attach a [G] Energy card from your hand to 1 of your Pokémon.",

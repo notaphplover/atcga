@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from Seedot."
+      },
+      "name": {
+        "en": "Nap"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 times the number of heads."

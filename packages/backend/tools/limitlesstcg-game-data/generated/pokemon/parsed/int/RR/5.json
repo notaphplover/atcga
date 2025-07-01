@@ -3,7 +3,10 @@
   "abilityName": "Rainbow Float",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard a Stadium card your opponent has in play. If you do, prevent all effects of an attack, including damage, done to Flygon during your opponent's next turn."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Does 60 damage plus 10 more damage for each Evolved Pokémon on your Bench."

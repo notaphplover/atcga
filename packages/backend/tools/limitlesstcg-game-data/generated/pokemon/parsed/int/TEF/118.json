@@ -3,7 +3,10 @@
   "abilityName": "Dual Core",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",

@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+      },
+      "name": {
+        "en": "Harden"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

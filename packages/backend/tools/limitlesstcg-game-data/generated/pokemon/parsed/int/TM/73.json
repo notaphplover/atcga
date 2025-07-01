@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -9,6 +11,24 @@
         "fr": "Affûtage",
         "de": "Schärfer",
         "it": "Affilatore"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard an Energy attached to Porygon and remove 4 damage counters from Porygon.",
+        "fr": "Défaussez une carte Énergie attachée à Porygon et retirez-lui 4 marqueurs de dégât.",
+        "de": "Lege 1 an Porygon angelegte Energie auf deinen Ablagestapel und entferne 4 Schadensmarken von Porygon.",
+        "it": "Scarta un'Energia assegnate a Porygon e togli 4 segnalini danno da Porygon."
+      },
+      "name": {
+        "en": "Recover",
+        "fr": "Soin",
+        "de": "Genesung",
+        "it": "Ripresa"
       }
     }
   ],

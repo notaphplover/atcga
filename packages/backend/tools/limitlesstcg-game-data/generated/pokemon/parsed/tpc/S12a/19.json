@@ -3,7 +3,10 @@
   "abilityName": "しゅんそく",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "jp": "おたがいのベンチポケモンの数×20ダメージ追加。"

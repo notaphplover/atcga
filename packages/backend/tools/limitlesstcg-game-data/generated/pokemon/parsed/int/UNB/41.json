@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Move an Energy from 1 of your opponent's Pokémon to another of their Pokémon. If you do, put 3 damage counters on the Pokémon you moved the Energy to.",
+        "fr": "Déplacez une Énergie de l'un des Pokémon de votre adversaire vers un autre de ses Pokémon. Dans ce cas, placez 3 marqueurs de dégâts sur le Pokémon auquel vous avez attaché l'Énergie.",
+        "de": "Verschiebe 1 Energie von 1 Pokémon deines Gegners auf 1 anderes seiner Pokémon. Wenn du das machst, lege 3 Schadensmarken auf das Pokémon, auf das du die Energie verschoben hast.",
+        "it": "Sposta un'Energia da uno dei Pokémon del tuo avversario a un altro dei suoi Pokémon. Se lo fai, metti tre segnalini danno sul Pokémon sul quale hai spostato l'Energia.",
+        "es": "Mueve 1 Energía de 1 de los Pokémon de tu rival a otro de sus Pokémon. Si lo haces, pon 3 contadores de daño en el Pokémon al que hayas movido la Energía."
+      },
+      "name": {
+        "en": "Wicked Tentacles",
+        "fr": "Tentacules Malins",
+        "de": "Boshafte Tentakel",
+        "it": "Tentacoli Malefici",
+        "es": "Tentáculos Malvados"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

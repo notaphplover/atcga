@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach any number of basic Energy cards from your hand to Politoed."
+      },
+      "name": {
+        "en": "Sudden Growth"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
@@ -11,7 +26,13 @@
       }
     },
     {
-      "cost": "wwccc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Move 2 [W] Energy cards attached to Politoed to 1 or 2 of your Benched Pokémon. (You may put both on the same Pokémon or 1 each on 2 different Pokémon.) If you have no Benched Pokémon, ignore this effect."

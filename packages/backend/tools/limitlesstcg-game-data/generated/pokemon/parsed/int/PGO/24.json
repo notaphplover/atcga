@@ -3,7 +3,11 @@
   "abilityName": "Ice Symbol",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

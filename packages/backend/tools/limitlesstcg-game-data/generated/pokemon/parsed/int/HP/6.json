@@ -3,7 +3,9 @@
   "abilityName": "Form Change",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch Deoxys with 1 of your Benched Pokémon."

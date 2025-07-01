@@ -3,11 +3,26 @@
   "abilityName": "Ascension DNA",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {
         "en": "Boost Dash"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Joy Maker-GX"
       }
     }
   ],

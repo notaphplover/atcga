@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for 2 [P] Energy cards and attach them to your Pokémon in any way you like. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Energy Gift"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

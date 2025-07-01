@@ -3,7 +3,11 @@
   "abilityName": "Expert in Roundness",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each of your Benched Pokémon that has the Let's All Rollout attack.",

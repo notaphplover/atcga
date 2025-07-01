@@ -3,7 +3,11 @@
   "abilityName": "まんかいエナジー",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

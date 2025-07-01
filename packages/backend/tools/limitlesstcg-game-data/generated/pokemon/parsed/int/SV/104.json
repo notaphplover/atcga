@@ -1,13 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."
       },
       "name": {
         "en": "Surprise Attack"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Draw a card for each of your opponent's Pokémon that isn't an Evolved Pokémon."
+      },
+      "name": {
+        "en": "Count and Draw"
       }
     }
   ],

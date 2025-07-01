@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Remove 2 damage counters from each of your Benched Pokémon."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, discard an Energy card attached to the Defending Pokémon."

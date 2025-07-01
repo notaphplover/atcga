@@ -1,7 +1,22 @@
 {
   "abilityEffect": "Once during a game on your turn (before your attack), each player shuffles all cards in play (excluding Pokémon and Supporter cards) into his or her deck. You can't use more than 1 Sand Reset Poké-Power each game.",
   "abilityName": "Sand Reset",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 [F] Energy attached to Hippowdon and choose 2 of your opponent's Benched Pokémon. This attack does 40 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Double Shoot"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

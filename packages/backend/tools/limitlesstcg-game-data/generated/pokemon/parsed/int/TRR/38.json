@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each basic Energy card attached to all of your Active Pokémon."
       },
       "name": {
         "en": "Energy Press"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Linear Attack"
       }
     }
   ],

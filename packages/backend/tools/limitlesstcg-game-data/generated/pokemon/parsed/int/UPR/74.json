@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",
@@ -19,7 +21,9 @@
       }
     },
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each of your opponent's Pokémon that has an Ability.",

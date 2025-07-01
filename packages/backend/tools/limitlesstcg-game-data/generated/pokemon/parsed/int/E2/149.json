@@ -3,7 +3,10 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "pr",
+      "cost": [
+        "p",
+        "r"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "This attack does 10 damage times the number of Energy cards attached to the Defending Pokémon."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "wwrc",
+      "cost": [
+        "w",
+        "w",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard an Energy card attached to Lugia."

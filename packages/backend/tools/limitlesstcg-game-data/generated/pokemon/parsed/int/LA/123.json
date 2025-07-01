@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, put any 1 card from your discard pile into your hand."
+      },
+      "name": {
+        "en": "Sniff Out"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

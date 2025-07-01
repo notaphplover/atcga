@@ -3,7 +3,11 @@
   "abilityName": "Fire Veil",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, discard all [R] Energy cards attached to Arcanine."

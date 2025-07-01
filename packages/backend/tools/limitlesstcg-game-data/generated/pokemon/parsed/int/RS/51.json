@@ -3,7 +3,9 @@
   "abilityName": "Rough Skin",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."

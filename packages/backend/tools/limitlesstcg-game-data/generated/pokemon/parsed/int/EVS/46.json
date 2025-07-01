@@ -3,7 +3,10 @@
   "abilityName": "Group Power",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 more damage for each basic Energy attached to this Pokémon.",

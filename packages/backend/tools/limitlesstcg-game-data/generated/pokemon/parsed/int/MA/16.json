@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "At the end of your opponent's next turn, the Defending Pokémon is now Asleep."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon is Asleep, this attack does 30 damage plus 20 more damage."

@@ -3,7 +3,10 @@
   "abilityName": "Competitiveness",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Draw a card."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 damage plus 30 more damage."

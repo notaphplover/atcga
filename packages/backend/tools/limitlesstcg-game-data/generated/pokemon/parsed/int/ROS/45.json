@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage times the number of heads.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

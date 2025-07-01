@@ -3,7 +3,10 @@
   "abilityName": "Heat Boost",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

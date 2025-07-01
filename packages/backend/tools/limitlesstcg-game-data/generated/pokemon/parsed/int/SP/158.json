@@ -3,7 +3,11 @@
   "abilityName": "Feel the Way",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat."

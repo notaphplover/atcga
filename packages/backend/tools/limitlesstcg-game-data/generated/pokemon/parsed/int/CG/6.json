@@ -3,7 +3,10 @@
   "abilityName": "Overzealous",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Choose 1 card from your opponent's hand without looking and discard it."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

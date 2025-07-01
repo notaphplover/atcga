@@ -3,7 +3,11 @@
   "abilityName": "Sand Damage",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."

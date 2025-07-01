@@ -3,7 +3,11 @@
   "abilityName": "Field Runner",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

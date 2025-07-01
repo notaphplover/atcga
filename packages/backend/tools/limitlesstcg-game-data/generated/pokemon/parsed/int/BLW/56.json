@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard an Energy attached to this Pokémon and heal all damage from this Pokémon.",
+        "fr": "Défaussez une Énergie attachée à ce Pokémon et soignez tous les dégâts de ce Pokémon.",
+        "de": "Lege 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel und heile allen Schaden bei diesem Pokémon.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon e curalo da tutti i danni.",
+        "es": "Descarta una Energía unida a este Pokémon y cura todos los puntos de daño de este Pokémon."
+      },
+      "name": {
+        "en": "Recover",
+        "fr": "Soin",
+        "de": "Genesung",
+        "it": "Ripresa",
+        "es": "Recuperación"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

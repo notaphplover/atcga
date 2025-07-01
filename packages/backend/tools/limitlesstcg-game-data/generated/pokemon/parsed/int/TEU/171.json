@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your hand to 1 of your Pokémon.",
+        "fr": "Attachez une carte Énergie de votre main à l'un de vos Pokémon.",
+        "de": "Lege 1 Energiekarte aus deiner Hand an 1 deiner Pokémon an.",
+        "it": "Assegna una carta Energia dalla tua mano a uno dei tuoi Pokémon.",
+        "es": "Une 1 carta de Energía de tu mano a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Cheer Up",
+        "fr": "Courage !",
+        "de": "Aufmuntern",
+        "it": "Incitare",
+        "es": "Alegrón"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 120 more damage.",
@@ -19,7 +43,12 @@
       }
     },
     {
-      "cost": "cccc+",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), draw cards until you have 10 cards in your hand. (You can't use more than 1 GX attack in a game.)",

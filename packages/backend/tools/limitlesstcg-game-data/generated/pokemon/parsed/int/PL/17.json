@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 basic Pokémon SP and put them onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Call for Family"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Pokémon SP you have in play."

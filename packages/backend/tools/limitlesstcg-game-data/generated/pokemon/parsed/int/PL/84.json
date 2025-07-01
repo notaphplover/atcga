@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Pull"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

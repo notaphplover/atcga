@@ -3,7 +3,12 @@
   "abilityName": "Dark Aura",
   "attacks": [
     {
-      "cost": "dddd",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon, if any. (Don't apply Weakness and Resistance for Benched Pokémon.)"

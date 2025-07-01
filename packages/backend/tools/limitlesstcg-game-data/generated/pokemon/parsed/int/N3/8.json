@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Discard 1 [R] Energy card attached to Houndoom or this attack does nothing. If there are any [D] Energy cards in your discard pile, attach 1 of them to Houndoom."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a number of coins equal to the number of [D] Energy attached to Houndoom. This attack does 30 damage plus 10 more damage for each heads."

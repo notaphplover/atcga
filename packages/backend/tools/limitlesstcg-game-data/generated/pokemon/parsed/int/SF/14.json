@@ -3,7 +3,7 @@
   "abilityName": "Sunny Day",
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "20",
       "effect": {
         "en": "Remove 2 damage counters from 1 of your Pokémon."
@@ -13,7 +13,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

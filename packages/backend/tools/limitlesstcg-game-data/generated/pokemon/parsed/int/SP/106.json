@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +11,12 @@
       }
     },
     {
-      "cost": "ffff",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance."

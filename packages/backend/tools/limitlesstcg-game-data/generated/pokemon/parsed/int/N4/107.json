@@ -1,7 +1,13 @@
 {
   "attacks": [
     {
-      "cost": "rrrll",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "l",
+        "l"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 1 [R] Energy card and 1 [L] Energy card attached to Shining Charizard or this attack does nothing. Flip a coin. If tails, Shining Charizard does 30 damage to itself."

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards.",
+        "fr": "Piochez 3 cartes.",
+        "de": "Ziehe 3 Karten.",
+        "it": "Pesca tre carte.",
+        "pt": "Compre 3 cartas.",
+        "es": "Roba 3 cartas."
+      },
+      "name": {
+        "en": "Add On",
+        "fr": "Ajout",
+        "de": "Hinzufügen",
+        "it": "Supplemento",
+        "pt": "Adicionar",
+        "es": "Sumar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

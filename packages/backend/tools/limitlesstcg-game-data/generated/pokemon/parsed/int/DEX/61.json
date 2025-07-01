@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Confused.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pokémon.",

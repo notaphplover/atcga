@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "You may discard 3 [L] Energy from this Pokémon. If you do, this attack does 120 more damage.",

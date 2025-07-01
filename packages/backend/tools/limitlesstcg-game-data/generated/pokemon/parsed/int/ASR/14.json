@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You can use this attack only if you go second, and only during your first turn. Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.",
+        "fr": "Vous ne pouvez utiliser cette attaque que si vous jouez en second et uniquement pendant votre premier tour. Cherchez dans votre deck jusqu'à 3 cartes et ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du als Zweiter am Zug bist, und nur während deines ersten Zuges. Durchsuche dein Deck nach bis zu 3 Karten und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Puoi usare questo attacco solo se inizi per secondo e solo durante il tuo primo turno. Cerca nel tuo mazzo fino a tre carte e aggiungile a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Você só pode usar este ataque se for o segundo a jogar e somente no seu primeiro turno. Procure por até 3 cartas no seu baralho e coloque-as na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Puedes usar este ataque solo si sales segundo, y solo durante tu primer turno. Busca en tu baraja hasta 3 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Encouraging Gift",
+        "fr": "Cadeau Vivifiant",
+        "de": "Aufheiterndes Geschenk",
+        "it": "Dono Incoraggiante",
+        "pt": "Presente Encorajador",
+        "es": "Regalo Prometedor"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Conversion",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 3 coins. This attack does 40 damage times the number of heads."

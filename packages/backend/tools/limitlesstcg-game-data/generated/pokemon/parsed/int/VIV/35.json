@@ -3,7 +3,11 @@
   "abilityName": "Shell Armor",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "You may put 2 Energy attached to your opponent's Active Pokémon into their hand.",

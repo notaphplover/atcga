@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle 3 Pokémon from your discard pile into your deck.",
+        "fr": "Mélangez 3 Pokémon de votre pile de défausse avec votre deck.",
+        "de": "Nimm 3 Pokémon aus deinem Ablagestapel und mische sie in dein Deck.",
+        "it": "Rimischia tre Pokémon dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 3 Pokémon de tu pila de descartes en tu baraja y baraja todas las cartas."
+      },
+      "name": {
+        "en": "Rescue",
+        "fr": "Rescousse",
+        "de": "Bergen",
+        "it": "Salvataggio",
+        "es": "Rescate"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",

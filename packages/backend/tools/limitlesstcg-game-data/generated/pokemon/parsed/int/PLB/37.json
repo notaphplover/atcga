@@ -3,7 +3,11 @@
   "abilityName": "Mental Shroud",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

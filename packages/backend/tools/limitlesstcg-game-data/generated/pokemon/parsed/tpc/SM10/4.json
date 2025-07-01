@@ -3,7 +3,11 @@
   "abilityName": "バラエティかふん",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

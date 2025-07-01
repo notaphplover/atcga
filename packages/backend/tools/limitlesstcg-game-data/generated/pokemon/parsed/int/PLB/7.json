@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Das Verteidigende Pokémon schläft jetzt."
+      },
+      "name": {
+        "en": "Yawn",
+        "fr": "Bâillement",
+        "de": "Gähner"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

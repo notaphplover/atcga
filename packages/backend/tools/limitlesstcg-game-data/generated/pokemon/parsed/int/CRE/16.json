@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage for each heads.",

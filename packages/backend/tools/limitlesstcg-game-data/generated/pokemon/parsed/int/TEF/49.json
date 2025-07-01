@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon also does 10 damage to itself for each damage counter on it.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "90×",
       "effect": {
         "en": "Flip 2 coins. This attack does 90 damage for each heads.",

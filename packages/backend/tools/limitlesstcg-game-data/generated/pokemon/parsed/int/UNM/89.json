@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Both Active Pokémon are now Asleep. During your next turn, this Pokémon's attacks do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "fr": "Les deux Pokémon Actifs sont maintenant Endormis. Pendant votre prochain tour, les attaques de ce Pokémon infligent 100 dégâts supplémentaires au Pokémon Actif de votre adversaire (avant application de la Faiblesse et de la Résistance).",
+        "de": "Beide Aktiven Pokémon schlafen jetzt. Während deines nächsten Zuges fügen die Attacken dieses Pokémon dem Aktiven Pokémon deines Gegners 100 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden).",
+        "it": "Entrambi i Pokémon attivi vengono addormentati. Durante il tuo prossimo turno, gli attacchi di questo Pokémon infliggono 100 danni in più al Pokémon attivo del tuo avversario, prima di aver applicato debolezza e resistenza.",
+        "es": "Ambos Pokémon Activos pasan a estar Dormidos. Durante tu próximo turno, los ataques de este Pokémon hacen 100 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Rest Well",
+        "fr": "Siesta",
+        "de": "Erholungsschlaf",
+        "it": "Buon Riposo",
+        "es": "A Descansar"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

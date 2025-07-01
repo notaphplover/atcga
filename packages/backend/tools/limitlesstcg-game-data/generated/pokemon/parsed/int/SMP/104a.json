@@ -3,13 +3,28 @@
   "abilityName": "Shining Mane",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
       },
       "name": {
         "en": "Turbo Strike"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Prominence-GX"
       }
     }
   ],

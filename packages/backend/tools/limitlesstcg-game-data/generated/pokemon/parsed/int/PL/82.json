@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Minor Errand-Running"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Mareep by attacks is reduced by 10 (after applying Weakness and Resistance)."

@@ -3,7 +3,9 @@
   "abilityName": "こっそりかみつく",
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "相手のバトルポケモンをこんらんにする。"

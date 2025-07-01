@@ -3,7 +3,11 @@
   "abilityName": "Craggy Face",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, your opponent can't play any Trainer cards or Supporter cards from his or her hand during your opponent's next turn."

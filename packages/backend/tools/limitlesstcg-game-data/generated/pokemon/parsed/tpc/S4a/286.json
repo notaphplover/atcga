@@ -3,7 +3,11 @@
   "abilityName": "はがねのせいしん",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

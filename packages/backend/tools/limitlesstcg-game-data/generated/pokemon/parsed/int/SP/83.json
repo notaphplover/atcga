@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 3 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege 3 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Metti tre segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Coloque 3 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Pon 3 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Zen Spoon",
+        "fr": "Cuillère Zen",
+        "de": "Zen-Löffel",
+        "it": "Cucchiaio Zen",
+        "pt": "Colher Zen",
+        "es": "Cuchara Zen"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each card in your opponent's hand.",

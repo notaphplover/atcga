@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard all [L] Energy attached to this Pokémon. This attack does 50 damage times the number of Energy cards you discarded."

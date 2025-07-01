@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 70 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

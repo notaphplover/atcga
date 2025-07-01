@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Run Around"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

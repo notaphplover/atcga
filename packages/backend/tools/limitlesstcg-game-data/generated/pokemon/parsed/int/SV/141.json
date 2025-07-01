@@ -3,7 +3,10 @@
   "abilityName": "Darkness Send",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "You may discard a card from your hand. If you do, this attack does 30 damage plus 30 more damage."

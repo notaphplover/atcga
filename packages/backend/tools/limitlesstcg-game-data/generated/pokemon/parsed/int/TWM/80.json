@@ -3,7 +3,9 @@
   "abilityName": "Teleporter",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

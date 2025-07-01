@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal all damage from 1 of your Benched Pokémon.",
+        "fr": "Soignez tous les dégâts de l'un de vos Pokémon de Banc.",
+        "de": "Heile allen Schaden bei 1 Pokémon auf deiner Bank.",
+        "it": "Cura uno dei tuoi Pokémon in panchina da tutti i danni.",
+        "pt": "Cure todo o dano de 1 dos seus Pokémon no Banco.",
+        "es": "Cura todos los puntos de daño a 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Enriching Seeds",
+        "fr": "Graines Fortifiantes",
+        "de": "Anreichernde Saat",
+        "it": "Semi Nutrienti",
+        "pt": "Sementes Terapêuticas",
+        "es": "Semillas Nutritivas"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

@@ -3,7 +3,11 @@
   "abilityName": "マーメイドコール",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

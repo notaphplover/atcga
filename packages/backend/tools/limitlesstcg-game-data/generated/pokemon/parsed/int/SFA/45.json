@@ -3,7 +3,10 @@
   "abilityName": "Unnerve",
   "attacks": [
     {
-      "cost": "fm",
+      "cost": [
+        "f",
+        "m"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard the top card of your deck.",

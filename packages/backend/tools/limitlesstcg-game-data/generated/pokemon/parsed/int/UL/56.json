@@ -3,7 +3,12 @@
   "abilityName": "Energy Healer",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Onix can't attack during your next turn.",

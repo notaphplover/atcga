@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. Discard an Item card you find there.",
+        "fr": "Votre adversaire dévoile sa main. Défaussez une carte Objet que vous y trouvez.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Lege 1 Itemkarte, die du dort findest, auf seinen Ablagestapel.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scarta una carta Strumento presente tra esse.",
+        "es": "Tu rival enseña las cartas de su mano. Descarta 1 carta de Objeto que encuentres entre ellas."
+      },
+      "name": {
+        "en": "Bag Slash",
+        "fr": "Sac Lacéré",
+        "de": "Beutelschlitzer",
+        "it": "Laceraborsa",
+        "es": "Tajo Bolsa"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

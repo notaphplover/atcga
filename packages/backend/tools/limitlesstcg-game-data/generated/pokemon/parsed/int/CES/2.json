@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 2 [G] Energy cards from your hand to this Pokémon.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [G] de votre main à ce Pokémon.",
+        "de": "Lege bis zu 2 [G]-Energiekarten aus deiner Hand an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon fino a due carte Energia [G] dalla tua mano.",
+        "es": "Une hasta 2 cartas de Energía [G] de tu mano a este Pokémon."
+      },
+      "name": {
+        "en": "Growth",
+        "fr": "Croissance",
+        "de": "Wachstum",
+        "it": "Crescita",
+        "es": "Desarrollo"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage for each heads.",

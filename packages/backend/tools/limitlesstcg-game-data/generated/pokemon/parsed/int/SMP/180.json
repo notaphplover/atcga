@@ -3,7 +3,11 @@
   "abilityName": "Wall of Stone",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",

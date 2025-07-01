@@ -3,7 +3,10 @@
   "abilityName": "Protective Glow",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

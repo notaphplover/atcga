@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard an Energy card attached to Venonat. The Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Psycho Waves"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

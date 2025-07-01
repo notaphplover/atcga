@@ -3,7 +3,11 @@
   "abilityName": "Stormy Winds",
   "attacks": [
     {
-      "cost": "glc",
+      "cost": [
+        "g",
+        "l",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage times the amount of basic [G] and basic [L] Energy attached to your Pokémon.",
@@ -18,6 +22,25 @@
         "de": "Drachenbruch",
         "it": "Dragoblitz",
         "es": "Destrozo Dragón"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Discard your hand and draw 10 cards. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez votre main et piochez 10 cartes. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege deine Handkarten auf deinen Ablagestapel und ziehe 10 Karten. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta le carte che hai in mano e pesca dieci carte. Non puoi usare più di un attacco GX a partita.",
+        "es": "Descarta las cartas de tu mano y roba 10 cartas. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Tempest-GX",
+        "fr": "Déchaînement-GX",
+        "de": "Unwetter-GX",
+        "it": "Tempesta-GX",
+        "es": "Tempestad-GX"
       }
     }
   ],

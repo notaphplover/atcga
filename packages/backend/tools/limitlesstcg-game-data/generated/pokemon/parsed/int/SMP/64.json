@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "Gear Scan"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage."

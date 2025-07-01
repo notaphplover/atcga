@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Heal 40 damage from each of your [G] Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "gggc",
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "110+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

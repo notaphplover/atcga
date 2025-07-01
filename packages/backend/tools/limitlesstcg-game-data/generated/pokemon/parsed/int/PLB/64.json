@@ -3,7 +3,12 @@
   "abilityName": "Breakwing",
   "attacks": [
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard any Stadium card in play.",

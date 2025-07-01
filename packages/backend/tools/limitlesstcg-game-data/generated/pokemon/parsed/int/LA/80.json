@@ -3,7 +3,11 @@
   "abilityName": "WALL",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Draw a card."

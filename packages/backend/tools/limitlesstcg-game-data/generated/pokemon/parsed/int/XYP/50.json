@@ -3,7 +3,11 @@
   "abilityName": "Benevolent Boss",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If this Pokémon is affected by a Special Condition, this attack does 40 more damage."

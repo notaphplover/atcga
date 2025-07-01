@@ -3,7 +3,10 @@
   "abilityName": "Curse of Devolution",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

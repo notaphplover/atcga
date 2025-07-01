@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, draw a card.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, piochez une carte.",
+        "de": "Wirf 2 Münzen. Ziehe pro „Kopf“ 1 Karte.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, pesca una carta.",
+        "es": "Lanza 2 monedas. Por cada cara, roba una carta."
+      },
+      "name": {
+        "en": "Add-a-Dash",
+        "fr": "Rallonge",
+        "de": "Noch eine Prise",
+        "it": "Pizzico",
+        "es": "Una Pizca Más"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

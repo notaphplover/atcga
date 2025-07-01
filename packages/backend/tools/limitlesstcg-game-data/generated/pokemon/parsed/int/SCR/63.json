@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Each player draws 3 cards.",
+        "fr": "Chaque joueur pioche 3 cartes.",
+        "de": "Jeder Spieler zieht 3 Karten.",
+        "it": "Ciascun giocatore pesca tre carte.",
+        "pt": "Cada jogador compra 3 cartas.",
+        "es": "Cada jugador roba 3 cartas."
+      },
+      "name": {
+        "en": "Flower Shower",
+        "fr": "Pluie de Fleurs",
+        "de": "Blumenschauer",
+        "it": "Doccia Floreale",
+        "pt": "Fluxo de Flores",
+        "es": "Lluvia de Flores"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

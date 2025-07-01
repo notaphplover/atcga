@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 90 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Cursed Shadow",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon is now Burned and Confused.",

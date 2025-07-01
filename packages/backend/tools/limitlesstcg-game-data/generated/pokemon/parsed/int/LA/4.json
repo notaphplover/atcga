@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If heads, prevent all effects of an attack, including damage, done to Giratina during your opponent's next turn."
+      },
+      "name": {
+        "en": "Shadow Force"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 10 more damage for each damage counter on the Defending Pokémon."

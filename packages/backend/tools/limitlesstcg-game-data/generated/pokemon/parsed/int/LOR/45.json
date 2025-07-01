@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each basic Energy card in your discard pile. Then, shuffle those cards into your deck.",
@@ -21,7 +21,9 @@
       }
     },
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

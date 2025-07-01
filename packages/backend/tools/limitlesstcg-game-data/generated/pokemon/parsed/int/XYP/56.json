@@ -1,13 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads."
       },
       "name": {
         "en": "Double Slap"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 100 damage from each of your Benched Pokémon. Then, discard 2 Energy attached to this Pokémon."
+      },
+      "name": {
+        "en": "Nurse's Egg"
       }
     }
   ],

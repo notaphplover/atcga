@@ -3,7 +3,12 @@
   "abilityName": "Stance Change",
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Prevent all damage done to this Pokémon by attacks during your opponent's next turn. This Pokémon can't use King's Shield during your next turn.",

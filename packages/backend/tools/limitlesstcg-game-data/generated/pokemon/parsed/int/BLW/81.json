@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "es": "Roba una carta."
+      },
+      "name": {
+        "en": "Collect",
+        "fr": "Collectionner",
+        "de": "Sammeln",
+        "it": "Raccolta",
+        "es": "Coleccionar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

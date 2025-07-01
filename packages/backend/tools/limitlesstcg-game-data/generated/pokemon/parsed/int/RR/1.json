@@ -3,7 +3,10 @@
   "abilityName": "Flare Condition",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "You may do 30 damage plus 30 more damage. If you do, Arcanine is now Burned."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Discard a [R] Energy attached to Arcanine. This attack does 60 damage plus 10 more damage for each damage counter on Arcanine."

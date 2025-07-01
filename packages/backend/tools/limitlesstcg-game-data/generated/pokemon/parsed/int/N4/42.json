@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

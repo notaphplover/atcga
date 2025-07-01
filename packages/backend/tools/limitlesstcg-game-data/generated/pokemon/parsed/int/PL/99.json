@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [],
+      "effect": {
+        "en": "During your next turn, Torchic's [R] Shard attack's base damage is 80."
+      },
+      "name": {
+        "en": "Focus Energy"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

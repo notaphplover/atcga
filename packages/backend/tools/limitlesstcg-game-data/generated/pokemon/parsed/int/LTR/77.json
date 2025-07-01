@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Cursed Drop"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "The Defending Pokémon is now Burned and Confused."

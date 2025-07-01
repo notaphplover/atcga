@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Super Poison Breath",
+        "fr": "Super Haleine Empoisonnée",
+        "de": "Super-Gifthauch",
+        "it": "Super Velenospiro",
+        "es": "Aliento Supervenenoso"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",

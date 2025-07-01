@@ -3,7 +3,11 @@
   "abilityName": "Dig Up",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If Quagsire has a Pokémon Tool card attached to it, this attack does 50 damage plus 20 more damage."

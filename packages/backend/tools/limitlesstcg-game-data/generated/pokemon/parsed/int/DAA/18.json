@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 50 more damage for each of your opponent's Pokémon V and Pokémon-GX in play.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",

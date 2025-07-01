@@ -3,7 +3,11 @@
   "abilityName": "スイーツギフト",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on your opponent's Active Pokémon."
+      },
+      "name": {
+        "en": "Haunt"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+      },
+      "name": {
+        "en": "Astonish"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

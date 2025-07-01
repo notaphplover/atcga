@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Attach up to 2 Basic [R] Energy cards from your discard pile to 1 of your Pokémon.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [R] de base de votre pile de défausse à l'un de vos Pokémon.",
+        "de": "Lege bis zu 2 Basis-[R]-Energiekarten aus deinem Ablagestapel an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon fino a due carte Energia base [R] dalla tua pila degli scarti.",
+        "pt": "Ligue até 2 cartas de Energia [R] Básica da sua pilha de descarte a 1 dos seus Pokémon.",
+        "es": "Une hasta 2 cartas de Energía [R] Básica de tu pila de descartes a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Flare Bringer",
+        "fr": "Porteur de Flamme",
+        "de": "Fackelbringer",
+        "it": "Portafiamma",
+        "pt": "Emissário das Chamas",
+        "es": "Portador de Llamas"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 90 more damage.",

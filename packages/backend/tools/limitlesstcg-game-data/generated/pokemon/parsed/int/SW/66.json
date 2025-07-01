@@ -1,5 +1,26 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 3 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Color Pick"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose an attack on 1 of your opponent's Benched Pokémon. Trace copies that attack except for its Energy cost. (You must still do anything else required for that attack.) Smeargle performs that attack."
+      },
+      "name": {
+        "en": "Trace"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

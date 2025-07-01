@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from this Pokémon.",
+        "fr": "Soignez 40 dégâts à ce Pokémon.",
+        "de": "Heile 40 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 40 danni.",
+        "es": "Cura 40 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Grass Cocooning",
+        "fr": "Cocon Vert",
+        "de": "Pflanzenhülle",
+        "it": "Erbocorazza",
+        "es": "Abrigo Planta"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

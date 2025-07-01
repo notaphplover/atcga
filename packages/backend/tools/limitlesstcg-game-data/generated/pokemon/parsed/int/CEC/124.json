@@ -3,7 +3,11 @@
   "abilityName": "Boiling Blood",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon has any Special Energy attached to it, this attack does 70 more damage.",

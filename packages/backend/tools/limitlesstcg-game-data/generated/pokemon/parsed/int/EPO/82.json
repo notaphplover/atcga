@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your hand to 1 of your Pokémon.",
+        "fr": "Attachez une carte Énergie de votre main à 1 de vos Pokémon.",
+        "de": "Lege 1 Energiekarte von deiner Hand an 1 deiner Pokémon an.",
+        "it": "Assegna una carta Energia dalla tua mano a uno dei tuoi Pokémon.",
+        "es": "Une una carta de Energía de tu mano a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Tailwind",
+        "fr": "Vent Arrière",
+        "de": "Rückenwind",
+        "it": "Ventoincoda",
+        "es": "Viento Afín"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 40 more damage. If tails, discard an Energy attached to the Defending Pokémon.",

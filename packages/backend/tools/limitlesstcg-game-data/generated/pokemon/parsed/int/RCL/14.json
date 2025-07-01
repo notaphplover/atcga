@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Basic Pokémon from your discard pile onto your Bench.",
+        "fr": "Placez un Pokémon de base de votre pile de défausse sur votre Banc.",
+        "de": "Lege 1 Basis-Pokémon aus deinem Ablagestapel auf deine Bank.",
+        "it": "Prendi un Pokémon Base dalla tua pila degli scarti e mettilo in panchina.",
+        "pt": "Coloque 1 Pokémon Básico da sua pilha de descarte no seu Banco.",
+        "es": "Pon 1 Pokémon Básico de tu pila de descartes en tu Banca."
+      },
+      "name": {
+        "en": "Dark Guidance",
+        "fr": "Conseiller Obscur",
+        "de": "Dunkles Geleit",
+        "it": "Guida Oscura",
+        "pt": "Diretriz Obscura",
+        "es": "Guía Siniestra"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

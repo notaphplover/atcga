@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon. During your next turn, the attacks of that Pokémon do 40 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+        "fr": "Échangez ce Pokémon avec 1 de vos Pokémon de Banc. Pendant votre prochain tour, les attaques du Pokémon échangé infligent 40 dégâts supplémentaires aux Pokémon Actifs (avant application de la Faiblesse et de la Résistance).",
+        "it": "Scambia questo Pokémon con uno della tua panchina. Durante il tuo prossimo turno, gli attacchi di quel Pokémon infliggono 40 danni in più al Pokémon attivo, prima di aver applicato debolezza e resistenza.",
+        "es": "Cambia a este Pokémon por 1 de tus Pokémon en Banca. Durante tu próximo turno, los ataques de ese Pokémon hacen 40 puntos de daño más a los Pokémon Activos (antes de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Fluffy Tag",
+        "fr": "Accolade Duveteuse",
+        "de": "Schlummerschlag",
+        "it": "Scambiomorbido",
+        "es": "Relevo Sedoso"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",

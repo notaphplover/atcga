@@ -3,7 +3,11 @@
   "abilityName": "Flaming Shot",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Put 2 [R] Energy attached to this Pokémon into your hand.",
@@ -18,6 +22,25 @@
         "de": "Rückzündung",
         "it": "Fiammata di Ritorno",
         "es": "Devolución Fogosa"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard an Energy from each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez une Énergie de chacun des Pokémon de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 1 Energie von jedem Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta un'Energia assegnata a ciascuno dei Pokémon del tuo avversario. Non puoi usare più di un attacco GX a partita.",
+        "es": "Descarta 1 Energía de cada uno de los Pokémon de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Massive Heat Wave-GX",
+        "fr": "Vague de Chaleur Massive-GX",
+        "de": "Massive Hitzewelle-GX",
+        "it": "Ondata Rovente-GX",
+        "es": "Onda Ígnea Masiva-GX"
       }
     }
   ],

@@ -3,7 +3,10 @@
   "abilityName": "Recon Directive",
   "attacks": [
     {
-      "cost": "rp",
+      "cost": [
+        "r",
+        "p"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

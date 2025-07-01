@@ -3,7 +3,9 @@
   "abilityName": "Extend",
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, this Pokémon's Meteor Mash attack does 60 more damage (before applying Weakness and Resistance).",

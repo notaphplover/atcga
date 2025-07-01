@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card that evolves from Weedle and put it onto Weedle. (This counts as evolving Weedle.) Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Évolution d'Aspicot dans votre deck et placez-la sur Aspicot (cela équivaut à faire évoluer Aspicot). Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach einer Karte, die aus Hornliu entsteht, und lege sie auf Hornliu. (Dies zählt als Entwickeln von Hornliu.) Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta che evolve da Weedle e mettila sopra Weedle. (Conta come un'evoluzione di Weedle.) Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo una carta que evolucione de Weedle y ponla sobre Weedle. (Esto cuenta como evolucionar a Weedle.) Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Speed Evolution",
+        "fr": "Évolution rapide",
+        "de": "Tempo-Evolution",
+        "it": "Evoluzione rapida",
+        "es": "Evolución de rapidez"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

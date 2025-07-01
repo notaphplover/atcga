@@ -3,7 +3,12 @@
   "abilityName": "Garbotoxin",
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused and Poisoned.",

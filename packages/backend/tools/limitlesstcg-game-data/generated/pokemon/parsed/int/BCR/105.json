@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a Pokémon Tool card attached to the Defending Pokémon.",
+        "fr": "Défaussez une carte Outil Pokémon attachée au Pokémon Défenseur.",
+        "it": "Scarta una carta Oggetto Pokémon assegnata al Pokémon difensore.",
+        "es": "Descarta una carta de Herramienta Pokémon unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Gnaw Through",
+        "fr": "Grignotage",
+        "de": "Durchnagen",
+        "it": "Rosicchiadentro",
+        "es": "Roedura Perforante"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on the Defending Pokémon until its remaining HP is 10.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Défenseur jusqu'à ce qu'il ait 10 PV.",
+        "it": "Metti dei segnalini danno sul Pokémon difensore finché i suoi PV rimanenti diventano 10.",
+        "es": "Pon contadores de daño en el Pokémon Defensor hasta que le queden 10 PV restantes."
+      },
+      "name": {
+        "en": "Super Fang",
+        "fr": "Croc Fatal",
+        "de": "Superzahn",
+        "it": "Superzanna",
+        "es": "Superdiente"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card that evolves from Ponyta and put it onto Ponyta. (This counts as evolving Ponyta.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Ascension"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

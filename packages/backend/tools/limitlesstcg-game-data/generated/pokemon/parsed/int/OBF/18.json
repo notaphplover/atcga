@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your opponent's next turn, Pokémon can't be played from your opponent's hand to evolve the Defending Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon also does 20 damage to itself.",

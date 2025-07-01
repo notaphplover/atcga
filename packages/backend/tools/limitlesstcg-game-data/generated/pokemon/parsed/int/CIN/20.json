@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -10,6 +12,28 @@
         "de": "Zertrampeln",
         "it": "Fuggi Fuggi",
         "es": "Estampida"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This Pokémon is now Asleep. Heal 90 damage from it.",
+        "fr": "Ce Pokémon est maintenant Endormi. Soignez 90 dégâts à ce Pokémon.",
+        "de": "Dieses Pokémon schläft jetzt. Heile 90 Schadenspunkte bei ihm.",
+        "it": "Questo Pokémon viene addormentato. Curalo da 90 danni.",
+        "es": "Este Pokémon pasa a estar Dormido. Cúrale 90 puntos de daño."
+      },
+      "name": {
+        "en": "Rest",
+        "fr": "Repos",
+        "de": "Erholung",
+        "it": "Riposo",
+        "es": "Descanso"
       }
     }
   ],

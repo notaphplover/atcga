@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "コインを1回投げオモテなら、10ダメージを追加。\r\nFlip a coin. If heads, this attack does 10 more damage."

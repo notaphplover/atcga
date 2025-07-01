@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 20 more damage for each of your Benched Pokémon.",

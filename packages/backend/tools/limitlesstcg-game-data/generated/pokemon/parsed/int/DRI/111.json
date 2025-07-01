@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic [F] Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [F] de base, puis attachez-la à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-[F]-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia base [F] e assegnala a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por uma carta de Energia [F] Básica no seu baralho e ligue-a a 1 dos seus Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [F] Básica y únela a uno de tus Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Rock Kagura",
+        "fr": "Kagura Roche",
+        "de": "Gesteins-Kagura",
+        "it": "Kagura della Roccia",
+        "pt": "Kagura de Pedra",
+        "es": "Kagura Roca"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

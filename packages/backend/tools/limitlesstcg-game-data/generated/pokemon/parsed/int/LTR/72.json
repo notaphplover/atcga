@@ -3,7 +3,11 @@
   "abilityName": "Magic Room",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 20 more damage for each [P] Energy attached to this Pokémon.",

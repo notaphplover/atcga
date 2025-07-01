@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 50 damage for each heads.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 70 more damage.",

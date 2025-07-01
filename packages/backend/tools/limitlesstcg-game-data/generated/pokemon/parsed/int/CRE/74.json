@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand.",
@@ -18,6 +20,29 @@
         "it": "Nebbiombra",
         "pt": "Névoa das Sombras",
         "es": "Neblina Espectral"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Pokémon and put 5 damage counters on each of them.",
+        "fr": "Choisissez 2 des Pokémon de votre adversaire, puis placez 5 marqueurs de dégâts sur chacun d'eux.",
+        "de": "Wähle 2 Pokémon deines Gegners und lege 5 Schadensmarken auf jedes von ihnen.",
+        "it": "Scegli due dei Pokémon del tuo avversario e metti cinque segnalini danno su ciascuno di essi.",
+        "pt": "Escolha 2 dos Pokémon do seu oponente e coloque 5 contadores de dano em cada um deles.",
+        "es": "Elige 2 de los Pokémon de tu rival y pon 5 contadores de daño en cada uno de ellos."
+      },
+      "name": {
+        "en": "Astral Barrage",
+        "fr": "Éclat Spectral",
+        "de": "Astralfragmente",
+        "it": "Schegge Astrali",
+        "pt": "Barricada Astral",
+        "es": "Orbes Espectro"
       }
     }
   ],

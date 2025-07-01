@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your deck, and if that card is a Pokémon that doesn't have a Rule Box, choose 1 of its attacks and use it as this attack. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
+        "fr": "Défaussez la carte du dessus de votre deck. Si cette carte est un Pokémon sans encadré Règle, choisissez l'une de ses attaques et utilisez-la en tant que cette attaque. (Les Pokémon-ex, Pokémon-V, etc. ont des encadrés Règle.)",
+        "de": "Lege die oberste Karte deines Decks auf deinen Ablagestapel, und wenn jene Karte ein Pokémon ist, das kein Regelfeld hat, wähle 1 seiner Attacken und setze sie als diese Attacke ein. (Pokémon-ex, Pokémon-V usw. haben Regelfelder.)",
+        "it": "Scarta la prima carta del tuo mazzo e, se quella carta è un Pokémon che non ha una regola speciale, scegli uno dei suoi attacchi e usalo al posto di questo attacco. I Pokémon-ex, i Pokémon-V, ecc. hanno regole speciali.",
+        "pt": "Descarte a carta de cima do seu baralho, e se aquela carta for um Pokémon que não tiver uma Caixa de Regras, escolha 1 dos seus ataques e use-o como este ataque. (Pokémon ex, Pokémon V, etc. têm Caixas de Regras.)",
+        "es": "Descarta la primera carta de tu baraja y, si esa carta es un Pokémon que no tiene un recuadro de regla, elige uno de sus ataques y úsalo para este ataque. (Pokémon ex, Pokémon V, etc. tienen recuadros de regla)."
+      },
+      "name": {
+        "en": "Seek Inspiration",
+        "fr": "Recherche d'Inspiration",
+        "de": "Inspirationssuche",
+        "it": "Cerca Ispirazione",
+        "pt": "Buscar Inspiração",
+        "es": "Búsqueda de Inspiración"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Splash Back",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the amount of Energy attached to Crawdaunt ex."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "You may discard a [G] Energy card attached to Seviper. If you do, the Defending Pokémon is now Poisoned."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Asleep and Poisoned."

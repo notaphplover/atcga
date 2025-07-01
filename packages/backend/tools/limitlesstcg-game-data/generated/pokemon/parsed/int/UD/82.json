@@ -3,7 +3,11 @@
   "abilityName": "Fire Breath",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

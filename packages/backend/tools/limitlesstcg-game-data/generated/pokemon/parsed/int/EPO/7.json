@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your Pokémon. Search your deck for a card that evolves from that Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.",
+        "fr": "Choisissez 1 de vos Pokémon. Cherchez dans votre deck une carte Évolution du Pokémon choise et placez-la sur celui-ci. (Cela équivalent à faire évoluer le Pokémon choise.) Mélangez ensuite votre deck.",
+        "de": "Wähle 1 deiner Pokémon im Spiel. Durchsuche dein Deck nach einer Karte, zu der sich das Pokémon entwickelt, und lege diese auf das gewählte Pokémon (dies zählt als Entwicklung des Pokémon). Mische anschließend dein Deck.",
+        "it": "Scegli uno dei tuoi Pokémon. Cerca nel tuo mazzo una carta che si evolve da quel Pokémon e metticela sopra (quest'azione vale come evoluzione di quel Pokémon). Poi rimischia le carte del tuo mazzo.",
+        "es": "Elige a 1 de tus Pokémon. Busca en tu baraja una carta que evolucione de ese Pokémon y ponla sobre él. (Esto equivale a hacer evolucionar a ese Pokémon.) Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Nurturing",
+        "fr": "Affection",
+        "de": "Großziehen",
+        "it": "Balia",
+        "es": "Cuidador"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 more damage.",

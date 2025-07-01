@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Ram"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. The new Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Luring Flame"
       }
     }
   ],

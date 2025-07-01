@@ -3,7 +3,11 @@
   "abilityName": "のさばる",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "jp": "相手のベンチポケモンの数×30ダメージ追加。"

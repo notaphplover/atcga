@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle up to 3 [M] Energy cards from your discard pile into your deck.",
+        "fr": "Mélangez avec votre deck jusqu'à 3 cartes Énergie [M] de votre pile de défausse.",
+        "de": "Mische bis zu 3 [M]-Energiekarten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia fino a tre carte Energia [M] dalla tua pila degli scarti nel tuo mazzo.",
+        "pt": "Embaralhe até 3 cartas de Energia [M] da sua pilha de descarte no seu baralho.",
+        "es": "Pon hasta 3 cartas de Energía [M] de tu pila de descartes en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Magnetic Catch",
+        "fr": "Prise Magnétique",
+        "de": "Magnetfang",
+        "it": "Cattura Magnetica",
+        "pt": "Captura Magnética",
+        "es": "Captura Magnética"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

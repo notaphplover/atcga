@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage times the number of heads.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage.",

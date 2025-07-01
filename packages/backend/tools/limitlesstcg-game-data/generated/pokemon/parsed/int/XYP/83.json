@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Move as many Energy as you like from your Benched Pokémon to this Pokémon."
+      },
+      "name": {
+        "en": "Gather Light"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each different type of basic Energy attached to this Pokémon."

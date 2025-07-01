@@ -3,7 +3,10 @@
   "abilityName": "Jet Cruise",
   "attacks": [
     {
-      "cost": "wl",
+      "cost": [
+        "w",
+        "l"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",

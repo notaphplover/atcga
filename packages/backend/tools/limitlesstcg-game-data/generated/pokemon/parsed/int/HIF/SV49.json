@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {
@@ -13,7 +17,13 @@
       }
     },
     {
-      "cost": "rrrcc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "300",
       "effect": {
         "en": "Discard 3 [R] Energy from this Pokémon.",
@@ -28,6 +38,26 @@
         "de": "Feuerroter Sturm",
         "it": "Tempestarossa",
         "es": "Tormenta Carmesí"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez les 10 cartes du dessus du deck de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege die obersten 10 Karten des Decks deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta le prime 10 carte del mazzo del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Raging Out-GX",
+        "fr": "Déchaînement Furieux-GX",
+        "de": "Tobsuchtsanfall-GX",
+        "it": "Sfogo Rabbioso-GX",
+        "es": "Enojo-GX"
       }
     }
   ],

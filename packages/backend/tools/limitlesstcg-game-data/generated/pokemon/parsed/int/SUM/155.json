@@ -3,7 +3,11 @@
   "abilityName": "Ultra Road",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",
@@ -18,6 +22,25 @@
         "de": "Stahlgestirn",
         "it": "Astrocarica",
         "es": "Meteoimpacto"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 5 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cherchez jusqu'à 5 cartes Énergie dans votre deck et attachez-les à vos Pokémon, de la manière que vous voulez. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Durchsuche dein Deck nach bis zu 5 Energiekarten und lege sie beliebig an deine Pokémon an. Mische anschließend dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cerca nel tuo mazzo fino a cinque carte Energia e assegnale a piacimento ai tuoi Pokémon. Poi rimischia le carte del tuo mazzo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Busca en tu baraja hasta 5 cartas de Energía y únelas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Sol Burst-GX",
+        "fr": "Éclat Solaire-GX",
+        "de": "Solarplosion-GX",
+        "it": "Raffica Solare-GX",
+        "es": "Explosión Sol-GX"
       }
     }
   ],

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Until the end of your next turn, if Dark Forretress would be Knocked Out by damage from an attack, flip a coin. If heads, Dark Forretress is not Knocked Out and its remaining HP become 10 instead."
+      },
+      "name": {
+        "en": "Armor Up"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Dark Forretress does 60 damage to itself."

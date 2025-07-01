@@ -3,7 +3,10 @@
   "abilityName": "ビーストブースト",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

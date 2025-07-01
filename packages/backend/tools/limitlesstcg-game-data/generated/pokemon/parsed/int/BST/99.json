@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Flip 2 coins. This attack does 80 damage for each heads.",
@@ -21,7 +25,13 @@
       }
     },
     {
-      "cost": "mmmcc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {},
       "name": {

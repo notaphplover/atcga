@@ -3,7 +3,10 @@
   "abilityName": "Battle Rush",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard a [R] Energy and a [W] Energy attached to Salamence."

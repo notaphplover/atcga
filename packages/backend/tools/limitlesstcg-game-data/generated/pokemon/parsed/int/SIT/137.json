@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of your deck. You may attach any number of basic Energy cards you find there to 1 of your Pokémon. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 5 cartes du dessus de votre deck. Vous pouvez attacher le nombre voulu de cartes Énergie de base que vous y trouvez à l'un de vos Pokémon. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 5 Karten deines Decks an. Du kannst beliebig viele Basis-Energiekarten, die du dort findest, an 1 deiner Pokémon anlegen. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime cinque carte del tuo mazzo. Puoi assegnare un numero qualsiasi di carte Energia base presenti tra esse a uno dei tuoi Pokémon. Poi rimischia le altre carte nel tuo mazzo.",
+        "pt": "Olhe as 5 cartas de cima do seu baralho. Você poderá ligar qualquer número de cartas de Energia básica que encontrar lá a 1 dos seus Pokémon. Embaralhe as demais cartas de volta no seu baralho.",
+        "es": "Mira las 5 primeras cartas de tu baraja. Puedes unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a 1 de tus Pokémon. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Colorful Palette",
+        "fr": "Palette Colorée",
+        "de": "Bunte Farbpalette",
+        "it": "Tavolozza Colorata",
+        "pt": "Paleta Colorida",
+        "es": "Paleta de Colores"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, draw a card."
+      },
+      "name": {
+        "en": "Flaring Dash"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

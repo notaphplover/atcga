@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Supersonic",
+        "fr": "Ultrason",
+        "de": "Superschall",
+        "it": "Supersuono",
+        "es": "Supersónico"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent chooses 1 of their own Pokémon. This attack does 90 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Votre adversaire choisit l'un de ses propres Pokémon. Cette attaque inflige 90 dégâts à ce Pokémon-là. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dein Gegner wählt 1 seiner eigenen Pokémon. Diese Attacke fügt jenem Pokémon 90 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Il tuo avversario sceglie uno dei suoi Pokémon. Questo attacco infligge 90 danni a quel Pokémon. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Tu rival elige 1 de sus propios Pokémon. Este ataque hace 90 puntos de daño a ese Pokémon. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Charming Stamp",
+        "fr": "Trace Charmante",
+        "de": "Charmanter Stempel",
+        "it": "Impronta Graziosa",
+        "es": "Sello Cautivador"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

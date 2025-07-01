@@ -3,7 +3,22 @@
   "abilityName": "Safeguard",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Does 20 Damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Wing Attack"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

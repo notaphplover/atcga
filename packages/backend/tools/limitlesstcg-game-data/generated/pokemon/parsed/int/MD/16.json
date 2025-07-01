@@ -3,7 +3,20 @@
   "abilityName": "Cursed Alloy",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [],
+      "effect": {
+        "en": "Put 1 damage counter on each of your opponent's Pokémon that already has damage counters on it."
+      },
+      "name": {
+        "en": "Pain Amplifier"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Bronzong by attacks is reduced by 20 (after applying Weakness and Resistance)."

@@ -3,7 +3,10 @@
   "abilityName": "Ear Moves",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

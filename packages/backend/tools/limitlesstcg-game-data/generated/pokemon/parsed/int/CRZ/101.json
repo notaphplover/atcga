@@ -3,7 +3,10 @@
   "abilityName": "Azure Pulse",
   "attacks": [
     {
-      "cost": "rl",
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "You may discard any amount of basic [R] Energy or any amount of basic [L] Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",

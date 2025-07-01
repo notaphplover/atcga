@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each of your Stage 1 Pokémon in play.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

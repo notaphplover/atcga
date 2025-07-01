@@ -3,7 +3,11 @@
   "abilityName": "Time Recall",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",

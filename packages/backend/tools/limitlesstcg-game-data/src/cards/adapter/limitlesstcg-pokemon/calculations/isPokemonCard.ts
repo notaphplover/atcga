@@ -3,6 +3,7 @@ import { isStringOrNull } from '../../../../foundation/domain/calculations/isStr
 import { TcgPokemonLanguage } from '../../../../languages/adapter/limitlesstcg-pokemon/models/TcgPokemonLanguage';
 import { isPokemonRegion } from '../../../../regions/adapter/limitlesstcg-pokemon/calculations/isPokemonRegion';
 import { TcgPokemonCard } from '../models/TcgPokemonCard';
+import { isPokemonAttackCost } from './isPokemonAttackCost';
 import { isPokemonCardType } from './isPokemonCardType';
 import { isTcgPokemonCardTypeOrNoneArray } from './isPokemonCardTypeOrNoneArray';
 import { isPokemonRarity } from './isPokemonRarity';
@@ -23,19 +24,19 @@ export function isPokemonCard(card: unknown): card is TcgPokemonCard {
     prop: keyof TcgPokemonCard;
     valid: boolean;
   }[] = [
-    { prop: 'a1_cost', valid: isStringOrNull(c.a1_cost) },
+    { prop: 'a1_cost', valid: isPokemonAttackCost(c.a1_cost) },
     { prop: 'a1_dmg', valid: isStringOrNull(c.a1_dmg) },
     { prop: 'a1_effect', valid: isStringOrNull(c.a1_effect) },
     { prop: 'a1_name', valid: isStringOrNull(c.a1_name) },
-    { prop: 'a2_cost', valid: isStringOrNull(c.a2_cost) },
+    { prop: 'a2_cost', valid: isPokemonAttackCost(c.a2_cost) },
     { prop: 'a2_dmg', valid: isStringOrNull(c.a2_dmg) },
     { prop: 'a2_effect', valid: isStringOrNull(c.a2_effect) },
     { prop: 'a2_name', valid: isStringOrNull(c.a2_name) },
-    { prop: 'a3_cost', valid: isStringOrNull(c.a3_cost) },
+    { prop: 'a3_cost', valid: isPokemonAttackCost(c.a3_cost) },
     { prop: 'a3_dmg', valid: isStringOrNull(c.a3_dmg) },
     { prop: 'a3_effect', valid: isStringOrNull(c.a3_effect) },
     { prop: 'a3_name', valid: isStringOrNull(c.a3_name) },
-    { prop: 'a4_cost', valid: isStringOrNull(c.a4_cost) },
+    { prop: 'a4_cost', valid: isPokemonAttackCost(c.a4_cost) },
     { prop: 'a4_dmg', valid: isStringOrNull(c.a4_dmg) },
     { prop: 'a4_effect', valid: isStringOrNull(c.a4_effect) },
     { prop: 'a4_name', valid: isStringOrNull(c.a4_name) },

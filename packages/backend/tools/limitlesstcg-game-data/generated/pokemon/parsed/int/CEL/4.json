@@ -3,7 +3,11 @@
   "abilityName": "Absolute Space",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",

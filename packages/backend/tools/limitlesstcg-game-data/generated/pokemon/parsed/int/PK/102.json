@@ -3,7 +3,11 @@
   "abilityName": "Blue Ray",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."

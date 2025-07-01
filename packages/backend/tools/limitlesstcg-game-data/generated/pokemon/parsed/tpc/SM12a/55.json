@@ -1,7 +1,19 @@
 {
   "abilityEffect": "このポケモンがいるかぎり、自分のベンチポケモン全員は、相手のワザのダメージを受けない。",
   "abilityName": "ベンチバリア",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "ダメカン3個を、相手のポケモンに好きなようにのせる。"
+      },
+      "name": {
+        "jp": "サイコパワー"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

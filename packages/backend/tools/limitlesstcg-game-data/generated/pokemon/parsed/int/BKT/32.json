@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard any Stadium card in play.",
+        "fr": "Défaussez toute carte Stade en jeu.",
+        "de": "Lege eine beliebige Stadionkarte im Spiel auf den Ablagestapel.",
+        "it": "Scarta una carta Stadio in gioco.",
+        "es": "Descarta cualquier carta de Estadio en juego."
+      },
+      "name": {
+        "en": "Ion Pool",
+        "fr": "Bassin Ionique",
+        "de": "Ionenbecken",
+        "it": "Vasca Ionizzata",
+        "es": "Piscina Iónica"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

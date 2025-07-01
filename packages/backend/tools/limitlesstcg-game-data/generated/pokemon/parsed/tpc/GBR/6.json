@@ -3,7 +3,10 @@
   "abilityName": "ドラゴンコール",
   "attacks": [
     {
-      "cost": "wf",
+      "cost": [
+        "w",
+        "f"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Mysterious Ears",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."

@@ -3,7 +3,10 @@
   "abilityName": "Cunning",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Don't apply Weakness or Resistance for this attack."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to this Pokémon."
@@ -11,7 +13,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120×",
       "effect": {
         "en": "Flip 2 coins. This attack does 120 damage for each heads."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon was Asleep, it is no longer Asleep."

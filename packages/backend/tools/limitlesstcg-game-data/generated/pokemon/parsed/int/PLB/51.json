@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads.",
@@ -15,7 +18,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80-",
       "effect": {
         "en": "Does 80 damage minus 20 damage for each [C] in the Defending Pokémon's Retreat Cost.",

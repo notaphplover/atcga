@@ -3,7 +3,10 @@
   "abilityName": "Happy Match",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may shuffle this Pokémon and all attached cards into your deck.",

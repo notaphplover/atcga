@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Move 1 damage counter from each of your Pokémon that has any on it to the Defending Pokémon. (Don't apply Weakness and Resistance.)"
+      },
+      "name": {
+        "en": "Damage Shift"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage; if tails, this attack does 20 damage."

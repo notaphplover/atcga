@@ -1,7 +1,31 @@
 {
   "abilityEffect": "Put this Pokémon into play only with the effect of Ninjask's Cast-Off Shell Ability. (When you are setting up to play, you cannot put it face down as your Active Pokémon or on your Bench.)",
   "abilityName": "Shell Survival",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 10.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Actif de votre adversaire jusqu'à ce qu'il ne lui reste que 10 PV.",
+        "de": "Lege so lange Schadensmarken auf das Aktive Pokémon deines Gegners, bis seine verbleibenden KP gleich 10 sind.",
+        "it": "Metti dei segnalini danno sul Pokémon attivo del tuo avversario finché i suoi PS rimanenti diventano 10.",
+        "pt": "Coloque contadores de dano no Pokémon Ativo do seu oponente até o PS restante dele ser 10.",
+        "es": "Pon contadores de daño en el Pokémon Activo de tu rival hasta que le queden 10 PS."
+      },
+      "name": {
+        "en": "Life Squeeze",
+        "fr": "Presse-Vie",
+        "de": "Lebensquetscher",
+        "it": "Spremivita",
+        "pt": "Espremer a Vida",
+        "es": "Estrujamiento Vital"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

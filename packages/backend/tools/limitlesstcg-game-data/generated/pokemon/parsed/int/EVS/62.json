@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Adormecido.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Hypnosis",
+        "fr": "Hypnose",
+        "de": "Hypnose",
+        "it": "Ipnosi",
+        "pt": "Hipnose",
+        "es": "Hipnosis"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 90 more damage. Then, that Pokémon recovers from all Special Conditions.",

@@ -3,7 +3,11 @@
   "abilityName": "Boundary Aura",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon."

@@ -3,7 +3,9 @@
   "abilityName": "Grim Marking",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, this Pokémon's Psych Up attack does 60 more damage (before applying Weakness and Resistance).",

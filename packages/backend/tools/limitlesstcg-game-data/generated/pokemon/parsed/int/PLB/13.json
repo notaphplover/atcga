@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Reveal the top 5 cards of your deck and put all Team Plasma cards you find there into your hand. Discard the other cards.",
+        "fr": "Montrez les 5 cartes du dessus de votre deck et ajoutez toutes les cartes de la Team Plasma que vous y trouvez à votre main. Défaussez les autres cartes.",
+        "de": "Decke die obersten 5 Karten deines Decks auf und nimm alle Team Plasma-Karten, die du darunter findest, auf deine Hand. Lege die anderen Karten auf deinen Ablagestapel."
+      },
+      "name": {
+        "en": "Solar Transporter",
+        "fr": "Transporteur Solaire",
+        "de": "Solartransporter"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",

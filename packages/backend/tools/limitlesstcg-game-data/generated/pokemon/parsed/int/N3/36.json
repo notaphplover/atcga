@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 3 damage counters from Piloswine. If it has fewer damage counters than that, remove all of them."
+      },
+      "name": {
+        "en": "Nap"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Piloswine does 30 damage to itself. Piloswine can't use this attack during your next turn."

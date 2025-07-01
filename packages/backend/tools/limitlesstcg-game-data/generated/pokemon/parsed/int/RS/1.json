@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage times the number of damage counters on Aggron."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -19,7 +25,13 @@
       }
     },
     {
-      "cost": "mmccc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip 2 coins. This attack does 70 damage times the number of heads."

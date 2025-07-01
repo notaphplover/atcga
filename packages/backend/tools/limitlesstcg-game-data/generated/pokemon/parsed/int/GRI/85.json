@@ -3,7 +3,11 @@
   "abilityName": "Geotech System",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This Pokémon can't use Giga Hammer during your next turn.",
@@ -18,6 +22,25 @@
         "de": "Gigahammer",
         "it": "Gigamartello",
         "es": "Gigamartillo"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cherchez jusqu'à 5 cartes dans votre deck et ajoutez-les à votre main. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Durchsuche dein Deck nach bis zu 5 Karten und nimm sie auf deine Hand. Mische anschließend dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cerca nel tuo mazzo fino a cinque carte e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Busca en tu baraja hasta 5 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Algorithm-GX",
+        "fr": "Algorithme-GX",
+        "de": "Algorithmus-GX",
+        "it": "Algoritmo-GX",
+        "es": "Algoritmo-GX"
       }
     }
   ],

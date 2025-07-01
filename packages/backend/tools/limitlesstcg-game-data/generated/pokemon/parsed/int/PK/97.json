@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Look at your opponent's hand and choose a Basic Pokémon or Evolution card you find there. Choose 1 of that Pokémon's attacks. Skill Hack copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Shiftry ex's type is still [D].) Shiftry ex performs that attack."
+      },
+      "name": {
+        "en": "Skill Hack"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Does 60 damage to each of your opponent's Benched Pokémon that has the same name as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Attach 3 Energy cards from your opponent's discard pile to his or her Pokémon in any way you like.",
+        "fr": "Attachez 3 cartes Énergie de la pile de défausse de votre adversaire à ses Pokémon, de la manière que vous voulez.",
+        "de": "Lege 3 Energiekarten vom Ablagestapel deines Gegners beliebig an die Pokémon deines Gegners an.",
+        "it": "Assegna a piacimento ai Pokémon del tuo avversario tre carte Energia dalla sua pila degli scarti.",
+        "es": "Une 3 cartas de Energía de la pila de descartes de tu rival a sus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Meddling",
+        "fr": "Ingérence",
+        "de": "Einmischen",
+        "it": "Intromissione",
+        "es": "Intromisión"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.",

@@ -3,7 +3,11 @@
   "abilityName": "Unnerve",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If Lysandre Labs is in play, this attack does 60 more damage.",

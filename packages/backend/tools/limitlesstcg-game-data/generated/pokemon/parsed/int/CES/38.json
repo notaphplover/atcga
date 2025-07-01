@@ -3,7 +3,11 @@
   "abilityName": "Swing Dance",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "This attack does 10 more damage for each other Pokémon in play (both yours and your opponent's).",

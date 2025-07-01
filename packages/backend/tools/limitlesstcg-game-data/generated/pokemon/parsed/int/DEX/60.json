@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
@@ -17,7 +20,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon can't use Slashing Strike during your next turn.",

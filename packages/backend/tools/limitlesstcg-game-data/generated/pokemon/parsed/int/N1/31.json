@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon"
+      },
+      "name": {
+        "en": "Screech"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Until the end of your opponent's next turn, as long as Croconaw is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing."

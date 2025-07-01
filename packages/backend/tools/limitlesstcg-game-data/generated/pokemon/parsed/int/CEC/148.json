@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Put a card from your hand in the Lost Zone. If you do, draw 3 cards.",
+        "fr": "Placez une carte de votre main dans la Zone Perdue. Dans ce cas, piochez 3 cartes.",
+        "de": "Lege 1 Karte aus deiner Hand ins Nirgendwo. Wenn du das machst, ziehe 3 Karten.",
+        "it": "Prendi una carta che hai in mano e mettila nell'area perduta. Se lo fai, pesca tre carte.",
+        "es": "Pon 1 carta de tu mano en la Zona Perdida. Si lo haces, roba 3 cartas."
+      },
+      "name": {
+        "en": "Sneaky Pocket",
+        "fr": "Poche Cachée",
+        "de": "Gewiefte Tasche",
+        "it": "Intrufolamento Furtivo",
+        "es": "Bolsillo Pillo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each of your Pokémon, except ◇ (Prism Star) Pokémon, in the Lost Zone.",

@@ -3,7 +3,11 @@
   "abilityName": "Sparkling Ripples",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent has any [F] Pokémon in play, this attack does 20 damage plus 60 more damage.",
@@ -17,7 +19,10 @@
       }
     },
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent discards a card from his or her hand.",

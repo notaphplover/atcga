@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for a [G] Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [G], puis attachez-la à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [G]-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [G] e assegnala a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta de Energia [G] no seu baralho e ligue-a a 1 dos seus Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [G] y únela a 1 de tus Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Synthesis",
+        "fr": "Synthèse",
+        "de": "Synthese",
+        "it": "Sintesi",
+        "pt": "Síntese",
+        "es": "Síntesis"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

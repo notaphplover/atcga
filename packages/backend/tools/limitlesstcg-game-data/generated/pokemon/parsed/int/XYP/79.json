@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -9,7 +11,12 @@
       }
     },
     {
-      "cost": "wpcc",
+      "cost": [
+        "w",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If Latias is on your Bench, this attack does 50 more damage."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 30 more damage.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 4 coins. This attack does 50 damage for each heads.",

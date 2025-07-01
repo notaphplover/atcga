@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Dreepy and put it onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez un Fantyrm dans votre deck, puis placez-le sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Grolldra und lege es auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Dreepy e mettilo nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 Dreepy no seu baralho e coloque-o no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 Dreepy y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Summon",
+        "fr": "Citation",
+        "de": "Herbeirufen",
+        "it": "Invocazione",
+        "pt": "Convidar",
+        "es": "Llamamiento"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

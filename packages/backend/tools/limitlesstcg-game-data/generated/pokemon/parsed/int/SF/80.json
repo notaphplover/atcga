@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [],
+      "effect": {
+        "en": "If an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to that Pokémon until the end of your next turn."
+      },
+      "name": {
+        "en": "Screech"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 damage times the number of heads."

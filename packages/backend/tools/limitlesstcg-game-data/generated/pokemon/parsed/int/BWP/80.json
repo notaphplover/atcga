@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon."
+      },
+      "name": {
+        "en": "Taunt"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance)."

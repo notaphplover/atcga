@@ -3,7 +3,10 @@
   "abilityName": "しんかいのめぐみ",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Shuffle 3 cards from your discard pile into your deck.",
+        "fr": "Mélangez 3 cartes de votre pile de défausse avec votre deck.",
+        "de": "Mische 3 Karten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia tre carte dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 3 cartas de tu pila de descartes en tu baraja y baraja todas las cartas."
+      },
+      "name": {
+        "en": "Dream of Memories",
+        "fr": "Retour en Arrière",
+        "de": "Traum der Erinnerungen",
+        "it": "Reminiscenze Oniriche",
+        "es": "Sueño de Memorias"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Both Active Pokémon are now Asleep.",

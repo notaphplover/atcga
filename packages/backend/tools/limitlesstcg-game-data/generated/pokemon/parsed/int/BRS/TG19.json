@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {
@@ -14,7 +18,12 @@
       }
     },
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "270",
       "effect": {
         "en": "Discard all Energy from this Pokémon. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",

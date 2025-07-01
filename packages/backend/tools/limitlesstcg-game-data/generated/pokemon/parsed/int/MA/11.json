@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "This attack's damage is not affected by Resistance."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Confused."

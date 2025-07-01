@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a [W] Pokémon from your discard pile onto your Bench. If you do, attach up to 3 [W] Energy cards from your discard pile to that Pokémon.",
+        "fr": "Placez un Pokémon [W] de votre pile de défausse sur votre Banc. Dans ce cas, attachez jusqu'à 3 cartes Énergie [W] de votre pile de défausse à ce Pokémon-là.",
+        "de": "Lege 1 [W]-Pokémon aus deinem Ablagestapel auf deine Bank. Wenn du das machst, lege bis zu 3 [W]-Energiekarten aus deinem Ablagestapel an jenes Pokémon an.",
+        "it": "Prendi un Pokémon [W] dalla tua pila degli scarti e mettilo nella tua panchina. Se lo fai, assegna a quel Pokémon fino a tre carte Energia [W] dalla tua pila degli scarti.",
+        "pt": "Coloque um Pokémon [W] da sua pilha de descarte no seu Banco. Se fizer isto, ligue até 3 cartas de Energia [W] da sua pilha de descarte àquele Pokémon.",
+        "es": "Pon 1 Pokémon [W] de tu pila de descartes en tu Banca. Si lo haces, une hasta 3 cartas de Energía [W] de tu pila de descartes a ese Pokémon."
+      },
+      "name": {
+        "en": "Bubble Pod",
+        "fr": "Bulle Capsule",
+        "de": "Blubbkapsel",
+        "it": "Bollacapsula",
+        "pt": "Cápsula de Bolha",
+        "es": "Cápsula Burbuja"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage.",

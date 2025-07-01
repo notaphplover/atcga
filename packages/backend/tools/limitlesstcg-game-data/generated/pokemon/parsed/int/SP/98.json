@@ -3,7 +3,10 @@
   "abilityName": "Dark Asset",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

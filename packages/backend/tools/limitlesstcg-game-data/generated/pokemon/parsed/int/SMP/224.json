@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 Pokémon-GX with different names, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "Call for Greatness"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now paralyzed."

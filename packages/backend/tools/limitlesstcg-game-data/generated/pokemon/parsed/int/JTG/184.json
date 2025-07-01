@@ -3,7 +3,10 @@
   "abilityName": "Fairy Zone",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
@@ -20,6 +23,14 @@
         "it": "Rondò Luna Piena",
         "pt": "Cântico da Lua Cheia",
         "es": "Rondó Luna Llena"
+      }
+    },
+    {
+      "effect": {
+        "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc (les vôtres et ceux de votre adversaire)."
+      },
+      "name": {
+        "fr": "Rondo Pleine Lune"
       }
     }
   ],

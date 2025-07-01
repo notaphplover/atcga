@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Choose 3 of your opponent's Benched Pokémon. If you do, shuffle all of your opponent's Benched Pokémon that you didn't choose, and all cards attached to those Pokémon, into their deck.",
+        "fr": "Choisissez 3 des Pokémon de Banc de votre adversaire. Dans ce cas, mélangez avec son deck tous les Pokémon de Banc de votre adversaire que vous n'avez pas choisis et toutes les cartes qui leur sont attachées.",
+        "de": "Wähle 3 Pokémon auf der Bank deines Gegners. Wenn du das machst, mische alle Pokémon auf der Bank deines Gegners, die du nicht gewählt hast, und alle an jene Pokémon angelegten Karten in sein Deck.",
+        "it": "Scegli tre dei Pokémon nella panchina del tuo avversario. Se lo fai, rimischia i Pokémon nella panchina del tuo avversario che non hai scelto e tutte le carte a essi assegnate nel suo mazzo.",
+        "pt": "Escolha 3 dos Pokémon no Banco do seu oponente. Se fizer isto, embaralhe todos os Pokémon no Banco do seu oponente que você não escolheu, e todas as cartas ligadas àqueles Pokémon, de volta no baralho dele.",
+        "es": "Elige 3 de los Pokémon en Banca de tu rival. Si lo haces, pon todos los Pokémon en Banca de tu rival que no hayas elegido y todas las cartas unidas a ellos en su baraja, y barájalas todas."
+      },
+      "name": {
+        "en": "Expelling Tornado",
+        "fr": "Tornade Expulsante",
+        "de": "Verstoßender Tornado",
+        "it": "Scacciatornado",
+        "pt": "Tornado Repulsor",
+        "es": "Tornado Expulsor"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Put an Energy attached to this Pokémon into your hand.",

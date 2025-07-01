@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach a [R] Energy card from your discard pile to this Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon V, this attack does 100 more damage.",

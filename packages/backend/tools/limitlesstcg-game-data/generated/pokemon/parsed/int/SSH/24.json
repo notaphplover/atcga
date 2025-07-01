@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "Discard the top card of your deck. If that card is a [R] Energy card, this attack does 90 more damage.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard 2 Energy from your opponent's Active Pokémon.",

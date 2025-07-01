@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Confused."
       },
       "name": {
         "en": "Confuse Ray"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on 1 of your opponent's Pokémon. You may shuffle Gengar GL and all cards attached to it back into your deck."
+      },
+      "name": {
+        "en": "Attack and Hide"
       }
     }
   ],

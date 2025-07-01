@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage times the number of Energy attached to Starmie and the Defending Pokémon."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to 1 of your Pokémon."

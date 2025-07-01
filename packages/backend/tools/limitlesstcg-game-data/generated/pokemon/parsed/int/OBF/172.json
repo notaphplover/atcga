@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

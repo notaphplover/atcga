@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gw",
+      "cost": [
+        "g",
+        "w"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon. If you discarded a Pokémon Tool in this way, this attack does 120 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "gww",
+      "cost": [
+        "g",
+        "w",
+        "w"
+      ],
       "dmg": "210",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Dragon Strike.",

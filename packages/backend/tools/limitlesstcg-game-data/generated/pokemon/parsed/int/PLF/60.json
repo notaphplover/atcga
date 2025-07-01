@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage times the number of heads.",
@@ -19,7 +22,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "80-",
       "effect": {
         "en": "Does 80 damage minus 10 damage for each damage counter on this Pokémon.",

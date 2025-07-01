@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

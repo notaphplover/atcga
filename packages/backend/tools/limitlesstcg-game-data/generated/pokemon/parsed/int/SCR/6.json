@@ -3,7 +3,9 @@
   "abilityName": "Selective Slime",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "100×",
       "effect": {
         "en": "This attack does 100 damage for each Special Condition affecting your opponent's Active Pokémon.",

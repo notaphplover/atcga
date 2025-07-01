@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck. If you played Giovanni's Exile from your hand during this turn, discard the top 5 cards instead.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire. Si vous avez joué Exil de Giovanni de votre main pendant ce tour, défaussez les 5 cartes du dessus de son deck à la place.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel. Wenn du Giovannis Exil während dieses Zuges aus deiner Hand gespielt hast, lege stattdessen die obersten 5 Karten auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario. Se hai giocato Esilio di Giovanni dalla tua mano durante questo turno, invece, scarta le prime cinque carte.",
+        "es": "Descarta la primera carta de la baraja de tu rival. Si has jugado 1 carta de Exilio de Giovanni de tu mano durante este turno, descarta las 5 primeras cartas."
+      },
+      "name": {
+        "en": "Dirty Work",
+        "fr": "Sale Boulot",
+        "de": "Drecksarbeit",
+        "it": "Lavoro Sporco",
+        "es": "Trabajo Sucio"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

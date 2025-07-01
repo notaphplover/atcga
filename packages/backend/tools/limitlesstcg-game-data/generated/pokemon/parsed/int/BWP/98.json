@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may have your opponent reveal his or her hand.",
   "abilityName": "Psyscan",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw 6 cards."
+      },
+      "name": {
+        "en": "Psychic Exchange"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

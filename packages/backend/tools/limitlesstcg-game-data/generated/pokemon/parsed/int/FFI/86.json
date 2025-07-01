@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 60 more damage.",

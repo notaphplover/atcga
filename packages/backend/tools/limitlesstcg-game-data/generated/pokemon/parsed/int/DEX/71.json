@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the number of [D] Pokémon you have in play.",
@@ -17,7 +20,10 @@
       }
     },
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the number of damage counters on this Pokémon.",

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire dévoile sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano.",
+        "es": "Tu rival enseña las cartas de su mano."
+      },
+      "name": {
+        "en": "Scout",
+        "fr": "Espionnage",
+        "de": "Späher",
+        "it": "Esplorazione",
+        "es": "Explorar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This Pokémon does 10 damage to itself.",

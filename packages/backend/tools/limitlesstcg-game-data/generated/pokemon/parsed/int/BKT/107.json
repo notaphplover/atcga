@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each different type of Pokémon on your Bench.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "yycc",
+      "cost": [
+        "y",
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If this Pokémon was healed during this turn, this attack does 80 more damage.",

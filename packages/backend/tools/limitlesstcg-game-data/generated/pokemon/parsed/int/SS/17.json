@@ -3,7 +3,10 @@
   "abilityName": "Chaos Flash",
   "attacks": [
     {
-      "cost": "wp",
+      "cost": [
+        "w",
+        "p"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 40 more damage."

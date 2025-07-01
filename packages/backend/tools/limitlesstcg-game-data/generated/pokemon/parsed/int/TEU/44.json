@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Electropower cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 2 cartes Électropuissance dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Elektrokraft-Karten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte Potenziatore Elettrico, mostrale e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 cartas de Electropoder, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Delivery Dash",
+        "fr": "Livraison Précipitée",
+        "de": "Blitzlieferung",
+        "it": "Pronta Consegna",
+        "es": "Entrega Veloz"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Envenenado.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Spit Poison",
+        "fr": "Crache-Venin",
+        "de": "Giftspucke",
+        "it": "Sputaveleno",
+        "pt": "Cuspe Venenoso",
+        "es": "Escupir Veneno"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "You may discard as many Basic Energy cards as you like from your hand. This attack does 40 damage for each type of Basic Energy you discarded in this way.",

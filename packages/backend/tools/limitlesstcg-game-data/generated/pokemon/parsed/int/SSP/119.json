@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard the top 3 cards of your opponent's deck.",
@@ -21,7 +24,12 @@
       }
     },
     {
-      "cost": "pdmc",
+      "cost": [
+        "p",
+        "d",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack also does 130 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

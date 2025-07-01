@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon that have an Ability.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

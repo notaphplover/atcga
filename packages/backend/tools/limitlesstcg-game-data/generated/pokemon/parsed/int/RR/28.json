@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [],
+      "effect": {
+        "en": "Flip 3 coins. Remove a number of damage counters equal to the number of heads from your Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Magic Heal"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Mr. Mime E4 by attacks is reduced by 10 (after applying Weakness and Resistance)."

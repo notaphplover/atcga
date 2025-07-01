@@ -3,7 +3,23 @@
   "abilityName": "Dark Trance",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "w",
+        "l"
+      ],
+      "effect": {
+        "en": "Does 30 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Wing Attack"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

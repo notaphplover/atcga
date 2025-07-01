@@ -1,11 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Pound"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Discard a [G] Energy card attached to Grimer. The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Spurt"
       }
     }
   ],

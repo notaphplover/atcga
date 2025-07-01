@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon has no Weakness.",
@@ -19,7 +23,13 @@
       }
     },
     {
-      "cost": "mcccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

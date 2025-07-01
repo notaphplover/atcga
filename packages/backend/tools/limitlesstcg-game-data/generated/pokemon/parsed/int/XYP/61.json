@@ -3,7 +3,12 @@
   "abilityName": "Voice of the Sands",
   "attacks": [
     {
-      "cost": "gffc",
+      "cost": [
+        "g",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads."

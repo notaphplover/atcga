@@ -1,7 +1,25 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may switch 1 of your face-down Prize cards with the top card of your deck. This power can't be used if Rotom is affected by a Special Condition.",
   "abilityName": "Mischievous Trick",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 20 damage for each Energy attached to that Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+        "fr": "Choisissez l'un des Pokémon de votre adversaire. Cette attaque inflige 20 dégâts pour chaque carte Énergie attachée à ce Pokémon. Les dégâts infligés par cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "de": "Wähle 1 Pokémon deines Gegners. Dieser Angriff fügt 20 Schadenspunkte für jede an das gewählte Pokémon angelegte Energie zu. Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert.",
+        "it": "Scegli 1 dei Pokémon del tuo avversario. Questo attacco infligge 20 danni per ogni Energia assegnata a quel Pokémon. Il danno di questo attacco non è influenzato da Debolezza o Resistenza."
+      },
+      "name": {
+        "en": "Plasma Arrow",
+        "fr": "Flèche plasma",
+        "de": "Plasmapfeil",
+        "it": "Plasmafreccia"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

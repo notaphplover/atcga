@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Pour chaque côté face, défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Wirf so lange 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Lege pro Kopf die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta la prima carta del mazzo del tuo avversario.",
+        "pt": "Jogue 1 moeda até sair coroa. Para cada cara, descarte a carta de cima do baralho do seu oponente.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Deck Distiller",
+        "fr": "Distillateur de Deck",
+        "de": "Deck-Destillateur",
+        "it": "Distillamazzo",
+        "pt": "Destilador de Baralho",
+        "es": "Alambique de Barajas"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

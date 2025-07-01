@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for a card that evolves from Cascoon and put it onto Cascoon. (This counts as evolving Cascoon.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Ascension"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

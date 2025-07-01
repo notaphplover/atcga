@@ -1,5 +1,46 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 40 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 40 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, i danni inflitti a questo Pokémon dagli attacchi sono ridotti di 40, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, cualquier daño hecho a este Pokémon por ataques se reduce en 40 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Reflect",
+        "fr": "Protection",
+        "de": "Reflektor",
+        "it": "Riflesso",
+        "es": "Reflejo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+        "fr": "Inflige 50 dégâts à 1 des Pokémon de votre adversaire. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu. Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert.",
+        "it": "Infligge 50 danni a un Pokémon del tuo avversario. Il danno di questo attacco non è influenzato dalla debolezza o dalla resistenza.",
+        "es": "Hace 50 puntos de daño a 1 de los Pokémon de tu rival. El daño de este ataque no se ve afectado por Debilidad o Resistencia."
+      },
+      "name": {
+        "en": "Telekinesis",
+        "fr": "Lévikinésie",
+        "de": "Telekinese",
+        "it": "Telecinesi",
+        "es": "Telequinesis"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

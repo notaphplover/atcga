@@ -3,7 +3,21 @@
   "abilityName": "Mirror Coat",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Each Defending Pokémon is now Confused."
+      },
+      "name": {
+        "en": "Dazzle Dance"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 30 more damage for each Trainer card your opponent has in play."

@@ -3,7 +3,11 @@
   "abilityName": "Direflame Wings",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

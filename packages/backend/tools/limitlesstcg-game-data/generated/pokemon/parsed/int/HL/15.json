@@ -3,7 +3,11 @@
   "abilityName": "Crush Draw",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon used Full Nelson during your last turn, this attack does 120 more damage.",

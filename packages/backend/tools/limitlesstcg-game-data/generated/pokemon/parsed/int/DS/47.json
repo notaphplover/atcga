@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 3 damage counters from Kirlia."
+      },
+      "name": {
+        "en": "Calm Mind"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokémon."

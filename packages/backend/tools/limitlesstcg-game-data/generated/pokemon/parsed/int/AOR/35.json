@@ -3,7 +3,12 @@
   "abilityName": "Double Type",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself.",

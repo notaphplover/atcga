@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for 2 Pokémon with [F] Resistance, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez dans votre deck 2 Pokémon avec une Résistance à [F], montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 2 Pokémon mit [F]-Resistenz, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo due Pokémon con resistenza [F], mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja a 2 Pokémon con Resistencia a [F], enséñalos y ponlos en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Chirp",
+        "fr": "Gazouillis",
+        "de": "Zwitscherer",
+        "it": "Cinguettio",
+        "es": "Gorjeo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

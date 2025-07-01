@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to each of your opponent's Pokémon that has any Poké-Bodies. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Nose Unit"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Probopass G's Retreat Cost is 0 until the end of your next turn."

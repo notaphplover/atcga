@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip 2 coins. This attack does 60 damage times the number of heads.",
@@ -17,7 +20,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 20 damage plus 60 more damage. Discard that Stadium card.",

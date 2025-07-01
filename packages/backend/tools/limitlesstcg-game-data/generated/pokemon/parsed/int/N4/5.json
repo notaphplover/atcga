@@ -3,7 +3,11 @@
   "abilityName": "Scare",
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those cards and discard it."

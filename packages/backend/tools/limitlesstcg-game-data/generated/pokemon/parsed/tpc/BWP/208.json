@@ -3,7 +3,11 @@
   "abilityName": "プラズマトランス",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "jp": "コインを3回投げ、オモテの数x50ダメージ。"

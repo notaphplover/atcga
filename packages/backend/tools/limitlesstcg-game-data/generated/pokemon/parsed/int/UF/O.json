@@ -3,7 +3,10 @@
   "abilityName": "Shuffle",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Return Unown and all Energy cards attached to it to your hand."

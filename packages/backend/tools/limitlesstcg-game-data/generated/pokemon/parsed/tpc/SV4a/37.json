@@ -3,7 +3,10 @@
   "abilityName": "へんなこうどう",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

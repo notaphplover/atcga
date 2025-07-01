@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your hand to 1 of your TAG TEAM Pokémon.",
+        "fr": "Attachez une carte Énergie de votre main à l'un de vos Pokémon ESCOUADE.",
+        "de": "Lege 1 Energiekarte aus deiner Hand an 1 deiner TAG TEAM Pokémon an.",
+        "it": "Assegna una carta Energia dalla tua mano a uno dei tuoi Pokémon ALLEATI.",
+        "es": "Une 1 carta de Energía de tu mano a 1 de tus Pokémon de equipo de RELEVOS."
+      },
+      "name": {
+        "en": "Tag Cheer",
+        "fr": "Éloges d'Escouade",
+        "de": "Team-Jubel",
+        "it": "Incitamento Alleato",
+        "es": "Animación Relevo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",

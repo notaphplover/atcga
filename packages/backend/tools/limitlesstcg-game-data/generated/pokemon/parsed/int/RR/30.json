@@ -3,7 +3,9 @@
   "abilityName": "Maternal Comfort",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 10 more damage for each of your opponent's Benched Pokémon."

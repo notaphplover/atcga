@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Does 10 damage to each of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Super Icy Wind"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Counterattack",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

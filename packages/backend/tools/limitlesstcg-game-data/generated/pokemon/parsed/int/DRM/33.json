@@ -3,7 +3,11 @@
   "abilityName": "Weed Out",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "You may discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 20 more damage for each of your remaining Prize cards.",

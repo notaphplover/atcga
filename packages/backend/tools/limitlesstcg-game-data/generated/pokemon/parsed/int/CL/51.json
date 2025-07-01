@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Seviper is now Poisoned.",
+        "fr": "Seviper est maintenant Empoisonné.",
+        "de": "Vipitis ist jetzt vergiftet.",
+        "it": "Seviper è Avvelenato."
+      },
+      "name": {
+        "en": "Poison Buildup",
+        "fr": "Empoisonnement",
+        "de": "Giftansammlung",
+        "it": "Velenaccumulo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Seviper is Poisoned, this attack does 20 damage plus 60 more damage and remove the Special Condition Poisoned from Seviper.",

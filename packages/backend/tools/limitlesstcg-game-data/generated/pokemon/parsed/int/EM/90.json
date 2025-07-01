@@ -3,7 +3,9 @@
   "abilityName": "Mist",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "wlc",
+      "cost": [
+        "w",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."

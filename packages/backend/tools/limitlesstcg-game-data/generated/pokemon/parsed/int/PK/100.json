@@ -3,7 +3,11 @@
   "abilityName": "Crimson Ray",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard a [R] Energy attached to Flareon Star."

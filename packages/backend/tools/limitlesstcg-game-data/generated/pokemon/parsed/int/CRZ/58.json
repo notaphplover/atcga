@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each Energy attached to all of your Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

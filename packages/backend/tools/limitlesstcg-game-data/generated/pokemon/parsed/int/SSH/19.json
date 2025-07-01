@@ -3,7 +3,10 @@
   "abilityName": "Bug's Radar",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "This attack does 30 more damage for each [P] Energy attached to this Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 20 more damage.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Put 3 damage counters on 1 of your Pokémon.",

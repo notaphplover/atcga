@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",
@@ -34,6 +43,22 @@
         "de": "Knirscher",
         "it": "Sgranocchio",
         "es": "Triturar"
+      }
+    },
+    {
+      "cost": [],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif. Le nouveau Pokémon Actif est maintenant Brûlé, Empoisonné et Paralysé. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus. Das neue Aktive Pokémon ist jetzt verbrannt, paralysiert und vergiftet. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Il nuovo Pokémon attivo viene bruciato, paralizzato e avvelenato. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Tri Hazard-GX",
+        "fr": "Triple Danger-GX",
+        "de": "Dreifachgefahr-GX",
+        "it": "Triplo Rischio-GX",
+        "es": "Triple Riesgo-GX"
       }
     }
   ],

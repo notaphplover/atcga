@@ -3,7 +3,12 @@
   "abilityName": "じゅひょうのめぐみ",
   "attacks": [
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

@@ -3,7 +3,10 @@
   "abilityName": "Gold Coffin",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Put 5 damage counters on your opponent's Benched Pokémon in any way you like.",

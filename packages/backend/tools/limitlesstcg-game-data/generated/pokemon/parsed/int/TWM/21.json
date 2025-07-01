@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put a Basic [G] Energy card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Énergie [G] de base de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Basis-[G]-Energiekarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Energia base [G] dalla tua pila degli scarti e aggiungila alle carte che hai in mano.",
+        "pt": "Coloque uma carta de Energia [G] Básica da sua pilha de descarte na sua mão.",
+        "es": "Pon 1 carta de Energía [G] Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Tea Server",
+        "fr": "Serveur de Thé",
+        "de": "Teeservice",
+        "it": "Servitè",
+        "pt": "Serviço de Chá",
+        "es": "Servir el Té"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

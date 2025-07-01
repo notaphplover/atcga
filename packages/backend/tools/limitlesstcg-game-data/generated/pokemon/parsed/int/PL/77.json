@@ -1,5 +1,27 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 in any combination of Stadium cards or Trainer cards that has Team Galactic's Invention in its name, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Honcho's Command"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. If that Pokémon already has any damage counters on it, this attack does 20 damage plus 20 more damage. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Target Attack"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

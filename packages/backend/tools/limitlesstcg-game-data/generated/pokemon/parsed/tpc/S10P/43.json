@@ -3,7 +3,10 @@
   "abilityName": "キャリークライム",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

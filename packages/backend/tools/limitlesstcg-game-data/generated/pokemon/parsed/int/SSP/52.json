@@ -3,7 +3,10 @@
   "abilityName": "Up-Tempo",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

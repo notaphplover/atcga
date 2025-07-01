@@ -3,7 +3,10 @@
   "abilityName": "Vase Body",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

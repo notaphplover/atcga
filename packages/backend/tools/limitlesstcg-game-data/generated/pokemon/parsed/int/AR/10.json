@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Tangrowth by attacks is reduced by 20 (after applying Weakness and Resistance)."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Before doing damage, count the remaining HP of the Defending Pokémon and Tangrowth. If the Defending Pokémon has fewer remaining HP than Tangrowth's, this attack does 120 damage instead."

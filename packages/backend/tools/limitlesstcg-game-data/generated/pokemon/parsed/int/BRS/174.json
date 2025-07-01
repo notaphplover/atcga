@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "130+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "320",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)",

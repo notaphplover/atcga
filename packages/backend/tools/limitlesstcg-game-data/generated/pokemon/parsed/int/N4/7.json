@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent's Bench isn't full, look at his or her hand. If your opponent has any Baby Pokémon or Basic Pokémon there, choose 1 of them and put it on his or her Bench. Then, switch it with the Defending Pokémon."
+      },
+      "name": {
+        "en": "Eerie Howl"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If there are any [D] Energy cards attached to Dark Houndoom, discard 1 of them and this attack does 30 damage plus 20 more damage (plus 10 more damage for the [D] Energy you discarded). If there aren't any, this attack does 30 damage."

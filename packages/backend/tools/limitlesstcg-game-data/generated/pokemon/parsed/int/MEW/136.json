@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 90 more damage.",

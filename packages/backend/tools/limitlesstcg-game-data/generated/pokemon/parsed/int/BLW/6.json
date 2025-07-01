@@ -3,7 +3,10 @@
   "abilityName": "Royal Heal",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Move as many [G] Energy attached to your Pokémon to your other Pokémon in any way you like.",

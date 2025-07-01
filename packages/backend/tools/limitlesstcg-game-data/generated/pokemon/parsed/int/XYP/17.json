@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for M Charizard-EX, reveal it, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Mega Ascension"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 30 damage to itself."

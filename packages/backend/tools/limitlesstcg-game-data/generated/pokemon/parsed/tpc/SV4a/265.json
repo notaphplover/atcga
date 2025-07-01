@@ -1,7 +1,20 @@
 {
   "abilityEffect": "このポケモンは、相手の「ポケモンex・V」からワザのダメージを受けない。",
   "abilityName": "しんぴのまもり",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "jp": "相手のバトルポケモンに、ダメカンを7個のせる。"
+      },
+      "name": {
+        "jp": "ゴーストアイ"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

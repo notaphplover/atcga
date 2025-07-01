@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 4 Pokémon and discard them. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 4 Pokémon dans votre deck et défaussez-les. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 4 Pokémon und lege sie auf deinen Ablagestapel. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a quattro Pokémon e scartali. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 4 Pokémon y descártalos. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Spirit Compressor",
+        "fr": "Réducteur d'Âmes",
+        "de": "Seelenkompressor",
+        "it": "Compressore Spirituale",
+        "es": "Compresor de Espíritus"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

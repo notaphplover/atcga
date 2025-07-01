@@ -3,7 +3,11 @@
   "abilityName": "Sap Sipper",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard a Special Energy attached to your opponent's Active Pokémon.",

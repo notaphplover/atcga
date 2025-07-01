@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",

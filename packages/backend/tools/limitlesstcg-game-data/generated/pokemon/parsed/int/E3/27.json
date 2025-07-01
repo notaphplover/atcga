@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to each Pokémon with a Poké-Body or Poké-Power (yours and your opponent's). (Don't apply Weakness or Resistance.)"
+      },
+      "name": {
+        "en": "Zzzap"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, put 2 damage counters on Raichu."

@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose a Supporter card from your opponent's discard pile and use the effect of that card as the effect of this attack.",
+        "fr": "Choisissez une carte Supporter de la pile de défausse de votre adversaire et utilisez l'effet de cette carte en tant qu’effet de cette attaque.",
+        "de": "Wähle 1 Unterstützerkarte aus dem Ablagestapel deines Gegners und setze den Effekt jener Karte als Effekt dieser Attacke ein.",
+        "it": "Scegli una carta Aiuto dalla pila degli scarti del tuo avversario e usa l'effetto di quella carta come effetto di questo attacco.",
+        "pt": "Escolha 1 carta de Apoiador da pilha de descarte do seu oponente e use o efeito daquela carta como o efeito deste ataque.",
+        "es": "Elige 1 carta de Partidario de la pila de descartes de tu rival y usa el efecto de esa carta como efecto de este ataque."
+      },
+      "name": {
+        "en": "Primate Acting",
+        "fr": "Conduite Primate",
+        "de": "Primaten-Show",
+        "it": "Messinscena del Primate",
+        "pt": "Atuação Primata",
+        "es": "Actuación Primate"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

@@ -3,7 +3,23 @@
   "abilityName": "Blissful Support",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 3 Energy cards from your discard pile to Blissey ex."
+      },
+      "name": {
+        "en": "Energy Absorption"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

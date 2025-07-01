@@ -3,7 +3,10 @@
   "abilityName": "Eye of Disaster",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Choose 1 Pokémon from your hand and put it in the Lost Zone. (If you can't put a Pokémon in the Lost Zone, this attack does nothing.)",

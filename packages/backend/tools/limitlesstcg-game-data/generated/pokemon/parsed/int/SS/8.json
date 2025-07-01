@@ -3,7 +3,21 @@
   "abilityName": "Lunar Eclipse",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+      },
+      "name": {
+        "en": "Cosmic Draw"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

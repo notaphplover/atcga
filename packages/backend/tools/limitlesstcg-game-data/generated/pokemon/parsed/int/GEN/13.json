@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard a [R] Energy card from your hand. If you do, draw 3 cards.",
+        "fr": "Défaussez une carte Énergie [R] de votre main. Dans ce cas, piochez 3 cartes.",
+        "de": "Lege 1 [R]-Energie aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 3 Karten.",
+        "it": "Lancia una moneta. Se esce croce, scarta un'Energia [R] assegnata a questo Pokémon.",
+        "es": "Descarta 1 carta de Energía [R] de tu mano. Si lo haces, roba 3 cartas."
+      },
+      "name": {
+        "en": "Flare Bonus",
+        "fr": "Fulmi-Bonus",
+        "de": "Flammenbonus",
+        "it": "Fuocobomba",
+        "es": "Bonus de Llama"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Flip a coin. If tails, discard a [R] Energy attached to this Pokémon.",

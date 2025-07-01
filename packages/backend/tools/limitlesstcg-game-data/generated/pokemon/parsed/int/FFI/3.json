@@ -3,7 +3,11 @@
   "abilityName": "Wafting Scent",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

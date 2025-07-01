@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to this Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "gpm",
+      "cost": [
+        "g",
+        "p",
+        "m"
+      ],
       "dmg": "150+",
       "effect": {
         "en": "If your opponent has any Pokémon VMAX in play, this attack does 150 more damage.",

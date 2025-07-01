@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Burned."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard a [R] Energy card attached to Flareon."

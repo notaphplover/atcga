@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your deck for a [R] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Put all Energy attached to this Pokémon into your hand.",

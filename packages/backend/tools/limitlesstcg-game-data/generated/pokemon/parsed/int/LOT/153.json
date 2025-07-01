@@ -3,7 +3,11 @@
   "abilityName": "Happiness Supplement",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads.",

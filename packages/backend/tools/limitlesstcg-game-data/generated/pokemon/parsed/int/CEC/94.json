@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Put 4 damage counters on 1 of your Pokémon.",

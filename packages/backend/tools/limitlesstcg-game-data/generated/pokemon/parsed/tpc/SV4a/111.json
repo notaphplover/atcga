@@ -3,7 +3,10 @@
   "abilityName": "ダストフィールド",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "140",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

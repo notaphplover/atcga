@@ -1,7 +1,37 @@
 {
   "attacks": [
     {
-      "cost": "rrrrr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "You may search your deck for a [R] Energy card and attach it to Ho-Oh. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Stoke"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. Don't apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Sacred Fire"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

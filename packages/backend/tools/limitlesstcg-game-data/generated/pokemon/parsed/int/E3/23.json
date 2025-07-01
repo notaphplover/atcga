@@ -3,7 +3,11 @@
   "abilityName": "Primal Stare",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

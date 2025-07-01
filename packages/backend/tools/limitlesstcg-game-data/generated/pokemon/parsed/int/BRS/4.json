@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "130",
       "effect": {
         "en": "You can use this attack only if this Pokémon used Spore Ball during your last turn.",

@@ -3,7 +3,11 @@
   "abilityName": "Miracle Aroma",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, remove 4 damage counters from Venusaur."

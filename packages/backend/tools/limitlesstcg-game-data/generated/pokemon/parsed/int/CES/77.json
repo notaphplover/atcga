@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If this Pokémon's remaining HP is 30 or less, this attack does 160 more damage.",
@@ -19,7 +22,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

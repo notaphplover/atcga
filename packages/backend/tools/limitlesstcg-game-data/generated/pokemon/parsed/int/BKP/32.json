@@ -3,7 +3,10 @@
   "abilityName": "Aqua Tube",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from each of your Benched Pokémon.",

@@ -3,7 +3,12 @@
   "abilityName": "エレキストリーマー",
   "attacks": [
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

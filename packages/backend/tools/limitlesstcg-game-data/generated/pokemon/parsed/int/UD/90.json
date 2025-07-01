@@ -3,7 +3,12 @@
   "abilityName": "Space Virus",
   "attacks": [
     {
-      "cost": "rrlc",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard all [R] Energy attached to Rayquaza & Deoxys LEGEND.",
@@ -17,6 +22,14 @@
         "de": "Ozonsprenger",
         "it": "Ozono Bomba"
       }
+    },
+    {
+      "effect": {
+        "fr": "Placez cette carte sur votre Banc uniquement avec l'autre moitié de Rayquaza & Deoxys LÉGENDE.",
+        "de": "Lege diese Karte von deiner Hand auf deine Bank, ABER NUR zusammen mit der anderen Hälfte von Rayquaza & Deoxys-LEGENDE.",
+        "it": "Metti questa carta nella tua Panchina solo con l'altra metà di Rayquaza & Deoxys LEGGENDA."
+      },
+      "name": {}
     }
   ],
   "cardType": "pokemon",

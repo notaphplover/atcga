@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Freezing Breath"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, Swinub does 10 damage to itself."

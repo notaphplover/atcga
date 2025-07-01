@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Nuzzle"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte des Decks deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario.",
+        "pt": "Descarte a carta de cima do baralho do seu oponente.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Nicked Nibble",
+        "fr": "Bouchée Dérobée",
+        "de": "Anknabbern",
+        "it": "Sgraffigna Boccone",
+        "pt": "Lambiscar",
+        "es": "Mordisquito a Hurtadillas"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

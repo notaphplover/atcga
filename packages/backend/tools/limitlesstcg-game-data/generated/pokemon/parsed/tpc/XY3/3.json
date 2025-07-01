@@ -3,7 +3,11 @@
   "abilityName": "ただようかおり",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

@@ -3,7 +3,11 @@
   "abilityName": "Glaciated World",
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "You may discard any amount of [W] Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way.",

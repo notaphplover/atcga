@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "High Hat"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

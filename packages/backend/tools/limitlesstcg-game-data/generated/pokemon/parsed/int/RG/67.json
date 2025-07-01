@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."
       },
       "name": {
         "en": "Surprise Attack"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card that evolves from Magikarp and put it on Magikarp. (This counts as evolving Magikarp.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Ascension"
       }
     }
   ],

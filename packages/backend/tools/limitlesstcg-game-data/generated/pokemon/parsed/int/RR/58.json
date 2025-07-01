@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack or retreat during your opponent's next turn."
+      },
+      "name": {
+        "en": "Scary Face"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."

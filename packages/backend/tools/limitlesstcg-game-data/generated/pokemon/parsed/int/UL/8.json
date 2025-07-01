@@ -3,7 +3,10 @@
   "abilityName": "Celebration Wind",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Remove 3 damage counters from each of your Pokémon that has any Energy attached to it.",

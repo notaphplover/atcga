@@ -3,7 +3,11 @@
   "abilityName": "バイタルエール",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "分のポケモン全員のHPを、それぞれ「30」回復する。"

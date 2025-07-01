@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard 1 [W] Energy card attached to Corsola or this attack does nothing. Remove all damage counters from Corsola."
+      },
+      "name": {
+        "en": "Recover"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads."

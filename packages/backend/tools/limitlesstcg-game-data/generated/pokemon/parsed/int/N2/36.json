@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance. Then, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon."
+      },
+      "name": {
+        "en": "Shockwave"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."

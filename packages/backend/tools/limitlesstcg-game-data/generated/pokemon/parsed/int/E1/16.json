@@ -3,7 +3,12 @@
   "abilityName": "Terraforming",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Count the number of Pokémon you have in play with damage counters on them. Flip a coin. If heads, this attack does 50 damage plus 10 more damage for each of those Pokémon."

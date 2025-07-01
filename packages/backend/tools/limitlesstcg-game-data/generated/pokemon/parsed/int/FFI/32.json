@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 basic Energy cards from your discard pile into your hand.",
+        "fr": "Prenez 2 cartes Énergie de base dans votre pile de défausse et ajoutez-les à votre main.",
+        "de": "Nimm 2 Basis-Energiekarten von deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi due carte Energia base dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "es": "Pon 2 cartas de Energía Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Negative Discard",
+        "fr": "Défausse Négative",
+        "de": "Negative Ablage",
+        "it": "Scarto Negativo",
+        "es": "Descarte Negativo"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

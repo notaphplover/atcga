@@ -3,7 +3,12 @@
   "abilityName": "にどね",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "jp": "このポケモンをねむりにする。このポケモンのHPを「20」回復する。"

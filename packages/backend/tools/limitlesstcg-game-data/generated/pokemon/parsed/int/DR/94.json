@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, search your discard pile for a basic Energy card and attach it to Latios ex."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "glc",
+      "cost": [
+        "g",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 3 Energy attached to Latios ex."

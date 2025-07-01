@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné. Placez 4 marqueurs de dégât au lieu d'un seul sur ce Pokémon entre deux tours.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet. Lege zwischen den Zügen 4 Schadensmarken anstelle von 1 Schadensmarke auf das Pokémon.",
+        "it": "Il Pokémon Difensore è Avvelenato. Tra un turno e l'altro, metti 4 segnalini danno invece di 1 su quel Pokémon.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado. Pon 4 contadores de daño en lugar 1 en ese Pokémon entre turnos."
+      },
+      "name": {
+        "en": "Severe Poison",
+        "fr": "Poison violent",
+        "de": "Pures Gift",
+        "it": "Maloveleno",
+        "es": "Veneno grave"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Choisissez l'un des Pokémon de votre adversaire. Cette attaque inflige 30 dégâts à ce Pokémon. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wähle 1 Pokémon deines Gegners. Dieser Angriff fügt dem gewählten Pokémon 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Scegli 1 dei Pokémon del tuo avversario. Questo attacco infligge 30 danni al Pokémon scelto. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina).",
+        "es": "Elige 1 de los Pokémon de tu rival. Este ataque hace 30 puntos de daño a ese Pokémon. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Skill Dive",
+        "fr": "Plongeon contrôlé",
+        "de": "Geübter Sturzflug",
+        "it": "Agiltuffo",
+        "es": "Técnica de buceo"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

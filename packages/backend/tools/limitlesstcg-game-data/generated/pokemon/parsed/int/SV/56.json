@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon SP, this attack's base damage is 80 instead of 20."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Put this Pokémon and all attached cards in the Lost Zone.",

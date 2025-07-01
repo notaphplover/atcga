@@ -3,7 +3,11 @@
   "abilityName": "Stance Change",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Discard 2 [M] Energy from this Pokémon.",

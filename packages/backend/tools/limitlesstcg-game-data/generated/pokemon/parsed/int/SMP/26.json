@@ -3,7 +3,11 @@
   "abilityName": "Queenly Majesty",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Heal 20 damage and remove all Special Conditions from this Pokémon.",

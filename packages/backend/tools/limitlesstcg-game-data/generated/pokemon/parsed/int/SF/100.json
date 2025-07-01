@@ -3,7 +3,12 @@
   "abilityName": "Sacrifice",
   "attacks": [
     {
-      "cost": "wfmc",
+      "cost": [
+        "w",
+        "f",
+        "m",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard the top card from your opponent's deck. Then, choose 1 card from your opponent's hand without looking and discard it. Regigigas can't use Giga Blaster during your next turn."

@@ -3,7 +3,10 @@
   "abilityName": "Wish Connector",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Both Active Pokémon are now Asleep."

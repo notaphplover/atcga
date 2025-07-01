@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You may attach any number of Basic [M] Energy cards from your hand to your Pokémon in any way you like.",
+        "fr": "Vous pouvez attacher le nombre voulu de cartes Énergie [M] de base de votre main à vos Pokémon comme il vous plaît.",
+        "de": "Du kannst beliebig viele Basis-[M]-Energiekarten aus deiner Hand beliebig an deine Pokémon anlegen.",
+        "it": "Puoi assegnare ai tuoi Pokémon un numero qualsiasi di carte Energia base [M] dalla tua mano nel modo che preferisci.",
+        "pt": "Você pode ligar qualquer número de cartas de Energia [M] Básica da sua mão aos seus Pokémon como desejar.",
+        "es": "Puedes unir cualquier cantidad de cartas de Energía [M] Básica de tu mano a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Lavish Hospitality",
+        "fr": "Hospitalité Prodigue",
+        "de": "Großzügige Gastfreundschaft",
+        "it": "Ospitalità Sfarzosa",
+        "pt": "Hospitalidade Luxuosa",
+        "es": "Hospitalidad Fastuosa"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 80 damage for each heads.",

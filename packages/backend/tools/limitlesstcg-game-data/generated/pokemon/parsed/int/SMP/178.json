@@ -3,13 +3,29 @@
   "abilityName": "Hard Coat",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of [M] Energy attached to this Pokémon."
       },
       "name": {
         "en": "Metal Blast"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Attach any number of [M] Energy cards from your discard pile to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Iron Force-GX"
       }
     }
   ],

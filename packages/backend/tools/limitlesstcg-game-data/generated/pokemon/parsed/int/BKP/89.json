@@ -1,5 +1,26 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 10.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Actif de votre adversaire jusqu'à ce qu'il ait 10 PV.",
+        "de": "Lege so lang Schadensmarken auf das Aktive Pokémon deines Gegners, bis es noch 10 KP übrig hat.",
+        "it": "Metti dei segnalini danno sul Pokémon attivo del tuo avversario finché i suoi PS rimanenti diventano 10.",
+        "es": "Pon contadores de daño en el Pokémon Activo de tu rival hasta que le queden 10 PS restantes."
+      },
+      "name": {
+        "en": "Super Fang",
+        "fr": "Croc Fatal",
+        "de": "Superzahn",
+        "it": "Superzanna",
+        "es": "Superdiente"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 110,
   "imageUrls": {

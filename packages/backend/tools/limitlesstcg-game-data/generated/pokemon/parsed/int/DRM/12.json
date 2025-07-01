@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 3 coins. This attack does 10 damage for each heads.",

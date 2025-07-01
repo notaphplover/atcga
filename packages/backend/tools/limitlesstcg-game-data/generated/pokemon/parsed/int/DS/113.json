@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many [M] Energy cards and attach them to Metagross Star."
@@ -11,7 +13,13 @@
       }
     },
     {
-      "cost": "mmmcc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."

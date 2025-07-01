@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 [R] Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 3 cartes Énergie [R] dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 3 [R]-Energiekarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a tre carte Energia [R], mostrale e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 3 cartas de Energía [R], enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Find Wildfire",
+        "fr": "Traqueur de Feu de Forêt",
+        "de": "Lauffeuer finden",
+        "it": "Trovaincendio",
+        "es": "Encontrar Foco Fuego"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Discard all [R] Energy from this Pokémon.",

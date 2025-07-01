@@ -1,5 +1,46 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ schläft das Aktive Pokémon deines Gegners jetzt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene addormentato.",
+        "es": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Sing",
+        "fr": "Berceuse",
+        "de": "Gesang",
+        "it": "Canto",
+        "es": "Canto"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "fr": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "de": "Wähle 1 Angriff des Aktiven Pokémon deines Gegners und verwende ihn als diesen Angriff.",
+        "it": "Scegli uno degli attacchi del Pokémon attivo del tuo avversario e usalo al posto di questo attacco.",
+        "es": "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+      },
+      "name": {
+        "en": "Metronome",
+        "fr": "Métronome",
+        "de": "Metronom",
+        "it": "Metronomo",
+        "es": "Metrónomo"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

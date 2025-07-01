@@ -3,7 +3,10 @@
   "abilityName": "はっぱヒール",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Extreme Speed",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "You may discard any number of [R] Energy cards attached to Arcanine when you use this attack. If you do, flip a number of coins equal to the number of [R] Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."

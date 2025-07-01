@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180-",
       "effect": {
         "en": "This attack does 20 less damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",

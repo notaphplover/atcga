@@ -3,11 +3,26 @@
   "abilityName": "Burning Mane",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
         "en": "Rear Kick"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
+      "effect": {
+        "en": "Discard 2 [R] Energy attached to Rapidash and choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Shooting Fire"
       }
     }
   ],

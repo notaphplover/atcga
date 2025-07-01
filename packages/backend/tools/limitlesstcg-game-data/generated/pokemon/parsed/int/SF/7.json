@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "20×",
       "effect": {
         "en": "Choose up to 4 in any combination of Pokémon Tool cards and Technical Machine cards in play (both yours and your opponent's) and discard them. This attack does 20 damage times the number of cards discarded in this way."
@@ -11,7 +11,10 @@
       }
     },
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If your opponent has 4 or more Benched Pokémon, choose 1 of them and return that Pokémon and all cards attached to it to your opponent's hand."

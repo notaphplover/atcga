@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Energy Plant"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."

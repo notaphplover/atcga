@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Attach a [F] Energy card from your hand to 1 of your Pokémon. If you do, heal 120 damage from that Pokémon.",
+        "fr": "Attachez une carte Énergie [F] de votre main à l'un de vos Pokémon. Dans ce cas, soignez 120 dégâts de ce Pokémon-là.",
+        "de": "Lege 1 [F]-Energiekarte aus deiner Hand an 1 deiner Pokémon an. Wenn du das machst, heile 120 Schadenspunkte bei jenem Pokémon.",
+        "it": "Assegna a uno dei tuoi Pokémon una carta Energia [F] dalla tua mano. Se lo fai, cura quel Pokémon da 120 danni.",
+        "pt": "Ligue 1 carta de Energia [F] da sua mão a 1 dos seus Pokémon. Se fizer isto, cure 120 pontos de dano daquele Pokémon.",
+        "es": "Une 1 carta de Energía [F] de tu mano a 1 de tus Pokémon. Si lo haces, cura 120 puntos de daño a ese Pokémon."
+      },
+      "name": {
+        "en": "Stone Gift",
+        "fr": "Cadeau Roc",
+        "de": "Steingeschenk",
+        "it": "Donopietra",
+        "pt": "Presente Pedregoso",
+        "es": "Regalo Roca"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "200",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -9,7 +11,9 @@
       }
     },
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way."

@@ -1,7 +1,34 @@
 {
   "attacks": [
     {
-      "cost": "ccccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your hand to this Pokémon. If you do, heal 60 damage from this Pokémon.",
+        "fr": "Attachez une carte Énergie de votre main à ce Pokémon. Dans ce cas, soignez 60 dégâts de ce Pokémon.",
+        "de": "Lege 1 Energiekarte aus deiner Hand an dieses Pokémon an. Wenn du das machst, heile 60 Schadenspunkte bei diesem Pokémon.",
+        "it": "Assegna a questo Pokémon una carta Energia dalla tua mano. Se lo fai, cura questo Pokémon da 60 danni.",
+        "pt": "Ligue uma carta de Energia da sua mão a este Pokémon. Se fizer isto, cure 60 pontos de dano deste Pokémon.",
+        "es": "Une 1 carta de Energía de tu mano a este Pokémon. Si lo haces, cura 60 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "But First, Food",
+        "fr": "Manger d'Abord",
+        "de": "Aber erstmal essen",
+        "it": "Cibo Prima di Tutto",
+        "pt": "Primeiro, a Refeição",
+        "es": "Ante Todo, Comer"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

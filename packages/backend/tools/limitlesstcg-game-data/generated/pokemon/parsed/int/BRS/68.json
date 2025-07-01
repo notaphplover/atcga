@@ -1,7 +1,29 @@
 {
   "abilityEffect": "When you play this Pokémon from your hand onto your Bench during your turn, you may prevent all damage done to this Mimikyu V by attacks from your opponent's Pokémon until the end of your opponent's next turn.",
   "abilityName": "Dummy Doll",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Active Pokémon for each Prize card your opponent has taken.",
+        "fr": "Placez 3 marqueurs de dégâts sur le Pokémon Actif de votre adversaire pour chaque carte Récompense que votre adversaire a récupérée.",
+        "de": "Lege für jede von deinem Gegner genommene Preiskarte 3 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti tre segnalini danno sul Pokémon attivo del tuo avversario per ogni carta Premio che ha preso.",
+        "pt": "Coloque 3 contadores de dano no Pokémon Ativo do seu oponente para cada carta de Prêmio que seu oponente pegou.",
+        "es": "Pon 3 contadores de daño en el Pokémon Activo de tu rival por cada carta de Premio que haya cogido tu rival."
+      },
+      "name": {
+        "en": "Jealous Eyes",
+        "fr": "Regard Envieux",
+        "de": "Neidische Augen",
+        "it": "Sguardo Invidioso",
+        "pt": "Olhar Invejoso",
+        "es": "Ojos Celosos"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 160,
   "imageUrls": {

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all Special Conditions and 4 damage counters from Wailmer (all if there are less than 4). Wailmer is now Asleep."
+      },
+      "name": {
+        "en": "Rest"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 damage plus 10 more damage for each [W] Energy attached to Wailmer but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Choose either Asleep or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition.",
+        "fr": "Choisissez soit Endormi, soit Empoisonné. Le Pokémon Actif de votre adversaire est maintenant affecté par l'État Spécial choisi.",
+        "de": "Entscheide dich für Schlaf oder Vergiftung. Das Aktive Pokémon deines Gegners ist jetzt von diesem Speziellen Zustand betroffen.",
+        "it": "Scegli tra addormentato e avvelenato. Il Pokémon attivo del tuo avversario è influenzato da quella condizione speciale.",
+        "es": "Elige entre Dormido o Envenenado. El Pokémon Activo de tu rival pasa a estar afectado por esa Condición Especial."
+      },
+      "name": {
+        "en": "Conversion Powder",
+        "fr": "Poudre Altérante",
+        "de": "Wandlungspuder",
+        "it": "Convertipolvere",
+        "es": "Polvo Conversión"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 more damage for each different type of basic Energy attached to this Pokémon.",

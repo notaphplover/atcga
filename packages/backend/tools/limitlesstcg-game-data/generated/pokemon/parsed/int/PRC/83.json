@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Special Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez jusqu'à 2 cartes Énergie spéciale dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Spezial-Energiekarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte Energia speciale, mostrale e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 cartas de Energía Especial, enséñalas y ponlas en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Solar Generator",
+        "fr": "Générateur Solaire",
+        "de": "Sonnofen",
+        "it": "Generatore Solare",
+        "es": "Generador Solar"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

@@ -3,7 +3,11 @@
   "abilityName": "Hard Rock",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 2 Energy attached to Groudon ex."

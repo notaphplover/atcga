@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "wyc",
+      "cost": [
+        "w",
+        "y",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -15,7 +17,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "100",
       "effect": {
         "en": "If this Pokémon's remaining HP is 50 or less, this attack's base damage is 50.",

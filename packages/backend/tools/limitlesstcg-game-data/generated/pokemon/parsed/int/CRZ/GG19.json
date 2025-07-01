@@ -3,7 +3,10 @@
   "abilityName": "Tempting Tune",
   "attacks": [
     {
-      "cost": "wm",
+      "cost": [
+        "w",
+        "m"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

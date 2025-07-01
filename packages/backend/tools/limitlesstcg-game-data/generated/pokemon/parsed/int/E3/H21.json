@@ -3,7 +3,11 @@
   "abilityName": "Evolution Helper",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads"

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach a [D] Energy card from your discard pile to 1 of your Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon can't attack during your next turn.",

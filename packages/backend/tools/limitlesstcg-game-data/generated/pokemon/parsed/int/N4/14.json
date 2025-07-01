@@ -3,7 +3,11 @@
   "abilityName": "Miraculous Wind",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Prevent all effects of attacks, other than damage, done to Light Dragonite during your opponent's next turn."

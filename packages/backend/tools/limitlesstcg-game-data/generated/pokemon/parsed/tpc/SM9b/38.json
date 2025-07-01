@@ -3,7 +3,12 @@
   "abilityName": "メタルイーター",
   "attacks": [
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

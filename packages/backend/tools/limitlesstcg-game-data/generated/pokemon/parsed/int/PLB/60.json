@@ -3,7 +3,11 @@
   "abilityName": "Stellar Guidance",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Both this Pokémon and the Defending Pokémon are now Asleep."

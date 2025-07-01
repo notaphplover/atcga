@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a [M] Energy card and attach it to Lairon. If you do, remove 2 damage counters from Lairon."
+      },
+      "name": {
+        "en": "Mend"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

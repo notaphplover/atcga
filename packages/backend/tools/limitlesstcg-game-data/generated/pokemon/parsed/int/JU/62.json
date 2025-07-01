@@ -1,11 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Peck"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Mirror Move"
       }
     }
   ],

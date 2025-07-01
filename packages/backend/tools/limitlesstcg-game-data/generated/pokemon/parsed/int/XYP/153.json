@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for up to 2 [R] Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Stoke"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

@@ -1,7 +1,20 @@
 {
   "abilityEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
   "abilityName": "もぐる",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "jp": "相手のベンチポケモンを1匹選び、30ダメージ。［ベンチは弱点・抵抗力の計算をしない。］"
+      },
+      "name": {
+        "jp": "ほりすすむ"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

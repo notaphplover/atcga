@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Remove 3 damage counters from each of your Pokémon.",
+        "fr": "Retirez 3 marqueurs de dégâts de chacun de vos Pokémon.",
+        "de": "Entferne 3 Schadensmarken von jedem deiner Pokémon.",
+        "it": "Togli 3 segnalini danno da ciascuno dei tuoi Pokémon.",
+        "es": "Quita 3 contadores de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Cure Powder",
+        "fr": "Poudre de soins",
+        "de": "Heilstaub",
+        "it": "Polvosollievo",
+        "es": "Polvo cura"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",

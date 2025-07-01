@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Tropius during your opponent's next turn."
@@ -11,7 +13,24 @@
       }
     },
     {
-      "cost": "gccc",
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "Remove all damage counters from 1 of your Benched [G] Pokémon."
+      },
+      "name": {
+        "en": "Blessed Fruit"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage for each damage counter on Whiscash to each Defending Pokémon. If tails, this attack does 10 damage for each damage counter on Whiscash to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Raging Tremble"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "70-",
       "effect": {
         "en": "Does 70 damage minus 10 damage for each damage counter on Whiscash."

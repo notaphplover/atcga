@@ -1,5 +1,41 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on 1 of your opponent's Pokémon.",
+        "fr": "Placez 2 marqueurs de dégât sur l'un des Pokémon de votre adversaire.",
+        "de": "Lege 2 Schadensmarken auf 1 Pokémon deines Gegners.",
+        "it": "Metti 2 segnalini danno su 1 dei Pokémon del tuo avversario."
+      },
+      "name": {
+        "en": "Sneaky Placement",
+        "fr": "Placement vicieux",
+        "de": "Heimlichtuerei",
+        "it": "Furtivappoggio"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi et Empoisonné.",
+        "de": "Das Verteidigende Pokémon schläft jetzt und ist vergiftet.",
+        "it": "Il Pokémon Difensore è Addormentato e Avvelenato."
+      },
+      "name": {
+        "en": "Sleep Poison",
+        "fr": "Poison dodo",
+        "de": "Schlafgift",
+        "it": "Sonnoveleno"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

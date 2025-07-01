@@ -3,7 +3,11 @@
   "abilityName": "Wide Wall",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",

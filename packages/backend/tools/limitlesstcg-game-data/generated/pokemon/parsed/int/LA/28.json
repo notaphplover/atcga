@@ -3,7 +3,12 @@
   "abilityName": "Iron Shell",
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Forretress does 40 damage to itself."

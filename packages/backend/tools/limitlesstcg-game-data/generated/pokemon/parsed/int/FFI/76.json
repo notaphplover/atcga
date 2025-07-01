@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gfc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach as many basic Energy cards as you like from your hand to your Pokémon in any way you like.",
+        "fr": "Attachez autant d'Énergies de base que vous voulez de votre main à vos Pokémon, de la manière que vous voulez.",
+        "de": "Lege beliebig viele Basis-Energiekarten von deiner Hand nach Belieben an deine Pokémon an.",
+        "it": "Assegna a piacimento ai tuoi Pokémon tutte le carte Energia base che vuoi dalla tua mano.",
+        "es": "Une tantas cartas de Energía Básica como quieras de tu mano a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Rainbow Shower",
+        "fr": "Averse Arc-En-Ciel",
+        "de": "Regenbogenschauer",
+        "it": "Pioggiarcobaleno",
+        "es": "Ducha Arcoíris"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 30 damage from each of your Pokémon that has any Energy attached to it.",

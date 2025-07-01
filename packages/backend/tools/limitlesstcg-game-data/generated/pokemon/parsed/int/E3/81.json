@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon card named Nidoran ♀ or Nidoran ♂ and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+      },
+      "name": {
+        "en": "Call for Family"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

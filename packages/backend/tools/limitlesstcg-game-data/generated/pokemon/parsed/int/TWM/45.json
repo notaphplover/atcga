@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

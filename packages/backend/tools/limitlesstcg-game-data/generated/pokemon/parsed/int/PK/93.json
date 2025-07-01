@@ -3,7 +3,10 @@
   "abilityName": "Type Shift",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may discard a [P] Energy card attached to Claydol ex. If you do, discard an Energy card attached to the Defending Pokémon."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Confused, this attack does 120 more damage.",

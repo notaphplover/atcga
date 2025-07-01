@@ -3,7 +3,11 @@
   "abilityName": "Shine of Happiness",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

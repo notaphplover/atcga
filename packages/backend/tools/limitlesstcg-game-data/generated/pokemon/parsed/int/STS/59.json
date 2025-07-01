@@ -3,7 +3,10 @@
   "abilityName": "Poison Enzyme",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",

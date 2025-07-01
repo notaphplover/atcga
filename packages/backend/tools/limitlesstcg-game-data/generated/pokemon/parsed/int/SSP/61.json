@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. Discard all Item cards and Pokémon Tool cards you find there.",
+        "fr": "Votre adversaire montre sa main. Défaussez toutes les cartes Objet et cartes Outil Pokémon que vous y trouvez.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Lege alle Itemkarten und Pokémon-Ausrüstungen, die du dort findest, auf seinen Ablagestapel.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scarta tutte le carte Strumento e le carte Oggetto Pokémon presenti tra esse.",
+        "pt": "Seu oponente revela a mão dele. Descarte todas as cartas de Item e cartas de Ferramenta Pokémon que encontrar lá.",
+        "es": "Tu rival enseña las cartas de su mano. Descarta todas las cartas de Objeto y de Herramienta Pokémon que encuentres entre ellas."
+      },
+      "name": {
+        "en": "Crushing Pulse",
+        "fr": "Pulsation Écrasante",
+        "de": "Zerschmetternder Puls",
+        "it": "Impulso Dirompente",
+        "pt": "Pulso Esmagador",
+        "es": "Pulso Demoledor"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each Energy attached to your opponent's Active Pokémon.",

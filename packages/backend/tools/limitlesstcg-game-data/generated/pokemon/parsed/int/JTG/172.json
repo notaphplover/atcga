@@ -3,7 +3,12 @@
   "abilityName": "Electric Streamer",
   "attacks": [
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

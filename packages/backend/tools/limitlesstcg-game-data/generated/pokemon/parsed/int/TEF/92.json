@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Attach a Basic [F] Energy card from your discard pile to each of your Benched Pokémon.",
+        "fr": "Attachez une carte Énergie [F] de base de votre pile de défausse à chacun de vos Pokémon de Banc.",
+        "de": "Lege 1 Basis-[F]-Energiekarte aus deinem Ablagestapel an jedes Pokémon auf deiner Bank an.",
+        "it": "Assegna a ciascuno dei Pokémon nella tua panchina una carta Energia base [F] dalla tua pila degli scarti.",
+        "pt": "Ligue uma carta de Energia [F] Básica da sua pilha de descarte a cada um dos seus Pokémon no Banco.",
+        "es": "Une 1 carta de Energía [F] Básica de tu pila de descartes a cada uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Mud Stock",
+        "fr": "Plein de Boue",
+        "de": "Schlammvorrat",
+        "it": "Fangoscorta",
+        "pt": "Estoque Lamacento",
+        "es": "Reserva de Lodo"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "This Pokémon also does 40 damage to itself.",

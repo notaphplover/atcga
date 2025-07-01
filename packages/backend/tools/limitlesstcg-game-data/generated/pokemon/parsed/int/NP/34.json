@@ -3,7 +3,9 @@
   "abilityName": "Burning Aura",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 10 more damage for each damage counter on Typhlosion."

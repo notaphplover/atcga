@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+        "fr": "Votre adversaire échange son Pokémon Actif avec l'un de ses Pokémon de Banc."
+      },
+      "name": {
+        "en": "Roar",
+        "fr": "Hurlement"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

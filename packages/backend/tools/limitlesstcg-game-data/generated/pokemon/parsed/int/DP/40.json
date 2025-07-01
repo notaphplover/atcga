@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ddd",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Nasty Plot"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the total amount of [D] Energy attached to all of your Pokémon."

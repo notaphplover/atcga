@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "mm",
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If you attached a Pokémon Tool card from your hand to this Pokémon during this turn, this attack does 70 more damage.",

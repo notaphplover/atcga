@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Both the Defending Pokémon and Gloom are now Confused (after doing damage)."

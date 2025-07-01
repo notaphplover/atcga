@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has 4 or more damage counters on it, that Pokémon is Knocked Out.",
+        "fr": "Si le Pokémon Actif de votre adversaire a au moins 4 marqueurs de dégâts, il est mis K.O.",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners mindestens 4 Schadensmarken liegen, ist jenes Pokémon kampfunfähig.",
+        "it": "Se il Pokémon attivo del tuo avversario ha quattro o più segnalini danno, quel Pokémon viene messo KO.",
+        "pt": "Se o Pokémon Ativo do seu oponente tiver 4 ou mais contadores de dano nele, aquele Pokémon será Nocauteado.",
+        "es": "Si el Pokémon Activo de tu rival tiene 4 contadores de daño o más sobre él, ese Pokémon queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Strike Down",
+        "fr": "Au Tapis",
+        "de": "Niederstrecken",
+        "it": "Atterramento",
+        "pt": "Derrocada",
+        "es": "Derrotar"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

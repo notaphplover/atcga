@@ -3,7 +3,11 @@
   "abilityName": "Primal Veil",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

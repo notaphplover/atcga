@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all Special Energy from each Pokémon.",
+        "fr": "Défaussez toute l'Énergie spéciale de chaque Pokémon.",
+        "de": "Lege alle Spezial-Energien von jedem Pokémon auf den Ablagestapel.",
+        "it": "Scarta tutte le Energie speciali assegnate a ciascun Pokémon.",
+        "es": "Descarta todas las Energías Especiales de cada Pokémon."
+      },
+      "name": {
+        "en": "Metallic Sound",
+        "fr": "Résonance Métallique",
+        "de": "Metallklang",
+        "it": "Suono Metallico",
+        "es": "Sonido Metálico"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

@@ -3,7 +3,12 @@
   "abilityName": "Energy Connect",
   "attacks": [
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may discard all [L] Energy attached to this Pokémon. If you do, this attack does 50 more damage.",

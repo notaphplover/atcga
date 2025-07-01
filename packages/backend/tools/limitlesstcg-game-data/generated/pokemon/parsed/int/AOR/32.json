@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Look at the top 3 cards of either player's deck and put them back on top of that player's deck in any order.",
+        "fr": "Regardez les 3 cartes du dessus du deck de l'un des joueurs et replacez-les sur le dessus du deck de ce joueur dans l'ordre de votre choix.",
+        "de": "Schau dir die obersten 3 Karten des Decks eines der beiden Spieler an und lege sie in beliebiger Reihenfolge zurück auf dessen Deck.",
+        "it": "Guarda le prime tre carte del mazzo di uno dei giocatori e rimettile in cima al suo mazzo nell'ordine che preferisci.",
+        "es": "Mira las 3 primeras cartas de la baraja de cualquiera de los jugadores y vuelve a ponerlas en la parte superior de la baraja de ese jugador en el orden que quieras."
+      },
+      "name": {
+        "en": "Future Spin",
+        "fr": "Tour du Futur",
+        "de": "Zukunftswende",
+        "it": "Volgifuturo",
+        "es": "Giro Futuro"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

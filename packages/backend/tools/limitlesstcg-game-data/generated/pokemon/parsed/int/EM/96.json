@@ -3,7 +3,9 @@
   "abilityName": "Mystic Scale",
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Move 1 basic Energy card attached to Milotic ex to 1 of your Benched Pokémon."

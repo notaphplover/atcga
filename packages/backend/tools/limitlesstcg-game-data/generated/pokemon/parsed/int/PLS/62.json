@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 more damage.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",

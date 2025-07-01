@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon evolved from Meowth during this turn, this attack does 30 more damage.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage times the number of heads.",

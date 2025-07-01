@@ -3,7 +3,11 @@
   "abilityName": "Intimidating Roar",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 2 Energy attached to Infernape E4."

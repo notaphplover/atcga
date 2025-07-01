@@ -3,7 +3,11 @@
   "abilityName": "Lunar Zone",
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "170",
       "effect": {
         "en": "You may move any amount of [P] Energy from your Pokémon to your other Pokémon in any way you like.",

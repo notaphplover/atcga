@@ -3,7 +3,9 @@
   "abilityName": "はっぱのおくるみ",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "jp": "コインを1回投げウラなら、このワザは失敗。"

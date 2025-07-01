@@ -3,7 +3,11 @@
   "abilityName": "Howl",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard 2 [R] Energy cards attached to Entei or this attack does nothing."

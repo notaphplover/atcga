@@ -3,7 +3,11 @@
   "abilityName": "Form Change",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "During your next turn, Deoxys's [P] Boost attack's base damage is 20."

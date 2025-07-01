@@ -3,7 +3,10 @@
   "abilityName": "Roaring Resolve",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Discard all [R] Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way.",

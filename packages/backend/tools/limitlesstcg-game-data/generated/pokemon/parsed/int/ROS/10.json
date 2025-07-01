@@ -3,7 +3,10 @@
   "abilityName": "Wing Buzz",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your deck for up to 2 Ninjask and put them onto your Bench. Shuffle your deck afterward.",

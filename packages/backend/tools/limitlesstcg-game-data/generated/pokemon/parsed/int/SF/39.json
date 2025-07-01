@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip 2 coins. This attack does 60 damage times the number of heads."

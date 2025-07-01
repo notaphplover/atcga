@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Burned."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage."

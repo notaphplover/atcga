@@ -3,13 +3,27 @@
   "abilityName": "Elusive Master",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
       },
       "name": {
         "en": "Mist Slash"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Put 1 of your opponent's Benched Pokémon and all cards attached to it into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Dark Mist-GX"
       }
     }
   ],

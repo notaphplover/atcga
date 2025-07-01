@@ -3,7 +3,10 @@
   "abilityName": "Refinement",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

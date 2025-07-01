@@ -3,7 +3,10 @@
   "abilityName": "きゃくよせ",
   "attacks": [
     {
-      "cost": "rw",
+      "cost": [
+        "r",
+        "w"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 [G] Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Greenness"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

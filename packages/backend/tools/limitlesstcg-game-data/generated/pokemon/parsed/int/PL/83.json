@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, search your discard pile for a Trainer card, show it to your opponent, and put it into your hand."
+      },
+      "name": {
+        "en": "Take Back"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

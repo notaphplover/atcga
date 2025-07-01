@@ -3,7 +3,11 @@
   "abilityName": "Exoskeleton",
   "attacks": [
     {
-      "cost": "rwc",
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

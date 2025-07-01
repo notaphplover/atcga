@@ -1,13 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand during your opponent's next turn."
       },
       "name": {
         "en": "Deafen"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 8 damage counters on the Defending Pokémon. If that Pokémon would be Knocked Out by this attack, put any damage counters not necessary to Knock Out the Defending Pokémon on your opponent's Benched Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Dragon Roar"
       }
     }
   ],

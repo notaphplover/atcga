@@ -3,7 +3,12 @@
   "abilityName": "Fire Boost",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard 3 [R] Energy cards attached to Typhlosion in order to use this attack. Do 20 damage to each Benched Pokémon (yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"

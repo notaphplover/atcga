@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Olfactory Enchantment",
+        "fr": "Enchantement Olfactif",
+        "de": "Zauberduft",
+        "it": "Incanto Olfattivo",
+        "es": "Hechizo Olfativo"
+      }
+    },
+    {
+      "cost": [
+        "y"
+      ],
       "dmg": "110",
       "effect": {
         "en": "If your opponent's Active Pokémon isn't Confused, this attack does nothing.",

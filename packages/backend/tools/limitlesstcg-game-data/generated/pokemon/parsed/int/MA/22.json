@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 20 damage plus 20 more damage."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, discard an Energy card attached to Team Magma's Rhydon."

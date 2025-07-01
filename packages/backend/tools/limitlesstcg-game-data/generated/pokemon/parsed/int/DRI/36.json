@@ -3,7 +3,11 @@
   "abilityName": "Melt Away",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Discard up to 5 [R] Energy from this Pokémon. This attack does 70 damage for each card you discarded in this way.",

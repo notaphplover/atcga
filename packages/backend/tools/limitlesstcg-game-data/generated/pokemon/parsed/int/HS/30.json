@@ -1,7 +1,25 @@
 {
   "abilityEffect": "As long as Smoochum is Asleep, prevent all damage done to Smoochum from attacks.",
   "abilityName": "Sweet Sleeping Face",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Move an Energy card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon. Smoochum is now Asleep.",
+        "fr": "Déplacez une carte Énergie attachée à l'un des Pokémon de votre adversaire sur un autre de ses Pokémon. Lippouti est maintenant Endormi.",
+        "de": "Lege eine an 1 Pokémon deines Gegners angelegte Energiekarte an 1 anderes Pokémon deines Gegners an. Kussilla schläft jetzt.",
+        "it": "Sposta una carta Energia assegnata a 1 dei Pokémon del tuo avversario su un altro dei suoi Pokémon. Smoochum è Addormentato.",
+        "es": "Mueve una carta de Energía unida a 1 Pokémon de tu rival a otro Pokémon de tu rival. Smoochum pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Energy Antics",
+        "fr": "Singénergies",
+        "de": "Energiepossen",
+        "it": "Buffoenergia",
+        "es": "Travesuras de energía"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

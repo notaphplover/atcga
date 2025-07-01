@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,25 @@
         "de": "Herunterhängen",
         "it": "Tirar Giù",
         "es": "Prender"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "fr": "Le Pokémon Défenseur ne peut pas battre en retraite durant le prochain tour de votre adversaire.",
+        "de": "Das Verteidigende Pokémon kann sich im nächsten Zug deines Gegners nicht zurückziehen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon Difensore non si può ritirare.",
+        "es": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Spider Web",
+        "fr": "Toile",
+        "de": "Spinnennetz",
+        "it": "Ragnatela",
+        "es": "Telaraña"
       }
     }
   ],

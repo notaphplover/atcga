@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Attach 2 [F] Energy cards from your discard pile to this Pokémon.",
@@ -19,7 +21,13 @@
       }
     },
     {
-      "cost": "fcccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your next turn, your Pokémon can't attack. (This includes Pokémon that come into play on that turn.)",

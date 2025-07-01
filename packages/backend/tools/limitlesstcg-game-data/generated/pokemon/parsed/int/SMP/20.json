@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon does 40 damage to itself.",

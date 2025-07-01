@@ -3,7 +3,11 @@
   "abilityName": "のろいのかげ",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "相手のバトルポケモンをやけどとこんらんにする。"

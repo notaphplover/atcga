@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Lairon does 20 damage to itself.",

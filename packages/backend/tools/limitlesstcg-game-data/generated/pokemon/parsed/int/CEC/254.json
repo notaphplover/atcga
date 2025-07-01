@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "pppc",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "This Pokémon can't use Cosmic Burn during your next turn.",
@@ -19,7 +24,11 @@
       }
     },
     {
-      "cost": "ppc+",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "If you played Lillie's Full Force from your hand during this turn, prevent all effects of attacks, including damage, done to each of your Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",

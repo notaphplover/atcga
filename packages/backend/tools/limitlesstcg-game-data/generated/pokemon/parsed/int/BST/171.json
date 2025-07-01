@@ -3,7 +3,11 @@
   "abilityName": "Lustrous Body",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "During your next turn, this Pokémon can't use G-Max Hurricane.",

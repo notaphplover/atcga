@@ -3,7 +3,10 @@
   "abilityName": "Trade Off",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Uxie can't use Zen Blade during your next turn."

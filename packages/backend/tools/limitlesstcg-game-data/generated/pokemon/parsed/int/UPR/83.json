@@ -3,7 +3,12 @@
   "abilityName": "Magnetic Circuit",
   "attacks": [
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon can't use Zap Cannon during your next turn.",

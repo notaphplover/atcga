@@ -3,7 +3,10 @@
   "abilityName": "Quick Search",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "You may discard a Stadium in play.",

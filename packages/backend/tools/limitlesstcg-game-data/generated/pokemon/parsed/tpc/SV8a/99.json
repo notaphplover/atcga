@@ -3,7 +3,11 @@
   "abilityName": "もうどくふんじん",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

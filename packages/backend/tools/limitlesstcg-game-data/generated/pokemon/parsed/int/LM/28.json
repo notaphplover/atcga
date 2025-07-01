@@ -3,13 +3,28 @@
   "abilityName": "Stages of Evolution",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the amount of Energy attached to Wobbuffet."
       },
       "name": {
         "en": "Grind"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 7 damage counters on the Defending Pokémon at the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Shadow Tag"
       }
     }
   ],

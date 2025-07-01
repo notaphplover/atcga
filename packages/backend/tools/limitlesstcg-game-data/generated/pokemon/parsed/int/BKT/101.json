@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Lancez une pièce. Si c'est face, cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Lancia una moneta. Se esce testa, cerca nel tuo mazzo una carta qualsiasi e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Lanza 1 moneda. Si sale cara, busca en tu baraja 1 carta y ponla en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Wish",
+        "fr": "Vœu",
+        "de": "Wunschtraum",
+        "it": "Desiderio",
+        "es": "Deseo"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

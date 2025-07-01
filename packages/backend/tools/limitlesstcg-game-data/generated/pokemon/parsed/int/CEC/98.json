@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Trainer card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Dresseur de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Trainerkarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Allenatore dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "es": "Pon 1 carta de Entrenador de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Seaweed Grab",
+        "fr": "Algues Agrippantes",
+        "de": "Seetanggriff",
+        "it": "Alghe Avvolgenti",
+        "es": "Agarre Algar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

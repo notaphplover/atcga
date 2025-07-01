@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Brave Slash.",

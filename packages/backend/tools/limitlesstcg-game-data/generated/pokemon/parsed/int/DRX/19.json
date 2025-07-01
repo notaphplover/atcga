@@ -3,7 +3,9 @@
   "abilityName": "Bright Look",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 50 more damage for each Special Condition affecting the Defending Pokémon.",

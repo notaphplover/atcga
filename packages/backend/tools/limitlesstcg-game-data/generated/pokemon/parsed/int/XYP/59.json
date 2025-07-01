@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "rwcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Call for Goons"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard the top card of your deck."

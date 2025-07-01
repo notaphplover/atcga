@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {
@@ -14,7 +18,12 @@
       }
     },
     {
-      "cost": "wlcc",
+      "cost": [
+        "w",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",

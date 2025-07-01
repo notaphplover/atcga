@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard the top 2 cards of your opponent's deck.",
+        "fr": "Défaussez les 2 cartes du dessus du deck de votre adversaire.",
+        "de": "Lege die obersten 2 Karten des Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta le prime due carte del mazzo del tuo avversario.",
+        "es": "Descarta las 2 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Stomp Off",
+        "fr": "Tohu-Bohu",
+        "de": "Davonstapfen",
+        "it": "Pestatura",
+        "es": "Pisotear"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

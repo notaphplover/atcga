@@ -3,7 +3,11 @@
   "abilityName": "Hard Coat",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "220-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -9,7 +12,12 @@
       }
     },
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard a [R] Energy attached to Ho-Oh."

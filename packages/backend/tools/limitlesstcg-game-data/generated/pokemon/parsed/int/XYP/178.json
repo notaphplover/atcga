@@ -3,7 +3,11 @@
   "abilityName": "Lamentation",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

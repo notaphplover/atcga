@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused."
       },
       "name": {
         "en": "Psybeam"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has exactly 9 damage counters on it, that Pokémon is Knocked Out."
+      },
+      "name": {
+        "en": "Nohahex"
       }
     }
   ],

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from Ralts."
+      },
+      "name": {
+        "en": "Calm Mind"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

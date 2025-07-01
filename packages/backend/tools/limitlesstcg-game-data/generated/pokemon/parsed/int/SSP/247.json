@@ -3,7 +3,11 @@
   "abilityName": "Resolute Heart",
   "attacks": [
     {
-      "cost": "glm",
+      "cost": [
+        "g",
+        "l",
+        "m"
+      ],
       "dmg": "300",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",

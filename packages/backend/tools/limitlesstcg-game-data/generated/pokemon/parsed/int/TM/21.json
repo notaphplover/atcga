@@ -1,7 +1,23 @@
 {
   "abilityEffect": "As long as Elekid is Asleep, prevent all damage done to Elekid by attacks.",
   "abilityName": "Sweet Sleeping Face",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance. Elekid is now Asleep.",
+        "fr": "Choisissez l'un des Pokémon de votre adversaire. Cette attaque inflige 20 dégâts à ce Pokémon. Les dégâts infligés par cette attaque ne sont pas affectés par la Faiblesse ou la Résistance. Elekid est maintenant Endormi.",
+        "de": "Wähle 1 Pokémon deines Gegners. Dieser Angriff fügt dem gewählten Pokémon 20 Schadenspunkte zu. Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert. Elekid schläft jetzt.",
+        "it": "Scegli 1 dei Pokémon del tuo avversario. Questo attacco infligge 20 danni a quel Pokémon. Il danno di questo attacco non è influenzato da Debolezza o Resistenza. Elekid è Addormentato."
+      },
+      "name": {
+        "en": "Sparking Ball",
+        "fr": "Boule étincelante",
+        "de": "Funkenball",
+        "it": "Scintilpalla"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

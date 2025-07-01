@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at 1 of your face-down Prize cards.",
+        "fr": "Regardez l'une de vos cartes Récompense (actuellement face cachée).",
+        "de": "Sieh dir 1 deiner verdeckten Preiskarten an.",
+        "it": "Guarda una delle tue carte Premio coperte.",
+        "es": "Mira 1 de tus cartas de Premio que están boca abajo."
+      },
+      "name": {
+        "en": "Searching Light",
+        "fr": "Sonde Lumineuse",
+        "de": "Suchscheinwerfer",
+        "it": "Proiettore",
+        "es": "Buscaluz"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

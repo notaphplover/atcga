@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "dddc",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",

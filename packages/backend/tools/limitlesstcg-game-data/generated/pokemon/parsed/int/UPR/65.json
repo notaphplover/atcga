@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage.",
@@ -16,6 +18,27 @@
         "de": "Sauberer Treffer",
         "it": "Colpo Pulito",
         "es": "Impacto Limpio"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon is a Basic Pokémon, it is Knocked Out.",
+        "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, il est mis K.O.",
+        "de": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, ist es kampfunfähig.",
+        "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Base, viene messo KO.",
+        "es": "Si el Pokémon Activo de tu rival es un Pokémon Básico, queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Wild Crash",
+        "fr": "Collision Agitée",
+        "de": "Wilder Einschlag",
+        "it": "Schianto Selvaggio",
+        "es": "Impacto Salvaje"
       }
     }
   ],

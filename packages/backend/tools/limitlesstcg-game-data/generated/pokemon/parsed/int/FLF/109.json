@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",

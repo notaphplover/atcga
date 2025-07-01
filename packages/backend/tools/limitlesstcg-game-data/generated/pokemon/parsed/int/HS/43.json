@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card for each of your [G] Pokémon in play.",
+        "fr": "Piochez une carte pour chacun de vos Pokémon [G] en jeu.",
+        "de": "Ziehe eine Karte für jedes deiner [G]-Pokémon im Spiel.",
+        "it": "Pesca una carta per ciascuno dei tuoi Pokémon [G] in gioco.",
+        "es": "Roba una carta para cada uno de tus Pokémon [G] en juego."
+      },
+      "name": {
+        "en": "Green Draw",
+        "fr": "Pioche verte",
+        "de": "Grüner Zug",
+        "it": "Verdepesca",
+        "es": "Robo verde"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads.",

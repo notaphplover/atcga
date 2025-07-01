@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance.",
@@ -34,6 +40,24 @@
         "de": "Schall der Bosheit",
         "it": "Suoni Maligni",
         "es": "Maldad Sónica"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Si le Pokémon Actif de votre adversaire a exactement 4 marqueurs de dégâts, il est mis K.O. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners genau 4 Schadensmarken liegen, ist jenes Pokémon kampfunfähig. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Se il Pokémon attivo del tuo avversario ha esattamente quattro segnalini danno, quel Pokémon viene messo KO. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Doom Count-GX",
+        "fr": "Décompte Tragique-GX",
+        "de": "Unglückszahl-GX",
+        "it": "Segnale del Giudizio-GX",
+        "es": "Cuenta Trágica-GX"
       }
     }
   ],

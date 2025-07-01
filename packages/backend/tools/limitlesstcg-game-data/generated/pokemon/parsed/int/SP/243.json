@@ -3,7 +3,10 @@
   "abilityName": "Crisis Muscles",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack.",

@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Spore"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

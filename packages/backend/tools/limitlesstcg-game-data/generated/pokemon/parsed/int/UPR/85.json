@@ -3,7 +3,11 @@
   "abilityName": "Earthen Shield",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "You may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.",

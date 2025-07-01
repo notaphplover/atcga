@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, discard the top 2 cards of your opponent's deck.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Pour chaque côté face, défaussez les 2 cartes du dessus du deck de votre adversaire.",
+        "de": "Wirf so lange 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Lege pro Kopf die obersten 2 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta le prime due carte del mazzo del tuo avversario.",
+        "pt": "Jogue 1 moeda até sair coroa. Para cada cara, descarte as 2 cartas de cima do baralho do seu oponente.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta las 2 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Wreak Havoc",
+        "fr": "Ravages",
+        "de": "Chaos anrichten",
+        "it": "Scombussolare",
+        "pt": "Causar Estragos",
+        "es": "Sembrar el Caos"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "Discard the top 5 cards of your deck.",

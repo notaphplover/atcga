@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Search your deck for a [D] Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [D], puis attachez-la à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [D]-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [D] e assegnala a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta de Energia [D] no seu baralho e ligue-a a 1 dos seus Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [D] y únela a 1 de tus Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Hand of Djinn",
+        "fr": "Main du Djinn",
+        "de": "Hand des Plagegeists",
+        "it": "Mano del Genio",
+        "pt": "Mão de Gênio",
+        "es": "Mano del Genio Burlón"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

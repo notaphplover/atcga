@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon."
       },
       "name": {
         "en": "Psywave"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Move any number of damage counters on your opponent's Pokémon to their other Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Magical Swap"
       }
     }
   ],

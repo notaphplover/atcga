@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck un Pokémon de base, puis placez-le sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-Pokémon und lege es auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon Base e mettilo nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por um Pokémon Básico no seu baralho e coloque-o no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Gather the Crew",
+        "fr": "Réunion des Troupes",
+        "de": "Alle an Bord",
+        "it": "Squadra a Raccolta",
+        "pt": "Juntar a Galera",
+        "es": "Juntar al Equipo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on this Pokémon.",

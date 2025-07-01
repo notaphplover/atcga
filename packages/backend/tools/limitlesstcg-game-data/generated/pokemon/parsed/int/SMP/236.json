@@ -3,11 +3,28 @@
   "abilityName": "Spiky Shield",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {
         "en": "Frost Breath"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 100 damage to each of your opponent's Pokémon that has any damage counters on it. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Spiky Storm-GX"
       }
     }
   ],

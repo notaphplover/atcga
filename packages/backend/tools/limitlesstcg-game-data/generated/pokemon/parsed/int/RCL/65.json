@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 [L] Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 2 cartes Énergie [L] dans votre deck, puis attachez-les à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 [L]-Energiekarten und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte Energia [L] e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 2 cartas de Energia [L] no seu baralho e ligue-as a este Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 2 cartas de Energía [L] y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Charge",
+        "fr": "Chargeur",
+        "de": "Ladevorgang",
+        "it": "Sottocarica",
+        "pt": "Carga",
+        "es": "Carga"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

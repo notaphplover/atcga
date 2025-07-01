@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Look at the top 3 cards of either player's deck and rearrange them as you like."
+      },
+      "name": {
+        "en": "Prophecy"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."

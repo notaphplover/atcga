@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each card in your opponent's hand.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "げんしのとりで",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

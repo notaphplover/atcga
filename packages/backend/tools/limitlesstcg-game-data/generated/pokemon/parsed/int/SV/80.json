@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance."

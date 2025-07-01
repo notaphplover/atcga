@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Devolve as many of your Benched Pokémon as many times as you like. Put each Evolution card removed this way into your hand.",
+        "fr": "Faites dés-évoluer autant de vos Pokémon de Banc autant de fois que vous voulez. Placez chaque carte Évolution retirée de cette façon dans votre main.",
+        "de": "Rückentwickle beliebig viele Pokémon auf deiner Bank, sooft du möchtest. Nimm jede auf diese Weise entfernte Evolutionskarte auf deine Hand.",
+        "it": "Annulla a piacimento l'evoluzione dei tuoi Pokémon in panchina. Aggiungi le carte Evoluzione rimosse in questo modo a quelle che hai in mano.",
+        "es": "Involuciona tantos Pokémon de tu Banca como quieras tantas veces como desees. Pon cada carta de Evolución eliminada de esta manera en tu mano."
+      },
+      "name": {
+        "en": "Digital Reboot",
+        "fr": "Redémarrage Numérique",
+        "de": "Digitaler Neustart",
+        "it": "Riavvio Digitale",
+        "es": "Reinicio Digital"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

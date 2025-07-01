@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -34,6 +40,25 @@
         "de": "Schattenkugel",
         "it": "Dardombra",
         "es": "Bala Sombra"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez 2 Énergies des Pokémon de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 2 Energien von den Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta due Energie assegnate ai Pokémon del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Dark Call-GX",
+        "fr": "Appel Obscur-GX",
+        "de": "Nachtgeheul-GX",
+        "it": "Richiamo Oscuro-GX",
+        "es": "Llamada Siniestra-GX"
       }
     }
   ],

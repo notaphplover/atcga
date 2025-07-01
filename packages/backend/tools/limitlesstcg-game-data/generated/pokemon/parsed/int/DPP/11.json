@@ -1,7 +1,21 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may choose up to 2 cards from your opponent's hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent's hand.) At the end of your opponent's next turn, return those cards to your opponent's hand. This power can't be used if Empoleon is affected by a Special Condition.",
   "abilityName": "Supreme Command",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon (Don't apply Weakness and Resistance for Benched Pokémon.) Empoleon can't attack during your next turn."
+      },
+      "name": {
+        "en": "Hydro Impact"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 140,
   "imageUrls": {

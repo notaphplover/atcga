@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "This Pokémon can't use Pelagic Blade during your next turn.",
@@ -34,6 +43,26 @@
         "de": "Pelagialklinge",
         "it": "Lame Pelagiche",
         "es": "Tajo Pelágico"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put your opponent's Active Pokémon and all cards attached to it in the Lost Zone. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Placez le Pokémon Actif de votre adversaire et toutes les cartes qui lui sont attachées dans la Zone Perdue. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege das Aktive Pokémon deines Gegners und alle an es angelegten Karten ins Nirgendwo. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi il Pokémon attivo del tuo avversario e tutte le carte a esso assegnate e mettili nell'area perduta. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Lost Purge-GX",
+        "fr": "Purge Perdue-GX",
+        "de": "Nirgendwo-Sturz-GX",
+        "it": "Esilio Perduto-GX",
+        "es": "Purga Perdida-GX"
       }
     }
   ],

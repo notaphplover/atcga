@@ -3,7 +3,12 @@
   "abilityName": "Major Tsunami",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "If here are no damage counters on the Defending Pokémon, this attack's base damage is 40 instead of 70."

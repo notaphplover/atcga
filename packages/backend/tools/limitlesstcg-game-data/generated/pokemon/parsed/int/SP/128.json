@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard a [W] Energy card from your hand. If you do, draw 3 cards."
+      },
+      "name": {
+        "en": "Ice Bonus"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

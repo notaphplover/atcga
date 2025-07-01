@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Discard all [L] Energy cards attached to Flaaffy in order to use this attack. Flip a number of coins equal to the number of [L] Energy cards you discarded. This attack does 30 damage times then number of heads."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Take 1 [L] Energy cards attached to Flaaffy and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."

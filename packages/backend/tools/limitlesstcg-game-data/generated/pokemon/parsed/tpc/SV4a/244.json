@@ -3,7 +3,10 @@
   "abilityName": "あくてんこう",
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "140",
       "effect": {
         "jp": "このポケモンにも90ダメージ。"

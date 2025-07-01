@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the number of Prize cards both players have taken."
@@ -11,7 +14,13 @@
       }
     },
     {
-      "cost": "wwccc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

@@ -1,5 +1,45 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt paralysiert.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene paralizzato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Bubble",
+        "fr": "Écume",
+        "de": "Blubber",
+        "it": "Bolla",
+        "es": "Burbuja"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Il Pokémon difensore viene avvelenato.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Spit Poison",
+        "fr": "Crache-Venin",
+        "de": "Giftspucke",
+        "it": "Sputaveleno",
+        "es": "Escupir Veneno"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

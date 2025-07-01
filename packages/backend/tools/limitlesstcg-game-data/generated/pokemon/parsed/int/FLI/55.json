@@ -1,5 +1,45 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Spit Poison",
+        "fr": "Crache-Venin",
+        "de": "Giftspucke",
+        "it": "Sputaveleno",
+        "es": "Escupir Veneno"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, if this Pokémon is Knocked Out, your opponent can't take any Prize cards for it.",
+        "fr": "Pendant le prochain tour de votre adversaire, si ce Pokémon est mis K.O., votre adversaire ne peut pas récupérer de carte Récompense pour ce Pokémon.",
+        "de": "Wenn dieses Pokémon während des nächsten Zuges deines Gegners kampfunfähig wird, kann dein Gegner dafür keine Preiskarten nehmen.",
+        "it": "Durante il prossimo turno del tuo avversario, se questo Pokémon viene messo KO, il tuo avversario non può prendere carte Premio per effetto di quel KO.",
+        "es": "Durante el próximo turno de tu rival, si este Pokémon queda Fuera de Combate, tu rival no puede coger ninguna carta de Premio por ello."
+      },
+      "name": {
+        "en": "Knockout Reviver",
+        "fr": "K.O. Futile",
+        "de": "Fruchtloser K. o.",
+        "it": "KO Disinnescato",
+        "es": "Noqueo Neutralizado"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

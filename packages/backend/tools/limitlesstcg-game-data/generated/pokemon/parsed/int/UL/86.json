@@ -3,7 +3,11 @@
   "abilityName": "Submerge",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 10 more damage for each Energy attached to all of your Pokémon.",

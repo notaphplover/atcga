@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "fr": "Retirez à Mimitoss un nombre de marqueurs de dégât équivalant aux dégâts que vous avez infligés au Pokémon Défenseur.",
@@ -13,6 +16,14 @@
         "fr": "Vampirisme",
         "de": "Blutsauger",
         "it": "Sanguisuga"
+      }
+    },
+    {
+      "effect": {},
+      "name": {
+        "fr": "Charge",
+        "de": "Tackle",
+        "it": "Azione"
       }
     }
   ],

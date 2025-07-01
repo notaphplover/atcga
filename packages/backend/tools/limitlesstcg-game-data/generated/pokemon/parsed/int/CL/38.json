@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Il Pokémon Difensore è Avvelenato.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Super Poison Breath",
+        "fr": "Super haleine empoisonnée",
+        "de": "Super-Gifthauch",
+        "it": "Super Velenospiro",
+        "es": "Aliento súper venenoso"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Weezing does 90 damage to itself, and don't apply Weakness to this damage.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 140 more damage.",

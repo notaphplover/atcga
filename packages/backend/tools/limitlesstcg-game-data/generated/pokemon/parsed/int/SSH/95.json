@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Hitmonlee is on your Bench, this attack does 20 more damage.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

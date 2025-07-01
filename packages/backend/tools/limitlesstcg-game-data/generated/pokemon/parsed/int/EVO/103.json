@@ -1,7 +1,49 @@
 {
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie de votre pile de défausse à ce Pokémon.",
+        "de": "Nimm 1 Energiekarte von deinem Ablagestapel und lege sie an dieses Pokémon an.",
+        "it": "Cura questo Pokémon da 60 danni.",
+        "es": "Une 1 carta de Energía de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Energy Absorption",
+        "fr": "Absorption d'énergie",
+        "de": "Energieaufnahme",
+        "it": "Rigenerazione",
+        "es": "Absorción de Energía"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Heal 60 damage from this Pokémon.",
+        "fr": "Soignez 60 dégâts à ce Pokémon.",
+        "de": "Heile 60 Schadenspunkte bei diesem Pokémon.",
+        "es": "Cura 60 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Regeneration",
+        "fr": "Rétablissement",
+        "de": "Regeneration",
+        "it": "Psicobrucia",
+        "es": "Reanimación"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

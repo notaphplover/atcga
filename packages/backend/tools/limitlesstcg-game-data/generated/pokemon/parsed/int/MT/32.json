@@ -3,7 +3,10 @@
   "abilityName": "Color Shift",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard a [R] Energy attached to Ninetales."

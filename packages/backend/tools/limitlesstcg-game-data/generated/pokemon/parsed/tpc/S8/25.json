@@ -3,7 +3,10 @@
   "abilityName": "れんげきキャンセラー",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

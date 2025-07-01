@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [],
+      "effect": {
+        "en": "Remove 2 damage counters from Cherubi."
+      },
+      "name": {
+        "en": "Nap"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 4 coins. This attack does 10 damage times the number of heads."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may attach a basic Energy card from your hand to 1 of your Pokémon."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip 2 coins. This attack does 70 damage times the number of heads."

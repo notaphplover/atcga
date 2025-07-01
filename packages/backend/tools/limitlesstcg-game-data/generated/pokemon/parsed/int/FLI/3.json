@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 40 more damage.",

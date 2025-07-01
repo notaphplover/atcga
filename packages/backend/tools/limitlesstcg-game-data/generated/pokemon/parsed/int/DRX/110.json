@@ -3,7 +3,11 @@
   "abilityName": "Bouffer",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon-EX, this attack does 60 more damage.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may attach up to 3 [R] Energy cards from your hand to your Pokémon in any way you like."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "Discard 2 [R] Energy from this Pokémon."
@@ -21,7 +27,9 @@
       }
     },
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each [R] Energy card in your discard pile. (You can't use more than 1 GX attack in a game.)"

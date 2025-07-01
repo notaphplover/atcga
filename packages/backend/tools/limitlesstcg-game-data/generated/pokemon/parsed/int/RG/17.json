@@ -3,7 +3,11 @@
   "abilityName": "Acid Sampler",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."

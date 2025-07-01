@@ -3,7 +3,12 @@
   "abilityName": "Fighting Instinct",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Before doing damage, discard a Special Energy from your opponent's Active Pokémon.",

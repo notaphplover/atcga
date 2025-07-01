@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
@@ -21,7 +24,10 @@
       }
     },
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This attack can be used even if this Pokémon is on the Bench.",

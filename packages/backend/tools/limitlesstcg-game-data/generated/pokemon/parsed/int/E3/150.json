@@ -3,7 +3,11 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "wfc",
+      "cost": [
+        "w",
+        "f",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove a damage counter from Kabutops."
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "llfc",
+      "cost": [
+        "l",
+        "l",
+        "f",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage times the number of heads."

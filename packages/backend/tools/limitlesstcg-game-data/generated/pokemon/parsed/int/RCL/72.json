@@ -3,7 +3,11 @@
   "abilityName": "Counterattack Kerzap",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

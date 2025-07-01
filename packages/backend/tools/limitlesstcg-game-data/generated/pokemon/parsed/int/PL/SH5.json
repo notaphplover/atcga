@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [],
+      "effect": {
+        "en": "Remove 4 damage counters from Swablu. Swablu can't retreat during your next turn."
+      },
+      "name": {
+        "en": "Roost"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If Swablu was damaged by an attack during your opponent's last turn, this attack does the same amount of damage done to Swablu to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Mirror Move"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 3 coins. This attack does 10 damage times the number of heads."

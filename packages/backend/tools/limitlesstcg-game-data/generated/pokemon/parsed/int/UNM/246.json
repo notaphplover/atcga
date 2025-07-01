@@ -3,7 +3,10 @@
   "abilityName": "Captivating Wink",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
@@ -18,6 +21,26 @@
         "de": "Listiger Biss",
         "it": "Morso Scaltro",
         "es": "Mordisco Astuto"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. Discard all Supporter cards you find there. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Votre adversaire dévoile sa main. Défaussez toutes les cartes Supporter que vous y trouvez. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Lege alle Unterstützerkarten, die du dort findest, auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scarta tutte le carte Aiuto presenti tra esse. Non puoi usare più di un attacco GX a partita.",
+        "es": "Tu rival enseña las cartas de su mano. Descarta todas las cartas de Partidario que encuentres entre ellas. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Big Eater-GX",
+        "fr": "Gros Mangeur-GX",
+        "de": "Großer Appetit-GX",
+        "it": "Mangione-GX",
+        "es": "Comilón-GX"
       }
     }
   ],

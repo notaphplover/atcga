@@ -3,7 +3,10 @@
   "abilityName": "こんじょう",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "相手の山札を上から2枚トラッシュする。"

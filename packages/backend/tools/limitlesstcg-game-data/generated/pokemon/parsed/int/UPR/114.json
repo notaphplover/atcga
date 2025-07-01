@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 cards from your discard pile on the bottom of your deck in any order.",
+        "fr": "Placez 3 cartes de votre pile de défausse en dessous de votre deck dans l'ordre de votre choix.",
+        "de": "Lege 3 Karten aus deinem Ablagestapel in beliebiger Reihenfolge unter dein Deck.",
+        "it": "Prendi tre carte dalla tua pila degli scarti e mettile in fondo al tuo mazzo nell'ordine che preferisci.",
+        "es": "Pon 3 cartas de tu pila de descartes en la parte inferior de tu baraja en el orden que quieras."
+      },
+      "name": {
+        "en": "Resource Management",
+        "fr": "Gestion des Ressources",
+        "de": "Bodenschätze",
+        "it": "Gestione Risorse",
+        "es": "Gestión de Recursos"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

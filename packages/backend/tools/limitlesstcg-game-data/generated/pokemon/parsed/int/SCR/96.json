@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.) If you do, this attack does 160 damage to the new Active Pokémon.",
+        "fr": "Envoyez le Pokémon Actif de votre adversaire sur le Banc. (Votre adversaire choisit le nouveau Pokémon Actif.) Dans ce cas, cette attaque inflige 160 dégâts au nouveau Pokémon Actif.",
+        "de": "Wechsle das Aktive Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.) Wenn du das machst, fügt diese Attacke dem neuen Aktiven Pokémon 160 Schadenspunkte zu.",
+        "it": "Sposta il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo. Se lo fai, questo attacco infligge 160 danni al nuovo Pokémon attivo.",
+        "pt": "Mande o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.) Se fizer isto, este ataque causará 160 pontos de dano ao novo Pokémon Ativo.",
+        "es": "Mueve el Pokémon Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo). Si lo haces, este ataque hace 160 puntos de daño al nuevo Pokémon Activo."
+      },
+      "name": {
+        "en": "Goad 'n' Grab",
+        "fr": "Prise Provocatrice",
+        "de": "Köderklatsche",
+        "it": "Assillarraffa",
+        "pt": "Chamar na Chincha",
+        "es": "Acoso y Derribo"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

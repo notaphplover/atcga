@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 20 damage from 1 of your Benched Pokémon.",
+        "fr": "Soignez 20 dégâts de l'un de vos Pokémon de Banc.",
+        "de": "Heile 20 Schadenspunkte bei 1 Pokémon auf deiner Bank.",
+        "it": "Cura uno dei tuoi Pokémon in panchina da 20 danni.",
+        "pt": "Cure 20 pontos de dano de 1 dos seus Pokémon no Banco.",
+        "es": "Cura 20 puntos de daño a uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Share",
+        "fr": "Répartition",
+        "de": "Verteiler",
+        "it": "Condiviso",
+        "pt": "Compartilhar",
+        "es": "Compartir"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

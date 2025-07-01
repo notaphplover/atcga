@@ -3,7 +3,10 @@
   "abilityName": "Moon Cleave Star",
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "110+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 110 more damage.",

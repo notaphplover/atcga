@@ -3,7 +3,11 @@
   "abilityName": "いてつくすいりゅう",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

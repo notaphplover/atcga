@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If all of your Benched Pokémon have at least 1 damage counter on them, this attack does 150 more damage.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

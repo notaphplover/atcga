@@ -3,7 +3,10 @@
   "abilityName": "Dual Armor",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If the Defending Pokémon is Pokémon-ex, this attack does 40 damage plus 30 more damage."

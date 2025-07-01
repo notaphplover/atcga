@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If Regice ex is in play, flip a coin. If heads, the Defending Pokémon is now Confused."
       },
       "name": {
         "en": "Block Signal"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Wide Laser"
       }
     }
   ],

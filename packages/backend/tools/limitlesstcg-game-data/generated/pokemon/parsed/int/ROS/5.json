@@ -3,7 +3,11 @@
   "abilityName": "Miraculous Scales",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",

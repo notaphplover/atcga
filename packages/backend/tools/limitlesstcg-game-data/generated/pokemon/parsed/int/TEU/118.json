@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wl",
+      "cost": [
+        "w",
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pokémon. If both of them are tails, this attack does nothing.",

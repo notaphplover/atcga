@@ -3,7 +3,10 @@
   "abilityName": "Retreat Aid",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 20 damage plus 20 more damage for each heads.",

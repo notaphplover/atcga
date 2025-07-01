@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your deck for a [R] Energy card and attach it to 1 of your Pokémon. If you go second and it's your first turn, instead search for up to 3 [R] Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+        "fr": "Cherchez une carte Énergie [R] dans votre deck et attachez-la à l'un de vos Pokémon. Si vous jouez en second et que c'est votre premier tour, cherchez jusqu'à 3 cartes Énergie [R] à la place et attachez-les à vos Pokémon, de la manière que vous voulez. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [R]-Energiekarte und lege sie an 1 deiner Pokémon an. Wenn du als Zweiter am Zug bist und es dein erster Zug ist, durchsuche dein Deck stattdessen nach bis zu 3 [R]-Energiekarten und lege sie beliebig an deine Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [R] e assegnala a uno dei tuoi Pokémon. Se inizi per secondo e se è il tuo primo turno, invece, cerca fino a tre carte Energia [R] e assegnale a piacimento ai tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Energía [R] y únela a 1 de tus Pokémon. Si sales segundo y es tu primer turno, busca hasta 3 cartas de Energía [R] y únelas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Flare Starter",
+        "fr": "Allume Flambée",
+        "de": "Feuerfächer",
+        "it": "Accendifiamma",
+        "es": "Prender Fuego"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If you have at least 4 [R] Energy in play, this attack does 60 more damage.",

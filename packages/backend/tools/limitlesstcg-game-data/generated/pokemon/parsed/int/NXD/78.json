@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep.",
+        "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Das Verteidigende Pokémon schläft jetzt.",
+        "it": "Il Pokémon difensore viene addormentato.",
+        "es": "El Pokémon Defensor pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Sing",
+        "fr": "Berceuse",
+        "de": "Gesang",
+        "it": "Canto",
+        "es": "Canto"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads.",

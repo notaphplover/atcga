@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -10,6 +14,28 @@
         "de": "Hornbohrer",
         "it": "Perforcorno",
         "es": "Perforador"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. If both are heads, discard the top card of your opponent's deck for each damage counter on this Pokémon.",
+        "fr": "Lancez 2 pièces. Si vous obtenez 2 côtés face, défaussez la carte du dessus du deck de votre adversaire pour chaque marqueur de dégâts placé sur ce Pokémon.",
+        "de": "Wirf 2 Münzen. Zeigen beide „Kopf“, lege für jede Schadensmarke auf diesem Pokémon die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia due volte una moneta. Se esce entrambe le volte testa, scarta una carta in cima al mazzo del tuo avversario per ogni segnalino danno presente su questo Pokémon.",
+        "es": "Lanza 2 monedas. Si ambas son cara, descarta la primera carta de la baraja de tu rival por cada contador de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Mad Mountain",
+        "fr": "Montagne Enragée",
+        "de": "Berg des Zorns",
+        "it": "Montepazzo",
+        "es": "Montaña Enloquecida"
       }
     }
   ],

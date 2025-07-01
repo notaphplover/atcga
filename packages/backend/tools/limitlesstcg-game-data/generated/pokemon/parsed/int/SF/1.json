@@ -3,7 +3,23 @@
   "abilityName": "Shadow Command",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Count the number of damage counters on Dusknoir. Put that many damage counters on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Damage Even"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Prevent all effects of an attack, including damage, done to Dusknoir by your opponent's Pokémon that has 2 or less Energy attached to it during your opponent's next turn."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If you go first, you can use this attack on your first turn."
@@ -11,7 +13,12 @@
       }
     },
     {
-      "cost": "wppc",
+      "cost": [
+        "w",
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Prevent all effects of your opponent's attacks, except damage, done to this Pokémon during your opponent's next turn."

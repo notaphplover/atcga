@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card. If Chingling is anywhere under Chimecho, draw 2 more cards."
+      },
+      "name": {
+        "en": "Call In"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon is a Basic Pokémon, that Pokémon is now Confused."

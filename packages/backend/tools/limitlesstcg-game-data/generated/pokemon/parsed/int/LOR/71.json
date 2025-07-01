@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, the Defending Pokémon can't retreat. During your next turn, the Defending Pokémon takes 90 more damage from attacks (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite. Pendant votre prochain tour, le Pokémon Défenseur subit 90 dégâts supplémentaires provenant des attaques (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen. Während deines nächsten Zuges werden dem Verteidigenden Pokémon durch Attacken 90 Schadenspunkte mehr zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi. Durante il tuo prossimo turno, il Pokémon difensore subisce 90 danni in più dagli attacchi, dopo aver applicato debolezza e resistenza.",
+        "pt": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar. Durante o seu próximo turno, o Pokémon Defensor receberá 90 pontos de dano a mais de ataques (depois de aplicar Fraqueza e Resistência).",
+        "es": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse. Durante tu próximo turno, los ataques hacen 90 puntos de daño más al Pokémon Defensor (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Tempting Trap",
+        "fr": "Piège Alléchant",
+        "de": "Verlockende Falle",
+        "it": "Trappola Allettante",
+        "pt": "Armadilha Tentadora",
+        "es": "Trampa Tentadora"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your discard pile for a [R] Energy card and attach it to 1 of your Pokémon."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rmcc",
+      "cost": [
+        "r",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard a [M] Energy card attached to Salamence."

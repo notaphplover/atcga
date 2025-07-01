@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 1 of your Benched Pokémon and all cards attached to it into your hand.",
+        "fr": "Placez l'un de vos Pokémon de Banc et toutes les cartes qui lui sont attachées dans votre main.",
+        "de": "Nimm 1 deiner Pokémon auf deiner Bank und alle an es angelegten Karten auf deine Hand.",
+        "it": "Riprendi in mano uno dei tuoi Pokémon in panchina e tutte le carte a esso assegnate.",
+        "es": "Pon 1 de tus Pokémon en Banca y todas las cartas unidas a él en tu mano."
+      },
+      "name": {
+        "en": "Courier",
+        "fr": "Coursier",
+        "de": "Kurier",
+        "it": "Corriere",
+        "es": "Mensajería"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",

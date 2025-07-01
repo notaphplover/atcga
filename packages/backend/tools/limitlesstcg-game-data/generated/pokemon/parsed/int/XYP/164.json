@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip a coin for each [R] Energy attached to this Pokémon. This attack does 50 damage times the number of heads."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."

@@ -3,7 +3,11 @@
   "abilityName": "Freeze-up",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "If your opponent doesn't discard a card from his or her hand, the Defending Pokémon is now Paralyzed."

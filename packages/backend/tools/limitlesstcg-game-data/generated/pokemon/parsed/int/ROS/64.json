@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to this Pokémon.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "rllc",
+      "cost": [
+        "r",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

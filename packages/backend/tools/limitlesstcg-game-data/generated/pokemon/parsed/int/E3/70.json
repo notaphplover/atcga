@@ -1,7 +1,19 @@
 {
   "abilityEffect": "All damage by attacks to Kakuna is reduced by 10 (after applying Weakness and Resistance).",
   "abilityName": "Exoskeleton",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poisonpowder"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

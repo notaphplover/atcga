@@ -3,7 +3,11 @@
   "abilityName": "Princess's Cheers",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Heal 30 damage from each of your Benched Pokémon.",

@@ -3,7 +3,9 @@
   "abilityName": "Duplicate",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Search your discard pile for an Energy card and attach it to Ditto."

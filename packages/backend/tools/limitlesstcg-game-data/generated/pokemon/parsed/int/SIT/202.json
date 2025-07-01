@@ -3,7 +3,12 @@
   "abilityName": "Summoning Star",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "You may discard a Stadium in play.",

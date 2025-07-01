@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Reveal the top 4 cards of your deck. This attack does 40 more damage for each [W] Energy you find there. Shuffle the revealed cards back into your deck."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 20 damage to itself."

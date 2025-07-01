@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Both this Pokémon and the Defending Pokémon are now Confused.",
+        "fr": "Ce Pokémon et le Pokémon Défenseur sont maintenant Confus.",
+        "it": "Questo Pokémon e il Pokémon difensore vengono confusi.",
+        "es": "Tanto este Pokémon como el Pokémon Defensor pasan a estar Confundidos."
+      },
+      "name": {
+        "en": "Foul Odor",
+        "fr": "Odeur Fétide",
+        "de": "Fäulnisgeruch",
+        "it": "Puzza",
+        "es": "Olor Pestilente"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned.",

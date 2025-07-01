@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Clefairy by attacks is reduced by 20 (after applying Weakness and Resistance).",
+        "fr": "Tous les dégâts infligés à Mélofée par des attaques pendant le prochain tour de votre adversaire sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der Piepi durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, tutto il danno inflitto a Clefairy dagli attacchi è ridotto di 20 (dopo aver applicato Debolezza e Resistenza).",
+        "es": "Durante el próximo turno de tu rival, cualquier daño hecho a Clefairy por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Minimize",
+        "fr": "Lilliput",
+        "de": "Komprimator",
+        "it": "Minimizzazione",
+        "es": "Reducción"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

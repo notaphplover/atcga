@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Search your deck for a Basic [M] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Slashing Strike.",

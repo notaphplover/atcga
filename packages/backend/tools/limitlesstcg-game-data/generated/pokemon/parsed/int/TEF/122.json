@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lp",
+      "cost": [
+        "l",
+        "p"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "lpc",
+      "cost": [
+        "l",
+        "p",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Cyber Drive.",

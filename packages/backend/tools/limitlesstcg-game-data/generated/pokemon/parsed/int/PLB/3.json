@@ -3,7 +3,10 @@
   "abilityName": "Prehistoric Call",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 10 damage from this Pokémon.",

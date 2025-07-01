@@ -3,7 +3,11 @@
   "abilityName": "Sand Flap",
   "attacks": [
     {
-      "cost": "gfc",
+      "cost": [
+        "g",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

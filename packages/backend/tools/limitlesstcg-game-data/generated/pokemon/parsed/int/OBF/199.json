@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,6 +13,28 @@
         "it": "Fuocofatuo",
         "pt": "Fogo Fátuo",
         "es": "Fuego Fatuo"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
+      "effect": {
+        "en": "Put 9 damage counters on 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack.",
+        "fr": "Placez 9 marqueurs de dégâts sur l'un des Pokémon de votre adversaire. Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "de": "Lege 9 Schadensmarken auf 1 Pokémon deines Gegners. Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
+        "it": "Metti nove segnalini danno su uno dei Pokémon del tuo avversario. Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
+        "pt": "Coloque 9 contadores de dano em 1 dos Pokémon do seu oponente. Durante o seu próximo turno, este Pokémon não poderá atacar.",
+        "es": "Pon 9 contadores de daño en uno de los Pokémon de tu rival. Durante tu próximo turno, este Pokémon no puede atacar."
+      },
+      "name": {
+        "en": "Nine-Tailed Dance",
+        "fr": "Danse des Neuf Queues",
+        "de": "Neunschweifiger Tanz",
+        "it": "Danza a Nove Code",
+        "pt": "Dança de Nove Caudas",
+        "es": "Baile de Nueve Colas"
       }
     }
   ],

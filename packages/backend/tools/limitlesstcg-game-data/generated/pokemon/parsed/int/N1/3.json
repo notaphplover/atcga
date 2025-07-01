@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, remove all damage counters from 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Sweet Nectar"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Does 30 damage times the number of cards with Bellossom in their names that you have in play (including this one)."

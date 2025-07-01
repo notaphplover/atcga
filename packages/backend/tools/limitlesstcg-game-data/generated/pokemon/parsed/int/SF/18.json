@@ -3,7 +3,21 @@
   "abilityName": "Fainting Spell",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on 1 of your opponent's Pokémon. If that Pokémon has any Poké-Powers, put 6 damage counters on that Pokémon instead."
+      },
+      "name": {
+        "en": "Shadow Room"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Look at your opponent's hand. This attack does 30 damage times the number of Trainer, Supporter, and Stadium cards in your opponent's hand."

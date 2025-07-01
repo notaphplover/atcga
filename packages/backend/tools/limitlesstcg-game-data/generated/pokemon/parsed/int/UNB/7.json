@@ -3,7 +3,10 @@
   "abilityName": "Irresistible Aroma",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "かたいこうら",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "160+",
       "effect": {
         "jp": "コインを1回投げオモテなら、80ダメージ追加。"

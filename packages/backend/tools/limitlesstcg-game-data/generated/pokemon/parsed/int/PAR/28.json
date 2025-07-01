@@ -3,7 +3,11 @@
   "abilityName": "Thermal Reactor",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Heat Ray.",

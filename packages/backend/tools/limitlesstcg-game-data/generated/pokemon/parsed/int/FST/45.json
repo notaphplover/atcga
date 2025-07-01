@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned. During your next turn, this Pokémon can't attack.",

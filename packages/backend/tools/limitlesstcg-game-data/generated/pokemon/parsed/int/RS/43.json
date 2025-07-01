@@ -3,7 +3,9 @@
   "abilityName": "Hard Cocoon",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."

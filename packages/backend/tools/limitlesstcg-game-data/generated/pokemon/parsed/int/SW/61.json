@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 60 more damage."
@@ -11,7 +13,9 @@
       }
     },
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Raticate has any [D] Energy attached to it, this attack does 20 damage plus 20 more damage."

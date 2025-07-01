@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of either player's deck and put them back on top of that player's deck in any order.",
+        "fr": "Regardez les 5 cartes du dessus du deck de l'un des joueurs et replacez-les sur le dessus du deck de ce joueur dans l'ordre de votre choix.",
+        "de": "Schau dir die obersten 5 Karten des Decks eines der beiden Spieler an und lege sie in beliebiger Reihenfolge zurück auf dessen Deck.",
+        "it": "Guarda le prime cinque carte del mazzo di uno dei giocatori e rimettile in cima al suo mazzo nell'ordine che preferisci.",
+        "es": "Mira las 5 primeras cartas de la baraja de cualquiera de los jugadores y vuelve a ponerlas en la parte superior de la baraja de ese jugador en el orden que quieras."
+      },
+      "name": {
+        "en": "Future Sight",
+        "fr": "Prescience",
+        "de": "Seher",
+        "it": "Divinazione",
+        "es": "Premonición"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent reveals his or her hand. Discard a Trainer card you find there.",

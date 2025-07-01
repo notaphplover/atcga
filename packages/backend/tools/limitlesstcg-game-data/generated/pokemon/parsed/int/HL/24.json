@@ -3,7 +3,9 @@
   "abilityName": "Deep Sleep",
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."

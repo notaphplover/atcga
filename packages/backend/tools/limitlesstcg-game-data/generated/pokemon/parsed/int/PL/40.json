@@ -3,7 +3,10 @@
   "abilityName": "Anticipation",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon is Poisoned, this attack does 20 damage plus 40 more damage."

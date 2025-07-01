@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to Latios. Shuffle your deck afterward."
@@ -11,7 +13,12 @@
       }
     },
     {
-      "cost": "glcc",
+      "cost": [
+        "g",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard 3 Energy attached to Latios."

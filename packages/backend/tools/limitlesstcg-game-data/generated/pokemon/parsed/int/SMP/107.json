@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "This attack does 60 damage to 1 of your opponent's Pokémon-GX or Pokémon-EX. This damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Dusk Shot"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If your opponent has exactly 1 Prize card remaining, this attack does 100 more damage."

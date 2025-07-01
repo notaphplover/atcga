@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Marill during your opponent's next turn. (Any other effects of attacks still happen.)"
+      },
+      "name": {
+        "en": "Defense Curl"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, Marill does 10 damage to itself."

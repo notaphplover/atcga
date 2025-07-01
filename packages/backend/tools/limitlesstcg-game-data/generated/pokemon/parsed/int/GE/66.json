@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from Ekans."
+      },
+      "name": {
+        "en": "Shed Skin"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."

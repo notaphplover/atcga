@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Move a [G] Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -34,6 +39,24 @@
         "de": "Blätterwirbel",
         "it": "Turbine Verde",
         "es": "Vendaval de Hojas"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal all damage from each of your Pokémon that has any [G] Energy attached to it. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Soignez tous les dégâts à chacun de vos Pokémon auquel de l'Énergie [G] est attachée. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Heile allen Schaden bei jedem deiner Pokémon, an das mindestens 1 [G]-Energie angelegt ist. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cura ciascuno dei tuoi Pokémon che ha Energie [G] assegnate da tutti i danni. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Jungle Heal-GX",
+        "fr": "Jungle Cicatrisante-GX",
+        "de": "Dschungelheilung-GX",
+        "it": "Cura Silvestre-GX",
+        "es": "Curación Selva-GX"
       }
     }
   ],

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck.",
+        "fr": "Lancez une pièce. Si c'est face, choisissez une carte au hasard de la main de votre adversaire. Votre adversaire montre la carte choisie et la mélange avec son deck.",
+        "de": "Wirf 1 Münze. Wähle bei „Kopf“ 1 zufällige Karte aus der verdeckten Hand deines Gegners. Dein Gegner zeigt diese Karte und mischt sie zurück in sein Deck.",
+        "it": "Lancia una moneta. Se esce testa, scegli una carta a caso dalla mano del tuo avversario. Il tuo avversario mostra quella carta e la rimischia nel suo mazzo.",
+        "es": "Lanza una moneda. Si sale cara, elige una carta aleatoria de la mano de tu rival. Tu rival enseña esa carta, la pone en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Astonish",
+        "fr": "Étonnement",
+        "de": "Erstauner",
+        "it": "Sgomento",
+        "es": "Impresionar"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal 30 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn.",

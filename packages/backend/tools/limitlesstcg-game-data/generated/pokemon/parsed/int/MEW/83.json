@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Package Deal",
+        "fr": "Aubaine",
+        "de": "Pauschale",
+        "it": "Pacchetto Completo",
+        "pt": "Promoção Combinada",
+        "es": "Paquete Ganga"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -3,7 +3,12 @@
   "abilityName": "Turboblaze",
   "attacks": [
     {
-      "cost": "rrlc",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Discard a [R] Energy attached to this Pokémon.",

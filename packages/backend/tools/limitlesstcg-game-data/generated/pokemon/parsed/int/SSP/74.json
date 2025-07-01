@@ -3,7 +3,12 @@
   "abilityName": "Glistening Bubbles",
   "attacks": [
     {
-      "cost": "pppp",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "230",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

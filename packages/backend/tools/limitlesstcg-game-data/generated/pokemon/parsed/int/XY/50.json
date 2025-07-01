@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may move an Energy attached to your opponent's Active Pokémon to 1 of your opponent's Benched Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

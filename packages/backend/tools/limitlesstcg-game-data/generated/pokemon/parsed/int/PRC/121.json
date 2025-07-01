@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la carta in cima al mazzo del tuo avversario.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Burrow",
+        "fr": "Terrier",
+        "de": "Verbuddeln",
+        "it": "Buca",
+        "es": "Escarbar"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle a card from your discard pile into your deck.",
+        "fr": "Mélangez une carte de votre pile de défausse avec votre deck.",
+        "de": "Mische 1 Karte aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia una carta dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 1 carta de tu pila de descartes en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Rototiller",
+        "fr": "Fertilisation",
+        "de": "Pflüger",
+        "it": "Aracampo",
+        "es": "Fertilizante"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

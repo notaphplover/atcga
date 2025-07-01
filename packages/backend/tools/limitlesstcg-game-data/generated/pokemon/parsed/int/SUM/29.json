@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -13,7 +15,9 @@
       }
     },
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Discard up to 2 [W] Energy cards from your hand. This attack does 60 damage for each card you discarded in this way.",

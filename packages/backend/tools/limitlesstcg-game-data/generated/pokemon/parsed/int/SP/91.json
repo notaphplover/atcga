@@ -3,7 +3,11 @@
   "abilityName": "Metal Transfer",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ddd",
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "190",
       "effect": {
         "en": "Put 3 damage counters on this Pokémon.",

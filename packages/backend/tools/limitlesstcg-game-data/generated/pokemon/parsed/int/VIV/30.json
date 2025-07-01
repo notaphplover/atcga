@@ -3,7 +3,10 @@
   "abilityName": "Torrential Awakening",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

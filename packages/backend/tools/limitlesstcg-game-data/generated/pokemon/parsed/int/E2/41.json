@@ -3,7 +3,11 @@
   "abilityName": "Dark Moon",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

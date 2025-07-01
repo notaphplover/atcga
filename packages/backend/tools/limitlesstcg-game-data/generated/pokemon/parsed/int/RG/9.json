@@ -3,7 +3,22 @@
   "abilityName": "Family Bonds",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+      },
+      "name": {
+        "en": "Toxic"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 10 more damage for each Evolved Pokémon you have in play."

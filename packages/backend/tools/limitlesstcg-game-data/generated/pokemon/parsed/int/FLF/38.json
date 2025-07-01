@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench.",
+        "fr": "Prenez un Pokémon de base dans la pile de défausse de votre adversaire et placez-le sur son Banc.",
+        "de": "Nimm 1 Basis-Pokémon vom Ablagestapel deines Gegners und lege es auf seine Bank.",
+        "it": "Prendi un Pokémon Base dalla pila degli scarti del tuo avversario e mettilo nella sua panchina.",
+        "es": "Pon 1 Pokémon Básico de la pila de descartes de tu rival en su Banca."
+      },
+      "name": {
+        "en": "Revival",
+        "fr": "Réapparition",
+        "de": "Wiederbeleben",
+        "it": "Vitalizzante",
+        "es": "Reaparición"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on your opponent's Active Pokémon.",
+        "fr": "Placez un marqueur de dégâts sur le Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 Schadensmarke auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti un segnalino danno sul Pokémon attivo del tuo avversario.",
+        "es": "Pon 1 contador de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Sneaky Placement",
+        "fr": "Placement Vicieux",
+        "de": "Heimlichtuerei",
+        "it": "Furtivappoggio",
+        "es": "Colocación Furtiva"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

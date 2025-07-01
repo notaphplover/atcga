@@ -1,7 +1,19 @@
 {
   "abilityEffect": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't take a Prize card. Shuffle this Pokémon and all cards attached to it into your deck.",
   "abilityName": "Leap Through Time",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on each of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Sparkle Motion"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

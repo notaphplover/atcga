@@ -3,7 +3,11 @@
   "abilityName": "Azure Seas",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage.",

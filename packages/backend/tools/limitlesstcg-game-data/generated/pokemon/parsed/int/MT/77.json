@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Sleep Scent"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."

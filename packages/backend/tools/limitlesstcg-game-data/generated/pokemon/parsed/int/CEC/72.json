@@ -3,7 +3,10 @@
   "abilityName": "Blinking Lights",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may have your opponent shuffle their deck.",

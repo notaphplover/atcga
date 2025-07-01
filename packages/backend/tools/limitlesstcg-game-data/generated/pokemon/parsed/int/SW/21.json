@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose a card from your opponent's hand without looking and discard it. If you discarded a Trainer, Supporter, or Stadium card, choose 1 more card from your opponent's hand without looking and discard it."
+      },
+      "name": {
+        "en": "Baleful Wind"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If you played Absol from your hand during this turn, this attack's base damage is 40 instead of 10."

@@ -3,7 +3,10 @@
   "abilityName": "ぶっとびボム",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

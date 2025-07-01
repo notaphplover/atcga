@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 more damage for each [M] Energy attached to this Pokémon.",
@@ -17,7 +19,12 @@
       }
     },
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Draw cards until you have 6 cards in your hand.",

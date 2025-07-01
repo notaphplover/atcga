@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 5 coins. This attack does 20 damage times the number of heads. This Pokémon can't attack during your next turn.",

@@ -3,7 +3,11 @@
   "abilityName": "Rebirth",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If an attack does damage to Rocket's Moltres during your opponent's next turn (even if Rocket's Moltres is Knocked Out), Rocket's Moltres attacks your opponent's Active Pokémon for 10 damage. (Apply Weakness and Resistance.)"

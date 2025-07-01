@@ -3,7 +3,18 @@
   "abilityName": "Overeager",
   "attacks": [
     {
-      "cost": "d",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for a Supporter card and discard it. Shuffle your deck afterward. Then, use the effect of that card as the effect of this attack."
+      },
+      "name": {
+        "en": "Impersonate"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If the Defending Pokémon has fewer remaining HP than Sableye, this attack's base damage is 40."

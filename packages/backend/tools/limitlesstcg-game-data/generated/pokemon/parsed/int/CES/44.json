@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a number of Basic Pokémon up to the number of your opponent's Benched Pokémon and put those Pokémon onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck un nombre de Pokémon de base inférieur ou égal au nombre de Pokémon de Banc de votre adversaire, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu so vielen Basis-Pokémon, wie dein Gegner Pokémon auf seiner Bank hat, und lege jene Pokémon auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un numero di Pokémon Base uguale o inferiore al numero di Pokémon nella panchina del tuo avversario e metti quei Pokémon nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja un número de Pokémon Básicos hasta el número de los Pokémon en Banca de tu rival y pon esos Pokémon en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Even Game",
+        "fr": "Partie Équilibrée",
+        "de": "Ausgeglichenes Spiel",
+        "it": "Partita alla Pari",
+        "es": "Partida Equilibrada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

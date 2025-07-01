@@ -3,7 +3,11 @@
   "abilityName": "Levitation Field",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "If the Defending Pokémon is an Evolution Pokémon, it can't attack during your opponent's next turn.",

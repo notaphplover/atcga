@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Stampede"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each Defending Pokémon, and each Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Trembler"
       }
     }
   ],

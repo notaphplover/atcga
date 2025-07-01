@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Mantine can't attack during your next turn."

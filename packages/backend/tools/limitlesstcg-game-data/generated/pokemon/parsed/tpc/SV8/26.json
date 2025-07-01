@@ -3,7 +3,11 @@
   "abilityName": "きらめくウロコ",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

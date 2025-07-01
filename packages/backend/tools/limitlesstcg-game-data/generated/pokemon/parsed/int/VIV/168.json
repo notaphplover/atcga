@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If you go first, you can use this attack during your first turn. Discard your hand and draw 6 cards.",
+        "fr": "Si vous jouez en premier, vous pouvez utiliser cette attaque pendant votre premier tour. Défaussez votre main et piochez 6 cartes.",
+        "de": "Wenn du als Erster am Zug bist, kannst du diese Attacke während deines ersten Zuges einsetzen. Lege deine Handkarten auf deinen Ablagestapel und ziehe 6 Karten.",
+        "it": "Se inizi per primo, puoi usare questo attacco durante il tuo primo turno. Scarta le carte che hai in mano e pesca sei carte.",
+        "pt": "Se você for primeiro, poderá usar este ataque no seu primeiro turno. Descarte a sua mão e compre 6 cartas.",
+        "es": "Si sales primero, puedes usar este ataque durante tu primer turno. Descarta las cartas de tu mano y roba 6 cartas."
+      },
+      "name": {
+        "en": "Fast Flight",
+        "fr": "Envol Soudain",
+        "de": "Rasanter Flug",
+        "it": "Volo Rapido",
+        "pt": "Voo Rápido",
+        "es": "Vuelo Veloz"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

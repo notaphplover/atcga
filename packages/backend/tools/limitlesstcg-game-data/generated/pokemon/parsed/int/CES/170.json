@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Discard 2 [R] Energy from this Pokémon.",
@@ -28,6 +35,24 @@
         "de": "Explosiver Tritt",
         "it": "Calcio Atomico",
         "es": "Patada Explosiva"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez 2 Énergies des Pokémon de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 2 Energien von den Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta due Energie assegnate ai Pokémon del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Blaze Out-GX",
+        "fr": "Embrasement-GX",
+        "de": "Brand-GX",
+        "it": "Rogo-GX",
+        "es": "Abrasamiento-GX"
       }
     }
   ],

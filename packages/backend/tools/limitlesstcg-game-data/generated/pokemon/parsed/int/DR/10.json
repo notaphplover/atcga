@@ -3,7 +3,10 @@
   "abilityName": "Dragon Wind",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Salamence during your opponent's next turn."
@@ -13,7 +16,12 @@
       }
     },
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "カースドアイズ",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "このワザのダメージは抵抗力の計算をしない。"

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire contre son Pokémon Actif.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+        "pt": "Troque 1 dos Pokémon no Banco do seu oponente pelo Pokémon Ativo dele(a).",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      },
+      "name": {
+        "en": "Pull",
+        "fr": "Tirer",
+        "de": "Ziehen",
+        "it": "Tira",
+        "pt": "Puxar",
+        "es": "Tirar"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any [D] Energy attached, this attack does 70 more damage.",

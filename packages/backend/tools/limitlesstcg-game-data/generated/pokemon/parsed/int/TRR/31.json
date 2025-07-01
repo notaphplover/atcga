@@ -3,7 +3,10 @@
   "abilityName": "Evolutionary Light",
   "attacks": [
     {
-      "cost": "wl",
+      "cost": [
+        "w",
+        "l"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

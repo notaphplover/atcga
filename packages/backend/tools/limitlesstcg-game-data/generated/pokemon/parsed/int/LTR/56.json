@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "You and your opponent play Rock-Paper-Scissors. The player who wins draws 3 cards. The player who loses discards the top 3 cards of his or her deck."
+      },
+      "name": {
+        "en": "Fortunate Draw"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."

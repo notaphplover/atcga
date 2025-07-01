@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, if Hitmonchan is damaged by an opponent's attack (even if Hitmonchan is Knocked Out), put 4 damage counters on the Attacking Pokémon."
+      },
+      "name": {
+        "en": "Counter Punch"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If Tyrogue is anywhere under Hitmonchan, this attack's base damage is 60 instead of 30."

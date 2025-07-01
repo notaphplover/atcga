@@ -3,7 +3,11 @@
   "abilityName": "Trash Cloak",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Wormadam Trash Cloak does 20 damage to itself."

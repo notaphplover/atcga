@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Placez 3 marqueurs de dégâts au lieu d'un sur le Pokémon ciblé entre chaque tour.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Lege zwischen den Zügen 3 Schadensmarken anstelle von 1 Schadensmarke auf jenes Pokémon.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato. Tra un turno e l'altro, metti tre segnalini danno invece di uno su quel Pokémon.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado. Pon 3 contadores de daño en vez de 1 en ese Pokémon entre turnos."
+      },
+      "name": {
+        "en": "Triple Poison",
+        "fr": "Triple Poison",
+        "de": "Dreifachgift",
+        "it": "Triplo Veleno",
+        "es": "Veneno Triple"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage.",

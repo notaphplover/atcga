@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Put up to 2 Item cards from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 2 cartes Objet de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 2 Itemkarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a due carte Strumento dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 2 cartas de Item da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 2 cartas de Objeto de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Floatify",
+        "fr": "Flottifier",
+        "de": "Floaten",
+        "it": "Galleggiamento",
+        "pt": "Flutualizador",
+        "es": "Flotación"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

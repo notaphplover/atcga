@@ -3,7 +3,10 @@
   "abilityName": "フラワーガード",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "相手は山札を1枚引く。"

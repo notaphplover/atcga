@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",
@@ -31,7 +40,11 @@
       }
     },
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "250",
       "effect": {
         "en": "You can use this attack only if you have more Prize cards remaining than your opponent. (You can't use more than 1 GX attack in a game.)",

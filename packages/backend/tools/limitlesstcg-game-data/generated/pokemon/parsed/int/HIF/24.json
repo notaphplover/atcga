@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 4 coins. For each heads, search your deck for a [L] Energy card and attach it to 1 of your Pokémon-GX or Pokémon-EX. Then, shuffle your deck.",
+        "fr": "Lancez 4 pièces. Pour chaque côté face, cherchez une carte Énergie [L] dans votre deck et attachez-la à l'un de vos Pokémon-GX ou Pokémon-EX. Mélangez ensuite votre deck.",
+        "de": "Wirf 4 Münzen. Durchsuche pro Kopf dein Deck nach 1 [L]-Energiekarte und lege sie an 1 deiner Pokémon-GX oder Pokémon-EX an. Mische anschließend dein Deck.",
+        "it": "Lancia quattro volte una moneta. Ogni volta che esce testa, cerca nel tuo mazzo una carta Energia [L] e assegnala a uno dei tuoi Pokémon-GX o dei tuoi Pokémon-EX. Poi rimischia le carte del tuo mazzo."
+      },
+      "name": {
+        "en": "Hurricane Call",
+        "fr": "Appel à l'Ouragan",
+        "de": "Sturmruf",
+        "it": "Richiamo Uragano"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

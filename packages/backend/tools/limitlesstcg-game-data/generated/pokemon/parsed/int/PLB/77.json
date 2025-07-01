@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+        "fr": "Défaussez toutes les cartes Outil Pokémon attachées à chacun des Pokémon de votre adversaire.",
+        "de": "Lege alle an gegnerische Pokémon angelegte Pokémon-Ausrüstungen auf den Ablagestapel deines Gegners."
+      },
+      "name": {
+        "en": "Misinformation",
+        "fr": "Intox",
+        "de": "Fehlinformation"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Confused.",

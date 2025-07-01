@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",
@@ -18,6 +20,28 @@
         "it": "Parassiseme",
         "pt": "Semente Sanguessuga",
         "es": "Drenadoras"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent shuffles their Active Pokémon and all attached cards and puts them on the bottom of their deck.",
+        "fr": "Lancez une pièce. Si c'est face, votre adversaire mélange son Pokémon Actif et toutes les cartes attachées, puis les place en dessous de son deck.",
+        "de": "Wirf 1 Münze. Bei Kopf mischt dein Gegner sein Aktives Pokémon und alle angelegten Karten, und legt sie unter sein Deck.",
+        "it": "Lancia una moneta. Se esce testa, il tuo avversario rimischia il suo Pokémon attivo e tutte le carte a esso assegnate e li mette in fondo al suo mazzo.",
+        "pt": "Jogue 1 moeda. Se sair cara, seu oponente embaralhará o Pokémon Ativo dele(a) e todas as cartas ligadas a ele e os colocará como as cartas de baixo do baralho dele(a).",
+        "es": "Lanza 1 moneda. Si sale cara, tu rival baraja su Pokémon Activo y todas las cartas unidas a él y las pone en la parte inferior de su baraja."
+      },
+      "name": {
+        "en": "Flower Bearing",
+        "fr": "Source-Fleur",
+        "de": "Blumenzucht",
+        "it": "Originazione Fiori",
+        "pt": "Safra das Flores",
+        "es": "Portar las Flores"
       }
     }
   ],

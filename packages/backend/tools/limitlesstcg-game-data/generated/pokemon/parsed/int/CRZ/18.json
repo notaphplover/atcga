@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "180",
       "effect": {},
       "name": {

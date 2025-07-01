@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -14,7 +17,11 @@
       }
     },
     {
-      "cost": "ggg",
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This attack's damage isn’t affected by Resistance.",

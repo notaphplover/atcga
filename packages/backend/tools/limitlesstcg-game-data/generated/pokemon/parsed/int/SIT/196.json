@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "You may move any amount of Energy from your Pokémon to your other Pokémon in any way you like.",
@@ -21,7 +25,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "This attack does 60 damage for each Energy attached to this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 VSTAR Power in a game.)",

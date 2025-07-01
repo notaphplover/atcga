@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Envenenado.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poison Sting",
+        "fr": "Dard-Venin",
+        "de": "Giftstachel",
+        "it": "Velenospina",
+        "pt": "Ferrão Venenoso",
+        "es": "Picotazo Veneno"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

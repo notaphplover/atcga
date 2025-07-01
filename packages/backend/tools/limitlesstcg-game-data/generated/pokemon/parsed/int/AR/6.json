@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 3 in any combination of Burmy and Wormadam, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Cloak Party"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon."

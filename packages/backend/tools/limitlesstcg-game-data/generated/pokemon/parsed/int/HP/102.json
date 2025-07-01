@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, search your discard pile for a basic Energy card and attach it to Gyarados Star."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Discard cards from the top of your deck until you have 1 card left. This attack does 50 damage plus 20 more damage for each Energy card you discarded in this way."

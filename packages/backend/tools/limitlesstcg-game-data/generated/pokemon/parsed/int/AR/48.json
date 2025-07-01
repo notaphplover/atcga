@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Shelgon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Scrunch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If Shelgon has any basic [R] Energy and any basic [W] Energy attached to it, this attack does 40 damage plus 20 more damage."

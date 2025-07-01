@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
@@ -11,7 +15,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard 1 [R] Energy card attached to Houndoom or this attack does nothing."

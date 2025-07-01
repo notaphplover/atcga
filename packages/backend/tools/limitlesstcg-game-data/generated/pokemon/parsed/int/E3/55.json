@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      "name": {
+        "en": "Whirlwind"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."

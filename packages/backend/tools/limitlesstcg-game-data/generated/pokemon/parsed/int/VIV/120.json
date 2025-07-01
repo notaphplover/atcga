@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Draw a card.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

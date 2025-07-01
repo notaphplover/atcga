@@ -3,7 +3,9 @@
   "abilityName": "Shell Retreat",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

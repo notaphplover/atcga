@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",
@@ -16,6 +18,26 @@
         "de": "Klaue",
         "it": "Artiglio",
         "es": "Garra"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal all damage from this Pokémon. It can't attack during your next turn.",
+        "fr": "Soignez tous les dégâts de ce Pokémon. Il ne peut pas attaquer pendant votre prochain tour.",
+        "de": "Heile allen Schaden bei diesem Pokémon. Es kann während deines nächsten Zuges nicht angreifen.",
+        "it": "Cura questo Pokémon da tutti i danni. Non può attaccare durante il tuo prossimo turno.",
+        "es": "Cura todos los puntos de daño a este Pokémon. No puede atacar durante tu próximo turno."
+      },
+      "name": {
+        "en": "Slack Off",
+        "fr": "Paresse",
+        "de": "Tagedieb",
+        "it": "Pigro",
+        "es": "Relajo"
       }
     }
   ],

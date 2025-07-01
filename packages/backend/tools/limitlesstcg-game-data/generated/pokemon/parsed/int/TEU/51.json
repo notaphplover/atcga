@@ -3,7 +3,11 @@
   "abilityName": "Dance of the Ancients",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

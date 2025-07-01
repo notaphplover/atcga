@@ -3,7 +3,10 @@
   "abilityName": "Enervating Pollen",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Both the Defending Pokémon and Gloom are now Asleep (after doing damage)."

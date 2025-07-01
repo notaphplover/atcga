@@ -3,7 +3,11 @@
   "abilityName": "Loving Veil",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",

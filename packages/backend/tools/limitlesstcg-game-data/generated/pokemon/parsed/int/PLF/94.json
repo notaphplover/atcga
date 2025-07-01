@@ -1,7 +1,27 @@
 {
   "abilityEffect": "As long as this Pokémon is your Active Pokémon, this Pokémon is the same type as your opponent's Active Pokémon.",
   "abilityName": "Color Change",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. If this Pokémon has the necessary Energy to use that attack, use it as this attack.",
+        "fr": "Choisissez 1 des attaques du Pokémon Défenseur. Si ce Pokémon a l'Énergie nécessaire pour utiliser l'attaque choisie, utilisez-laà la place de cette attaque.",
+        "de": "Wähle 1 Angriff des Verteidigenden Pokémon. Wenn an dieses Pokémon die für den gewählten Angriff erforderliche Energie angelegt ist, verwende ihn als diesen Angriff.",
+        "it": "Scegli un attacco del Pokémon difensore. Se questo Pokémon ha l'Energia necessaria per quell'attacco, usalo al posto di questo.",
+        "es": "Elige 1 de los ataques del Pokémon Defensor. Si este Pokémon tiene la Energía necesaria para usar ese ataque, úsalo para este ataque."
+      },
+      "name": {
+        "en": "Imittack",
+        "fr": "Imit'Attaque",
+        "de": "Nachmacher",
+        "it": "Emulattacco",
+        "es": "Imitaque"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

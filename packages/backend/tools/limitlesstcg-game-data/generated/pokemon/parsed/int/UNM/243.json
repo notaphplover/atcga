@@ -3,7 +3,11 @@
   "abilityName": "Power Bind",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from TAG TEAM Pokémon.",
@@ -18,6 +22,25 @@
         "de": "Team-Block",
         "it": "Abbagliante Alleati",
         "es": "Purga Relevo"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "For the rest of this game, your opponent can't use any GX attacks. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Pour le reste de cette partie, votre adversaire ne peut pas utiliser d'attaque GX. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Für den Rest des Spiels kann dein Gegner keine GX-Attacken einsetzen. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Per il resto della partita, il tuo avversario non può usare attacchi GX. Non puoi usare più di un attacco GX a partita.",
+        "es": "Durante el resto de la partida, tu rival no puede usar ningún ataque GX. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Clear Vision-GX",
+        "fr": "Acuité-GX",
+        "de": "Freie Sicht-GX",
+        "it": "Chiara Visione-GX",
+        "es": "Visión Clara-GX"
       }
     }
   ],

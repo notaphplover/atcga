@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "相手の手札を見る。"
+      },
+      "name": {
+        "jp": "さぐる"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

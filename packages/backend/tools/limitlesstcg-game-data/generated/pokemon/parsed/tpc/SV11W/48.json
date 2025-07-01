@@ -3,7 +3,10 @@
   "abilityName": "げんしのつばさ",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

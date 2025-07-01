@@ -3,7 +3,9 @@
   "abilityName": "Cottonweed",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Remove all Special Conditions from Hoppip."

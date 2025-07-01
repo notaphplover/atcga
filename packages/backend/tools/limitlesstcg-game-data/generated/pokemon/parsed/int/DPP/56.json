@@ -3,7 +3,11 @@
   "abilityName": "Multitype",
   "attacks": [
     {
-      "cost": "grc",
+      "cost": [
+        "g",
+        "r",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If tails, this attack's base damage is 50 instead of 100."

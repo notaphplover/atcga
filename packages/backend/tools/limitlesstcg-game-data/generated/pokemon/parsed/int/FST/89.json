@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If 1 of your Minun used an attack during your last turn, this attack does 100 more damage.",

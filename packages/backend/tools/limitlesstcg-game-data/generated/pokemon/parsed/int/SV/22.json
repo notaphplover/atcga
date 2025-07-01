@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on any Pokémon (both yours and your opponent's) in any way you like."
+      },
+      "name": {
+        "en": "Antique Magic"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If the Defending Pokémon has the same remaining HP as Claydol, this attack's base damage is 90 instead of 30."

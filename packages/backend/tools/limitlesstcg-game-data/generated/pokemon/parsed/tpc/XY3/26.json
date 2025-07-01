@@ -3,7 +3,12 @@
   "abilityName": "アイスウォール",
   "attacks": [
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

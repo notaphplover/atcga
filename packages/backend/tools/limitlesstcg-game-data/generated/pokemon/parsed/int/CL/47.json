@@ -1,7 +1,23 @@
 {
   "abilityEffect": "As long as Mime Jr. is Asleep, prevent all damage done to Mime Jr. by attacks.",
   "abilityName": "Sweet Sleeping Face",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Put the top card of your opponent's deck in the Lost Zone. Mime Jr. is now Asleep.",
+        "fr": "Placez la carte du dessus du deck de votre adversaire dans la Zone Perdue. Mime Jr. est maintenant Endormi.",
+        "de": "Lege die oberste Karte vom Deck deines Gegners ins Nirgendwo. Pantimimi schläft jetzt.",
+        "it": "Metti la carta in cima al mazzo del tuo avversario nell'Area Perduta. Mime Jr. è Addormentato."
+      },
+      "name": {
+        "en": "Sleepy Lost",
+        "fr": "Berceuse perdue",
+        "de": "Nirgendwo-Schlaf",
+        "it": "Sonno Perduto"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

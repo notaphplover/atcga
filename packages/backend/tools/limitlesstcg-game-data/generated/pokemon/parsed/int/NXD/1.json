@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, discard an Energy attached to the Defending Pokémon.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, défaussez une Énergie attachée au Pokémon Défenseur.",
+        "de": "Wirf 2 Münzen. Lege pro „Kopf“ 1 an das Verteidigende Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, scarta un'Energia assegnata al Pokémon difensore.",
+        "es": "Lanza 2 monedas. Por cada cara, descarta una Energía unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Power Pinch",
+        "fr": "Pinces Vigoureuses",
+        "de": "Kraftkniff",
+        "it": "Pinzapotere",
+        "es": "Pellizco Vigoroso"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

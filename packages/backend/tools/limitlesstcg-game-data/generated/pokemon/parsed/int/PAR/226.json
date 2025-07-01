@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each Energy attached to all of your opponent's Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ddd",
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Bandit's Fist.",

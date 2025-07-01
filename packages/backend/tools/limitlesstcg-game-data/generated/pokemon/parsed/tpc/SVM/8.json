@@ -3,7 +3,11 @@
   "abilityName": "にほんばれ",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

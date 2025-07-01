@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Take up to 2 [L] Energy cards from your discard pile and attach them to Lt. Surge's Electabuzz."
+      },
+      "name": {
+        "en": "Charge"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Discard all [L] Energy cards attached to Lt. Surge's Electabuzz in order to use this attack. Flip a number of coins equal to the number of [L] Energy cards you discarded. This attack does 30 damage times the number of heads."

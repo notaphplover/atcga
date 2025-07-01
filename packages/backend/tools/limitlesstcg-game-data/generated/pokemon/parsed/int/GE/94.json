@@ -1,11 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Mumble"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Uproar"
       }
     }
   ],

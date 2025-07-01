@@ -3,7 +3,11 @@
   "abilityName": "Luminous Sign",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Shuffle this Pokémon and all attached cards into your deck.",

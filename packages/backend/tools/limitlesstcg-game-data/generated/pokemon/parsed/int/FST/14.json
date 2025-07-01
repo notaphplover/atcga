@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack can be used for [G].",

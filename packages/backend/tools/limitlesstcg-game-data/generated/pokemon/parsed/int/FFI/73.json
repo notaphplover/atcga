@@ -3,7 +3,10 @@
   "abilityName": "Secret Key",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

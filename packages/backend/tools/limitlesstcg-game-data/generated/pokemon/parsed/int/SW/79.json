@@ -3,7 +3,9 @@
   "abilityName": "Wear Cloak",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If Burmy Sandy Cloak has any [F] Energy attached to it, this attack does 10 damage plus 10 more damage."

@@ -3,7 +3,11 @@
   "abilityName": "Psychic Protector",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Flip a coin. If tails, Flygon ex can't use Slashing Strike during your next turn."

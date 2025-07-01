@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your discard pile for a [L] Energy card and attach it to Electivire.",
@@ -14,6 +16,25 @@
         "fr": "Plasma",
         "de": "Plasma",
         "it": "Plasma"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to each of your opponent's Pokémon that has any Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 50 dégâts à chacun des Pokémon de votre adversaire auxquels sont attachées des cartes Énergie. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon deines Gegners, an das Energiekarten angelegt sind, 50 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 50 danni a ciascun Pokémon del tuo avversario che ha delle carte Energia assegnate. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+      },
+      "name": {
+        "en": "Thunder Shot",
+        "fr": "Tir foudroyant",
+        "de": "Donnerschuss",
+        "it": "Lanciotuono"
       }
     }
   ],

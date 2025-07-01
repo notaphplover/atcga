@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Discard a random card from your opponent's hand. Switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire. Échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Lege 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel. Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario. Scambia questo Pokémon con uno della tua panchina.",
+        "es": "Descarta 1 carta aleatoria de la mano de tu rival. Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Rip and Run",
+        "fr": "Échapée Belle",
+        "de": "Diebesflucht",
+        "it": "Prendi e Fuggi",
+        "es": "Quita y Corre"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

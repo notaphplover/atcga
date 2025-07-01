@@ -3,7 +3,11 @@
   "abilityName": "Dragon Road",
   "attacks": [
     {
-      "cost": "pdc",
+      "cost": [
+        "p",
+        "d",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."

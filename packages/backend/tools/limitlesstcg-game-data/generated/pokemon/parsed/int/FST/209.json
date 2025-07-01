@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put up to 2 Fusion Strike Trainer cards from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 2 cartes Dresseur Poing de Fusion de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 2 Fusionsangriff-Trainerkarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a due carte Allenatore Colpo Fusione dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 2 cartas de Treinador Golpe Fusão da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 2 cartas de Entrenador de Golpe Fusión de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Sketching Trash",
+        "fr": "Corbeille Esquissée",
+        "de": "Müllskizze",
+        "it": "Bozza di Scarti",
+        "pt": "Desenhando Lixo",
+        "es": "Basura Boceto"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

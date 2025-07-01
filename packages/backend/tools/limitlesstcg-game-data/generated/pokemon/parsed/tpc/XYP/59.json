@@ -3,7 +3,11 @@
   "abilityName": "おやぶんはだ",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "jp": "このポケモンが特殊状態なら、40ダメージを追加。"

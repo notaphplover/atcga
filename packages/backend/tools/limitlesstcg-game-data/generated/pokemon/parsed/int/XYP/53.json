@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ggg",
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon can't use Strong Slash during your next turn."

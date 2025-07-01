@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Confus.",
+        "it": "Il Pokémon difensore viene confuso.",
+        "es": "El Pokémon Defensor pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Tail Trickery",
+        "fr": "Queue Étourdissante",
+        "de": "Schweiftrick",
+        "it": "Confondicoda",
+        "es": "Cola Engaño"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 of your Benched Pokémon's attacks and use it as this attack.",
+        "fr": "Lancez une pièce. Si c'est face, choisissez une attaque de l'un de vos Pokémon de Banc et utilisez-la en tant que cette attaque.",
+        "it": "Lancia una moneta. Se esce testa, scegli un attacco di uno dei tuoi Pokémon in panchina e usalo al posto di questo attacco.",
+        "es": "Lanza una moneda. Si sale cara, elige 1 de los ataques de tus Pokémon en Banca y úsalo para este ataque."
+      },
+      "name": {
+        "en": "Assist",
+        "fr": "Assistance",
+        "de": "Zuschuss",
+        "it": "Assistente",
+        "es": "Ayuda"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

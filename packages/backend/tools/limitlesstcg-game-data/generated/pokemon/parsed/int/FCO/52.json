@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      },
+      "name": {
+        "en": "Lookout",
+        "fr": "Surveillance",
+        "de": "Wachsamkeit",
+        "it": "Vedetta",
+        "es": "Vigilancia"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "If the Defending Pokémon is a [D] or [Y] Pokémon, it can't attack during your opponent's next turn.",

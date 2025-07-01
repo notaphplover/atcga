@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Bubble"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin for each [W] Energy attached to Squirtle. This attack does 20 damage plus 10 more damage for each heads."

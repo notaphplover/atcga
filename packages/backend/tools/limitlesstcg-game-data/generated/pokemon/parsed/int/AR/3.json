@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Burned."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Discard the top 3 cards of your deck. This attack does 60 damage plus 20 more damage for each [R] or [M] Energy card you discarded."

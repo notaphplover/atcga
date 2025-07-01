@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top card of your opponent's deck. You may have your opponent shuffle their deck.",
+        "fr": "Regardez la carte du dessus du deck de votre adversaire. Vous pouvez demander à votre adversaire de mélanger son deck.",
+        "de": "Schau dir die oberste Karte des Decks deines Gegners an. Du kannst deinen Gegner dazu veranlassen, sein Deck zu mischen.",
+        "it": "Guarda la prima carta del mazzo del tuo avversario. Puoi far rimischiare il suo mazzo al tuo avversario.",
+        "pt": "Olhe a carta de cima do baralho do seu oponente. Você pode fazer com que o seu oponente embaralhe o próprio baralho.",
+        "es": "Mira la primera carta de la baraja de tu rival. Puedes hacer que tu rival baraje las cartas de su baraja."
+      },
+      "name": {
+        "en": "Mischievous Tail",
+        "fr": "Queue Malicieuse",
+        "de": "Frecher Schweif",
+        "it": "Coda Birichina",
+        "pt": "Cauda Maliciosa",
+        "es": "Cola Traviesa"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

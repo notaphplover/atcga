@@ -3,7 +3,11 @@
   "abilityName": "Form Change",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Return 2 Energy attached to Deoxys to your hand."

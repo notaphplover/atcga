@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f"
+      ],
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, flip a coin. If heads, return the Defending Pokémon and all cards attached to it to your opponent's hand. If tails, your opponent chooses 1 of his or her Benched Pokémon and switches it with the Defending Pokémon."
+      },
+      "name": {
+        "en": "Tusk Toss"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

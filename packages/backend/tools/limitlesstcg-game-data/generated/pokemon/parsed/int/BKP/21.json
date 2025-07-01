@@ -3,7 +3,10 @@
   "abilityName": "Royal Flash",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "During your next turn, this Pokémon's Psych Up attack does 40 more damage (before applying Weakness and Resistance).",

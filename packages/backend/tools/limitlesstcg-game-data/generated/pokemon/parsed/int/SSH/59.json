@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "You may put an Energy attached to your opponent's Active Pokémon into their hand.",

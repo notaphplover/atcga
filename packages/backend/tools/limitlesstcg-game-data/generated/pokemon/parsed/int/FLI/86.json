@@ -3,7 +3,11 @@
   "abilityName": "Wondrous Gift",
   "attacks": [
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Prevent all damage done to this Pokémon by attacks from [N] Pokémon during your opponent's next turn.",

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Call for Family"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Switch Manaphy with 1 of your Benched Pokémon."

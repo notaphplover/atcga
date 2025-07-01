@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Double Draw",
+        "fr": "Double Pioche",
+        "de": "Zweifachzug",
+        "it": "Pescata Doppia",
+        "pt": "Compra Dupla",
+        "es": "Roba Doble"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

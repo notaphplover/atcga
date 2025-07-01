@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Your opponent can't play any Trainer cards or Stadium cards from his or her hand during your opponent's next turn."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 50 damage plus 20 more damage."

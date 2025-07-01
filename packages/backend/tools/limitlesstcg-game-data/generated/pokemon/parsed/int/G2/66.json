@@ -1,11 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Bite"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, if you have a [R] Energy card in your discard pile, put it into your hand."
+      },
+      "name": {
+        "en": "Call Will-o'-the-wisp"
       }
     }
   ],

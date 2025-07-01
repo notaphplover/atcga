@@ -3,7 +3,11 @@
   "abilityName": "Miracle Oracle",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon is now Confused."

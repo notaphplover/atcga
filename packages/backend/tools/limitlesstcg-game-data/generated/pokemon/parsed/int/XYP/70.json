@@ -3,7 +3,12 @@
   "abilityName": "Despotic Fang",
   "attacks": [
     {
-      "cost": "fmmc",
+      "cost": [
+        "f",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "Discard 3 Energy attached to this Pokémon."

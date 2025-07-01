@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a Pokémon Tool card attached to the Defending Pokémon.",
+        "fr": "Défaussez une carte Outil Pokémon attachée au Pokémon Défenseur.",
+        "de": "Lege 1 an das Verteidigende Pokémon angelegte Pokémon-Ausrüstung auf den Ablagestapel deines Gegners.",
+        "it": "Scarta una carta Oggetto Pokémon assegnata al Pokémon difensore.",
+        "es": "Descarta una carta de Herramienta Pokémon unida al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Tool Breaker",
+        "fr": "Bris'Outil",
+        "de": "Ausrüstungsbrecher",
+        "it": "Scartoggetto",
+        "es": "Rompeherramientas"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

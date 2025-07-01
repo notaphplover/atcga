@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "This attack does 80 more damage for each [R] Energy attached to this Pokémon.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard the top 2 cards of your opponent's deck.",

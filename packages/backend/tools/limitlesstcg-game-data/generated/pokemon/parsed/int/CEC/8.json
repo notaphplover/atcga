@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, ignore all Energy in the attack costs of [G] Pokémon and [R] Pokémon. (This includes Pokémon that come into play on that turn.)",
+        "fr": "Pendant votre prochain tour, ignorez toutes les Énergies dans le coût d'attaque des Pokémon [G] et des Pokémon [R]. (Cela comprend les Pokémon qui sont mis en jeu pendant ce tour.)",
+        "de": "Ignoriere während deines nächsten Zuges alle Energien in den Kosten der Attacken von [G]-Pokémon und [R]-Pokémon. (Dies schließt Pokémon, die während jenes Zuges ins Spiel gebracht werden, ein.)",
+        "it": "Durante il tuo prossimo turno, ignora tutte le Energie necessarie per usare gli attacchi dei Pokémon [G] e dei Pokémon [R], inclusi i Pokémon entrati in gioco in quel turno.",
+        "es": "Durante tu próximo turno, ignora todas las Energías en los costes de los ataques de Pokémon [G] y Pokémon [R]. (Esto incluye Pokémon que entran en juego en ese turno)."
+      },
+      "name": {
+        "en": "Solar Power",
+        "fr": "Force Soleil",
+        "de": "Solarkraft",
+        "it": "Solarpotere",
+        "es": "Poder Solar"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

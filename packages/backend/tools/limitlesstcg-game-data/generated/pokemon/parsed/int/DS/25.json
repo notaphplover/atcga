@@ -3,7 +3,10 @@
   "abilityName": "Backup",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If Porygon2 has a Technical Machine card attached to it, the Defending Pokémon is now Asleep and Burned."

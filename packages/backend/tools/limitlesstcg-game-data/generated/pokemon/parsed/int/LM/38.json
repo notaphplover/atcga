@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all Special Conditions and 5 damage counters (all if there are less than 5) from Lairon. Lairon is now Asleep."
+      },
+      "name": {
+        "en": "Rest"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

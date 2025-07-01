@@ -3,7 +3,11 @@
   "abilityName": "Metal Shield",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If any of your Pokémon were Knocked Out during your opponent's last turn, this attack does 120 more damage.",

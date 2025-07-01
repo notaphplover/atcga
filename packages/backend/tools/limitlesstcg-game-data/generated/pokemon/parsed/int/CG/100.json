@@ -1,7 +1,19 @@
 {
   "abilityEffect": "If Celebi Star would be Knocked Out by damage from an opponent's attack, you may flip a coin. If heads, Celebi Star is not Knocked Out, discard all cards attached to Celebi Star, and put Celebi Star on the bottom of your deck.",
   "abilityName": "Time Travel",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Count the amount of Energy attached to Celebi Star. Put that many damage counters on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Leaf Shade"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put up to 4 Pokémon from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 4 Pokémon de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 4 Pokémon aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a quattro Pokémon dalla tua pila degli scarti e aggiungili alle carte che hai in mano.",
+        "pt": "Coloque até 4 Pokémon da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 4 Pokémon de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Aquatic Rescue",
+        "fr": "Sauvetage Aquatique",
+        "de": "Wasserrettung",
+        "it": "Idrosalvataggio",
+        "pt": "Resgate Aquático",
+        "es": "Rescate Acuático"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

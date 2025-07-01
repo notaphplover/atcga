@@ -3,7 +3,12 @@
   "abilityName": "Flare Command",
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

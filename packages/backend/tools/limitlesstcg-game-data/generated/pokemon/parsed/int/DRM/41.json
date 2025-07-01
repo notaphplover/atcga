@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "wyc",
+      "cost": [
+        "w",
+        "y",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
@@ -34,6 +41,25 @@
         "de": "Schallkante",
         "it": "Muro del Suono",
         "es": "Tajo Sónico"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep. Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi. Soignez tous les dégâts de vos Pokémon. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt. Heile allen Schaden bei jedem deiner Pokémon. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato. Cura tutti i tuoi Pokémon da tutti i danni. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Euphoria-GX",
+        "fr": "Euphorie-GX",
+        "de": "Euphorie-GX",
+        "it": "Euforia-GX",
+        "es": "Euforia-GX"
       }
     }
   ],

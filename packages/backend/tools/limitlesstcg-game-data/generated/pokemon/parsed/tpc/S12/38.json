@@ -3,7 +3,11 @@
   "abilityName": "チャクラのめざめ",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "jp": "相手の場に「ポケモンVMAX」がいるなら、90ダメージ追加。"

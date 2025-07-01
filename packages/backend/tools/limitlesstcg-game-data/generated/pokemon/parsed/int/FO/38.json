@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the number of damage counters on Kingler."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

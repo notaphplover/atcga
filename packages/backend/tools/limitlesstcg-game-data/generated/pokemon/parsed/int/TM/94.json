@@ -1,7 +1,43 @@
 {
   "abilityEffect": "As long as Gengar is your Active Pokémon, if any of your opponent's Pokémon would be Knocked Out, put that Pokémon in the Lost Zone instead of discarding it. (Discard all cards attached to that Pokémon.)",
   "abilityName": "Catastrophe",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Look at your opponent's hand and choose a number of Pokémon you find there up to the number of [P] Energy attached to Gengar. Put the Pokémon you chose in the Lost Zone.",
+        "fr": "Regardez la main de votre adversaire et choisissez-y autant de Pokémon qu'il existe de cartes Énergie [P] attachées à Ectoplasma. Placez les Pokémon que vous avez choisis dans la Zone Perdue.",
+        "de": "Schau dir die Handkarten deines Gegners an und wähle so viele Pokémon-Karten, die du dort findest, wie [P]-Energien an Gengar angelegt sind. Lege die gewählten Pokémon-Karten ins Nirgendwo.",
+        "it": "Guarda le carte che il tuo avversario ha in mano e scegli un numero di Pokémon pari al numero di Energie [P] assegnate a Gengar. Metti i Pokémon che hai scelto nell'Area Perduta."
+      },
+      "name": {
+        "en": "Hurl into Darkness",
+        "fr": "Jet dans les Ténèbres",
+        "de": "Finsterniswurf",
+        "it": "Spinta nell'Oscurità"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 4 marqueurs de dégât sur les Pokémon de votre adversaire, comme bon vous semble.",
+        "de": "Lege 4 Schadensmarken in beliebiger Verteilung auf die Pokémon deines Gegners.",
+        "it": "Metti 4 segnalini danno sui Pokémon del tuo avversario nel modo che preferisci."
+      },
+      "name": {
+        "en": "Cursed Drop",
+        "fr": "Chute maudite",
+        "de": "Verfluchter Fall",
+        "it": "Caduta Maledetta"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

@@ -3,7 +3,11 @@
   "abilityName": "Motor Drive",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard all [L] Energy attached to Electivire. Flip a coin for each [L] Energy you discarded. This attack does 50 damage times the number of heads."

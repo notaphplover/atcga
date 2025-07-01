@@ -3,7 +3,12 @@
   "abilityName": "はなのかおり",
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

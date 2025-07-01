@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 3 Trainer Cards that have Fossil in their names, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Primal Calling"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Both Relicanth and the Defending Pokémon are now Asleep."

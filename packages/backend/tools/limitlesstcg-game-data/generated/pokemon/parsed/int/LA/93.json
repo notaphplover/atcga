@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 in any combination of [G] Basic Pokémon and [P] Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Call for Family"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."

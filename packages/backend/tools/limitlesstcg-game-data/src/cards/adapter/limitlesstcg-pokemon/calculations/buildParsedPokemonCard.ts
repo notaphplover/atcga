@@ -5,6 +5,7 @@ import {
   I18nString,
   TcgPokemonParsedCard,
   TcgPokemonParsedPokemonCardAttack,
+  TcgPokemonParsedPokemonCardAttackCostType,
 } from '../models/TcgPokemonParsedCard';
 import { buildPokemonTypeArray } from './buildPokemonTypeArray';
 import { generateCardUrl } from './generateCardUrl';
@@ -88,7 +89,7 @@ function buildPokemonAttacks(
 
   return [
     {
-      cost: firstCard.a1_cost ?? undefined,
+      cost: buildPokemonAttackCost(firstCard.a1_cost),
       dmg: firstCard.a1_dmg ?? undefined,
       effect: cardList.reduce(
         (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
@@ -112,7 +113,7 @@ function buildPokemonAttacks(
       ),
     },
     {
-      cost: firstCard.a2_cost ?? undefined,
+      cost: buildPokemonAttackCost(firstCard.a2_cost),
       dmg: firstCard.a2_dmg ?? undefined,
       effect: cardList.reduce(
         (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
@@ -136,7 +137,7 @@ function buildPokemonAttacks(
       ),
     },
     {
-      cost: firstCard.a3_cost ?? undefined,
+      cost: buildPokemonAttackCost(firstCard.a3_cost),
       dmg: firstCard.a3_dmg ?? undefined,
       effect: cardList.reduce(
         (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
@@ -160,7 +161,7 @@ function buildPokemonAttacks(
       ),
     },
     {
-      cost: firstCard.a4_cost ?? undefined,
+      cost: buildPokemonAttackCost(firstCard.a4_cost),
       dmg: firstCard.a4_dmg ?? undefined,
       effect: cardList.reduce(
         (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
@@ -185,8 +186,29 @@ function buildPokemonAttacks(
     },
   ].filter(
     (attack: TcgPokemonParsedPokemonCardAttack) =>
-      attack.cost !== undefined && attack.dmg !== undefined,
+      attack.cost !== undefined ||
+      attack.dmg !== undefined ||
+      Object.keys(attack.effect).length > 0 ||
+      Object.keys(attack.name).length > 0,
   );
+}
+
+function buildPokemonAttackCost(
+  cost: string | null,
+): TcgPokemonParsedPokemonCardAttackCostType[] | undefined {
+  if (cost === null) {
+    return undefined;
+  }
+
+  if (cost.endsWith('+')) {
+    return buildPokemonAttackCost(cost.slice(0, -1));
+  }
+
+  if (cost === '0') {
+    return [];
+  }
+
+  return cost.split('') as TcgPokemonParsedPokemonCardAttackCostType[];
 }
 
 function buildTrainerType(

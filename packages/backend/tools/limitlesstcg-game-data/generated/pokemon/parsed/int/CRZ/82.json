@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned. If this Pokémon evolved from Skrelp during this turn, put 8 damage counters on that Pokémon instead of 1 during Pokémon Checkup.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Si ce Pokémon a évolué de Venalgue pendant ce tour, placez 8 marqueurs de dégâts sur ce Pokémon-là au lieu d'un pendant le Contrôle Pokémon.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Wenn sich dieses Pokémon während dieses Zuges aus Algitt entwickelt hat, lege beim Pokémon-Check 8 Schadensmarken anstelle von 1 Schadensmarke auf jenes Pokémon.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato. Se questo Pokémon si è evoluto da Skrelp durante questo turno, metti otto segnalini danno invece di uno su quel Pokémon durante il controllo Pokémon.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Envenenado. Se este Pokémon evoluiu de Skrelp durante este turno, coloque 8 contadores de dano ao invés de 1 naquele Pokémon durante o Checape Pokémon.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado. Si este Pokémon ha evolucionado de Skrelp durante este turno, pon 8 contadores de daño en vez de 1 en ese Pokémon durante el Chequeo Pokémon."
+      },
+      "name": {
+        "en": "Rocket Poison",
+        "fr": "Poison Express",
+        "de": "Raketengift",
+        "it": "Velenorazzo",
+        "pt": "Veneno a Jato",
+        "es": "Veneno a Propulsión"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

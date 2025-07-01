@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put any 1 card from your discard pile into your hand."
+      },
+      "name": {
+        "en": "Sniff Out"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 3 coins. This attack does 20 damage times the number of heads."

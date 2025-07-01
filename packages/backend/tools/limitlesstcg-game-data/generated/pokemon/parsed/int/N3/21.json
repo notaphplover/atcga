@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may discard all [L] Energy cards attached to Raichu. If you do, this attack does 80 damage."

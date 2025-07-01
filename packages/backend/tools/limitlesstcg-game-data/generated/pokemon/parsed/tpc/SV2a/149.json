@@ -3,7 +3,10 @@
   "abilityName": "ジェットクルーズ",
   "attacks": [
     {
-      "cost": "wl",
+      "cost": [
+        "w",
+        "l"
+      ],
       "dmg": "180",
       "effect": {
         "jp": "自分の山札を上から2枚トラッシュする。"

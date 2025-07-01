@@ -3,7 +3,9 @@
   "abilityName": "Solid Shell",
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Energy attached to Cloyster."

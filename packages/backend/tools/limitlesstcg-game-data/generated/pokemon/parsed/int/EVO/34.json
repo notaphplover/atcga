@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "wwww",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Flip 2 coins. If either of them is tails, this attack does nothing.",

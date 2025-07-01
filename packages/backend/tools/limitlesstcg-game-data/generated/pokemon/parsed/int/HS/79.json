@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Sandshrew by attacks during your opponent's next turn.",
+        "fr": "Lancez une pièce. Si c'est face, évitez tous les dégâts infligés à Sabelette par des attaques pendant le prochain tour de votre adversaire.",
+        "de": "Wirf eine Münze. Bei „Kopf“ verhindere alle Schadenspunkte, die Sandan während des nächsten Zuges deines Gegners durch Angriffe zugefügt werden.",
+        "it": "Lancia una moneta. Se esce testa, previeni tutto il danno inflitto a Sandshrew dagli attacchi durante il prossimo turno del tuo avversario.",
+        "es": "Lanza una moneda. Si sale cara, previene de todo el daño infligido a Sandshrew por los ataques durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Defense Curl",
+        "fr": "Boul'armure",
+        "de": "Einigler",
+        "it": "Ricciolscudo",
+        "es": "Rizo defensa"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "rlcc",
+      "cost": [
+        "r",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard 1 [R] Energy and 1 [L] Energy attached to this Pokémon."

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca 2 carte.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Collect",
+        "fr": "Collectionner",
+        "de": "Sammeln",
+        "it": "Raccolta",
+        "es": "Coleccionar"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, Plusle does 10 damage to itself.",

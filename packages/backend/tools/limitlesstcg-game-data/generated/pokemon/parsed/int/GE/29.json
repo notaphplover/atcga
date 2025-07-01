@@ -3,7 +3,9 @@
   "abilityName": "HEAL",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a card from your hand. (If you can't discard a card from your hand, this attack does nothing.)"

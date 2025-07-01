@@ -3,7 +3,11 @@
   "abilityName": "れんげきコネクション",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "相手のバトルポケモンをこんらんにする。"

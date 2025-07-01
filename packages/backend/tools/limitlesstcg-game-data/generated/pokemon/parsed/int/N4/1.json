@@ -3,7 +3,11 @@
   "abilityName": "Conductivity",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard all [L] Energy cards attached to Dark Ampharos or this attack does nothing."

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent reveals his or her hand. Choose a card from there and put it on the bottom of your opponent's deck.",
+        "fr": "Votre adversaire montre sa main. Choisissez-y une carte et mettez-la en dessous du deck de votre adversaire.",
+        "de": "Dein Gegner deckt seine Handkarten auf. Wähle 1 dieser Karten und lege sie unter das Deck deines Gegners.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scegline una e mettila in fondo al suo mazzo.",
+        "es": "Tu rival enseña las cartas de su mano. Elige una carta de ahí y ponla en la parte inferior de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Brain Control",
+        "fr": "Contrôle Cérébral",
+        "de": "Gedankenkontrolle",
+        "it": "Cerebrocomando",
+        "es": "Control Cerebral"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Confused.",

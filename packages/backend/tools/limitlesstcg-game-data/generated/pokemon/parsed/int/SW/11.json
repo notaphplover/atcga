@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Whenever Jumpluff would be damaged by your opponent's attack, flip a coin. If heads, prevent all damage done to Jumpluff by that attack.",
   "abilityName": "Cotton Spore",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. Choose 1 of your opponent's Pokémon. For each heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Cottonweed Punch"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

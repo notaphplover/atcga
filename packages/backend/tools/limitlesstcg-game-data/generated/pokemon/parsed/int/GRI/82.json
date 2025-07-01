@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "dccc",
+      "cost": [
+        "d",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

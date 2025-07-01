@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "pt": "Compre 1 carta."
+      },
+      "name": {
+        "en": "Famished",
+        "pt": "Faminto"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

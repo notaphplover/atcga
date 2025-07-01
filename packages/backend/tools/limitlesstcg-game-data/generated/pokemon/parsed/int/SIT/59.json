@@ -3,7 +3,10 @@
   "abilityName": "Painful Spoons",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each card in your opponent's hand.",

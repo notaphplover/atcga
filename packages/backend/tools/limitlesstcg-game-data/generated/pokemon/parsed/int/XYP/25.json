@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard a card from your hand. If you can't discard a card, this attack does nothing."

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck."
+      },
+      "name": {
+        "en": "Wind Wave"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"

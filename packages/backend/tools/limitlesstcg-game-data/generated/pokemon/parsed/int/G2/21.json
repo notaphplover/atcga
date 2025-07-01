@@ -3,7 +3,10 @@
   "abilityName": "Healing Fire",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, discard all [R] Energy cards attached to Blaine's Ninetales."

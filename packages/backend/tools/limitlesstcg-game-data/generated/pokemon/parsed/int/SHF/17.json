@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rld",
+      "cost": [
+        "r",
+        "l",
+        "d"
+      ],
       "dmg": "270",
       "effect": {
         "en": "This Pokémon also does 60 damage to itself.",

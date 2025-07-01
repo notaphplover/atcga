@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",
@@ -16,6 +18,27 @@
         "de": "Ruckzuckhieb",
         "it": "Attacco Rapido",
         "es": "Ataque Rápido"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle all cards attached to each player's Pokémon into that player's deck.",
+        "fr": "Mélangez toutes les cartes attachées aux Pokémon de chaque joueur au deck de ce joueur.",
+        "de": "Mische alle Karten, die an den Pokémon beider Spieler angelegt sind, zurück in die Decks der Spieler.",
+        "it": "Rimischia tutte le carte assegnate ai Pokémon di ciascun giocatore nel mazzo di quel giocatore.",
+        "es": "Poned todas las cartas unidas a los Pokémon de cada jugador en su respectiva baraja, y barajadlas todas."
+      },
+      "name": {
+        "en": "Strong Winds",
+        "fr": "Vents Tourbillonnants",
+        "de": "Turbulenter Wind",
+        "it": "Turbovento",
+        "es": "Fuertes Vientos"
       }
     }
   ],

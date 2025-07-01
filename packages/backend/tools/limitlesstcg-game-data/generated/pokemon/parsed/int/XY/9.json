@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for a [G] Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez un Pokémon [G] dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [G]-Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon [G], mostralo e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja un Pokémon [G], enséñalo y ponlo en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Pheromotion",
+        "fr": "Phéromotion",
+        "de": "Pheromigration",
+        "it": "Feromozione",
+        "es": "Feromoción"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

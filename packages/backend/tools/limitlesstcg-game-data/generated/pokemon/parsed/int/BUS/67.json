@@ -3,7 +3,12 @@
   "abilityName": "Toppling Wind",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance. This Pokémon can't attack during your next turn.",

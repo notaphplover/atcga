@@ -1,7 +1,32 @@
 {
   "abilityEffect": "As long as Jynx is an Evolved Pokémon, prevent all effects of opponent's attacks, except damage, done to Jynx, and Jynx has no Weakness.",
   "abilityName": "Stages of Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Freeze Light"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Pure Power"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Telekinesis"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused."
@@ -11,7 +28,12 @@
       }
     },
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Prevent all damage done to this Pokémon by attacks during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"

@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon."

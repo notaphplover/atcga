@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wl",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Each Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Dragon Song"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "l"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."

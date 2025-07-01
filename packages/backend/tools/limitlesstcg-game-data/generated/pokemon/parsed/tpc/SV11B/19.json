@@ -3,7 +3,11 @@
   "abilityName": "ねっぱりんぷん",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "さそうふりこ",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "jp": "相手の手札の枚数x10ダメージ追加。"

@@ -3,7 +3,11 @@
   "abilityName": "Psybarrier",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard all Energy attached to Mewtwo."

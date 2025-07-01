@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Scyther and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 2 Insécateur dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Sichlor und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due Scyther e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 Scyther y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Twin Play",
+        "fr": "Duo",
+        "de": "Doppeltes Spiel",
+        "it": "Doppio Gioco",
+        "es": "Juego Gemelo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",

@@ -1,7 +1,34 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Knock Out your opponent's Active Pokémon. If your opponent's Active Pokémon is Knocked Out in this way, this Pokémon does 200 damage to itself.",
+        "fr": "Mettez K.O. le Pokémon Actif de votre adversaire. Si le Pokémon Actif de votre adversaire est mis K.O. de cette façon, ce Pokémon s'inflige 200 dégâts.",
+        "de": "Mache das Aktive Pokémon deines Gegners kampfunfähig. Wenn das Aktive Pokémon deines Gegners auf diese Weise kampfunfähig wird, fügt dieses Pokémon sich selbst 200 Schadenspunkte zu.",
+        "it": "Metti KO il Pokémon attivo del tuo avversario. Se il Pokémon attivo del tuo avversario viene messo KO in questo modo, questo Pokémon infligge 200 danni a se stesso.",
+        "pt": "Nocauteie o Pokémon Ativo do seu oponente. Se o Pokémon Ativo do seu oponente tiver sido Nocauteado desta forma, este Pokémon causará 200 pontos de dano a si mesmo.",
+        "es": "Deja Fuera de Combate al Pokémon Activo de tu rival. Si el Pokémon Activo de tu rival queda Fuera de Combate de esta manera, este Pokémon se hace 200 puntos de daño a sí mismo."
+      },
+      "name": {
+        "en": "Frenzied Gouging",
+        "fr": "Percée Frénétique",
+        "de": "Fieberhaftes Ausstechen",
+        "it": "Frenesquarcio",
+        "pt": "Arrancada Frenética",
+        "es": "Excavación Frenética"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "You may discard a Stadium in play. If you do, this attack does 120 more damage.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -9,7 +11,9 @@
       }
     },
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the number of damage counters on Barboach."

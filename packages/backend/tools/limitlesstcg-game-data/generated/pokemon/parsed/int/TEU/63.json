@@ -3,7 +3,9 @@
   "abilityName": "Poison Sacs",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns.",

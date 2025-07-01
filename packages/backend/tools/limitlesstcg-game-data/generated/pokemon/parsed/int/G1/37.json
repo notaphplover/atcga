@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage; if tails, this attack does 10 damage."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Discard the top 5 cards of your deck. (If there are fewer than 5 cards in your deck, discard all of them.) This attack does 20 damage for each [R] Energy card you discarded in this way."

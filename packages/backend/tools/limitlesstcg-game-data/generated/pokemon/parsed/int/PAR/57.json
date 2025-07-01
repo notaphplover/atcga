@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Attach up to 2 Basic [W] Energy cards from your discard pile to 1 of your Pokémon.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [W] de base de votre pile de défausse à l'un de vos Pokémon.",
+        "de": "Lege bis zu 2 Basis-[W]-Energiekarten aus deinem Ablagestapel an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon fino a due carte Energia base [W] dalla tua pila degli scarti.",
+        "pt": "Ligue até 2 cartas de Energia [W] Básica da sua pilha de descarte a 1 dos seus Pokémon.",
+        "es": "Une hasta 2 cartas de Energía [W] Básica de tu pila de descartes a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Snow Bringer",
+        "fr": "Porteur de Neige",
+        "de": "Schneebringer",
+        "it": "Portaneve",
+        "pt": "Emissário das Neves",
+        "es": "Portador de Nieve"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

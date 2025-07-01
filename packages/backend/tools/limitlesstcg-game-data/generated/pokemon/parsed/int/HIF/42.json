@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
@@ -17,7 +21,11 @@
       }
     },
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)",

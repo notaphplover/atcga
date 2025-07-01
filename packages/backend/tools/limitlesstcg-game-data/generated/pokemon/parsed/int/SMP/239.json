@@ -3,13 +3,29 @@
   "abilityName": "High Density Armor",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       "name": {
         "en": "Ground Crush"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put any number of Pokémon that evolve from Unidentified Fossil from your discard pile onto your bench. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Stone Age-GX"
       }
     }
   ],

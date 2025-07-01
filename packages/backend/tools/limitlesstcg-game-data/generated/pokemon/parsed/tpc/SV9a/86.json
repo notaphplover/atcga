@@ -3,7 +3,12 @@
   "abilityName": "こんじきのほのお",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "自分のポケモン全員のHPを、それぞれ「50」回復する。"

@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "m"
+      ],
+      "effect": {
+        "en": "Choose a number of your opponent's Pokémon up to the amount of Energy attached to Marowak. This attack does 20 damage to each of them."
+      },
+      "name": {
+        "en": "Energy Bone"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon is [M] Pokémon, this attack's base damage is 90."

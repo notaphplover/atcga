@@ -3,7 +3,11 @@
   "abilityName": "Dragon Guard",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

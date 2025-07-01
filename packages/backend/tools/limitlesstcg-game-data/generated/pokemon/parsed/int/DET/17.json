@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+        "fr": "Choisissez l'une des attaques des Pokémon de votre adversaire et utilisez-la en tant que cette attaque. Si ce Pokémon n'a pas l'Énergie nécessaire pour utiliser cette attaque, cette attaque ne fait rien.",
+        "de": "Wähle 1 Attacke der Pokémon deines Gegners und setze sie als diese Attacke ein. Wenn dieses Pokémon nicht die für jene Attacke notwendige Energie hat, hat diese Attacke keine Auswirkungen.",
+        "it": "Scegli un attacco dei Pokémon del tuo avversario e usalo al posto di questo attacco. Se questo Pokémon non ha l'Energia necessaria per quell'attacco, questo attacco non ha effetto.",
+        "es": "Elige 1 de los ataques de los Pokémon de tu rival y úsalo para este ataque. Si este Pokémon no tiene la Energía necesaria para usar ese ataque, este ataque no hace nada."
+      },
+      "name": {
+        "en": "Copy Anything",
+        "fr": "Copie Tout",
+        "de": "Alleskopierer",
+        "it": "Copia Universale",
+        "es": "Copietear"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

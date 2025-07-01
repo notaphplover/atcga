@@ -3,7 +3,11 @@
   "abilityName": "Tandem Unit",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

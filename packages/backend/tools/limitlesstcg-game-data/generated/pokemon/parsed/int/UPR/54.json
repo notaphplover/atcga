@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "During your next turn, this Pokémon's Pierce attack's base damage is 90.",
+        "fr": "Pendant votre prochain tour, les dégâts de base de l'attaque Transpercement de ce Pokémon sont de 90.",
+        "de": "Während deines nächsten Zuges beträgt der Grundschaden der Attacke Durchbohren dieses Pokémon 90 Schadenspunkte.",
+        "it": "Durante il tuo prossimo turno, i danni base dell'attacco Perforare di questo Pokémon sono 90.",
+        "es": "Durante tu próximo turno, el daño básico del ataque Perforar de este Pokémon es de 90."
+      },
+      "name": {
+        "en": "Hone Claws",
+        "fr": "Aiguisage",
+        "de": "Klauenwetzer",
+        "it": "Unghiaguzze",
+        "es": "Afilagarras"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

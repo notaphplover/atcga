@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+      },
+      "name": {
+        "en": "Lure"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn."

@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 1 damage counter from Chikorita.",
+        "fr": "Retirez 1 marqueur de dégât à Germignon.",
+        "de": "Entferne 1 Schadensmarke von Endivie.",
+        "it": "Togli 1 segnalino danno da Chikorita."
+      },
+      "name": {
+        "en": "Nap",
+        "fr": "Tit'sieste",
+        "de": "Nickerchen",
+        "it": "Pausa"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Chikorita does 10 damage to itself.",

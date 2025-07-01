@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,6 +14,29 @@
         "it": "Raffica",
         "pt": "Lufada de Vento",
         "es": "Tornado"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Put 8 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 8 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege 8 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Metti otto segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Coloque 8 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Pon 8 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Curse Spreading",
+        "fr": "Malédiction Disséminée",
+        "de": "Ausbreitender Fluch",
+        "it": "Spargimaledizione",
+        "pt": "Maldição Alastrante",
+        "es": "Maldición Dispersa"
       }
     }
   ],

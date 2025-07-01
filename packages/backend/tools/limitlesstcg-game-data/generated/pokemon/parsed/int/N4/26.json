@@ -3,7 +3,11 @@
   "abilityName": "Fluffy Wool",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If there is a Stadium card in play, you may discard it."

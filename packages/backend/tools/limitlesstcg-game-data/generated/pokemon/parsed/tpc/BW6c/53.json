@@ -3,7 +3,11 @@
   "abilityName": "ばんけん",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "コインを1回投げウラなら、このポケモンにも20ダメージ。"

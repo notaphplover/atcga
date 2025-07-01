@@ -3,7 +3,10 @@
   "abilityName": "Cast-off Shell",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",

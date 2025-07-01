@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip 2 coins. If either of them is tails, this attack's base damage is 10 instead of 100."

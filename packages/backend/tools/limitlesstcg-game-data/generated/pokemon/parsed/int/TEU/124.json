@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
@@ -16,6 +19,27 @@
         "de": "Wirbelwind",
         "it": "Turbine",
         "es": "Remolino"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent puts their Active Pokémon and all cards attached to it into their hand.",
+        "fr": "Votre adversaire place son Pokémon Actif et toutes les cartes qui lui sont attachées dans sa main.",
+        "de": "Dein Gegner nimmt sein Aktives Pokémon und alle an es angelegten Karten auf seine Hand.",
+        "it": "Il tuo avversario riprende in mano il suo Pokémon attivo e tutte le carte a esso assegnate.",
+        "es": "Tu rival pone su Pokémon Activo y todas las cartas unidas a él en su mano."
+      },
+      "name": {
+        "en": "Spin Storm",
+        "fr": "Orage Virevoltant",
+        "de": "Sturmwirbel",
+        "it": "Vortempesta",
+        "es": "Tormenta Giratoria"
       }
     }
   ],

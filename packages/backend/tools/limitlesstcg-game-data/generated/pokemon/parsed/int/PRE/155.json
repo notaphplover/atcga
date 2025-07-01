@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",
@@ -18,6 +22,29 @@
         "it": "Intimidazione",
         "pt": "Intimidar",
         "es": "Psicointimidación"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "p",
+        "d"
+      ],
+      "effect": {
+        "en": "Devolve each of your opponent's evolved Pokémon by shuffling the highest Stage Evolution card on it into your opponent's deck.",
+        "fr": "Faites dés-évoluer chacun des Pokémon évolués de votre adversaire en mélangeant avec le deck de votre adversaire la carte Évolution la plus élevée placée sur ceux-ci.",
+        "de": "Rückentwickle jedes entwickelte Pokémon deines Gegners, indem du deinem Gegner die Karte mit der höchsten Entwicklungsphase in sein Deck mischst.",
+        "it": "Annulla l'evoluzione di ciascuno dei Pokémon evoluti del tuo avversario rimischiando la carta Evoluzione di fase più alta presente su di esso nel mazzo del tuo avversario.",
+        "pt": "Reverta a evolução de cada um dos Pokémon evoluídos do seu oponente embaralhando a carta de Evolução de Estágio mais alto sobre ele no baralho do seu oponente.",
+        "es": "Haz involucionar a cada uno de los Pokémon evolucionados de tu rival poniendo la carta de Evolución de fase más alta que tengan sobre ellos en la baraja de tu rival, y barájalas todas."
+      },
+      "name": {
+        "en": "Amazez",
+        "fr": "Améthyste Chevron",
+        "de": "Amazez",
+        "it": "Ametista Chevron",
+        "pt": "Cacoxenita",
+        "es": "Azeztulita"
       }
     }
   ],

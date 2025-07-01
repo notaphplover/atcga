@@ -3,7 +3,10 @@
   "abilityName": "Thorn Tempest",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",

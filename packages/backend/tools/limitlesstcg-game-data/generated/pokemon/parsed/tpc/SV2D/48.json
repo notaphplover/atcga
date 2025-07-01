@@ -3,7 +3,10 @@
   "abilityName": "めぐみのしお",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "相手の山札を上から1枚トラッシュする。"

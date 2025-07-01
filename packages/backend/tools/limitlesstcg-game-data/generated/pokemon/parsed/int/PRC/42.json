@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Klammer",
         "it": "Presa",
         "es": "Agarre"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a random card from your opponent's hand.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Nimm 1 zufällige Karte aus der verdeckten Hand deines Gegners und lege sie auf dessen Ablagestapel.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario.",
+        "es": "Descarta 1 carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Knock Off",
+        "fr": "Sabotage",
+        "de": "Abschlag",
+        "it": "Privazione",
+        "es": "Desarme"
       }
     }
   ],

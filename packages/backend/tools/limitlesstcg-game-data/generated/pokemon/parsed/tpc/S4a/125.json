@@ -3,7 +3,10 @@
   "abilityName": "ムゲンゾーン",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "jp": "自分の場の[悪]ポケモンの数×30ダメージ。"

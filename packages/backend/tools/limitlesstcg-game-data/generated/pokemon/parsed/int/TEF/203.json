@@ -3,7 +3,11 @@
   "abilityName": "Rapid Vernier",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

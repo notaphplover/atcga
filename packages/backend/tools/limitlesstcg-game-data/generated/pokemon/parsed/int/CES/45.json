@@ -3,7 +3,11 @@
   "abilityName": "Icy Barrier",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

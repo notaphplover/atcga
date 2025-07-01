@@ -3,7 +3,12 @@
   "abilityName": "オゾンウォール",
   "attacks": [
     {
-      "cost": "rrlc",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "自分の山札を上から3枚トラッシュする。"

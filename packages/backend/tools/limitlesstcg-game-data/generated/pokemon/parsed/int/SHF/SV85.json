@@ -3,7 +3,11 @@
   "abilityName": "Dark Oath",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",

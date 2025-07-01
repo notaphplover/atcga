@@ -3,7 +3,10 @@
   "abilityName": "ごっかんルーム",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

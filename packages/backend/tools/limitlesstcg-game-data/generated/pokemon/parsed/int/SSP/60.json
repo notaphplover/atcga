@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused. During your opponent's next turn, that Pokémon can't retreat.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Zap Cannon.",

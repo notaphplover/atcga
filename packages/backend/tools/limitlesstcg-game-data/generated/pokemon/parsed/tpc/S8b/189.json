@@ -3,7 +3,10 @@
   "abilityName": "げきりゅうのめざめ",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

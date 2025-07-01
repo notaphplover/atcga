@@ -3,7 +3,9 @@
   "abilityName": "Attracting Body",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon."

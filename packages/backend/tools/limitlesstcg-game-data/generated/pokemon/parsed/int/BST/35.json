@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Discard any number of Item cards that have the word “Ball” in their name from your hand. This attack does 40 more damage for each card you discarded in this way.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

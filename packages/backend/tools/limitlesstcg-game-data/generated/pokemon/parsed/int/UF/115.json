@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch Suicune Star with 1 of your Benched Pokémon."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "70",
       "effect": {
         "en": "If you have less Prize cards left than your opponent, discard all Energy cards attached to all of your Pokémon."

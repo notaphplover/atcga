@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "All damage done to Brock's Dugtrio during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Lie Low"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This attack can't be used unless Brock's Dugtrio used its Lie Low attack last turn."

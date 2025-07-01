@@ -3,7 +3,12 @@
   "abilityName": "Big Appetite",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "You may discard as many Energy cards as you like from your hand. If you do, remove that many damage counters from Snorlax."

@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Each basic Energy card attached to Ditto provides every type of Energy but provides only 1 Energy at a time.",
   "abilityName": "Prismatic Body",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of the Defending Pokémon's attacks. Copy copies that attack. This attack does nothing if Ditto doesn't have the Energy necessary to use that attack. (You must still do anything else required in order to use that attack.)"
+      },
+      "name": {
+        "en": "Copy"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

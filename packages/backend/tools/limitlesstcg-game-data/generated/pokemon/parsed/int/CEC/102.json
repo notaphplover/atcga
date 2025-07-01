@@ -3,7 +3,11 @@
   "abilityName": "Blessing of the Moone",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

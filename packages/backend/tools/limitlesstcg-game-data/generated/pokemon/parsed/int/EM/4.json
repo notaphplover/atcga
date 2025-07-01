@@ -3,7 +3,10 @@
   "abilityName": "Heal Dance",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance."

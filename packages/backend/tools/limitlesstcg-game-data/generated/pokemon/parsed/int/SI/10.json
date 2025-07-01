@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a number of coins equal to the number of [W] Energy attached to Tentacruel. For each heads, draw 2 cards."
+      },
+      "name": {
+        "en": "Tentacle Grip"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

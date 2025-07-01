@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Hieb",
         "it": "Sberla",
         "es": "Bofetón"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      },
+      "name": {
+        "en": "Follow Me",
+        "fr": "Par Ici",
+        "de": "Spotlight",
+        "it": "Sonoqui",
+        "es": "Señuelo"
       }
     }
   ],

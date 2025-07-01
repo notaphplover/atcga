@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "250",
       "effect": {
         "en": "Discard this Pokémon and all attached cards.",

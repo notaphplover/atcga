@@ -1,5 +1,46 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Confuse Ray",
+        "fr": "Onde Folie",
+        "de": "Konfustrahl",
+        "it": "Stordiraggio",
+        "es": "Rayo Confuso"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 4 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez.",
+        "de": "Verteile 4 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Distribuisci a piacimento quattro segnalini danno sui Pokémon del tuo avversario.",
+        "es": "Pon 4 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Cursed Drop",
+        "fr": "Chute Maudite",
+        "de": "Verfluchter Fall",
+        "it": "Caduta Maledetta",
+        "es": "Caída Maldita"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

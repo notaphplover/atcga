@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If Magmar is on your Bench, this attack does 40 more damage.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

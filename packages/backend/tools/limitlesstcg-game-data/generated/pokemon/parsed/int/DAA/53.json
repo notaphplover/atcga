@@ -3,7 +3,11 @@
   "abilityName": "Primal Law",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

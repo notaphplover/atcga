@@ -3,7 +3,11 @@
   "abilityName": "Needle Line",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

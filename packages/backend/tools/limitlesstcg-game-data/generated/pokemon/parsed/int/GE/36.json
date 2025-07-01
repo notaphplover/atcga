@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Present"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

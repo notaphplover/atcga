@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
@@ -11,7 +14,10 @@
       }
     },
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 20 more damage for each [W] Energy attached to Floatzel but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."

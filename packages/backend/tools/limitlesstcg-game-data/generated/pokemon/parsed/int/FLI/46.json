@@ -3,7 +3,11 @@
   "abilityName": "Final Hour",
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {
@@ -9,7 +13,12 @@
       }
     },
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

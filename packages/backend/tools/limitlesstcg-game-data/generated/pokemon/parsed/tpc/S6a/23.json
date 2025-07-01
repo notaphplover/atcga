@@ -3,7 +3,10 @@
   "abilityName": "しずくのまもり",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "jp": "コインを2回投げ、オモテの数×70ダメージ。"

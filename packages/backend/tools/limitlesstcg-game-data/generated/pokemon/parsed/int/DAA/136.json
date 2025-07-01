@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards.",
+        "fr": "Piochez 3 cartes.",
+        "de": "Ziehe 3 Karten.",
+        "it": "Pesca tre carte.",
+        "pt": "Compre 3 cartas.",
+        "es": "Roba 3 cartas."
+      },
+      "name": {
+        "en": "Feelin' Fine",
+        "fr": "Mode Cool",
+        "de": "Wohl fühlen",
+        "it": "Tuttobene",
+        "pt": "Sensação Boa",
+        "es": "Buen Rollito"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

@@ -3,7 +3,12 @@
   "abilityName": "Sand Slammer",
   "attacks": [
     {
-      "cost": "gfcc",
+      "cost": [
+        "g",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "You may discard a [G] Energy and a [F] Energy attached to this Pokémon. If you do, the Defending Pokémon is now Paralyzed.",

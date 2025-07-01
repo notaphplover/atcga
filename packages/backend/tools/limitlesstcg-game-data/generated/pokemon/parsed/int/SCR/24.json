@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent discards a card from their hand. If this Pokémon evolved from Salandit during this turn, your opponent discards 2 more cards.",
+        "fr": "Votre adversaire défausse une carte de sa main. Si ce Pokémon a évolué de Tritox pendant ce tour, votre adversaire défausse 2 cartes supplémentaires.",
+        "de": "Dein Gegner legt 1 Karte aus seiner Hand auf seinen Ablagestapel. Wenn sich dieses Pokémon während dieses Zuges aus Molunk entwickelt hat, legt dein Gegner 2 Karten mehr auf seinen Ablagestapel.",
+        "it": "Il tuo avversario scarta una carta che ha in mano. Se questo Pokémon si è evoluto da Salandit durante questo turno, il tuo avversario scarta altre due carte.",
+        "pt": "O seu oponente descarta uma carta da mão dele. Se este Pokémon evoluiu de Salandit durante este turno, o seu oponente descartará 2 cartas a mais.",
+        "es": "Tu rival descarta 1 carta de su mano. Si este Pokémon ha evolucionado de Salandit durante este turno, tu rival descarta 2 cartas más."
+      },
+      "name": {
+        "en": "Sudden Scorching",
+        "fr": "Incandescence Soudaine",
+        "de": "Plötzliche Versengung",
+        "it": "Ustione Improvvisa",
+        "pt": "Ardência Repentina",
+        "es": "Calcinación Súbita"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

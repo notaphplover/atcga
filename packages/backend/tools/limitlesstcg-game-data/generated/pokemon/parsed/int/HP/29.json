@@ -3,7 +3,11 @@
   "abilityName": "Clear Body",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."

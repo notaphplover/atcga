@@ -3,7 +3,11 @@
   "abilityName": "Verdant Wind",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack."

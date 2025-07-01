@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Before doing damage, discard a Pokémon Tool card attached to the Defending Pokémon.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon has no Weakness.",

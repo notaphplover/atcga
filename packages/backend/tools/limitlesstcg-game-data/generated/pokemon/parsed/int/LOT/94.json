@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 cards from your opponent's discard pile in the Lost Zone.",
+        "fr": "Placez 2 cartes de la pile de défausse de votre adversaire dans la Zone Perdue.",
+        "de": "Lege 2 Karten aus dem Ablagestapel deines Gegners ins Nirgendwo.",
+        "it": "Prendi due carte dalla pila degli scarti del tuo avversario e mettile nell'area perduta.",
+        "es": "Pon 2 cartas de la pila de descartes de tu rival en la Zona Perdida."
+      },
+      "name": {
+        "en": "Get Lost",
+        "fr": "C'est Perdu",
+        "de": "Nirgendwo-Abgang",
+        "it": "Destinazione Perduta",
+        "es": "Perderse"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance.",

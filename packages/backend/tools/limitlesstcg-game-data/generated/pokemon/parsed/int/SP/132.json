@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard a random card from your opponent's hand."

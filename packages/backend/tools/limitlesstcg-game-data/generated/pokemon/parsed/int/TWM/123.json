@@ -3,7 +3,11 @@
   "abilityName": "Incandescent Body",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard all [M] Energy from this Pokémon. This attack does 50 damage for each card you discarded in this way.",

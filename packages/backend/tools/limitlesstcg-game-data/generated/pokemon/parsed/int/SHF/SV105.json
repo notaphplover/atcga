@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "gggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Basic [G] Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 2 Pokémon [G] de base, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Basis-[G]-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due Pokémon Base [G] e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 2 Pokémon [G] Básicos no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 2 Pokémon [G] Básicos y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Forest Feast",
+        "fr": "Festin Forestier",
+        "de": "Waldschmaus",
+        "it": "Festa del Bosco",
+        "pt": "Banquete Florestal",
+        "es": "Festín Forestal"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

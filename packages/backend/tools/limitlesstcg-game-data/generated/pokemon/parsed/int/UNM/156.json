@@ -3,7 +3,10 @@
   "abilityName": "Grind Up",
   "attacks": [
     {
-      "cost": "rm",
+      "cost": [
+        "r",
+        "m"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 40 more damage times the amount of basic Energy attached to this Pokémon.",

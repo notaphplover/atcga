@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Pokémon from your discard pile onto your Bench.",
+        "fr": "Placez un Pokémon de votre pile de défausse sur votre Banc.",
+        "de": "Lege 1 Pokémon aus deinem Ablagestapel auf deine Bank.",
+        "it": "Prendi un Pokémon dalla tua pila degli scarti e mettilo in panchina.",
+        "pt": "Coloque um Pokémon da sua pilha de descarte no seu Banco.",
+        "es": "Pon 1 Pokémon de tu pila de descartes en tu Banca."
+      },
+      "name": {
+        "en": "Revival Blessing",
+        "fr": "Second Souffle",
+        "de": "Vitalsegen",
+        "it": "Preghiera Vitale",
+        "pt": "Bênção do Reviver",
+        "es": "Plegaria Vital"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

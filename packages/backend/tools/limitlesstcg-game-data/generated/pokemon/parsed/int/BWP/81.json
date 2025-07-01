@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon.",

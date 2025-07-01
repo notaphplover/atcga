@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Il Pokémon Difensore è Avvelenato."
+      },
+      "name": {
+        "en": "Poisonpowder",
+        "fr": "Poudre Toxik",
+        "de": "Giftpuder",
+        "it": "Velenpolvere"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Filp a coin. If heads, look at your opponent's hand, choose 1 card, and discard it.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If you go first, you can use this attack on your first turn."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused."
@@ -21,7 +26,10 @@
       }
     },
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each Prize card your opponent has taken. (You can't use more than 1 GX attack in a game.)"

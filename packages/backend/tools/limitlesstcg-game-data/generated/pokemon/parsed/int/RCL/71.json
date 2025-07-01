@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "160+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Poisoned, this attack does 80 more damage.",

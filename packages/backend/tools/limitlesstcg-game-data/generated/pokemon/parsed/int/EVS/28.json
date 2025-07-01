@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each damage counter on this Pokémon.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "180",
       "effect": {},
       "name": {

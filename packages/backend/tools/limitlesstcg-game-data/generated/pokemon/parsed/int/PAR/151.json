@@ -3,7 +3,11 @@
   "abilityName": "Tangled Feet",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This Pokémon is now Confused.",

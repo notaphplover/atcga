@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Each player reveals their hand. If a card in your opponent's hand has the same name as a card in your hand, this attack does 90 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

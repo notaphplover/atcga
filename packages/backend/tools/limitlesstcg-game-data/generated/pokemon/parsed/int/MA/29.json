@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon has Team Magma in its name, the Defending Pokémon is now Confused."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon is Confused, discard an Energy card attached to the Defending Pokémon."

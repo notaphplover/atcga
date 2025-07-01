@@ -3,7 +3,11 @@
   "abilityName": "Dark Hide",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Move up to 2 damage counters from Dusknoir to 1 of your opponent's Benched Pokémon."

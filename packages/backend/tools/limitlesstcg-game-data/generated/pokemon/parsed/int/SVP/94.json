@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Thunder Wave"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "You may discard up to 2 [L] Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."

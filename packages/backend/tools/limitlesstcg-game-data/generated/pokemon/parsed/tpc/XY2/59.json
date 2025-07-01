@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wyc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "このポケモンのHPを「30」回復する。"
+      },
+      "name": {
+        "jp": "ぬめぬめ"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "y",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

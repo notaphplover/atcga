@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy card attached to 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Dirty Trick"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

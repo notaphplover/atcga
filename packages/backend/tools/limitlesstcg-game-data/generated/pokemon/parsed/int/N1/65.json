@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "For each Mareep in play, you may search your deck for a [L] Energy card and attach it to Mareep. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Static Electricity"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

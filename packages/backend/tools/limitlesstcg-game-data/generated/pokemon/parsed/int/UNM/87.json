@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard a [P] Energy from this Pokémon.",

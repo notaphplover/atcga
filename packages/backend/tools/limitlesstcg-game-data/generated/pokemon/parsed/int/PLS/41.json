@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the number of damage counters on this Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

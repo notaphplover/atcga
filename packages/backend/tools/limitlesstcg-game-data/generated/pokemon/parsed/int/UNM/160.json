@@ -1,7 +1,49 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may discard an Ultra Beast card from your hand. If you do, draw 3 cards.",
   "abilityName": "Ultra Conversion",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy from this Pokémon. This attack does 170 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Défaussez 2 Énergies de ce Pokémon. Cette attaque inflige 170 dégâts à l'un des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Lege 2 Energien von diesem Pokémon auf deinen Ablagestapel. Diese Attacke fügt 1 Pokémon deines Gegners 170 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Scarta due Energie assegnate a questo Pokémon. Questo attacco infligge 170 danni a uno dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Descarta 2 Energías de este Pokémon. Este ataque hace 170 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Venom Shot",
+        "fr": "Tir Venin",
+        "de": "Toxinschuss",
+        "it": "Velencolpo",
+        "es": "Disparo Veneno"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Add a card from your opponent's discard pile to their Prize cards face down. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Ajoutez une carte de la pile de défausse de votre adversaire à ses cartes Récompense, face cachée. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Füge 1 Karte aus dem Ablagestapel deines Gegners verdeckt seinen Preiskarten hinzu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi una carta dalla pila degli scarti del tuo avversario e aggiungila alle sue carte Premio a faccia in giù. Non puoi usare più di un attacco GX a partita.",
+        "es": "Añade, boca abajo, 1 carta de la pila de descartes de tu rival a sus cartas de Premio. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Injection-GX",
+        "fr": "Injection-GX",
+        "de": "Injektion-GX",
+        "it": "Inoculazione-GX",
+        "es": "Inyección-GX"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 210,
   "imageUrls": {

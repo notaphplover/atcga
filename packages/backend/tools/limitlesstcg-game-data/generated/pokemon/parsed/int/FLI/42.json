@@ -3,7 +3,10 @@
   "abilityName": "Silent Waves",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If Uxie is on your Bench, this attack does 50 more damage.",

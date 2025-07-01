@@ -3,7 +3,11 @@
   "abilityName": "プロテクトDNA",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

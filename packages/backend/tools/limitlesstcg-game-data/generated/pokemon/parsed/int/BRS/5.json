@@ -3,7 +3,11 @@
   "abilityName": "Curative Bower",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

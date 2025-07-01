@@ -3,7 +3,10 @@
   "abilityName": "パワースクラム",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "jp": "このワザのダメージは抵抗力を計算しない。"

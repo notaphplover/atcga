@@ -3,7 +3,11 @@
   "abilityName": "Oh No You Don't",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Dirty Headbutt.",

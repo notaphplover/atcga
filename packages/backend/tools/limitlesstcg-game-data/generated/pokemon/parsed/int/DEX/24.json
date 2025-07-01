@@ -3,7 +3,10 @@
   "abilityName": "Airhead",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon is now Asleep.",

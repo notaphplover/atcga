@@ -1,13 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Choose 2 random cards from your opponent's hand. Your opponent reveals those cards and shuffles them into their deck."
       },
       "name": {
         "en": "Night Watch"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokemon will be Knocked Out. If this Pokemon has at least 1 extra [P] Energy attached to it (in addition to this attack's cost), discard all Energy from your opponent's Active Pokemon. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Pale Moon-GX"
       }
     }
   ],

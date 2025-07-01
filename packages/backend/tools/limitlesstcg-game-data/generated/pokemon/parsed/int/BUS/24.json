@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, put a card from your discard pile into your hand.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, ajoutez une carte de votre pile de défausse à votre main.",
+        "de": "Wirf 2 Münzen. Nimm pro Kopf 1 Karte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, prendi una carta dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "es": "Lanza 2 monedas. Por cada cara, pon 1 carta de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Odor Sleuth",
+        "fr": "Flair",
+        "de": "Schnüffler",
+        "it": "Segugio",
+        "es": "Rastreo"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",

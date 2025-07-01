@@ -3,7 +3,11 @@
   "abilityName": "Crush Draw",
   "attacks": [
     {
-      "cost": "rmc",
+      "cost": [
+        "r",
+        "m",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "You may discard an Energy card attached to Tyranitar. If you do, this attack does 50 damage plus 20 more damage."

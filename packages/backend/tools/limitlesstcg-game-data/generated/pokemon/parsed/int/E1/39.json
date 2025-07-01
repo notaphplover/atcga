@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard 1 [R] Energy card attached to Charizard."

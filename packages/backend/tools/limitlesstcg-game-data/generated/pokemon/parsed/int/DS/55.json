@@ -3,7 +3,21 @@
   "abilityName": "Shining Horn",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [M] Pokémon (excluding Pokémon-ex), show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Cry for Help"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your opponent's next turn, any damage done to Skarmory by attacks is reduced by 20 (after applying Weakness and Resistance)."

@@ -3,7 +3,10 @@
   "abilityName": "Infernal Reign",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "180+",
       "effect": {
         "en": "This attack does 30 more damage for each Prize card your opponent has taken.",

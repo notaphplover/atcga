@@ -3,7 +3,11 @@
   "abilityName": "Special Eater",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

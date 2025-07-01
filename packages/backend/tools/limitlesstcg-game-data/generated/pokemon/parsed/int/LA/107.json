@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Show Off"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent has only 1 Prize card left, this attack does 10 damage plus 20 more damage."

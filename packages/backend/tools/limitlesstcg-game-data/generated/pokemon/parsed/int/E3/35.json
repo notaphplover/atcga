@@ -3,7 +3,11 @@
   "abilityName": "Synchronicity",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, choose a card from your discard pile and put it on top of your deck."

@@ -3,7 +3,10 @@
   "abilityName": "Duplicate",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard all Energy cards attached to Ditto."

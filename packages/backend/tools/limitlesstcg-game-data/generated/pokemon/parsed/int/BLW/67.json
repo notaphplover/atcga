@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+        "fr": "Échangez le Pokémon Défenseur avec 1 des Pokémon de Banc de votre adversaire.",
+        "de": "Tausche das Verteidigende Pokémon gegen 1 Pokémon auf der Bank deines Gegners aus.",
+        "it": "Scambia il Pokémon difensore con uno dei Pokémon in panchina del tuo avversario.",
+        "es": "Cambia el Pokémon Defensor por 1 de los Pokémon en Banca de tu rival."
+      },
+      "name": {
+        "en": "Taunt",
+        "fr": "Provoc",
+        "de": "Verhöhner",
+        "it": "Provocazione",
+        "es": "Mofa"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon has any [D] Energy attached to it, this attack does 30 more damage.",

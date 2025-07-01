@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin for each of your opponent's Pokémon. If that coin flip is heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Wriggle"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100-",
       "effect": {
         "en": "Does 100 damage minus 10 damage for each damage counter on Gyarados G."

@@ -1,7 +1,31 @@
 {
   "abilityEffect": "Attacks used by your Future Pokémon, except any Iron Crown ex, do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
   "abilityName": "Cobalt Command",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to 2 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on those Pokémon.",
+        "fr": "Cette attaque inflige 50 dégâts à 2 des Pokémon de votre adversaire. Ces dégâts ne sont pas affectés par la Faiblesse, la Résistance ou tout effet en action sur ces Pokémon.",
+        "de": "Diese Attacke fügt 2 Pokémon deines Gegners 50 Schadenspunkte zu. Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder Effekte auf jenen Pokémon nicht verändert.",
+        "it": "Questo attacco infligge 50 danni a due dei Pokémon del tuo avversario. I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza, o da alcun effetto presente su quei Pokémon.",
+        "pt": "Este ataque causa 50 pontos de dano a 2 dos Pokémon do seu oponente. O dano deste ataque não é afetado por Fraqueza, Resistência ou por quaisquer efeitos naqueles Pokémon.",
+        "es": "Este ataque hace 50 puntos de daño a 2 de los Pokémon de tu rival. El daño de este ataque no se ve afectado por Debilidad o Resistencia, ni por ningún efecto en esos Pokémon."
+      },
+      "name": {
+        "en": "Twin Shotels",
+        "fr": "Shotel Double",
+        "de": "Zwillings-Shotel",
+        "it": "Doppio Shotel",
+        "pt": "Espadas Gêmeas",
+        "es": "Shotel Gemelas"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 220,
   "imageUrls": {

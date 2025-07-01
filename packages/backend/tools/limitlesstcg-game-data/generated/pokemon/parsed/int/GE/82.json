@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all Special Conditions and 3 damage counters from Slowpoke. Slowpoke is now Asleep."
+      },
+      "name": {
+        "en": "Rest"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Slowpoke can't attack during your next turn."

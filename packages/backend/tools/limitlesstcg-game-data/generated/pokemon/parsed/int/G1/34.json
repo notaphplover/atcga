@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, remove 1 damage counter from each of your Pokémon. If a Pokémon has fewer damage counters than the number of heads, remove all of them."
+      },
+      "name": {
+        "en": "Healing Pollen"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip 2 coins. If 1 or both of them are heads, the Defending Pokémon is now Confused."

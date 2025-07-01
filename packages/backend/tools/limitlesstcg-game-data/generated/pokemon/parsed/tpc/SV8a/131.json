@@ -3,7 +3,9 @@
   "abilityName": "ファンコール",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "場にスタジアムが出ていないなら、このワザは失敗。"

@@ -3,7 +3,11 @@
   "abilityName": "Fusion Strike System",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

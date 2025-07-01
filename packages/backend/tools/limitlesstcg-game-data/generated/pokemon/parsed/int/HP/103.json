@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rlp",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for an Energy card and attached it to Mewtwo Star."
+      },
+      "name": {
+        "en": "Energy Absorption"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "l",
+        "p"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If the Defending Pokémon is an Evolved Pokémon, discard all Energy attached to Mewtwo Star and this attack does 50 damage plus 50 more damage."

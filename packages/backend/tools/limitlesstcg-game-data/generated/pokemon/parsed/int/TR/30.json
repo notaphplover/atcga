@@ -3,7 +3,11 @@
   "abilityName": "Hay Fever",
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coins. This attack does 30 damage times the number of heads. If you get 2 or more heads, Dark Vileplume is now Confused (after doing damage)."

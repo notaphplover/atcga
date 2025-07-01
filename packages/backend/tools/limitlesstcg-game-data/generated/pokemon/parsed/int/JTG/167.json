@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rl",
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each damage counter on this Pokémon.",
@@ -21,7 +24,12 @@
       }
     },
     {
-      "cost": "rrlc",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "170",
       "effect": {},
       "name": {

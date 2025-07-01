@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Confus.",
+        "de": "Das Verteidigende Pokémon ist jetzt verwirrt.",
+        "it": "Il Pokémon difensore viene confuso.",
+        "es": "El Pokémon Defensor pasa a estar Confuso."
+      },
+      "name": {
+        "en": "Confuse Ray",
+        "fr": "Onde Folie",
+        "de": "Konfustrahl",
+        "it": "Stordiraggio",
+        "es": "Rayo Confuso"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

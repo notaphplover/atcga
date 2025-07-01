@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard an Energy from this Pokémon and heal all damage from it.",
+        "fr": "Défaussez une Énergie de ce Pokémon, puis soignez tous les dégâts de ce Pokémon.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel und heile bei ihm allen Schaden.",
+        "it": "Scarta un'Energia da questo Pokémon e curalo da tutti i danni.",
+        "pt": "Descarte 1 Energia deste Pokémon e cure todo o dano dele.",
+        "es": "Descarta 1 Energía de este Pokémon y cura todos sus puntos de daño."
+      },
+      "name": {
+        "en": "Recover",
+        "fr": "Soin",
+        "de": "Genesung",
+        "it": "Ripresa",
+        "pt": "Recuperação",
+        "es": "Recuperación"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

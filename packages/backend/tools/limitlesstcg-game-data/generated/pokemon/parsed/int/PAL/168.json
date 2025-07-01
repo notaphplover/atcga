@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -11,6 +14,29 @@
         "it": "Schiaffetto",
         "pt": "Tapinha",
         "es": "Bofetada Gentil"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on each of your opponent's Pokémon for each of your Maushold in play.",
+        "fr": "Placez un marqueur de dégâts sur chacun des Pokémon de votre adversaire pour chacun de vos Famignol en jeu.",
+        "de": "Lege für jedes deiner Famieps im Spiel 1 Schadensmarke auf jedes Pokémon deines Gegners.",
+        "it": "Metti un segnalino danno su ciascuno dei Pokémon del tuo avversario per ogni tuo Maushold in gioco.",
+        "pt": "Coloque 1 contador de dano em cada um dos Pokémon do seu oponente para cada um dos seus Maushold em jogo.",
+        "es": "Pon 1 contador de daño en cada uno de los Pokémon de tu rival por cada uno de tus Maushold en juego."
+      },
+      "name": {
+        "en": "Gnaw Relentlessly",
+        "fr": "Rongement Incessant",
+        "de": "Unerbittliches Nagen",
+        "it": "Rosicchiamento Incessante",
+        "pt": "Roída Incessante",
+        "es": "Roer sin Parar"
       }
     }
   ],

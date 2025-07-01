@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",
@@ -16,6 +18,26 @@
         "de": "Gipfelmampfer",
         "it": "Sgranocchiacime",
         "es": "Mascamontañas"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "If this Pokémon has any damage counters on it, discard the top 4 cards of your opponent's deck.",
+        "fr": "Si ce Pokémon a des marqueurs de dégâts, défaussez les 4 cartes du dessus du deck de votre adversaire.",
+        "de": "Wenn auf diesem Pokémon bereits mindestens 1 Schadensmarke liegt, lege die obersten 4 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Se questo Pokémon ha dei segnalini danno, scarta le prime quattro carte del mazzo del tuo avversario.",
+        "es": "Si este Pokémon tiene algún contador de daño sobre él, descarta las 4 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Scrape Down",
+        "fr": "Racleur",
+        "de": "Schaber",
+        "it": "Grattavia",
+        "es": "Raspar"
       }
     }
   ],

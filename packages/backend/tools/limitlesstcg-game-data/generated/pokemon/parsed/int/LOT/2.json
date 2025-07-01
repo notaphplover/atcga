@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon was healed during this turn, this attack does 130 more damage.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

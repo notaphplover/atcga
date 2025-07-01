@@ -3,7 +3,10 @@
   "abilityName": "Soft Wool",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "You may discard a Stadium in play.",

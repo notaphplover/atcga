@@ -3,7 +3,11 @@
   "abilityName": "Earth Fissure",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance. Rhyperior can't attack during your next turn."

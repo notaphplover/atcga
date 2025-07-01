@@ -3,7 +3,11 @@
   "abilityName": "Intrepid Sword",
   "attacks": [
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "230",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

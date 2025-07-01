@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Attach up to 2 Basic [P] Energy cards from your discard pile to your Pokémon in any way you like.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [P] de base de votre pile de défausse à vos Pokémon comme il vous plaît.",
+        "de": "Lege bis zu 2 Basis-[P]-Energiekarten aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Assegna ai tuoi Pokémon fino a due carte Energia base [P] dalla tua pila degli scarti nel modo che preferisci.",
+        "pt": "Ligue até 2 cartas de Energia [P] Básica da sua pilha de descarte aos seus Pokémon como desejar.",
+        "es": "Une hasta 2 cartas de Energía [P] Básica de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Transfer Charge",
+        "fr": "Charge Transférée",
+        "de": "Transferladevorgang",
+        "it": "Spostacarica",
+        "pt": "Transferir Carga",
+        "es": "Carga Traspaso"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each [P] Energy attached to all of your Pokémon.",

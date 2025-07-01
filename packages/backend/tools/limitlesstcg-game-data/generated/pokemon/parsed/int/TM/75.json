@@ -1,5 +1,40 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+        "fr": "Lancez une pièce. Si c'est face, choisissez l'une des attaques du Pokémon Défenseur. Ce Pokémon ne peut pas utiliser cette attaque pendant le prochain tour de votre adversaire.",
+        "de": "Wirf eine Münze. Wähle bei „Kopf“ 1 Angriff des Verteidigenden Pokémons. Das Pokémon kann den gewählten Angriff im nächsten Zug deines Gegners nicht einsetzen.",
+        "it": "Lancia una moneta. Se esce testa, scegli 1 degli attacchi del Pokémon Difensore. Durante il prossimo turno del tuo avversario, quel Pokémon non potrà utilizzare quell'attacco."
+      },
+      "name": {
+        "en": "Disable",
+        "fr": "Entrave",
+        "de": "Aussetzer",
+        "it": "Inibitore"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on the Defending Pokémon.",
+        "fr": "Placez un marqueur de dégât sur le Pokémon Défenseur.",
+        "de": "Lege 1 Schadensmarke auf das Verteidigende Pokémon.",
+        "it": "Metti 1 segnalino danno sul Pokémon Difensore."
+      },
+      "name": {
+        "en": "Haunt",
+        "fr": "Hanter",
+        "de": "Spuk",
+        "it": "Infestare"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

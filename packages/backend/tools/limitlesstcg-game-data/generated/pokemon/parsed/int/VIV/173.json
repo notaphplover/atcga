@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "180",
       "effect": {},
       "name": {

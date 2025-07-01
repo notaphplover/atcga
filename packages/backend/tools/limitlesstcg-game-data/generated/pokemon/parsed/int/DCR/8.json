@@ -3,7 +3,11 @@
   "abilityName": "Sludge Festival",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",

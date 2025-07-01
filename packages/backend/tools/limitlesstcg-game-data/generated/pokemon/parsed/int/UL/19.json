@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your next turn, each of Lucario's attacks does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

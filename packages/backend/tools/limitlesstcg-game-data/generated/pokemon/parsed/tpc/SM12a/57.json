@@ -3,7 +3,11 @@
   "abilityName": "やぶれたとびら",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "自分のポケモン1匹に、ダメカンを4個のせる。"

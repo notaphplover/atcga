@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "rrwc",
+      "cost": [
+        "r",
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Does 10 more damage for each damage counter on this Pokémon.",

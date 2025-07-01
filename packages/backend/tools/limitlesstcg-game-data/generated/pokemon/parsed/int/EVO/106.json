@@ -3,7 +3,12 @@
   "abilityName": "Pull Up",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy attached to your opponent's Active Pokémon.",

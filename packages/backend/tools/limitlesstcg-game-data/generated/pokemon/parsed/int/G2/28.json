@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, your opponent can't play Trainer cards during his or her next turn."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 damage times the number of damage counters on Lt. Surge's Jolteon, then flip a coin. If tails, Lt. Surge's Jolteon does 30 damage to itself."

@@ -3,7 +3,12 @@
   "abilityName": "Flame Vapor",
   "attacks": [
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If Gyarados has 7 or more damage counters on it, this attack's base damage is 100."

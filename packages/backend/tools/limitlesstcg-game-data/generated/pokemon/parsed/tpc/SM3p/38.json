@@ -3,7 +3,11 @@
   "abilityName": "いかくのもよう",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Smog"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may search your opponent's discard pile for up to 3 in any combination of Trainer, Supporter, or Stadium cards and put them into your opponent's hand."

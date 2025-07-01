@@ -3,7 +3,10 @@
   "abilityName": "Rain Dish",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads."

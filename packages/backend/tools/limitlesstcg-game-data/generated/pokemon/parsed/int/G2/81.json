@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."
       },
       "name": {
         "en": "Sleep Powder"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, draw 2 cards."
+      },
+      "name": {
+        "en": "Grasping Vine"
       }
     }
   ],

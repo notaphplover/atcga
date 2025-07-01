@@ -3,7 +3,23 @@
   "abilityName": "Energy Jump",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 10 damage for each damage counter on Gardevoir to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Psychic Rage"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 20 more damage times the number of your opponent's Benched Pokémon."

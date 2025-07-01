@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Each player discards the top card of his or her deck. This attack does 20 damage times the number of Energy cards discarded in this way.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

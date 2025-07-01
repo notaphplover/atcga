@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 60 damage from 1 of your Pokémon.",
+        "fr": "Soignez 60 dégâts de l'un de vos Pokémon.",
+        "de": "Heile 60 Schadenspunkte bei 1 deiner Pokémon.",
+        "it": "Cura uno dei tuoi Pokémon da 60 danni.",
+        "pt": "Cure 60 pontos de dano de 1 dos seus Pokémon.",
+        "es": "Cura 60 puntos de daño a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Healing Pheromone",
+        "fr": "Phéromone Soigneuse",
+        "de": "Heilende Pheromone",
+        "it": "Feromone Curativo",
+        "pt": "Feromônio de Cura",
+        "es": "Feromona Curativa"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Put 3 damage counters on each of your opponent's Benched Pokémon that has any damage counters on it.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -9,6 +11,23 @@
         "fr": "Marmonner",
         "de": "Grummeln",
         "it": "Borbottio"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Each player draws 3 cards.",
+        "fr": "Chaque joueur pioche 3 cartes.",
+        "de": "Jeder Spieler zieht 3 Karten.",
+        "it": "Ogni giocatore pesca 3 carte."
+      },
+      "name": {
+        "en": "Dual Draw",
+        "fr": "Pioche mutuelle",
+        "de": "Doppelzug",
+        "it": "Doppiapesca"
       }
     }
   ],

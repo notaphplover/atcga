@@ -3,7 +3,10 @@
   "abilityName": "Set Up",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Return this Pokémon and all cards attached to it to your hand.",

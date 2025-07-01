@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Shelgon during your opponent's next turn. (Any other effects of attacks still happen.)"
+      },
+      "name": {
+        "en": "Scrunch"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

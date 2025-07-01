@@ -3,7 +3,13 @@
   "abilityName": "Excited Heart",
   "attacks": [
     {
-      "cost": "rcccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "250",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Combustion Blast.",

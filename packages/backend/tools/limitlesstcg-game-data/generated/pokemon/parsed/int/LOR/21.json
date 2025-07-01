@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Attach a [R] Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie [R] de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 1 [R]-Energiekarte aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia [R] dalla tua pila degli scarti.",
+        "pt": "Ligue 1 carta de Energia [R] da sua pilha de descarte a este Pokémon.",
+        "es": "Une 1 carta de Energía [R] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Draw In",
+        "fr": "Aspiracartes",
+        "de": "Ansaugen",
+        "it": "Aspiracarte",
+        "pt": "Envolver",
+        "es": "Arrastre"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

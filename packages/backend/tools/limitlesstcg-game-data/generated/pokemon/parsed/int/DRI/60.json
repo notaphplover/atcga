@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {
@@ -14,7 +18,12 @@
       }
     },
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If this Pokémon has 2 or more [G] Energy attached, this attack does 120 more damage.",

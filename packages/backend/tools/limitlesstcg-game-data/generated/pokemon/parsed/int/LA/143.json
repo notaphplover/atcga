@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [],
+      "effect": {
+        "en": "Remove 3 damage counters from each of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Healing Look"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "200",
       "effect": {
         "en": "If don't have Uxie LV.X and Azelf LV.X in play, this attack does nothing. Discard all Energy attached to Mesprit."

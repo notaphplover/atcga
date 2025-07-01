@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Heal 20 damage from each of your Pokémon.",
+        "fr": "Soignez 20 dégâts de chacun de vos Pokémon.",
+        "de": "Heile 20 Schadenspunkte bei jedem deiner Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 20 danni.",
+        "pt": "Cure 20 pontos de dano de cada um dos seus Pokémon.",
+        "es": "Cura 20 puntos de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Healing Pirouette",
+        "fr": "Pirouette Apaisante",
+        "de": "Heilender Reigen",
+        "it": "Curoetta",
+        "pt": "Pirueta Curativa",
+        "es": "Pirueta Curativa"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may turn 1 of your face-down Prize cards face up. If you do, this attack does 80 more damage. (That Prize card remains face up for the rest of the game.)",

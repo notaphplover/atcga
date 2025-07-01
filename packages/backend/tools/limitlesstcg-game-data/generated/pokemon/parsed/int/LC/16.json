@@ -3,7 +3,11 @@
   "abilityName": "Toxic Gas",
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."

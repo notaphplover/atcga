@@ -3,7 +3,11 @@
   "abilityName": "Double Type",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",

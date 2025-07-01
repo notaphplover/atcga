@@ -3,7 +3,10 @@
   "abilityName": "Compound Eyes",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon has any [L] Energy attached, this attack does 80 more damage.",

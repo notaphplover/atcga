@@ -3,7 +3,10 @@
   "abilityName": "Delta Aura",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,7 +14,13 @@
       }
     },
     {
-      "cost": "lmccc",
+      "cost": [
+        "l",
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "If your opponent has no Stage 2 Evolved Pokémon in play, this attack does nothing."

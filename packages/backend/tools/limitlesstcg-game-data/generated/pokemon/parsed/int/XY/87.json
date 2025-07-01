@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,25 @@
         "de": "Walzer",
         "it": "Rotolamento",
         "es": "Desenrollar"
+      }
+    },
+    {
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Discard a [D] Energy attached to your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie [D] attachée au Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 an das Aktive Pokémon deines Gegners angelegte [D]-Energie auf den Ablagestapel deines Gegners.",
+        "it": "Scarta un'Energia [D] assegnata al Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía [D] unida al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Heartfelt Song",
+        "fr": "Chanson du Cœur",
+        "de": "Melodie des Herzens",
+        "it": "Cantosincero",
+        "es": "Canto Sincero"
       }
     }
   ],

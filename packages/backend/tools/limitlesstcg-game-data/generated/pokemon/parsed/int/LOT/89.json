@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards.",
+        "fr": "Piochez 3 cartes.",
+        "de": "Ziehe 3 Karten.",
+        "it": "Pesca tre carte.",
+        "es": "Roba 3 cartas."
+      },
+      "name": {
+        "en": "Allure",
+        "fr": "Allure",
+        "de": "Verlockung",
+        "it": "Affascinante",
+        "es": "Atractivo"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of Energy attached to all of your opponent's Pokémon.",

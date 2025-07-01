@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -9,7 +14,12 @@
       }
     },
     {
-      "cost": "ffff",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself."

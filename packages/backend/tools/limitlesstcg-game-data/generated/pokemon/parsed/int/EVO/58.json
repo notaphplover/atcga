@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "60-",
       "effect": {
         "en": "This attack does 60 damage minus 10 damage for each damage counter on this Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon does 20 damage to itself.",

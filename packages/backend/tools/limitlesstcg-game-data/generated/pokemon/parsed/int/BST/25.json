@@ -3,7 +3,12 @@
   "abilityName": "Fighting Fury Stance",
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

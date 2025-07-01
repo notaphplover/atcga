@@ -3,7 +3,11 @@
   "abilityName": "Spirit Pulse",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 60 damage plus 20 more damage."

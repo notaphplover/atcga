@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "For each of your opponent's Pokémon in play, attach a [P] Energy card from your discard pile to your Pokémon in any way you like.",
+        "fr": "Pour chaque Pokémon de votre adversaire en jeu, attachez une carte Énergie [P] de votre pile de défausse à vos Pokémon, de la manière que vous voulez.",
+        "de": "Lege für jedes Pokémon deines Gegners im Spiel 1 [P]-Energiekarte aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Per ogni Pokémon del tuo avversario in gioco, assegna a piacimento ai tuoi Pokémon una carta Energia [P] dalla tua pila degli scarti.",
+        "es": "Por cada uno de los Pokémon de tu rival en juego, une 1 carta de Energía [P] de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Full Moon Star",
+        "fr": "Étoile Pleine Lune",
+        "de": "Vollmondstern",
+        "it": "Stella della Luna Piena",
+        "es": "Estrella Luna Llena"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to all Pokémon.",

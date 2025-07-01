@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "pt": "Compre 2 cartas.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Allure",
+        "fr": "Allure",
+        "de": "Verlockung",
+        "it": "Affascinante",
+        "pt": "Fascinar",
+        "es": "Atractivo"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",

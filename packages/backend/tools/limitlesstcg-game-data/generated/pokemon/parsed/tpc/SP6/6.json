@@ -3,7 +3,11 @@
   "abilityName": "シールドスター",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie de base, puis attachez-la à l'un de vos Pokémon de Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-Energiekarte und lege sie an 1 Pokémon auf deiner Bank an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia base e assegnala a uno dei tuoi Pokémon in panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta de Energia básica no seu baralho e ligue-a a 1 dos seus Pokémon no Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía Básica y únela a 1 de tus Pokémon en Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Helping Hand",
+        "fr": "Coup d'Main",
+        "de": "Rechte Hand",
+        "it": "Altruismo",
+        "pt": "Mãozinha",
+        "es": "Refuerzo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",

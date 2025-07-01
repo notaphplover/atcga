@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Put a Baby Pokémon or a Basic Pokémon card from your discard pile onto your Bench. (You can't use this attack if your Bench is full.)"
+      },
+      "name": {
+        "en": "Guiding Flame"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard a [R] Energy card attached to Light Ninetales in order to use this attack."

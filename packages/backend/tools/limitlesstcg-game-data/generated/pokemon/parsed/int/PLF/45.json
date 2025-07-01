@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. The new Defending Pokémon is now Poisoned.",
+        "fr": "Lancez une pièce. Si c'est face, échangez 1 des Pokémon de Banc de votre adversaire avec le Pokémon Défenseur. Le nouveau Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Wirf 1 Münze. Tausche bei „Kopf“ 1 Pokémon auf der Bank deines Gegners gegen das Verteidigende Pokémon aus. Das neue Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Lancia una moneta. Se esce testa, scambia uno dei Pokémon nella panchina del tuo avversario con il Pokémon difensore. Il nuovo Pokémon difensore viene avvelenato.",
+        "es": "Lanza una moneda. Si sale cara, cambia a 1 de los Pokémon en Banca de tu rival por el Pokémon Defensor. El nuevo Pokémon Defensor pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Lure Poison",
+        "fr": "Appât Vénéneux",
+        "de": "Lockendes Gift",
+        "it": "Velenoesca",
+        "es": "Cebo Venenoso"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

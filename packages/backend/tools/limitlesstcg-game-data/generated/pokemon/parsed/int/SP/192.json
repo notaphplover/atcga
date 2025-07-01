@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Hail"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Frosty Typhoon."

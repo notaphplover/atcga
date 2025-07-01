@@ -3,7 +3,11 @@
   "abilityName": "フラッシュドロー",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

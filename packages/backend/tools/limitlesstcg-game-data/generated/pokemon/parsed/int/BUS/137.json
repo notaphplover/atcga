@@ -3,7 +3,11 @@
   "abilityName": "Shadow Hunt",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {
@@ -15,7 +19,9 @@
       }
     },
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage times the amount of basic Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)",

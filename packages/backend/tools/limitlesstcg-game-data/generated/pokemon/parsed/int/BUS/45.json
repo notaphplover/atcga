@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If your opponent's Active Pokémon's maximum HP is 100 or more, this attack does nothing.",

@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a Basic [F] Energy card from your hand to 1 of your Pokémon.",
+        "fr": "Attachez une carte Énergie [F] de base de votre main à l'un de vos Pokémon.",
+        "de": "Lege 1 Basis-[F]-Energiekarte aus deiner Hand an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon una carta Energia base [F] dalla tua mano.",
+        "pt": "Ligue uma carta de Energia [F] Básica da sua mão a 1 dos seus Pokémon.",
+        "es": "Une 1 carta de Energía [F] Básica de tu mano a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Swelling Power",
+        "fr": "Puissance Grandissante",
+        "de": "Anschwellende Kraft",
+        "it": "Potere Amplificato",
+        "pt": "Poder Crescente",
+        "es": "Poder Desbordante"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Discard up to 4 Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",

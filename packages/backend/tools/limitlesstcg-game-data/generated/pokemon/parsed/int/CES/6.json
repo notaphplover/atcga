@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon.",
@@ -16,6 +18,25 @@
         "de": "Reaktives Gift",
         "it": "Reattiveleno",
         "es": "Veneno Reactivo"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "You may switch 1 of your opponent's Benched Pokémon with their Active Pokémon. Your opponent's Active Pokémon is now Asleep and Poisoned.",
+        "fr": "Vous pouvez échanger l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif. Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Endormi.",
+        "de": "Du kannst 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon austauschen. Das Aktive Pokémon deines Gegners schläft jetzt und ist vergiftet.",
+        "it": "Puoi scambiare uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Il Pokémon attivo del tuo avversario viene addormentato e avvelenato.",
+        "es": "Puedes cambiar 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. El Pokémon Activo de tu rival pasa a estar Dormido y Envenenado."
+      },
+      "name": {
+        "en": "Spider Trap",
+        "fr": "Piège d'Araignée",
+        "de": "Spinnenfalle",
+        "it": "Trappola del Ragno",
+        "es": "Trampa Araña"
       }
     }
   ],

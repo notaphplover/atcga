@@ -3,7 +3,11 @@
   "abilityName": "Electrogenesis",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

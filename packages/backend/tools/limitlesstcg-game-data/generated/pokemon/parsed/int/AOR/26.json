@@ -3,7 +3,11 @@
   "abilityName": "Electric Effect",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon.",

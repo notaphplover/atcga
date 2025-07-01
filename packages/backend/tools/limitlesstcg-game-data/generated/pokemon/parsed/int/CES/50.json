@@ -3,7 +3,11 @@
   "abilityName": "Energy Grounding",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "You may discard all [L] Energy from this Pokémon. If you do, this attack does 70 more damage.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Confus.",
+        "de": "Das Verteidigende Pokémon ist jetzt verwirrt.",
+        "it": "Il Pokémon difensore viene confuso.",
+        "es": "El Pokémon Defensor pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Metal Sound",
+        "fr": "Strido-Son",
+        "de": "Metallsound",
+        "it": "Ferrostrido",
+        "es": "Eco Metálico"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",

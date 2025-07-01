@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Each player flips a coin. Each player who gets heads chooses a total of 3 damage counters from among his or her Pokémon and removes them. (If the player's Pokémon have fewer total damage counters than that, he or she removes all of them.)"
+      },
+      "name": {
+        "en": "Strange Scent"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

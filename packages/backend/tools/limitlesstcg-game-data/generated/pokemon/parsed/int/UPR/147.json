@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Move any number of Energy from your Benched Pokémon to this Pokémon.",
+        "fr": "Déplacez autant d'Énergies que vous voulez de vos Pokémon de Banc vers ce Pokémon.",
+        "de": "Verschiebe beliebig viele Energien von den Pokémon auf deiner Bank auf dieses Pokémon.",
+        "it": "Sposta un numero qualsiasi di Energie dai tuoi Pokémon in panchina a questo Pokémon.",
+        "es": "Mueve cualquier cantidad de Energías de tus Pokémon en Banca a este Pokémon."
+      },
+      "name": {
+        "en": "Spatial Control",
+        "fr": "Contrôle Spatial",
+        "de": "Raumkontrolle",
+        "it": "Controllo Spaziale",
+        "es": "Control Espacial"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of [W] Energy attached to this Pokémon.",
@@ -19,7 +42,13 @@
       }
     },
     {
-      "cost": "wwwcc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)",

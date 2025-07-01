@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "The Pokémon that has the least HP remaining, except for this Pokémon, is Knocked Out. (If multiple Pokémon are tied, choose one.)",
+        "fr": "Le Pokémon qui a le moins de PV restants, à l'exception de ce Pokémon, est mis K.O. (Si plusieurs Pokémon sont à égalité, choisissez-en un.)",
+        "de": "Das Pokémon mit den wenigsten verbleibenden KP, außer diesem Pokémon, ist kampfunfähig. (Wenn mehrere Pokémon die gleiche Anzahl von KP haben, wähle 1.)",
+        "it": "Il Pokémon con meno PS rimanenti, a eccezione di questo Pokémon, viene messo KO. In caso di parità, scegline uno.",
+        "es": "El Pokémon al que le queden menos PS, excepto este Pokémon, queda Fuera de Combate. (Si hay varios Pokémon empatados, elige 1)."
+      },
+      "name": {
+        "en": "Bring Down",
+        "fr": "Réduire à Rien",
+        "de": "Ausschalten",
+        "it": "Colpo di Grazia",
+        "es": "Derrocar"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",

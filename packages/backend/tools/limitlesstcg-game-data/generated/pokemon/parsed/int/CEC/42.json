@@ -3,7 +3,11 @@
   "abilityName": "Vitality Cheer",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from each of your Pokémon.",

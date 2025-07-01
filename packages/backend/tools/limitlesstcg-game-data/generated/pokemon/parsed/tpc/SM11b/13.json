@@ -3,7 +3,11 @@
   "abilityName": "ちりぢり",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

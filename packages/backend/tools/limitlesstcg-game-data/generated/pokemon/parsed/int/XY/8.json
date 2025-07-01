@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec le Pokémon Actif de votre adversaire.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Luring Glow",
+        "fr": "Lueur Attrayante",
+        "de": "Lockendes Glühen",
+        "it": "Brillincanto",
+        "es": "Resplandor Atrayente"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

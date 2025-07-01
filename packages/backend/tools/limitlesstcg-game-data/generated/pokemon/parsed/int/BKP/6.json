@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, any damage done to the Defending Pokémon by attacks is increased by 60 (after applying Weakness and Resistance).",
+        "fr": "Pendant votre prochain tour, tous les dégâts infligés au Pokémon Défenseur par des attaques sont augmentés de 60 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während deines nächsten Zuges wird Schaden, der dem Verteidigenden Pokémon durch Angriffe zugefügt wird, um 60 Schadenspunkte erhöht (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il tuo prossimo turno, i danni inflitti al Pokémon difensore dagli attacchi sono aumentati di 60, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante tu próximo turno, cualquier daño infligido al Pokémon Defensor por ataques aumenta en 60 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Screech",
+        "fr": "Grincement",
+        "de": "Kreideschrei",
+        "it": "Stridio",
+        "es": "Chirrido"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

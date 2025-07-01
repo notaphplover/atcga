@@ -3,13 +3,31 @@
   "abilityName": "Poison Resistance",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Put 1 damage counter on Steelix ex."
       },
       "name": {
         "en": "Metal Charge"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 [F] Energy attached to Steelix ex and choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Mudslide"
       }
     }
   ],

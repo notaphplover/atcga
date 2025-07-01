@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each [W] Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "After your attack, you may switch Wartortle with 1 of your Benched Pokémon."

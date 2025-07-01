@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "yy",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Heal 30 damage from each of your Pokémon.",
+        "fr": "Soignez 30 dégâts à chacun de vos Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei jedem deiner Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Aromatherapy",
+        "fr": "Aromathérapie",
+        "de": "Aromakur",
+        "it": "Aromaterapia",
+        "es": "Aromaterapia"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "y"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon.",

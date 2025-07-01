@@ -3,7 +3,9 @@
   "abilityName": "Anti-Lightning",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If there are any [L] Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Zapdos."
@@ -13,7 +15,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, put 2 damage counters on Zapdos."

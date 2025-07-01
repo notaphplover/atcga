@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Your opponent reveals their hand. Discard a card you find there.",
@@ -21,7 +24,10 @@
       }
     },
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "250",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

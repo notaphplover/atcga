@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on each of your opponent's Pokémon that has any damage counters on it.",
+        "fr": "Placez 3 marqueurs de dégâts sur chacun des Pokémon de votre adversaire ayant au moins un marqueur de dégâts.",
+        "de": "Lege auf jedes Pokémon deines Gegners, auf dem bereits mindestens 1 Schadensmarke liegt, 3 Schadensmarken.",
+        "it": "Metti tre segnalini danno su ciascuno dei Pokémon del tuo avversario che abbia dei segnalini danno.",
+        "es": "Pon 3 contadores de daño en cada uno de los Pokémon de tu rival que tenga algún contador de daño sobre él."
+      },
+      "name": {
+        "en": "Pain Amplifier",
+        "fr": "Amplificateur de Douleur",
+        "de": "Schmerzverstärker",
+        "it": "Aumentapena",
+        "es": "Amplificador de Dolor"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

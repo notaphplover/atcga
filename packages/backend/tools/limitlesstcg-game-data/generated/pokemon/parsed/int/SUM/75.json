@@ -3,7 +3,12 @@
   "abilityName": "Wall of Sand",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",

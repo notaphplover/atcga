@@ -3,7 +3,11 @@
   "abilityName": "フレアナビゲート",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

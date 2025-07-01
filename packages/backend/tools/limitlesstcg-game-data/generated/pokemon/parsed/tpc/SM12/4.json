@@ -3,7 +3,11 @@
   "abilityName": "ゆらゆらしばり",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

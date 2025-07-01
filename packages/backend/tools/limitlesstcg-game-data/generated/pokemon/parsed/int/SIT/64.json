@@ -1,7 +1,29 @@
 {
   "abilityEffect": "If this Pokémon has full HP and is Knocked Out by damage from an attack from your opponent's Pokémon, put 8 damage counters on the Attacking Pokémon.",
   "abilityName": "Spiteful Magic",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on each of your opponent's Pokémon.",
+        "fr": "Placez 2 marqueurs de dégâts sur chacun des Pokémon de votre adversaire.",
+        "de": "Lege 2 Schadensmarken auf jedes Pokémon deines Gegners.",
+        "it": "Metti due segnalini danno su ciascuno dei Pokémon del tuo avversario.",
+        "pt": "Coloque 2 contadores de dano em cada um dos Pokémon do seu oponente.",
+        "es": "Pon 2 contadores de daño en cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Eerie Voice",
+        "fr": "Voix Lugubre",
+        "de": "Schaurige Stimme",
+        "it": "Vocemistero",
+        "pt": "Voz Misteriosa",
+        "es": "Voz Espeluznante"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

@@ -3,7 +3,11 @@
   "abilityName": "せいぎのこころ",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "jp": "コインを1回投げオモテなら、30ダメージを追加。"

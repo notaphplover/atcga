@@ -1,11 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Rollout"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, during your next turn, Spheal's Rollout attack's base damage is 40."
+      },
+      "name": {
+        "en": "Willpower"
       }
     }
   ],

@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [],
+      "effect": {
+        "en": "Remove 1 damage counter from each of your Pokémon."
+      },
+      "name": {
+        "en": "Heal Bell"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Skitty does 10 damage to itself."

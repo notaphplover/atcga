@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, switch the number of damage counters on Rocket's Mewtwo with the number of damage counters on the Defending Pokémon (even if it would Knock Out either Pokémon). (It's okay if 1 of the Pokémon has no damage counters on it.)"
+      },
+      "name": {
+        "en": "Juxtapose"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
@@ -11,7 +25,12 @@
       }
     },
     {
-      "cost": "pppc",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

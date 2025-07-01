@@ -3,7 +3,11 @@
   "abilityName": "Streaming Mantle",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard a [R] or [F] basic Energy card attached to Magcargo. If you discard a [R] Energy card in this way, the Defending Pokémon is now Burned. If you discard a [F] Energy card in this way, this attack does 40 damage plus 20 more damage."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 40 more damage.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

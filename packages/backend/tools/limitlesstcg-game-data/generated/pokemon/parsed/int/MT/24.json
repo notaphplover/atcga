@@ -1,13 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin for each basic Energy card attached to Exeggutor and to the Defending Pokémon. This attack does 30 damage times the number of heads."
       },
       "name": {
         "en": "String Bomb"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 [G] Energy cards and attach them to any of your Pokémon in any way you like. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Nutritional Support"
       }
     }
   ],

@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon is Poisoned, put 3 more damage counters on that Pokémon between turns. This effect can be applied more than once.",
+        "fr": "Si le Pokémon Défenseur est Empoisonné, placez 3 marqueurs de dégâts supplémentaires sur ce dernier entre chaque tour. Vous pouvez appliquer cet effet plusieurs fois.",
+        "de": "Wenn das Verteidigende Pokémon vergiftet ist, lege zwischen den Zügen 3 Schadensmarken auf jenes Pokémon. Dieser Effekt kann mehrmals angewendet werden.",
+        "it": "Se il Pokémon difensore è avvelenato, tra un turno e l'altro, metti tre segnalini danno su quel Pokémon. Questo effetto può essere applicato più di una volta.",
+        "es": "Si el Pokémon Defensor está Envenenado, pon 3 contadores de daño más en ese Pokémon entre turnos. Este efecto se puede aplicar más de una vez."
+      },
+      "name": {
+        "en": "Poison Up",
+        "fr": "Poison Toxique",
+        "de": "Giftzulage",
+        "it": "Veleno +",
+        "es": "Más Veneno"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

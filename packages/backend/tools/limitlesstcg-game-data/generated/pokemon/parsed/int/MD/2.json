@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of either player's deck and put them back on top of that player's deck in any order."
+      },
+      "name": {
+        "en": "Future Sight"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Remove 1 damage counter from each of your Pokémon."

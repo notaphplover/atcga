@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If there are any damage counters on Erika's Oddish, remove 1 of them."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If Erika's Oddish has any damage counters on it, flip a coin. If heads, remove 1 of those damage counters."

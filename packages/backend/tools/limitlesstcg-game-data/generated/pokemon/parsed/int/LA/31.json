@@ -1,5 +1,27 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for any 1 card. Shuffle your deck, then put that card on top of your deck."
+      },
+      "name": {
+        "en": "One Desire"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m"
+      ],
+      "effect": {
+        "en": "Discard all Energy attached to Jirachi. The Defending Pokémon is Knocked Out at the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Doom Desire"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

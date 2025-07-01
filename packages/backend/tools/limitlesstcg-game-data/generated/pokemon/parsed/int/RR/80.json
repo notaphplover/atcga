@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [],
+      "effect": {
+        "en": "Flip 2 coins. Choose 1 of your Pokémon. For each heads, remove 1 damage counter from that Pokémon."
+      },
+      "name": {
+        "en": "Healing Sea"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

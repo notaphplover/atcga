@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put a damage counter on each of your opponent's Pokémon has already has any damage counters on it."
+      },
+      "name": {
+        "en": "Pain Amplifier"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Unless this attack Knocks Out the Defending Pokémon, flip 2 coins. If both of them are heads, your opponent shuffles his or her Active Pokémon and all cards attached to it into his or her deck."

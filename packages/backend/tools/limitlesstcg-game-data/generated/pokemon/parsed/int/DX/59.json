@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent can't play Trainer cards from his or her hand during his or her next turn."
+      },
+      "name": {
+        "en": "High Voltage"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

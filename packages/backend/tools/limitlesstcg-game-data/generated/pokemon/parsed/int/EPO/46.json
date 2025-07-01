@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée à 1 des Pokémon de votre adversaire.",
+        "de": "Wirf 1 Münze. Lege bei „Kopf“ 1 an das gegnerische Pokémon angelegte Energie auf den Ablagestapel deines Gegners.",
+        "it": "Lancia una moneta. Se esce testa, scarta un'Energia assegnata a uno dei Pokémon del tuo avversario.",
+        "es": "Lanza una moneda. Si sale cara, descarta una Energía unida a 1 de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Deleting Glare",
+        "fr": "Regard Dépouillant",
+        "de": "Destruktorblick",
+        "it": "Sgombravista",
+        "es": "Mirada Arrasadora"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -3,7 +3,9 @@
   "abilityName": "FAKE",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "You may flip a coin. If tails, this attack does nothing. If heads, this attack's base damage is 30."

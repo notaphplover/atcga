@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+      },
+      "name": {
+        "en": "Lure"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard 1 [R] Energy card attached to Ninetales in order to use this attack."

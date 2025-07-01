@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If your opponent has 3 or more Benched Pokémon, this attack does 80 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

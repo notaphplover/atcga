@@ -3,7 +3,12 @@
   "abilityName": "Pummeling Payback",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

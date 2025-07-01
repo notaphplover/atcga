@@ -3,7 +3,11 @@
   "abilityName": "Scalding Steam",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",

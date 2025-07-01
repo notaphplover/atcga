@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "it": "Questo Pokémon infligge 60 danni a se stesso."
@@ -15,7 +19,12 @@
       }
     },
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon does 60 damage to itself.",

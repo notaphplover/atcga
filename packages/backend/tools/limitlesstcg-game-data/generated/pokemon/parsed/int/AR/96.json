@@ -3,7 +3,11 @@
   "abilityName": "Multitype",
   "attacks": [
     {
-      "cost": "lpc",
+      "cost": [
+        "l",
+        "p",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard a [L] Energy and a [P] Energy attached to Arceus."

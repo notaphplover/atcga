@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rw",
+      "cost": [
+        "r",
+        "w"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 50 more damage.",

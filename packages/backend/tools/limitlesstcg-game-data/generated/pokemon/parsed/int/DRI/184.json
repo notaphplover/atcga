@@ -3,7 +3,11 @@
   "abilityName": "Cheer On to Glory",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

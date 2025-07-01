@@ -3,7 +3,11 @@
   "abilityName": "Energy Flame",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -11,7 +15,13 @@
       }
     },
     {
-      "cost": "rrrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard 5 [R] Energy attached to Charizard ex. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, and any other effects on the Defending Pokémon."

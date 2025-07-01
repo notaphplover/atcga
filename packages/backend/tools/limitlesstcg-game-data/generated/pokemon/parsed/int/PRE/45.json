@@ -3,7 +3,9 @@
   "abilityName": "Adrena-Pheromone",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each Energy attached to this Pokémon.",

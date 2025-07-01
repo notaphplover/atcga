@@ -3,7 +3,11 @@
   "abilityName": "きけんなねんえき",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

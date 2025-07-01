@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may attach an Energy card from your hand to 1 of your Benched Pokémon.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "yccc",
+      "cost": [
+        "y",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 4 coins. This attack does 50 damage times the number of heads.",

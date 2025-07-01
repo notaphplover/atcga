@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. You may discard a Supporter card you find there and use the effect of that card as the effect of this attack.",
+        "fr": "Votre adversaire dévoile sa main. Vous pouvez défausser une carte Supporter que vous y trouvez et utiliser l'effet de la carte défaussée en tant qu'effet de cette attaque.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Du kannst 1 Unterstützerkarte, die du dort findest, auf seinen Ablagestapel legen und den Effekt jener Karte als Effekt dieser Attacke einsetzen.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Puoi scartare una carta Aiuto presente tra quelle carte e usare l'effetto della carta come effetto di questo attacco.",
+        "es": "Tu rival enseña las cartas de su mano. Puedes descartar 1 carta de Partidario que encuentres entre ellas y usar el efecto de esa carta como efecto de este ataque."
+      },
+      "name": {
+        "en": "Wink Wink",
+        "fr": "Clin d'Œil",
+        "de": "Blinzeln",
+        "it": "Occhiolino",
+        "es": "Guiño Cómplice"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

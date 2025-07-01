@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
@@ -19,7 +21,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This Pokémon can't use Slashing Strike during your next turn.",

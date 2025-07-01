@@ -3,7 +3,12 @@
   "abilityName": "Loopy Lasso",
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
