@@ -1,7 +1,31 @@
 {
   "abilityEffect": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 2 cards of your deck and put 1 of them into your hand. Put the other card back on top of your deck.",
   "abilityName": "Dreamy Revelation",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "f",
+        "m"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 7 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 7 cartes Énergie de base, puis attachez-les à vos Pokémon comme il vous plaît. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 7 Basis-Energiekarten und lege sie beliebig an deine Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a sette carte Energia base e assegnale ai tuoi Pokémon nel modo che preferisci. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 7 cartas de Energia básica no seu baralho e ligue-as aos seus Pokémon como desejar. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 7 cartas de Energía Básica y únelas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Amazing Star",
+        "fr": "Étoile Magnifique",
+        "de": "Atemberaubender Stern",
+        "it": "Stella Policroma",
+        "pt": "Estrela Incrível",
+        "es": "Estrella Increíble"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

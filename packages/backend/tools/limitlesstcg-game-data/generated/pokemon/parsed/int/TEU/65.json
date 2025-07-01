@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Search your deck for up to 3 in any combination of [W] and [P] Energy cards and attach them to 1 of your Benched Pokémon. Then, shuffle your deck.",

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a [L] Energy card from your hand. If you do, draw 3 cards.",
+        "fr": "Défaussez une carte Énergie [L] de votre main. Dans ce cas, piochez 3 cartes.",
+        "de": "Lege 1 [L]-Energie aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 3 Karten.",
+        "it": "Scarta una carta Energia [L] presente tra le carte che hai in mano. Se lo fai, pesca tre carte.",
+        "es": "Descarta una carta de Energía [L] de tu mano. Si lo haces, roba 3 cartas."
+      },
+      "name": {
+        "en": "Electribonus",
+        "fr": "Électribonus",
+        "de": "Elektrobonus",
+        "it": "Elettrobonus",
+        "es": "Bonus Eléctrico"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Your opponent reveals his or her hand. This attack does 20 damage times the number of Trainer cards in your opponent's hand.",

@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [],
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Kakuna by attacks is reduced by 30 (after applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Stiffen"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

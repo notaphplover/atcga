@@ -3,7 +3,10 @@
   "abilityName": "Psychic Bind",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 20 damage plus 50 more damage."

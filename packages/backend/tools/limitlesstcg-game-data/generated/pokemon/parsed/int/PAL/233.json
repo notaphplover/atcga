@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Heal 30 damage from each of your Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "270-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",

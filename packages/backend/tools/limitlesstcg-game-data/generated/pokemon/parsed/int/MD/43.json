@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [],
+      "effect": {
+        "en": "Search your discard pile for a [L] Energy card, show it to your opponent, and put it into your hand."
+      },
+      "name": {
+        "en": "Trans Tail"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

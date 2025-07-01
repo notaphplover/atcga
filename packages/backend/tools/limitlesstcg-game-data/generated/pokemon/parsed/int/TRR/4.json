@@ -3,7 +3,9 @@
   "abilityName": "Darkness Navigation",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may move all Energy cards attached to Dark Electrode to your Benched Pokémon in any way you like."

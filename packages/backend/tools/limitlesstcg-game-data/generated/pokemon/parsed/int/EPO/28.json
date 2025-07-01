@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
@@ -16,6 +18,26 @@
         "de": "Pulverschnee",
         "it": "Polneve",
         "es": "Nieve Polvo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 60 damage from this Pokémon. This Pokémon is now Asleep.",
+        "fr": "Soignez 60 dégâts à ce Pokémon. Ce Pokémon est maintenant Endormi.",
+        "de": "Heile 60 Schadenspunkte bei diesem Pokémon. Dieses Pokémon schläft jetzt.",
+        "it": "Cura questo Pokémon da 60 danni. Questo Pokémon viene addormentato.",
+        "es": "Cura 60 puntos de daño a este Pokémon. Este Pokémon pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Rest",
+        "fr": "Repos",
+        "de": "Erholung",
+        "it": "Riposo",
+        "es": "Descanso"
       }
     }
   ],

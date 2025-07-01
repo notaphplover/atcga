@@ -3,7 +3,11 @@
   "abilityName": "Exciting Stage",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 80 more damage.",

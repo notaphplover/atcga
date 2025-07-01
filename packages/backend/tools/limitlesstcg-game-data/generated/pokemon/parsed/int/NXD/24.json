@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Confused.",
+        "fr": "Le Pokémon Défenseur est maintenant Confus.",
+        "de": "Das Verteidigende Pokémon ist jetzt verwirrt.",
+        "it": "Il Pokémon difensore viene confuso.",
+        "es": "El Pokémon Defensor pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Confuse Ray",
+        "fr": "Onde Folie",
+        "de": "Konfustrahl",
+        "it": "Stordiraggio",
+        "es": "Rayo Confuso"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon.",

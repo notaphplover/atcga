@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "yyc",
+      "cost": [
+        "y",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent shuffles their Active Pokémon and all cards attached to it into their deck.",
+        "fr": "Lancez une pièce. Si c'est face, votre adversaire mélange son Pokémon Actif et toutes les cartes qui lui sont attachées avec son deck.",
+        "de": "Wirf 1 Münze. Bei Kopf mischt dein Gegner sein Aktives Pokémon und alle an es angelegten Karten in sein Deck.",
+        "it": "Lancia una moneta. Se esce testa, il tuo avversario rimischia il suo Pokémon attivo e tutte le carte a esso assegnate nel suo mazzo.",
+        "es": "Lanza 1 moneda. Si sale cara, tu rival pone su Pokémon Activo y todas las cartas unidas a él en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Dream Away",
+        "fr": "Rêve d'Éloignement",
+        "de": "Wegträumen",
+        "it": "Sognovia",
+        "es": "Empuje Onírico"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "y",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

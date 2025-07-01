@@ -3,7 +3,11 @@
   "abilityName": "Rain Dish",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Confused.",

@@ -3,7 +3,11 @@
   "abilityName": "タイムリコール",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "このポケモンをベンチポケモンと入れ替える。"

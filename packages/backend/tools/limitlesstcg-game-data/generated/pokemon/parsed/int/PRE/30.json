@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may discard up to 2 Basic Energy from your Benched Pokémon. This attack does 90 more damage for each card you discarded in this way.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "rwl",
+      "cost": [
+        "r",
+        "w",
+        "l"
+      ],
       "dmg": "280",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

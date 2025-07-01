@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep. During Pokémon Checkup, your opponent flips 2 coins instead of 1. If either of them is tails, that Pokémon is still Asleep.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi. Pendant le Contrôle Pokémon, votre adversaire lance 2 pièces au lieu d'une. S'il obtient au moins un côté pile, ce Pokémon-là reste Endormi.",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt. Beim Pokémon-Check wirft dein Gegner 2 Münzen anstelle von 1. Wenn eine oder beide Münzen Zahl zeigen, schläft jenes Pokémon weiter.",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato. Durante il controllo Pokémon, il tuo avversario lancia due volte una moneta invece di una. Se esce almeno una volta croce, quel Pokémon resta addormentato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Adormecido. Durante o Checape Pokémon, seu oponente joga 2 moedas ao invés de 1. Se qualquer uma delas sair coroa, aquele Pokémon permanecerá Adormecido.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Dormido. Durante el Chequeo Pokémon, tu rival lanza 2 monedas en vez de 1. Si sale cruz en alguna de ellas, ese Pokémon está todavía Dormido."
+      },
+      "name": {
+        "en": "Sleepy Pulse",
+        "fr": "Pouls Léthargique",
+        "de": "Schläfriger Puls",
+        "it": "Dormipulsar",
+        "pt": "Pulso Dorminhoco",
+        "es": "Pulso Soporífero"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Asleep, this attack does 120 more damage.",

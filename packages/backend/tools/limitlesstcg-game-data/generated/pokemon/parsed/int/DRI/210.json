@@ -3,7 +3,12 @@
   "abilityName": "Snow Camouflage",
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "140+",
       "effect": {
         "en": "You may discard a Stadium in play. If you do, this attack does 140 more damage.",

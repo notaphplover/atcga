@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, this Pokémon's Slash attack's base damage is 40."
+      },
+      "name": {
+        "en": "Swords Dance"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

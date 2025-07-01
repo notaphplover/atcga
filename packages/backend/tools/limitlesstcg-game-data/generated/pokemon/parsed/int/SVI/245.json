@@ -3,7 +3,11 @@
   "abilityName": "Psychic Embrace",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This Pokémon recovers from all Special Conditions.",

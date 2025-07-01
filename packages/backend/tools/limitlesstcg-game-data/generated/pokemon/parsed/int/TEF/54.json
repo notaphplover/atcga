@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If your opponent has any [W] Pokémon in play, this attack does 120 more damage.",
@@ -21,7 +24,12 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

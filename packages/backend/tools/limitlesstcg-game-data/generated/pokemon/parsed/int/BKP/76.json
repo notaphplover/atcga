@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "mm",
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage.",

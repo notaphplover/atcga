@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach 2 [F] Energy cards from your discard pile to this Pokémon. Then, switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Attachez 2 cartes Énergie [F] de votre pile de défausse à ce Pokémon. Ensuite, échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Lege 2 [F]-Energiekarten von deinem Ablagestapel an dieses Pokémon an. Tausche dieses Pokémon anschließend gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Assegna a questo Pokémon due carte Energia [F] dalla tua pila degli scarti. Poi, scambia questo Pokémon con uno della tua panchina",
+        "es": "Une 2 cartas de Energía [F] de tu pila de descartes a este Pokémon. Después, cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Accelerating Spin",
+        "fr": "Rotation Accélérée",
+        "de": "Beschleunigende Drehung",
+        "it": "Celerogiro",
+        "es": "Giro Trepidante"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any [P] Energy attached to it, this attack does 50 more damage.",

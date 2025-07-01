@@ -1,7 +1,27 @@
 {
   "abilityEffect": "Suicune's Retreat Cost is [C] less for each [W] Energy attached to Suicune.",
   "abilityName": "Extreme Speed",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Inflige 20 dégâts à chaque Pokémon de votre adversaire (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 20 danni a ciascuno dei Pokémon del tuo avversario. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+      },
+      "name": {
+        "en": "Tsunami",
+        "fr": "Tsunami",
+        "de": "Tsunami",
+        "it": "Tsunami"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

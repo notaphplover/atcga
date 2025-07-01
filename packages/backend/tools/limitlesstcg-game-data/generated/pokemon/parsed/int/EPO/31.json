@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Asleep.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself.",

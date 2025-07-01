@@ -1,7 +1,27 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may discard all cards attached to this Pokémon and attach it to 1 of your Pokémon as a Pokémon Tool card. When the Pokémon this card is attached to is Knocked Out, your opponent takes 1 fewer Prize card.",
   "abilityName": "Vessel of Life",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Active Pokémon.",
+        "fr": "Placez 3 marqueurs de dégâts sur le Pokémon Actif de votre adversaire.",
+        "de": "Lege 3 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti tre segnalini danno sul Pokémon attivo del tuo avversario.",
+        "es": "Pon 3 contadores de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Haunt",
+        "fr": "Hanter",
+        "de": "Spuk",
+        "it": "Infestare",
+        "es": "Espanto"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

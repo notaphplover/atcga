@@ -1,7 +1,27 @@
 {
   "abilityEffect": "This Pokémon can use the attacks of any Pokémon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
   "abilityName": "Versatile",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Move as many Energy attached to your Pokémon to your other Pokémon in any way you like.",
+        "fr": "Déplacez autant d'Énergies attachées à vos Pokémon que vous voulez vers vos autres Pokémon, de la manière que vous voulez.",
+        "de": "Verschiebe beliebig viele an deine Pokémon angelegten Energien nach Belieben auf deine anderen Pokémon.",
+        "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon.",
+        "es": "Mueve tantas Energías unidas a tus Pokémon a tus otros Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Replace",
+        "fr": "Repositionnement",
+        "de": "Austausch",
+        "it": "Sostituzione",
+        "es": "Traslado"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 120,
   "imageUrls": {

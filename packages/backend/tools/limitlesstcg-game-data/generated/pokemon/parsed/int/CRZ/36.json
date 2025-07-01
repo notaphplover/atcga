@@ -1,5 +1,51 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [W] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [W], puis attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [W]-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [W] e assegnala a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta de Energia [W] no seu baralho e ligue-a a este Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [W] y únela a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Wave Summoning",
+        "fr": "Vague Invoquée",
+        "de": "Wellenbeschwörung",
+        "it": "Radunonda",
+        "pt": "Invocação de Onda",
+        "es": "Invocación de Olas"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 Energy attached to this Pokémon into your hand. This attack does 180 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Ajoutez à votre main 3 Énergies attachées à ce Pokémon. Cette attaque inflige 180 dégâts à l'un des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Nimm 3 an dieses Pokémon angelegte Energien auf deine Hand. Diese Attacke fügt 1 Pokémon deines Gegners 180 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Prendi tre Energie assegnate a questo Pokémon e aggiungile alle carte che hai in mano. Questo attacco infligge 180 danni a uno dei Pokémon del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Coloque 3 Energias ligadas a este Pokémon na sua mão. Este ataque causa 180 pontos de dano a 1 dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Pon 3 Energías unidas a este Pokémon en tu mano. Este ataque hace 180 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Dynamic Wave",
+        "fr": "Vague Dynamique",
+        "de": "Wuchtige Welle",
+        "it": "Onda Dinamica",
+        "pt": "Onda Dinâmica",
+        "es": "Ola Dinámica"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 140,
   "imageUrls": {

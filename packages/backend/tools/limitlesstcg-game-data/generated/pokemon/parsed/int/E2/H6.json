@@ -3,7 +3,11 @@
   "abilityName": "Happy Healing",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

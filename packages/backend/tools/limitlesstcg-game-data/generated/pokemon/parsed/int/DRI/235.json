@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon has no damage counters on it, this attack does 120 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Boss Headbutt.",

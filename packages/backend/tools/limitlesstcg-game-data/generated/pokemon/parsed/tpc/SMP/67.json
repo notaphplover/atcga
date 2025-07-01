@@ -3,7 +3,11 @@
   "abilityName": "メタルプロテクト",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "このワザのダメージは抵抗力を計算しない。"

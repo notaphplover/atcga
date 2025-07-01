@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all Special Energy attached to each of your opponent's Pokémon.",
+        "fr": "Défaussez toutes les Énergies spéciales attachées à chacun des Pokémon de votre adversaire.",
+        "de": "Lege alle Spezial-Energie, die an jedes gegnerische Pokémon angelegt ist, auf den Ablagestapel deines Gegners.",
+        "it": "Scarta tutte le Energie speciali assegnate a ciascuno dei Pokémon del tuo avversario.",
+        "es": "Descarta todas las Energías Especiales unidas a cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Cyber Crush",
+        "fr": "Cyber Broyage",
+        "de": "Cyberschlag",
+        "it": "Schianto Cibernetico",
+        "es": "Cibercolisión"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon's attacks cost [C] more.",

@@ -3,7 +3,10 @@
   "abilityName": "Evolution Roar",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

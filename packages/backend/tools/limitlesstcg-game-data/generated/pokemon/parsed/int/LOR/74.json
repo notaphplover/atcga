@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Move 2 damage counters from each of your Pokémon to 1 of your opponent's Pokémon.",
+        "fr": "Déplacez 2 marqueurs de dégâts de chacun de vos Pokémon vers l'un des Pokémon de votre adversaire.",
+        "de": "Verschiebe 2 Schadensmarken von jedem deiner Pokémon auf 1 Pokémon deines Gegners.",
+        "it": "Sposta due segnalini danno da ciascuno dei tuoi Pokémon a uno dei Pokémon del tuo avversario.",
+        "pt": "Mova 2 contadores de dano de cada um dos seus Pokémon para 1 dos Pokémon do seu oponente.",
+        "es": "Mueve 2 contadores de daño de cada uno de tus Pokémon a 1 de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Moonglow Reverse",
+        "fr": "Éclat de Lune Inversé",
+        "de": "Mondschimmerumkehr",
+        "it": "Invertiluna",
+        "pt": "Brilho Lunar Reverso",
+        "es": "Brillo Lunar Inverso"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

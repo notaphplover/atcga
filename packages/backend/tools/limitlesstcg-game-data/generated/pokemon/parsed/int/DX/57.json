@@ -3,7 +3,9 @@
   "abilityName": "Exoskeleton",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 damage times the number of heads."

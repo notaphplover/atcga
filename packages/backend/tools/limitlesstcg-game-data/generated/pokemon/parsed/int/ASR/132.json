@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each Energy attached to your opponent's Active Pokémon.",
@@ -21,7 +21,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Slashing Strike.",

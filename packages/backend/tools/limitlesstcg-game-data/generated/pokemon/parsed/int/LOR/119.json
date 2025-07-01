@@ -3,7 +3,11 @@
   "abilityName": "Hazard Star",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "250-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",

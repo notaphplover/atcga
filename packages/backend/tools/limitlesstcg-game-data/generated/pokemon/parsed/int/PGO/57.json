@@ -3,7 +3,9 @@
   "abilityName": "Primate Dexterity",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage for each heads.",

@@ -3,7 +3,11 @@
   "abilityName": "Energy Trans",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned, Burned, and Confused."
@@ -13,7 +17,13 @@
       }
     },
     {
-      "cost": "gggcc",
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "キングパレス",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "jp": "自分のベンチの進化ポケモンの数x30ダメージを追加。"

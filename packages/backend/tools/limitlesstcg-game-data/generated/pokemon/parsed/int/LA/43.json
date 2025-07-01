@@ -3,7 +3,9 @@
   "abilityName": "Set Up",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may put Uxie and all cards attached to it on the bottom of your deck in any order."

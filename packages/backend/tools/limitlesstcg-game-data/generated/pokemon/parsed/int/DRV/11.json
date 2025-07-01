@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",
@@ -15,7 +17,11 @@
       }
     },
     {
-      "cost": "rlc",
+      "cost": [
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on the Defending Pokémon.",

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each of your Benched [P] Pokémon.",
@@ -16,6 +20,27 @@
         "de": "Psycho-Club",
         "it": "Club delle Menti",
         "es": "Club Psíquico"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 10 damage counters on your opponent's Pokémon in any way you like. If this Pokémon has at least 3 extra Energy attached to it (in addition to this attack's cost), put 20 damage counters on them instead. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Placez 10 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez. Si au moins 3 Énergies supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), placez 20 marqueurs de dégâts à la place. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 10 Schadensmarken beliebig auf die Pokémon deines Gegners. Wenn an dieses Pokémon mindestens 3 extra Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), lege stattdessen 20 Schadensmarken auf die Pokémon deines Gegners. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Distribuisci a piacimento 10 segnalini danno sui Pokémon del tuo avversario. Se questo Pokémon ha almeno tre Energie extra assegnate, in aggiunta a quelle del costo di questo attacco, invece distribuiscine 20. Non puoi usare più di un attacco GX a partita.",
+        "es": "Pon 10 contadores de daño en los Pokémon de tu rival de la manera que desees. Si este Pokémon tiene por lo menos 3 Energías adicionales unidas a él (además de las del coste de este ataque), pon 20 contadores de daño en ellos en vez de 10. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Cross Division-GX",
+        "fr": "Division Croisée-GX",
+        "de": "Kreuzdivision-GX",
+        "it": "Distribuzione Incrociata-GX",
+        "es": "División Cruzada-GX"
       }
     }
   ],

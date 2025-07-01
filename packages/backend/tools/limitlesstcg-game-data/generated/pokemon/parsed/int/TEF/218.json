@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "lf",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard your hand and draw 6 cards.",
+        "fr": "Défaussez votre main, puis piochez 6 cartes.",
+        "de": "Lege deine Handkarten auf deinen Ablagestapel und ziehe 6 Karten.",
+        "it": "Scarta le carte che hai in mano e pesca sei carte.",
+        "pt": "Descarte a sua mão e compre 6 cartas.",
+        "es": "Descarta las cartas de tu mano y roba 6 cartas."
+      },
+      "name": {
+        "en": "Burst Roar",
+        "fr": "Rugissement Éclatant",
+        "de": "Berstender Brüller",
+        "it": "Boatoscoppio",
+        "pt": "Rugido Disruptivo",
+        "es": "Rugido Explosivo"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "f"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way.",

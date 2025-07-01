@@ -3,7 +3,11 @@
   "abilityName": "More Poison",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",

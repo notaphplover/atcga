@@ -3,7 +3,11 @@
   "abilityName": "Sandy Cloak",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 10 damage for each [F] Energy attached to Wormadam Sandy Cloak."

@@ -3,7 +3,12 @@
   "abilityName": "Energy Charge",
   "attacks": [
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, Lt. Surge's Magneton does 20 damage to itself."

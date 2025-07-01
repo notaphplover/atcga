@@ -3,7 +3,22 @@
   "abilityName": "Heat Shift",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [R] Energy card and attach it to 1 of your Benched Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Warm Up"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Burned."

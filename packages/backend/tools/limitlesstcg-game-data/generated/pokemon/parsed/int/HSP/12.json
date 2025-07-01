@@ -1,7 +1,25 @@
 {
   "abilityEffect": "As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
   "abilityName": "Sweet Sleeping Face",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep.",
+        "fr": "Mélangez votre main avec votre deck, piochez ensuite 6 cartes. Mélo est maintenant Endormi.",
+        "de": "Mische deine Hand in dein Deck, ziehe danach 6 Karten. Pii schläft jetzt.",
+        "it": "Rimischia le carte che hai in mano nel tuo mazzo, e poi pesca 6 carte. Cleffa è Addormentato.",
+        "es": "Baraja tu mano en tu mazo y después roba 6 cartas. Cleffa pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Eeeeeeek",
+        "fr": "Arheuuuuu",
+        "de": "Piiiiiiieps",
+        "it": "Eeeeeeek",
+        "es": "Eeeeeeek"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

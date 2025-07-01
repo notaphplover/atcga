@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard as many cards as you like from your hand. Heal 10 damage from this Pokémon for each card you discarded in this way.",
+        "fr": "Défaussez autant de cartes que vous voulez de votre main. Soignez 10 dégâts à ce Pokémon pour chaque carte défaussée de cette façon.",
+        "de": "Lege beliebig viele Karten von deiner Hand auf deinen Ablagestapel. Heile bei diesem Pokémon 10 Schadenspunkte für jede Karte, die du auf diese Weise auf deinen Ablagestapel gelegt hast.",
+        "it": "Scarta tutte le carte che vuoi dalla tua mano. Cura questo Pokémon da 10 danni per ogni carta scartata in questo modo.",
+        "es": "Descarta tantas cartas como quieras de tu mano. Cura 10 puntos de daño a este Pokémon por cada carta descartada de esta manera."
+      },
+      "name": {
+        "en": "Healing Wave",
+        "fr": "Vague de Soin",
+        "de": "Heilende Woge",
+        "it": "Ondacura",
+        "es": "Ola Sanadora"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "90-",
       "effect": {
         "en": "This attack does 90 damage minus 10 damage for each damage counter on this Pokémon.",

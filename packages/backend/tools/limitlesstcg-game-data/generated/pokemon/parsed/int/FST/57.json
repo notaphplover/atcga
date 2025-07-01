@@ -3,7 +3,11 @@
   "abilityName": "Rowdy",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",

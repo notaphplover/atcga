@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Mystifying Horns",
+        "fr": "Mysti-Cornes",
+        "de": "Mystik-Hörner",
+        "it": "Falsecorna",
+        "es": "Cuernos Desconcertantes"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you have any Mega Evolution Pokémon on your Bench, this attack does 50 more damage.",

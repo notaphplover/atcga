@@ -3,7 +3,12 @@
   "abilityName": "Voltage Beat",
   "attacks": [
     {
-      "cost": "gggc",
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

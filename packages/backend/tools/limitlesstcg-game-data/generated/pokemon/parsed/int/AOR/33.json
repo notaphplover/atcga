@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Devolve each of your opponent's evolved Pokémon and put the highest Stage Evolution card on it into your opponent's hand.",
+        "fr": "Faites dés-évoluer chacun des Pokémon évolués de votre adversaire et mettez sa carte Évolution de plus haut Niveau dans la main de votre adversaire.",
+        "de": "Rückentwickle jedes entwickelte Pokémon deines Gegners. Dein Gegner nimmt die höchste daraufliegende Evolutionskarte auf seine Hand.",
+        "it": "Annulla l'evoluzione di ciascuno dei Pokémon evoluti del tuo avversario e mettine la carta Evoluzione di fase più alta nella sua mano.",
+        "es": "Involuciona a cada uno de los Pokémon evolucionados de tu rival y pon la carta de Evolución de fase más alta que tenga sobre él en la mano de tu rival."
+      },
+      "name": {
+        "en": "Rewind",
+        "fr": "Rembobinage",
+        "de": "Rücklauf",
+        "it": "Riavvolgi",
+        "es": "Rebobinar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",

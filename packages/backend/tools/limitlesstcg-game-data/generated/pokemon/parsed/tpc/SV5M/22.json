@@ -3,7 +3,13 @@
   "abilityName": "ハッスルプレー",
   "attacks": [
     {
-      "cost": "rcccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "jp": "相手のバトルポケモンをやけどにする。"

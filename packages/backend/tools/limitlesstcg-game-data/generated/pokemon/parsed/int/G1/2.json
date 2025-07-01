@@ -3,7 +3,12 @@
   "abilityName": "Bench Guard",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

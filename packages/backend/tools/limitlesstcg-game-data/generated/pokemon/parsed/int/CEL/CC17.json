@@ -3,7 +3,10 @@
   "abilityName": "Bright Look",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Does 30 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage.",

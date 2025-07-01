@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal all damage from all of your Pokémon. Shuffle this Pokémon and all cards attached to it into your deck.",
+        "fr": "Soignez tous les dégâts de vos Pokémon. Mélangez ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck.",
+        "de": "Heile allen Schaden bei jedem deiner Pokémon. Mische dieses Pokémon und alle an es angelegten Karten in dein Deck.",
+        "it": "Cura tutti i tuoi Pokémon da tutti i danni. Rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo.",
+        "es": "Cura todos los puntos de daño a todos tus Pokémon. Pon este Pokémon y todas las cartas unidas a él en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Bye-Bye Heal",
+        "fr": "Soins et Adieux",
+        "de": "Bye-bye-Heilen",
+        "it": "Addio Cura",
+        "es": "Adiós, Cura"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

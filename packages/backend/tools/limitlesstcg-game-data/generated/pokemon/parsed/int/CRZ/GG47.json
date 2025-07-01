@@ -3,7 +3,11 @@
   "abilityName": "Witch's Domain",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

@@ -3,7 +3,18 @@
   "abilityName": "Final Wish",
   "attacks": [
     {
-      "cost": "m",
+      "cost": [],
+      "effect": {
+        "en": "If you have a Supporter card in play, use the effect of that card as the effect of this attack."
+      },
+      "name": {
+        "en": "Detour"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."

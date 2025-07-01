@@ -3,7 +3,12 @@
   "abilityName": "Berserk",
   "attacks": [
     {
-      "cost": "wwww",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a number of coins equal to the number of damage counters on Feraligatr. This attack does 50 damage plus 10 more damage for each heads."

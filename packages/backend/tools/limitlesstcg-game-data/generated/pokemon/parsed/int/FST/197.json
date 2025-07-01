@@ -3,7 +3,10 @@
   "abilityName": "Slimy Room",
   "attacks": [
     {
-      "cost": "wp",
+      "cost": [
+        "w",
+        "p"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

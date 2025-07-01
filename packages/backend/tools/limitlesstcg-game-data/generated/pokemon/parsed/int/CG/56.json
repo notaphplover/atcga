@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Kick"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on your opponent's Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Pure Power"
       }
     }
   ],

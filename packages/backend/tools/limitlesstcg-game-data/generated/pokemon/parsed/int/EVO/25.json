@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 50 more damage.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard an Energy attached to your opponent's Active Pokémon.",

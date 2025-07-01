@@ -3,7 +3,10 @@
   "abilityName": "Frenzy",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Dark Primeape is now Confused (after doing damage)."

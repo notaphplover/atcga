@@ -3,7 +3,12 @@
   "abilityName": "Sacred Rainbow",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard an Energy attached to Ho-Oh LEGEND.",

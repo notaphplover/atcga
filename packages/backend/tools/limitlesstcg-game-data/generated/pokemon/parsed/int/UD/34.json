@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the number of damage counters on the Defending Pokémon.",
@@ -17,7 +19,9 @@
       }
     },
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a Special Energy card attached to the Defending Pokémon.",

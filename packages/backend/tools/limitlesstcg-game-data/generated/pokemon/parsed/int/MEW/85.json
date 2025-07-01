@@ -3,7 +3,9 @@
   "abilityName": "Zooming Draw",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each damage counter on this Pokémon.",

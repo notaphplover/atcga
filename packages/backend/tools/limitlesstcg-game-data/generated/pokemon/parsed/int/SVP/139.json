@@ -3,7 +3,11 @@
   "abilityName": "Mist Float",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Charging Up",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each of your Team Rocket's Pokémon in play.",

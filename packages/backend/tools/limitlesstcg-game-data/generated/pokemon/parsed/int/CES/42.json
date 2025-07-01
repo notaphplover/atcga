@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 80 more damage.",

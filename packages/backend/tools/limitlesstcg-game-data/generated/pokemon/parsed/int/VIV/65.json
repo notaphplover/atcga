@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 2 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege 2 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Metti due segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Coloque 2 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Pon 2 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Psypower",
+        "fr": "Puissance Psy",
+        "de": "Psy-Power",
+        "it": "Psicotere",
+        "pt": "Poder Psíquico",
+        "es": "Psicopoder"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may have your opponent shuffle their hand into their deck. If you do, your opponent draws 4 cards.",

@@ -3,7 +3,11 @@
   "abilityName": "Resolute Spear",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

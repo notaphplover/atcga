@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Switch Ninjask with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Circling Dive"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Remove from 1 of your Pokémon the number of damage counters equal to the damage you did to the Defending Pokémon."

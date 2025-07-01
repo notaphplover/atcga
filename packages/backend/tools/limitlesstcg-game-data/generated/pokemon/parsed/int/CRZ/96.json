@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "310",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself. (You can't use more than 1 VSTAR Power in a game.)",

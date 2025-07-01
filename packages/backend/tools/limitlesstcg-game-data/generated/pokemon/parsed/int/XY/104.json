@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 10 damage from each of your Pokémon.",
+        "fr": "Soignez 10 dégâts à chacun de vos Pokémon.",
+        "de": "Heile 10 Schadenspunkte bei jedem deiner Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 10 danni.",
+        "es": "Cura 10 puntos de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Heal Bell",
+        "fr": "Glas de Soin",
+        "de": "Vitalglocke",
+        "it": "Rintoccasana",
+        "es": "Campana Cura"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon is Knocked Out during your next turn, take 2 more Prize cards.",
+        "fr": "Si le Pokémon Défenseur est mis K.O. pendant votre prochain tour, récupérez 2 cartes Récompense supplémentaires.",
+        "de": "Wenn das Verteidigende Pokémon während deines nächsten Zuges kampfunfähig wird, nimm 2 Preiskarten mehr.",
+        "it": "Se il Pokémon difensore viene messo KO durante il tuo prossimo turno, prendi due carte Premio in più.",
+        "es": "Si el Pokémon Defensor queda Fuera de Combate durante tu próximo turno, coge 2 cartas de Premio más."
+      },
+      "name": {
+        "en": "The Wages of Fluff",
+        "fr": "Prix de la Douceur",
+        "de": "Wohlwollen",
+        "it": "Prezzo della Morbidezza",
+        "es": "Precio de la Pelusa"
+      }
+    },
+    {
+      "cost": [
+        "y"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

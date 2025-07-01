@@ -3,7 +3,9 @@
   "abilityName": "Fire Formation",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard a [R] Energy attached to Charizard."

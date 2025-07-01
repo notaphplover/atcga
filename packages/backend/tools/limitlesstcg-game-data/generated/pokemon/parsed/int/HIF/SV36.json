@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Évolution de l'un de vos Pokémon et placez-la sur ce dernier pour le faire évoluer. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte, die sich aus 1 deiner Pokémon entwickelt, und lege sie auf jenes Pokémon, um es zu entwickeln. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta che si evolve da uno dei tuoi Pokémon e metticela sopra per farlo evolvere. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta que evolucione de 1 de tus Pokémon y ponla sobre ese Pokémon para hacerlo evolucionar. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Sparkling Wish",
+        "fr": "Espoir Étincelant",
+        "de": "Funkelnder Wunsch",
+        "it": "Desiderio Scintillante",
+        "es": "Deseo Destellante"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal 30 damage from each of your [Y] Pokémon.",

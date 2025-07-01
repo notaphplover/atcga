@@ -3,7 +3,10 @@
   "abilityName": "Avenging Aura",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may discard an Energy from this Pokémon. If you do, this attack does 40 more damage.",

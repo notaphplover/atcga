@@ -3,7 +3,22 @@
   "abilityName": "Paranoid",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Split Kick"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

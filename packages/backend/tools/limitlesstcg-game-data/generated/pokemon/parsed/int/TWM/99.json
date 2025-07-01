@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [],
+      "effect": {
+        "en": "Discard a Stadium in play.",
+        "fr": "Défaussez un Stade en jeu.",
+        "de": "Lege 1 Stadionkarte im Spiel auf den Ablagestapel.",
+        "it": "Scarta una carta Stadio in gioco.",
+        "pt": "Descarte um Estádio em jogo.",
+        "es": "Descarta 1 Estadio en juego."
+      },
+      "name": {
+        "en": "Blazing Destruction",
+        "fr": "Destruction Ardente",
+        "de": "Feurige Verwüstung",
+        "it": "Raso al Fuoco",
+        "pt": "Destruição Flamejante",
+        "es": "Destrucción Abrasadora"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This Pokémon also does 10 damage to itself.",

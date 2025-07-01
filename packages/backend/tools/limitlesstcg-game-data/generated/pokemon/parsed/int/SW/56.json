@@ -3,7 +3,11 @@
   "abilityName": "Toxic Sludge",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon is now Confused and can't retreat during your opponent's next turn."

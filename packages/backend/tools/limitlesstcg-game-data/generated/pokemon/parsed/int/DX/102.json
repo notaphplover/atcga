@@ -3,7 +3,10 @@
   "abilityName": "Dragon Boost",
   "attacks": [
     {
-      "cost": "rl",
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage for each basic Energy card attached to Rayquaza ex."

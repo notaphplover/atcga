@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Your opponent may choose a Baby Pokémon, Basic Pokémon, or Evolution card from his or her discard pile and put it into his or her hand. Either way, you may do the same."
+      },
+      "name": {
+        "en": "Mysterious Wing"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If Light Venomoth and the Defending Pokémon have a different number of Energy cards attached to them, this attack does nothing."

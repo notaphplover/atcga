@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, search your discard pile for a basic Energy card and attach it to Dialga."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Dialga can't attack during your next turn."

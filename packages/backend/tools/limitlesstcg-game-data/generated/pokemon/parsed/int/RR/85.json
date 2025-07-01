@@ -3,7 +3,11 @@
   "abilityName": "Overgrow",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "After your attack, remove from Turtwig GL the number of damage counters equal to the damage you did to the Defending Pokémon."

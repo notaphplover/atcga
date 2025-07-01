@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",
@@ -19,7 +24,12 @@
       }
     },
     {
-      "cost": "llll",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Discard all Energy attached to this Pokémon.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Discard an Energy from this Pokémon. If you do, switch all damage counters on this Pokémon with those on your opponent's Active Pokémon.",
+        "fr": "Défaussez une Énergie de ce Pokémon. Dans ce cas, échangez tous les marqueurs de dégâts de ce Pokémon avec ceux du Pokémon Actif de votre adversaire.",
+        "de": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel. Wenn du das machst, tausche alle Schadensmarken auf diesem Pokémon gegen jene auf dem Aktiven Pokémon deines Gegners aus.",
+        "it": "Scarta un'Energia assegnata a questo Pokémon. Se lo fai, scambia tutti i segnalini danno presenti su questo Pokémon con quelli sul Pokémon attivo del tuo avversario.",
+        "es": "Descarta 1 Energía de este Pokémon. Si lo haces, cambia todos los contadores de daño de este Pokémon por los del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Lunar Payback",
+        "fr": "Vengeance Lunaire",
+        "de": "Lunar-Rache",
+        "it": "Rivincita Lunare",
+        "es": "Venganza Lunar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon.",

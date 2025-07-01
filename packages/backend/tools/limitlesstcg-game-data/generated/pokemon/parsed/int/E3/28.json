@@ -3,7 +3,11 @@
   "abilityName": "Pure Body",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may flip a coin. If heads, discard all [L] Energy cards attached to Raikou. This attack does 40 damage plus 20 more damage for each Energy card discarded in this way."

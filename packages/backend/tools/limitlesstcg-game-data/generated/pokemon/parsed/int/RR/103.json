@@ -3,7 +3,11 @@
   "abilityName": "Damage Switch",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance."

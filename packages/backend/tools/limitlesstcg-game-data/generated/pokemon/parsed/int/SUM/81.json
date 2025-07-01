@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all Pokémon Tool cards from your opponent's Active Pokémon.",
+        "fr": "Défaussez toutes les cartes Outil Pokémon du Pokémon Actif de votre adversaire.",
+        "de": "Lege alle Pokémon-Ausrüstungen vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta tutte le carte Oggetto Pokémon assegnate al Pokémon attivo del tuo avversario.",
+        "es": "Descarta todas las cartas de Herramienta Pokémon del Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Gnaw Through",
+        "fr": "Grignotage",
+        "de": "Durchnagen",
+        "it": "Rosicchiadentro",
+        "es": "Roedura Perforante"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

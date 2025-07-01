@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -14,7 +17,11 @@
       }
     },
     {
-      "cost": "ggr",
+      "cost": [
+        "g",
+        "g",
+        "r"
+      ],
       "dmg": "240-",
       "effect": {
         "en": "This attack does 20 less damage for each damage counter on this Pokémon.",

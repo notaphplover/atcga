@@ -3,7 +3,11 @@
   "abilityName": "Roto Motor",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Dino Cry",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

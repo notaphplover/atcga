@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "fr": "Attachez 2 cartes Énergie de base de votre pile de défausse à 1 de vos Pokémon de Banc.",
+        "de": "Lege 2 Basis-Energiekarten von deinem Ablagestapel an 1 Pokémon auf deiner Bank an.",
+        "it": "Assegna a uno dei tuoi Pokémon in panchina due carte Energia base dalla tua pila degli scarti.",
+        "es": "Une 2 cartas de Energía Básica de tu pila de descartes a 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Energy Assist",
+        "fr": "Assistance Énergétique",
+        "de": "Energieförderung",
+        "it": "Assistienergia",
+        "es": "Asistencia de Energía"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

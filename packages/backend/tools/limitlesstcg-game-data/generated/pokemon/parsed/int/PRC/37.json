@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, this Pokémon's Splash Dance attack does 60 more damage (before applying Weakness and Resistance).",

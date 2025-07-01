@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "jp": "自分の山札を3枚引く。"
+      },
+      "name": {
+        "jp": "したでとる"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

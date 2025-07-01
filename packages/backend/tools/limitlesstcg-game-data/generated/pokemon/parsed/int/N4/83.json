@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Rollout"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, remove all damage counters from Sunkern. Search your deck for a card that evolves from Sunkern and attach that card to Sunkern. This counts as evolving Sunkern. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Sunbathe"
       }
     }
   ],

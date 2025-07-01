@@ -1,13 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If Cacnea has any [D] Energy attached to it, this attack does 10 damage plus 10 more damage."
       },
       "name": {
         "en": "Sneaky Attack"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, choose 1 of your opponent's Pokémon and this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can choose the same Pokémon more than once, but you can't do more than 10 damage to that Pokémon in this way.)"
+      },
+      "name": {
+        "en": "Shoot Needle"
       }
     }
   ],

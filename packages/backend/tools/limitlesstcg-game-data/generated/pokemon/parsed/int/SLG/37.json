@@ -3,7 +3,11 @@
   "abilityName": "Intimidating Pattern",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

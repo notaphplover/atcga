@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Remove all Special Conditions from this Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If Zekrom is on your Bench, this attack does 40 more damage.",

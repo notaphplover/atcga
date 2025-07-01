@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Tackle"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all Special Conditions and all damage counters from Swinub. Swinub is now Asleep."
+      },
+      "name": {
+        "en": "Rest"
       }
     }
   ],

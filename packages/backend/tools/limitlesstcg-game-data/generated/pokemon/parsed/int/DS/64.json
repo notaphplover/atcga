@@ -3,7 +3,10 @@
   "abilityName": "Duplicate",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove 3 damage counter from Ditto (all if there are less than 3)."

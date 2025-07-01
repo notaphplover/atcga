@@ -3,7 +3,12 @@
   "abilityName": "Water Cyclone",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon, if any."

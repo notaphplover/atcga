@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, remove 3 damage counters from 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Healing Milk"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."

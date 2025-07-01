@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it."
+      },
+      "name": {
+        "en": "Shining Eyes"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused."

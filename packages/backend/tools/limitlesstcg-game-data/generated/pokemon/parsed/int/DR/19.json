@@ -3,7 +3,11 @@
   "abilityName": "Intimidating Fang",
   "attacks": [
     {
-      "cost": "rwc",
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard an Energy card attached to Salamence. If you do, this attack does 40 damage plus 20 more damage."

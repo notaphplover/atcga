@@ -3,7 +3,10 @@
   "abilityName": "さかまくかいりゅう",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

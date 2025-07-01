@@ -1,13 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
       },
       "name": {
         "en": "Double Scratch"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. Don't apply Weakness and Resistance. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      "name": {
+        "en": "Dig Under"
       }
     }
   ],

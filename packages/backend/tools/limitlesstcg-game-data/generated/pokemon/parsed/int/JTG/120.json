@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Scambia questo Pokémon con uno della tua panchina.",
+        "pt": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
+        "es": "Cambia este Pokémon por uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Trading Places",
+        "fr": "Permutation",
+        "de": "Platztausch",
+        "it": "Avvicendamento",
+        "pt": "Locais de Troca",
+        "es": "Cambio de Puesto"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

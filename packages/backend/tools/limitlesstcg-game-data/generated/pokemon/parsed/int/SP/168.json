@@ -1,7 +1,30 @@
 {
   "abilityEffect": "All of your Fusion Strike Pokémon take 20 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). You can't apply more than 1 Lesson in Zeal Ability at a time.",
   "abilityName": "Lesson in Zeal",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 5 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 5 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege 5 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Metti cinque segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Coloque 5 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Pon 5 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Glistening Droplets",
+        "fr": "Gouttelettes Chatoyantes",
+        "de": "Glitzernde Tropfen",
+        "it": "Goccioline Scintillanti",
+        "pt": "Gotinhas Reluzentes",
+        "es": "Gotas Brillantes"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

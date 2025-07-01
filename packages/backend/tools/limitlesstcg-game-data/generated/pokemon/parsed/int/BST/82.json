@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Discard the top 6 cards of your deck. This attack does 60 damage for each [F] Energy card you discarded in this way.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

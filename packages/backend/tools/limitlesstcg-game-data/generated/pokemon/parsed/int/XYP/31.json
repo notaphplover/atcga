@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon has no Weakness."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "yycc",
+      "cost": [
+        "y",
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent has Yveltal (including Yveltal-EX) in play, this attack does 40 more damage."

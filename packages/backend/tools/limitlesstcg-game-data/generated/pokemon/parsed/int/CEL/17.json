@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

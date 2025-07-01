@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Pokémon, show them to your opponent, and put them into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez jusqu'à 2 Pokémon dans votre deck, montrez-les à votre adversaire et ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Pokémon-Karten, zeige sie deinem Gegner und nimm sie auf die Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a 2 Pokémon, mostrali al tuo avversario e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+      },
+      "name": {
+        "en": "Search and Invite",
+        "fr": "Rechercher et inviter",
+        "de": "Suchen und Einladen",
+        "it": "Cerca e Invita"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads.",

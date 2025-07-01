@@ -3,7 +3,11 @@
   "abilityName": "Sturdy",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

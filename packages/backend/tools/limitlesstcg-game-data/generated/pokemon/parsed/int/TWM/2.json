@@ -3,7 +3,11 @@
   "abilityName": "Thicket Body",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "150-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",

@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "pppc",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned and Confused."

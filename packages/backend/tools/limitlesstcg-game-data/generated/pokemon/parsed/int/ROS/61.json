@@ -1,7 +1,13 @@
 {
   "attacks": [
     {
-      "cost": "rrrlc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "300",
       "effect": {
         "en": "Discard 2 Energy attached to this Pokémon.",

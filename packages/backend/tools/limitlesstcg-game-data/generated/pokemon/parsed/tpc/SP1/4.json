@@ -3,7 +3,12 @@
   "abilityName": "ごうけんのたて",
   "attacks": [
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

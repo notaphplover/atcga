@@ -3,7 +3,11 @@
   "abilityName": "Heavy Bumper",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your next turn, this Pokémon's Gear Spinner attack does 70 more damage (before applying Weakness and Resistance).",

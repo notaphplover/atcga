@@ -3,7 +3,10 @@
   "abilityName": "Extra Smoke",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Search your discard pile for an Energy card and attach it to Kingdra ex."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Kingdra ex has no Weakness during your opponent's next turn."

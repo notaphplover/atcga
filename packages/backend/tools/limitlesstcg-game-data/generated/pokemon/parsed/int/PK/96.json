@@ -1,13 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard the top 5 cards from your deck."
       },
       "name": {
         "en": "Volcanic Flame"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all [W] Energy attached to Salamence ex. This attack does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Hydro Wave"
       }
     }
   ],

@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Attach any number of [W] Energy cards from your hand to your Pokémon in any way you like.",
+        "fr": "Attachez le nombre voulu de cartes Énergie [W] de votre main à vos Pokémon comme il vous plaît.",
+        "de": "Lege beliebig viele [W]-Energiekarten aus deiner Hand beliebig an deine Pokémon an.",
+        "it": "Assegna ai tuoi Pokémon un numero qualsiasi di carte Energia [W] dalla tua mano nel modo che preferisci.",
+        "pt": "Ligue qualquer número de cartas de Energia [W] da sua mão aos seus Pokémon como desejar.",
+        "es": "Une cualquier cantidad de cartas de Energía [W] de tu mano a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Rapid Freeze",
+        "fr": "Gel Immédiat",
+        "de": "Schockfrosten",
+        "it": "Gelo Rapido",
+        "pt": "Congelamento Rápido",
+        "es": "Congelación Veloz"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

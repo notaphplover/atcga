@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Fetch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 4 coins. This attack does 20 damage times the number of heads."

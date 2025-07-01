@@ -3,7 +3,9 @@
   "abilityName": "Resetting Hole",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent's Active Pokémon is an Ultra Beast, this attack does 60 more damage.",

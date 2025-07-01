@@ -1,11 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
         "en": "Mega Punch"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent shuffles his or her Active Pokémon and all cards attached to it into his or her deck. This attack can't be used if your opponent has no Benched Pokémon."
+      },
+      "name": {
+        "en": "Fling"
       }
     }
   ],

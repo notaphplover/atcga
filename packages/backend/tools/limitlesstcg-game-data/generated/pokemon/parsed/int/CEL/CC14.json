@@ -3,7 +3,11 @@
   "abilityName": "Imprison",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "You may move a [R] Energy card attached to Gardevoir ex to 1 of your Benched Pokémon.",

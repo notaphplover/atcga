@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ggr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top 3 cards of your deck. If any of those cards are Energy cards, attach them to this Pokémon.",
+        "fr": "Défaussez les 3 cartes du dessus de votre deck. Si vous y trouvez des cartes Énergie, attachez-les à ce Pokémon.",
+        "de": "Lege die obersten 3 Karten deines Decks auf deinen Ablagestapel. Wenn unter jenen Karten Energiekarten sind, lege sie an dieses Pokémon an.",
+        "it": "Scarta le prime tre carte del tuo mazzo. Se fra queste ci sono delle carte Energia, assegnale a questo Pokémon.",
+        "pt": "Descarte as 3 cartas de cima do seu baralho. Se houver cartas de Energia entre elas, ligue-as a este Pokémon.",
+        "es": "Descarta las 3 primeras cartas de tu baraja. Si entre esas cartas hay cartas de Energía, únelas a este Pokémon."
+      },
+      "name": {
+        "en": "Celestial Roar",
+        "fr": "Cri du Ciel",
+        "de": "Himmelsgrollen",
+        "it": "Gentilboato",
+        "pt": "Rugido Celestial",
+        "es": "Rugido Celestial"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "r"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

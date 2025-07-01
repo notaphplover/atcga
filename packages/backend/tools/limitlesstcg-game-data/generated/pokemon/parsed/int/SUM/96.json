@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gl",
+      "cost": [
+        "g",
+        "l"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard a [G] Energy and a [L] Energy from this Pokémon.",
@@ -19,7 +22,13 @@
       }
     },
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

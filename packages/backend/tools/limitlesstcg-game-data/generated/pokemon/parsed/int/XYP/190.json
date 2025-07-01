@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for a [W] Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Marine Guidance"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon."

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 4 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+        "fr": "Regardez les 4 cartes du dessus de votre deck et ajoutez 2 d'entre elles à votre main. Défaussez les autres cartes.",
+        "de": "Decke die obersten 4 Karten deines Decks auf und nimm 2 auf deine Hand. Lege die anderen Karten auf deinen Ablagestapel.",
+        "it": "Guarda le prime quattro carte del tuo mazzo e aggiungi due di esse alle carte che hai in mano. Scarta le altre carte.",
+        "es": "Mira las 4 primeras cartas de tu baraja y pon 2 de ellas en tu mano. Descarta las demás cartas."
+      },
+      "name": {
+        "en": "Buried Treasure Hunt",
+        "fr": "Trésor Enfoui",
+        "de": "Gezielte Schatzsuche",
+        "it": "Scopritesori",
+        "es": "Caza del Tesoro Escondido"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Soignez 40 dégâts à ce Pokémon. Échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Heile 40 Schadenspunkte bei diesem Pokémon. Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Cura questo Pokémon da 40 danni. Scambia questo Pokémon con uno della tua panchina.",
+        "es": "Cura 40 puntos de daño a este Pokémon. Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Super Deep Dive",
+        "fr": "Super Gros Plongeon",
+        "de": "Super Tieftaucher",
+        "it": "Super Immersione",
+        "es": "Superzambullida Submarina"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon does 20 damage to itself.",

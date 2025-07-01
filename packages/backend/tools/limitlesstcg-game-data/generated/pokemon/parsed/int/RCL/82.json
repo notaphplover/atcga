@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck. If this Pokémon has a Cursed Shovel attached, discard 2 more cards from the top of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire. Si une Pelle Maudite est attachée à ce Pokémon, défaussez 2 cartes supplémentaires du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte des Decks deines Gegners auf seinen Ablagestapel. Wenn an dieses Pokémon eine Verfluchte Schaufel angelegt ist, lege 2 Karten mehr vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario. Se questo Pokémon ha una carta Paletta Maledetta assegnata, scarta altre due carte dalla cima del mazzo del tuo avversario.",
+        "pt": "Descarte a carta de cima do baralho do seu oponente. Se este Pokémon tiver 1 Pá Amaldiçoada ligada a ele, descarte outras 2 cartas de cima do baralho do seu oponente.",
+        "es": "Descarta la primera carta de la baraja de tu rival. Si este Pokémon tiene 1 Pala Maldita unida a él, descarta 2 cartas más de la parte superior de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Sand Sink",
+        "fr": "Sables Mouvants",
+        "de": "Sandgrube",
+        "it": "Sabbie Mobili",
+        "pt": "Afundar na Areia",
+        "es": "Hundimiento Arena"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

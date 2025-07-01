@@ -3,7 +3,10 @@
   "abilityName": "Dust Field",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned.",

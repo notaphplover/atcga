@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Count the number of damage counters on Medicham. Put that many damage counters on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Force Palm"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Medicham does 20 damage to itself."

@@ -3,7 +3,10 @@
   "abilityName": "Double Gunner",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "You may put an Energy attached to this Pokémon into your hand. If you do, this attack does 70 more damage.",

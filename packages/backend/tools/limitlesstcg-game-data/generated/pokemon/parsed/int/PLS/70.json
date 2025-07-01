@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
@@ -16,6 +18,27 @@
         "de": "Einsperren",
         "it": "Bloccare",
         "es": "Encerrar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Move 6 damage counters from any of your Pokémon to the Defending Pokémon.",
+        "fr": "Déplacez 6 marqueurs de dégâts de vos Pokémon vers le Pokémon Défenseur.",
+        "de": "Verschiebe 6 Schadensmarken von beliebigen deiner Pokémon auf das Verteidigende Pokémon.",
+        "it": "Sposta sei segnalini danno dai tuoi Pokémon al Pokémon difensore.",
+        "es": "Mueve 6 contadores de daño de cualquiera de tus Pokémon al Pokémon Defensor."
+      },
+      "name": {
+        "en": "Damakinesis",
+        "fr": "Dégâkinésie",
+        "de": "Schadenstransfer",
+        "it": "Dannokinesi",
+        "es": "Dañoquinesis"
       }
     }
   ],

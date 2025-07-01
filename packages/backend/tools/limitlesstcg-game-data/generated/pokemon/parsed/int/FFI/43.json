@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 60 more damage. Discard that Stadium card.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

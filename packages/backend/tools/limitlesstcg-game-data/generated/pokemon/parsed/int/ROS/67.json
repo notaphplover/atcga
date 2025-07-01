@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Feelin' Fine",
+        "fr": "Mode Cool",
+        "de": "Wohl fühlen",
+        "it": "Tuttobene",
+        "es": "Buen Rollito"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 3 coins. This attack does 20 damage times the number of heads.",

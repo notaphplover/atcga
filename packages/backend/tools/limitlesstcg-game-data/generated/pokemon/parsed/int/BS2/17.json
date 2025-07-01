@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
+      },
+      "name": {
+        "en": "Swords Dance"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

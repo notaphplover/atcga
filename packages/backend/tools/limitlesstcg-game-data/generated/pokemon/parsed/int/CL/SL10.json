@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "rrll",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "l"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard a [R] Energy and a [L] Energy attached to Rayquaza.",

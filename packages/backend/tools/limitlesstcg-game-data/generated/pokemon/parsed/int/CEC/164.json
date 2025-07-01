@@ -3,7 +3,10 @@
   "abilityName": "Ultra Burst",
   "attacks": [
     {
-      "cost": "pm",
+      "cost": [
+        "p",
+        "m"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",

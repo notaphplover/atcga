@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 3 coins. This attack does 20 damage times the number of heads."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, Primeape is now Confused (after doing damage)."

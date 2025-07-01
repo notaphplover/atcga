@@ -1,7 +1,27 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may discard 3 cards from your hand. If you do, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
   "abilityName": "Spiritborne Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on 1 of your opponent's Pokémon.",
+        "fr": "Placez 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire.",
+        "de": "Lege 2 Schadensmarken auf 1 Pokémon deines Gegners.",
+        "it": "Metti due segnalini danno su uno dei Pokémon del tuo avversario.",
+        "es": "Pon 2 contadores de daño en 1 de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Ominous Eyes",
+        "fr": "Regard Menaçant",
+        "de": "Unheilvolle Augen",
+        "it": "Sguardo Malevolo",
+        "es": "Ojos Aciagos"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

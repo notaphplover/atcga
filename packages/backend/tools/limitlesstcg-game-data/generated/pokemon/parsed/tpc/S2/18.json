@@ -3,7 +3,10 @@
   "abilityName": "まもりのともしび",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "相手のバトルポケモンをこんらんにする。"

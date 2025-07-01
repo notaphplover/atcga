@@ -3,7 +3,11 @@
   "abilityName": "Commotion",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "You may discard any Stadium card in play.",

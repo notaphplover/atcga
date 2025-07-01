@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "110+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 110 more damage.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "glf",
+      "cost": [
+        "g",
+        "l",
+        "f"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard all Energy from this Pokémon. During your opponent's next turn, they can't play any Item cards from their hand.",

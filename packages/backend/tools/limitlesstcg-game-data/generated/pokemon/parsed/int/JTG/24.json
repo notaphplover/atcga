@@ -3,7 +3,10 @@
   "abilityName": "Seething Spirit",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

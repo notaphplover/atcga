@@ -3,7 +3,10 @@
   "abilityName": "はっこう",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

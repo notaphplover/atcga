@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from 1 of your Pokémon.",
+        "fr": "Retirez 2 marqueurs de dégâts d'un de vos Pokémon.",
+        "de": "Entferne 2 Schadensmarken von 1 deiner Pokémon.",
+        "it": "Togli 2 segnalini danno da uno dei tuoi Pokémon.",
+        "es": "Quita 2 contadores de daño a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Cure Kernels",
+        "fr": "Graines de soin",
+        "de": "Heilsamen",
+        "it": "Gherigliocura",
+        "es": "Pepitas curativas"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

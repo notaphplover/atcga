@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the number of [C] Pokémon your opponent has in play.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

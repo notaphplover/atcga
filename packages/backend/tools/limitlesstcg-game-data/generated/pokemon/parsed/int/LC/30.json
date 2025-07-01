@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "You may discard any number of [R] Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+      },
+      "name": {
+        "en": "Wildfire"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

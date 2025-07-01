@@ -3,7 +3,11 @@
   "abilityName": "にじいろDNA",
   "attacks": [
     {
-      "cost": "rwl",
+      "cost": [
+        "r",
+        "w",
+        "l"
+      ],
       "dmg": "200",
       "effect": {},
       "name": {

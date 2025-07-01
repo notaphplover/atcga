@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "This Pokémon also does 60 damage to itself.",

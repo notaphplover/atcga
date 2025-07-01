@@ -3,7 +3,11 @@
   "abilityName": "Weather Reading",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard a Stadium in play. If you can't, this attack does nothing.",

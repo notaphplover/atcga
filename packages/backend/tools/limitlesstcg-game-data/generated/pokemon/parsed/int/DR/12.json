@@ -1,5 +1,28 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand."
+      },
+      "name": {
+        "en": "Power Generation"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Burned. Flip a coin. If tails, discard a [R] Energy card attached to Torkoal."
+      },
+      "name": {
+        "en": "Scorching Smoke"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

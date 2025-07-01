@@ -3,7 +3,11 @@
   "abilityName": "こんがりボディ",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

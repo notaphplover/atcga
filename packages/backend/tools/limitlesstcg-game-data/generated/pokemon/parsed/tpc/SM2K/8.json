@@ -3,7 +3,10 @@
   "abilityName": "しょうりのほし",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

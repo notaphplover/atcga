@@ -3,7 +3,11 @@
   "abilityName": "Sentinel",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 20 damage to itself.",

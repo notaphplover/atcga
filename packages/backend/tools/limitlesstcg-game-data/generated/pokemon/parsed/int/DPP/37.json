@@ -3,7 +3,12 @@
   "abilityName": "Time Skip",
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "During your next turn, Dialga can't use [M] Flash."

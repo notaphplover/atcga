@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire dévoile sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano.",
+        "es": "Tu rival enseña las cartas de su mano."
+      },
+      "name": {
+        "en": "Bug Search",
+        "fr": "Recherche Insecte",
+        "de": "Käfersuche",
+        "it": "Coleoricerca",
+        "es": "Búsqueda de Bichos"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

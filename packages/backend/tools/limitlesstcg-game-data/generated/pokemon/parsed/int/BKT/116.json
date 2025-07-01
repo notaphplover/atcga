@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 damage times the number of heads.",
@@ -16,6 +18,26 @@
         "de": "Doppelstich",
         "it": "Doppia Pugnalata",
         "es": "Doble Puñalada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Doduo Delivery",
+        "fr": "Livraison Doduo",
+        "de": "Dodu-Lieferung",
+        "it": "Consegna Doduo",
+        "es": "Reparto Doduo"
       }
     }
   ],

@@ -3,7 +3,11 @@
   "abilityName": "おうじゃのうた",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

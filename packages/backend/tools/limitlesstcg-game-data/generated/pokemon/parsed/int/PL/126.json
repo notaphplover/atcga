@@ -3,7 +3,11 @@
   "abilityName": "Thankfulness",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Choose as many [G] Energy cards from your hand as you like and attach them to your Pokémon in any way you like. If you do, this attack does 40 damage plus 20 more damage for each [G] Energy attached in this way."

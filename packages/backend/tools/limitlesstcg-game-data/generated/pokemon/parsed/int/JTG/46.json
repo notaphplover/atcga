@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 70 damage for each heads.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon also does 40 damage to itself.",

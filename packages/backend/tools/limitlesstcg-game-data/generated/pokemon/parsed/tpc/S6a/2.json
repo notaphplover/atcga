@@ -3,7 +3,11 @@
   "abilityName": "りょくかさいぼう",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "jp": "コインを1回投げオモテなら、60ダメージ追加。"

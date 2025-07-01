@@ -3,7 +3,10 @@
   "abilityName": "Shift",
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."

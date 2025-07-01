@@ -3,7 +3,10 @@
   "abilityName": "Duplicate",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "After your attack, you may switch Ditto with 1 of your Benched Pokémon."

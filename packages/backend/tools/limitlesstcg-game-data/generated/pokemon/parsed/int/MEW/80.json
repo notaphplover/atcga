@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Both Active Pokémon are now Asleep.",
+        "fr": "Les deux Pokémon Actifs sont maintenant Endormis.",
+        "de": "Beide Aktiven Pokémon schlafen jetzt.",
+        "it": "Entrambi i Pokémon attivi vengono addormentati.",
+        "pt": "Ambos os Pokémon Ativos agora estão Adormecidos.",
+        "es": "Ambos Pokémon Activos pasan a estar Dormidos."
+      },
+      "name": {
+        "en": "Big Yawn",
+        "fr": "Gros Bâillement",
+        "de": "Großer Gähner",
+        "it": "Gransbadiglio",
+        "pt": "Grande Bocejo",
+        "es": "Gran Bostezo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "If this Pokémon evolved during this turn, this attack does nothing.",

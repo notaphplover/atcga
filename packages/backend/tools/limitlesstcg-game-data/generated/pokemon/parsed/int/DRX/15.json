@@ -3,7 +3,10 @@
   "abilityName": "Le Parfum",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage and the Defending Pokémon is now Paralyzed.",

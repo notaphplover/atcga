@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
@@ -19,7 +22,12 @@
       }
     },
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "en": "This Pokémon can't use Flare Strike during your next turn.",
@@ -37,7 +45,11 @@
       }
     },
     {
-      "cost": "rrr+",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "200+",
       "effect": {
         "en": "If this Pokémon has at least 3 extra [R] Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",

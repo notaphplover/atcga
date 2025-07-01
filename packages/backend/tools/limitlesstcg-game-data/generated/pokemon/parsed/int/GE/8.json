@@ -3,7 +3,12 @@
   "abilityName": "Wild Growth",
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 damage plus 20 more damage."

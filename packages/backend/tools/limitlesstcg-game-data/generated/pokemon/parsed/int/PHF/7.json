@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Choose up to 2 of your Benched Pokémon that have no Pokémon Tools attached to them. For each of those Pokémon, search your deck for a Pokémon Tool card and attach it to that Pokémon. Shuffle your deck afterward.",
+        "fr": "Choisissez jusqu'à 2 de vos Pokémon de Banc qui n'ont pas de carte Outil Pokémon leur étant attachée. Pour chacun des Pokémon choisis, cherchez une carte Outil Pokémon dans votre deck et attachez-la au Pokémon. Mélangez ensuite votre deck.",
+        "de": "Wähle bis zu 2 Pokémon auf deiner Bank aus, an die noch keine Pokémon-Ausrüstung angelegt ist. Durchsuche dein Deck nach 1 Pokémon-Ausrüstung für jedes dieser Pokémon und lege sie an das jeweilige Pokémon an. Mische anschließend dein Deck.",
+        "it": "Scegli fino a due dei tuoi Pokémon in panchina che non abbiano già un Oggetto Pokémon assegnato. Per ognuno di essi, cerca nel tuo mazzo una carta Oggetto Pokémon e assegnagliela. Poi rimischia le carte del tuo mazzo.",
+        "es": "Elige hasta 2 de tus Pokémon en Banca que no tengan Herramientas Pokémon unidas a ellos. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Herramienta Pokémon y únela a ese Pokémon. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Coordinate",
+        "fr": "Composition",
+        "de": "Kombinieren",
+        "it": "Abbinamento",
+        "es": "Coordinar"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Heal 20 damage from each of your [G] Pokémon.",

@@ -3,7 +3,24 @@
   "abilityName": "Icy Aura",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Water Arrow"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "If the Defending Pokémon is a [F] Pokémon, this attack's base damage is 120 instead of 80."

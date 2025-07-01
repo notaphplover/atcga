@@ -3,7 +3,12 @@
   "abilityName": "Sparkling Particles",
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon has no Weakness.",

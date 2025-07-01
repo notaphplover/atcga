@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "30",
       "effect": {
         "en": "Raichu can't use Slice during your next turn."
@@ -11,7 +11,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Move an Energy card attached to Raichu to 1 of your Benched Pokémon."
@@ -21,7 +25,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard 3 Energy attached to any of your Pokémon in any way you like."

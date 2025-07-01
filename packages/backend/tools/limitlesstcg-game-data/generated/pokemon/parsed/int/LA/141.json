@@ -3,7 +3,10 @@
   "abilityName": "Shoot Poison",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may switch Gliscor with 1 of your Benched Pokémon."

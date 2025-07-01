@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Hyperspace Ring"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."

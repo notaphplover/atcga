@@ -3,7 +3,9 @@
   "abilityName": "JUNK",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Remove the Special Condition Asleep from the Defending Pokémon."

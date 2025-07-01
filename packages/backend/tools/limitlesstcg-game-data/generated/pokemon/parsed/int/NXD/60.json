@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.",
+        "fr": "Mélangez votre main avec votre deck. Ensuite, piochez un nombre de cartes égal au nombre de cartes dans la main de votre adversaire.",
+        "de": "Mische deine Handkarten in dein Deck. Ziehe anschließend genauso viele Karten, wie dein Gegner auf der Hand hat.",
+        "it": "Metti le carte che hai in mano nel tuo mazzo e rimischialo. Poi pesca un numero di carte pari a quelle che ha in mano il tuo avversario.",
+        "es": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba un número de cartas igual al número de cartas en la mano de tu rival."
+      },
+      "name": {
+        "en": "Synchrodraw",
+        "fr": "Pioche Synchro",
+        "de": "Synchronzug",
+        "it": "Sincropesca",
+        "es": "Sincrorrobo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage times the number of heads.",

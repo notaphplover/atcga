@@ -3,7 +3,10 @@
   "abilityName": "Electric Trans",
   "attacks": [
     {
-      "cost": "lm",
+      "cost": [
+        "l",
+        "m"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard a [L] Energy and a [M] Energy attached to Magnezone. The Defending Pokémon is now Paralyzed."

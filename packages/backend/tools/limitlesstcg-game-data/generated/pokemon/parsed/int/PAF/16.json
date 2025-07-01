@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put up to 3 Basic Energy cards from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 3 cartes Énergie de base de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 3 Basis-Energiekarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a tre carte Energia base dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 3 cartas de Energia Básica da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 3 cartas de Energía Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Into the Deep",
+        "fr": "Dans l'Abysse",
+        "de": "In die Tiefe",
+        "it": "Baratro",
+        "pt": "Nas Profundezas",
+        "es": "En lo Profundo"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

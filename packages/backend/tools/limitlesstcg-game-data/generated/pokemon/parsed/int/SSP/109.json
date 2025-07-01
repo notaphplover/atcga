@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If you have any [M] Pokémon on your Bench, this attack does 80 more damage.",

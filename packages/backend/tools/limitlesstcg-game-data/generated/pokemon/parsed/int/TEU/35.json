@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 [L] Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 2 cartes Énergie [L] dans votre deck et attachez-les à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 [L]-Energiekarten und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte Energia [L] e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 cartas de Energía [L] y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Charge",
+        "fr": "Chargeur",
+        "de": "Ladevorgang",
+        "it": "Sottocarica",
+        "es": "Carga"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

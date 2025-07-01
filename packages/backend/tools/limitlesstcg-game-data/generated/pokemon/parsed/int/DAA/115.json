@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ddd",
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "170+",
       "effect": {
         "en": "This attack does 50 more damage for each extra [D] Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 100 damage in this way.",

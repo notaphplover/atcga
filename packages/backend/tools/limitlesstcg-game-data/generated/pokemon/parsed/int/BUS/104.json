@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 6 cards of your deck and put them back in any order.",
+        "fr": "Regardez les 6 cartes du dessus de votre deck et replacez-les dans l'ordre de votre choix.",
+        "de": "Schau dir die obersten 6 Karten deines Decks an und lege sie in beliebiger Reihenfolge zurück auf dein Deck.",
+        "it": "Guarda le prime sei carte del tuo mazzo e rimettile a posto nell'ordine che preferisci.",
+        "es": "Mira las 6 primeras cartas de tu baraja y vuelve a ponerlas en la parte superior de tu baraja en el orden que quieras."
+      },
+      "name": {
+        "en": "Calculate",
+        "fr": "Calcul",
+        "de": "Berechnen",
+        "it": "Calcolare",
+        "es": "Calcular"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

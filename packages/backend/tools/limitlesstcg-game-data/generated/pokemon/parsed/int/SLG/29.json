@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of [L] Energy attached to your Pokémon.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",
@@ -37,7 +44,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)",

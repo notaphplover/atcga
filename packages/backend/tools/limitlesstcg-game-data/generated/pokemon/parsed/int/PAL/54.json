@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "This Pokémon is now Asleep. Heal 60 damage from it.",
+        "fr": "Ce Pokémon est maintenant Endormi. Soignez 60 dégâts de ce Pokémon.",
+        "de": "Dieses Pokémon schläft jetzt. Heile 60 Schadenspunkte bei diesem Pokémon.",
+        "it": "Questo Pokémon viene addormentato. Curalo da 60 danni.",
+        "pt": "Este Pokémon agora está Adormecido. Cure 60 pontos de dano dele.",
+        "es": "Este Pokémon pasa a estar Dormido. Cúrale 60 puntos de daño."
+      },
+      "name": {
+        "en": "Rest",
+        "fr": "Repos",
+        "de": "Erholung",
+        "it": "Riposo",
+        "pt": "Descansar",
+        "es": "Descanso"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This Pokémon also does 10 damage to itself.",

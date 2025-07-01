@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -18,6 +20,28 @@
         "it": "Isolamento",
         "pt": "Apreensão",
         "es": "Confiscar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "fr": "Lancez une pièce. Si c'est face, choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "de": "Wirf 1 Münze. Wähle bei Kopf 1 Attacke des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.",
+        "it": "Lancia una moneta. Se esce testa, scegli un attacco del Pokémon attivo del tuo avversario e usalo al posto di questo attacco.",
+        "pt": "Jogue uma moeda. Se sair cara, escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
+        "es": "Lanza 1 moneda. Si sale cara, elige uno de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+      },
+      "name": {
+        "en": "Try to Imitate",
+        "fr": "Tentative d'Imitation",
+        "de": "Imitationsversuch",
+        "it": "Prova a Imitare",
+        "pt": "Tentar Imitar",
+        "es": "Intento de Imitación"
       }
     }
   ],

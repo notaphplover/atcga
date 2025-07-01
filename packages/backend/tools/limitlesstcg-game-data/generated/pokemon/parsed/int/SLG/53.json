@@ -3,7 +3,10 @@
   "abilityName": "Trade",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each of your Pokémon in play.",
@@ -18,6 +21,26 @@
         "de": "Prügelnde Meute",
         "it": "Pestaggio Vandalico",
         "es": "Paliza Desenfrenada"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Choisissez l'une des attaques des Pokémon de votre adversaire et utilisez-la en tant que cette attaque. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wähle 1 Attacke der Pokémon deines Gegners und setze sie als diese Attacke ein. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scegli uno degli attacchi dei Pokémon del tuo avversario e usalo al posto di questo attacco. Non puoi usare più di un attacco GX a partita.",
+        "es": "Elige 1 de los ataques de los Pokémon de tu rival y úsalo para este ataque. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Trickster-GX",
+        "fr": "Histrion-GX",
+        "de": "Trickser-GX",
+        "it": "Illusionista-GX",
+        "es": "Ilusionista-GX"
       }
     }
   ],

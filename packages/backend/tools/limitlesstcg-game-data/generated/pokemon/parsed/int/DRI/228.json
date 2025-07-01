@@ -3,7 +3,12 @@
   "abilityName": "Buzzing Boost",
   "attacks": [
     {
-      "cost": "gggc",
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Move 3 Energy from this Pokémon to 1 of your Benched Pokémon.",

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon is now Asleep."
@@ -11,7 +15,13 @@
       }
     },
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing."
@@ -21,7 +31,13 @@
       }
     },
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "This Pokémon is now Asleep. (You can't use more than 1 GX attack in a game.)"

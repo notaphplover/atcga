@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Wrap"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance."

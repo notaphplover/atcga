@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 Basic [R] Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 3 Pokémon [R] de base dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 3 [R]-Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a tre Pokémon Base [R] e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 3 Pokémon [R] Básicos y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Passionate Dance",
+        "fr": "Danse Passionnelle",
+        "de": "Euphorischer Tanz",
+        "it": "Danza Appassionata",
+        "es": "Danza Apasionada"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon.",

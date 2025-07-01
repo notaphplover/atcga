@@ -1,7 +1,29 @@
 {
   "abilityEffect": "Once during your turn, you may use this Ability. Each player discards a card from their hand. (Your opponent discards first.)",
   "abilityName": "Mind Hat",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on your opponent's Active Pokémon for each Pokémon in your discard pile.",
+        "fr": "Placez un marqueur de dégâts sur le Pokémon Actif de votre adversaire pour chaque Pokémon dans votre pile de défausse.",
+        "de": "Lege für jedes Pokémon in deinem Ablagestapel 1 Schadensmarke auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti un segnalino danno sul Pokémon attivo del tuo avversario per ogni Pokémon nella tua pila degli scarti.",
+        "pt": "Coloque 1 contador de dano no Pokémon Ativo do seu oponente para cada Pokémon na sua pilha de descarte.",
+        "es": "Pon 1 contador de daño en el Pokémon Activo de tu rival por cada Pokémon en tu pila de descartes."
+      },
+      "name": {
+        "en": "Dripping Grudge",
+        "fr": "Rancune Dégoulinante",
+        "de": "Tropfender Groll",
+        "it": "Gocce di Rancore",
+        "pt": "Rancor Gotejante",
+        "es": "Goteo Rabioso"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 150,
   "imageUrls": {

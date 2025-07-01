@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Heal 50 damage from this Pokémon.",

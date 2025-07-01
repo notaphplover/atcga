@@ -3,7 +3,10 @@
   "abilityName": "Hazardous Evolution",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

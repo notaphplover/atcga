@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Queimado.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Quemado."
+      },
+      "name": {
+        "en": "Singe",
+        "fr": "Roussi",
+        "de": "Versengung",
+        "it": "Scottata",
+        "pt": "Chamuscada",
+        "es": "Quemadura"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.",

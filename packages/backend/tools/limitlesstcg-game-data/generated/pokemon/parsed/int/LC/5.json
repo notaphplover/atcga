@@ -3,7 +3,12 @@
   "abilityName": "Summon Minions",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

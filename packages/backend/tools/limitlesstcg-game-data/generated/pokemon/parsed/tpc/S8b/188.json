@@ -3,7 +3,11 @@
   "abilityName": "しゃくねつのめざめ",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

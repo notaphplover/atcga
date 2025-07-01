@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Whenever an attack (including your own) does 40 or less damage to Shuckle (after applying Weakness and Resistance), reduce that damage to 10. (Any other effects of attacks still happen.) This power stops working while Shuckle is Asleep, Confused, or Paralyzed.",
   "abilityName": "Hard Shell",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+      },
+      "name": {
+        "en": "Toxic Saliva"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 40,
   "imageUrls": {

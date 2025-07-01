@@ -3,7 +3,13 @@
   "abilityName": "Food Prep",
   "attacks": [
     {
-      "cost": "wcccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "250",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Haymaker.",

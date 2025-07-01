@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
@@ -18,7 +20,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 60 more damage.",

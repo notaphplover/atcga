@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top card of your deck. Then, remove 2 damage counters from Aron.",
+        "fr": "Défaussez la carte du dessus de votre deck. Ensuite, retirez 2 marqueurs de dégât à Galekid.",
+        "de": "Lege die oberste Karte deines Decks auf deinen Ablagestapel. Entferne anschließend 2 Schadensmarken von Stollunior.",
+        "it": "Scarta la carta in cima al tuo mazzo. Poi, togli 2 segnalini danno da Aron."
+      },
+      "name": {
+        "en": "Mountain Eater",
+        "fr": "Mange-montagne",
+        "de": "Bergfresser",
+        "it": "Mangia Montagne"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

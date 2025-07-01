@@ -3,7 +3,12 @@
   "abilityName": "Rumbling Engine",
   "attacks": [
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 90 more damage.",

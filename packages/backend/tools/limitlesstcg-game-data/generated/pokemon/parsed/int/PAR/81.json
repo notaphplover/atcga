@@ -3,7 +3,10 @@
   "abilityName": "Stance",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If Tulip is in your discard pile, this attack does 70 more damage.",

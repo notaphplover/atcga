@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+        "fr": "Cherchez dans votre deck jusqu'à deux cartes Pokémon de base et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon-Karten und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a 2 Pokémon Base e mettili nella tua Panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo hasta 2 Pokémon Básicos y ponlos en tu Banca. Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Call for Family",
+        "fr": "Appel à la famille",
+        "de": "Familienruf",
+        "it": "Cerca Famiglia",
+        "es": "Llamar a la familia"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Confused.",

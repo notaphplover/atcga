@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "rrwc",
+      "cost": [
+        "r",
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard 2 [R] Energy attached to this Pokémon. The Defending Pokémon is now Burned.",

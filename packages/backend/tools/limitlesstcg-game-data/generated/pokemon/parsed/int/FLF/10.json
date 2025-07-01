@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "During your next turn, flip 6 coins instead of 2 for this Pokémon's Prickly Needles attack.",
+        "fr": "Pendant votre prochain tour, lancez 6 pièces au lieu de 2 pour l'attaque Épines Acérées de ce Pokémon.",
+        "de": "Wirf während deines nächsten Zuges 6 Münzen anstelle von 2 Münzen, wenn du die Attacke Stechende Dornen dieses Pokémon einsetzt.",
+        "it": "Durante il tuo prossimo turno, lancia sei volte una moneta invece di due per l'attacco Spine Aguzze di questo Pokémon.",
+        "es": "Durante tu próximo turno, lanza 6 monedas en vez de 2 para el ataque Agujas Espinosas de este Pokémon."
+      },
+      "name": {
+        "en": "Exciting Shake",
+        "fr": "Ébouriffement",
+        "de": "Erquickendes Schütteln",
+        "it": "Rinvigoritmo",
+        "es": "Zarandeo Emocionante"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads.",

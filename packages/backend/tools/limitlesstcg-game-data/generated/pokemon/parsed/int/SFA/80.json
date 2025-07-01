@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Put up to 3 [W] Pokémon from your discard pile onto your Bench.",
+        "fr": "Placez jusqu'à 3 Pokémon [W] de votre pile de défausse sur votre Banc.",
+        "de": "Lege bis zu 3 [W]-Pokémon aus deinem Ablagestapel auf deine Bank.",
+        "it": "Prendi fino a tre Pokémon [W] dalla tua pila degli scarti e mettili nella tua panchina.",
+        "pt": "Coloque até 3 Pokémon [W] da sua pilha de descarte no seu Banco.",
+        "es": "Pon hasta 3 Pokémon [W] de tu pila de descartes en tu Banca."
+      },
+      "name": {
+        "en": "King's Order",
+        "fr": "Ordre du Roi",
+        "de": "Auftrag des Königs",
+        "it": "Ordine Sovrano",
+        "pt": "Decreto do Rei",
+        "es": "Mandato Real"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 50 more damage for each [W] Energy attached to this Pokémon.",

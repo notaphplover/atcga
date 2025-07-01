@@ -3,7 +3,11 @@
   "abilityName": "ドンのふところ",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "相手の手札を見る。"

@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
       },
       "name": {
         "en": "Hypnoblast"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Count the number of your Pokémon in play with damage counters on them. Put that many damage counters on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Gift of Spite"
       }
     }
   ],

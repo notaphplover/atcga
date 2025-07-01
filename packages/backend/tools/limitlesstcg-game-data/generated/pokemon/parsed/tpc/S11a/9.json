@@ -3,7 +3,11 @@
   "abilityName": "エレガントヒール",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "このポケモンの特殊状態をすべて回復する。"

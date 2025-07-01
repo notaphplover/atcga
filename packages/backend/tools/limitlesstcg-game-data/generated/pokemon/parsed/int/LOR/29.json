@@ -3,7 +3,11 @@
   "abilityName": "Scorching Aura",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",

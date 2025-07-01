@@ -3,7 +3,11 @@
   "abilityName": "Glacier Snow",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, put 1 damage counter on each of your opponent's Benched Pokémon."

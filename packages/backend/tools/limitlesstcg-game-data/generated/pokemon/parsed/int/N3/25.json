@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       },
       "name": {
         "en": "Confuse Ray"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose an Energy type other than [C]. This attack does 20 damage to each of your opponent's Pokémon with any Energy cards of that type attached to it. Don't apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Core Stream"
       }
     }
   ],

@@ -3,7 +3,11 @@
   "abilityName": "Moisture Star",
   "attacks": [
     {
-      "cost": "wmc",
+      "cost": [
+        "w",
+        "m",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 80 less damage from attacks (after applying Weakness and Resistance).",

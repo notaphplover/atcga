@@ -3,7 +3,11 @@
   "abilityName": "Queen's Call",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 50 more damage for each Evolution Pokémon on your Bench.",

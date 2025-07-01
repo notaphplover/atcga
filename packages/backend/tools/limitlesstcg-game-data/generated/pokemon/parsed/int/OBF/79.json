@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Draw 2 cards.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Attach a Basic [L] Energy card from your discard pile to 1 of your Benched Pokémon.",

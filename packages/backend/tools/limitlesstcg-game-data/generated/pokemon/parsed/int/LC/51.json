@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "50-",
       "effect": {
         "en": "Does 50 damage minus 10 damage for each damage counter on Machoke."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Machoke does 20 damage to itself."

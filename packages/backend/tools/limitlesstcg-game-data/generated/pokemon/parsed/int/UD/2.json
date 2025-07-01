@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Move up to 4 damage counters from any of your Pokémon to any of your opponent's Pokémon in any way you like.",
+        "fr": "Retirez jusqu'à 4 marqueurs de dégât à vos Pokémon et placez-les comme vous le voulez sur les Pokémon de votre adversaire.",
+        "de": "Verschiebe bis zu 4 Schadensmarken von beliebigen deiner Pokémon in beliebiger Verteilung auf die gegnerischen Pokémon.",
+        "it": "Sposta fino a 4 segnalini danno da qualsiasi dei tuoi Pokémon a uno dei Pokémon del tuo avversario nel modo che preferisci."
+      },
+      "name": {
+        "en": "Solar Suggestion",
+        "fr": "Suggestion solaire",
+        "de": "Sonnen-Ansinnen",
+        "it": "Miraggio"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",

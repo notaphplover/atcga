@@ -3,7 +3,11 @@
   "abilityName": "Hypnotic Pendulum",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each card in your opponent's hand.",

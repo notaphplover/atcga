@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Confused."
       },
       "name": {
         "en": "Psybeam"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Move all damage counters from this Pokémon to the Defending Pokémon. This Pokémon can't use Eternal Radiance during your next turn."
+      },
+      "name": {
+        "en": "Eternal Radiance"
       }
     }
   ],

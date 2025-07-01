@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon is Asleep, move all damage counters from Hypno to the Defending Pokémon."
+      },
+      "name": {
+        "en": "Dream Catcher"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."

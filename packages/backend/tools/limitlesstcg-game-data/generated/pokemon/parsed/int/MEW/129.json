@@ -1,5 +1,27 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, draw a card.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Pour chaque côté face, piochez une carte.",
+        "de": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Ziehe pro Kopf 1 Karte.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, pesca una carta.",
+        "pt": "Jogue uma moeda até sair coroa. Para cada cara, compre uma carta.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, roba 1 carta."
+      },
+      "name": {
+        "en": "Splashy Splash",
+        "fr": "Trempette Trempée",
+        "de": "Platschiger Platscher",
+        "it": "Splash Grandioso",
+        "pt": "Borrifada Borrifante",
+        "es": "Salpicadura Salpicona"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

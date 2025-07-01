@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals his or her hand. Discard all Item cards you find there.",
+        "fr": "Votre adversaire montre sa main. Défaussez toutes les cartes Objet que vous y trouvez.",
+        "de": "Dein Gegner deckt seine Handkarten auf. Lege alle Itemkarten, die du dort findest, auf seinen Ablagestapel.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scarta tutte le carte Strumento presenti nella sua mano.",
+        "es": "Tu rival enseña las cartas de su mano. Descarta todas las cartas de Objeto que encuentres entre ellas."
+      },
+      "name": {
+        "en": "Destructive Sound",
+        "fr": "Son Destructeur",
+        "de": "Trümmerton",
+        "it": "Distrusuono",
+        "es": "Sonido Destructivo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Does 50 damage times the number of your Pokémon that have the Round attack.",

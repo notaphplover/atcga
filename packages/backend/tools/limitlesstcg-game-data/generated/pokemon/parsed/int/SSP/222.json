@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "130",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -18,6 +20,29 @@
         "it": "Tempesta d'Inversione",
         "pt": "Tempestade Reversa",
         "es": "Tormenta Inversión"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "f",
+        "m"
+      ],
+      "effect": {
+        "en": "This attack does 100 damage to each of your opponent's Pokémon ex and Pokémon V. This attack's damage isn't affected by Weakness or Resistance.",
+        "fr": "Cette attaque inflige 100 dégâts à chacun des Pokémon-ex et Pokémon-V de votre adversaire. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "de": "Diese Attacke fügt jedem Pokémon-ex und Pokémon-V deines Gegners 100 Schadenspunkte zu. Der Schaden dieser Attacke wird durch Schwäche oder Resistenz nicht verändert.",
+        "it": "Questo attacco infligge 100 danni a ciascuno dei Pokémon-ex e dei Pokémon-V del tuo avversario. I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza.",
+        "pt": "Este ataque causa 100 pontos de dano a cada um dos Pokémon ex e Pokémon V do seu oponente. O dano deste ataque não é afetado por Fraqueza ou Resistência.",
+        "es": "Este ataque hace 100 puntos de daño a cada uno de los Pokémon ex y Pokémon V de tu rival. El daño de este ataque no se ve afectado por Debilidad o Resistencia."
+      },
+      "name": {
+        "en": "Sonic Peridot",
+        "fr": "Péridot Sonique",
+        "de": "Schall-Peridot",
+        "it": "Peridoto Sonico",
+        "pt": "Peridoto Sônico",
+        "es": "Peridoto Sónico"
       }
     }
   ],

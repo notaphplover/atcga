@@ -3,7 +3,12 @@
   "abilityName": "Spiky Shield",
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",

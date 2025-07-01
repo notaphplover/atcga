@@ -3,7 +3,11 @@
   "abilityName": "すなのぼうへき",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

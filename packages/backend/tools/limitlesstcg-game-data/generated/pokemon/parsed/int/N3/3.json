@@ -1,7 +1,19 @@
 {
   "abilityEffect": "If an opponent's attack would Knock Out Celebi, flip a coin. If heads, Celebi isn't Knocked Out and you shuffle it and all cards attached to it into your deck. This power doesn't work if Celebi is already Asleep, Confused, or Paralyzed.",
   "abilityName": "Time Travel",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, put 1 damage counter on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Psychic Damage"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

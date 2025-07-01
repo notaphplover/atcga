@@ -3,7 +3,11 @@
   "abilityName": "Toppling Wind",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip 2 coins. If both of them are tails, this attack does nothing.",

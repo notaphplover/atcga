@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 3 damage counters from 1 of your Pokémon.",
+        "fr": "Retirez 3 marqueurs de dégât à l'un de vos Pokémon.",
+        "de": "Entferne 3 Schadensmarken von 1 deiner Pokémon.",
+        "it": "Togli 3 segnalini danno da 1 dei tuoi Pokémon."
+      },
+      "name": {
+        "en": "Sweet Scent",
+        "fr": "Doux parfum",
+        "de": "Lockduft",
+        "it": "Profumino"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin for each Volbeat you have in play. This attack does 30 damage times the number of heads.",

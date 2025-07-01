@@ -3,7 +3,10 @@
   "abilityName": "Prankish",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

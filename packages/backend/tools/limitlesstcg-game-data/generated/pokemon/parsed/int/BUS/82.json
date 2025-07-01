@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "10+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage.",
@@ -19,7 +19,9 @@
       }
     },
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

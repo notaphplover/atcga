@@ -3,7 +3,12 @@
   "abilityName": "スリップトリップ",
   "attacks": [
     {
-      "cost": "wycc",
+      "cost": [
+        "w",
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "自分の山札を上から1枚トラッシュする。"

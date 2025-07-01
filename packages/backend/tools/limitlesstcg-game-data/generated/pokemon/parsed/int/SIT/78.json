@@ -3,7 +3,10 @@
   "abilityName": "Persistent Cells",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Choose 2 of your opponent's Benched Pokémon and put 3 damage counters on each of them.",

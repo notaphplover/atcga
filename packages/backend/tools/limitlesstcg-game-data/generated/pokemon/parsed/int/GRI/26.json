@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, you may search your deck for a card and put it into your hand. Then, shuffle your deck.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Pour chaque côté face, vous pouvez chercher une carte dans votre deck puis l'ajouter à votre main. Mélangez ensuite votre deck.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Du kannst pro Kopf dein Deck nach 1 Karte durchsuchen und sie auf deine Hand nehmen. Mische anschließend dein Deck.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, puoi cercare nel tuo mazzo una carta e aggiungerla a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, puedes buscar en tu baraja 1 carta y ponerla en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "All the Presents",
+        "fr": "Nombreux Cadeaux",
+        "de": "Geschenkeflut",
+        "it": "Regali a Volontà",
+        "es": "Regalos por Doquier"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

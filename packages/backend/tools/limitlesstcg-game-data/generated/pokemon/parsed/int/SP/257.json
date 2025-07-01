@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Special Energy attached to 1 of your opponent's Pokémon in the Lost Zone."
+      },
+      "name": {
+        "en": "Lost Hack"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard an Energy from this Pokémon."

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "glcc",
+      "cost": [
+        "g",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing."

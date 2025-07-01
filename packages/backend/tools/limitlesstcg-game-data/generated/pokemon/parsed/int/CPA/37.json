@@ -3,7 +3,11 @@
   "abilityName": "Wicked Ruler",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

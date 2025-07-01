@@ -3,7 +3,11 @@
   "abilityName": "タキオンビット",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

@@ -3,7 +3,10 @@
   "abilityName": "Roto Motor",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of Energy attached to all of your opponent's Pokémon.",

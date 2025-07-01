@@ -3,7 +3,11 @@
   "abilityName": "でたとこさいみん",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

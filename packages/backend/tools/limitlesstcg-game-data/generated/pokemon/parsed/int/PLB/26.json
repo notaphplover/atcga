@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Both this Pokémon and the Defending Pokémon are now Confused.",

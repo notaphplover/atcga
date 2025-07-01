@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "This attack does 60 damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

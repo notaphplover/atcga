@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, attacks used by the Defending Pokémon cost [C] more, and its Retreat Cost is [C] more.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "dddc",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "180",
       "effect": {},
       "name": {

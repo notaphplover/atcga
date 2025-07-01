@@ -3,7 +3,11 @@
   "abilityName": "Climactic Gate",
   "attacks": [
     {
-      "cost": "rdc",
+      "cost": [
+        "r",
+        "d",
+        "c"
+      ],
       "dmg": "200",
       "effect": {},
       "name": {

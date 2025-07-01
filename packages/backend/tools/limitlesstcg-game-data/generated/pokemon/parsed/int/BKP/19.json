@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Kopfnuss",
         "it": "Bottintesta",
         "es": "Golpe Cabeza"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez un Pokémon dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon, mostralo e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 Pokémon, enséñalo y ponlo en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Tail Lure",
+        "fr": "Queue Attrayante",
+        "de": "Schöner Schweif",
+        "it": "Coda Esca",
+        "es": "Cebo Cola"
       }
     }
   ],

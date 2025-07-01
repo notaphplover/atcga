@@ -3,7 +3,9 @@
   "abilityName": "Buffer",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Energy attached to all of your opponent's Pokémon."

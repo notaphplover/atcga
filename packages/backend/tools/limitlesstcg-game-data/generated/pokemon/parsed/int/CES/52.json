@@ -3,7 +3,9 @@
   "abilityName": "Electric Start",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may attach up to 2 basic Energy cards from your hand to 1 of your Benched Pokémon.",

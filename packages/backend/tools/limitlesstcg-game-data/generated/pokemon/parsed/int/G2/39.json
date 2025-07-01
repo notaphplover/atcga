@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."
       },
       "name": {
         "en": "Sleep Seed"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, you may search your deck for a Trainer card. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Errand-Running"
       }
     }
   ],

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 10 danni a ciascuno dei Pokémon del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Este ataque causa 10 pontos de dano a cada um dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Este ataque hace 10 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Swirling Disaster",
+        "fr": "Désastre Tourbillonnant",
+        "de": "Wirbelndes Desaster",
+        "it": "Turbine Catastrofico",
+        "pt": "Turbilhão do Desastre",
+        "es": "Catástrofe en Espiral"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 70 more damage.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip 2 coins. If either of them is tails, this attack does nothing.",
@@ -16,6 +18,26 @@
         "de": "Simultanschnabel",
         "it": "Beccata Simultanea",
         "es": "Picotazo Simultáneo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Doduo Delivery",
+        "fr": "Livraison Doduo",
+        "de": "Dodu-Lieferung",
+        "it": "Consegna Doduo",
+        "es": "Reparto Doduo"
       }
     }
   ],

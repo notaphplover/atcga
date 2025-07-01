@@ -3,7 +3,9 @@
   "abilityName": "Dual Armor",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "After your attack, you may switch Rocket's Scyther ex with 1 of your Benched Pokémon."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Rocket's Scyther ex can't use Slashing Strike during your next turn."

@@ -3,7 +3,11 @@
   "abilityName": "Heatproof",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

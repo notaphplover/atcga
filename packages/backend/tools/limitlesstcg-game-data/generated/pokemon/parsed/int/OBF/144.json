@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mm",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Draw cards until you have the same number of cards in your hand as your opponent.",
+        "fr": "Piochez des cartes jusqu'à en avoir autant dans votre main que votre adversaire.",
+        "de": "Ziehe so lange Karten, bis du genauso viele Karten auf der Hand hast wie dein Gegner.",
+        "it": "Pesca fino ad avere in mano lo stesso numero di carte del tuo avversario.",
+        "pt": "Compre cartas até ter o mesmo número de cartas na sua mão do que seu oponente.",
+        "es": "Roba cartas hasta que tengas la misma cantidad de cartas en tu mano que tu rival."
+      },
+      "name": {
+        "en": "Mirror Draw",
+        "fr": "Pioche Miroir",
+        "de": "Spiegelzug",
+        "it": "Pesca Riflessa",
+        "pt": "Compra Espelhada",
+        "es": "Robo Espejo"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

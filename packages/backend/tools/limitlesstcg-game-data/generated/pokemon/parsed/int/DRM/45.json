@@ -3,7 +3,11 @@
   "abilityName": "Rough Skin",
   "attacks": [
     {
-      "cost": "rwc",
+      "cost": [
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

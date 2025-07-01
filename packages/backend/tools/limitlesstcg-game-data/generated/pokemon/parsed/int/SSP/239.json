@@ -3,7 +3,11 @@
   "abilityName": "Skyliner",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

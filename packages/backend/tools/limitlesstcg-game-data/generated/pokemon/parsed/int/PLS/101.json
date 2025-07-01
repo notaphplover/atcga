@@ -3,7 +3,13 @@
   "abilityName": "Block",
   "attacks": [
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Does 30 damage times the number of Team Plasma Pokémon you have in play.",

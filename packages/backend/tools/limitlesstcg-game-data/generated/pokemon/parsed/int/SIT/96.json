@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has 100 HP or less remaining, it is Knocked Out.",
+        "fr": "S'il reste 100 PV ou moins au Pokémon Actif de votre adversaire, il est mis K.O.",
+        "de": "Wenn das Aktive Pokémon deines Gegners 100 oder weniger verbleibende KP hat, ist es kampfunfähig.",
+        "it": "Se il Pokémon attivo del tuo avversario ha 100 PS o meno rimanenti, viene messo KO.",
+        "pt": "Se o Pokémon Ativo do seu oponente tiver PS restante de 100 ou menos, ele será Nocauteado.",
+        "es": "Si al Pokémon Activo de tu rival le quedan 100 PS o menos, queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Reaping Claw",
+        "fr": "Griffe Faucheuse",
+        "de": "Erntende Klaue",
+        "it": "Falciartiglio",
+        "pt": "Garra Ceifadora",
+        "es": "Pinza Segadora"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

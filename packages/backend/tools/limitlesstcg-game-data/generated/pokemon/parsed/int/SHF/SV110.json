@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a [W] Energy card from your hand to this Pokémon. If you do, switch it with 1 of your Benched Pokémon.",
+        "fr": "Attachez une carte Énergie [W] de votre main à ce Pokémon. Dans ce cas, échangez-le contre l'un de vos Pokémon de Banc.",
+        "de": "Lege 1 [W]-Energiekarte aus deiner Hand an dieses Pokémon an. Wenn du das machst, tausche es gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Assegna a questo Pokémon una carta Energia [W] dalla tua mano. Se lo fai, scambialo con uno della tua panchina.",
+        "pt": "Ligue 1 carta de Energia [W] da sua mão a este Pokémon. Se fizer isto, troque-o por 1 dos seus Pokémon no Banco.",
+        "es": "Une 1 carta de Energía [W] de tu mano a este Pokémon. Si lo haces, cámbialo por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Body Surf",
+        "fr": "Body Surf",
+        "de": "Bodysurfen",
+        "it": "Surf Libero",
+        "pt": "Pegar Jacaré",
+        "es": "Surfeo Corporal"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Put 2 [W] Energy attached to this Pokémon into your hand.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [L] Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck un Pokémon [L], montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [L]-Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon [L], mostralo e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 Pokémon [L] no seu baralho, revele-o e coloque-o na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 Pokémon [L], enséñalo y ponlo en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Call Sign",
+        "fr": "Signe d'Appel",
+        "de": "Rufzeichen",
+        "it": "Chiamata",
+        "pt": "Sinal de Chamada",
+        "es": "Señal de Llamada"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

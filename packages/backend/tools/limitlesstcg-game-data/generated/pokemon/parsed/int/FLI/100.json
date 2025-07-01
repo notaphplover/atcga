@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Ramme",
         "it": "Carica",
         "es": "Apisonar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. Discard all Item cards you find there.",
+        "fr": "Votre adversaire dévoile sa main. Défaussez toutes les cartes Objet que vous y trouvez.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Lege alle Itemkarten, die du dort findest, auf seinen Ablagestapel.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scarta tutte le carte Strumento presenti tra esse.",
+        "es": "Tu rival enseña las cartas de su mano. Descarta todas las cartas de Objeto que encuentres entre ellas."
+      },
+      "name": {
+        "en": "Destructive Sound",
+        "fr": "Son Destructeur",
+        "de": "Trümmerton",
+        "it": "Distrusuono",
+        "es": "Sonido Destructivo"
       }
     }
   ],

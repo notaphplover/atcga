@@ -3,7 +3,11 @@
   "abilityName": "Pitch a Pyukumuku",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

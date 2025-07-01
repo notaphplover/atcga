@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "wwww",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Attach up to 3 [W] Energy cards from your discard pile to this Pokémon.",
+        "fr": "Attachez jusqu'à 3 cartes Énergie [W] de votre pile de défausse à ce Pokémon.",
+        "de": "Lege bis zu 3 [W]-Energiekarten aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon fino a tre carte Energia [W] dalla tua pila degli scarti.",
+        "pt": "Ligue até 3 cartas de Energia [W] da sua pilha de descarte a este Pokémon.",
+        "es": "Une hasta 3 cartas de Energía [W] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Draw Up",
+        "fr": "Puiser",
+        "de": "Schöpfen",
+        "it": "Pesca Alta",
+        "pt": "Erguer",
+        "es": "Alzar"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "120×",
       "effect": {
         "en": "Flip 3 coins. This attack does 120 damage for each heads.",

@@ -3,7 +3,11 @@
   "abilityName": "Smug Face",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {
@@ -12,6 +16,27 @@
         "de": "Klauenschlitzer",
         "it": "Lacerartiglio",
         "es": "Cuchillada Garra"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 120 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cette attaque inflige 120 dégâts à l'un des Pokémon de votre adversaire. Ces dégâts ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur ce Pokémon-là. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Diese Attacke fügt 1 Pokémon deines Gegners 120 Schadenspunkte zu. Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder alle anderen Effekte auf jenem Pokémon nicht verändert. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Questo attacco infligge 120 danni a uno dei Pokémon del tuo avversario. Questi danni non sono influenzati dalla debolezza, dalla resistenza o da qualsiasi altro effetto presente su quel Pokémon. Non puoi usare più di un attacco GX a partita.",
+        "es": "Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. Este daño no se ve afectado por Debilidad, Resistencia o cualquier otro efecto en ese Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Stalking Claws-GX",
+        "fr": "Griffes Traquantes-GX",
+        "de": "Lauernde Krallen-GX",
+        "it": "Artigli Braccanti-GX",
+        "es": "Garras Acechantes-GX"
       }
     }
   ],

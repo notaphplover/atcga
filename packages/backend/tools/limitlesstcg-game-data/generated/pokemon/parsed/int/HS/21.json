@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez un Pokémon dans votre deck, montrez-le à votre adversaire, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Pokémon-Karte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon, mostralo al tuo avversario e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo un Pokémon, enséñaselo a tu rival y ponlo en tu mano. Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Find a Friend",
+        "fr": "Trouver un ami",
+        "de": "Freunde finden",
+        "it": "Trovamico",
+        "es": "Encontrar un amigo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage.",

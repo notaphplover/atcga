@@ -3,7 +3,24 @@
   "abilityName": "Dragon Lift",
   "attacks": [
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+      },
+      "name": {
+        "en": "Flame Jet"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard 2 Energy attached to Salamence ex."

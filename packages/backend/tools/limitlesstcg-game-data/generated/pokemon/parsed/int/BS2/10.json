@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
       },
       "name": {
         "en": "Psychic"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Discard 1 [P] Energy card attached to Mewtwo in order to prevent all effects of attacks, including damage, done to Mewtwo during your opponent's next turn."
+      },
+      "name": {
+        "en": "Barrier"
       }
     }
   ],

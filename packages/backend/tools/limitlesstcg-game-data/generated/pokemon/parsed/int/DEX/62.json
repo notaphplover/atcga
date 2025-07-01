@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
@@ -14,6 +16,23 @@
         "fr": "Onde Folie",
         "de": "Konfustrahl",
         "it": "Stordiraggio"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Put 2 Item cards from your discard pile into your hand.",
+        "fr": "Ajoutez 2 cartes Objet de votre pile de défausse à votre main.",
+        "de": "Nimm 2 Itemkarten von deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi due carte Strumento dalla tua pila degli scarti e aggiungile a quelle che hai in mano."
+      },
+      "name": {
+        "en": "Junk Hunt",
+        "fr": "Marché aux Puces",
+        "de": "Müllsammler",
+        "it": "Spulciascarti"
       }
     }
   ],

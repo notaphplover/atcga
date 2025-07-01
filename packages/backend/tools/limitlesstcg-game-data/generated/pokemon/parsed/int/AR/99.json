@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, remove 4 damage counters from 1 of your Pokémon. This power can't be used if Tangrowth is affected by a Special Condition.",
   "abilityName": "Healing Growth",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your discard pile for as many [G] Energy cards as you like and attach them to your Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Big Growth"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

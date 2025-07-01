@@ -3,7 +3,10 @@
   "abilityName": "パントマイム",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "jp": "コインを4回投げ、オモテの数×20ダメージ。"

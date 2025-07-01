@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put up to 2 cards from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 2 cartes de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 2 Karten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a due carte dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 2 cartas da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 2 cartas de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Peat Hunt",
+        "fr": "Chasse Tourbe",
+        "de": "Torfjagd",
+        "it": "Cacciatorba",
+        "pt": "Caça-turfa",
+        "es": "Caza de la Turba"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

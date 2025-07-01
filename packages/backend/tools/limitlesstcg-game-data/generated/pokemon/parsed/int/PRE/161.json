@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -18,6 +22,29 @@
         "it": "Miraggio Lunare",
         "pt": "Miragem Lunar",
         "es": "Espejismo Lunar"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "p",
+        "d"
+      ],
+      "effect": {
+        "en": "Discard all Energy from this Pokémon, and take a Prize card.",
+        "fr": "Défaussez toutes les Énergies attachées à ce Pokémon, puis récupérez une carte Récompense.",
+        "de": "Lege alle Energien von diesem Pokémon auf deinen Ablagestapel und nimm 1 Preiskarte.",
+        "it": "Scarta tutte le Energie da questo Pokémon e prendi una carta Premio.",
+        "pt": "Descarte todas as Energias deste Pokémon e pegue uma carta de Prêmio.",
+        "es": "Descarta todas las Energías de este Pokémon y coge 1 carta de Premio."
+      },
+      "name": {
+        "en": "Onyx",
+        "fr": "Onyx",
+        "de": "Onyx",
+        "it": "Onice",
+        "pt": "Ônix",
+        "es": "Ónice"
       }
     }
   ],

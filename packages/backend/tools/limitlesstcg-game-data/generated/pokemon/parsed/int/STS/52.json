@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, this Pokémon's Flop attack's base damage is 50.",
+        "fr": "Pendant votre prochain tour, les dégâts de base de l'attaque Flop de ce Pokémon sont de 50.",
+        "de": "Während deines nächsten Zuges beträgt der Grundschaden der Attacke Plumps dieses Pokémon 50 Schadenspunkte.",
+        "it": "Durante il tuo prossimo turno, i danni base dell'attacco Tonfo di questo Pokémon sono 50.",
+        "es": "Durante tu próximo turno, el daño básico del ataque Vuelta de este Pokémon es de 50."
+      },
+      "name": {
+        "en": "Focus Energy",
+        "fr": "Puissance",
+        "de": "Energiefokus",
+        "it": "Focalenergia",
+        "es": "Foco Energía"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Full Metal Body",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

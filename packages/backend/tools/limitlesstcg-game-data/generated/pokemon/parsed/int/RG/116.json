@@ -3,7 +3,11 @@
   "abilityName": "Legendary Ascent",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "You may discard an Energy card attached to Zapdos ex. If you do, this attack does 50 damage plus 20 more damage."

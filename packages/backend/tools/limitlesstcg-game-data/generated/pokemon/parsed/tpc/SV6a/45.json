@@ -3,7 +3,10 @@
   "abilityName": "きんちょうかん",
   "attacks": [
     {
-      "cost": "fm",
+      "cost": [
+        "f",
+        "m"
+      ],
       "dmg": "80",
       "effect": {
         "jp": "自分の山札を上から1枚トラッシュする。"

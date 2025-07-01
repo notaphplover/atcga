@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Your opponent reveals their hand. This attack does 30 damage for each Trainer card you find there.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

@@ -3,7 +3,11 @@
   "abilityName": "Rock Peak Growl",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",

@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a [M] Energy card and attach it to Steelix GL. If you do, remove 1 damage counter from Steelix GL."
+      },
+      "name": {
+        "en": "Mend"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage plus 50 more damage and the Defending Pokémon is now Paralyzed."

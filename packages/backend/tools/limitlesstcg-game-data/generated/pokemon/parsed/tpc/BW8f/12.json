@@ -3,7 +3,11 @@
   "abilityName": "フリーズゾーン",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "相手のバトルポケモンをねむりにする。"

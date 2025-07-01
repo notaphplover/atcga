@@ -3,7 +3,21 @@
   "abilityName": "Metallic Lift",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Spearhead"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin for each [M] Energy attached to Skarmory. This attack does 10 damage plus 20 more damage for each heads."

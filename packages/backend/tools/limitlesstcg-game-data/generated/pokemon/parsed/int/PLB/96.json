@@ -3,7 +3,10 @@
   "abilityName": "Verdant Wind",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may search your deck for 2 [G] Energy cards and attach them to 1 of your Benched Pokémon. Shuffle your deck afterward."

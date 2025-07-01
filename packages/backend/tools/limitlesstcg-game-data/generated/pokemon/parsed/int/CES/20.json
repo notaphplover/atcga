@@ -1,7 +1,29 @@
 {
   "abilityEffect": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
   "abilityName": "Poison Payback",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon.",
+        "fr": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire. Ces dégâts ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur ce Pokémon.",
+        "de": "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu. Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder alle anderen Effekte auf jenem Pokémon nicht verändert.",
+        "it": "Questo attacco infligge 50 danni a un Pokémon del tuo avversario. Questi danni non sono influenzati dalla debolezza, dalla resistenza o da qualsiasi altro effetto presente su quel Pokémon.",
+        "es": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival. Este daño no se ve afectado por Debilidad, Resistencia o cualquier otro efecto en ese Pokémon."
+      },
+      "name": {
+        "en": "Feint Attack",
+        "fr": "Feinte",
+        "de": "Finte",
+        "it": "Finta",
+        "es": "Finta"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 110,
   "imageUrls": {

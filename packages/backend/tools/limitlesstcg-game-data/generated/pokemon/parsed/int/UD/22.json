@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Remove 6 damage counters from 1 of your Benched Pokémon.",
+        "fr": "Retirez 6 marqueurs de dégât à l'un des Pokémon de votre Banc.",
+        "de": "Entferne 6 Schadensmarken von 1 deiner Pokémon auf deiner Bank.",
+        "it": "Togli 6 segnalini danno da 1 dei tuoi Pokémon in Panchina."
+      },
+      "name": {
+        "en": "Fresh-Picked Fruit",
+        "fr": "Fruit frais",
+        "de": "Frisches Obst",
+        "it": "Frutto appena colto"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

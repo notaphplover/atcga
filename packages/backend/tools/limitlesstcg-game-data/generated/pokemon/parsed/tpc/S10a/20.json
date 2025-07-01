@@ -3,7 +3,11 @@
   "abilityName": "せいれいのまもり",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

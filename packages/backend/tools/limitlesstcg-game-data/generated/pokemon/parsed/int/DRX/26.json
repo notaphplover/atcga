@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 damage times the amount of [W] Energy attached to this Pokémon.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon can't use Giant Wave during your next turn.",

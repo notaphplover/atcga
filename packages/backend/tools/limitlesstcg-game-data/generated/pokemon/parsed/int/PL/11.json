@@ -3,7 +3,21 @@
   "abilityName": "Electric Barrier",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to each Pokémon that has any Poké-Powers (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Power Wave"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Search your deck for a [L] Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."

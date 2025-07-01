@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "If you have 4 or fewer Benched Pokémon, this attack does nothing.",

@@ -3,7 +3,12 @@
   "abilityName": "Fresh Egg",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon does 80 damage to itself.",

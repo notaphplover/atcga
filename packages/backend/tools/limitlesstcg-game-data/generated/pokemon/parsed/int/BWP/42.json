@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Move an Energy from 1 of your Benched Pokémon to this Pokémon.",
+        "fr": "Déplacez une Énergie de l'un de vos Pokémon de Banc vers ce Pokémon.",
+        "de": "Verschiebe 1 an 1 Pokémon auf deiner Bank angelegte Energie auf dieses Pokémon.",
+        "it": "Sposta un'Energia da uno dei tuoi Pokémon in panchina a questo Pokémon.",
+        "es": "Mueve una Energía de 1 de tus Pokémon en Banca a este Pokémon."
+      },
+      "name": {
+        "en": "Energy Wheel",
+        "fr": "Roue d'Énergie",
+        "de": "Energierad",
+        "it": "Ruotenergia",
+        "es": "Rueda de Energía"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",

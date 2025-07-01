@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 12 damage counters on the Attacking Pokémon.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Ripening Charge",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 more damage for each [G] Energy attached to all of your Pokémon.",

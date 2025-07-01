@@ -3,7 +3,11 @@
   "abilityName": "Primal Fortress",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

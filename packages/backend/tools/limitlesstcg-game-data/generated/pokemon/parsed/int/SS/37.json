@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Wing Attack"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon has any damage counters on it, this attack does 30 damage plus 20 more damage."

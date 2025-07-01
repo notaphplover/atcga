@@ -3,7 +3,11 @@
   "abilityName": "Weather Reading",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Draw cards until you have 6 cards in your hand.",

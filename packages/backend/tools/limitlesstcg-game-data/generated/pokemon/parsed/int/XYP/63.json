@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Discard the top card of your opponent's deck. If that card is a Trainer card, this attack does 80 more damage."

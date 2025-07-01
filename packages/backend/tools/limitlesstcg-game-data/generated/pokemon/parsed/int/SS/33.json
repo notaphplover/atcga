@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Each Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Super Poison Breath"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This attack's damage is not affected by Resistance."

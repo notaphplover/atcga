@@ -3,7 +3,10 @@
   "abilityName": "いっちだんけつ",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "jp": "自分の山札を2枚引く。"

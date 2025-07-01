@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Choose a card from your opponent's hand without looking and discard it."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard a [R] Energy or [D] Energy attached to Dark Houndoom. If you do, this attack does 40 damage plus 20 more damage."

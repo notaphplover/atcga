@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.",
+        "fr": "Mélangez votre main dans votre deck. Ensuite, piochez un nombre de cartes égal au nombre de cartes de la main de votre adversaire.",
+        "de": "Mische deine Handkarten in dein Deck. Zähle danach die Anzahl der Karten auf der Hand deines Gegners. Ziehe ebenso viele Karten.",
+        "it": "Rimischia le carte che hai in mano nel tuo mazzo. Poi pesca un numero di carte pari al numero di carte che il tuo avversario ha in mano.",
+        "es": "Baraja tu mano en tu mazo. Después roba un número de cartas igual al número de cartas en la mano de tu rival.."
+      },
+      "name": {
+        "en": "Mimic",
+        "fr": "Copie",
+        "de": "Mimikry",
+        "it": "Mimica",
+        "es": "Mimético"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",

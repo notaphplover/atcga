@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top card of your opponent's deck.",
+        "fr": "Regardez la carte du dessus du deck de votre adversaire.",
+        "de": "Schau dir die oberste Karte des Decks deines Gegners an.",
+        "it": "Guarda la prima carta del mazzo del tuo avversario.",
+        "pt": "Olhe a carta de cima do baralho do seu oponente.",
+        "es": "Mira la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Glance",
+        "fr": "Coup d'Œil",
+        "de": "Kurzer Blick",
+        "it": "Occhiatina",
+        "pt": "Olhada de Relance",
+        "es": "Ojeada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage for each heads.",

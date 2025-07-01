@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a [W] Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez une carte Énergie [W] dans votre deck et attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [W]-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [W] e assegnala a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Energía [W] y únela a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Call Forth Cold",
+        "fr": "Appel au Froid",
+        "de": "Kälteruf",
+        "it": "Richiamo del Freddo",
+        "es": "Convocar Frío"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Discard 2 [W] Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",

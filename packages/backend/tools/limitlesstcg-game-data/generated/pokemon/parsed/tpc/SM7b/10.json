@@ -3,7 +3,9 @@
   "abilityName": "ぬぎのこし",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "40+",
       "effect": {
         "jp": "コインを1回投げオモテなら、40ダメージ追加。"

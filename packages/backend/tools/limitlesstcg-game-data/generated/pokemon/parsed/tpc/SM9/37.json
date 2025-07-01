@@ -3,7 +3,10 @@
   "abilityName": "エレキシェイカー",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

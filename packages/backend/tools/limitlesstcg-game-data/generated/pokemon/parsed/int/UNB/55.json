@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You can use this attack only if you have at least 3 more Prize cards remaining than your opponent. Attach all [L] Energy cards from your discard pile to your Pokémon in any way you like.",
+        "fr": "Vous ne pouvez utiliser cette attaque que s'il vous reste au moins 3 cartes Récompense de plus qu'à votre adversaire. Attachez toutes les cartes Énergie [L] de votre pile de défausse à vos Pokémon, de la manière que vous voulez.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du mindestens 3 verbleibende Preiskarten mehr hast als dein Gegner. Lege alle [L]-Energiekarten aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Puoi usare questo attacco solo se hai almeno tre carte Premio rimanenti più del tuo avversario. Assegna a piacimento ai tuoi Pokémon tutte le carte Energia [L] dalla tua pila degli scarti.",
+        "es": "Puedes usar este ataque solo si te quedan por lo menos 3 cartas de Premio más que a tu rival. Une todas las cartas de Energía [L] de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Never Give Up",
+        "fr": "Persistance",
+        "de": "Niemals aufgeben",
+        "it": "Mai Arrendersi",
+        "es": "Nunca Rendirse"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

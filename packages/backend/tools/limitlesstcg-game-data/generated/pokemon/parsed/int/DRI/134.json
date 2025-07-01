@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "pt": "Compre uma carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Filch",
+        "fr": "Maraudage",
+        "de": "Mopsen",
+        "it": "Furtarello",
+        "pt": "Furtar",
+        "es": "Birlar"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

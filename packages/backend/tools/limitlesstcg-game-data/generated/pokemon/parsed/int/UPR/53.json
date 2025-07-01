@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 Supporter cards from your discard pile into your hand.",
+        "fr": "Ajoutez 2 cartes Supporter de votre pile de défausse à votre main.",
+        "de": "Nimm 2 Unterstützerkarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi due carte Aiuto dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "es": "Pon 2 cartas de Partidario de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Lightless World",
+        "fr": "Monde Obscur",
+        "de": "Lichtlose Welt",
+        "it": "Mondo Buio",
+        "es": "Mundo sin Luz"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",

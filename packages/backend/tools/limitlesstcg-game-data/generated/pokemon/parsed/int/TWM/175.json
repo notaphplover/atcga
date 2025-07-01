@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Supporter card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Supporter de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Unterstützerkarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Aiuto dalla tua pila degli scarti e aggiungila alle carte che hai in mano.",
+        "pt": "Coloque uma carta de Apoiador da sua pilha de descarte na sua mão.",
+        "es": "Pon 1 carta de Partidario de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Beckon",
+        "fr": "Invite",
+        "de": "Herbeiwinken",
+        "it": "Appello",
+        "pt": "Aceno",
+        "es": "Hacer Señas"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each Energy attached to your opponent's Active Pokémon.",

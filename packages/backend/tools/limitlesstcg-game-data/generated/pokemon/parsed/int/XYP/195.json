@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Draw 3 cards. This Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Precognitive Dream"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."

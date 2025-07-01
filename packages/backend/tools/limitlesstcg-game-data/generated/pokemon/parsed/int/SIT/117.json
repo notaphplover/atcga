@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card. Shuffle your deck, then put that card on top of it.",
+        "fr": "Cherchez dans votre deck une carte. Mélangez votre deck, puis placez cette carte-là sur le dessus de votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte. Mische dein Deck und lege jene Karte anschließend darauf.",
+        "it": "Cerca nel tuo mazzo una carta. Rimischia le carte del tuo mazzo, poi metti quella carta in cima al mazzo.",
+        "pt": "Procure por 1 carta no seu baralho. Embaralhe o seu baralho e, em seguida, coloque aquela carta como a carta de cima do seu baralho.",
+        "es": "Busca en tu baraja 1 carta. Baraja las cartas de tu baraja y, luego, pon esa carta en la parte superior de tu baraja."
+      },
+      "name": {
+        "en": "Magnetic Lift",
+        "fr": "Ascension Magnétique",
+        "de": "Magnetischer Auftrieb",
+        "it": "Sollevamento Magnetico",
+        "pt": "Elevação Magnética",
+        "es": "Impulso Magnético"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

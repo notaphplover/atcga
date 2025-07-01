@@ -3,7 +3,12 @@
   "abilityName": "Frozen Charm",
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon can't attack during your next turn"

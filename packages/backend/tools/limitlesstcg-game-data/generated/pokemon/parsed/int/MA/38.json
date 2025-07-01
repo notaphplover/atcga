@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Does 10 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Damage"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

@@ -3,7 +3,10 @@
   "abilityName": "Emergency Entry",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "During your next turn, this Pokémon's Meteor Mash attack does 100 more damage (before applying Weakness and Resistance).",

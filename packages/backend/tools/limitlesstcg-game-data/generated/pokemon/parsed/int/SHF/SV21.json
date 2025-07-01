@@ -3,7 +3,11 @@
   "abilityName": "Shuffle Dance",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack.",

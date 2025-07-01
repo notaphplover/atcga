@@ -3,7 +3,10 @@
   "abilityName": "Stance Change",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon VMAX.",

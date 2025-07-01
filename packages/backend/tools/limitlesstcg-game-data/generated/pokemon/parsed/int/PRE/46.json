@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "If you don't have the same number of cards in your hand as your opponent, this attack does nothing.",

@@ -3,7 +3,12 @@
   "abilityName": "Irresistible Force",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "This attack does 30 more damage for each [F] Energy attached to this Pokémon.",

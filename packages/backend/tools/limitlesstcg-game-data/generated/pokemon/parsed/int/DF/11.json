@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose an attack on 1 of your opponent's Pokémon in play that has δ on its card. Delta Copy copies that attack except for its Energy cost. (You must still do anything else required for that attack.) Togetic performs that attack."
+      },
+      "name": {
+        "en": "Delta Copy"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

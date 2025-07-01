@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus.",
+        "de": "Wirf eine Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Confuso."
+      },
+      "name": {
+        "en": "Metal Sound",
+        "fr": "Strido-son",
+        "de": "Metallsound",
+        "it": "Ferrostrido"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

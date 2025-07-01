@@ -3,7 +3,10 @@
   "abilityName": "Metal Symbol",
   "attacks": [
     {
-      "cost": "mm",
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 60 more damage.",
@@ -18,6 +21,25 @@
         "de": "Duellierende Säbel",
         "it": "Sciabola Rivale",
         "es": "Sable Duelo"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, their Pokémon can't attack. (This includes Pokémon that come into play on that turn.) (You can't use more than 1 GX attack in a game.)",
+        "fr": "Pendant le prochain tour de votre adversaire, ses Pokémon ne peuvent pas attaquer. (Cela comprend les Pokémon qui sont mis en jeu pendant ce tour.) (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Während des nächsten Zuges deines Gegners können seine Pokémon nicht angreifen. (Dies schließt Pokémon, die während jenes Zuges ins Spiel gebracht werden, ein.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Durante il prossimo turno del tuo avversario, i suoi Pokémon non possono attaccare, inclusi i Pokémon entrati in gioco in quel turno. Non puoi usare più di un attacco GX a partita.",
+        "es": "Durante el próximo turno de tu rival, sus Pokémon no pueden atacar. (Esto incluye Pokémon que entran en juego en ese turno). (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Iron Rule-GX",
+        "fr": "Volonté de Fer-GX",
+        "de": "Eiserne Regel-GX",
+        "it": "Regola Ferrea-GX",
+        "es": "Regla de Acero-GX"
       }
     }
   ],

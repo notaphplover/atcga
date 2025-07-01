@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "For each [R] Energy attached to Magmortar, discard the top card from your opponent's deck. Then, flip a coin. If tails, discard all [R] Energy attached to Magmortar.",
+        "fr": "Pour chaque carte Énergie [R] attachée à Maganon, défaussez la carte du dessus du deck de votre adversaire. Lancez ensuite une pièce. Si c'est pile, défaussez toutes les cartes Énergie [R] attachées à Maganon.",
+        "de": "Lege für jede an Magbrant angelegte [R]-Energie die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel. Wirf anschließend eine Münze. Bei „Zahl“ lege alle an Magbrant angelegten [R]-Energien auf deinen Ablagestapel.",
+        "it": "Per ogni Energia [R] assegnata a Magmortar, scarta la carta in cima al mazzo del tuo avversario. Quindi, lancia una moneta. Se esce croce, scarta tutte le Energie [R] assegnate a Magmortar."
+      },
+      "name": {
+        "en": "Top Burner",
+        "fr": "Super pyro",
+        "de": "Top-Burner",
+        "it": "Cimardente"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon is now Burned.",

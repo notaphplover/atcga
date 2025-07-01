@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "20×",
       "effect": {
         "en": "Move any number of [L] Energy from your Benched Pokémon to this Pokémon. This attack does 20 damage for each Energy card you moved in this way.",
@@ -19,7 +19,13 @@
       }
     },
     {
-      "cost": "lcccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

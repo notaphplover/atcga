@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many [W] Energy cards and attach them to Kyogre Star."
@@ -11,7 +13,13 @@
       }
     },
     {
-      "cost": "wwwcc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."

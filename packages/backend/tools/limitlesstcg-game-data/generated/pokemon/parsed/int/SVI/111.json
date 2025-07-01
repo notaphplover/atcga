@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Choose 1 of your opponent's Active Pokémon’s attacks. During your opponent’s next turn, that Pokémon can’t use that attack.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

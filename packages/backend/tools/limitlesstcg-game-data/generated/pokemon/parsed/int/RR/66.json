@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Any damage done to Kakuna by attacks is reduced by 20 (after applying Weakness and Resistance).",
   "abilityName": "Exoskeleton",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, search your deck for an Evolution card that evolves from Kakuna and put it onto Kakuna. (This counts as evolving Kakuna.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Dangerous Evolution"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

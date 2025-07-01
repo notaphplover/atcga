@@ -3,7 +3,9 @@
   "abilityName": "Baby Evolution",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If Full Flame is in play, the Defending Pokémon is now Burned."

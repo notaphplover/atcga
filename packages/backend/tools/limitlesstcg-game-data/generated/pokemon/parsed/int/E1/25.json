@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If there are any [L] Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Raichu."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard all [L] Energy cards attached to Raichu or this attack does nothing."

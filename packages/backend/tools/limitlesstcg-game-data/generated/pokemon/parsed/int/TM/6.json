@@ -3,7 +3,12 @@
   "abilityName": "Pheromone Stamina",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned.",

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 30 damage from each of your Pokémon.",
+        "fr": "Soignez 30 dégâts à chacun de vos Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei jedem deiner Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a cada uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Refreshing Rain",
+        "fr": "Ondée Rafraîchissante",
+        "de": "Erquicklicher Regen",
+        "it": "Rinfrescapioggia",
+        "es": "Lluvia Refrescante"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage.",

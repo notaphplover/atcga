@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance).",
+        "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 30 (après application de la Faiblesse et de la Résistance).",
+        "de": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 30 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+        "it": "Durante il prossimo turno del tuo avversario, i danni inflitti a questo Pokémon dagli attacchi sono ridotti di 30, dopo aver applicato debolezza e resistenza.",
+        "es": "Durante el próximo turno de tu rival, cualquier daño hecho a este Pokémon por ataques se reduce en 30 (después de aplicar Debilidad y Resistencia)."
+      },
+      "name": {
+        "en": "Rear Guard",
+        "fr": "Garde Arrière",
+        "de": "Rückendeckung",
+        "it": "Retrodifesa",
+        "es": "Retaguardia"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

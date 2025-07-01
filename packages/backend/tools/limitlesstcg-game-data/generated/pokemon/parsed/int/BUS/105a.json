@@ -3,7 +3,11 @@
   "abilityName": "Initialize",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon can't use Zap Cannon during your next turn.",

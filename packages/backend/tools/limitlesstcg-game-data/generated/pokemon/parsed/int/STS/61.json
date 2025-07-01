@@ -3,7 +3,10 @@
   "abilityName": "Tear Away",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

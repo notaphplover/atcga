@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 10 damage times the number of heads.",
@@ -15,7 +17,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

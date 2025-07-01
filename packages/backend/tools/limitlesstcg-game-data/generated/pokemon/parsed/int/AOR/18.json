@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",

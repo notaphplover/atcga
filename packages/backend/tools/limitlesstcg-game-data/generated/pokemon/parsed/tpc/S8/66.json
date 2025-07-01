@@ -3,7 +3,11 @@
   "abilityName": "ダブルフェイス",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "jp": "自分のポケモン1匹に、ダメカンを3個のせる。"

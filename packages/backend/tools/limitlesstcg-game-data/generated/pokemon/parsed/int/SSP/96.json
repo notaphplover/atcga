@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Move all damage counters from 1 of your Benched Ancient Pokémon to your opponent's Active Pokémon.",
+        "fr": "Déplacez tous les marqueurs de dégâts de l'un de vos Pokémon Temps passé de Banc vers le Pokémon Actif de votre adversaire.",
+        "de": "Verschiebe alle Schadensmarken von 1 Pokémon aus der Vergangenheit auf deiner Bank auf das Aktive Pokémon deines Gegners.",
+        "it": "Sposta tutti i segnalini danno da uno dei tuoi Pokémon Tempo Passato in panchina al Pokémon attivo del tuo avversario.",
+        "pt": "Mova todos os contadores de dano de 1 dos seus Pokémon Ancestrais no Banco para o Pokémon Ativo do seu oponente.",
+        "es": "Mueve todos los contadores de daño de uno de tus Pokémon del pasado en Banca al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Perplexing Transfer",
+        "fr": "Transfert Déroutant",
+        "de": "Verblüffender Transfer",
+        "it": "Transfer Sconcertante",
+        "pt": "Transferência Marota",
+        "es": "Traspaso Desconcertante"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, attacks used by the Defending Pokémon do 30 less damage (before applying Weakness and Resistance).",

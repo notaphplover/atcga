@@ -3,7 +3,10 @@
   "abilityName": "Extra Liquid",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Does 60 damage plus 10 more damage for each Prize card your opponent has taken."

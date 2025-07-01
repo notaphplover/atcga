@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [],
+      "effect": {
+        "en": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."
+      },
+      "name": {
+        "en": "Silver Wind"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If Mothim has any damage counters on it, this attack does 30 damage plus 40 more damage."

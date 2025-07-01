@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 4 coins. This attack does 20 damage times the number of heads.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If the Defending Pokémon is a Pokémon-EX, that Pokémon can't attack during your opponent's next turn.",

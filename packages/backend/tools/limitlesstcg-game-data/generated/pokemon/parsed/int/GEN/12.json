@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Flip a coin for each [R] Energy attached to this Pokémon. This attack does 50 more damage for each heads.",

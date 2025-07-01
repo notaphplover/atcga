@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep and Poisoned.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Endormi et Empoisonné.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ schläft das Verteidigende Pokémon jetzt und ist vergiftet.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene addormentato e avvelenato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Dormido y Envenenado."
+      },
+      "name": {
+        "en": "Sleep Poison",
+        "fr": "Poison Dodo",
+        "de": "Schlafgift",
+        "it": "Sonnoveleno",
+        "es": "Veneno Somnífero"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

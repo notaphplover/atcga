@@ -3,7 +3,11 @@
   "abilityName": "Fight Song",
   "attacks": [
     {
-      "cost": "wmc",
+      "cost": [
+        "w",
+        "m",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

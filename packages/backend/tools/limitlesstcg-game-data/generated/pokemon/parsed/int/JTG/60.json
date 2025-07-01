@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent chooses 3 cards from their hand and shuffles those cards into their deck.",
+        "fr": "Votre adversaire choisit 3 cartes de sa main et les mélange avec son deck.",
+        "de": "Dein Gegner wählt 3 Karten aus seiner Hand und mischt jene Karten in sein Deck.",
+        "it": "Il tuo avversario sceglie tre carte che ha in mano e le rimischia nel suo mazzo.",
+        "pt": "Seu oponente escolhe 3 cartas da mão dele e embaralha aquelas cartas no baralho dele.",
+        "es": "Tu rival elige 3 cartas de su mano, las pone en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Cursed Words",
+        "fr": "Paroles Maudites",
+        "de": "Verfluchte Worte",
+        "it": "Parole Maledette",
+        "pt": "Rogar Praga",
+        "es": "Palabras Malditas"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

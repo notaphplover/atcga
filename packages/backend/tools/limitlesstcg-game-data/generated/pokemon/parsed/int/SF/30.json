@@ -3,13 +3,31 @@
   "abilityName": "Darkness Drive",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the amount of Energy attached to Tyranitar."
       },
       "name": {
         "en": "Grind"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "d",
+        "d"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spinning Tail"
       }
     }
   ],

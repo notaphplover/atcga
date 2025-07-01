@@ -3,7 +3,11 @@
   "abilityName": "Dauntless Shield",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "You may discard up to 2 [W] Energy cards from your hand. If you do, this attack does 30 damage plus 10 more damage for each Energy card you discarded."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

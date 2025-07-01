@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "wcccc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each Defending Pokémon. Discard an Energy card from each Defending Pokémon."
+      },
+      "name": {
+        "en": "Dragon Crush"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage is not affected by Resistance."

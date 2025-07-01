@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove 2 damage counters from Vaporeon.",
@@ -14,6 +16,25 @@
         "fr": "Spirale épuisante",
         "de": "Spiralsauger",
         "it": "Assorbimento Spirale"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Pokémon. This attack does 30 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Choisissez 2 des Pokémon de votre adversaire. Cette attaque inflige 30 dégâts à chacun d'entre eux. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wähle 2 Pokémon deines Gegners. Dieser Angriff fügt jedem der gewählten Pokémon 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Scegli 2 dei Pokémon del tuo avversario. Questo attacco infligge 30 danni a ognuno di loro. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+      },
+      "name": {
+        "en": "Dual Splash",
+        "fr": "Double splash",
+        "de": "Doppelplatscher",
+        "it": "Doppiosplash"
       }
     }
   ],

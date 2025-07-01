@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,13 +12,32 @@
       }
     },
     {
-      "cost": "llcc",
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 50 damage to itself."
       },
       "name": {
         "en": "Thunder"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "l"
+      ],
+      "effect": {
+        "en": "This attack does 100 damage to each of your opponent's Pokémon that has any Energy attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Thunderous Rain-GX"
       }
     }
   ],

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 90 damage from 1 of your Benched Pokémon.",
+        "fr": "Soignez 90 dégâts à l'un de vos Pokémon de Banc.",
+        "de": "Heile 90 Schadenspunkte bei 1 Pokémon auf deiner Bank.",
+        "it": "Cura uno dei tuoi Pokémon in panchina da 90 danni.",
+        "es": "Cura 90 puntos de daño a 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Sweeping Cure",
+        "fr": "Guérison Extensive",
+        "de": "Fegende Heilung",
+        "it": "Curarapida",
+        "es": "Barrido Curación"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

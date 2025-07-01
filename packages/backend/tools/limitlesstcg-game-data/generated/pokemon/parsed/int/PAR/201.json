@@ -3,7 +3,9 @@
   "abilityName": "Far-Flying Meteor",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",

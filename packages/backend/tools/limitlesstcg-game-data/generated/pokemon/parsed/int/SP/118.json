@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Seach your deck for a card that evolves from Eevee, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "pt": "Procure por 1 carta no seu baralho que evolua de Eevee, revele-a e coloque-a na sua mão. Em seguida, embaralhe o seu baralho."
+      },
+      "name": {
+        "en": "Signs of Evolution",
+        "pt": "Sinais de Evolução"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

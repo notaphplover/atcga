@@ -3,7 +3,11 @@
   "abilityName": "きゅうびのいざない",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon has any damage counters on it, put it and all attached cards into your opponent's hand.",
+        "fr": "Si au moins un marqueur de dégâts est placé sur le Pokémon Actif de votre adversaire, placez ce Pokémon-là et toutes les cartes attachées dans la main de votre adversaire.",
+        "de": "Wenn auf dem Aktiven Pokémon deines Gegners mindestens 1 Schadensmarke liegt, gib deinem Gegner es und alle angelegten Karten auf seine Hand.",
+        "it": "Se il Pokémon attivo del tuo avversario ha già dei segnalini danno, aggiungilo alla mano del tuo avversario insieme a tutte le carte a esso assegnate.",
+        "pt": "Se o Pokémon Ativo do seu oponente tiver algum contador de dano nele, coloque aquele Pokémon e todas as cartas ligadas a ele na mão do seu oponente.",
+        "es": "Si el Pokémon Activo de tu rival tiene algún contador de daño sobre él, pon ese Pokémon y todas las cartas unidas a él en la mano de tu rival."
+      },
+      "name": {
+        "en": "Shiftadieu",
+        "fr": "Tengadieu",
+        "de": "Tengadieu",
+        "it": "Shiftaddio",
+        "pt": "Tchauzinho",
+        "es": "Shiftadiós"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",

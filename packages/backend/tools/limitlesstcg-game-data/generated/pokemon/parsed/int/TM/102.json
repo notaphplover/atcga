@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. Put that Pokémon and all cards attached to it back into your opponent's hand.",
+        "fr": "Choisissez l'un des Pokémon de Banc de votre adversaire. Remettez ce Pokémon et toutes les cartes qui lui sont attachées dans la main de votre adversaire.",
+        "de": "Wähle 1 Pokémon auf der Bank deines Gegners. Dein Gegner nimmt das gewählte Pokémon und alle an es angelegten Karten auf seine Hand zurück.",
+        "it": "Scegli 1 dei Pokémon in Panchina del tuo avversario. Rimetti quel Pokémon e tutte le carte a lui assegnate in mano al tuo avversario."
+      },
+      "name": {
+        "en": "Sudden Delete",
+        "fr": "Disparition soudaine",
+        "de": "Plötzliche Tilgung",
+        "it": "Cancellazione Improvvisa"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all [M] Energy attached to Palkia & Dialga LEGEND. Add the top 2 cards of your opponent's deck to his or her Prize cards.",
+        "fr": "Défaussez toutes les cartes Énergie [M] attachées à Palkia & Dialga LÉGENDE. Ajoutez les 2 cartes du dessus du deck de votre adversaire à ses cartes Récompense.",
+        "de": "Lege alle [M]-Energien, die an Palkia- und Dialga-LEGENDE angelegt sind, auf deinen Ablagestapel. Füge die obersten 2 Karten vom Deck deines Gegner seinen Preiskarten hinzu.",
+        "it": "Scarta tutte le Energie [M] assegnate a Palkia & Dialga LEGGENDA. Aggiungi le prime 2 carte del mazzo del tuo avversario alle sue carte Premio."
+      },
+      "name": {
+        "en": "Time Control",
+        "fr": "Contrôle temporel",
+        "de": "Zeitherrschaft",
+        "it": "Controllatempo"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 160,
   "imageUrls": {

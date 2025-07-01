@@ -3,7 +3,9 @@
   "abilityName": "かぜまかせ",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20+",
       "effect": {
         "jp": "コインを2回投げ、オモテの数x30ダメージを追加。"

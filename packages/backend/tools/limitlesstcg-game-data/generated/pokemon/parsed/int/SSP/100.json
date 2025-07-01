@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon is now Confused.",
@@ -18,6 +20,28 @@
         "it": "Collera",
         "pt": "Petulância",
         "es": "Rabieta"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Both Active Pokémon are Knocked Out.",
+        "fr": "Les deux Pokémon Actifs sont mis K.O.",
+        "de": "Beide Aktiven Pokémon werden kampfunfähig.",
+        "it": "Entrambi i Pokémon attivi vengono messi KO.",
+        "pt": "Ambos os Pokémon Ativos são Nocauteados.",
+        "es": "Ambos Pokémon Activos quedan Fuera de Combate."
+      },
+      "name": {
+        "en": "Destined Fight",
+        "fr": "Combat du Destin",
+        "de": "Abgangsgefecht",
+        "it": "Lotta Predestinata",
+        "pt": "Luta Predestinada",
+        "es": "Lucha Predestinada"
       }
     }
   ],

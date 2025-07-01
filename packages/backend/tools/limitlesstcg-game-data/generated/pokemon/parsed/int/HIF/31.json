@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {
@@ -12,7 +16,11 @@
       }
     },
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",

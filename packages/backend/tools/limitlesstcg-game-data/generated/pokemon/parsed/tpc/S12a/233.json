@@ -3,7 +3,11 @@
   "abilityName": "スターガーディアン",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "230",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

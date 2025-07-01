@@ -3,7 +3,12 @@
   "abilityName": "Monkey Trio",
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

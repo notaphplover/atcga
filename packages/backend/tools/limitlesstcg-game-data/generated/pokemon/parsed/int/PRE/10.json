@@ -3,7 +3,9 @@
   "abilityName": "Festival Lead",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each of your Benched Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your deck for a [R] Energy card and attach it to this Pokémon. Shuffle your deck afterward.",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If Electivire is on your Bench, this attack does 80 more damage.",

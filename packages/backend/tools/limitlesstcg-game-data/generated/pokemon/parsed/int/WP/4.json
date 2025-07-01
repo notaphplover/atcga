@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Search your deck for a [L] Energy card and attach it to Pikachu. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Recharge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard all Energy cards attached to Pikachu in order to use this attack."

@@ -1,5 +1,25 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for a G Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez un Pokémon [G] dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [G]-Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon [G], mostralo e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 Pokémon [G], enséñalo y ponlo en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Find a Friend",
+        "fr": "Trouver un Ami",
+        "de": "Freunde finden",
+        "it": "Trovamico",
+        "es": "Encontrar un Amigo"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

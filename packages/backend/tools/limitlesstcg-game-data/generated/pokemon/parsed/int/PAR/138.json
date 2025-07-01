@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Draw 2 cards.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If there are 3 or fewer cards in your deck, this attack does 150 more damage.",

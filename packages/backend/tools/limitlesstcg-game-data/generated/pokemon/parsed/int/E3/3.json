@@ -3,7 +3,9 @@
   "abilityName": "Energy Recharge",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard all [R] Energy cards attached to Arcanine."

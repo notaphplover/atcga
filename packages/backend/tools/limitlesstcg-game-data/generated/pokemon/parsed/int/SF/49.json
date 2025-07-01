@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, Scyther's Slashing Strike attack's base damage is 60."
+      },
+      "name": {
+        "en": "Swords Dance"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your next turn, Scyther can't use Slashing Strike."

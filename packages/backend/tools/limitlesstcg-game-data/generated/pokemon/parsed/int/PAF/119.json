@@ -3,7 +3,10 @@
   "abilityName": "Mysterious Comet",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

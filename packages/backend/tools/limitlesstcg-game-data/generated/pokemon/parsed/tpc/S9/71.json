@@ -3,7 +3,11 @@
   "abilityName": "ギアウォール",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "jp": "コインを1回投げオモテなら、90ダメージ追加。"

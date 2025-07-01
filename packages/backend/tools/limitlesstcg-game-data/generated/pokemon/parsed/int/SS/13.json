@@ -3,7 +3,22 @@
   "abilityName": "Solar Eclipse",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+      },
+      "name": {
+        "en": "Cosmic Draw"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

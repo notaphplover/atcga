@@ -3,7 +3,11 @@
   "abilityName": "Cursed Land",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Put 2 damage counters on 1 of your opponent's Benched Pokémon.",

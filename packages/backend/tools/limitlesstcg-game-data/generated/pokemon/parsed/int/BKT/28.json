@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
@@ -19,7 +21,9 @@
       }
     },
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This Pokémon does 10 damage to itself.",

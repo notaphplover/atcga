@@ -3,7 +3,11 @@
   "abilityName": "Midnight Fluttering",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Put 2 damage counters on your opponent's Benched Pokémon in any way you like.",

@@ -3,7 +3,9 @@
   "abilityName": "Flight Support",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Heal 30 damage from each of your Benched Pokémon."

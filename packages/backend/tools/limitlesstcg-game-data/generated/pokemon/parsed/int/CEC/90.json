@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "If you have any Supporter cards in your discard pile, this attack does nothing.",

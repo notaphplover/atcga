@@ -3,7 +3,9 @@
   "abilityName": "Impromptu Carrier",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",

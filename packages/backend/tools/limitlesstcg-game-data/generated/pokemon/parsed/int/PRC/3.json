@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "During your next turn, if the Defending Pokémon is damaged by an attack, it is Knocked Out.",
+        "fr": "Pendant votre prochain tour, si le Pokémon Défenseur subit les dégâts d'une attaque, il est mis K.O.",
+        "de": "Wenn dem Verteidigenden Pokémon während deines nächsten Zuges Schaden durch einen Angriff zugefügt wird, wird es kampfunfähig.",
+        "it": "Durante il tuo prossimo turno, il Pokémon difensore viene messo KO se viene danneggiato da un attacco.",
+        "es": "Durante tu próximo turno, si el Pokémon Defensor resulta dañado por un ataque, queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Allergic Shock",
+        "fr": "Choc Allergique",
+        "de": "Allergischer Schock",
+        "it": "Allergishock",
+        "es": "Reacción Alérgica"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 2 coins. This attack does 50 damage times the number of heads.",

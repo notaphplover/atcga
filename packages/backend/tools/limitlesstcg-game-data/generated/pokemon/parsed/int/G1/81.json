@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Take 1 [L] Energy card from your discard pile and attach it to Lt. Surge's Pikachu."
+      },
+      "name": {
+        "en": "Charge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

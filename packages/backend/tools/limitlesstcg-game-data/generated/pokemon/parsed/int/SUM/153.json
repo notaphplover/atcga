@@ -3,7 +3,12 @@
   "abilityName": "Psychic Transfer",
   "attacks": [
     {
-      "cost": "pppp",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "120",
       "effect": {
         "en": "The Defending Pokémon can't be healed during your opponent's next turn.",
@@ -18,6 +23,27 @@
         "de": "Schattenstrahl",
         "it": "Raggio d'Ombra",
         "es": "Rayo Umbrío"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Knock Out 1 of your opponent's Basic Pokémon that isn't a Pokémon-GX. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Mettez K.O. l'un des Pokémon de base de votre adversaire qui n'est pas un Pokémon-GX. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Mache 1 Basis-Pokémon deines Gegners, das kein Pokémon-GX ist, kampfunfähig. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Metti KO un Pokémon Base del tuo avversario che non è un Pokémon-GX. Non puoi usare più di un attacco GX a partita.",
+        "es": "Deja Fuera de Combate a 1 de los Pokémon Básicos de tu rival que no sea un Pokémon-GX. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Lunar Fall-GX",
+        "fr": "Chute Lunaire-GX",
+        "de": "Lunarfall-GX",
+        "it": "Caduta Lunare-GX",
+        "es": "Caída Lunar-GX"
       }
     }
   ],

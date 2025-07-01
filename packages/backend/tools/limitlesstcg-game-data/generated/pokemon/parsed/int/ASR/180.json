@@ -3,7 +3,11 @@
   "abilityName": "Frontier Road",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each Energy attached to this Pokémon.",

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec le Pokémon Actif de votre adversaire.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Follow Me",
+        "fr": "Par Ici",
+        "de": "Spotlight",
+        "it": "Sonoqui",
+        "es": "Señuelo"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).",

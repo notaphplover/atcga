@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 3 cartes, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 3 Karten und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a tre carte e aggiungile a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 3 cartas no seu baralho e coloque-as na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 3 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Beak Catch",
+        "fr": "Bec Gobeur",
+        "de": "Schnabelfang",
+        "it": "Catturbecco",
+        "pt": "Captura de Bico",
+        "es": "Captura Pico"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

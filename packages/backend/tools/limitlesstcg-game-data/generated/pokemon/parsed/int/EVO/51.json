@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -16,6 +19,26 @@
         "de": "Psychokinese",
         "it": "Psichico",
         "es": "Psíquico"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon. If 1 of your Pokémon used Barrier during your last turn, this attack can't be used.",
+        "fr": "Pendant le prochain tour de votre adversaire, évitez tous les effets d'attaques, y compris les dégâts, infligés à ce Pokémon. Si l'un de vos Pokémon a utilisé Bouclier lors de votre dernier tour, cette attaque ne peut pas être utilisée.",
+        "de": "Verhindere alle Effekte von Angriffen, einschließlich Schaden, die diesem Pokémon während des nächsten Zuges deines Gegners zugefügt werden. Falls 1 deiner Pokémon Barriere während deines letzten Zuges eingesetzt hat, kann diese Attacke nicht eingesetzt werden.",
+        "it": "Durante il prossimo turno del tuo avversario, previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon. Se uno dei tuoi Pokémon ha usato Barriera durante il tuo ultimo turno, questo attacco non può essere usato.",
+        "es": "Durante el próximo turno de tu rival, evita todos los efectos de los ataques, incluido el daño, infligidos a este Pokémon. Si 1 de tus Pokémon usó Barrera durante tu último turno, este ataque no se puede usar."
+      },
+      "name": {
+        "en": "Barrier",
+        "fr": "Bouclier",
+        "de": "Barriere",
+        "it": "Barriera",
+        "es": "Barrera"
       }
     }
   ],

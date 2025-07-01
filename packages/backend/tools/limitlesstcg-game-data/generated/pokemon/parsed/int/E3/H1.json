@@ -3,7 +3,11 @@
   "abilityName": "Energy Jump",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."

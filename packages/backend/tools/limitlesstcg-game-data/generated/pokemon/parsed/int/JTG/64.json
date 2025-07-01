@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,6 +13,29 @@
         "it": "Psicosfera",
         "pt": "Esfera Psíquica",
         "es": "Esfera Psíquica"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If you use this attack when you have exactly 1 Prize card remaining, you win this game.",
+        "fr": "Si vous utilisez cette attaque alors qu'il vous reste exactement une carte Récompense, vous gagnez cette partie.",
+        "de": "Wenn du diese Attacke einsetzt und genau 1 verbleibende Preiskarte hast, gewinnst du dieses Spiel.",
+        "it": "Se usi questo attacco quando hai esattamente una carta Premio rimanente, vinci la partita.",
+        "pt": "Se você usar este ataque quando tiver exatamente 1 carta de Prêmio restante, você vencerá esta partida.",
+        "es": "Si usas este ataque cuando te queda exactamente una carta de Premio, ganas esta partida."
+      },
+      "name": {
+        "en": "Victory Symbol",
+        "fr": "Symbole Victorieux",
+        "de": "Siegessymbol",
+        "it": "Simbolo di Vittoria",
+        "pt": "Símbolo da Vitória",
+        "es": "Símbolo de Victoria"
       }
     }
   ],

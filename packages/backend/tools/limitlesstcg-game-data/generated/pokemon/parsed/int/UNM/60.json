@@ -3,7 +3,11 @@
   "abilityName": "Double Type",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Put a Trainer card from your discard pile into your hand.",

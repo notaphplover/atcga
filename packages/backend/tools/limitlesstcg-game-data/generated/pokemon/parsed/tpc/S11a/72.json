@@ -3,7 +3,10 @@
   "abilityName": "リファイン",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Pfund",
         "it": "Botta",
         "es": "Destructor"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. Choose a Supporter card you find there. Your opponent shuffles that card into their deck.",
+        "fr": "Votre adversaire dévoile sa main. Choisissez une carte Supporter que vous y trouvez. Votre adversaire mélange cette carte avec son deck.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Wähle 1 Unterstützerkarte, die du dort findest. Dein Gegner mischt jene Karte in sein Deck.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scegli una carta Aiuto presente tra quelle carte. Il tuo avversario rimischia quella carta nel suo mazzo.",
+        "es": "Tu rival enseña las cartas de su mano. Elige 1 carta de Partidario que encuentres entre ellas. Tu rival pone esa carta en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Clear the Room",
+        "fr": "Vider les Lieux",
+        "de": "Rausschmeißen",
+        "it": "Sgombero",
+        "es": "Hacer Sitio"
       }
     }
   ],

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "dd",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 3 Energy cards from your opponent's discard pile to their Pokémon in any way you like.",
+        "fr": "Attachez jusqu'à 3 cartes Énergie de la pile de défausse de votre adversaire à ses Pokémon comme il vous plaît.",
+        "de": "Lege bis zu 3 Energiekarten aus dem Ablagestapel deines Gegners beliebig an seine Pokémon an.",
+        "it": "Assegna ai Pokémon del tuo avversario fino a tre carte Energia dalla sua pila degli scarti nel modo che preferisci.",
+        "pt": "Ligue até 3 cartas de Energia da pilha de descarte do seu oponente aos Pokémon dele como desejar.",
+        "es": "Une hasta 3 cartas de Energía de la pila de descartes de tu rival a sus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Mischievous Painting",
+        "fr": "Toile Malicieuse",
+        "de": "Freche Malerei",
+        "it": "Disegni Birichini",
+        "pt": "Pintura Maliciosa",
+        "es": "Pinturas Traviesas"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each Energy attached to all of your opponent's Pokémon.",

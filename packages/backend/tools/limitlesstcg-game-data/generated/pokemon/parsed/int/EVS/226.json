@@ -3,7 +3,10 @@
   "abilityName": "Frost Over",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

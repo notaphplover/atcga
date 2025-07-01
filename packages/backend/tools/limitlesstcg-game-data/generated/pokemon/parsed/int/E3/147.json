@@ -3,7 +3,11 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "grc",
+      "cost": [
+        "g",
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Burned and Poisoned."
@@ -13,7 +17,11 @@
       }
     },
     {
-      "cost": "gpp",
+      "cost": [
+        "g",
+        "p",
+        "p"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 4 coins. This attack does 20 damage times the number of heads."

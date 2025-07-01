@@ -3,7 +3,21 @@
   "abilityName": "Thick Fat",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, remove 2 damage counters from 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Healing Milk"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

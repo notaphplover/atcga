@@ -3,7 +3,11 @@
   "abilityName": "Bubble Turn",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Don't apply Resistance."

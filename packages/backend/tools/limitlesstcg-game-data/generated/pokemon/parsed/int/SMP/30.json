@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Flying Flip"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

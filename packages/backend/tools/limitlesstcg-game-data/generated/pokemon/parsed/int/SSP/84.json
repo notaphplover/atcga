@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire montre sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano.",
+        "pt": "Seu oponente revela a mão dele.",
+        "es": "Tu rival enseña las cartas de su mano."
+      },
+      "name": {
+        "en": "See Through",
+        "fr": "Main Transparente",
+        "de": "Durchblick",
+        "it": "Sbirciatina",
+        "pt": "Transparência",
+        "es": "Transparencia"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -1,13 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       "name": {
         "en": "Psyshock"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 5 damage counters on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Metal Ball"
       }
     }
   ],

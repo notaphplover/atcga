@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a [F] Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie [F] de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 1 [F]-Energiekarte aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia [F] dalla tua pila degli scarti.",
+        "es": "Une 1 carta de Energía [F] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Shore Up",
+        "fr": "Amass'Sable",
+        "de": "Sandsammler",
+        "it": "Sabbiaccumulo",
+        "es": "Recogearena"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

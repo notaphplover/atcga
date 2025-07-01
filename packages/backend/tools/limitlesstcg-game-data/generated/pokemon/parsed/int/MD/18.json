@@ -3,7 +3,11 @@
   "abilityName": "Sunlight Veil",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may move an Energy card attached to Espeon to 1 of your Benched Pokémon."

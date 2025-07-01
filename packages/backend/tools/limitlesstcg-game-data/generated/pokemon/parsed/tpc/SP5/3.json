@@ -1,7 +1,21 @@
 {
   "abilityEffect": "このポケモンはどくにならない。",
   "abilityName": "げどくじゅつ",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
+      "effect": {
+        "jp": "相手のベンチポケモン全員に、それぞれ100ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+      },
+      "name": {
+        "jp": "たつまきしゅりけん"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 300,
   "imageUrls": {

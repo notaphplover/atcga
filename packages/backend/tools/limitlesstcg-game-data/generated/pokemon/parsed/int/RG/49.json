@@ -3,7 +3,21 @@
   "abilityName": "Protective Dust",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned."
+      },
+      "name": {
+        "en": "Sleep Poison"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

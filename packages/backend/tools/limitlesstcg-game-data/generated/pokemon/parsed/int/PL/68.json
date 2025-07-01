@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      "name": {
+        "en": "Poison Breath"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove 1 damage counter from each of your Benched Pokémon."

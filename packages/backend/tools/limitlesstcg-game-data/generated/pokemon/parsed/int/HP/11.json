@@ -3,7 +3,22 @@
   "abilityName": "Dual Aura",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Spearhead"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

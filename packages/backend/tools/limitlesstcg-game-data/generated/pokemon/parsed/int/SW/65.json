@@ -3,7 +3,9 @@
   "abilityName": "Cotton Balloon",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Switch Skiploom with 1 of your Benched Pokémon."

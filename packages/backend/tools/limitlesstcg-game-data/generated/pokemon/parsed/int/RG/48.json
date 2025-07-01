@@ -3,7 +3,20 @@
   "abilityName": "Thick Skin",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a Basic Pokémon (or Evolution card), a Trainer card, and an Energy card. Show them to your opponent and put them into your hand."
+      },
+      "name": {
+        "en": "Pickup"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 40 more damage."

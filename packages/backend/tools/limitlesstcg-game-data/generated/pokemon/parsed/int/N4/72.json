@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 2 [G] Energy cards from your hand to 1 of your [G] Pokémon."
+      },
+      "name": {
+        "en": "Reflected Sunlight"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

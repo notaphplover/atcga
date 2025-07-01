@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck.",
+        "fr": "Lancez 2 pièces. Pour chaque côté face, défaussez 2 cartes du dessus du deck de votre adversaire.",
+        "de": "Wirf 2 Münzen. Lege pro „Kopf“ 2 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia due volte una moneta. Ogni volta che esce testa, scarta le prime due carte del mazzo del tuo avversario.",
+        "es": "Lanza 2 monedas. Por cada cara, descarta las 2 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Balloon Bomb",
+        "fr": "Bombe Ballon",
+        "de": "Ballonbombe",
+        "it": "Pallone Bomba",
+        "es": "Bomba Globo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Both Active Pokémon are now Confused and Poisoned.",

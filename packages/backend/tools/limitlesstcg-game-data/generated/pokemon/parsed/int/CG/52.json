@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put any 1 card from your discard pile into your hand."
+      },
+      "name": {
+        "en": "Sniff Out"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."

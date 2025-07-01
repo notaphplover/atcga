@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, shuffle an Energy attached to your opponent's Active Pokémon into their deck.",
+        "fr": "Lancez une pièce jusqu'à obtenir un côté pile. Pour chaque côté face, mélangez une Énergie attachée au Pokémon Actif de votre adversaire avec son deck.",
+        "de": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Mische pro Kopf 1 an das Aktive Pokémon deines Gegners angelegte Energie in sein Deck.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, rimischia un'Energia assegnata al Pokémon attivo del tuo avversario nel suo mazzo.",
+        "pt": "Jogue uma moeda até sair coroa. Para cada cara, embaralhe uma Energia ligada ao Pokémon Ativo do seu oponente no baralho dele.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, pon 1 Energía unida al Pokémon Activo de tu rival en su baraja y barájala."
+      },
+      "name": {
+        "en": "Daunting Eyes",
+        "fr": "Regard Intimidant",
+        "de": "Einschüchternde Augen",
+        "it": "Occhi Minacciosi",
+        "pt": "Olhos Aterrorizantes",
+        "es": "Ojos Intimidantes"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

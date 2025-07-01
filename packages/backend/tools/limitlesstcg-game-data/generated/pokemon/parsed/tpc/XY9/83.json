@@ -3,7 +3,10 @@
   "abilityName": "アクアチューブ",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "自分のベンチポケモン全員のHPを、それぞれ「30」回復する。"

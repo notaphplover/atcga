@@ -1,7 +1,17 @@
 {
   "abilityEffect": "Once during your turn (before your attack), if Unown ? is on your Bench, you may choose a Pokémon in your hand and put it face down. Your opponent guesses a type of that Pokémon. Reveal that card. If your opponent guessed wrong, draw a card. Then, put that card back into your hand.",
   "abilityName": "?",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Discard up to 2 cards from your hand. For each card you discarded, draw a card."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

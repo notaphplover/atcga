@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Headbutt"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, each Defending Pokémon is now Burned."
+      },
+      "name": {
+        "en": "Burn Off"
       }
     }
   ],

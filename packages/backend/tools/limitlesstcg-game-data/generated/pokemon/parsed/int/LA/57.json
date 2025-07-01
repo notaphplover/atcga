@@ -3,7 +3,9 @@
   "abilityName": "Revenge Fang",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Burned."
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, discard 2 [R] Energy attached to Houndoom."

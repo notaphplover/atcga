@@ -3,7 +3,11 @@
   "abilityName": "Attract Energy",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may discard all [L] Energy cards attached to Magneton when you use this attack. If you do, put damage counters equal to the amount of Energy cards removed in this way on any number of your opponent's Benched Pokémon in the way you like. (For example, if you discard 3 [L] Energy cards, you can put 1 damage counter on 1 of your opponent's Benched Pokémon and 2 on another.)"

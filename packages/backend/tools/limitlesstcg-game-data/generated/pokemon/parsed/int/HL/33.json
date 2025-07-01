@@ -3,7 +3,10 @@
   "abilityName": "Fast Feet",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the number of damage counters on Dodrio."
@@ -13,7 +16,10 @@
       }
     },
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If tails, Dodrio can't use Slashing Strike during your next turn."

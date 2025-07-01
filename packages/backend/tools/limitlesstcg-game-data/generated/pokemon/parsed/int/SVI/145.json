@@ -3,7 +3,11 @@
   "abilityName": "Busybody Nurse",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Move all Energy from this Pokémon to 1 of your Benched Pokémon.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "pdc",
+      "cost": [
+        "p",
+        "d",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon.",

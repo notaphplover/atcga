@@ -3,7 +3,10 @@
   "abilityName": "Poison Resistance",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon with no damage counters on it and switch the Defending Pokémon with it."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a number of coins equal to the amount of [M] Energy attached to Scizor. This attack does 30 damage plus 20 more damage for each heads."

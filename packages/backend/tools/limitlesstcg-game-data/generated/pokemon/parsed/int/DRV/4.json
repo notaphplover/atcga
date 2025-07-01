@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 10 damage from each of your Pokémon.",
+        "fr": "Soignez 10 dégâts à chacun de vos Pokémon.",
+        "it": "Cura ciascuno dei tuoi Pokémon da 10 danni."
+      },
+      "name": {
+        "en": "Healing Melody",
+        "fr": "Mélodie Apaisante",
+        "it": "Cura Melodiosa"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads.",

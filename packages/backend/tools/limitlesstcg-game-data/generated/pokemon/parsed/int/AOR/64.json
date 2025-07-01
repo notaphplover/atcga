@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look through your deck. Shuffle your deck afterward.",
+        "fr": "Parcourez votre deck. Mélangez ensuite votre deck.",
+        "de": "Sieh dir die Karten deines Decks an. Mische anschließend dein Deck.",
+        "it": "Guarda e poi rimischia le carte del tuo mazzo.",
+        "es": "Examina las cartas de tu baraja. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Data Check",
+        "fr": "Vérification de Données",
+        "de": "Datenprüfung",
+        "it": "Controllo Dati",
+        "es": "Comprobación de Datos"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

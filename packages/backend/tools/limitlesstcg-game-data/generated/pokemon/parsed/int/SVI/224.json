@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on this Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "250",
       "effect": {
         "en": "Discard 2 [R] Energy from this Pokémon.",

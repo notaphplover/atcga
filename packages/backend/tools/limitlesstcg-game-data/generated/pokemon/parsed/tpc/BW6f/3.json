@@ -3,7 +3,12 @@
   "abilityName": "アレルギーパニック",
   "attacks": [
     {
-      "cost": "gccc",
+      "cost": [
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "相手のバトルポケモンをどくとねむりにする。"

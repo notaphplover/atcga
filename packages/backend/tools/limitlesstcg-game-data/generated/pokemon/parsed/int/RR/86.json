@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [],
+      "effect": {
+        "en": "Search your discard pile for up to 5 Pokémon, show them to your opponent, and shuffle them into your deck."
+      },
+      "name": {
+        "en": "Rescue String"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."

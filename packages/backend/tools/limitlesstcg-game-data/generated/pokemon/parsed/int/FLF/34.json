@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Your opponent reveals his or her hand. Discard a Trainer card you find there.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

@@ -3,7 +3,11 @@
   "abilityName": "Cold Fat",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Dewgong is now Asleep."

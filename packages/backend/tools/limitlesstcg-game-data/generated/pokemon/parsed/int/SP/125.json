@@ -3,7 +3,11 @@
   "abilityName": "Malevolent Charge",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 50 more damage for each Prize card your opponent has taken.",

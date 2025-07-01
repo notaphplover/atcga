@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ddcc",
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."

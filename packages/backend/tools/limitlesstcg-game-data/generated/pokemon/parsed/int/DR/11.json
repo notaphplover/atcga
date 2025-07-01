@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Prevent all effects of attacks, including damage, done to Shedinja by your opponent's Evolved Pokémon and Pokémon-ex.",
   "abilityName": "Wonder Guard",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter, plus 1 more damage counter for each damage counter on Shedinja, on the Defending Pokémon."
+      },
+      "name": {
+        "en": "Damage Curse"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 30,
   "imageUrls": {

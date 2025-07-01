@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put 2 Pokémon from your discard pile into your hand.",
+        "fr": "Ajoutez 2 Pokémon de votre pile de défausse à votre main.",
+        "de": "Nimm 2 Pokémon von deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi due Pokémon dalla tua pila degli scarti e aggiungili alle carte che hai in mano.",
+        "es": "Pon 2 Pokémon de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Bail Out",
+        "fr": "Renflouage",
+        "de": "Freilassen",
+        "it": "Soccorso",
+        "es": "Sacar de Apuros"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If you have more Prize cards left than your opponent, this attack does 80 more damage.",

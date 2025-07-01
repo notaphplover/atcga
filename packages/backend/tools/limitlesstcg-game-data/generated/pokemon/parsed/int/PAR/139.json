@@ -3,7 +3,9 @@
   "abilityName": "Coin Bonus",
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard any number of Basic Energy cards from your hand. This attack does 50 damage for each card you discarded in this way.",

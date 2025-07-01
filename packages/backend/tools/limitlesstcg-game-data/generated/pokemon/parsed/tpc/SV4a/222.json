@@ -3,7 +3,10 @@
   "abilityName": "なぞのすいせい",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

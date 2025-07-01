@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many [F] Energy cards and attach them to Groudon Star."
@@ -11,7 +13,13 @@
       }
     },
     {
-      "cost": "fffcc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard a [F] Energy card attached to Groudon Star."

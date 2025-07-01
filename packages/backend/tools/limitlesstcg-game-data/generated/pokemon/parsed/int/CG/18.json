@@ -3,7 +3,10 @@
   "abilityName": "Delta Sign",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

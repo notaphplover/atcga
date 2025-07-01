@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, any damage done to Cubone by attacks is reduced by 20."
+      },
+      "name": {
+        "en": "Teary Eyes"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

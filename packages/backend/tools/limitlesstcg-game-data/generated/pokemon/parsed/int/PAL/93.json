@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Move all damage counters from 1 of your Benched Pokémon to your opponent's Active Pokémon.",
+        "fr": "Déplacez tous les marqueurs de dégâts de l'un de vos Pokémon de Banc vers le Pokémon Actif de votre adversaire.",
+        "de": "Verschiebe alle Schadensmarken von 1 Pokémon auf deiner Bank auf das Aktive Pokémon deines Gegners.",
+        "it": "Sposta tutti i segnalini danno da uno dei tuoi Pokémon in panchina al Pokémon attivo del tuo avversario.",
+        "pt": "Mova todos os contadores de dano de 1 dos seus Pokémon no Banco para o Pokémon Ativo do seu oponente.",
+        "es": "Mueve todos los contadores de daño de uno de tus Pokémon en Banca al Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Tail Swap",
+        "fr": "Échange-Queue",
+        "de": "Schweiftausch",
+        "it": "Codascambio",
+        "pt": "Troca de Cauda",
+        "es": "Coletazo Intercambio"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

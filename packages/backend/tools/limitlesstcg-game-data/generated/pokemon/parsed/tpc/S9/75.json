@@ -3,7 +3,10 @@
   "abilityName": "おんそくかいひ",
   "attacks": [
     {
-      "cost": "wf",
+      "cost": [
+        "w",
+        "f"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "自分の山札を上から2枚トラッシュする。"

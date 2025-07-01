@@ -3,7 +3,9 @@
   "abilityName": "Star Barrier",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent has only 1 Prize card left, this attack does 10 damage plus 30 more damage."

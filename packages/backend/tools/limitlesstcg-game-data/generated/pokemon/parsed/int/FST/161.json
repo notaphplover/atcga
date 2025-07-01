@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 90 more damage.",

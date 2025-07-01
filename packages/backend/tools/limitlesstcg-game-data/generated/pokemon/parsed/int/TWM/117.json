@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 10.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Actif de votre adversaire jusqu'à ce qu'il ne lui reste que 10 PV.",
+        "de": "Lege so lange Schadensmarken auf das Aktive Pokémon deines Gegners, bis seine verbleibenden KP gleich 10 sind.",
+        "it": "Metti dei segnalini danno sul Pokémon attivo del tuo avversario finché i suoi PS rimanenti diventano 10.",
+        "pt": "Coloque contadores de dano no Pokémon Ativo do seu oponente até o PS restante dele ser 10.",
+        "es": "Pon contadores de daño en el Pokémon Activo de tu rival hasta que le queden 10 PS."
+      },
+      "name": {
+        "en": "Dastardly Jab",
+        "fr": "Coup Ignoble",
+        "de": "Schurkischer Stich",
+        "it": "Stoccata Ignobile",
+        "pt": "Punhalada Indecorosa",
+        "es": "Puya Vil"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

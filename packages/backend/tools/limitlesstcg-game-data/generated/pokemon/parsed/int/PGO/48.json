@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "160+",
       "effect": {
         "en": "This attack does 60 more damage for each extra [M] Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 120 damage in this way.",

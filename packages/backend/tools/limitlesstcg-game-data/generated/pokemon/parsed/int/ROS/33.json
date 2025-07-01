@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If you go first, you can use this attack on your first turn. Draw 2 cards.",
+        "fr": "Si vous jouez en premier, vous pouvez utiliser cette attaque lors de votre premier tour. Piochez 2 cartes.",
+        "de": "Wenn du als Erster am Zug bist, kannst du diesen Angriff während deines ersten Zuges einsetzen. Ziehe 2 Karten.",
+        "it": "Se inizi per primo, puoi usare questo attacco durante il tuo primo turno. Pesca due carte.",
+        "es": "Si sales primero, puedes usar este ataque durante tu primer turno. Roba 2 cartas."
+      },
+      "name": {
+        "en": "Close Encounter",
+        "fr": "Rencontre de l'Au-delà",
+        "de": "Erste Begegnung",
+        "it": "Incontro Ravvicinato",
+        "es": "Encuentro Cercano"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your next turn, this Pokémon's Overdrive Smash attack does 60 more damage (before applying Weakness and Resistance).",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Does 50 damage times the number of Special Energy cards in your opponent's discard pile.",
@@ -16,6 +18,26 @@
         "de": "Schattenklau",
         "it": "Rubaombra",
         "es": "Robasombras"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on 1 of your opponent's Pokémon.",
+        "fr": "Placez 4 marqueurs de dégâts sur 1 des Pokémon de votre adversaire.",
+        "de": "Lege 4 Schadensmarken auf 1 Pokémon deines Gegners.",
+        "it": "Metti quattro segnalini danno su uno dei Pokémon del tuo avversario.",
+        "es": "Pon 4 contadores de daño en 1 de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Plentiful Placement",
+        "fr": "Placement Multiple",
+        "de": "Reiche Saat",
+        "it": "Elargizione",
+        "es": "Colocación Copiosa"
       }
     }
   ],

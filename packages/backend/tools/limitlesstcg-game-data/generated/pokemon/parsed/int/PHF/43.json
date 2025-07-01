@@ -1,7 +1,29 @@
 {
   "abilityEffect": "If this Pokémon is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
   "abilityName": "Fainting Spell",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 6 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 6 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez.",
+        "de": "Verteile 6 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Distribuisci a piacimento sei segnalini danno sui Pokémon del tuo avversario.",
+        "es": "Pon 6 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Cursed Drop",
+        "fr": "Chute Maudite",
+        "de": "Verfluchter Fall",
+        "it": "Caduta Maledetta",
+        "es": "Caída Maldita"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

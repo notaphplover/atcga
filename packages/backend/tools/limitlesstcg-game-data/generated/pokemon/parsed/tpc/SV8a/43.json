@@ -3,7 +3,10 @@
   "abilityName": "でたとこチョイス",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "70×",
       "effect": {
         "jp": "コインを3回投げ、オモテの数×70ダメージ。"

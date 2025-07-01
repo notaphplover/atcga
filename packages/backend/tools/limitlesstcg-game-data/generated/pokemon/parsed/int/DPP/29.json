@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "50×",
       "effect": {
         "en": "Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded."
@@ -11,7 +11,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Search your discard pile for all [F] Energy cards, show them to your opponent, and shuffle them into your deck."

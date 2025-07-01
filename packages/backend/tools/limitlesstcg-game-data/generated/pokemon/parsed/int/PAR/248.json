@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {
@@ -14,7 +18,12 @@
       }
     },
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "If your opponent's Pokémon is Knocked Out by damage from this attack, take 1 more Prize card.",

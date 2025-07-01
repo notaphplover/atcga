@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to 1 of your opponent's Pokémon for each [D] Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire pour chaque Énergie [D] attachée à ce Pokémon. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt für jede an dieses Pokémon angelegte [D]-Energie 1 Pokémon deines Gegners 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 30 danni a uno dei Pokémon del tuo avversario per ogni Energia [D] assegnata a questo Pokémon. Non applicare debolezza e resistenza ai Pokémon in panchina.",
+        "pt": "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente para cada Energia [D] ligada a este Pokémon (não aplique Fraqueza e Resistência aos Pokémon no Banco).",
+        "es": "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival por cada Energía [D] unida a este Pokémon. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Longhair Shot",
+        "fr": "Tir Chevelu",
+        "de": "Langhaarschuss",
+        "it": "Colpo Capellone",
+        "pt": "Disparo Cabeludo",
+        "es": "Disparo Melenudo"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

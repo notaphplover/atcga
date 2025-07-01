@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Move an Energy attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each [G] Energy attached to all of your Pokémon."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "210",
       "effect": {
         "en": "Heal 30 damage from this Pokémon."

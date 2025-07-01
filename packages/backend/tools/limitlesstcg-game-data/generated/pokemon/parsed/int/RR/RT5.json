@@ -3,7 +3,21 @@
   "abilityName": "Wash Shift",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 3 damage counters from each of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Cleanse Away"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, choose 1 card from your opponent's hand without looking and discard it."

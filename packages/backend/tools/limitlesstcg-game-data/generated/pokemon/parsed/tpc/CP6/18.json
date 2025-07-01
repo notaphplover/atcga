@@ -3,7 +3,12 @@
   "abilityName": "バーニングロード",
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

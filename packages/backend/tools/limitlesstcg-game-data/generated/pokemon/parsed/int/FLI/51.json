@@ -3,7 +3,11 @@
   "abilityName": "Psychic Recharge",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

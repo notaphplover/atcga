@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Search your deck for Meltan and put it onto your Bench. Then, shuffle your deck."
+      },
+      "name": {
+        "en": "Multiply"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

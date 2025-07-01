@@ -3,7 +3,11 @@
   "abilityName": "やまおろし",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "コインを2回投げ、すべてウラなら、このワザは失敗。"

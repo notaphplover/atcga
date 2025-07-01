@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards.",
+        "fr": "Piochez 2 cartes.",
+        "de": "Ziehe 2 Karten.",
+        "it": "Pesca due carte.",
+        "es": "Roba 2 cartas."
+      },
+      "name": {
+        "en": "Double Draw",
+        "fr": "Double Pioche",
+        "de": "Zweifachzug",
+        "it": "Pescata Doppia",
+        "es": "Roba Doble"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If you played a Supporter card from your hand during this turn, this attack does 80 more damage.",
@@ -16,6 +38,24 @@
         "de": "Feinfühlige Klinge",
         "it": "Lamasensibile",
         "es": "Cuchilla Sensible"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put any number of your Pokémon in play and all cards attached to them into your hand. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Placez autant de vos Pokémon en jeu que vous voulez, ainsi que toutes les cartes qui leur sont attachées, dans votre main. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Nimm beliebig viele deiner Pokémon im Spiel und alle an sie angelegten Karten auf deine Hand. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi un numero qualsiasi di Pokémon che hai in gioco e tutte le carte loro assegnate e aggiungili alle carte che hai in mano. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Breeze Away-GX",
+        "fr": "Brise Opportune-GX",
+        "de": "Fortwehen-GX",
+        "it": "Folata Rapida-GX",
+        "es": "Irse Alegremente-GX"
       }
     }
   ],

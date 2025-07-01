@@ -3,7 +3,10 @@
   "abilityName": "Unnerve",
   "attacks": [
     {
-      "cost": "rm",
+      "cost": [
+        "r",
+        "m"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

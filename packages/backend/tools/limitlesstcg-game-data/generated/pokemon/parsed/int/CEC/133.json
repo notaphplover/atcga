@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a Special Energy from 1 of your opponent's Pokémon.",
+        "fr": "Défaussez une Énergie spéciale de l'un des Pokémon de votre adversaire.",
+        "de": "Lege 1 Spezial-Energie von 1 Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia speciale assegnata a uno dei Pokémon del tuo avversario.",
+        "es": "Descarta 1 Energía Especial de 1 de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Ominous News",
+        "fr": "Mauvais Augure",
+        "de": "Unheilsbote",
+        "it": "Notizie Allarmanti",
+        "es": "Noticias Aciagas"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard a card from your hand. If you can't discard a card, this attack does nothing.",

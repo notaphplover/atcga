@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -18,6 +20,29 @@
         "it": "Ombraimpronta",
         "pt": "Timbre de Sombra",
         "es": "Impresión Sombría"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If you use this attack when you have only 1 Prize card remaining, you win this game.",
+        "fr": "Si vous utilisez cette attaque alors qu'il ne vous reste qu’une seule carte Récompense, vous gagnez cette partie.",
+        "de": "Wenn du diese Attacke einsetzt und nur 1 verbleibende Preiskarte hast, gewinnst du dieses Spiel.",
+        "it": "Se usi questo attacco quando hai solo una carta Premio rimanente, vinci la partita.",
+        "pt": "Se você usar este ataque quando tiver apenas 1 carta de Prêmio restante, você vencerá esta partida.",
+        "es": "Si usas este ataque cuando te queda solo 1 carta de Premio, ganas esta partida."
+      },
+      "name": {
+        "en": "Victory Symbol",
+        "fr": "Symbole Victorieux",
+        "de": "Siegessymbol",
+        "it": "Simbolo di Vittoria",
+        "pt": "Símbolo da Vitória",
+        "es": "Símbolo de Victoria"
       }
     }
   ],

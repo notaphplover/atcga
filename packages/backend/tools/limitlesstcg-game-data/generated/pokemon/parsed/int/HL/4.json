@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gd",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 1 [G] or [D] Energy card from your hand to your Pokémon."
+      },
+      "name": {
+        "en": "Dark Provide"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "d"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

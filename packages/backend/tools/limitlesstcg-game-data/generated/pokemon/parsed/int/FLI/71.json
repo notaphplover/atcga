@@ -3,7 +3,9 @@
   "abilityName": "Earthen Aura",
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If your opponent has an Ultra Beast in play, this attack does 30 more damage.",

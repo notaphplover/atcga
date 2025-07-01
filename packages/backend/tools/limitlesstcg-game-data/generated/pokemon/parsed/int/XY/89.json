@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Énergie de base dans votre deck et attachez-la à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach einer Basis-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia base e assegnala a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Energía Básica y únela a 1 de tus Pokémon. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Gather Energy",
+        "fr": "Récolte d'Énergie",
+        "de": "Energie sammeln",
+        "it": "Raccoglienergia",
+        "es": "Acopio de Energía"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon can't attack during your opponent's next turn.",

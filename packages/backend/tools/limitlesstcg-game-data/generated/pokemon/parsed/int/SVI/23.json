@@ -3,7 +3,11 @@
   "abilityName": "Enriching Oil",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "150",
       "effect": {},
       "name": {

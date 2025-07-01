@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can’t retreat.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 90 more damage.",

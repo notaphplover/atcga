@@ -3,7 +3,23 @@
   "abilityName": "Temperamental Weather",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+      },
+      "name": {
+        "en": "Flurries"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If Magnetic Storm is in play, this attack does 50 damage plus 20 more damage."

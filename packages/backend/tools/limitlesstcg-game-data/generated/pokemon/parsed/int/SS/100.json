@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If you don't have any Benched Pokémon, this attack does nothing. Remove 3 damage counters from Wailord ex. Switch Wailord ex with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Super Deep Dive"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100-",
       "effect": {
         "en": "Does 100 damage minus 10 damage for each damage counter on Wailord ex."

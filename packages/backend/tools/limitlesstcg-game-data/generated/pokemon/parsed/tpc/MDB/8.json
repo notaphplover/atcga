@@ -3,7 +3,9 @@
   "abilityName": "ダイビングドロー",
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10×",
       "effect": {
         "jp": "おたがいの場にいるポケモンの数x10ダメージ。"

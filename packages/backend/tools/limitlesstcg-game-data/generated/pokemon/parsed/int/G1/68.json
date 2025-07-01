@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle your deck."
+      },
+      "name": {
+        "en": "Fidget"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40-",
       "effect": {
         "en": "Does 40 damage minus 10 damage for each damage counter on Brock's Mankey."

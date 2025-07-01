@@ -3,7 +3,9 @@
   "abilityName": "Lightweight",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Hoppip does 10 damage to itself."

@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [],
+      "effect": {
+        "en": "During your next turn, this Pokémon's Bite attack's base damage is 60.",
+        "fr": "Pendant votre prochain tour, les dégâts de base de l'attaque Morsure de ce Pokémon sont de 60.",
+        "de": "Während deines nächsten Zuges beträgt der Grundschaden der Attacke Biss dieses Pokémon 60 Schadenspunkte.",
+        "it": "Durante il tuo prossimo turno, i danni base dell'attacco Morso di questo Pokémon sono 60.",
+        "es": "Durante tu próximo turno, el daño básico del ataque Mordisco de este Pokémon es de 60."
+      },
+      "name": {
+        "en": "Focus Energy",
+        "fr": "Puissance",
+        "de": "Energiefokus",
+        "it": "Focalenergia",
+        "es": "Foco Energía"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

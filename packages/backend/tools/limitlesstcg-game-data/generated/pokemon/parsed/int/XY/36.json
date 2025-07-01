@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 30 damage and remove all Special Conditions from this Pokémon.",
+        "fr": "Soignez 30 dégâts et retirez tous les États Spéciaux de ce Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei diesem Pokémon. Alle Speziellen Zustände auf diesem Pokémon verlieren ihre Wirkung.",
+        "it": "Cura questo Pokémon da 30 danni e rimuovi tutte le condizioni speciali che lo influenzano.",
+        "es": "Cura 30 puntos de daño y elimina todas las Condiciones Especiales de este Pokémon."
+      },
+      "name": {
+        "en": "Refresh",
+        "fr": "Régénération",
+        "de": "Heilung",
+        "it": "Rinfrescata",
+        "es": "Alivio"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 20 more damage for each heads.",

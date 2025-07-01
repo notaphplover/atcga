@@ -3,7 +3,10 @@
   "abilityName": "ベンチバリア",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "jp": "コインを4回投げ、オモテの数x10ダメージ。"

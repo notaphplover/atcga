@@ -3,7 +3,9 @@
   "abilityName": "Squawk and Seize",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",

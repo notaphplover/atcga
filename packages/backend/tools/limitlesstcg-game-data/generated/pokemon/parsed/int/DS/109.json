@@ -3,7 +3,10 @@
   "abilityName": "Evolutionary Thunder",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard a [L] Energy card attached to Jolteon ex."

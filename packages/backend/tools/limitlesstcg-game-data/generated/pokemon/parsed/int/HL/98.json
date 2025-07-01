@@ -3,7 +3,11 @@
   "abilityName": "Healing Stone",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may do 60 damage plus 20 more damage. If you do, Regirock ex does 30 damage to itself."

@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rl",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, search your discard pile for a basic Energy card and attach it to Rayquaza ex."
+      },
+      "name": {
+        "en": "Spiral Growth"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Discard either all [R] Energy or all [L] Energy attached to Rayquaza ex. This attack does 40 damage times the amount of [R] or [L] Energy discarded."

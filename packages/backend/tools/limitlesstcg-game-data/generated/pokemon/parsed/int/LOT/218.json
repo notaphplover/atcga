@@ -3,7 +3,11 @@
   "abilityName": "Crushing Charge",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Discard any amount of basic Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way.",
@@ -18,6 +22,25 @@
         "de": "Lavaschub",
         "it": "Flussolava",
         "es": "Corriente de Lava"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard the top 5 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez les 5 cartes du dessus du deck de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege die obersten 5 Karten des Decks deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta le prime cinque carte del mazzo del tuo avversario. Non puoi usare più di un attacco GX a partita.",
+        "es": "Descarta las 5 primeras cartas de la baraja de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Burning Magma-GX",
+        "fr": "Magma Brûlant-GX",
+        "de": "Brennendes Magma-GX",
+        "it": "Magma Incandescente-GX",
+        "es": "Magma Ardiente-GX"
       }
     }
   ],

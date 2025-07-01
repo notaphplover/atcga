@@ -3,7 +3,11 @@
   "abilityName": "Mantine Surf",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

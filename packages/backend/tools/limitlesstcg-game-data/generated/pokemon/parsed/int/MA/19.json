@@ -3,7 +3,11 @@
   "abilityName": "Overheat",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may move a [R] Energy card attached to Team Magma's Camerupt to 1 of your Benched Pokémon."

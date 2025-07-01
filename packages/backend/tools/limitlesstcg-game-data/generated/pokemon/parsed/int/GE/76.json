@@ -3,7 +3,9 @@
   "abilityName": "Gravity Change",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may discard any Stadium card in play."

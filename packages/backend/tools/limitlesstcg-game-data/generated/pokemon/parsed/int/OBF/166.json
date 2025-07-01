@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your hand to 1 of your Pokémon.",
+        "fr": "Attachez une carte Énergie de votre main à l'un de vos Pokémon.",
+        "de": "Lege 1 Energiekarte aus deiner Hand an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon una carta Energia dalla tua mano.",
+        "pt": "Ligue uma carta de Energia da sua mão a 1 dos seus Pokémon.",
+        "es": "Une 1 carta de Energía de tu mano a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Cheer Up",
+        "fr": "Courage !",
+        "de": "Aufmuntern",
+        "it": "Incitare",
+        "pt": "Animar",
+        "es": "Alegrón"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

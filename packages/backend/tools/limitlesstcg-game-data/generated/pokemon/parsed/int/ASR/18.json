@@ -3,7 +3,11 @@
   "abilityName": "Star Perfume",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "130+",
       "effect": {
         "en": "You may put an Energy attached to this Pokémon into your hand. If you do, this attack does 100 more damage.",

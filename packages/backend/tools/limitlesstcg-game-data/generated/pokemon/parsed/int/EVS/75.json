@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Attach an Energy card from your hand to 1 of your Benched Pokémon. If you do, heal 120 damage from that Pokémon.",
+        "fr": "Attachez une carte Énergie de votre main à l'un de vos Pokémon de Banc. Dans ce cas, soignez 120 dégâts de ce Pokémon-là.",
+        "de": "Lege 1 Energiekarte aus deiner Hand an 1 Pokémon auf deiner Bank an. Wenn du das machst, heile 120 Schadenspunkte bei jenem Pokémon.",
+        "it": "Assegna a uno dei tuoi Pokémon in panchina una carta Energia dalla tua mano. Se lo fai, cura quel Pokémon da 120 danni.",
+        "pt": "Ligue 1 carta de Energia da sua mão a 1 dos seus Pokémon no Banco. Se fizer isto, cure 120 pontos de dano daquele Pokémon.",
+        "es": "Une 1 carta de Energía de tu mano a 1 de tus Pokémon en Banca. Si lo haces, cura 120 puntos de daño a ese Pokémon."
+      },
+      "name": {
+        "en": "Precious Touch",
+        "fr": "Touche Précieuse",
+        "de": "Edle Berührung",
+        "it": "Tocco Prezioso",
+        "pt": "Toque Precioso",
+        "es": "Toque Precioso"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "This attack does 30 more damage for each different type of Pokémon on your Bench.",

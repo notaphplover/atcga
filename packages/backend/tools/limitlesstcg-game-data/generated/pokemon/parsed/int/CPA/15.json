@@ -3,7 +3,11 @@
   "abilityName": "Solid Shell",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "160+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 80 more damage.",

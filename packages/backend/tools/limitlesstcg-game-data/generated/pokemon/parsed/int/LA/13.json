@@ -3,7 +3,11 @@
   "abilityName": "Steel Coating",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Choose a number of your opponent's Benched Pokémon up to the amount of [M] Energy attached to Probopass. This attack does 20 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"

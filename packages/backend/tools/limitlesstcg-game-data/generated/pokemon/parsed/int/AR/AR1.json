@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 60 more damage."

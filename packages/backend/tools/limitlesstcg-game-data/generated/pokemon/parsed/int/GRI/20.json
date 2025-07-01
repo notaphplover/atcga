@@ -3,7 +3,11 @@
   "abilityName": "Slush Rush",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",

@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 30 damage from each of your Pokémon."
+      },
+      "name": {
+        "en": "Aromatherapy"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon."

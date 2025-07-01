@@ -3,7 +3,10 @@
   "abilityName": "Form Change",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Energy attached to Deoxys ex and the Defending Pokémon."

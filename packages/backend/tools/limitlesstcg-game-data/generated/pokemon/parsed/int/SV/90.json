@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Pit Search"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Bench Barrier",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 4 coins. This attack does 10 damage times the number of heads.",

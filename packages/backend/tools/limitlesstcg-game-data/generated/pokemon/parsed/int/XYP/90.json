@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If Pikachu is on your Bench, draw 3 cards."
+      },
+      "name": {
+        "en": "Summoning Draw"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 2 coins. This attack does 30 damage times the number of heads."

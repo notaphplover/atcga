@@ -1,11 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Flop"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for an Evolution card named Gyarados or Dark Gyarados and put it on Magikarp. (This counts as evolving Magikarp.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Rapid Evolution"
       }
     }
   ],

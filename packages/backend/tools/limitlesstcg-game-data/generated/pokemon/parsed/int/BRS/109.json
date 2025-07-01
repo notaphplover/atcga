@@ -3,7 +3,10 @@
   "abilityName": "Sonic Slip",
   "attacks": [
     {
-      "cost": "wf",
+      "cost": [
+        "w",
+        "f"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",

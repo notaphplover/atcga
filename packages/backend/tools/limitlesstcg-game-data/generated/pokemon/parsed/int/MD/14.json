@@ -3,7 +3,11 @@
   "abilityName": "Sheet Lightning",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Does 40 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage."

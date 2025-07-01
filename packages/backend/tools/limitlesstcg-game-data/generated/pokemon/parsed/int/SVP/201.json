@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard your hand and draw 6 cards.",
+        "fr": "Défaussez votre main, puis piochez 6 cartes.",
+        "de": "Lege deine Handkarten auf deinen Ablagestapel und ziehe 6 Karten.",
+        "it": "Scarta le carte che hai in mano e pesca sei carte.",
+        "pt": "Descarte a sua mão e compre 6 cartas.",
+        "es": "Descarta las cartas de tu mano y roba 6 cartas."
+      },
+      "name": {
+        "en": "Full Speed",
+        "fr": "Pleine Vitesse",
+        "de": "Full Speed",
+        "it": "Piena Velocità",
+        "pt": "Velocidade Máxima",
+        "es": "A Toda Velocidad"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

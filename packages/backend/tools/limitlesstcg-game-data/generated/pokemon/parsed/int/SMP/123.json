@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If you have exactly 6 Prize cards remaining, this attack does 20 more damage for each damage counter on this Pokémon."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon."

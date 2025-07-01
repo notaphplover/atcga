@@ -3,7 +3,11 @@
   "abilityName": "Restoration",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance.",
@@ -18,6 +22,27 @@
         "de": "Dunkle Spaltung",
         "it": "Fendente Oscuro",
         "es": "Hendidura Oscura"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, ce dernier est mis K.O. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wenn das Aktive Pokémon deines Gegners von einem Speziellen Zustand betroffen ist, ist jenes Pokémon kampfunfähig. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Se il Pokémon attivo del tuo avversario è influenzato da una condizione speciale, quel Pokémon viene messo KO. Non puoi usare più di un attacco GX a partita.",
+        "es": "Si el Pokémon Activo de tu rival se ve afectado por una Condición Especial, ese Pokémon queda Fuera de Combate. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Dead End-GX",
+        "fr": "Sans Issue-GX",
+        "de": "Sackgasse-GX",
+        "it": "Vicolo Cieco-GX",
+        "es": "Sin Retorno-GX"
       }
     }
   ],

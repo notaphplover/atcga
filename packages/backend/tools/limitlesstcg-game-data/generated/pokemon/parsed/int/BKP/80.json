@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {
@@ -10,6 +13,27 @@
         "de": "Metallklaue",
         "it": "Ferrartigli",
         "es": "Garra Metal"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Pokémon for each [C] in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de votre adversaire pour chaque [C] dans son Coût de Retraite. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 10 Schadenspunkte für jedes [C]-Symbol in den Rückzugskosten des jeweiligen Pokémon zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 10 danni a ciascuno dei Pokémon del tuo avversario per ogni [C] nel costo di ritirata di quel Pokémon. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 10 puntos de daño a cada uno de los Pokémon de tu rival por cada [C] en su Coste de Retirada. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Spike Lash",
+        "fr": "Coup d'Fouet à Clous",
+        "de": "Stachelhieb",
+        "it": "Frustapunte",
+        "es": "Azote Púas"
       }
     }
   ],

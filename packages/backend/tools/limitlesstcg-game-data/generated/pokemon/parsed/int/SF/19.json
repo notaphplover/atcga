@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "30×",
       "effect": {
         "en": "Does 30 damage times the number of Magikarp in your discard pile."
@@ -11,7 +11,10 @@
       }
     },
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, discard the top card from your opponent's deck."
@@ -21,7 +24,13 @@
       }
     },
     {
-      "cost": "wwccc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card from each of your opponent's Pokémon."

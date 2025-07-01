@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a [G] Energy card from your hand to Shroomish."
+      },
+      "name": {
+        "en": "Growth Spurt"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

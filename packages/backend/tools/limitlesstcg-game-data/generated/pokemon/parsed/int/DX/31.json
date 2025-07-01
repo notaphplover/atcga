@@ -3,7 +3,10 @@
   "abilityName": "Self-control",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove 1 damage counter from Golbat."

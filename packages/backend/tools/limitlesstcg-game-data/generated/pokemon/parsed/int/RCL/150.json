@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",
@@ -18,6 +22,30 @@
         "it": "Martelpugno",
         "pt": "Braço de Martelo",
         "es": "Machada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard your opponent's Active Pokémon and all attached cards.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez le Pokémon Actif de votre adversaire et toutes les cartes attachées.",
+        "de": "Wirf 1 Münze. Lege bei Kopf das Aktive Pokémon deines Gegners und alle angelegten Karten auf seinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, scarta il Pokémon attivo del tuo avversario e tutte le carte a esso assegnate.",
+        "pt": "Jogue 1 moeda. Se sair cara, descarte o Pokémon Ativo do seu oponente e todas as cartas ligadas a ele.",
+        "es": "Lanza 1 moneda. Si sale cara, descarta el Pokémon Activo de tu rival y todas las cartas unidas a él."
+      },
+      "name": {
+        "en": "Big Throw",
+        "fr": "Grand Lancer",
+        "de": "Großer Wurf",
+        "it": "Gran Lancio",
+        "pt": "Arremessão",
+        "es": "Gran Lanzamiento"
       }
     }
   ],

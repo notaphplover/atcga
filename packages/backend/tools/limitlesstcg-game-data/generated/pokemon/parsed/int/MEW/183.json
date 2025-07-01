@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "330",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",

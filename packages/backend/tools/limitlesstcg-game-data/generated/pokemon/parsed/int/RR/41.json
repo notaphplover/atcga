@@ -3,7 +3,23 @@
   "abilityName": "Frost Wind",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Ice Blade"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If your opponent doesn't discard a card from his or her hand, the Defending Pokémon is now Paralyzed."

@@ -3,7 +3,11 @@
   "abilityName": "ポイズンアップ",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

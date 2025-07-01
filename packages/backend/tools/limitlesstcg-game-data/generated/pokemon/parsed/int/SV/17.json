@@ -3,7 +3,11 @@
   "abilityName": "Compound Eyes",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Choose either Burned or Poisoned. The Defending Pokémon is now affected by that Special Condition."

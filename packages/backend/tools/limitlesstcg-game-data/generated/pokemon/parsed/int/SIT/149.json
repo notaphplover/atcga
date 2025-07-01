@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [],
+      "effect": {
+        "en": "Put 3 damage counters on each of your opponent's Pokémon that has any damage counters on it.",
+        "fr": "Placez 3 marqueurs de dégâts sur chacun des Pokémon de votre adversaire ayant au moins un marqueur de dégâts.",
+        "de": "Lege 3 Schadensmarken auf jedes Pokémon deines Gegners, auf dem mindestens 1 Schadensmarke liegt.",
+        "it": "Metti tre segnalini danno su ciascuno dei Pokémon del tuo avversario che ha dei segnalini danno.",
+        "pt": "Coloque 3 contadores de dano em cada um dos Pokémon do seu oponente que tiver algum contador de dano nele.",
+        "es": "Pon 3 contadores de daño en cada uno de los Pokémon de tu rival que tenga algún contador de daño sobre él."
+      },
+      "name": {
+        "en": "Eerie Cry",
+        "fr": "Cri Inquiétant",
+        "de": "Schauriger Schrei",
+        "it": "Grido Inquietante",
+        "pt": "Brado Bizarro",
+        "es": "Llanto Escalofriante"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

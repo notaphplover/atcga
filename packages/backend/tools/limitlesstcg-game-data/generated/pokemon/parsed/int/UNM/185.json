@@ -1,7 +1,27 @@
 {
   "abilityEffect": "If this Pokémon remains Asleep between turns, put 6 damage counters on your opponent's Active Pokémon.",
   "abilityName": "Drowsing",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "This Pokémon is now Asleep.",
+        "fr": "Ce Pokémon est maintenant Endormi.",
+        "de": "Dieses Pokémon schläft jetzt.",
+        "it": "Questo Pokémon viene addormentato.",
+        "es": "Este Pokémon pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Snooze",
+        "fr": "Roupillon",
+        "de": "Schlummern",
+        "it": "Sonnellino",
+        "es": "Cabezada"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

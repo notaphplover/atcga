@@ -3,7 +3,11 @@
   "abilityName": "Fast Call",
   "attacks": [
     {
-      "cost": "wlc",
+      "cost": [
+        "w",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

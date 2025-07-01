@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso e avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido y Envenenado."
+      },
+      "name": {
+        "en": "Void Tentacles",
+        "fr": "Tentacules du Néant",
+        "de": "Tentakel der Leere",
+        "it": "Tentacoli Annichilenti",
+        "es": "Tentáculos Nihilistas"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Ultra Beasts.",

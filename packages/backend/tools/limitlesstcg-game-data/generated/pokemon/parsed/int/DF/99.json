@@ -1,13 +1,42 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Shock-wave marker on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Electromark"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If the Defending Pokémon is a Stage 2 Evolved Pokémon, this attack does 70 damage plus 20 more damage."
       },
       "name": {
         "en": "Hyper Claws"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon that has any Shock-wave markers on it. That Pokémon is Knocked Out."
+      },
+      "name": {
+        "en": "Shock-wave"
       }
     }
   ],

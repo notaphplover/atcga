@@ -3,7 +3,10 @@
   "abilityName": "Solidarity",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Draw 2 cards.",

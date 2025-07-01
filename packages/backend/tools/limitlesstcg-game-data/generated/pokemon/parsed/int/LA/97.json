@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [],
+      "effect": {
+        "en": "Remove 2 damage counters from Gloom. Gloom is now Asleep."
+      },
+      "name": {
+        "en": "Space Out"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."

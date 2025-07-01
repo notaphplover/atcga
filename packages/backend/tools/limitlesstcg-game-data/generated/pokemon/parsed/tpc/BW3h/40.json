@@ -3,7 +3,11 @@
   "abilityName": "かいふくふうじ",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "jp": "相手の手札の枚数x10ダメージを追加。"

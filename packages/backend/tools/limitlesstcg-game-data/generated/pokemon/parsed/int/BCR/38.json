@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Lancez une pièce. Si c'est face, cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "it": "Lancia una moneta. Se esce testa, cerca nel tuo mazzo una carta qualsiasi e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Lanza una moneda. Si sale cara, busca en tu baraja una carta y ponla en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Present",
+        "fr": "Cadeau",
+        "de": "Geschenk",
+        "it": "Regalino",
+        "es": "Presente"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Asleep.",

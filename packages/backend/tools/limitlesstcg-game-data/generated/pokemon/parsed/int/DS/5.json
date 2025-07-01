@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Search your deck for a Holon Energy card and attach it to Flareon. Shuffle your deck afterward."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "rmc",
+      "cost": [
+        "r",
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may return an Energy card attached to Flareon to your hand. If you do, the Defending Pokémon is now Burned."

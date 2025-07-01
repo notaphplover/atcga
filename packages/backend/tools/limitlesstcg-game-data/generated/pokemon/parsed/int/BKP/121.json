@@ -3,7 +3,11 @@
   "abilityName": "Purifying Fire",
   "attacks": [
     {
-      "cost": "gwl",
+      "cost": [
+        "g",
+        "w",
+        "l"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

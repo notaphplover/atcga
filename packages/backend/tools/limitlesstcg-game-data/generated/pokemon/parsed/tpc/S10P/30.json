@@ -3,7 +3,10 @@
   "abilityName": "いしきのとばり",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

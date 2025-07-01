@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "このポケモンのHPを「20」回復する。"
+      },
+      "name": {
+        "jp": "めいそう"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

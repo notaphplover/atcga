@@ -3,7 +3,21 @@
   "abilityName": "Temperamental Weather",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Draw up to 5 cards."
+      },
+      "name": {
+        "en": "Scattered Shower"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If Low Pressure System is in play, the Defending Pokémon is now Confused."

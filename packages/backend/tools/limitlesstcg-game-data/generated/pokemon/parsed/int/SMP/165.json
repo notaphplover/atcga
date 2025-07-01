@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "ppmm",
+      "cost": [
+        "p",
+        "p",
+        "m",
+        "m"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If the total of both players' remaining Prize cards is 6 or less, discard all Energy from this Pokémon, and this attack does 100 more damage."

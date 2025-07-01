@@ -3,7 +3,10 @@
   "abilityName": "いあつのがんこう",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "jp": "相手の山札を上から2枚トラッシュする。"

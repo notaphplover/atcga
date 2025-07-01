@@ -3,7 +3,10 @@
   "abilityName": "Fossil Bind",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

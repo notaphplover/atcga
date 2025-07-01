@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 Stage 1 Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 2 Pokémon de Niveau 1 et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Phase-1-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due Pokémon di Fase 1 e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 2 Pokémon Estágio 1 no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 2 Pokémon de Fase 1 y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Psy Call",
+        "fr": "Appel Psy",
+        "de": "Psyruf",
+        "it": "Psicochiamata",
+        "pt": "Chamado Psíquico",
+        "es": "Psicollamada"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

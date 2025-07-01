@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, discard a card from your opponent's hand without looking.",
+        "fr": "Lancez 3 pièces. Pour chaque face, défaussez une carte de la main de votre adversaire sans la regarder.",
+        "de": "Wirf 3 Münzen. Wähle pro „Kopf“ 1 Karte von der Hand deines Gegners (ohne sie vorher anzusehen) und lege sie auf seinen Ablagestapel.",
+        "it": "Lancia 3 volte una moneta. Ogni volta che esce testa, scarta senza guardare una delle carte che il tuo avversario ha in mano.",
+        "es": "Lanza 3 monedas. Por cada cara, descarta una carta de la mano de tu rival sin mirar."
+      },
+      "name": {
+        "en": "Sharpen Claws",
+        "fr": "Affûtage des griffes",
+        "de": "Krallenschärfer",
+        "it": "Affilartigli",
+        "es": "Garras afiladas"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If Persian has any [D] Energy attached to it, this attack does 30 damage plus 30 more damage.",

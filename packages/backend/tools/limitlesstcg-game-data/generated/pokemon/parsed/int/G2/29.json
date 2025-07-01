@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "20",
       "effect": {
         "en": "All Pokémon Powers stop working until the end of your opponent's next turn."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

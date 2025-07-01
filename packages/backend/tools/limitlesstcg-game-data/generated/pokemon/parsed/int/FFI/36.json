@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent reveals his or her hand. You may choose a Supporter card you find there. If you do, your opponent plays that Supporter card. However, you make all decisions for that card. (That Supporter card is discarded.)",
+        "fr": "Votre adversaire montre sa main. Vous pouvez choisir une carte Supporter que vous y trouvez. Dans ce cas, votre adversaire joue la carte Supporter. Cependant, vous prenez toutes les décisions relatives à la carte. (La carte Supporter est défaussée.)",
+        "de": "Dein Gegner deckt seine Handkarten auf. Wenn du darunter 1 Unterstützerkarte findest, kannst du deinen Gegner veranlassen, diese zu spielen. Wenn du das tust, triffst du alle Entscheidungen für diese Karte. (Diese Unterstützerkarte wird auf den Ablagestapel deines Gegners gelegt.)",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Puoi scegliere una carta Aiuto presente tra quelle carte. Se lo fai, il tuo avversario gioca quella carta Aiuto. Tuttavia, prendi tu le decisioni per quella carta (la carta Aiuto viene poi scartata).",
+        "es": "Tu rival enseña las cartas de su mano. Puedes elegir 1 carta de Partidario que encuentres entre ellas. Si lo haces, tu rival juega esa carta de Partidario. Sin embargo, tú tomas todas las decisiones sobre esa carta. (Esa carta de Partidario queda descartada)."
+      },
+      "name": {
+        "en": "Hand Control",
+        "fr": "Main Contrôlée",
+        "de": "Handkontrolle",
+        "it": "Controllamano",
+        "es": "Control de Mano"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

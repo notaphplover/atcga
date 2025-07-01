@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 40 more damage for each damage counter on your opponent's Active Pokémon.",

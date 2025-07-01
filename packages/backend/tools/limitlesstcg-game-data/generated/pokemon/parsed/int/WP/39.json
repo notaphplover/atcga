@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on the Defending Pokémon for each damage counter on Misdreavus."
+      },
+      "name": {
+        "en": "Pain Split"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."

@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for 2 [G] Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+        "fr": "Cherchez 2 Pokémon [G] de base dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 2 [G]-Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck."
+      },
+      "name": {
+        "en": "Call for Family",
+        "fr": "Appel à la Famille",
+        "de": "Familienruf"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

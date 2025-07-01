@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 3 cards of your deck and put them back on top of your deck in any order.",
+        "fr": "Regardez les 3 cartes du dessus de votre deck et replacez-les sur le dessus de votre deck dans l'ordre de votre choix.",
+        "de": "Schau dir die obersten 3 Karten deines Decks an und lege sie in beliebiger Reihenfolge zurück auf dein Deck.",
+        "it": "Guarda le prime tre carte del tuo mazzo e rimettile in cima al mazzo nell'ordine che preferisci.",
+        "es": "Mira las 3 primeras cartas de tu baraja y vuelve a ponerlas en la parte superior de tu baraja en el orden que quieras."
+      },
+      "name": {
+        "en": "Clairvoyant Eye",
+        "fr": "Œil Clairvoyant",
+        "de": "Hellsehendes Auge",
+        "it": "Chiaroveggenza",
+        "es": "Ojo Clarividente"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard a [R] Energy attached to this Pokémon.",

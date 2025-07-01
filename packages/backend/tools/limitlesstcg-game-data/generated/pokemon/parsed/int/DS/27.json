@@ -3,7 +3,10 @@
   "abilityName": "Delta Storm",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, this attack does 20 damage plus 20 more damage."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

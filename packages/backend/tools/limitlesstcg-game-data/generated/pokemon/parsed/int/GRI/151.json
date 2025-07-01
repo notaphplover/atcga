@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -13,7 +15,13 @@
       }
     },
     {
-      "cost": "wwwcc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard a Special Energy from your opponent's Active Pokémon.",
@@ -31,7 +39,13 @@
       }
     },
     {
-      "cost": "wwwcc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",

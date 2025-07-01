@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "mccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself.",
@@ -19,7 +24,13 @@
       }
     },
     {
-      "cost": "mcccc",
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 100 damage times the number of heads.",

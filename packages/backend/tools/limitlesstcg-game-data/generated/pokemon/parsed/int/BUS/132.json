@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each Prize card you have taken.",
@@ -19,7 +22,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {
@@ -28,6 +34,25 @@
         "de": "Hitzestoß",
         "it": "Caldobomba",
         "es": "Explosión de Calor"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
+      "effect": {
+        "en": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez toute l'Énergie du Pokémon Actif de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege alle Energien vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta tutte le Energie assegnate al Pokémon attivo del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Queen's Haze-GX",
+        "fr": "Brume de Reine-GX",
+        "de": "Dunst der Königin-GX",
+        "it": "Foschia della Regina-GX",
+        "es": "Niebla Regia-GX"
       }
     }
   ],

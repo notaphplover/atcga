@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard all Energy from this Pokémon. At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out.",
+        "fr": "Défaussez toutes les Énergies de ce Pokémon. À la fin du prochain tour de votre adversaire, le Pokémon Défenseur sera mis K.O.",
+        "de": "Lege alle Energien von diesem Pokémon auf deinen Ablagestapel. Am Ende des nächsten Zuges deines Gegners wird das Verteidigende Pokémon kampfunfähig.",
+        "it": "Scarta tutte le Energie da questo Pokémon. Alla fine del prossimo turno del tuo avversario, il Pokémon difensore verrà messo KO.",
+        "pt": "Descarte todas as Energias deste Pokémon. No final do próximo turno do seu oponente, o Pokémon Defensor será Nocauteado.",
+        "es": "Descarta todas las Energías de este Pokémon. Al final del próximo turno de tu rival, el Pokémon Defensor quedará Fuera de Combate."
+      },
+      "name": {
+        "en": "Slow Crunch",
+        "fr": "Mâchouille Lente",
+        "de": "Langsamer Knirscher",
+        "it": "Sgranocchio Lento",
+        "pt": "Esmagada Lenta",
+        "es": "Trituración Lenta"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

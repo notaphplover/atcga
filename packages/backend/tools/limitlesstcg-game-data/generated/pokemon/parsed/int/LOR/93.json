@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "Put the top 3 cards of your deck in the Lost Zone.",
@@ -18,6 +22,27 @@
         "it": "Picchiata Perduta",
         "pt": "Mergulho Perdido",
         "es": "Zambullida Perdida"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Until this Pokémon leaves play, it gains an Ability that has the effect “Your opponent's Pokémon V in play, except any Aerodactyl VSTAR, have no Abilities.” (You can't use more than 1 VSTAR Power in a game.)",
+        "fr": "Tant que ce Pokémon est en jeu, il obtient un talent ayant l'effet « Les Pokémon-V en jeu de votre adversaire, à l'exception d'un Ptéra-VSTAR, n'ont pas de talent ». (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+        "de": "Bis dieses Pokémon das Spiel verlässt, erhält es eine Fähigkeit mit dem Effekt „Die Pokémon-V deines Gegners im Spiel, außer Aerodactyl-VSTAR, haben keine Fähigkeiten.“ (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+        "it": "Finché questo Pokémon rimane in gioco, possiede un'abilità che ha l'effetto: “i Pokémon-V in gioco del tuo avversario, a eccezione di qualsiasi Aerodactyl-V ASTRO, non hanno abilità”. Non puoi usare più di un Potere V ASTRO a partita.",
+        "pt": "Até este Pokémon sair de jogo, ele ganhará uma Habilidade com o efeito “Os Pokémon V do seu oponente em jogo, exceto por quaisquer Aerodactyl V-ASTRO, não têm Habilidades.” (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+        "es": "Mientras este Pokémon esté en juego, obtiene una habilidad que tiene el siguiente efecto: “Los Pokémon V en juego de tu rival, excepto los Aerodactyl V-ASTRO, no tienen ninguna habilidad”. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      },
+      "name": {
+        "en": "Ancient Star",
+        "fr": "Star Ancestrale",
+        "de": "Urzeitstern",
+        "it": "Astro Antico",
+        "pt": "Ancião Astral",
+        "es": "Astro Ancestral"
       }
     }
   ],

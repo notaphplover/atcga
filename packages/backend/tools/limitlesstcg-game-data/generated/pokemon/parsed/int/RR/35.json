@@ -3,7 +3,11 @@
   "abilityName": "Royal Gain",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin for each [G] Energy attached to Vespiquen E4. This attack does 30 damage plus 20 more damage for each heads."

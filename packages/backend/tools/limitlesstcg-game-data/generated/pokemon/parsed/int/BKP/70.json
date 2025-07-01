@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Attach an Energy card from your discard pile to 1 of your Pokémon.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 80 more damage.",

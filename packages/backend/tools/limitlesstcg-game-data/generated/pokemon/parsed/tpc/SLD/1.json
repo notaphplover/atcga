@@ -3,7 +3,10 @@
   "abilityName": "ナイトアセット",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

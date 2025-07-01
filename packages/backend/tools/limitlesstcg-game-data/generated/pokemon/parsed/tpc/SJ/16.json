@@ -3,7 +3,11 @@
   "abilityName": "ふとうのつるぎ",
   "attacks": [
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "230",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

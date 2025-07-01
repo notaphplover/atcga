@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for a [W] Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez un Pokémon [W] dans votre deck, montrez-le à votre adversaire, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [W]-Pokémon-Karte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon [W], mostralo al tuo avversario e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo un Pokémon [W], enséñaselo a tu rival y ponlo en tu mano. Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Group Swim",
+        "fr": "Nage de groupe",
+        "de": "Schwimmgruppe",
+        "it": "Nuoto di Gruppo",
+        "es": "Natación en grupo"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Mantine can't attack during your next turn.",

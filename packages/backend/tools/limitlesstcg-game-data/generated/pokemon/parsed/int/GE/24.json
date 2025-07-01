@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [],
+      "effect": {
+        "en": "Choose 1 face-down Prize card (yours or your opponent's) and put it face up. If that card is a Supporter card, use the effect of that card as the effect of this attack. (That card remains face up for the rest of the game.)"
+      },
+      "name": {
+        "en": "Pick Out"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage."

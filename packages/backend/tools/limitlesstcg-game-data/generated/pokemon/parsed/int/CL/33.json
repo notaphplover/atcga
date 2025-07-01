@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all damage counters from Snorlax. Snorlax can't use Layabout during your next turn.",
+        "fr": "Retirez tous ses marqueurs de dégâts à Ronflex. Ronflex ne peut pas utiliser Traîne-savates pendant votre prochain tour.",
+        "de": "Entferne alle Schadensmarken von Relaxo. Relaxo kann Faulenzer in deinem nächsten Zug nicht einsetzen.",
+        "it": "Togli tutti i segnalini danno da Snorlax. Durante il tuo prossimo turno, Snorlax non può usare Mollaccione."
+      },
+      "name": {
+        "en": "Layabout",
+        "fr": "Traîne-savates",
+        "de": "Faulenzer",
+        "it": "Mollaccione"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Put 1 Energy card attached to Snorlax in the Lost Zone.",

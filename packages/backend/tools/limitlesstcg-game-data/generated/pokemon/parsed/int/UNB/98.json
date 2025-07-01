@@ -3,7 +3,11 @@
   "abilityName": "Free Flight",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you played Janine from your hand during this turn, this attack does 90 more damage.",

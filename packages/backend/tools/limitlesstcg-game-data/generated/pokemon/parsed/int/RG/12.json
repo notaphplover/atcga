@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 [L] Energy cards and attach them to Raichu. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Recharge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may move any number of [L] Energy cards attached to Raichu to another of your Pokémon."

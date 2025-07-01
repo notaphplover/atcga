@@ -3,7 +3,9 @@
   "abilityName": "Power Circulation",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Remove 1 damage counter from Mantine."

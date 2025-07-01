@@ -3,7 +3,11 @@
   "abilityName": "Extra Boost",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Remove 1 damage counter from each of your Pokémon."

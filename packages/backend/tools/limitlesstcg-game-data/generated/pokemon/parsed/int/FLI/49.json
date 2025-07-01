@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, if the Defending Pokémon is damaged by an attack, it will be Knocked Out.",
+        "fr": "Pendant votre prochain tour, si le Pokémon Défenseur subit les dégâts d'une attaque, il sera mis K.O.",
+        "de": "Wenn das Verteidigende Pokémon während deines nächsten Zuges durch eine Attacke Schaden erhält, wird es kampfunfähig.",
+        "it": "Durante il tuo prossimo turno, il Pokémon difensore viene messo KO se viene danneggiato da un attacco.",
+        "es": "Durante tu próximo turno, si el Pokémon Defensor resulta dañado por un ataque, quedará Fuera de Combate."
+      },
+      "name": {
+        "en": "Ticking Knock Out",
+        "fr": "K.O. Imminent",
+        "de": "Tickender K. o.",
+        "it": "KO a Orologeria",
+        "es": "Fuera de Combate Inminente"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

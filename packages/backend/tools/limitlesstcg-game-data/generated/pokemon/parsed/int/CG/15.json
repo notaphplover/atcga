@@ -3,7 +3,22 @@
   "abilityName": "Spike Storm",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Choose 3 of your opponent's Pokémon. This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Triple Needle"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

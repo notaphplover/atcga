@@ -3,7 +3,10 @@
   "abilityName": "Star Portal",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Attach a basic Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie de base de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 1 Basis-Energiekarte von deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia base dalla tua pila degli scarti.",
+        "es": "Une una carta de Energía Básica de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Abundant Harvest",
+        "fr": "Récolte Abondante",
+        "de": "Hülle und Fülle",
+        "it": "Granraccolto",
+        "es": "Cosecha Abundante"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",

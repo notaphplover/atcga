@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "ffccc",
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 30 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Twin-blade"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This attack's damage is not affected by Resistance."

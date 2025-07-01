@@ -3,7 +3,12 @@
   "abilityName": "Plunge",
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Flip a number of coins equal to the amount of [W] Energy attached to Poliwrath. This attack does 40 damage plus 10 more damage for each heads."

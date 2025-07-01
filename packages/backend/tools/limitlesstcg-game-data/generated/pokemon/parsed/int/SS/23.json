@@ -1,13 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each damage counter on Steelix."
       },
       "name": {
         "en": "Rage"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spinning Tail"
       }
     }
   ],

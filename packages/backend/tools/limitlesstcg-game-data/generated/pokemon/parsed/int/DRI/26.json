@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic [G] Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck une carte Énergie [G] de base, puis attachez-la à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-[G]-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia base [G] e assegnala a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por uma carta de Energia [G] Básica no seu baralho e ligue-a a 1 dos seus Pokémon. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta de Energía [G] Básica y únela a uno de tus Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Grass Kagura",
+        "fr": "Kagura Plante",
+        "de": "Pflanzen-Kagura",
+        "it": "Kagura dell'Erba",
+        "pt": "Kagura de Planta",
+        "es": "Kagura Planta"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Ogre's Hammer.",

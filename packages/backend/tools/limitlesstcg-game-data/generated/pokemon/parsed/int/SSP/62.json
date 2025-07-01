@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "pt": "Compre uma carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Add On",
+        "fr": "Ajout",
+        "de": "Hinzufügen",
+        "it": "Supplemento",
+        "pt": "Adicionar",
+        "es": "Sumar"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

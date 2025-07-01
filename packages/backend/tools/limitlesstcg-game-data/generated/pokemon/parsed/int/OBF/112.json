@@ -3,7 +3,9 @@
   "abilityName": "Custom Trap",
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

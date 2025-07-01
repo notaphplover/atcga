@@ -1,5 +1,50 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Search your deck for a card and put it into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por 1 carta no seu baralho e coloque-a na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Chase Up",
+        "fr": "Relancer",
+        "de": "Dampf machen",
+        "it": "Rincorrere",
+        "pt": "Perseguir",
+        "es": "Perseguir"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 10.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Actif de votre adversaire jusqu'à ce qu'il ne lui reste que 10 PV.",
+        "de": "Lege so lange Schadensmarken auf das Aktive Pokémon deines Gegners, bis seine verbleibenden KP gleich 10 sind.",
+        "it": "Metti dei segnalini danno sul Pokémon attivo del tuo avversario finché i suoi PS rimanenti diventano 10.",
+        "pt": "Coloque contadores de dano no Pokémon Ativo do seu oponente até o PS restante dele ser 10.",
+        "es": "Pon contadores de daño en el Pokémon Activo de tu rival hasta que le queden 10 PS."
+      },
+      "name": {
+        "en": "Super Fang",
+        "fr": "Croc Fatal",
+        "de": "Superzahn",
+        "it": "Superzanna",
+        "pt": "Superpresa",
+        "es": "Superdiente"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 120,
   "imageUrls": {

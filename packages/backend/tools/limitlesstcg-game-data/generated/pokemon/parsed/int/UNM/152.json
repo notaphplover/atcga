@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wlc",
+      "cost": [
+        "w",
+        "l",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
@@ -13,7 +17,13 @@
       }
     },
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "270",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",
@@ -28,6 +38,25 @@
         "de": "Himmelsurteil",
         "it": "Giudizio Celeste",
         "es": "Juicio Celeste"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You may discard any number of cards from your hand until you have 9 or fewer. Draw cards until you have 10 cards in your hand. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Vous pouvez défausser autant de cartes que vous voulez de votre main jusqu'à en avoir 9 ou moins. Piochez des cartes jusqu'à ce que vous ayez 10 cartes en main. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Du kannst beliebig viele Karten aus deiner Hand auf deinen Ablagestapel legen, bis du 9 oder weniger Karten auf der Hand hast. Ziehe so lang Karten, bis du 10 Karten auf deiner Hand hast. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Puoi scartare un numero qualsiasi di carte che hai in mano finché ne hai nove o meno. Pesca fino ad avere 10 carte in mano. Non puoi usare più di un attacco GX a partita.",
+        "es": "Puedes descartar cualquier cantidad de cartas de tu mano hasta que tengas 9 o menos. Roba cartas hasta que tengas 10 cartas en tu mano. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Mach Delivery-GX",
+        "fr": "Livraison Flash-GX",
+        "de": "Überschall-Lieferung-GX",
+        "it": "Consegna Mach-GX",
+        "es": "Reparto Mach-GX"
       }
     }
   ],

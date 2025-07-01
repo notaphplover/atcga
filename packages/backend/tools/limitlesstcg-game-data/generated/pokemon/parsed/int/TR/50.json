@@ -3,7 +3,9 @@
   "abilityName": "Gather Fire",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

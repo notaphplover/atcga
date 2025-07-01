@@ -1,13 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If any Stadium card with Holon in its name is in play, draw 3 cards."
       },
       "name": {
         "en": "Scratch and Draw"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent chooses 1 of his or her Pokémon. Put 4 damage counters on that Pokémon."
+      },
+      "name": {
+        "en": "Deceive"
       }
     }
   ],

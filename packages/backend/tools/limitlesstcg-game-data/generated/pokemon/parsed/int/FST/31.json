@@ -3,7 +3,10 @@
   "abilityName": "Byway of the Nine-Tailed Fox",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

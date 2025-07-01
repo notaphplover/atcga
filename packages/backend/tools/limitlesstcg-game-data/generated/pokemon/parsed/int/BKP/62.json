@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ppcc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Double the number of damage counters on each of your opponent's Pokémon.",
+        "fr": "Doublez le nombre de marqueurs de dégâts sur chacun des Pokémon de votre adversaire.",
+        "de": "Verdopple die Anzahl der Schadensmarken auf jedem Pokémon deines Gegners.",
+        "it": "Raddoppia il numero di segnalini danno su ciascuno dei Pokémon del tuo avversario.",
+        "es": "Dobla el número de contadores de daño en cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Painful Sword",
+        "fr": "Lame Douloureuse",
+        "de": "Schwertschmerz",
+        "it": "Spada Funesta",
+        "es": "Espada Dolorosa"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

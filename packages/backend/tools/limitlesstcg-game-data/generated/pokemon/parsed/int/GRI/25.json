@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for a Poliwag, a Poliwhirl, and a Poliwrath, and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Cherchez un Ptitard, un Têtarte et un Tartard dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Quapsel, 1 Quaputzi und 1 Quappo und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Poliwag, un Poliwhirl e un Poliwrath e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 Poliwag, 1 Poliwhirl y 1 Poliwrath, y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Roll Call",
+        "fr": "Liste d'Appel",
+        "de": "Appell",
+        "it": "Convocazione",
+        "es": "Pasar Lista"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "You may shuffle this Pokémon and all cards attached to it into your deck.",

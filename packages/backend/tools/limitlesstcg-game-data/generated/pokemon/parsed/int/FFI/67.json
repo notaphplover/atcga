@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -13,7 +16,10 @@
       }
     },
     {
-      "cost": "dd",
+      "cost": [
+        "d",
+        "d"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 3 coins. This attack does 50 damage times the number of heads. This Pokémon is now Confused.",

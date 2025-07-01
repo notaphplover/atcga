@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If you have more Prize cards remaining than your opponent, this attack does 100 more damage.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

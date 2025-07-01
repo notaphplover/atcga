@@ -3,7 +3,11 @@
   "abilityName": "Soft Wool",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "This attack does 30 more damage for each Prize card your opponent has taken.",

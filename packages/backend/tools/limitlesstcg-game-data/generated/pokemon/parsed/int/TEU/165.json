@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there.",
@@ -16,6 +19,25 @@
         "de": "Poltergeist",
         "it": "Poltergeist",
         "es": "Poltergeist"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Your opponent can't play any cards from their hand during their next turn. If this Pokémon has at least 1 extra [P] Energy attached to it (in addition to this attack's cost), each player draws cards until they have 7 cards in their hand. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Votre adversaire ne peut pas jouer de carte de sa main pendant son prochain tour. Si au moins une Énergie [P] supplémentaire est attachée à ce Pokémon (en plus du coût de cette attaque), chaque joueur pioche jusqu'à avoir 7 cartes en main. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Dein Gegner kann während seines nächsten Zuges keine Karten aus seiner Hand spielen. Wenn an dieses Pokémon mindestens 1 extra [P]-Energie angelegt ist (zusätzlich zu den Kosten dieser Attacke), zieht jeder Spieler so lang Karten, bis er 7 Karten auf seiner Hand hat. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il tuo avversario non può giocare le carte che ha in mano durante il suo prossimo turno. Se questo Pokémon ha almeno un'Energia [P] extra assegnata, in aggiunta a quelle del costo di questo attacco, ciascun giocatore pesca fino ad avere sette carte in mano. Non puoi usare più di un attacco GX a partita.",
+        "es": "Tu rival no puede jugar ninguna carta de su mano durante su próximo turno. Si este Pokémon tiene por lo menos 1 Energía [P] adicional unida a él (además de las del coste de este ataque), cada jugador roba cartas hasta tener 7 cartas en su mano. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Horror House-GX",
+        "fr": "Maison Terrifiante-GX",
+        "de": "Spukhaus-GX",
+        "it": "Casa degli Orrori-GX",
+        "es": "Casa del Terror-GX"
       }
     }
   ],

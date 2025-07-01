@@ -3,7 +3,10 @@
   "abilityName": "Intimidating Roar",
   "attacks": [
     {
-      "cost": "rw",
+      "cost": [
+        "r",
+        "w"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",

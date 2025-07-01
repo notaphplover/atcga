@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 80 more damage.",

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Flip a coin for each [L] Energy attached to this Pokémon. This attack does 80 damage for each heads.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200-",
       "effect": {
         "en": "This attack does 30 less damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",

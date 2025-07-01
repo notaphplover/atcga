@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "mmmc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 2 [M] Energy cards from your discard pile to this Pokémon.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [M] de votre pile de défausse à ce Pokémon.",
+        "de": "Lege bis zu 2 [M]-Energiekarten aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon fino a due carte Energia [M] dalla tua pila degli scarti.",
+        "pt": "Ligue até 2 cartas de Energia [M] da sua pilha de descarte a este Pokémon.",
+        "es": "Une hasta 2 cartas de Energía [M] de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Metal Coating",
+        "fr": "Revêtement Métal",
+        "de": "Metallbeschichtung",
+        "it": "Metalcopertura",
+        "pt": "Camada Metálica",
+        "es": "Recubrimiento Metálico"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "180",
       "effect": {},
       "name": {

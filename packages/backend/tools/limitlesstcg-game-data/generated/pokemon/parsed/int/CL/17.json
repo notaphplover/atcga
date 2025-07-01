@@ -3,7 +3,11 @@
   "abilityName": "Roast Reveal",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

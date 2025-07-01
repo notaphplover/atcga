@@ -3,7 +3,10 @@
   "abilityName": "Counterattack",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "60",
       "effect": {
         "en": "During your next turn, this Pokémon's Excited Punch attack does 60 more damage (before applying Weakness and Resistance).",

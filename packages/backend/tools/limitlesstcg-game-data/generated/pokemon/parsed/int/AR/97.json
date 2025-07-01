@@ -1,7 +1,21 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may choose 1 of your opponent's Pokémon LV.X. Remove the Level-Up card from that Pokémon and have your opponent shuffle that card into his or her deck. The power can't be used if Gengar is affected by a Special Condition.",
   "abilityName": "Level-Down",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to each of your opponent's Pokémon that already has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Compound Pain"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 140,
   "imageUrls": {

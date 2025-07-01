@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 3 of your Pokémon. For each of those Pokémon, search your deck for a different type of basic Energy card and attach it to that Pokémon. Shuffle your deck afterward.",
+        "fr": "Choisissez 3 de vos Pokémon. Pour chacun de ces Pokémon, cherchez une carte Énergie de base de type différent dans votre deck et attachez-la au Pokémon. Mélangez ensuite votre deck.",
+        "de": "Wähle 3 deiner Pokémon im Spiel. Durchsuche dein Deck nach jeweils 1 vom Typ her anderen Basis-Energiekarte für jedes dieser Pokémon und lege sie an diese Pokémon an. Mische anschließend dein Deck.",
+        "it": "Scegli tre dei tuoi Pokémon. Per ognuno di essi, cerca nel tuo mazzo una carta Energia base di tipo diverso e assegnagliela. Poi rimischia le carte del tuo mazzo.",
+        "es": "Elige 3 de tus Pokémon. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía Básica de tipo diferente y únela a ese Pokémon. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Colorful Spores",
+        "fr": "Spores Colorées",
+        "de": "Bunte Sporen",
+        "it": "Sporarcobaleno",
+        "es": "Esporas de Colores"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

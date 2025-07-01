@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ddcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Discard the top card of your opponent's deck.",
+        "fr": "Défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Lege die oberste Karte des Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta la prima carta del mazzo del tuo avversario.",
+        "es": "Descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Mountain Munch",
+        "fr": "Dévore-Montagne",
+        "de": "Gipfelmampfer",
+        "it": "Sgranocchiacime",
+        "es": "Mascamontañas"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "If your opponent's Pokémon is Knocked Out by damage from this attack, take 1 more Prize card.",

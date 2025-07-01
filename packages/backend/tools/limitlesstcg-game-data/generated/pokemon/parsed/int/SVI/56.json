@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard the top card of your opponent's deck.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez la carte du dessus du deck de votre adversaire.",
+        "de": "Wirf 1 Münze. Lege bei Kopf die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, scarta la prima carta del mazzo del tuo avversario.",
+        "pt": "Jogue uma moeda. Se sair cara, descarte a carta de cima do baralho do seu oponente.",
+        "es": "Lanza 1 moneda. Si sale cara, descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Dig a Little",
+        "fr": "Creusement Léger",
+        "de": "Kleiner Schaufler",
+        "it": "Scava in Cima",
+        "pt": "Cavadinha",
+        "es": "Excavar un Poquito"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

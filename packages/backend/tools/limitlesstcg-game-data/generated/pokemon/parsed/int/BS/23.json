@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard 1 [R] Energy card attached to Arcanine in order to use this attack."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Arcanine does 30 damage to itself."

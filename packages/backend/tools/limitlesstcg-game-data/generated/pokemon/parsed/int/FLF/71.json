@@ -3,7 +3,11 @@
   "abilityName": "Poison Barrier",
   "attacks": [
     {
-      "cost": "wpc",
+      "cost": [
+        "w",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",

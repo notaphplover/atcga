@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, draw a card.",
+        "fr": "Lancez une pièce jusqu'à ce que vous obteniez un côté pile. Pour chaque côté face, piochez une carte.",
+        "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Ziehe pro Kopf 1 Karte.",
+        "it": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, pesca una carta.",
+        "es": "Lanza 1 moneda hasta que salga cruz. Por cada cara, roba 1 carta."
+      },
+      "name": {
+        "en": "Meal Time",
+        "fr": "À Belles Dents",
+        "de": "Mahlzeit",
+        "it": "Buon Appetito",
+        "es": "Hora de Comer"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

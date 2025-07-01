@@ -3,7 +3,11 @@
   "abilityName": "なぎのきょうち",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You may search your deck for any number of Basic Lillie's Pokémon and put them onto your Bench. Then, shuffle your deck.",
+        "fr": "Vous pouvez chercher dans votre deck le nombre voulu de Pokémon de Lilie de base, puis les placer sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Du kannst dein Deck nach beliebig vielen Basis-Lillys-Pokémon durchsuchen und sie auf deine Bank legen. Mische anschließend dein Deck.",
+        "it": "Puoi cercare nel tuo mazzo un numero qualsiasi di Pokémon di Lylia Base e metterli nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Você pode procurar por qualquer número de Pokémon da Lílian Básicos no seu baralho e colocá-los no seu Banco. Em seguida, embaralhe o seu baralho.",
+        "es": "Puedes buscar en tu baraja cualquier cantidad de Pokémon de Lylia Básicos y ponerlos en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Inviting Flowers",
+        "fr": "Fleurs Accueillantes",
+        "de": "Einladende Blumen",
+        "it": "Fiori Invitanti",
+        "pt": "Flores Convidativas",
+        "es": "Flores Cautivadoras"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Put this Pokémon and all attached cards into your hand.",

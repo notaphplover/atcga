@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 more damage for each damage counter on all of your Benched Pawniard.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

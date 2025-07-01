@@ -1,7 +1,24 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Lancez une pièce. Si c'est face, cherchez Incisache dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "it": "Lancia una moneta. Se esce testa, cerca Fraxure nel tuo mazzo, mostralo e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+      },
+      "name": {
+        "en": "Signs of Evolution",
+        "fr": "Signes d'Évolution",
+        "it": "Evolvisegni"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

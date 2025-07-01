@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent returns the Defending Pokémon and all cards attached to it to his or her hand."
+      },
+      "name": {
+        "en": "Gripthrow"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If Crawdaunt has a Technical Machine card attached to it, this attack does 50 damage plus 30 more damage."

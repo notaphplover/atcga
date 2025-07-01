@@ -3,7 +3,11 @@
   "abilityName": "Charging Up",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If you have exactly 3 Prize cards remaining, this attack does 80 more damage.",

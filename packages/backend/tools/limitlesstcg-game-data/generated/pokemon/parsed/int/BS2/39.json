@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Switch Exeggutor with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Teleport"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      },
+      "name": {
+        "en": "Fluffy Transport",
+        "fr": "Transport Coton",
+        "de": "Flauschiger Transport",
+        "it": "Trasporto Bambagia",
+        "es": "Transporte Sedoso"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the number of your remaining Prize cards.",

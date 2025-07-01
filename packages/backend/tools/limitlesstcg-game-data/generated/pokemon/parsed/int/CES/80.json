@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 20 more damage.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

@@ -3,7 +3,11 @@
   "abilityName": "Sand Guard",
   "attacks": [
     {
-      "cost": "glc",
+      "cost": [
+        "g",
+        "l",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, discard an Energy card attached to Flygon."

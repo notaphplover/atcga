@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "This attack does 70 damage for each Special Energy card attached to your opponent's Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "gr",
+      "cost": [
+        "g",
+        "r"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon V, this attack does 80 more damage.",

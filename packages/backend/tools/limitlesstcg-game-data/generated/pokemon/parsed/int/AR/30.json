@@ -3,7 +3,9 @@
   "abilityName": "Green Breath",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the amount of [G] Energy attached to Sceptile."
@@ -13,7 +15,12 @@
       }
     },
     {
-      "cost": "gccc",
+      "cost": [
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned."

@@ -1,7 +1,29 @@
 {
   "abilityEffect": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to this Pokémon.",
   "abilityName": "Shadow Void",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on 1 of your opponent's Pokémon equal to the number of damage counters on this Pokémon.",
+        "fr": "Placez autant de marqueurs de dégâts sur l'un des Pokémon de votre adversaire qu'il y a de marqueurs de dégâts sur ce Pokémon.",
+        "de": "Lege Schadensmarken auf 1 Pokémon deines Gegners entsprechend der Anzahl der Schadensmarken auf diesem Pokémon.",
+        "it": "Metti su uno dei Pokémon del tuo avversario un numero di segnalini danno pari al numero di segnalini danno presenti su questo Pokémon.",
+        "es": "Pon un número de contadores de daño en 1 de los Pokémon de tu rival igual al número de contadores de daño en este Pokémon."
+      },
+      "name": {
+        "en": "Pain Pellets",
+        "fr": "Points de Douleur",
+        "de": "Kummerkugeln",
+        "it": "Infliggipena",
+        "es": "Bolitas de Daño"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

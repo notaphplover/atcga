@@ -3,7 +3,9 @@
   "abilityName": "Nurse Call",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Draw cards until you have 6 cards in your hand."
@@ -13,7 +15,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Blissey does 60 damage to itself."

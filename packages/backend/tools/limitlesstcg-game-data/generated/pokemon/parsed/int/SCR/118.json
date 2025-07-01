@@ -3,7 +3,9 @@
   "abilityName": "Fan Call",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "If there is no Stadium in play, this attack does nothing.",

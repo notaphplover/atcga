@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "40×",
       "effect": {
         "en": "Discard up to 2 cards from your hand. This attack does 40 damage for each card you discarded in this way.",
@@ -19,7 +19,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",
@@ -34,6 +38,22 @@
         "de": "Hyperzahn",
         "it": "Iperzanna",
         "es": "Hipercolmillo"
+      }
+    },
+    {
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 6 Item cards, reveal them, and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cherchez jusqu'à 6 cartes Objet dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Durchsuche dein Deck nach bis zu 6 Itemkarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cerca nel tuo mazzo fino a sei carte Strumento, mostrale e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Item Maniac-GX",
+        "fr": "Fou d'Objets-GX",
+        "de": "Item-Fanatiker-GX",
+        "it": "Maniaco degli Strumenti-GX",
+        "es": "Maníaco de Objetos-GX"
       }
     }
   ],

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
@@ -19,7 +21,9 @@
       }
     },
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If this Pokémon used Agility during your last turn, this attack does 80 more damage.",

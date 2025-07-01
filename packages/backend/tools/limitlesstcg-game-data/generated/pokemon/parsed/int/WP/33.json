@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack Scizor during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Leer"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 damage plus 10 more damage for each heads."

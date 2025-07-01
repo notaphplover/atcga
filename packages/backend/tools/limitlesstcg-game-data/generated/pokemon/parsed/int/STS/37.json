@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
@@ -16,6 +19,27 @@
         "de": "Knirscher",
         "it": "Sgranocchio",
         "es": "Triturar"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
+      "effect": {
+        "en": "Discard the top 3 cards of your deck. For each [W] Energy card you discarded in this way, discard the top 3 cards of your opponent's deck.",
+        "fr": "Défaussez les 3 cartes du dessus de votre deck. Pour chaque carte Énergie [W] défaussée de cette façon, défaussez les 3 cartes du dessus du deck de votre adversaire.",
+        "de": "Lege die obersten 3 Karten deines Decks auf deinen Ablagestapel. Lege für jede [W]-Energie, die du auf diese Weise auf deinen Ablagestapel gelegt hast, die obersten 3 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta le prime tre carte del tuo mazzo. Per ogni carta Energia [W] scartata in questo modo, scarta le prime tre carte del mazzo del tuo avversario.",
+        "es": "Descarta las 3 primeras cartas de tu baraja. Por cada carta de Energía [W] descartada de esta manera, descarta las 3 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Melting Floe",
+        "fr": "Banquise Fondante",
+        "de": "Schmelzende Scholle",
+        "it": "Scioglibanchina",
+        "es": "Témpano Deshelante"
       }
     }
   ],

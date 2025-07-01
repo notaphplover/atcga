@@ -3,7 +3,10 @@
   "abilityName": "Screen Cleaner",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 3 coins. This attack does 50 damage for each heads.",

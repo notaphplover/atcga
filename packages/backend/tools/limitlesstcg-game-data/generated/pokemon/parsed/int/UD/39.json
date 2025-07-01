@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte dans votre deck et placez-la dans votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo 1 carta qualsiasi e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo."
+      },
+      "name": {
+        "en": "Chase Up",
+        "fr": "Relancer",
+        "de": "Dampf machen",
+        "it": "Rincorrere"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to Togetic during your opponent's next turn.",

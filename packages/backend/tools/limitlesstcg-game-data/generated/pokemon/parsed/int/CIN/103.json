@@ -3,7 +3,11 @@
   "abilityName": "Empty Light",
   "attacks": [
     {
-      "cost": "ppp",
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "120",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
@@ -18,6 +22,27 @@
         "de": "Einsperren",
         "it": "Bloccare",
         "es": "Encerrar"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Add the top 2 cards of your opponent's deck to their Prize cards. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Ajoutez les 2 cartes du dessus du deck de votre adversaire à ses cartes Récompense. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Füge die obersten 2 Karten des Decks deines Gegners seinen Preiskarten hinzu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Aggiungi le prime due carte del mazzo del tuo avversario alle sue carte Premio. Non puoi usare più di un attacco GX a partita.",
+        "es": "Añade las 2 primeras cartas de la baraja de tu rival a sus cartas de Premio. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Symbiont-GX",
+        "fr": "Parasite-GX",
+        "de": "Schmarotzer-GX",
+        "it": "Parasitus-GX",
+        "es": "Parásito-GX"
       }
     }
   ],

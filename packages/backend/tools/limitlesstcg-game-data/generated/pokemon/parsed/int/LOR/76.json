@@ -1,5 +1,46 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out.",
+        "fr": "À la fin du prochain tour de votre adversaire, le Pokémon Défenseur sera mis K.O.",
+        "de": "Am Ende des nächsten Zuges deines Gegners wird das Verteidigende Pokémon kampfunfähig.",
+        "it": "Alla fine del prossimo turno del tuo avversario, il Pokémon difensore verrà messo KO.",
+        "pt": "O Pokémon Defensor será Nocauteado no final do próximo turno do seu oponente.",
+        "es": "Al final del próximo turno de tu rival, el Pokémon Defensor quedará Fuera de Combate."
+      },
+      "name": {
+        "en": "Doom Curse",
+        "fr": "Malédiction Tragique",
+        "de": "Verhängnisvoller Fluch",
+        "it": "Maledizione Avversa",
+        "pt": "Maldição Sinistra",
+        "es": "Maldición Trágica"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put a card from your discard pile into your hand.",
+        "fr": "Ajoutez à votre main une carte de votre pile de défausse.",
+        "de": "Nimm 1 Karte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta dalla tua pila degli scarti e aggiungila a quelle che hai in mano.",
+        "pt": "Coloque 1 carta da sua pilha de descarte na sua mão.",
+        "es": "Pon 1 carta de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Call Back",
+        "fr": "Relance",
+        "de": "Rückruf",
+        "it": "Chiamata di Ritorno",
+        "pt": "Chamado de Volta",
+        "es": "Volver a Llamar"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 120,
   "imageUrls": {

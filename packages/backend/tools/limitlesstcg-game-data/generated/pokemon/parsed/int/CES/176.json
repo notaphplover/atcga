@@ -3,7 +3,11 @@
   "abilityName": "Ultra Wall",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {
@@ -15,7 +19,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 50 more damage for each Prize card you have taken. (You can't use more than 1 GX attack in a game.)",

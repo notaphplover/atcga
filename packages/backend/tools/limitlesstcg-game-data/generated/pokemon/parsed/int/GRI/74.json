@@ -3,7 +3,11 @@
   "abilityName": "Bloodthirsty Eyes",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {
@@ -15,7 +19,10 @@
       }
     },
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)",

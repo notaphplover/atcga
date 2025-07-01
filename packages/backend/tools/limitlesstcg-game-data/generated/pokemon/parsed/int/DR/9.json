@@ -3,7 +3,20 @@
   "abilityName": "Thick Skin",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 2 [G] Energy cards from your hand to your Pokémon in any way you like."
+      },
+      "name": {
+        "en": "Speed Growth"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon is now Asleep."

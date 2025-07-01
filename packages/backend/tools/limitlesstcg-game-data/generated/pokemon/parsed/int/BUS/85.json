@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, this Pokémon's Slash attack's base damage is 80.",
+        "fr": "Pendant votre prochain tour, les dégâts de base de l'attaque Tranche de ce Pokémon sont de 80.",
+        "de": "Während deines nächsten Zuges beträgt der Grundschaden der Attacke Schlitzer dieses Pokémon 80 Schadenspunkte.",
+        "it": "Durante il tuo prossimo turno, i danni base dell'attacco Lacerazione di questo Pokémon sono 80.",
+        "es": "Durante tu próximo turno, el daño básico del ataque Cuchillada de este Pokémon es de 80."
+      },
+      "name": {
+        "en": "Hone Claws",
+        "fr": "Aiguisage",
+        "de": "Klauenwetzer",
+        "it": "Unghiaguzze",
+        "es": "Afilagarras"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

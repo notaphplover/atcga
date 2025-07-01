@@ -3,7 +3,12 @@
   "abilityName": "とおせんぼ",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "jp": "このポケモンをねむりにする。"

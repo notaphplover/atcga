@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a Basic [M] Energy card from your discard pile to this Pokémon.",
+        "fr": "Attachez une carte Énergie [M] de base de votre pile de défausse à ce Pokémon.",
+        "de": "Lege 1 Basis-[M]-Energiekarte aus deinem Ablagestapel an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia base [M] dalla tua pila degli scarti.",
+        "pt": "Ligue uma carta de Energia [M] Básica da sua pilha de descarte a este Pokémon.",
+        "es": "Une 1 carta de Energía [M] Básica de tu pila de descartes a este Pokémon."
+      },
+      "name": {
+        "en": "Metal Coating",
+        "fr": "Revêtement Métal",
+        "de": "Metallbeschichtung",
+        "it": "Metalrivestimento",
+        "pt": "Camada Metálica",
+        "es": "Recubrimiento Metálico"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

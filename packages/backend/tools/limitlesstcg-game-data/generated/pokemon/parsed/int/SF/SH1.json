@@ -3,7 +3,9 @@
   "abilityName": "Unburden",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Drifloon does 50 damage to itself."

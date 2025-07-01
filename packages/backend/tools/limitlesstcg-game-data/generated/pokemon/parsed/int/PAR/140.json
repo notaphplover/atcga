@@ -3,7 +3,10 @@
   "abilityName": "Humming Heal",
   "attacks": [
     {
-      "cost": "wm",
+      "cost": [
+        "w",
+        "m"
+      ],
       "dmg": "140",
       "effect": {
         "en": "During your opponent's next turn, prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",

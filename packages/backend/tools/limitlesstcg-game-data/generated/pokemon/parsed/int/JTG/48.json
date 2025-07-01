@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l"
+      ],
+      "effect": {
+        "en": "This Pokémon does 100 damage to itself. Flip a coin. If heads, your opponent's Active Pokémon is Knocked Out.",
+        "fr": "Ce Pokémon s'inflige 100 dégâts. Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est mis K.O.",
+        "de": "Dieses Pokémon fügt sich selbst 100 Schadenspunkte zu. Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners kampfunfähig.",
+        "it": "Questo Pokémon infligge 100 danni a se stesso. Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene messo KO.",
+        "pt": "Este Pokémon causa 100 pontos de dano a si mesmo. Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente será Nocauteado.",
+        "es": "Este Pokémon se hace 100 puntos de daño a sí mismo. Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Thump-Thump Boom",
+        "fr": "Boum Boum Boum",
+        "de": "Tick-Tick-Bumm",
+        "it": "Tum Tum Bum",
+        "pt": "Tum Tum Bum",
+        "es": "Estallido Pum Pum"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

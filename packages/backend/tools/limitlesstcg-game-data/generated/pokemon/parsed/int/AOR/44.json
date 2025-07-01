@@ -1,5 +1,45 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Choose a Supporter card from your opponent's discard pile and use it as the effect of this attack.",
+        "fr": "Choisissez une carte Supporter de la pile de défausse de votre adversaire et utilisez-la en tant qu'effet de cette attaque.",
+        "de": "Wähle 1 Unterstützerkarte aus dem Ablagestapel deines Gegners und verwende sie als Effekt dieses Angriffs.",
+        "it": "Scegli una carta Aiuto dalla pila degli scarti del tuo avversario e usala come effetto di questo attacco.",
+        "es": "Elige 1 carta de Partidario de la pila de descartes de tu rival y úsala como efecto de este ataque."
+      },
+      "name": {
+        "en": "Bewitching Eyes",
+        "fr": "Yeux Ensorcelants",
+        "de": "Bezaubernde Augen",
+        "it": "Ammaliasguardo",
+        "es": "Ojos Hechizantes"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Active Pokémon.",
+        "fr": "Placez 3 marqueurs de dégâts sur le Pokémon Actif de votre adversaire.",
+        "de": "Lege 3 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti tre segnalini danno sul Pokémon attivo del tuo avversario.",
+        "es": "Pon 3 contadores de daño en el Pokémon Activo de tu rival."
+      },
+      "name": {
+        "en": "Furtive Drop",
+        "fr": "Chute Furtive",
+        "de": "Hinterhältiger Fall",
+        "it": "Lascito Furtivo",
+        "es": "Caída Furtiva"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

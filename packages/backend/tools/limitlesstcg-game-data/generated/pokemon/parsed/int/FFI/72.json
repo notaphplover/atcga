@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Move an Energy attached to your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your next turn, this Pokémon's Echoed Voice attack does 50 more damage (before applying Weakness and Resistance).",

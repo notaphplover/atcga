@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "wf",
+      "cost": [
+        "w",
+        "f"
+      ],
       "dmg": "40",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on the Defending Pokémon.",

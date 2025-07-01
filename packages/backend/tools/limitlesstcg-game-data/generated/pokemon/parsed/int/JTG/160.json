@@ -3,7 +3,9 @@
   "abilityName": "Exploding Needles",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

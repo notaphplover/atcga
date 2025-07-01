@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      "name": {
+        "en": "Attract"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

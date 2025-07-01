@@ -3,7 +3,20 @@
   "abilityName": "Bind Eye",
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10HP away from being Knocked Out. If you do, shuffle Gliscor and all cards attached to it back into your deck."
+      },
+      "name": {
+        "en": "Cutting Turn"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Burned."

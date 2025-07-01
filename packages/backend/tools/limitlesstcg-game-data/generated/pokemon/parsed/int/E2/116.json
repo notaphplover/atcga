@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If there are any [R] Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Vulpix."

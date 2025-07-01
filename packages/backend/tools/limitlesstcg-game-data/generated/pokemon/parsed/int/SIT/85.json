@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -14,7 +16,9 @@
       }
     },
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You can use this attack only if 1 of your Togedemaru used Toge Dash during your last turn. Your opponent's Active Pokémon is now Paralyzed.",

@@ -3,7 +3,10 @@
   "abilityName": "Precious Gift",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",

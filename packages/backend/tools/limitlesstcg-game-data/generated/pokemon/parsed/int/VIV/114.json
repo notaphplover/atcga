@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",
@@ -18,6 +22,30 @@
         "it": "Riduttore",
         "pt": "Desmantelar",
         "es": "Derribo"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Both Active Pokémon are Knocked Out.",
+        "fr": "Les deux Pokémon Actifs sont mis K.O.",
+        "de": "Beide Aktiven Pokémon werden kampfunfähig.",
+        "it": "Entrambi i Pokémon attivi vengono messi KO.",
+        "pt": "Ambos os Pokémon Ativos são Nocauteados.",
+        "es": "Ambos Pokémon Activos quedan Fuera de Combate."
+      },
+      "name": {
+        "en": "Double KO",
+        "fr": "Double K.O.",
+        "de": "Doppel-K.-o.",
+        "it": "Doppio KO",
+        "pt": "Abate Duplo",
+        "es": "Doble Noqueo"
       }
     }
   ],

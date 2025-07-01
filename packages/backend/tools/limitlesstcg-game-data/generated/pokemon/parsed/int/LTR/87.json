@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Each player can't play any ACE SPEC cards from his or her hand.",
   "abilityName": "Sealing Scream",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+      },
+      "name": {
+        "en": "Hexed Mirror"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

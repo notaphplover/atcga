@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance).",
@@ -18,6 +22,29 @@
         "it": "Fascino Magico",
         "pt": "Encanto Mágico",
         "es": "Encanto Mágico"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "l",
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Benched Pokémon. Shuffle those Pokémon and all attached cards into your opponent's deck. If 1 of your Pokémon used Angelite during your last turn, this attack can't be used.",
+        "fr": "Choisissez 2 des Pokémon de Banc de votre adversaire. Mélangez avec son deck ces Pokémon-là et toutes les cartes qui leur sont attachées. Si l'un de vos Pokémon a utilisé Angélite pendant votre dernier tour, cette attaque ne peut pas être utilisée.",
+        "de": "Wähle 2 Pokémon auf der Bank deines Gegners. Mische jene Pokémon und alle angelegten Karten in das Deck deines Gegners. Wenn 1 deiner Pokémon während deines letzten Zuges Angelit eingesetzt hat, kann diese Attacke nicht eingesetzt werden.",
+        "it": "Scegli due dei Pokémon nella panchina del tuo avversario. Rimischia quei Pokémon e tutte le carte a essi assegnate nel suo mazzo. Se uno dei tuoi Pokémon ha usato Angelite durante il tuo ultimo turno, questo attacco non può essere usato.",
+        "pt": "Escolha 2 dos Pokémon no Banco do seu oponente. Embaralhe aqueles Pokémon e todas as cartas ligadas a eles no baralho do seu oponente. Se 1 dos seus Pokémon usou Angelita durante o seu último turno, este ataque não poderá ser usado.",
+        "es": "Elige 2 de los Pokémon en Banca de tu rival. Pon esos Pokémon y todas las cartas unidas a ellos en la baraja de tu rival y barájalas todas. Si uno de tus Pokémon usó Angelita durante tu último turno, este ataque no se puede usar."
+      },
+      "name": {
+        "en": "Angelite",
+        "fr": "Angélite",
+        "de": "Angelit",
+        "it": "Angelite",
+        "pt": "Angelita",
+        "es": "Angelita"
       }
     }
   ],

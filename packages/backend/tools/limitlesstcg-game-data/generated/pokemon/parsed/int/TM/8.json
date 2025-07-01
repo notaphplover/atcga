@@ -3,7 +3,11 @@
   "abilityName": "Fiery Spirit",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon is now Burned and can't retreat during your opponent's next turn.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,6 +13,29 @@
         "it": "Morso",
         "pt": "Mordida",
         "es": "Mordisco"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top 3 cards of your opponent's deck.",
+        "fr": "Défaussez les 3 cartes du dessus du deck de votre adversaire.",
+        "de": "Lege die obersten 3 Karten des Decks deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta le prime tre carte del mazzo del tuo avversario.",
+        "pt": "Descarte as 3 cartas de cima do baralho do seu oponente.",
+        "es": "Descarta las 3 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Dredge Up",
+        "fr": "Extraction",
+        "de": "Ausbaggern",
+        "it": "Dragaggio",
+        "pt": "Dragar",
+        "es": "Ventilar"
       }
     }
   ],

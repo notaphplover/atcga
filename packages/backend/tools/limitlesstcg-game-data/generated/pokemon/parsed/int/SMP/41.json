@@ -3,7 +3,11 @@
   "abilityName": "Comatose",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing.",

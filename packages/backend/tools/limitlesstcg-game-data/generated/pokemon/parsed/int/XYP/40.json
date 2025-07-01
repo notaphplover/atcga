@@ -3,7 +3,9 @@
   "abilityName": "Metamorphosis Gene",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to this Pokémon."

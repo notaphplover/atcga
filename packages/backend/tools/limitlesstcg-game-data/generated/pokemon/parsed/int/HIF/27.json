@@ -3,7 +3,11 @@
   "abilityName": "Last Pattern",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If Jessie & James is in your discard pile, this attack does 80 more damage.",

@@ -1,5 +1,44 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a card that evolves from Kakuna and put it onto Kakuna. (This counts as evolving Kakuna.) Shuffle your deck afterward.",
+        "fr": "Cherchez dans votre deck une carte Évolution de Coconfort et placez-la sur Coconfort (cela équivaut à faire évoluer Coconfort). Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach einer Karte, die aus Kokuna entsteht, und lege sie auf Kokuna. (Dies zählt als Entwickeln von Kokuna.) Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta che evolve da Kakuna e mettila sopra Kakuna. (Conta come un'evoluzione di Kakuna.) Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo una carta que evolucione de Kakuna y ponla sobre Kakuna. (Esto cuenta como evolucionar a Kakuna.) Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Speed Evolution",
+        "fr": "Évolution rapide",
+        "de": "Tempo-Evolution",
+        "it": "Evoluzione rapida",
+        "es": "Evolución de rapidez"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Poisoned.",
+        "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+        "de": "Das Verteidigende Pokémon ist jetzt vergiftet.",
+        "it": "Il Pokémon Difensore è Avvelenato.",
+        "es": "El Pokémon Defensor pasa a estar Envenenado."
+      },
+      "name": {
+        "en": "Poison Sting",
+        "fr": "Dard-venin",
+        "de": "Giftstachel",
+        "it": "Velenospina",
+        "es": "Picotazo venenoso"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

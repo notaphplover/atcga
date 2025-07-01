@@ -3,7 +3,12 @@
   "abilityName": "Harvest Bounty",
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

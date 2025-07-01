@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "110",
       "effect": {
         "en": "If this Pokémon evolved during this turn, this attack does nothing.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "170",
       "effect": {},
       "name": {

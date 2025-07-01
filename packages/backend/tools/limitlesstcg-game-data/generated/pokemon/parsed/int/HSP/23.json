@@ -3,7 +3,11 @@
   "abilityName": "Shortcut",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Porygon2 does 10 damage to itself."

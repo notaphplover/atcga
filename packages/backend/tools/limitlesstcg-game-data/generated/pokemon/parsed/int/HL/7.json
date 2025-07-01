@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent has any Pokémon-ex in play, search your deck for up to 2 [G] Energy cards and attach them to Heracross. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Extra Draw"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance."

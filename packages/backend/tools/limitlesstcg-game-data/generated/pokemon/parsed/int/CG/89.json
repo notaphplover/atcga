@@ -3,7 +3,25 @@
   "abilityName": "Intimidating Armor",
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Pokémon. This attack doe 30 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Split Bomb"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "During your next turn, Aggron ex can't use Mega Burn."

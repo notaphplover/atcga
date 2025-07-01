@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "mccc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Look at the top 4 cards of your deck and attach any number of [M] Energy cards you find there to 1 of your Pokémon. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 4 cartes du dessus de votre deck et attachez le nombre désiré de cartes Énergie [M] que vous y trouverez à l'un de vos Pokémon. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 4 Karten deines Decks an und lege beliebig viele [M]-Energiekarten, die du dort findest, an 1 deiner Pokémon an. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime quattro carte del tuo mazzo e assegna un numero qualsiasi di carte Energia [M] presenti tra quelle carte a uno dei tuoi Pokémon. Poi rimischia le altre carte nel tuo mazzo.",
+        "es": "Mira las 4 primeras cartas de tu baraja y une cualquier cantidad de cartas de Energía [M] que encuentres entre ellas a 1 de tus Pokémon. Pon el resto de cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Steelworks",
+        "fr": "Aciérie",
+        "de": "Stahlwerk",
+        "it": "Fucina",
+        "es": "Siderurgia"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

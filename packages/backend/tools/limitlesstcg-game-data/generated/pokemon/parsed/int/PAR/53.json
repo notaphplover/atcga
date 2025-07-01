@@ -3,7 +3,10 @@
   "abilityName": "Suddenly Select",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip 3 coins. This attack does 70 damage for each heads.",

@@ -3,7 +3,10 @@
   "abilityName": "かたいこうら",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

@@ -3,7 +3,11 @@
   "abilityName": "Mighty Shield",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "This attack does 20 more damage for each [M] Energy attached to this Pokémon.",

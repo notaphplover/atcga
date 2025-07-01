@@ -3,7 +3,10 @@
   "abilityName": "はれつばり",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

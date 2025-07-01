@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of your deck. Choose as many Basic Pokémon as you like and put them onto your Bench. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 5 cartes du dessus de votre deck. Choisissez autant de Pokémon de base que vous le voulez et placez-les sur votre Banc. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 5 Karten deines Decks an. Wähle beliebig viele Basis-Pokémon-Karten und lege sie auf deine Bank. Mische die anderen Karten anschließend in dein Deck.",
+        "it": "Guarda le prime 5 carte del tuo mazzo. Scegli quanti Pokémon Base vuoi e mettili nella tua Panchina.  Rimischia le altre carte nel tuo mazzo."
+      },
+      "name": {
+        "en": "Rambunctious Party",
+        "fr": "Méga-boum",
+        "de": "Wilde Party",
+        "it": "Chiassofesta"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

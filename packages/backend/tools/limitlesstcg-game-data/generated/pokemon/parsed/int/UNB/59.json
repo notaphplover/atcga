@@ -3,7 +3,12 @@
   "abilityName": "Stealthy Body",
   "attacks": [
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "You may discard all [L] Energy from this Pokémon. If you do, this attack does 100 more damage.",

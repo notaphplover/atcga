@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "llcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a [L] Energy card and attach it to Pikachu. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Recharge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard all Energy attached to Pikachu."

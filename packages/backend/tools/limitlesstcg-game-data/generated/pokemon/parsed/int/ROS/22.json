@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "You may move all Energy from this Pokémon to your Benched Pokémon in any way you like.",

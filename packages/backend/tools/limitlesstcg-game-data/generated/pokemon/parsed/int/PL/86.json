@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for Poochyena and put it onto your Bench. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Howl"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing."

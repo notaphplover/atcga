@@ -1,7 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 Item cards that have Fossil in their names from your discard pile into your hand.",
+        "fr": "Ajoutez 2 cartes Objet qui ont Fossile dans leur nom de votre pile de défausse à votre main.",
+        "de": "Nimm 2 Itemkarten, die das Wort „Fossil“ in ihrem Namen enthalten, von deinem Ablagestapel auf deine Hand."
+      },
+      "name": {
+        "en": "Fossil Hunt",
+        "fr": "Chasse au Fossile",
+        "de": "Fossil-Grabung"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

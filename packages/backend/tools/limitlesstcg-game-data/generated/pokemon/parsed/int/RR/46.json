@@ -1,13 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon is an Evolved Pokémon, this attack does 30 damage plus 20 more damage."
       },
       "name": {
         "en": "Cross-Cut"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward. (If your opponent doesn't have any Benched Pokémon, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Brush Off"
       }
     }
   ],

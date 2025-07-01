@@ -1,7 +1,19 @@
 {
   "abilityEffect": "If Tentacool has no Energy attached to it, Tentacool's Retreat Cost is 0.",
   "abilityName": "Freefloating",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Wrap"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

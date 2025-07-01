@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato e avvelenato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Envenenado e Queimado.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado y Quemado."
+      },
+      "name": {
+        "en": "Festering Saliva",
+        "fr": "Salive Suppurative",
+        "de": "Schwärender Speichel",
+        "it": "Saliva Infetta",
+        "pt": "Saliva Asquerosa",
+        "es": "Saliva Infecciosa"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",

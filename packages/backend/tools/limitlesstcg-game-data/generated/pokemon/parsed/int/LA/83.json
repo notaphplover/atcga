@@ -3,7 +3,10 @@
   "abilityName": "Metal Chain",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Beldum does 10 damage to itself."

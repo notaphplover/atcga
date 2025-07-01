@@ -3,7 +3,11 @@
   "abilityName": "Legendary Ascent",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
@@ -12,6 +16,25 @@
         "de": "Frostschwinge",
         "it": "Alagelata",
         "es": "Ala Gélida"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard all Energy from both Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez toute l'Énergie des deux Pokémon Actifs. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege alle Energien von beiden Aktiven Pokémon auf den Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta tutte le Energie assegnate a entrambi i Pokémon attivi. Non puoi usare più di un attacco GX a partita.",
+        "es": "Descarta todas las Energías de ambos Pokémon Activos. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Cold Crush-GX",
+        "fr": "Écraser Net-GX",
+        "de": "Eiskalt zerquetscht-GX",
+        "it": "Freddo Stritolante-GX",
+        "es": "Apretón Frío-GX"
       }
     }
   ],

@@ -3,7 +3,11 @@
   "abilityName": "どくびし",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "jp": "相手のバトルポケモンがどくなら、50ダメージ追加。"

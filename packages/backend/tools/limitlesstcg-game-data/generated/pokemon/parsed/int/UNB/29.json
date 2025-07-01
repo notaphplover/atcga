@@ -3,7 +3,10 @@
   "abilityName": "Strong Cheer",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

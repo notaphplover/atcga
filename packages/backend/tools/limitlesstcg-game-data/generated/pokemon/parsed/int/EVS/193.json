@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "rl",
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "You may discard up to 2 basic [R] Energy or up to 2 basic [L] Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",

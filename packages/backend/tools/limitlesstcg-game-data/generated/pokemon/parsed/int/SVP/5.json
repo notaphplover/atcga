@@ -3,7 +3,11 @@
   "abilityName": "Energy Carnival",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Reverse Time",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Draw cards until you have 7 cards in your hand."

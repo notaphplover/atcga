@@ -3,7 +3,12 @@
   "abilityName": "Earth Rage",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 damage plus 30 more damage."

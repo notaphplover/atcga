@@ -3,7 +3,12 @@
   "abilityName": "Craftsmanship",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",

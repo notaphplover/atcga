@@ -3,7 +3,12 @@
   "abilityName": "いてつくまもり",
   "attacks": [
     {
-      "cost": "wwwc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

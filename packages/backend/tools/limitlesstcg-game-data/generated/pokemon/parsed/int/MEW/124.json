@@ -1,7 +1,34 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If your opponent's Active Pokémon is Asleep, it is Knocked Out.",
+        "fr": "Si le Pokémon Actif de votre adversaire est Endormi, il est mis K.O.",
+        "de": "Wenn das Aktive Pokémon deines Gegners schläft, ist es kampfunfähig.",
+        "it": "Se il Pokémon attivo del tuo avversario è addormentato, viene messo KO.",
+        "pt": "Se o Pokémon Ativo do seu oponente estiver Adormecido, ele será Nocauteado.",
+        "es": "Si el Pokémon Activo de tu rival está Dormido, queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Heart-Stopping Kiss",
+        "fr": "Baiser Coup de Foudre",
+        "de": "Herzzerreißender Kuss",
+        "it": "Bacio Fatale",
+        "pt": "Beijo Arrasa Coração",
+        "es": "Beso de Infarto"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

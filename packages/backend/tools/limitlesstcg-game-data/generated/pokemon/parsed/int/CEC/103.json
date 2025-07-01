@@ -1,5 +1,27 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Active Pokémon's non-GX attacks and use it as this attack.",
+        "fr": "Choisissez l'une des attaques non GX du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "de": "Wähle 1 Attacke des Aktiven Pokémon deines Gegners, die keine GX-Attacke ist, und setze sie als diese Attacke ein.",
+        "it": "Scegli un attacco non GX del Pokémon attivo del tuo avversario e usalo al posto di questo attacco.",
+        "es": "Elige 1 de los ataques no GX del Pokémon Activo de tu rival y úsalo para este ataque."
+      },
+      "name": {
+        "en": "Shadow Imitation",
+        "fr": "Ombre Imitante",
+        "de": "Schattenimitation",
+        "it": "Imitazione d'Ombra",
+        "es": "Imitación Sombría"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

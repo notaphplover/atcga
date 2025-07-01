@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "This attack does 10 damage for each [W] Energy card in your discard pile.",

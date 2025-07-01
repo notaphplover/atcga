@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Heal 20 damage from 1 of your Pokémon.",
+        "fr": "Soignez 20 dégâts de l'un de vos Pokémon.",
+        "de": "Heile 20 Schadenspunkte bei 1 deiner Pokémon.",
+        "it": "Cura uno dei tuoi Pokémon da 20 danni.",
+        "pt": "Cure 20 pontos de dano de 1 dos seus Pokémon.",
+        "es": "Cura 20 puntos de daño a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Salt Coating",
+        "fr": "Couche de Sel",
+        "de": "Salzbeschichtung",
+        "it": "Copertura di Sale",
+        "pt": "Camada de Sal",
+        "es": "Recubrimiento Salino"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

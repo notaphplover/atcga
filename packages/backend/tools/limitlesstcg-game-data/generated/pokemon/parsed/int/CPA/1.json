@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep and Poisoned.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "gggc",
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Solar Typhoon.",

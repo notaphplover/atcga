@@ -3,7 +3,9 @@
   "abilityName": "Power of Nature",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon.",

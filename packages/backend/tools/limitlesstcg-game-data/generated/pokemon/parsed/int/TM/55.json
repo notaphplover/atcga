@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw cards until you have the same number of cards in your hand as your opponent.",
+        "fr": "Piochez jusqu'à ce que vous obteniez le même nombre de cartes dans votre main que votre adversaire.",
+        "de": "Ziehe so viele Karten, bis du die gleiche Anzahl Handkarten hast wie dein Gegner.",
+        "it": "Pesca fino ad avere lo stesso numero di carte in mano del tuo avversario."
+      },
+      "name": {
+        "en": "Imitate",
+        "fr": "Imiter",
+        "de": "Nachäffen",
+        "it": "Scimmiottare"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

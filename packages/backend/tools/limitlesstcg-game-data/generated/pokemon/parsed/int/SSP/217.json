@@ -3,7 +3,11 @@
   "abilityName": "Sparkling Scales",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

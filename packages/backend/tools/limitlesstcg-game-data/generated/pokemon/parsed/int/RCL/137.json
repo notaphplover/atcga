@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 100 more damage.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "240",
       "effect": {},
       "name": {

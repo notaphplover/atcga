@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [],
+      "effect": {
+        "en": "Search your discard pile for up to 2 Energy cards and attach them to Mewtwo."
+      },
+      "name": {
+        "en": "Energy Absorption"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Discard a [P] Energy attached to Mewtwo and remove 6 damage counters from Mewtwo."
+      },
+      "name": {
+        "en": "Recover"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

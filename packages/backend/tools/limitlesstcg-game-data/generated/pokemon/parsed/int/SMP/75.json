@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "If Regice is on your Bench, heal 30 damage from this Pokémon.",

@@ -3,7 +3,11 @@
   "abilityName": "Blade Storm",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 10 more damage for each damage counter on the Defending Pokémon."

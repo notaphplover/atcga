@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You may discard any number of cards from your hand. Then, draw cards until you have 5 cards in your hand.",
+        "fr": "Vous pouvez défausser autant de cartes que vous voulez de votre main. Ensuite, piochez des cartes jusqu'à ce que vous ayez 5 cartes en main.",
+        "de": "Du kannst beliebig viele Karten aus deiner Hand auf deinen Ablagestapel legen. Ziehe anschließend so lang Karten, bis du 5 Karten auf deiner Hand hast.",
+        "it": "Puoi scartare un numero qualsiasi di carte che hai in mano. Poi pesca fino ad avere cinque carte in mano.",
+        "es": "Puedes descartar cualquier cantidad de cartas de tu mano. Después, roba cartas hasta que tengas 5 cartas en tu mano."
+      },
+      "name": {
+        "en": "Ditch and Draw",
+        "fr": "Défausser et Piocher",
+        "de": "Ausmisten",
+        "it": "Scarica e Pesca",
+        "es": "Descarte y Robo"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

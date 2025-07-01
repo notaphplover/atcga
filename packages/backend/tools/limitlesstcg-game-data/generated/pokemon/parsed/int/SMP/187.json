@@ -3,13 +3,26 @@
   "abilityName": "Cursed Body",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned."
       },
       "name": {
         "en": "Fiery Bone"
+      }
+    },
+    {
+      "cost": [],
+      "effect": {
+        "en": "This attack does 50 damage to 2 of your opponent's Pokémon. This damage isn't affected by Weakness or Resistance. If a Pokémon is Knocked Out by this damage, put that Pokémon and all cards attached to it in the Lost Zone instead of the discard pile. (You can't use more than 1 GX attack in a game.)"
+      },
+      "name": {
+        "en": "Lost Boomerang-GX"
       }
     }
   ],

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,6 +13,29 @@
         "it": "Bottintesta",
         "pt": "Cabeçada",
         "es": "Golpe Cabeza"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck.",
+        "fr": "Lancez 3 pièces. Pour chaque côté face, défaussez les 3 cartes du dessus du deck de votre adversaire.",
+        "de": "Wirf 3 Münzen. Lege pro Kopf die obersten 3 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia tre volte una moneta. Ogni volta che esce testa, scarta le prime tre carte del mazzo del tuo avversario.",
+        "pt": "Jogue 3 moedas. Para cada cara, descarte as 3 cartas de cima do baralho do seu oponente.",
+        "es": "Lanza 3 monedas. Por cada cara, descarta las 3 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Undersea Tunnel",
+        "fr": "Tunnel Sous-Marin",
+        "de": "Tiefseetunnel",
+        "it": "Tunnel Sommerso",
+        "pt": "Túnel Subaquático",
+        "es": "Túnel Submarino"
       }
     }
   ],

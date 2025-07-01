@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Draw 3 cards.",
+        "fr": "Piochez 3 cartes.",
+        "de": "Ziehe 3 Karten.",
+        "it": "Pesca tre carte.",
+        "es": "Roba 3 cartas."
+      },
+      "name": {
+        "en": "Lap Up",
+        "fr": "Gobeur",
+        "de": "Auflecken",
+        "it": "Leccatina",
+        "es": "A Lengüetazos"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

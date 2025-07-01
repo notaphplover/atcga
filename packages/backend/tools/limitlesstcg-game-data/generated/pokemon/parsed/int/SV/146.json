@@ -3,7 +3,12 @@
   "abilityName": "Dragon Spirit",
   "attacks": [
     {
-      "cost": "wpfc",
+      "cost": [
+        "w",
+        "p",
+        "f",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "Discard all Energy attached to Rayquaza C. Ignore this effect if you have no cards in your hand."

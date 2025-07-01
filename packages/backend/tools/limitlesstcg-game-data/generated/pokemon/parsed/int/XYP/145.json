@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Choose 2 of your Benched Pokémon. Attach a [R] Energy card from your discard pile to each of those Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

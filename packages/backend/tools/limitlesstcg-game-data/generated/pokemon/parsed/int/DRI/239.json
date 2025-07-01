@@ -3,7 +3,12 @@
   "abilityName": "Golden Flame",
   "attacks": [
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Heal 50 damage from each of your Pokémon.",

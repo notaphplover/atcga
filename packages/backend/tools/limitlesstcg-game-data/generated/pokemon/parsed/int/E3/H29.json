@@ -3,7 +3,11 @@
   "abilityName": "Rare Metal",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Paralyzed."
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "mmmc",
+      "cost": [
+        "m",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Before doing damage, you may flip a coin. If heads, this attack does 80 damage. If tails, this attack does nothing."

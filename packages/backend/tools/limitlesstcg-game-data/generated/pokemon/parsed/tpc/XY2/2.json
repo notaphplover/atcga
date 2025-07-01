@@ -1,7 +1,20 @@
 {
   "abilityEffect": "このポケモンは、最初の自分の番や出したばかりの番でも進化できる。",
   "abilityName": "てきおうしんか",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "jp": "次の相手の番、このポケモンは「60」以下のワザのダメージを受けない。"
+      },
+      "name": {
+        "jp": "かたくなる"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

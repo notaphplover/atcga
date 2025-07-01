@@ -3,7 +3,12 @@
   "abilityName": "Armor of the Sunne",
   "attacks": [
     {
-      "cost": "mmcc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

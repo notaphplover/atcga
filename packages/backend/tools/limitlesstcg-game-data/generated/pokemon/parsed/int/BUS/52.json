@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on each Pokémon (both yours and your opponent's).",
+        "fr": "Placez 1 marqueur de dégâts sur chaque Pokémon (les vôtres et ceux de votre adversaire).",
+        "de": "Lege 1 Schadensmarke auf jedes Pokémon (deine und die deines Gegners).",
+        "it": "Metti un segnalino danno su tutti i Pokémon, sia tuoi che del tuo avversario.",
+        "es": "Pon 1 contador de daño en cada Pokémon (tanto tuyos como de tu rival)."
+      },
+      "name": {
+        "en": "Night Roam",
+        "fr": "Errance Nocturne",
+        "de": "Nachtstreuner",
+        "it": "Girovago Notturno",
+        "es": "Deambular en la Noche"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

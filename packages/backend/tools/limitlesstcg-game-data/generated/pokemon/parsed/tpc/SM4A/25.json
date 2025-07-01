@@ -3,7 +3,11 @@
   "abilityName": "いわやまのうなり",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "このワザのダメージは抵抗力を計算しない。"

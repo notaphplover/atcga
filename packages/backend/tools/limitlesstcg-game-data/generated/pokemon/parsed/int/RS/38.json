@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Seek Out"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 40 damage times the number of heads."

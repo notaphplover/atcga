@@ -3,7 +3,11 @@
   "abilityName": "Intimidating Fang",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 100 more damage.",

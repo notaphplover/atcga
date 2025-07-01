@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Search your deck for up to 3 [W] Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "wwww",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "220",
       "effect": {
         "en": "This attack also does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"

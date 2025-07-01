@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage times the number of heads.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Asleep.",

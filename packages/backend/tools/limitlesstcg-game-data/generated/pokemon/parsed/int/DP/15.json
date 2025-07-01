@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon that doesn't have any damage counters on it. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Frustration"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."

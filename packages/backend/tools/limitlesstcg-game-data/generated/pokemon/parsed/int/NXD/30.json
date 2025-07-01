@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -13,7 +15,9 @@
       }
     },
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If, before this Pokémon does damage, the Defending Pokémon has no damage counters on it, this attack does nothing.",

@@ -3,7 +3,10 @@
   "abilityName": "ふくげんビーム",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

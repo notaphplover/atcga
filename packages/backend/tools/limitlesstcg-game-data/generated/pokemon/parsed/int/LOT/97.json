@@ -3,7 +3,11 @@
   "abilityName": "Distortion Door",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Put 4 damage counters on 1 of your Pokémon.",

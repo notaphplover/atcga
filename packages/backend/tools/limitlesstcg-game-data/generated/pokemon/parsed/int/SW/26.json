@@ -3,7 +3,10 @@
   "abilityName": "Energy Shift",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may do 40 damage plus 60 more damage. If you do, Electrode does 100 damage to itself."

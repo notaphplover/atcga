@@ -3,7 +3,10 @@
   "abilityName": "ハザードセンス",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

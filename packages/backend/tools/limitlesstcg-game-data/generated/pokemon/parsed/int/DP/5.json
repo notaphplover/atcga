@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard all [R] Energy attached to Infernape."

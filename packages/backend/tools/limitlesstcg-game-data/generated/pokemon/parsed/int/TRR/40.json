@@ -1,5 +1,29 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance.) Then, search your deck for a card that evolves from Dark Pupitar and put it on Dark Pupitar. (This counts as evolving Dark Pupitar.) Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Explosive Evolution"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Tackle"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

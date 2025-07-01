@@ -3,7 +3,9 @@
   "abilityName": "Reactive Healing",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If the Defending Pokémon is a Basic Pokémon, that Pokémon can't attack during your opponent's next turn."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

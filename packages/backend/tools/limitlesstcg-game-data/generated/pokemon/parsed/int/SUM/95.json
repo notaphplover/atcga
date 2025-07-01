@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "glc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, you may attach any number of Energy cards from your hand to your Pokémon.",
+        "fr": "Pendant votre prochain tour, vous pouvez attacher autant de cartes Énergie que vous voulez de votre main à vos Pokémon.",
+        "de": "Während deines nächsten Zuges kannst du beliebig viele Energiekarten aus deiner Hand an deine Pokémon anlegen.",
+        "it": "Durante il tuo prossimo turno, puoi assegnare un numero qualsiasi di carte Energia ai tuoi Pokémon dalla tua mano.",
+        "es": "Durante tu próximo turno, puedes unir cualquier cantidad de cartas de Energía de tu mano a tus Pokémon."
+      },
+      "name": {
+        "en": "Dragon's Wish",
+        "fr": "Souhait du Dragon",
+        "de": "Drachenwunsch",
+        "it": "Dragoderio",
+        "es": "Deseo de Dragón"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "l",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

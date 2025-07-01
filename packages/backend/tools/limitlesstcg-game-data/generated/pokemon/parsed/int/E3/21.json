@@ -3,7 +3,9 @@
   "abilityName": "Fire Immunity",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "If there are any [R] Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Moltres."
@@ -13,7 +15,12 @@
       }
     },
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, discard a [R] Energy card attached to Moltres."

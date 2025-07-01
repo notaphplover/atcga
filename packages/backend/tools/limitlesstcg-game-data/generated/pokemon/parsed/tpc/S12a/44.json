@@ -3,7 +3,11 @@
   "abilityName": "マックスダウナー",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

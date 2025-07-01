@@ -3,7 +3,10 @@
   "abilityName": "Gift",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent may draw a card."

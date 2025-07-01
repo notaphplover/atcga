@@ -3,7 +3,11 @@
   "abilityName": "Electromagnetic Power",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If there are any [L] Energy cards in your discard pile, attach 1 of them to Magneton."

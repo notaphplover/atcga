@@ -3,7 +3,9 @@
   "abilityName": "おまつりおんど",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "jp": "自分の山札を2枚引く。"

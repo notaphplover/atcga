@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw 4 cards. If Minun is on your Bench, draw 4 more cards.",
+        "fr": "Mélangez votre main avec votre deck. Ensuite, piochez 4 cartes. Si Négapi est sur votre Banc, piochez 4 cartes supplémentaires.",
+        "de": "Mische deine Handkarten in dein Deck. Ziehe anschließend 4 Karten. Wenn sich Minun auf deiner Bank befindet, ziehe 4 weitere Karten.",
+        "it": "Metti le carte che hai in mano nel tuo mazzo e rimischialo. Poi pesca quattro carte. Se Minun è nella tua panchina, pesca altre quattro carte."
+      },
+      "name": {
+        "en": "Tag Draw",
+        "fr": "Pioche Groupée",
+        "de": "Gefährtenzieher",
+        "it": "Pescafortuita"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 more damage.",

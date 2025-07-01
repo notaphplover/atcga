@@ -1,7 +1,21 @@
 {
   "abilityEffect": "If your opponent has 3 or less Prize cards left, Drifblim FB gets +40 HP.",
   "abilityName": "Pump Up",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. This attack does 40 damage to that Pokémon. Apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Shadow Ball"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

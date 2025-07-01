@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [],
+      "effect": {
+        "en": "Move a Pokémon Tool card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon (excluding Pokémon that already has a Pokémon Tool attached to it). (If an effect of this attack is prevented, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Switcheroo"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "glf",
+      "cost": [
+        "g",
+        "l",
+        "f"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Discard all basic Energy from this Pokémon. This attack does 80 damage for each type of basic Energy you discarded in this way.",

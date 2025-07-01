@@ -3,7 +3,11 @@
   "abilityName": "そうしょく",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

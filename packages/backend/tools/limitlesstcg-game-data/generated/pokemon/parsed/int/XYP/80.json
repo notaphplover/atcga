@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "wllc",
+      "cost": [
+        "w",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon does 20 damage to itself."

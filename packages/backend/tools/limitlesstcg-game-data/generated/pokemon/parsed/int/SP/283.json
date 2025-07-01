@@ -3,7 +3,11 @@
   "abilityName": "Strong Legs Charge",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "You may discard all Energy from this Pokémon. If you do, your opponent's Active Pokémon is now Paralyzed.",

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If there are any [L] Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Rocket's Zapdos does damage to itself equal to 10 times the number of [L] Energy cards attached to it.",

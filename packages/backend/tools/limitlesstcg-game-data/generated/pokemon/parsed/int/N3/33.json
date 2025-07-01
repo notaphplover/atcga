@@ -3,7 +3,11 @@
   "abilityName": "Magma Pool",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard any number of [R] Energy cards attached to Magcargo when you use this attack. If you do, this attack does 40 damage plus 20 more damage for each [R] Energy card you discarded in this way."

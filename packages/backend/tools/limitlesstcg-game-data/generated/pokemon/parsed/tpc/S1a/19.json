@@ -3,7 +3,10 @@
   "abilityName": "バリアフリー",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "jp": "コインを3回投げ、オモテの数×50ダメージ。"

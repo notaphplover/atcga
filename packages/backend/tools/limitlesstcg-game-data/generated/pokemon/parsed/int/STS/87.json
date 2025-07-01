@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "pddc",
+      "cost": [
+        "p",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard 3 Energy attached to this Pokémon. This attack does 50 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

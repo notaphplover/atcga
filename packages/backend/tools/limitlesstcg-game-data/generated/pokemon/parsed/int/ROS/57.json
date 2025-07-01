@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard any Stadium card in play.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the number of cards in your opponent's hand.",
@@ -37,7 +43,12 @@
       }
     },
     {
-      "cost": "rrwc",
+      "cost": [
+        "r",
+        "r",
+        "w",
+        "c"
+      ],
       "dmg": "170",
       "effect": {
         "en": "Discard 3 Energy attached to this Pokémon."

@@ -3,7 +3,12 @@
   "abilityName": "Dark Impulse",
   "attacks": [
     {
-      "cost": "pdcc",
+      "cost": [
+        "p",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon.",

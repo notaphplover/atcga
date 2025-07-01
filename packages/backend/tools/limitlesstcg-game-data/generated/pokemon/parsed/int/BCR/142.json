@@ -3,7 +3,11 @@
   "abilityName": "Rush In",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 20 more damage for each [W] Energy attached to this Pokémon.",

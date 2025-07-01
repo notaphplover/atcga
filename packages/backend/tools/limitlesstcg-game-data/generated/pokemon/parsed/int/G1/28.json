@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +12,12 @@
       }
     },
     {
-      "cost": "llll",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard all Energy cards attached to Lt. Surge's Raichu in order to use this attack."

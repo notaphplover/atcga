@@ -3,7 +3,10 @@
   "abilityName": "Ion Coating",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 20 damage plus 10 damage for each [L] Energy attached to Lanturn. Flip a coin. If tails, Lanturn does 10 damage to itself for each [L] Energy attached to it."

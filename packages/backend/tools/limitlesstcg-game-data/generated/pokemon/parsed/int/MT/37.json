@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn (before your attack), if you have Unown I, Unown T, Unown E, and Unown M on your Bench, you may search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. You can't use more than 1 ITEM Poké-Power each turn.",
   "abilityName": "ITEM",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose an Energy card attached to the Defending Pokémon and put it face down. Treat that card as a Special Energy card that provides [C] Energy and doesn't have any effect other than providing Energy. Put that card face up at the end of your opponent's next turn."
+      },
+      "name": {
+        "en": "Hidden Power"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

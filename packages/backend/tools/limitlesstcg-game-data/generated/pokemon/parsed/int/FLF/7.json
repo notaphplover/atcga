@@ -3,7 +3,11 @@
   "abilityName": "Leaf Draw",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the number of Benched Pokémon (both yours and your opponent's).",

@@ -3,7 +3,11 @@
   "abilityName": "Safeguard",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage."

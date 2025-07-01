@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each of your opponent's Pokémon in play that has an Ability.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "gr",
+      "cost": [
+        "g",
+        "r"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon V, this attack does 80 more damage.",

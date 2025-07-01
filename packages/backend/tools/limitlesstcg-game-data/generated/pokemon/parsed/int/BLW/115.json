@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Attach a [L] Energy card from your discard pile to this Pokémon."
+      },
+      "name": {
+        "en": "Energize"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard all Energy attached to this Pokémon."

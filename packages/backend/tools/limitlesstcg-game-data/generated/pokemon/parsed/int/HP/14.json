@@ -3,7 +3,11 @@
   "abilityName": "Delta Reserve",
   "attacks": [
     {
-      "cost": "lmc",
+      "cost": [
+        "l",
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may discard an Energy card attached to Pidgeot. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Pidgeot."

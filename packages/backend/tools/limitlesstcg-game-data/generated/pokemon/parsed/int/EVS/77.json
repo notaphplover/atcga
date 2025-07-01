@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Reveal the top 6 cards of your deck. This attack does 60 damage for each [P] Pokémon you find there. Then, shuffle those Pokémon back into your deck and discard the other cards.",

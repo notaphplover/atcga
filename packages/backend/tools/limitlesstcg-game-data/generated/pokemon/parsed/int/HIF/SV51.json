@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 [R] Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 2 cartes Énergie [R] dans votre deck et attachez-les à ce Pokémon. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 [R]-Energiekarten und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte Energia [R] e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 cartas de Energía [R] y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Flame Charge",
+        "fr": "Nitrocharge",
+        "de": "Nitroladung",
+        "it": "Nitrocarica",
+        "es": "Nitrocarga"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",
@@ -19,7 +43,12 @@
       }
     },
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "You may attach up to 5 [R] Energy cards from your hand to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",

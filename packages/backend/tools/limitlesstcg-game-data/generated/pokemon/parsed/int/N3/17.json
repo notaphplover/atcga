@@ -3,7 +3,11 @@
   "abilityName": "Legendary Body",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip 2 coins. For each tails, discard 1 [R] Energy card from Entei, if it has any."

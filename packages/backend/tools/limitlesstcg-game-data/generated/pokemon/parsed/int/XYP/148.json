@@ -3,7 +3,11 @@
   "abilityName": "Aroma of Gratitude",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 20 damage and remove all Special Conditions from this Pokémon."

@@ -3,7 +3,13 @@
   "abilityName": "ろうれんのわざ",
   "attacks": [
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

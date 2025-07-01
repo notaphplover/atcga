@@ -3,7 +3,9 @@
   "abilityName": "Disturbance Scales",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Does 30 damage times the number of different types of Wormadam on your Bench."
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "You may switch Mothim with 1 of your Benched Pokémon. If you do, move as many Energy cards attached to Mothim as you like to the new Active Pokémon."

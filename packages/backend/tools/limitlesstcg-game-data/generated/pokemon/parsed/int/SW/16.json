@@ -3,7 +3,11 @@
   "abilityName": "Thunder Rumble",
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Discard 3 cards from the top of your deck. This attack does 50 damage plus 10 more damage for each [L] Energy card you discarded. Then, attach those [L] Energy cards to 1 of your Pokémon."

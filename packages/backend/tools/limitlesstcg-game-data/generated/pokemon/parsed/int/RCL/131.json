@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each [C] in your opponent's Active Pokémon's Retreat Cost.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "120",
       "effect": {},
       "name": {

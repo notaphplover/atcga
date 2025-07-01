@@ -3,7 +3,11 @@
   "abilityName": "がんせきアーマー",
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "120",
       "effect": {
         "jp": "このワザのダメージは抵抗力を計算しない。"

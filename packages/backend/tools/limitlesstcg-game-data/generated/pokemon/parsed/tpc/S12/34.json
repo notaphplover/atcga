@@ -3,7 +3,11 @@
   "abilityName": "トランジスタ",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

@@ -3,7 +3,10 @@
   "abilityName": "Selfish Lips",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",

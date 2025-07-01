@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pfc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 40 dégâts à l'un des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 40 danni a uno dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Linear Attack",
+        "fr": "Attaque Linéaire",
+        "de": "Linearer Angriff",
+        "it": "Attacco Lineare",
+        "es": "Ataque Lineal"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "f",
+        "c"
+      ],
       "dmg": "160+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",
@@ -16,6 +39,27 @@
         "de": "Unheilvoller Schlitzer",
         "it": "Lacerazione Micidiale",
         "es": "Cuchillada Catastrófica"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "f"
+      ],
+      "effect": {
+        "en": "Discard 1 of your opponent's Pokémon and all cards attached to it. If this Pokémon has at least 3 extra [F] Energy attached to it (in addition to this attack's cost), discard 2 of your opponent's Pokémon instead. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez l'un des Pokémon de votre adversaire et toutes les cartes qui lui sont attachées. Si au moins 3 Énergies [F] supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), défaussez 2 des Pokémon de votre adversaire au lieu d'un. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 1 Pokémon deines Gegners und alle an es angelegten Karten auf seinen Ablagestapel. Wenn an dieses Pokémon mindestens 3 extra [F]-Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), lege stattdessen 2 Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta uno dei Pokémon del tuo avversario e tutte le carte a esso assegnate. Se questo Pokémon ha almeno tre Energie [F] extra assegnate, in aggiunta a quelle del costo di questo attacco, invece scarta due dei suoi Pokémon. Non puoi usare più di un attacco GX a partita.",
+        "es": "Descarta 1 de los Pokémon de tu rival y todas las cartas unidas a él. Si este Pokémon tiene por lo menos 3 Energías [F] adicionales unidas a él (además de las del coste de este ataque), descarta 2 de los Pokémon de tu rival en vez de 1. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "GG End-GX",
+        "fr": "GG Final-GX",
+        "de": "GG Abschluss-GX",
+        "it": "Fine dei Giochi-GX",
+        "es": "Final GG-GX"
       }
     }
   ],

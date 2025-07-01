@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "This attack does 70 damage for each damage counter on this Pokémon.",

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You can use this attack only if you go second, and only on your first turn. Your opponent's Active Pokémon is now Paralyzed.",
+        "fr": "Vous ne pouvez utiliser cette attaque que si vous jouez en second et uniquement pendant votre premier tour. Le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du als Zweiter am Zug bist, und nur während deines ersten Zuges. Das Aktive Pokémon deines Gegners ist jetzt paralysiert.",
+        "it": "Puoi usare questo attacco solo se inizi per secondo e solo durante il tuo primo turno. Il Pokémon attivo del tuo avversario viene paralizzato.",
+        "es": "Puedes usar este ataque solo si sales segundo, y solo en tu primer turno. El Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      "name": {
+        "en": "Secondary Chills",
+        "fr": "Tremblements Secondaires",
+        "de": "Sekundärschauder",
+        "it": "Brividi Secondari",
+        "es": "Congelación Secundaria"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

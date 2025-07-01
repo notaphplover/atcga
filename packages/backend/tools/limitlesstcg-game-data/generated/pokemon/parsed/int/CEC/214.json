@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "You may attach up to 3 [W] Energy cards from your hand to your Pokémon in any way you like. If you do, heal 50 damage from those Pokémon for each card you attached to them in this way.",
@@ -19,7 +23,11 @@
       }
     },
     {
-      "cost": "wwc+",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Paralyzed. If this Pokémon has at least 3 extra [W] Energy attached to it (in addition to this attack's cost), this attack does 150 more damage. (You can't use more than 1 GX attack in a game.)",

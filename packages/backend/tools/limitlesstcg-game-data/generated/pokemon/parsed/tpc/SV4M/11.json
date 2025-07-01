@@ -3,7 +3,12 @@
   "abilityName": "モンキートリオ",
   "attacks": [
     {
-      "cost": "rccc",
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

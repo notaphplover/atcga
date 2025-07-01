@@ -3,7 +3,10 @@
   "abilityName": "スピードエール",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

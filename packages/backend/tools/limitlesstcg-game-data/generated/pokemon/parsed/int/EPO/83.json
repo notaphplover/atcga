@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 40 damage times the number of heads.",
@@ -16,6 +18,27 @@
         "de": "Kraftklatscher",
         "it": "Schiaffettone",
         "es": "Tremendo Bofetón"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 50 damage from 1 of your Pokémon.",
+        "fr": "Soignez 50 dégâts à 1 de vos Pokémon.",
+        "de": "Heile 50 Schadenspunkte bei 1 deiner Pokémon.",
+        "it": "Cura uno dei tuoi Pokémon da 50 danni.",
+        "es": "Cura 50 puntos de daño a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Heal Pulse",
+        "fr": "Vibra Soin",
+        "de": "Heilwoge",
+        "it": "Ondasana",
+        "es": "Pulso Cura"
       }
     }
   ],

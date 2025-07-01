@@ -3,7 +3,10 @@
   "abilityName": "ようじんぼう",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "jp": "コインを2回投げ、オモテの数x60ダメージ。"

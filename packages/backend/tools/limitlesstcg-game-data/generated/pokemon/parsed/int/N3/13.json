@@ -3,7 +3,11 @@
   "abilityName": "Lightning Burst",
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If tails, Raikou does 20 damage to itself."

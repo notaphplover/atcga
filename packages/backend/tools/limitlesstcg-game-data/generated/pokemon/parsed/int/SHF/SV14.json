@@ -3,7 +3,10 @@
   "abilityName": "Delicious Aroma",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

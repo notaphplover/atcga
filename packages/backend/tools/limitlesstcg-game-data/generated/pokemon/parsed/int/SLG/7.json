@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw 6 cards.",
+        "fr": "Mélangez votre main avec votre deck. Ensuite, piochez 6 cartes.",
+        "de": "Mische deine Handkarten in dein Deck. Ziehe anschließend 6 Karten.",
+        "it": "Rimischia le carte che hai in mano nel tuo mazzo. Poi pesca sei carte.",
+        "es": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba 6 cartas."
+      },
+      "name": {
+        "en": "Flippity Flap",
+        "fr": "Flip Flap",
+        "de": "Großes Flattern",
+        "it": "Batti e Ribatti",
+        "es": "Aleteo Repentino"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage.",

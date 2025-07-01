@@ -3,7 +3,11 @@
   "abilityName": "Roto Motor",
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

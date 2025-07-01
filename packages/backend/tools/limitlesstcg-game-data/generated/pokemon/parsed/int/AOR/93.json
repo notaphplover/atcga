@@ -3,7 +3,12 @@
   "abilityName": "Renegade Pulse",
   "attacks": [
     {
-      "cost": "gpcc",
+      "cost": [
+        "g",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent can't play any Pokémon Tool, Special Energy, or Stadium cards from his or her hand during his or her next turn.",

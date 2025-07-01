@@ -3,7 +3,10 @@
   "abilityName": "Blow-Away Bomb",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard this Pokémon and all cards attached to it.",

@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack Totodile during your opponent's next turn. (Benching or evolving either Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Leer"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 3 coins. This attack does 10 damage times the number of heads."

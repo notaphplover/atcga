@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for 3 Pokémon of different types that evolve from Eevee. Reveal them and put them into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez dans votre deck 3 Pokémon de différents types qui sont une évolution d'Évoli. Montrez-les puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 3 vom Typ her unterschiedlichen Pokémon, die sich aus Evoli entwickeln. Zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo tre Pokémon di tipi diversi che si evolvano da Eevee. Mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja a 3 Pokémon de diferentes tipos que evolucionen de Eevee. Enséñalos y ponlos en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Signs of Evolution",
+        "fr": "Signes d'Évolution",
+        "de": "Spuren der Evolution",
+        "it": "Evolvisegni",
+        "es": "Indicios de Evolución"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "lf",
+      "cost": [
+        "l",
+        "f"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "You may discard a Pokémon Tool card from this Pokémon. If you do, this attack does 90 more damage.",

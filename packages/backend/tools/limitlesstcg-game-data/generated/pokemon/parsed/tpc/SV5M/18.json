@@ -3,7 +3,11 @@
   "abilityName": "ようがんちたい",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

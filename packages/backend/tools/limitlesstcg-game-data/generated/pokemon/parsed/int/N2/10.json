@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "m"
+      ],
+      "effect": {
+        "en": "Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10)."
+      },
+      "name": {
+        "en": "False Swipe"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 damage times the number of heads."

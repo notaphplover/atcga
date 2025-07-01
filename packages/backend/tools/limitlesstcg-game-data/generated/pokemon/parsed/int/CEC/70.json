@@ -3,7 +3,10 @@
   "abilityName": "Speed Cheer",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

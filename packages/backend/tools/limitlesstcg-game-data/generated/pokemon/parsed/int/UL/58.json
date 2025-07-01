@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+        "fr": "Cherchez dans votre deck une carte Pokémon de base et placez-la sur votre Banc. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Basis-Pokémon-Karten und lege sie auf deine Bank. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon Base e mettilo nella tua Panchina. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu mazo un Pokémon Básico y ponlo en tu Banca. Baraja tu mazo después."
+      },
+      "name": {
+        "en": "Call for Family",
+        "fr": "Appel à la famille",
+        "de": "Familienruf",
+        "it": "Cerca Famiglia",
+        "es": "Llamar a la familia"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

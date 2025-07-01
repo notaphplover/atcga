@@ -3,7 +3,11 @@
   "abilityName": "Power Cheer",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

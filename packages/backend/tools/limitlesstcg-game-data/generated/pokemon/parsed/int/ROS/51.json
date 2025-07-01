@@ -3,7 +3,11 @@
   "abilityName": "Max Wind",
   "attacks": [
     {
-      "cost": "glc",
+      "cost": [
+        "g",
+        "l",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is now Paralyzed.",

@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Burned and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Brûlé et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene bruciato e avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado y Quemado."
+      },
+      "name": {
+        "en": "Burning Venom",
+        "fr": "Venin Brûlant",
+        "de": "Brennendes Gift",
+        "it": "Tossina Ardente",
+        "es": "Veneno Abrasador"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

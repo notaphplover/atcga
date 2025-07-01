@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from 1 of your Pokémon.",
+        "fr": "Soignez 40 dégâts de l'un de vos Pokémon.",
+        "de": "Heile 40 Schadenspunkte bei 1 deiner Pokémon.",
+        "it": "Cura uno dei tuoi Pokémon da 40 danni.",
+        "pt": "Cure 40 pontos de dano de 1 dos seus Pokémon.",
+        "es": "Cura 40 puntos de daño a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Nutrients",
+        "fr": "Nutriments",
+        "de": "Nährstoffe",
+        "it": "Nutrienti",
+        "pt": "Nutrientes",
+        "es": "Nutrientes"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

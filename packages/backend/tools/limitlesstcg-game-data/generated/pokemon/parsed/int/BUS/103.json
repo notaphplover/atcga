@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at 1 of your opponent's face-down Prize cards.",
+        "fr": "Regardez l'une des cartes Récompense de votre adversaire (actuellement face cachée).",
+        "de": "Schau dir 1 der verdeckten Preiskarten deines Gegners an.",
+        "it": "Guarda una delle carte Premio coperte del tuo avversario.",
+        "es": "Mira 1 de las cartas de Premio que están boca abajo de tu rival."
+      },
+      "name": {
+        "en": "Code Check",
+        "fr": "Vérification de Codes",
+        "de": "Code-Check",
+        "it": "Controllo Codice",
+        "es": "Comprobación de Código"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

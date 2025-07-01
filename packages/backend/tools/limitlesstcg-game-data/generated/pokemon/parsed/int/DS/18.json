@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Search your deck for a Holon Energy card and attach it to Vaporeon. Shuffle your deck afterward."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "wmc",
+      "cost": [
+        "w",
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may return an Energy card attached to Vaporeon to your hand. If you do, choose an Energy card attached to the Defending Pokémon and return it to your opponent's hand."

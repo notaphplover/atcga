@@ -3,7 +3,11 @@
   "abilityName": "バッドルーラー",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

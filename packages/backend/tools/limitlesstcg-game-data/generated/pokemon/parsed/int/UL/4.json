@@ -3,7 +3,10 @@
   "abilityName": "Psychic Float",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {
@@ -12,6 +15,27 @@
         "de": "Pulsierender Schuss",
         "it": "Scoppimpulso",
         "es": "Pulso explosivo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Choose 2 of your opponent's Benched Pokémon. This attack does 40 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Choisissez 2 des Pokémon se trouvant sur le Banc de votre adversaire. Cette attaque inflige 40 dégâts à chacun d'entre eux. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Wähle 2 Pokémon auf der Bank deines Gegners. Dieser Angriff fügt jedem der gewählten Pokémon 40 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Scegli 2 dei Pokémon nella Panchina del tuo avversario. Questo attacco infligge 40 danni a ciascuno di essi. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina).",
+        "es": "Elige 2 de los Pokémon en Banca de tu rival. Este ataque hace 40 puntos de daño a cada uno de ellos. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Double Leg Hammer",
+        "fr": "Marteau têtu",
+        "de": "Doppelter Beinhammer",
+        "it": "Doppio Martello",
+        "es": "Martillo doble pierna"
       }
     }
   ],

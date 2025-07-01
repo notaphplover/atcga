@@ -3,7 +3,10 @@
   "abilityName": "Freezing Shroud",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

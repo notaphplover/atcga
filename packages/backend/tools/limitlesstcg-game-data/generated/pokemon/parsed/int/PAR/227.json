@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "lll",
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "270",
       "effect": {
         "en": "Discard 3 [L] Energy from your Pokémon.",

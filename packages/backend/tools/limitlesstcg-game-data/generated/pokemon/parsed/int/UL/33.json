@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Search your discard pile for up to 2 [P] Energy cards and attach them to your Pokémon in any way you like.",
+        "fr": "Cherchez jusqu'à 2 cartes Énergie [P] dans votre pile de défausse et attachez-les à vos Pokémon comme bon vous semble.",
+        "de": "Durchsuche deinen Ablagestapel nach bis zu 2 [P]-Energiekarten und lege sie auf beliebiger Verteilung an deine Pokémon an.",
+        "it": "Cerca nella tua pila degli scarti fino a 2 carte Energia [P] e assegnale ai tuoi Pokémon nel modo che preferisci.",
+        "es": "Busca en tu pila de descartes hasta 2 cartas de Energía [P] y únelas a tus Pokémon como quieras."
+      },
+      "name": {
+        "en": "Energy Crane",
+        "fr": "Grue d'énergie",
+        "de": "Energiekran",
+        "it": "Energigru",
+        "es": "Grúa de energía"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "mmff",
+      "cost": [
+        "m",
+        "m",
+        "f",
+        "f"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage to each Benched Pokémon (yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, this attack does nothing. Either way, Shining Steelix can't attack during your next turn."

@@ -3,7 +3,11 @@
   "abilityName": "Slime Mold Colony",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

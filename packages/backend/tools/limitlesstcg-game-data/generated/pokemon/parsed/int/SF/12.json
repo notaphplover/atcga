@@ -3,7 +3,10 @@
   "abilityName": "Snow Veil",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Does 20 damage to each of your opponent's Benched Pokémon, excluding [G] Pokémon and [W] Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "If Abomasnow evolved from Snover during this turn, the Defending Pokémon is now Paralyzed."

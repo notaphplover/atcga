@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -11,6 +13,28 @@
         "it": "Battuta",
         "pt": "Pulso",
         "es": "Toque"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard up to 2 Pokémon Tools from your opponent's Pokémon.",
+        "fr": "Défaussez jusqu'à 2 Outils Pokémon des Pokémon de votre adversaire.",
+        "de": "Lege bis zu 2 Pokémon-Ausrüstungen von Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta fino a due carte Oggetto Pokémon dai Pokémon del tuo avversario.",
+        "pt": "Descarte até 2 Ferramentas Pokémon dos Pokémon do seu oponente.",
+        "es": "Descarta hasta 2 Herramientas Pokémon de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Cleaning Up",
+        "fr": "Ménage",
+        "de": "Putzen",
+        "it": "Pulitura",
+        "pt": "Limpar",
+        "es": "Purgar"
       }
     }
   ],

@@ -1,7 +1,28 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put 2 [L] Energy cards from your hand in the Lost Zone. If you do, your opponent's Active Pokémon is now Paralyzed.",
   "abilityName": "Unseen Flash",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "l",
+        "l"
+      ],
+      "effect": {
+        "en": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 50 dégâts à 2 des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Diese Attacke fügt 2 Pokémon deines Gegners 50 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Questo attacco infligge 50 danni a due dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 50 puntos de daño a 2 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Split Bomb",
+        "fr": "Bombe Fendante",
+        "de": "Splitterbombe",
+        "it": "Squarciabomba",
+        "es": "Bomba Separada"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 150,
   "imageUrls": {

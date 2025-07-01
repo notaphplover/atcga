@@ -3,7 +3,11 @@
   "abilityName": "Root Protector",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Before doing damage, you may switch your opponent's Active Pokémon with 1 of his or her Benched Pokémon."
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Does 60 damage plus 10 more damage for each [F] Energy attached to Swampert."

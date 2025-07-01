@@ -3,7 +3,12 @@
   "abilityName": "Burning Road",
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -11,6 +14,29 @@
         "it": "Acquataglio",
         "pt": "Aqua Gume",
         "es": "Filo Agua"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard each player's Active Pokémon and all attached cards. (You choose a new Active Pokémon first.)",
+        "fr": "Défaussez le Pokémon Actif de chaque joueur et toutes les cartes attachées. (Vous choisissez un nouveau Pokémon Actif en premier.)",
+        "de": "Lege das Aktive Pokémon jedes Spielers und alle angelegten Karten auf den Ablagestapel. (Du wählst als Erster ein neues Aktives Pokémon.)",
+        "it": "Scarta il Pokémon attivo di ciascun giocatore e tutte le carte a esso assegnate. Scegli un nuovo Pokémon attivo per primo.",
+        "pt": "Descarte o Pokémon Ativo de cada jogador e todas as cartas ligadas a ele (você escolhe um novo Pokémon Ativo primeiro).",
+        "es": "Descarta el Pokémon Activo de cada jugador y todas las cartas unidas a ellos. (Tú eliges un nuevo Pokémon Activo en primer lugar)."
+      },
+      "name": {
+        "en": "Entangled Dive",
+        "fr": "Plongeon Joint",
+        "de": "Mitreißender Tauchgang",
+        "it": "Tuffo Aggrovigliato",
+        "pt": "Mergulho Entrelaçado",
+        "es": "Zambullida Enredada"
       }
     }
   ],

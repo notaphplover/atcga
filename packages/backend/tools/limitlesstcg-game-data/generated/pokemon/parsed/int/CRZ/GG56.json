@@ -3,7 +3,10 @@
   "abilityName": "Phantom Star",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "This attack does 50 damage for each of your Pokémon that has any damage counters on it.",

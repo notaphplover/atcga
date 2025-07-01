@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each damage counter on your opponent's Active Pokémon.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "gr",
+      "cost": [
+        "g",
+        "r"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

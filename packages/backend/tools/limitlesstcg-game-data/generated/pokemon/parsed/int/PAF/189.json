@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Basic Energy card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Énergie de base de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Basis-Energiekarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Energia base dalla tua pila degli scarti e aggiungila alle carte che hai in mano.",
+        "pt": "Coloque uma carta de Energia Básica da sua pilha de descarte na sua mão.",
+        "es": "Pon 1 carta de Energía Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Berry Search",
+        "fr": "Recherche de Baies",
+        "de": "Beerensuche",
+        "it": "Cercabacche",
+        "pt": "Busca de Fruta",
+        "es": "Buscabayas"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

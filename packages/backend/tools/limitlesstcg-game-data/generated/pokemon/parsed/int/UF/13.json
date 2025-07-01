@@ -3,7 +3,9 @@
   "abilityName": "Dual Armor",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Remove 1 damage counter from each of your Pokémon (including Slowbro)."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

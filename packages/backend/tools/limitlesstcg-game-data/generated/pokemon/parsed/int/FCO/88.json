@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals his or her hand. Choose a card you find there and put it on the bottom of your opponent's deck.",
+        "fr": "Votre adversaire montre sa main. Choisissez une carte que vous y trouvez et mettez-la en dessous du deck de votre adversaire.",
+        "de": "Dein Gegner deckt seine Handkarten auf. Wähle 1 dieser Karten und lege sie unter das Deck deines Gegners.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Scegline una e mettila in fondo al suo mazzo.",
+        "es": "Tu rival enseña las cartas de su mano. Elige 1 carta que encuentres entre ellas y ponla en la parte inferior de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Covet",
+        "fr": "Implore",
+        "de": "Bezirzer",
+        "it": "Supplica",
+        "es": "Antojo"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

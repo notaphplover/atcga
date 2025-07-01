@@ -3,7 +3,10 @@
   "abilityName": "Dual Armor",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 20 more damage for each [W] Energy attached to Lanturn but not used to pay for this attack's Energy cost. You can't add more then 40 damage in this way."

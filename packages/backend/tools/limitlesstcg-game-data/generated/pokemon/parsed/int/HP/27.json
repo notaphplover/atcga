@@ -3,7 +3,11 @@
   "abilityName": "Clear Body",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."

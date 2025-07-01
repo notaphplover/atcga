@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Discard an Energy from your opponent's Active Pokémon.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has any [M] Energy attached, this attack does 120 more damage.",

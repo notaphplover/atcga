@@ -3,7 +3,10 @@
   "abilityName": "Star Barrier",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard all [R] Energy attached to Ponyta."

@@ -3,7 +3,12 @@
   "abilityName": "ブレイクウイング",
   "attacks": [
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "場に出ている「スタジアム」をトラッシュする。"

@@ -3,7 +3,12 @@
   "abilityName": "Reviving Flame",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "This attack does 30 more damage for each type of basic Energy attached to this Pokémon.",

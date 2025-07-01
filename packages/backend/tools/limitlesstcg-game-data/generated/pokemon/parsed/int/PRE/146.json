@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Search your deck for up to 2 Basic Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "rwl",
+      "cost": [
+        "r",
+        "w",
+        "l"
+      ],
       "dmg": "280",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

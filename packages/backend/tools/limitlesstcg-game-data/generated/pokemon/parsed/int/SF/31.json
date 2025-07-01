@@ -3,7 +3,9 @@
   "abilityName": "Green Dignity",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "After your attack, remove from Vespiquen the number of damage counters equal to the damage you did to the Defending Pokémon."
@@ -13,7 +15,10 @@
       }
     },
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip 2 coins. If both are heads, the Defending Pokémon is now Burned, Paralyzed, and Poisoned."

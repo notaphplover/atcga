@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each of your Ultra Beasts in play.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance.",
@@ -34,6 +40,26 @@
         "de": "Jetnadel",
         "it": "Agogetto",
         "es": "Aguja Propulsión"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Les deux joueurs mélangent leurs cartes Récompense avec leurs decks. Ensuite, chaque joueur place les 3 cartes du dessus de son deck, face cachée, comme cartes Récompense. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Beide Spieler mischen ihre Preiskarten in ihre Decks. Anschließend legt jeder Spieler die obersten 3 Karten seines Decks als seine verdeckten Preiskarten ab. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Entrambi i giocatori rimischiano le loro carte Premio nel proprio mazzo. Poi ciascuno prende le prime tre carte del proprio mazzo e le mette a faccia in giù come carte Premio. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Stinger-GX",
+        "fr": "Aiguillon-GX",
+        "de": "Stachel-GX",
+        "it": "Aculeus-GX",
+        "es": "Aguijón-GX"
       }
     }
   ],

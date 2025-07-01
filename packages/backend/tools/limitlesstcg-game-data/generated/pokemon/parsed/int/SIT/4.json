@@ -3,7 +3,10 @@
   "abilityName": "Hidden Threads",
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

@@ -3,7 +3,10 @@
   "abilityName": "Upper Material",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "You may switch Mesprit with 1 of your Benched Pokémon."

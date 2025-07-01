@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your opponent's next turn, whenever they flip a coin, treat it as tails.",
+        "fr": "Pendant son prochain tour, chaque fois que votre adversaire lance une pièce, considérez que c'est pile.",
+        "de": "Jedes Mal, wenn dein Gegner während seines nächsten Zuges 1 Münze wirft, gilt das Ergebnis als Zahl.",
+        "it": "Ogni volta che il tuo avversario lancia una moneta durante il suo prossimo turno, il risultato viene considerato croce.",
+        "pt": "Durante o próximo turno do seu oponente, sempre que ele jogar uma moeda, trate-a como coroa.",
+        "es": "Durante el próximo turno de tu rival, cada vez que este lance una moneda, se considerará que ha salido cruz."
+      },
+      "name": {
+        "en": "Overthink",
+        "fr": "Réflexion Excessive",
+        "de": "Kopfzerbrechen",
+        "it": "Rimuginare",
+        "pt": "Fundir a Cuca",
+        "es": "Cavilar"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

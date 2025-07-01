@@ -3,7 +3,12 @@
   "abilityName": "ロックウォール",
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "相手の山札を上から1枚トラッシュする。"

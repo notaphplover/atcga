@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "pccc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned. Put 8 damage counters instead of 1 on that Pokémon between turns.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Placez 8 marqueurs de dégâts au lieu d'un sur le Pokémon ciblé entre chaque tour.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Lege zwischen den Zügen 8 Schadensmarken anstelle von 1 Schadensmarke auf jenes Pokémon.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato. Tra un turno e l'altro, metti otto segnalini danno invece di uno su quel Pokémon.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado. Pon 8 contadores de daño en vez de 1 en ese Pokémon entre turnos."
+      },
+      "name": {
+        "en": "Severe Poison",
+        "fr": "Poison Violent",
+        "de": "Pures Gift",
+        "it": "Maloveleno",
+        "es": "Veneno Grave"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "If your opponent's Active Pokémon is Poisoned, heal 100 damage from this Pokémon.",
@@ -16,6 +42,23 @@
         "de": "Giftabsorption",
         "it": "Assorbiveleno",
         "es": "Absorción Veneno"
+      }
+    },
+    {
+      "cost": [],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Paralyzed and Poisoned. If this Pokémon has at least 4 extra Energy attached to it (in addition to this attack's cost), put 15 damage counters instead of 1 on that Pokémon between turns. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Paralysé. Si au moins 4 Énergies supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), placez 15 marqueurs de dégâts au lieu d'un sur le Pokémon ciblé entre chaque tour. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt paralysiert und vergiftet. Wenn an dieses Pokémon mindestens 4 extra Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), lege zwischen den Zügen 15 Schadensmarken anstelle von 1 Schadensmarke auf jenes Pokémon. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il Pokémon attivo del tuo avversario viene paralizzato e avvelenato. Se questo Pokémon ha almeno quattro Energie extra assegnate, in aggiunta a quelle del costo di questo attacco, tra un turno e l'altro, metti 15 segnalini danno invece di uno su quel Pokémon. Non puoi usare più di un attacco GX a partita.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado y Paralizado. Si este Pokémon tiene por lo menos 4 Energías adicionales unidas a él (además de las del coste de este ataque), pon 15 contadores de daño en vez de 1 en ese Pokémon entre turnos. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Nasty Goo Mix-GX",
+        "fr": "Mixture de Glu Fétide-GX",
+        "de": "Ekelschleim-Mix-GX",
+        "it": "Miscuglio di Appiccicume-GX",
+        "es": "Mezcla Mugre Asquerosa-GX"
       }
     }
   ],

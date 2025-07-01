@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "If the number of cards in your opponent's hand is at least 6, choose a number of cards there, without looking, until your opponent has 5 cards left. Have your opponent discard the cards you chose."
+      },
+      "name": {
+        "en": "Bad News"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 20 more damage."

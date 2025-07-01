@@ -3,7 +3,10 @@
   "abilityName": "Star Light",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, your opponent can't use any Poké-Powers on his or her Pokémon."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

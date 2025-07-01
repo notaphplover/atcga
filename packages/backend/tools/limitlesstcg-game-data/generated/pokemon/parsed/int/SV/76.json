@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [],
+      "effect": {
+        "en": "If you have the same number of cards or less in your hand as your opponent, draw cards until you have 1 more card than your opponent. (If you have more cards in your hand than your opponent, this attack does nothing.)"
+      },
+      "name": {
+        "en": "Greedy Draw"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Attach a [L] Energy card from your hand to 1 of your Pokémon."

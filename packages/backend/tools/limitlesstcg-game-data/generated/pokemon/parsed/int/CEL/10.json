@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If your opponent has a Stadium in play, discard it.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If Reshiram is on your Bench, this attack does 80 more damage.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned and Confused.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif. Le nouveau Pokémon Actif est maintenant Brûlé et Confus.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus. Das neue Aktive Pokémon ist jetzt verbrannt und verwirrt.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Il nuovo Pokémon attivo viene bruciato e confuso.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. El nuevo Pokémon Activo pasa a estar Confundido y Quemado."
+      },
+      "name": {
+        "en": "Captivating Salsa",
+        "fr": "Salsa Envoûtante",
+        "de": "Hinreißende Salsa",
+        "it": "Flamenco Incantato",
+        "es": "Salsa Cautivadora"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

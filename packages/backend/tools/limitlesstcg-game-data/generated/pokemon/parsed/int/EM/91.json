@@ -3,7 +3,9 @@
   "abilityName": "Cursed Glare",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Confused."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, this attack does 50 damage plus 20 more damage."

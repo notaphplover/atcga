@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Adormecido.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Night Eyes",
+        "fr": "Mauvais Œil",
+        "de": "Nachtaugen",
+        "it": "Occhi della Notte",
+        "pt": "Olhos da Noite",
+        "es": "Ojos Nocturnos"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 70 more damage.",

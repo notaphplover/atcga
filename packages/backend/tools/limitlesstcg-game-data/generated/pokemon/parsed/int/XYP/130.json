@@ -3,7 +3,13 @@
   "abilityName": "Raging Roar",
   "attacks": [
     {
-      "cost": "ddddd",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "150+",
       "effect": {
         "en": "Discard the top 2 cards of your deck. This attack does 50 more damage for each Supporter card discarded in this way.",

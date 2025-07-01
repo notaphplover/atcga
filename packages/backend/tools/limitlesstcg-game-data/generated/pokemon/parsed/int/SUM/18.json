@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal 30 damage from 1 of your Pokémon.",
+        "fr": "Soignez 30 dégâts à l'un de vos Pokémon.",
+        "de": "Heile 30 Schadenspunkte bei 1 deiner Pokémon.",
+        "it": "Cura uno dei tuoi Pokémon da 30 danni.",
+        "es": "Cura 30 puntos de daño a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Sweet Scent",
+        "fr": "Doux Parfum",
+        "de": "Lockduft",
+        "it": "Profumino",
+        "es": "Dulce Aroma"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

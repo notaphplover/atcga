@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon.",
+        "fr": "Échangez 1 des Pokémon de Banc de votre adversaire avec le Pokémon Défenseur.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Verteidigende Pokémon aus.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il Pokémon difensore.",
+        "es": "Cambia a 1 de los Pokémon en Banca de tu rival por el Pokémon Defensor."
+      },
+      "name": {
+        "en": "Tangle Drag",
+        "fr": "Lasso Piège",
+        "de": "Wirrzieher",
+        "it": "Trascinavvolgi",
+        "es": "Arrastre Enmarañado"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Heal 20 damage from this Pokémon.",

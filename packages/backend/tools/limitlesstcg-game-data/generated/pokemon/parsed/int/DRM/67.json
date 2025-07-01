@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {
@@ -13,7 +15,12 @@
       }
     },
     {
-      "cost": "wlcc",
+      "cost": [
+        "w",
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",
@@ -28,6 +35,26 @@
         "de": "Gigastoß",
         "it": "Gigaimpatto",
         "es": "Giga Impacto"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 3 [N] Pokémon from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Placez 3 Pokémon [N] de votre pile de défausse sur votre Banc. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 3 [N]-Pokémon aus deinem Ablagestapel auf deine Bank. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi tre Pokémon [N] dalla tua pila degli scarti e mettili nella tua panchina. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Dragonporter-GX",
+        "fr": "Dracoporteur-GX",
+        "de": "Drachenträger-GX",
+        "it": "Dragotrasporto-GX",
+        "es": "Portadragones-GX"
       }
     }
   ],

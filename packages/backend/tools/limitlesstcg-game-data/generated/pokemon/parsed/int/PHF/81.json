@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 10 damage times the number of damage counters on each of your Benched Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself.",

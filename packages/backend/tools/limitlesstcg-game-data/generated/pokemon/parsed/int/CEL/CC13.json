@@ -1,7 +1,30 @@
 {
   "abilityEffect": "Mew ex can use the attacks of all Pokémon in play as its own. (You still need the necessary Energy to use each attack.)",
   "abilityName": "Versatile",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for an Energy card and attach it to Mew ex. Shuffle your deck afterward. Then, you may switch Mew ex with 1 of your Benched Pokémon.",
+        "fr": "Choisissez dans votre deck une carte Énergie et attachez-la à Mew ex. Ensuite, mélangez votre deck. Vous pouvez alors échanger Mew ex avec 1 des Pokémon de votre Banc.",
+        "de": "Durchsuche dein Deck nach einer Energiekarte und lege sie an Mew ex an. Mische dein Deck danach. Danach kannst du Mew ex gegen 1 Pokémon auf deiner Bank austauschen.",
+        "it": "Cerca nel tuo mazzo una carta Energia e assegnala a Mew ex. Poi rimescola il tuo mazzo. Poi, puoi scambiare Mew ex con 1 dei tuoi Pokémon in Panchina.",
+        "pt": "Procure no seu deck por um card de Energia e ligue-o ao Mew ex. Embaralhe o seu deck depois disso. Depois, você pode substituir o Mew ex por 1 dos Pokémon no seu Banco.",
+        "es": "Busca en tu mazo una carta de Energía y únela a Mew-ex. Baraja tu mazo después. Luego, puedes cambiar a Mew-ex por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Power Move",
+        "fr": "Déplacement puissant",
+        "de": "Energieauswechsler",
+        "it": "Mossa Potente",
+        "pt": "Movimento Poderoso",
+        "es": "Movimiento poderoso"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

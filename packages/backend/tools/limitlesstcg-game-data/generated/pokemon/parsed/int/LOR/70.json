@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,6 +13,27 @@
         "it": "Graffio",
         "pt": "Arranhão",
         "es": "Arañazo"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "You can use this attack only if you have 10 or more cards in the Lost Zone. Put 12 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Vous ne pouvez utiliser cette attaque que si vous avez 10 cartes ou plus dans la Zone Perdue. Placez 12 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du 10 oder mehr Karten im Nirgendwo hast. Lege 12 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Puoi usare questo attacco solo se hai 10 o più carte nell'area perduta. Metti 12 segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Você só pode usar este ataque se tiver 10 ou mais cartas na Zona Perdida. Coloque 12 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Puedes usar este ataque solo si tienes 10 cartas o más en la Zona Perdida. Pon 12 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Lost Mine",
+        "fr": "Mine Perdue",
+        "de": "Nirgendwo-Mine",
+        "it": "Miniera Perduta",
+        "pt": "Mina Perdida",
+        "es": "Mina Perdida"
       }
     }
   ],

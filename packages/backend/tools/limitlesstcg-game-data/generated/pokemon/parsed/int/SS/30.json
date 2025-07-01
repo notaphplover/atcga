@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If you have [W] Energy cards in your hand, attach as many [W] Energy cards as you like to any of your Active Pokémon."
+      },
+      "name": {
+        "en": "Drizzle"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin for each Energy attached to all of your Active Pokémon. This attack does 30 damage times the number of heads."

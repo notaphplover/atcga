@@ -3,7 +3,10 @@
   "abilityName": "Puppet Offering",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

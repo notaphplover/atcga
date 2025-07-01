@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Reveal any number of Sweet Honey cards from your hand. This attack does 60 damage for each card you revealed in this way.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

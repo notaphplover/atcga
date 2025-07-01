@@ -3,7 +3,11 @@
   "abilityName": "Poison Point",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

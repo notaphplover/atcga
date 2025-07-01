@@ -3,7 +3,12 @@
   "abilityName": "Stir and Snooze",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Heal 20 damage from this Pokémon. This Pokémon is now Asleep.",

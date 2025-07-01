@@ -1,7 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to Diglett during your opponent's next turn.",
+        "fr": "Lancez une pièce. Si c'est face, prévenez tous les effets d'attaques (y compris les dégâts) infligés à Taupiqueur pendant le prochain tour de votre adversaire.",
+        "de": "Wirf eine Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Effekte von Angriffen, einschließlich Schaden, die Digda zugefügt werden.",
+        "it": "Lancia una moneta. Se esce testa, previeni tutti gli effetti degli attacchi, incluso il danno, inflitti a Diglett durante il prossimo turno del tuo avversario."
+      },
+      "name": {
+        "en": "Sand Veil",
+        "fr": "Voile Sable",
+        "de": "Sandschleier",
+        "it": "Sabbiavelo"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

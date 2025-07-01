@@ -3,7 +3,11 @@
   "abilityName": "Dangerous Mucus",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

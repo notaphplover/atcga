@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 3 cartes Objet, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 3 Itemkarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a tre carte Strumento, mostrale e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "pt": "Procure por até 3 cartas de Item no seu baralho, revele-as e coloque-as na sua mão. Em seguida, embaralhe o seu baralho.",
+        "es": "Busca en tu baraja hasta 3 cartas de Objeto, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Surprising Hand",
+        "fr": "Main Surprise",
+        "de": "Überraschungshand",
+        "it": "Mano Furba",
+        "pt": "Mão Surpreendente",
+        "es": "Mano Sorprendente"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool attached, this attack does 90 more damage.",

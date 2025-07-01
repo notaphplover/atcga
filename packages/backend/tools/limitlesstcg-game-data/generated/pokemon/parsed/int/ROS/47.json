@@ -3,7 +3,11 @@
   "abilityName": "Jewel Armor",
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon does 20 damage to itself.",

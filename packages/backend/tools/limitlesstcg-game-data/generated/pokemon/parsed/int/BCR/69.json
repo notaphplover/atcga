@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+        "fr": "Cette attaque inflige 30 dégâts à 1 des Pokémon de votre adversaire. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "it": "Questo attacco infligge 30 danni a uno dei Pokémon del tuo avversario. Il danno di questo attacco non è influenzato dalla debolezza o dalla resistenza.",
+        "es": "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival. El daño de este ataque no se ve afectado por Debilidad o Resistencia."
+      },
+      "name": {
+        "en": "Telekinesis",
+        "fr": "Lévikinésie",
+        "de": "Telekinese",
+        "it": "Telecinesi",
+        "es": "Telequinesis"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack can be used even if this Pokémon is Asleep. If this Pokémon is Asleep, this attack does 30 more damage.",

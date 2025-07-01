@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put 4 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 4 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît.",
+        "de": "Lege 4 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Metti quattro segnalini danno sui Pokémon del tuo avversario nel modo che preferisci.",
+        "pt": "Coloque 4 contadores de dano nos Pokémon do seu oponente como desejar.",
+        "es": "Pon 4 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Cursed Drop",
+        "fr": "Chute Maudite",
+        "de": "Verfluchter Fall",
+        "it": "Caduta Maledetta",
+        "pt": "Queda Amaldiçoada",
+        "es": "Caída Maldita"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Discard up to 3 [G] Energy cards from your Pokémon. This attack does 70 damage for each card you discarded in this way.",

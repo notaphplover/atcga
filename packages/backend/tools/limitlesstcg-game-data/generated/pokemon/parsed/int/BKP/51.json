@@ -3,7 +3,10 @@
   "abilityName": "Goodnight, Babies",
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

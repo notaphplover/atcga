@@ -3,7 +3,9 @@
   "abilityName": "Aqua Recycle",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If Starmie and the Defending Pokémon have the same amount of Energy attached to them, remove 4 damage counters from Starmie."
@@ -13,7 +15,9 @@
       }
     },
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Starmie can't attack during your next turn."

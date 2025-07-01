@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a card from your hand. If you do, draw 2 cards.",
+        "fr": "Défaussez une carte de votre main. Dans ce cas, piochez 2 cartes.",
+        "de": "Lege 1 Karte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 2 Karten.",
+        "it": "Scarta una delle carte che hai in mano. Se lo fai, pesca due carte.",
+        "pt": "Descarte 1 carta da sua mão. Se fizer isto, compre 2 cartas.",
+        "es": "Descarta 1 carta de tu mano. Si lo haces, roba 2 cartas."
+      },
+      "name": {
+        "en": "Cycle Draw",
+        "fr": "Pioche Cyclique",
+        "de": "Kreiszug",
+        "it": "Pesca Ciclica",
+        "pt": "Compra Cíclica",
+        "es": "Ciclorrobo"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

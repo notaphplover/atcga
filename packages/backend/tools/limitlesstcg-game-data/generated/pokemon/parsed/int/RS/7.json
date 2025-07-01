@@ -3,7 +3,9 @@
   "abilityName": "Psy Shadow",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokémon."

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "m"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If this Pokémon evolved from Gimmighoul during this turn, this attack does 90 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "You may shuffle this Pokémon and all attached cards into your deck.",

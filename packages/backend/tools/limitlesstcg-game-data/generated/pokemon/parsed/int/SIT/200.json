@@ -3,7 +3,10 @@
   "abilityName": "Star Rondo",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 90 more damage.",

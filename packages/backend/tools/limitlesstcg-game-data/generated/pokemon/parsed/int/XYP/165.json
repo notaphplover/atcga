@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "m",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Entertain"
+      }
+    },
+    {
+      "cost": [
+        "m"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the number of different types of Pokémon on your opponent's Bench."

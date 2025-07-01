@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon does 10 damage to itself for each damage counter on it.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 more damage for each heads.",

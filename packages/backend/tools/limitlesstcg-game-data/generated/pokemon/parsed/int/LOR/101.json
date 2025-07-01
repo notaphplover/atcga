@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put up to 2 basic Energy cards from your discard pile into your hand.",
+        "fr": "Ajoutez à votre main jusqu'à 2 cartes Énergie de base de votre pile de défausse.",
+        "de": "Nimm bis zu 2 Basis-Energiekarten aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a due carte Energia base dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "pt": "Coloque até 2 cartas de Energia básica da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 2 cartas de Energía Básica de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Into the Deep",
+        "fr": "Dans l'Abysse",
+        "de": "In die Tiefe",
+        "it": "Baratro",
+        "pt": "Nas Profundezas",
+        "es": "En lo Profundo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

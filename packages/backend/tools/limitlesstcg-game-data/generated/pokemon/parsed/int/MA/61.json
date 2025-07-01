@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Put 1 damage counter on 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Night Attack"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Chilling Breath",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "70+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 70 damage plus 20 more damage. Discard that Stadium card."

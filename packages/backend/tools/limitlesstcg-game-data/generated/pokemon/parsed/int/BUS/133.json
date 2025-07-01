@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
@@ -16,6 +18,45 @@
         "de": "Wasserring",
         "it": "Acquanello",
         "es": "Acua Aro"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 [W] Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Défaussez 2 Énergies [W] de ce Pokémon. Cette attaque inflige 120 dégâts à l'un des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "de": "Lege 2 [W]-Energien von diesem Pokémon auf deinen Ablagestapel. Diese Attacke fügt 1 Pokémon deines Gegners 120 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)",
+        "it": "Scarta due Energie [W] assegnate a questo Pokémon. Questo attacco infligge 120 danni a uno dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Descarta 2 Energías [W] de este Pokémon. Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      "name": {
+        "en": "Hydro Shot",
+        "fr": "Hydro-Coup",
+        "de": "Hydroschuss",
+        "it": "Idrocolpo",
+        "es": "Hidrodisparo"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Mélangez le Pokémon Actif de votre adversaire et toutes les cartes qui lui sont attachées dans son deck. Si votre adversaire n'a aucun Pokémon de Banc, cette attaque ne fait rien. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Mische das Aktive Pokémon deines Gegners und alle an es angelegten Karten in sein Deck. Wenn dein Gegner keine Pokémon auf der Bank hat, hat diese Attacke keine Auswirkungen. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Rimischia il Pokémon attivo del tuo avversario e tutte le carte a esso assegnate nel suo mazzo. Se il tuo avversario non ha Pokémon in panchina, questo attacco non ha effetto. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Tapu Storm-GX",
+        "fr": "Toko Tempête-GX",
+        "de": "Kapu-Sturm-GX",
+        "it": "Taputempesta-GX",
+        "es": "Tormenta Tapu-GX"
       }
     }
   ],

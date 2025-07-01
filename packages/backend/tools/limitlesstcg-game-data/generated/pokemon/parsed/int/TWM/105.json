@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "80",
       "effect": {
         "en": "This Pokémon is now Confused.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "250",
       "effect": {
         "en": "If this Pokémon is affected by a Special Condition, ignore all Energy in this attack's cost.",

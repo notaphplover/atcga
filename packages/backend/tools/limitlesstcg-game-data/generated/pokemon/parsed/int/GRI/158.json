@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 3 cartes dans votre deck et ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 3 Karten und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a tre carte e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 3 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Magical Ribbon",
+        "fr": "Ruban Magique",
+        "de": "Zauberband",
+        "it": "Fiocco Magico",
+        "es": "Cinta Mágica"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {
@@ -10,6 +33,26 @@
         "de": "Feenbrise",
         "it": "Vento di Fata",
         "es": "Viento Feérico"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Placez 2 des Pokémon de Banc de votre adversaire et toutes les cartes qui leur sont attachées dans la main de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Gib deinem Gegner 2 Pokémon von seiner Bank und alle an sie angelegten Karten auf seine Hand. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi due dei Pokémon in panchina del tuo avversario e tutte le carte loro assegnate e aggiungili alle carte che ha in mano. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Plea-GX",
+        "fr": "Supplique-GX",
+        "de": "Anflehen-GX",
+        "it": "Istanza-GX",
+        "es": "Ruego-GX"
       }
     }
   ],

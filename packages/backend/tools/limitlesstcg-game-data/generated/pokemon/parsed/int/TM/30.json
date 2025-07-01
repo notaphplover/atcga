@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip 2 coins. If both of them are heads, your opponent discards all cards from his or her hand.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 10 more damage for each damage counter on Sharpedo.",

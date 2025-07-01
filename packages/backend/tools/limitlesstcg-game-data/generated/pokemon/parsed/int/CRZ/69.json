@@ -3,7 +3,10 @@
   "abilityName": "Sun Energy",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

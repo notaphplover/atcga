@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "This attack does 10 damage for each damage counter on all of your Benched Single Strike Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

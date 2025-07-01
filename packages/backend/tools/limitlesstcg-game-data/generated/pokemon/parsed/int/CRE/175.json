@@ -3,7 +3,11 @@
   "abilityName": "Wall of Sand",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

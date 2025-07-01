@@ -3,7 +3,11 @@
   "abilityName": "はっぱドロー",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "jp": "おたがいのベンチポケモンの数x20ダメージ。"

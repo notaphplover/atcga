@@ -3,7 +3,9 @@
   "abilityName": "シャドームーブ",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "相手のバトルポケモンをやけどにする。"

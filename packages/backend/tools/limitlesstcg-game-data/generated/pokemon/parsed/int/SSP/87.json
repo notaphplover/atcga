@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Trainer card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Dresseur de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Trainerkarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Allenatore dalla tua pila degli scarti e aggiungila alle carte che hai in mano.",
+        "pt": "Coloque uma carta de Treinador da sua pilha de descarte na sua mão.",
+        "es": "Pon 1 carta de Entrenador de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Electromagnetic Sonar",
+        "fr": "Sonar Électromagnétique",
+        "de": "Elektromagnetisches Sonar",
+        "it": "Sonar Elettromagnetico",
+        "pt": "Sonar Eletromagnético",
+        "es": "Sonar Electromagnético"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

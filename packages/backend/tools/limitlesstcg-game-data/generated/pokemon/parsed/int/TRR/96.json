@@ -3,7 +3,9 @@
   "abilityName": "Darkness Veil",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Search your discard pile for a [W] Energy card and attach it to Rocket's Articuno ex."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

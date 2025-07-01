@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Blaine's Arcanine does 10 damage to itself."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard 3 [R] Energy cards attached to Blaine's Arcanine in order to use this attack."

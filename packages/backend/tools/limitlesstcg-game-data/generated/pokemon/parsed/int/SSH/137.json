@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "mm",
+      "cost": [
+        "m",
+        "m"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "220",
       "effect": {
         "en": "If this Pokémon has 8 or more damage counters on it, this attack does nothing.",

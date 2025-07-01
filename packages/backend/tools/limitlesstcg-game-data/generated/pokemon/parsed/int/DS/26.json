@@ -3,7 +3,11 @@
   "abilityName": "Temperamental Weather",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 30 damage plus 10 more damage for each Holon Energy card attached to Rain Castform."

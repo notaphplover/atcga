@@ -3,7 +3,11 @@
   "abilityName": "Shadow Connection",
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
@@ -12,6 +16,25 @@
         "de": "Klauenschlitzer",
         "it": "Lacerartiglio",
         "es": "Cuchillada Garra"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Cherchez autant de Pokémon de base que vous le voulez dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Durchsuche dein Deck nach beliebig vielen Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Cerca nel tuo mazzo un numero qualsiasi di Pokémon Base e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo. Non puoi usare più di un attacco GX a partita.",
+        "es": "Busca en tu baraja cualquier cantidad de Pokémon Básicos y ponlos en tu Banca. Después, baraja las cartas de tu baraja. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Nocturnal Maneuvers-GX",
+        "fr": "Manœuvres Nocturnes-GX",
+        "de": "Nächtliche Manöver-GX",
+        "it": "Manovre Notturne-GX",
+        "es": "Maniobras Nocturnas-GX"
       }
     }
   ],

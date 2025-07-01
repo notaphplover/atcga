@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "wl",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, if any of your current Active Pokémon does damage to any Defending Pokémon, this attack does 40 more damage (before applying Weakness and Resistance)."
+      },
+      "name": {
+        "en": "Dragon Dance"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "l"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Each Defending Pokémon is now Asleep."

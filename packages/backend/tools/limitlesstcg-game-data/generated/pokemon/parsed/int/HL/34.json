@@ -3,7 +3,11 @@
   "abilityName": "Ice Wall",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, put 1 damage counter on each of your opponent's Benched Pokémon."

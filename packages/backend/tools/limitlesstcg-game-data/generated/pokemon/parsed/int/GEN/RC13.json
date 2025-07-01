@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta qualsiasi e aggiungila a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta y ponla en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Wish",
+        "fr": "Vœu",
+        "de": "Wunschtraum",
+        "it": "Desiderio",
+        "es": "Deseo"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

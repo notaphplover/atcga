@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 50 more damage.",
@@ -16,6 +18,27 @@
         "de": "Sorgloser Kopf",
         "it": "Testa Sbadata",
         "es": "Cabeza Despistada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "If you use this attack when you have only 1 Prize card left, you win this game.",
+        "fr": "Si vous utilisez cette attaque alors qu'il ne vous reste qu'une seule carte Récompense, vous gagnez cette partie.",
+        "de": "Wenn du nur 1 Preiskarte übrig hast und mit dieser Attacke angreifst, gewinnst du dieses Spiel.",
+        "it": "Se usi questo attacco quando ti è rimasta una sola carta Premio, vinci la partita.",
+        "es": "Si usas este ataque cuando te queda solo 1 carta de Premio, ganas esta partida."
+      },
+      "name": {
+        "en": "Walk-Off Homer",
+        "fr": "But Vainqueur",
+        "de": "Entscheidender Treffer",
+        "it": "Punto Partita",
+        "es": "Paseo Final"
       }
     }
   ],

@@ -3,7 +3,12 @@
   "abilityName": "Strong Charge",
   "attacks": [
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard 3 Energy from this Pokémon.",

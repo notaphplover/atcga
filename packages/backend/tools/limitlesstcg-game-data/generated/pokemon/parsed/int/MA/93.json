@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Remove 4 damage counters from each of your Pokémon that has [G] Energy attached. If that Pokémon has less than 4 damage counters, remove all of them."
+      },
+      "name": {
+        "en": "Green Heal"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat until the end of your opponent's next turn."
@@ -11,7 +26,13 @@
       }
     },
     {
-      "cost": "ggccc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Sceptile ex can't use Slashing Strike during your next turn."

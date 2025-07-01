@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "fr": "Lancez une pièce. Si c'est face, cherchez une carte Supporter dans votre deck, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Wirf 1 Münze. Durchsuche bei Kopf dein Deck nach 1 Unterstützerkarte, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Lancia una moneta. Se esce testa, cerca nel tuo mazzo una carta Aiuto, mostrala e aggiungila alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+      },
+      "name": {
+        "en": "Lead",
+        "fr": "Mentor",
+        "de": "Führen",
+        "it": "Guidare"
+      }
+    },
+    {
+      "cost": [
+        "y"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

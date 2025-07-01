@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "lll",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Search your deck for a [L] Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Charge"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard all Energy attached to this Pokémon."

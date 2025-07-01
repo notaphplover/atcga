@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -17,7 +19,13 @@
       }
     },
     {
-      "cost": "fcccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {},
       "name": {
@@ -28,7 +36,13 @@
       }
     },
     {
-      "cost": "fcccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance). (You can't use more than 1 GX attack in a game.)",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "If you played any Supporter card from your hand during this turn, this attack does 40 damage plus 20 more damage."

@@ -3,7 +3,11 @@
   "abilityName": "Magma Armor",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "You may discard the top card of your deck. If you do, the Defending Pokémon is now Burned."

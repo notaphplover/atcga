@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card."
+      },
+      "name": {
+        "en": "Me First"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

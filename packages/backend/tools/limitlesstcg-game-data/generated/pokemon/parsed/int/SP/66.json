@@ -3,7 +3,10 @@
   "abilityName": "Battle Sense",
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "This attack does 50 more damage for each Leon card in your discard pile.",

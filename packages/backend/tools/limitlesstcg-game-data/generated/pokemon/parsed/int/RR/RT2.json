@@ -3,7 +3,23 @@
   "abilityName": "Frost Shift",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Hail"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Does 40 damage plus 10 more damage for each [C] Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."

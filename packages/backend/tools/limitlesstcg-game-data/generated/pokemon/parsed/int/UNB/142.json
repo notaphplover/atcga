@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Flip 2 coins. If either of them is heads, your opponent reveals their hand. For each heads, choose a card you find there. Your opponent shuffles those cards into their deck.",
+        "fr": "Lancez 2 pièces. Si vous obtenez au moins un côté face, votre adversaire dévoile sa main. Pour chaque côté face, choisissez une carte que vous y trouvez. Votre adversaire mélange ces cartes avec son deck.",
+        "de": "Wirf 2 Münzen. Wenn eine oder beide Münzen Kopf zeigen, zeigt dein Gegner dir seine Handkarten. Wähle pro Kopf 1 Karte, die du dort findest. Dein Gegner mischt jene Karten in sein Deck.",
+        "it": "Lancia due volte una moneta. Se esce almeno una volta testa, il tuo avversario mostra le carte che ha in mano. Ogni volta che esce testa, scegline una. Il tuo avversario rimischia quelle carte nel suo mazzo.",
+        "es": "Lanza 2 monedas. Si sale cara en alguna de ellas, tu rival enseña las cartas de su mano. Por cada cara, elige 1 carta que encuentres entre ellas. Tu rival pone esas cartas en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Pungent Aroma",
+        "fr": "Arôme Âcre",
+        "de": "Stechender Geruch",
+        "it": "Aroma Pungente",
+        "es": "Aroma Acre"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, choose a Special Condition. Your opponent's Active Pokémon is now affected by that Special Condition.",

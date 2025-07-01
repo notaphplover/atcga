@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Heal all damage from 1 of your Benched Pokémon.",
+        "fr": "Soignez tous les dégâts de l'un de vos Pokémon de Banc.",
+        "de": "Heile allen Schaden bei 1 Pokémon auf deiner Bank.",
+        "it": "Cura uno dei tuoi Pokémon in panchina da tutti i danni.",
+        "pt": "Cure todo o dano de 1 dos seus Pokémon no Banco.",
+        "es": "Cura todos los puntos de daño a uno de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Healing Fruit",
+        "fr": "Fruit Soigneur",
+        "de": "Heilendes Obst",
+        "it": "Frutto Toccasana",
+        "pt": "Fruta de Cura",
+        "es": "Fruta Sanadora"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

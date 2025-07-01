@@ -3,7 +3,10 @@
   "abilityName": "Unlucky Wind",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, the Defending Pokémon is now Confused."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon can't use any Poké-Powers or Poké-Bodies during your opponent's next turn."

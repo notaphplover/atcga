@@ -3,7 +3,10 @@
   "abilityName": "Temperament",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The defending Pokémon is now Asleep."

@@ -3,7 +3,11 @@
   "abilityName": "Eerie Aura",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, that Pokémon is now Asleep."

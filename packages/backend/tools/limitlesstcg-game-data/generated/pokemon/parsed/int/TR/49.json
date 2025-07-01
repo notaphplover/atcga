@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Shuffle Abra into your deck. (Discard all cards attached to Abra.)"
+      },
+      "name": {
+        "en": "Vanish"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

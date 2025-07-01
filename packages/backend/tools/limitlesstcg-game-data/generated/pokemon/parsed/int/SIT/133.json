@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "pd",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Knock Out 1 of your opponent's Radiant Pokémon.",
+        "fr": "Mettez K.O. l'un des Pokémon Radieux de votre adversaire.",
+        "de": "Mache 1 Strahlendes Pokémon deines Gegners kampfunfähig.",
+        "it": "Metti KO uno dei Pokémon Lucenti del tuo avversario.",
+        "pt": "Nocauteie 1 dos Pokémon Radiantes do seu oponente.",
+        "es": "Deja Fuera de Combate a 1 de los Pokémon Radiantes de tu rival."
+      },
+      "name": {
+        "en": "Radiant Hunt",
+        "fr": "Chasse Radieuse",
+        "de": "Strahlende Jagd",
+        "it": "Caccia Lucente",
+        "pt": "Caçada Radiante",
+        "es": "Caza Radiante"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "d"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Draw cards until you have 7 cards in your hand.",

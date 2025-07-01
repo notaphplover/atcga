@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "This attack does 10 damage times the number of damage counters on Houndour."
@@ -11,7 +13,9 @@
       }
     },
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, discard a [R] Energy card attached to Houndour."

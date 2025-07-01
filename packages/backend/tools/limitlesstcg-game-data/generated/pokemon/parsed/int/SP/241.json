@@ -1,7 +1,29 @@
 {
   "abilityEffect": "Once during your turn, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 3 damage counters on this Pokémon.",
   "abilityName": "Netherworld Gate",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon.",
+        "fr": "Placez 2 marqueurs de dégâts sur le Pokémon Actif de votre adversaire pour chaque Pokémon de Banc de votre adversaire.",
+        "de": "Lege für jedes Pokémon auf der Bank deines Gegners 2 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+        "it": "Metti due segnalini danno sul Pokémon attivo del tuo avversario per ogni suo Pokémon in panchina.",
+        "pt": "Coloque 2 contadores de dano no Pokémon Ativo do seu oponente para cada Pokémon no Banco do seu oponente.",
+        "es": "Pon 2 contadores de daño en el Pokémon Activo de tu rival por cada uno de los Pokémon en Banca de tu rival."
+      },
+      "name": {
+        "en": "Screaming Circle",
+        "fr": "Cercle Hurlant",
+        "de": "Kreischender Kreis",
+        "it": "Cerchio Urlante",
+        "pt": "Roda da Gritaria",
+        "es": "Círculo de Gritos"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 120,
   "imageUrls": {

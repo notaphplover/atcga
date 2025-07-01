@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Endormi.",
+        "de": "Wirf 1 Münze. Bei „Kopf“ schläft das Verteidigende Pokémon jetzt.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon difensore viene addormentato.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Lullaby",
+        "fr": "Comptine",
+        "de": "Wiegenlied",
+        "it": "Ninna nanna",
+        "es": "Nana"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

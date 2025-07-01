@@ -3,7 +3,10 @@
   "abilityName": "ぼうだん",
   "attacks": [
     {
-      "cost": "lf",
+      "cost": [
+        "l",
+        "f"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

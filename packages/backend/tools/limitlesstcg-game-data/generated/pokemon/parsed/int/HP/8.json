@@ -3,7 +3,10 @@
   "abilityName": "Delta Reactor",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
@@ -13,7 +16,13 @@
       }
     },
     {
-      "cost": "lmccc",
+      "cost": [
+        "l",
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

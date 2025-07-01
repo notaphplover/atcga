@@ -3,7 +3,11 @@
   "abilityName": "Restless Sleep",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Rocket's Snorlax is now Asleep (after doing damage)."

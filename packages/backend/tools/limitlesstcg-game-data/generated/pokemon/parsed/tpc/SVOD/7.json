@@ -3,7 +3,11 @@
   "abilityName": "エクスブート",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "200",
       "effect": {},
       "name": {

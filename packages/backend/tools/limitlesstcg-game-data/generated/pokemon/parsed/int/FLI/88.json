@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez un Pokémon dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo un Pokémon, mostralo e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 Pokémon, enséñalo y ponlo en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Find a Friend",
+        "fr": "Trouver un Ami",
+        "de": "Freunde finden",
+        "it": "Trovamico",
+        "es": "Encontrar un Amigo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If you have any [L] Pokémon on your Bench, this attack does 30 more damage.",

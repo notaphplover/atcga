@@ -3,7 +3,10 @@
   "abilityName": "Blizzard Veil",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Move 2 [W] Energy from this Pokémon to 1 of your Benched Pokémon.",

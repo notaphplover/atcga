@@ -3,7 +3,9 @@
   "abilityName": "Festival Lead",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Draw 2 cards.",

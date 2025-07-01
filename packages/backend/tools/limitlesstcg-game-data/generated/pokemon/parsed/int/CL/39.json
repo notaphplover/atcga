@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, Zangoose's Lost Claw attack's base damage is 60.",
+        "fr": "Pendant votre prochain tour, la Griffe perdue de Mangriff inflige 60 dégâts de base.",
+        "de": "In deinem nächsten Zug beträgt der Grundschaden von Sengos Nirgendwo-Klaue 60 Schadenspunkte.",
+        "it": "Durante il tuo prossimo turno, il danno base dell'attacco Artiglio Perduto di Zangoose è 60."
+      },
+      "name": {
+        "en": "Swords Dance",
+        "fr": "Danse-lames",
+        "de": "Schwerttanz",
+        "it": "Danza delle Spade"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Choose 1 card from your opponent's hand without looking and put it in the Lost Zone.",

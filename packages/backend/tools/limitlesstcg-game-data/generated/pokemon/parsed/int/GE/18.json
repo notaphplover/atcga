@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Choose 1 card from your opponent's hand without looking and discard it."
@@ -11,7 +13,10 @@
       }
     },
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard a [R] or [D] Energy attached to Houndoom. If you discard a [R] Energy, the Defending Pokémon is now Burned. If you discard a [D] Energy, this attack does 40 damage plus 30 more damage."

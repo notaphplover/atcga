@@ -3,7 +3,11 @@
   "abilityName": "ディノクライ",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "220",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+        "fr": "Votre adversaire échange son Pokémon Actif contre l'un de ses Pokémon de Banc.",
+        "de": "Dein Gegner tauscht sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank aus.",
+        "it": "Il tuo avversario scambia il suo Pokémon attivo con uno della sua panchina.",
+        "pt": "Seu oponente troca o próprio Pokémon Ativo por 1 dos Pokémon no Banco dele(a).",
+        "es": "Tu rival cambia su Pokémon Activo por 1 de sus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Roar",
+        "fr": "Hurlement",
+        "de": "Brüller",
+        "it": "Boato",
+        "pt": "Rugido",
+        "es": "Rugido"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

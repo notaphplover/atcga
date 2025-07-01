@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      "name": {
+        "en": "Perplex",
+        "fr": "Affolement",
+        "de": "Perplex",
+        "it": "Sconcerto",
+        "es": "Desconcierto"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon.",
@@ -16,6 +38,24 @@
         "de": "Knuddelkloppe und Fallen",
         "it": "Gransacco di Botte",
         "es": "Caída Amistosa"
+      }
+    },
+    {
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into their deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Choisissez l'un des Pokémon de Banc de votre adversaire. Votre adversaire mélange ce Pokémon et toutes les cartes qui lui sont attachées avec son deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wähle 1 Pokémon auf der Bank deines Gegners. Dein Gegner mischt jenes Pokémon und alle an es angelegten Karten in sein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scegli uno dei Pokémon in panchina del tuo avversario. Il tuo avversario rimischia quel Pokémon e tutte le carte a esso assegnate nel suo mazzo. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Dream Fear-GX",
+        "fr": "Peur de Rêve-GX",
+        "de": "Traumangst-GX",
+        "it": "Terrore Onirico-GX",
+        "es": "Temor Onírico-GX"
       }
     }
   ],

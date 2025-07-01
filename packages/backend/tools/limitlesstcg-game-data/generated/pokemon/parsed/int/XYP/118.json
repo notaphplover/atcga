@@ -3,7 +3,11 @@
   "abilityName": "Justified",
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "100",
       "effect": {
         "en": "This Pokémon can't use Sacred Sword during your next turn."

@@ -3,11 +3,24 @@
   "abilityName": "Night Vision",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Slash"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent can't play any Supporter Cards from his or her hand during your opponent's next turn."
+      },
+      "name": {
+        "en": "Limitation"
       }
     }
   ],

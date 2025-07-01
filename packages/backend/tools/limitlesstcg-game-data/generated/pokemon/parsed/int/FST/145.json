@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
@@ -18,6 +21,28 @@
         "it": "Rapigiro",
         "pt": "Giro Rápido",
         "es": "Giro Rápido"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f"
+      ],
+      "effect": {
+        "en": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 60.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Actif de votre adversaire jusqu'à ce qu'il ne lui reste que 60 PV.",
+        "de": "Lege so lange Schadensmarken auf das Aktive Pokémon deines Gegners, bis seine verbleibenden KP gleich 60 sind.",
+        "it": "Metti dei segnalini danno sul Pokémon attivo del tuo avversario finché i suoi PS rimanenti diventano 60.",
+        "pt": "Coloque contadores de dano no Pokémon Ativo do seu oponente até o PS restante dele ser 60.",
+        "es": "Pon contadores de daño en el Pokémon Activo de tu rival hasta que le queden 60 PS."
+      },
+      "name": {
+        "en": "Ancient Imprint",
+        "fr": "Empreinte Ancestrale",
+        "de": "Uralte Prägung",
+        "it": "Influsso Antico",
+        "pt": "Impressão Ancestral",
+        "es": "Marca Ancestral"
       }
     }
   ],

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {
@@ -13,7 +17,13 @@
       }
     },
     {
-      "cost": "wcccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 100 more damage. Then, discard that Stadium card.",
@@ -28,6 +38,24 @@
         "de": "Drakonisches Desaster",
         "it": "Disastro del Dragone",
         "es": "Desastre Draco"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Discard an Energy from each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Défaussez une Énergie de chacun des Pokémon de votre adversaire. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 1 Energie von jedem Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scarta un'Energia assegnata a ciascuno dei Pokémon del tuo avversario. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Dread Storm-GX",
+        "fr": "Tempête d'Effroi-GX",
+        "de": "Sturm des Schreckens-GX",
+        "it": "Tempesta Malefica-GX",
+        "es": "Tormenta Temor-GX"
       }
     }
   ],

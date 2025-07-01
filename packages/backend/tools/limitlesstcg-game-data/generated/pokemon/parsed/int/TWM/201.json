@@ -3,7 +3,11 @@
   "abilityName": "Happy Switch",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "You may draw cards until you have 6 cards in your hand.",

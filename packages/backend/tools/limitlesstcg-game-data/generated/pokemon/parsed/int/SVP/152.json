@@ -3,7 +3,11 @@
   "abilityName": "Snow Sink",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Put an Energy attached to this Pokémon into your hand.",

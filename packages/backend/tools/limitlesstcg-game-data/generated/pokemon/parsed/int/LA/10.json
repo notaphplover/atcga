@@ -3,7 +3,11 @@
   "abilityName": "Magnetic Reversal",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your next turn, Metagross's Extra Comet Punch attack's base damage is 100."

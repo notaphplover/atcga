@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gp",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Remove a number of damage counters from 1 of your Benched Pokémon equal to the number of [W] Energy cards attached to Shining Celebi. If the Pokémon has fewer damage counters than that, remove all of them."
+      },
+      "name": {
+        "en": "Healing Water"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "p"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a number of coins equal to the number of Energy attached to the Defending Pokémon. If you get 1 or more heads, the Defending Pokémon is now Asleep, Confused, or Poisoned (your choice)."

@@ -1,7 +1,35 @@
 {
   "attacks": [
     {
-      "cost": "ffcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a [F] Energy card and attach it to Golem. If you do, remove 2 damage counters from Golem."
+      },
+      "name": {
+        "en": "Mend"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 10 damage for each damage counter on Golem to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Enraged Linear Attack"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance."

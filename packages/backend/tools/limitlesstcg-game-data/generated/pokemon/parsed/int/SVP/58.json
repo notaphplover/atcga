@@ -3,7 +3,11 @@
   "abilityName": "Hyper Blower",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "If the Defending Pokémon is an Evolution Pokémon, it can't attack during your opponent's next turn.",

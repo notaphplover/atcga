@@ -3,7 +3,24 @@
   "abilityName": "Rai-shield",
   "attacks": [
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If that Pokémon has Poké-Powers, this attack does 30 damage plus 20 more damage."
+      },
+      "name": {
+        "en": "Power Short"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

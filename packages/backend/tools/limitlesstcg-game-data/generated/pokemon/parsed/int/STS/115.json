@@ -3,7 +3,11 @@
   "abilityName": "Steam Up",
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

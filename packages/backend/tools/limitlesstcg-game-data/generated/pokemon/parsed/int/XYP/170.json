@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 50 more damage for each of your opponent's Pokémon-EX."
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon can't use Dragon Strike during your next turn."

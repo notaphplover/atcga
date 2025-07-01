@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Attach a [L] Energy card from your discard pile to this Pokémon."
+      },
+      "name": {
+        "en": "Energize"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself."

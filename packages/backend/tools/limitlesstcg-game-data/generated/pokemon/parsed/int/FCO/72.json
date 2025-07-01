@@ -3,7 +3,11 @@
   "abilityName": "Sparkle Veil",
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 50 more damage.",

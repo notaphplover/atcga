@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "rwl",
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 60 damage to each of your opponent's Pokémon ex. This attack's damage isn't affected by Weakness or Resistance.",
+        "fr": "Cette attaque inflige 60 dégâts à chacun des Pokémon-ex de votre adversaire. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+        "de": "Diese Attacke fügt jedem Pokémon-ex deines Gegners 60 Schadenspunkte zu. Der Schaden dieser Attacke wird durch Schwäche oder Resistenz nicht verändert.",
+        "it": "Questo attacco infligge 60 danni a ciascuno dei Pokémon-ex del tuo avversario. I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza.",
+        "pt": "Este ataque causa 60 pontos de dano a cada um dos Pokémon ex do seu oponente. O dano deste ataque não é afetado por Fraqueza ou Resistência.",
+        "es": "Este ataque hace 60 puntos de daño a cada uno de los Pokémon ex de tu rival. El daño de este ataque no se ve afectado por Debilidad o Resistencia."
+      },
+      "name": {
+        "en": "Severe Squall",
+        "fr": "Rafale Violente",
+        "de": "Starker Schwall",
+        "it": "Burrasca Violenta",
+        "pt": "Ventania Intensa",
+        "es": "Ráfaga Inclemente"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "w",
+        "l"
+      ],
       "dmg": "280",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

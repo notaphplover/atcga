@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent puts a card from his or her hand on the bottom of his or her deck.",
+        "fr": "Votre adversaire place une carte de sa main en dessous de son deck.",
+        "de": "Dein Gegner legt 1 seiner Handkarten unter sein Deck.",
+        "it": "Il tuo avversario prende una carta dalla sua mano e la mette in fondo al suo mazzo.",
+        "es": "Tu rival pone 1 carta de su mano en la parte inferior de su baraja."
+      },
+      "name": {
+        "en": "Act Cute",
+        "fr": "Si Mignon",
+        "de": "Kokettieren",
+        "it": "Furbetto",
+        "es": "Hacerse el Lindo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

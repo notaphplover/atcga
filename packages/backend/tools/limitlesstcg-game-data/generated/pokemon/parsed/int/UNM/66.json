@@ -3,7 +3,12 @@
   "abilityName": "Electric Swamp",
   "attacks": [
     {
-      "cost": "lccc",
+      "cost": [
+        "l",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

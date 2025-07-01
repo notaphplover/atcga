@@ -3,7 +3,12 @@
   "abilityName": "Lazy",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard a basic Energy card attached to Slaking or this attack does nothing. Slaking can't attack during your next turn."

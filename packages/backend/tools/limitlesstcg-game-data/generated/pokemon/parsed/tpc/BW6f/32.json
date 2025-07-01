@@ -3,7 +3,12 @@
   "abilityName": "どくのトゲ",
   "attacks": [
     {
-      "cost": "ppcc",
+      "cost": [
+        "p",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "jp": "相手のバトルポケモンがどくなら、40ダメージを追加。"

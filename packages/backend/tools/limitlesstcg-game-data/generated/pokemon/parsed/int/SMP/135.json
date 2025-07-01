@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "rpc",
+      "cost": [
+        "r",
+        "p",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Flip a coin. If tails, discard a [R] Energy and a [P] Energy from this Pokémon."

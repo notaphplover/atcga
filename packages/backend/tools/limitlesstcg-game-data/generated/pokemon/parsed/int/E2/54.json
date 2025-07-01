@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. Flip 3 coins. This attack does 10 damage times the number of heads to that Pokémon. Don't apply Weakness and Resistance."
+      },
+      "name": {
+        "en": "Triple Bone"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 50 damage times the number of heads."

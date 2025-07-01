@@ -3,7 +3,12 @@
   "abilityName": "Chaotic Star",
   "attacks": [
     {
-      "cost": "pppp",
+      "cost": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
       "dmg": "160",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

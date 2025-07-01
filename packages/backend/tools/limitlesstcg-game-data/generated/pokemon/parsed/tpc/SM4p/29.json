@@ -3,7 +3,11 @@
   "abilityName": "エボルショック",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

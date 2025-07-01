@@ -3,7 +3,11 @@
   "abilityName": "ピカダッシュ",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "コインを1回投げウラなら、このワザは失敗。"

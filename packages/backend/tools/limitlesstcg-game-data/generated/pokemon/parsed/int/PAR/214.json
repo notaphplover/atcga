@@ -3,7 +3,9 @@
   "abilityName": "Buggy Turbo",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "This attack does 40 damage for each Energy attached to this Pokémon.",

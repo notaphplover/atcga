@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Attach up to 2 Basic [F] Energy cards from your discard pile to 1 of your Pokémon.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [F] de base de votre pile de défausse à l'un de vos Pokémon.",
+        "de": "Lege bis zu 2 Basis-[F]-Energiekarten aus deinem Ablagestapel an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon fino a due carte Energia base [F] dalla tua pila degli scarti.",
+        "pt": "Ligue até 2 cartas de Energia [F] Básica da sua pilha de descarte a 1 dos seus Pokémon.",
+        "es": "Une hasta 2 cartas de Energía [F] Básica de tu pila de descartes a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Sand Bringer",
+        "fr": "Porteur de Sable",
+        "de": "Sandbringer",
+        "it": "Portasabbia",
+        "pt": "Emissário das Areias",
+        "es": "Portador de Arena"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "220",
       "effect": {
         "en": "If this Pokémon has 4 or more damage counters on it, this attack does nothing.",

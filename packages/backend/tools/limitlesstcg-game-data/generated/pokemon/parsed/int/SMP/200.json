@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
         "en": "Bite"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      "name": {
+        "en": "Paralyzing Gaze"
       }
     }
   ],

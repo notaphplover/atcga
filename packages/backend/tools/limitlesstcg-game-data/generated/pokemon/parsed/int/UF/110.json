@@ -3,7 +3,12 @@
   "abilityName": "Bursting Up",
   "attacks": [
     {
-      "cost": "rrcc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard an Energy card attached to Typhlosion ex and then discard an Energy card attached to the Defending Pokémon."

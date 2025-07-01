@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Lairon during your opponent's next turn."
+      },
+      "name": {
+        "en": "Iron Defense"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

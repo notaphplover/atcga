@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Does 10 damage to each Pokémon that isn't [W] on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.)"

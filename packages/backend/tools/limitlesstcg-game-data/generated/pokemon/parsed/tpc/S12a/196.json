@@ -3,7 +3,11 @@
   "abilityName": "はがねのおやど",
   "attacks": [
     {
-      "cost": "wmc",
+      "cost": [
+        "w",
+        "m",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

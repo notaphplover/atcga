@@ -3,7 +3,9 @@
   "abilityName": "Bright Veil",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Draw cards until you have 6 cards in your hand.",

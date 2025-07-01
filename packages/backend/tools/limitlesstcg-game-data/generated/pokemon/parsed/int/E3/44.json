@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 10 damage plus 20 more damage for each [W] Energy attached to Starmie but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
@@ -11,7 +13,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 30 damage plus 20 more damage for each Special Energy card attached to the Defending Pokémon."

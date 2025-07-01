@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "During your opponent's next turn, the Defending Pokémon can't attack.",
@@ -21,7 +24,10 @@
       }
     },
     {
-      "cost": "gr",
+      "cost": [
+        "g",
+        "r"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This Pokémon also does 20 damage to itself.",

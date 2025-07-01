@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "If your opponent's Active Pokémon is a [N] Pokémon, it is now Paralyzed.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "wwcc",
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "250",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

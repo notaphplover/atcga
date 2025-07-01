@@ -3,7 +3,10 @@
   "abilityName": "Wild Dash",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "This Pokémon does 10 damage to itself.",

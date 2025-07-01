@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "If you go second, you can't use this attack during your first turn. This attack does 30 damage for each of your Benched Pokémon.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "gwl",
+      "cost": [
+        "g",
+        "w",
+        "l"
+      ],
       "dmg": "180",
       "effect": {
         "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic non-[C] Pokémon.",

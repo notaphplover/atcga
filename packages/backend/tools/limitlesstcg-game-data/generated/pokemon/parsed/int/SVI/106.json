@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "This attack does 10 more damage for each [P] Pokémon in your discard pile.",

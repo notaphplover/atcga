@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon can't retreat or use any Poké-Powers during your opponent's next turn."
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard a [D] Energy attached to Houndoom G. If you do, this attack does 40 damage plus 20 more damage."

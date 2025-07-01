@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+        "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur ne peut pas attaquer durant le prochain tour de votre adversaire.",
+        "de": "Wirf eine Münze. Bei „Kopf“ kann das Verteidigende Pokémon im nächsten Zug deines Gegners nicht angreifen.",
+        "it": "Lancia una moneta. Se esce testa, il Pokémon Difensore non può attaccare durante il prossimo turno del tuo avversario.",
+        "es": "Lanza una moneda. Si sale cara, el Pokémon Defensor no puede atacar durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Tail Whip",
+        "fr": "Mouvemend'keu",
+        "de": "Rutenschlag",
+        "it": "Colpocoda",
+        "es": "Látigo"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

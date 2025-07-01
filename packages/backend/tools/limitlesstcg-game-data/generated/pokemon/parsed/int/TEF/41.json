@@ -3,7 +3,10 @@
   "abilityName": "Torrential Heart",
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "160",
       "effect": {
         "en": "During your next turn, this Pokémon can't use Giant Wave.",

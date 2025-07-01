@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin until you get tails. For each heads, heal 50 damage from this Pokémon.",

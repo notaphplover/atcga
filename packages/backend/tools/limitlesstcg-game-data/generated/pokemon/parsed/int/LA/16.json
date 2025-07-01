@@ -1,7 +1,19 @@
 {
   "abilityEffect": "Once during your turn, when you put Spiritomb from your hand onto your Bench, you may put 1 damage counter on all Pokémon that already have any damage counters on them (both yours and your opponent's). You can't use more than 1 Curse Breath Poké-Power each turn.",
   "abilityName": "Curse Breath",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Move 1 damage counter from 1 of your Pokémon to 1 of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Transfer Pain"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

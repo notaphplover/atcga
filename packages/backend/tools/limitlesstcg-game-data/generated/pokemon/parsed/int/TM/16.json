@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+        "fr": "Échangez le Pokémon Défenseur avec l'un des Pokémon de Banc de votre adversaire.",
+        "de": "Tausche das Verteidigende Pokémon gegen 1 Pokémon auf der Bank deines Gegners aus.",
+        "it": "Scambia il Pokémon Difensore con 1 dei Pokémon in Panchina del tuo avversario."
+      },
+      "name": {
+        "en": "Saliva Lure",
+        "fr": "Piège de salive",
+        "de": "Speichelköder",
+        "it": "Escasaliva"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Remove 3 damage counters from Carnivine. The Defending Pokémon can't retreat during your opponent's next turn.",

@@ -3,7 +3,22 @@
   "abilityName": "Stages of Evolution",
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Linear Attack"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Burned."

@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. This attack does 10 damage to the new Defending Pokémon."
+      },
+      "name": {
+        "en": "Sweet Temptation"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If Gorebyss has any [P] Energy attached to it, this attack does 30 damage plus 20 more damage and the Defending Pokémon is now Confused."

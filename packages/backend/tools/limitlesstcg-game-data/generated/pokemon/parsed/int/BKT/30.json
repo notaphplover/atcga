@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw 7 cards.",
+        "fr": "Mélangez votre main avec votre deck. Ensuite, piochez 7 cartes.",
+        "de": "Mische deine Handkarten in dein Deck. Ziehe anschließend 7 Karten.",
+        "it": "Metti le carte che hai in mano nel tuo mazzo e rimischialo. Poi pesca sette carte.",
+        "es": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba 7 cartas."
+      },
+      "name": {
+        "en": "Deep Sea Swirl",
+        "fr": "Remous Abyssal",
+        "de": "Tiefseewirbel",
+        "it": "Vortice Abissale",
+        "es": "Remolino de Alta Mar"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If you and your opponent have the same number of Benched Pokémon, your opponent's Active Pokémon is now Paralyzed.",

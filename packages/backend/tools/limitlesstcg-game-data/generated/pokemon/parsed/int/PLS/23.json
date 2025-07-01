@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. The new Defending Pokémon is now Burned.",
+        "fr": "Échangez 1 des Pokémon de Banc de votre adversaire avec le Pokémon Défenseur. Le nouveau Pokémon Défenseur est maintenant Brûlé.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Verteidigende Pokémon aus. Das neue Verteidigende Pokémon ist jetzt verbrannt.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il Pokémon difensore. Il nuovo Pokémon difensore viene bruciato.",
+        "es": "Cambia a 1 de los Pokémon en Banca de tu rival por el Pokémon Defensor. El nuevo Pokémon Defensor pasa a estar Quemado."
+      },
+      "name": {
+        "en": "Luring Flame",
+        "fr": "Flamme Attrayante",
+        "de": "Verlockende Flamme",
+        "it": "Fiamma Allettante",
+        "es": "Llama Atrayente"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Discard the top 4 cards of your deck. This attack does 50 damage times the number of [R] Energy cards you discarded.",

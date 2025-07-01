@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -21,7 +23,9 @@
       }
     },
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "100",
       "effect": {
         "en": "You can use this attack only if this Pokémon used Stun Needle during your last turn.",

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, discard the top 3 cards of your opponent's deck.",
+        "fr": "Lancez une pièce. Si c'est face, défaussez les 3 cartes du dessus du deck de votre adversaire.",
+        "de": "Wirf 1 Münze. Lege bei Kopf die obersten 3 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Lancia una moneta. Se esce testa, scarta le prime tre carte del mazzo del tuo avversario.",
+        "es": "Lanza 1 moneda. Si sale cara, descarta las 3 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Mix-Up",
+        "fr": "Mélange",
+        "de": "Durcheinander",
+        "it": "Frullatore",
+        "es": "Mezclar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "This Pokémon is now Confused.",

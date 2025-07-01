@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Both Active Pokémon are now Poisoned.",
+        "fr": "Les deux Pokémon Actifs sont maintenant Empoisonnés.",
+        "de": "Beide Aktiven Pokémon sind jetzt vergiftet.",
+        "it": "Entrambi i Pokémon attivi vengono avvelenati.",
+        "pt": "Ambos os Pokémon Ativos agora estão Envenenados.",
+        "es": "Ambos Pokémon Activos pasan a estar Envenenados."
+      },
+      "name": {
+        "en": "Splattering Poison",
+        "fr": "Poison Éclaboussant",
+        "de": "Giftgespritze",
+        "it": "Spruzzata di Veleno",
+        "pt": "Respingar Veneno",
+        "es": "Veneno Salpicante"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Poisoned, this attack does 120 more damage.",

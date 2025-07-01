@@ -3,7 +3,11 @@
   "abilityName": "Dynamotor",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

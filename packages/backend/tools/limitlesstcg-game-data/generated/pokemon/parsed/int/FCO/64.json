@@ -3,7 +3,11 @@
   "abilityName": "Drive Change",
   "attacks": [
     {
-      "cost": "mmm",
+      "cost": [
+        "m",
+        "m",
+        "m"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "Discard as many [M] Energy attached to this Pokémon as you like. This attack does 20 more damage for each Energy card discarded in this way.",

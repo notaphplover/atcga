@@ -3,7 +3,12 @@
   "abilityName": "Scornful Storm",
   "attacks": [
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on the Defending Pokémon.",

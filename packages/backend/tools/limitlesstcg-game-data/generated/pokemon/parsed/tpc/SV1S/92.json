@@ -3,7 +3,11 @@
   "abilityName": "サイコエンブレイス",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "jp": "このポケモンの特殊状態を、すべて回復する。"

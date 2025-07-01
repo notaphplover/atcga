@@ -3,7 +3,10 @@
   "abilityName": "Electromagnetic Wall",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

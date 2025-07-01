@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Put up to 2 Pokémon from your discard pile into your hand.",
+        "fr": "Ajoutez jusqu'à 2 Pokémon de votre pile de défausse à votre main.",
+        "de": "Nimm bis zu 2 Pokémon aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi fino a due Pokémon dalla tua pila degli scarti e aggiungili alle carte che hai in mano.",
+        "pt": "Coloque até 2 Pokémon da sua pilha de descarte na sua mão.",
+        "es": "Pon hasta 2 Pokémon de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Recovery Net",
+        "fr": "Filet de Récupération",
+        "de": "Rückgewinnungsnetz",
+        "it": "Rete di Ripristino",
+        "pt": "Rede de Recuperação",
+        "es": "Red de Recuperación"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",

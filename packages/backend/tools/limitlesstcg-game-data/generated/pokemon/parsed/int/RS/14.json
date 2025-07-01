@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Wailord does 20 damage to itself."
@@ -11,7 +15,13 @@
       }
     },
     {
-      "cost": "wwwcc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

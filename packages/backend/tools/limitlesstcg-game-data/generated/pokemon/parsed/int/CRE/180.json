@@ -3,7 +3,11 @@
   "abilityName": "Hidden Claw",
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "You may put this Pokémon and all attached cards into your hand.",

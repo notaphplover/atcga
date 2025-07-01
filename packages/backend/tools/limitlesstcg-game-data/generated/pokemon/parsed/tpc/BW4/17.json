@@ -3,7 +3,10 @@
   "abilityName": "うわのそら",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "jp": "このポケモンをねむりにする。"

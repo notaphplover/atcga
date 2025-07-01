@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a basic Energy card, show it to your opponent, and put it into your hand."
+      },
+      "name": {
+        "en": "Energy Catch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Skitty does 10 damage to itself."

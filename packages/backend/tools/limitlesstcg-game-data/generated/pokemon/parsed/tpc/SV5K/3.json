@@ -3,7 +3,11 @@
   "abilityName": "かたいこうら",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

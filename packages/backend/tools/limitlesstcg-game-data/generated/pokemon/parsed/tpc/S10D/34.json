@@ -3,7 +3,10 @@
   "abilityName": "すたこらさっさ",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "90",
       "effect": {
         "jp": "このポケモンにも30ダメージ。"

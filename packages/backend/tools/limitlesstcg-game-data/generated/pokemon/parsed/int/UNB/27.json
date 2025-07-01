@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card. If you do, this Pokémon is now Asleep.",
+        "fr": "Piochez une carte. Dans ce cas, ce Pokémon est maintenant Endormi.",
+        "de": "Ziehe 1 Karte. Wenn du das machst, schläft dieses Pokémon jetzt.",
+        "it": "Pesca una carta. Se lo fai, questo Pokémon viene addormentato.",
+        "es": "Roba 1 carta. Si lo haces, este Pokémon pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Caturday",
+        "fr": "Chamedi",
+        "de": "Schnurrtag",
+        "it": "Giornogatto",
+        "es": "Sábado Gatuno"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn.",

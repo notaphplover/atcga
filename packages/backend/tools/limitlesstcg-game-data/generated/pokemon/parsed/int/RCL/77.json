@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Move an Energy from 1 of your opponent's Benched Pokémon to their Active Pokémon.",
+        "fr": "Déplacez une Énergie de l'un des Pokémon de Banc de votre adversaire vers son Pokémon Actif.",
+        "de": "Verschiebe 1 Energie von 1 Pokémon auf der Bank deines Gegners auf sein Aktives Pokémon.",
+        "it": "Sposta un'Energia da uno dei Pokémon nella panchina del tuo avversario al suo Pokémon attivo.",
+        "pt": "Mova 1 Energia de 1 dos Pokémon no Banco do seu oponente para o Pokémon Ativo dele(a).",
+        "es": "Mueve 1 Energía de 1 de los Pokémon en Banca de tu rival a su Pokémon Activo."
+      },
+      "name": {
+        "en": "Energy Warp",
+        "fr": "Téléportation d'Énergie",
+        "de": "*Energiewarp",
+        "it": "Distorsione Energetica",
+        "pt": "Portal de Energia",
+        "es": "Teletransporte Energía"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",

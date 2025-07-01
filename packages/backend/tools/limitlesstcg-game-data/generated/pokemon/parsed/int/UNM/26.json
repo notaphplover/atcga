@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+        "fr": "Cherchez dans votre deck jusqu'à 2 cartes Énergie de base de différents types et attachez-les à vos Pokémon, de la manière que vous voulez. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Basis-Energiekarten verschiedenen Typs und lege sie beliebig an deine Pokémon an. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte Energia base di diversi tipi e assegnale a piacimento ai tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 cartas de Energía Básica de diferentes tipos y únelas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Victory Sign",
+        "fr": "V de Victoire",
+        "de": "Victoryzeichen",
+        "it": "Segno di Vittoria",
+        "es": "Señal de Victoria"
+      }
+    },
+    {
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

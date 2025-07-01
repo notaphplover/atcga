@@ -3,7 +3,10 @@
   "abilityName": "Bursting Spores",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "If your opponent's Active Pokémon is Poisoned, this attack does 70 more damage.",

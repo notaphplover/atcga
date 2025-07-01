@@ -3,7 +3,21 @@
   "abilityName": "Pattern Distraction",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin until you get tails. For each heads, draw 2 cards."
+      },
+      "name": {
+        "en": "Whimsy Draw"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If tails, Spinda does 10 damage to itself."

@@ -1,7 +1,27 @@
 {
   "abilityEffect": "When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
   "abilityName": "Energy Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, draw a card.",
+        "fr": "Lancez une pièce. Si c'est face, piochez une carte.",
+        "de": "Wirf 1 Münze. Ziehe bei Kopf 1 Karte.",
+        "it": "Lancia una moneta. Se esce testa, pesca una carta.",
+        "es": "Lanza 1 moneda. Si sale cara, roba 1 carta."
+      },
+      "name": {
+        "en": "Quick Draw",
+        "fr": "Pioche Rapide",
+        "de": "Schnellzieher",
+        "it": "Pescalesto",
+        "es": "Robo Rápido"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

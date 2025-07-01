@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "If you have any Benched Pokémon, flip a coin. If heads, remove all damage counters from 1 of your Benched Pokémon and discard all Energy cards attached to it."
+      },
+      "name": {
+        "en": "Wash Away"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Asleep. Remove 1 damage counter from each Benched Pokémon (yours and your opponent's) with any damage counters on it."

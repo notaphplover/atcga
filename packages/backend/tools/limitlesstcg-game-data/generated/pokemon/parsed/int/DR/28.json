@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "m",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on each Defending Pokémon."
+      },
+      "name": {
+        "en": "Double Metal Ball"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "After your attack, you may discard 1 Energy card attached to Forretress. If you do, switch Forretress with 1 of your Benched Pokémon."

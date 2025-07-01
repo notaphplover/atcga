@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a [M] Energy card and attach it to Metang."
+      },
+      "name": {
+        "en": "Metal Load"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

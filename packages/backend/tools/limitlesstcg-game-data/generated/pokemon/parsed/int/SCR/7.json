@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Heal 40 damage from this Pokémon.",
+        "fr": "Soignez 40 dégâts de ce Pokémon.",
+        "de": "Heile 40 Schadenspunkte bei diesem Pokémon.",
+        "it": "Cura questo Pokémon da 40 danni.",
+        "pt": "Cure 40 pontos de dano deste Pokémon.",
+        "es": "Cura 40 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Nosh",
+        "fr": "Casse-Croûte",
+        "de": "Snack",
+        "it": "Spuntino",
+        "pt": "Mordiscar",
+        "es": "Piscolabis"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "130-",
       "effect": {
         "en": "This attack does 10 less damage for each damage counter on this Pokémon.",

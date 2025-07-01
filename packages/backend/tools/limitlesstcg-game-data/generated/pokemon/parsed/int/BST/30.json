@@ -3,7 +3,12 @@
   "abilityName": "Overheater",
   "attacks": [
     {
-      "cost": "rrrc",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Burned.",

@@ -3,7 +3,10 @@
   "abilityName": "Frenzy",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "rlc",
+      "cost": [
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon."

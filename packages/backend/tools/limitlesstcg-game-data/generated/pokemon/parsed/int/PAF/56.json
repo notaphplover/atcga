@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

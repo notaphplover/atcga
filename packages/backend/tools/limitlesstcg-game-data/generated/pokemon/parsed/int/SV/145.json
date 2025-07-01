@@ -1,7 +1,31 @@
 {
   "abilityEffect": "Once during your turn (before your attack), when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP.",
   "abilityName": "Healing Breath",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Garchomp C can't use Dragon Rush during your next turn.",
+        "fr": "Défaussez 2 Énergies attachées à Carchacrok C. Choisissez 1 des Pokémon de votre adversaire. Cette attaque lui inflige 80 dégâts. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.) Carchacrok C ne peut pas utiliser Dracocharge lors de votre prochain tour.",
+        "de": "Lege 2 an Knakrack C angelegte Energien auf deinen Ablagestapel. Wähle 1 Pokémon deines Gegners. Dieser Angriff fügt dem gewählten Pokémon 80 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) Knakrack C kann Drachenstoß in deinem nächsten Zug nicht einsetzen.",
+        "it": "Scarta 2 Energie assegnate a Garchomp C. Scegli 1 dei Pokémon del tuo avversario. Questo attacco infligge 80 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina.) Garchomp C non può usare Dragofuria durante il tuo prossimo turno.",
+        "pt": "Descarte 2 Energias ligadas a Garchomp C. Escolha 1 dos Pokémon do seu oponente. Este ataque causa 80 pontos de dano àquele Pokémon (não aplique Fraqueza e Resistência aos Pokémon no Banco). Garchomp C não poderá usar Investida do Dragão durante o seu próximo turno.",
+        "es": "Descarta 2 Energías unidas a Garchomp C. Elige 1 de los Pokémon de tu rival. Este ataque hace 80 puntos de daño a ese Pokémon. (No apliques Debilidad y Resistenciapara los Pokémon en Banca.) Garchomp C no puede usar Carga Dragón durante tu próximo turno."
+      },
+      "name": {
+        "en": "Dragon Rush",
+        "fr": "Dracocharge",
+        "de": "Drachenstoß",
+        "it": "Dragofuria",
+        "pt": "Investida do Dragão",
+        "es": "Carga Dragón"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 110,
   "imageUrls": {

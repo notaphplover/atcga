@@ -3,7 +3,11 @@
   "abilityName": "Beckoning Tail",
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

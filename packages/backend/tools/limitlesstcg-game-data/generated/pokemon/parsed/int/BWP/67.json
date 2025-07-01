@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Random Spark"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may discard all [L] Energy attached to this Pokémon. If you do, this attack does 60 more damage."

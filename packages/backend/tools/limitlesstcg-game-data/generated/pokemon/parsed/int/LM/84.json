@@ -3,7 +3,10 @@
   "abilityName": "Dual Armor",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Remove 2 damage counters from Armaldo ex."
@@ -13,7 +16,11 @@
       }
     },
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "If the Defending Pokémon has any Resistance, this attack's base damage is 100 instead of 70."

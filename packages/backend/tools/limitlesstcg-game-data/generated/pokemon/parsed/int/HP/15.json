@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Does 20 damage to each Pokémon that has any Poké-Powers or Poké-Bodies (both yours and your opponent's). Don't apply Weakness or Resistance."
+      },
+      "name": {
+        "en": "Zzzap"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "You may discard 2 [M] Energy attached to Raichu. If you do, this attack's base damage is 90 instead of 50."

@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Devolve 1 of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand.",
+        "fr": "Faites dés-évoluer l'un des Pokémon évolués de votre adversaire en plaçant dans la main de votre adversaire la carte Évolution la plus élevée placée sur celui-ci.",
+        "de": "Rückentwickle 1 entwickeltes Pokémon deines Gegners, indem du deinem Gegner die Karte mit der höchsten Entwicklungsphase auf die Hand gibst.",
+        "it": "Annulla l'evoluzione di uno dei Pokémon evoluti del tuo avversario prendendo la carta Evoluzione di fase più alta presente su di esso e aggiungendola alle carte nella mano del tuo avversario.",
+        "pt": "Reverta a evolução de 1 dos Pokémon evoluídos do seu oponente colocando a carta de Evolução de Estágio mais alto sobre ele na mão do seu oponente.",
+        "es": "Haz involucionar a 1 de los Pokémon evolucionados de tu rival poniendo la carta de Evolución de fase más alta que tenga sobre él en la mano de tu rival."
+      },
+      "name": {
+        "en": "Mystical Eyes",
+        "fr": "Yeux Mystiques",
+        "de": "Mystische Augen",
+        "it": "Occhi Mistici",
+        "pt": "Olhos Místicos",
+        "es": "Ojos Místicos"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Heal 30 damage from this Pokémon.",

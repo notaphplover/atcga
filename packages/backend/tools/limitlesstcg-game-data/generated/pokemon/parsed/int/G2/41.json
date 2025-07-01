@@ -3,7 +3,11 @@
   "abilityName": "Relaxing Scent",
   "attacks": [
     {
-      "cost": "ggg",
+      "cost": [
+        "g",
+        "g",
+        "g"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads."

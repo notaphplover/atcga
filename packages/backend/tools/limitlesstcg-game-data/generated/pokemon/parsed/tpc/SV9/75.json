@@ -3,7 +3,11 @@
   "abilityName": "ふとっぱら",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "jp": "このポケモンにも80ダメージ。"

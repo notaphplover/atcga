@@ -1,7 +1,31 @@
 {
   "abilityEffect": "As long as Absol is the only Pokémon you have in play, your opponent's Basic Pokémon can't attack.",
   "abilityName": "Shining Horn",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Pokémon-ex, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Extra Call"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+      },
+      "name": {
+        "en": "Feint Attack"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle your hand into your deck. Then, draw 5 cards.",
+        "fr": "Mélangez votre main avec votre deck. Ensuite, piochez 5 cartes.",
+        "de": "Mische deine Handkarten in dein Deck. Ziehe danach 5 Karten.",
+        "it": "Metti le carte che hai in mano nel tuo mazzo e rimischialo. Poi pesca 5 carte.",
+        "es": "Baraja tu mano en tu mazo. Luego roba 5 cartas."
+      },
+      "name": {
+        "en": "Deep Sea Swirl",
+        "fr": "Remous abyssal",
+        "de": "Tiefseewirbel",
+        "it": "Vortice Abissale",
+        "es": "Remolino de alta mar"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

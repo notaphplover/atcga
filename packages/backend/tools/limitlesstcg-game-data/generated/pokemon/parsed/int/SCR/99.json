@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card.",
+        "fr": "Piochez une carte.",
+        "de": "Ziehe 1 Karte.",
+        "it": "Pesca una carta.",
+        "pt": "Compre uma carta.",
+        "es": "Roba 1 carta."
+      },
+      "name": {
+        "en": "Allure",
+        "fr": "Allure",
+        "de": "Verlockung",
+        "it": "Affascinante",
+        "pt": "Fascinar",
+        "es": "Atractivo"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

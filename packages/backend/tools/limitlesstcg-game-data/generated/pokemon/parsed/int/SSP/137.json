@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard an Energy from your opponent's Active Pokémon ex.",
+        "fr": "Défaussez une Énergie du Pokémon-ex Actif de votre adversaire.",
+        "de": "Lege 1 Energie vom Aktiven Pokémon-ex deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta un'Energia dal Pokémon-ex attivo del tuo avversario.",
+        "pt": "Descarte uma Energia do Pokémon ex Ativo do seu oponente.",
+        "es": "Descarta 1 Energía del Pokémon ex Activo de tu rival."
+      },
+      "name": {
+        "en": "Fully Singe",
+        "fr": "Complètement Roussi",
+        "de": "Vollversengung",
+        "it": "Scottata Totale",
+        "pt": "Chamuscada Total",
+        "es": "Quemadura Total"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

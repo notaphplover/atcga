@@ -1,5 +1,27 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Cloyster by attacks during your opponent's next turn."
+      },
+      "name": {
+        "en": "Withdraw"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip 4 coins. For each heads, choose an opponent's Pokémon in play and this attack does 20 damage to those Pokémon. (You may choose the same Pokémon more than once.) (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Spine Missile"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 80,
   "imageUrls": {

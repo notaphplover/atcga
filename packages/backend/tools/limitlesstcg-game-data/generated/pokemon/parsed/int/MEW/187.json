@@ -3,7 +3,11 @@
   "abilityName": "Expanding Body",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If you played a Supporter card from your hand during this turn, this attack does 90 more damage.",

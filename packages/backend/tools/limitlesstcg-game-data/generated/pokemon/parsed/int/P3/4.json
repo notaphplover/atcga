@@ -1,13 +1,39 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card. If you have Plusle in play, draw 2 cards instead."
+      },
+      "name": {
+        "en": "Cheer Up"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance)."
       },
       "name": {
         "en": "Negative Ion"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon that has any Poké-Powers. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Power Bolt"
       }
     }
   ],

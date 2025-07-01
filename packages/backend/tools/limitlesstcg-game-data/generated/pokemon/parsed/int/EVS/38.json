@@ -3,7 +3,10 @@
   "abilityName": "Dew Guard",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip 2 coins. This attack does 70 damage for each heads.",

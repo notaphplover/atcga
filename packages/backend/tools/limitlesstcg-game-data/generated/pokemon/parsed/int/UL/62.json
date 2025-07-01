@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Remove 4 damage counters from Spearow. Spearow can't retreat during your next turn.",
+        "fr": "Retirez 4 marqueurs de dégât à Piafabec. Piafabec ne peut pas battre en retraite pendant votre prochain tour.",
+        "de": "Entferne 4 Schadensmarken von Habitak. Habitak kann sich in deinem nächsten Zug nicht zurückziehen.",
+        "it": "Togli 4 segnalini danno da Spearow. Durante il tuo prossimo turno, Spearow non può ritirarsi.",
+        "es": "Quita 4 contadores de daño a Spearow. Spearow no puede retirarse durante tu próximo turno."
+      },
+      "name": {
+        "en": "Roost",
+        "fr": "Atterrissage",
+        "de": "Ruheort",
+        "it": "Trespolo",
+        "es": "Respiro"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

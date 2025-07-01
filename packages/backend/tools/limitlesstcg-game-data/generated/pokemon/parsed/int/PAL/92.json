@@ -3,7 +3,10 @@
   "abilityName": "Read the Stars",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",

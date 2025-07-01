@@ -24,8 +24,21 @@ export interface BaseTcgPokemonParsedCard<TType extends TcgPokemonCardType> {
   set: string;
 }
 
+export enum TcgPokemonParsedPokemonCardAttackCostType {
+  colorless = 'c',
+  darkness = 'd',
+  fairy = 'y',
+  fighting = 'f',
+  fire = 'r',
+  grass = 'g',
+  lightning = 'l',
+  metal = 'm',
+  psychic = 'p',
+  water = 'w',
+}
+
 export interface TcgPokemonParsedPokemonCardAttack {
-  cost?: string | undefined;
+  cost?: TcgPokemonParsedPokemonCardAttackCostType[] | undefined;
   dmg?: string | undefined;
   effect: I18nString;
   name: I18nString;

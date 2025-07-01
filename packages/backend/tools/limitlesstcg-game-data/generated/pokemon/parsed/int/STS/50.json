@@ -3,7 +3,10 @@
   "abilityName": "Sinister Selection",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 10 more damage for each Supporter card in your discard pile.",

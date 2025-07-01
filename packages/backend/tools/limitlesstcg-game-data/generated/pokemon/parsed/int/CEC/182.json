@@ -3,7 +3,11 @@
   "abilityName": "Carry and Run",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

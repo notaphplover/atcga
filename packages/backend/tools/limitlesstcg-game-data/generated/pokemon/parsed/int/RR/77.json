@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 [W] Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Find Ice"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."

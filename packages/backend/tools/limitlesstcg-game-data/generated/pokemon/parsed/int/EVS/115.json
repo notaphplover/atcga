@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pd",
+      "cost": [
+        "p",
+        "d"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 100 more damage for each Prize card your opponent took during their last turn.",
@@ -21,7 +24,12 @@
       }
     },
     {
-      "cost": "pdcc",
+      "cost": [
+        "p",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "210",
       "effect": {},
       "name": {

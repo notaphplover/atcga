@@ -3,7 +3,11 @@
   "abilityName": "シャドーペイン",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "相手のバトルポケモンをどくとねむりにする。"

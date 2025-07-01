@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Attach a [G] Energy card from your hand to this Pokémon.",
+        "fr": "Attachez une carte Énergie [G] de votre main à ce Pokémon.",
+        "de": "Lege1 [G]-Energiekarte aus deiner Hand an dieses Pokémon an.",
+        "it": "Assegna a questo Pokémon una carta Energia [G] dalla tua mano.",
+        "es": "Une 1 carta de Energía [G] de tu mano a este Pokémon."
+      },
+      "name": {
+        "en": "Growth",
+        "fr": "Croissance",
+        "de": "Wachstum",
+        "it": "Crescita",
+        "es": "Desarrollo"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

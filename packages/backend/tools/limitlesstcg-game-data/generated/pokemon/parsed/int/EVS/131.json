@@ -3,7 +3,11 @@
   "abilityName": "Act Freely",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",

@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your deck for a [R] Energy card and attach it to Blaine's Growlithe. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Stoke"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."

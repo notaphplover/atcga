@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench. Then, put 3 damage counters on that Pokémon.",
+        "fr": "Prenez un Pokémon de base dans la pile de défausse de votre adversaire et placez-le sur son Banc. Ensuite, placez 3 marqueurs de dégâts sur le Pokémon.",
+        "de": "Nimm 1 Basis-Pokémon aus dem Ablagestapel deines Gegners und lege es auf seine Bank. Lege anschließend 3 Schadensmarken auf jenes Pokémon.",
+        "it": "Prendi un Pokémon Base dalla pila degli scarti del tuo avversario e mettilo nella sua panchina. Poi, metti tre segnalini danno su quel Pokémon.",
+        "es": "Pon 1 Pokémon Básico de la pila de descartes de tu rival en su Banca. Después, pon 3 contadores de daño en ese Pokémon."
+      },
+      "name": {
+        "en": "Head Walking",
+        "fr": "Slammeur",
+        "de": "Kopflauf",
+        "it": "Pestalatesta",
+        "es": "Salto al Público"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",

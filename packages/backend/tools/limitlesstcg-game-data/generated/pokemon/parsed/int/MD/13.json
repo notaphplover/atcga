@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [],
+      "effect": {
+        "en": "Search your discard pile for up to 2 basic Energy cards and attach them to 1 of your Pokémon."
+      },
+      "name": {
+        "en": "Dual Trans"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Move an Energy card attached to Rotom to 1 of your Benched Pokémon."

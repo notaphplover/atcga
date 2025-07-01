@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "fffc",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "100+",
       "effect": {
         "en": "If there is any Stadium card in play, this attack does 100 more damage. Discard that Stadium card.",

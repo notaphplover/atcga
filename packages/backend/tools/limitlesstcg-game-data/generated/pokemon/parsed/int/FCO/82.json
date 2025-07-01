@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 40 more damage.",
@@ -16,6 +20,27 @@
         "de": "Hinterhalt",
         "it": "Imboscata",
         "es": "Emboscada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "At the end of your opponent's next turn, discard the Defending Pokémon and all cards attached to it.",
+        "fr": "À la fin du prochain tour de votre adversaire, défaussez le Pokémon Défenseur et toutes les cartes qui lui sont attachées.",
+        "de": "Lege am Ende des nächsten Zuges deines Gegners das Verteidigende Pokémon und alle daran angelegten Karten auf dessen Ablagestapel.",
+        "it": "Alla fine del turno del tuo avversario, scarta il Pokémon difensore e tutte le carte assegnategli.",
+        "es": "Al final del próximo turno de tu rival, descarta el Pokémon Defensor y todas las cartas unidas a él."
+      },
+      "name": {
+        "en": "Cacophony",
+        "fr": "Cacophonie",
+        "de": "Kakofonie",
+        "it": "Dissonanza",
+        "es": "Cacofonía"
       }
     }
   ],

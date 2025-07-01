@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "www",
+      "cost": [
+        "w",
+        "w",
+        "w"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {
@@ -14,7 +18,13 @@
       }
     },
     {
-      "cost": "wwwcc",
+      "cost": [
+        "w",
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "180+",
       "effect": {
         "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 180 more damage.",

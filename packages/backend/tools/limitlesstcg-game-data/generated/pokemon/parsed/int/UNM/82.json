@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard a random card from your opponent's hand.",
+        "fr": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "de": "Lege 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta una carta a caso dalla mano del tuo avversario.",
+        "es": "Descarta 1 carta aleatoria de la mano de tu rival."
+      },
+      "name": {
+        "en": "Knock Off",
+        "fr": "Sabotage",
+        "de": "Abschlag",
+        "it": "Privazione",
+        "es": "Desarme"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

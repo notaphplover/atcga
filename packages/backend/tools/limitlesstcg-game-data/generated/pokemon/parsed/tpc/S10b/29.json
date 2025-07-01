@@ -3,7 +3,11 @@
   "abilityName": "エレキシンボル",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "110",
       "effect": {},
       "name": {

@@ -3,7 +3,11 @@
   "abilityName": "Regi Move",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "If Regice was damaged by an attack during your opponent's last turn, the Defending Pokémon is now Paralyzed."

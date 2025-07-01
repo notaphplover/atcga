@@ -3,7 +3,11 @@
   "abilityName": "Smooth Over",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

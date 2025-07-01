@@ -3,7 +3,10 @@
   "abilityName": "Natural Cure",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "This attack's damage is not affected by Resistance."

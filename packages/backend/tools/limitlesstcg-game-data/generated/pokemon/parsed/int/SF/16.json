@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [],
+      "effect": {
+        "en": "Put any 1 card from your discard pile into your hand."
+      },
+      "name": {
+        "en": "Delivery"
+      }
+    },
+    {
+      "cost": [],
+      "effect": {
+        "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. For each Basic Pokémon you put onto your Bench, you may search your deck for a basic Energy card and attach it to that Pokémon. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Lifting"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn."

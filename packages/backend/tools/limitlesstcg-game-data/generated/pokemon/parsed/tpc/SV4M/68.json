@@ -3,7 +3,11 @@
   "abilityName": "ねんきんコロニー",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

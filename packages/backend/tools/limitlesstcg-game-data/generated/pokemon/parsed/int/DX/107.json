@@ -1,13 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rl",
+      "cost": [
+        "r",
+        "l"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
       },
       "name": {
         "en": "Spiral Rush"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "l"
+      ],
+      "effect": {
+        "en": "Discard all Energy cards attached to Rayquaza Star. This attack does 100 damage to each of your opponent's Pokémon-ex. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Holy Star"
       }
     }
   ],

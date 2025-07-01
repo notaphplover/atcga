@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [],
+      "effect": {
+        "en": "Discard up to 2 Energy cards from your hand. For each card you discarded, draw 2 cards."
+      },
+      "name": {
+        "en": "Reheat"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."

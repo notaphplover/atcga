@@ -3,7 +3,10 @@
   "abilityName": "Magnetic Field",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the amount of Energy attached to all of your Pokémon (including Magneton)."

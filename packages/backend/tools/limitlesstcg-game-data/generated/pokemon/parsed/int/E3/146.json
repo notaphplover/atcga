@@ -3,7 +3,11 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "rrf",
+      "cost": [
+        "r",
+        "r",
+        "f"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard an Energy card attached to Charizard."
@@ -13,7 +17,12 @@
       }
     },
     {
-      "cost": "rllc",
+      "cost": [
+        "r",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Flip 2 coins. This attack does 50 damage times the number of heads."

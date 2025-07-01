@@ -3,7 +3,12 @@
   "abilityName": "Phoenix Turn",
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage times the number of different types of basic Energy cards attached to Ho-Oh."

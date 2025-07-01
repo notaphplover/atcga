@@ -3,7 +3,10 @@
   "abilityName": "Clear Body",
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "During your next turn, Extra Comet Punch does 30 damage plus 30 more damage."

@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, the Defending Pokémon can't use any Poké-Powers during your opponent's next turn."
+      },
+      "name": {
+        "en": "Vine Bind"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Bellsprout does 10 damage to itself."

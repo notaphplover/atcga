@@ -3,7 +3,10 @@
   "abilityName": "Victory Star",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Move all Energy attached to this Pokémon to 1 of your Benched Pokémon.",

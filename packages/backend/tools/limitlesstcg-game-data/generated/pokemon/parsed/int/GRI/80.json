@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent can't play any Supporter cards from their hand during their next turn.",
+        "fr": "Votre adversaire ne peut pas jouer de cartes Supporter de sa main pendant son prochain tour.",
+        "de": "Dein Gegner kann während seines nächsten Zuges keine Unterstützerkarten aus seiner Hand spielen.",
+        "it": "Il tuo avversario non può giocare le carte Aiuto che ha in mano durante il suo prossimo turno.",
+        "es": "Tu rival no puede jugar ninguna carta de Partidario de su mano durante su próximo turno."
+      },
+      "name": {
+        "en": "Limitation",
+        "fr": "Restriction",
+        "de": "Einschränken",
+        "it": "Costrizione",
+        "es": "Limitación"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

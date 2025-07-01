@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand.",
+        "fr": "Votre adversaire montre sa main.",
+        "de": "Dein Gegner zeigt dir seine Handkarten.",
+        "it": "Il tuo avversario mostra le carte che ha in mano.",
+        "pt": "Seu oponente revela a mão dele.",
+        "es": "Tu rival enseña las cartas de su mano."
+      },
+      "name": {
+        "en": "Curiosity",
+        "fr": "Curiosité",
+        "de": "Neugier",
+        "it": "Curiosità",
+        "pt": "Curiosidade",
+        "es": "Curiosidad"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

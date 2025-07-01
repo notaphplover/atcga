@@ -3,7 +3,12 @@
   "abilityName": "Gleam Eyes",
   "attacks": [
     {
-      "cost": "llll",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Move all [L] Energy attached to Luxray to 1 of your Benched Pokémon. (Ignore this effect if you don't have any Benched Pokémon.)"

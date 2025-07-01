@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [],
+      "effect": {
+        "en": "Each player shuffles his or her hand into his or her deck and draws up to 4 cards. (You draw your cards first.)"
+      },
+      "name": {
+        "en": "Hand Refresh"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent has only 1 Prize card left, this attack does 10 damage plus 50 more damage and the Defending Pokémon is now Confused."

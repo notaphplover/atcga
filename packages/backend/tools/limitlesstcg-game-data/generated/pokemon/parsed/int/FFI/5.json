@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "180-",
       "effect": {
         "en": "This attack does 180 damage minus 10 damage for each damage counter on this Pokémon.",

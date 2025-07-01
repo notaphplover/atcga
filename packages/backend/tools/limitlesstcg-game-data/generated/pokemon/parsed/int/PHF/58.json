@@ -3,7 +3,10 @@
   "abilityName": "Hyper Hypnosis",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage times the number of heads.",

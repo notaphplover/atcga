@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ww",
+      "cost": [
+        "w",
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "If the Defending Pokémon is [F], this attack's base damage is doubled."
@@ -11,7 +14,12 @@
       }
     },
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Misty's Dewgong does 20 damage to itself."

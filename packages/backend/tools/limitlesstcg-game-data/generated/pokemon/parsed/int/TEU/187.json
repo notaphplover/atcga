@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ddd",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+        "fr": "Cherchez jusqu'à 2 cartes dans votre deck, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach bis zu 2 Karten und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo fino a due carte e aggiungile alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja hasta 2 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      "name": {
+        "en": "Rogue Ring",
+        "fr": "Anneau de Truand",
+        "de": "Schurkenring",
+        "it": "Anello Canaglia",
+        "es": "Anillo Pícaro"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon can't use Dark Strike during your next turn.",
@@ -16,6 +39,26 @@
         "de": "Finsterschlag",
         "it": "Colpo Ombra",
         "es": "Golpe Siniestro"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "d"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon-GX or Pokémon-EX 6 times. (You can choose the same Pokémon more than once.) For each time you chose a Pokémon, do 30 damage to it. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Choisissez 6 fois l'un des Pokémon-GX ou des Pokémon-{EX} de votre adversaire. (Vous pouvez choisir le même Pokémon plusieurs fois.) Chaque fois qu'un Pokémon est choisi, infligez 30 dégâts à celui-ci. Ces dégâts ne sont pas affectés par la Faiblesse ou la Résistance. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wähle 6-mal 1 Pokémon-GX oder Pokémon-{EX} deines Gegners. (Du kannst dasselbe Pokémon mehr als einmal wählen.) Jedes Mal, wenn du ein Pokémon wählst, füge ihm 30 Schadenspunkte zu. Der Schaden dieser Attacke wird durch Schwäche und Resistenz nicht verändert. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scegli sei volte uno dei Pokémon-GX o dei Pokémon-{EX} del tuo avversario. Puoi scegliere lo stesso Pokémon più di una volta. Ogni volta che scegli un Pokémon, infliggigli 30 danni. Questi danni non sono influenzati dalla debolezza o dalla resistenza. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Devilish Hands-GX",
+        "fr": "Mains Diaboliques-GX",
+        "de": "Teufelshände-GX",
+        "it": "Braccia Malefiche-GX",
+        "es": "Manos Diabólicas-GX"
       }
     }
   ],

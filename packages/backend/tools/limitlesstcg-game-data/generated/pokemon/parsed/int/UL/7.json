@@ -3,7 +3,11 @@
   "abilityName": "Leap Frog",
   "attacks": [
     {
-      "cost": "wcc",
+      "cost": [
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip a coin for each [W] Pokémon you have in play. This attack does 30 damage times the number of heads.",

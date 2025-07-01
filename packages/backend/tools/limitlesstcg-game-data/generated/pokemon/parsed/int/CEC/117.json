@@ -3,7 +3,12 @@
   "abilityName": "Bulldoze",
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "This attack does 30 more damage for each of your Benched Pokémon that has any damage counters on it.",

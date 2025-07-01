@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "This attack does 60 more damage for each of your opponent's Pokémon-GX and Pokémon-EX in play.",
@@ -16,6 +20,25 @@
         "de": "Ballonsprung",
         "it": "Palloncino Saltellante",
         "es": "Globo Saltador"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Asleep. If this Pokémon has at least 4 extra Energy attached to it (in addition to this attack's cost), this attack does 200 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi. Si au moins 4 Énergies supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 200 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Das Aktive Pokémon deines Gegners schläft jetzt. Wenn an dieses Pokémon mindestens 4 extra Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 1 Pokémon auf der Bank deines Gegners 200 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il Pokémon attivo del tuo avversario viene addormentato. Se questo Pokémon ha almeno quattro Energie extra assegnate, in aggiunta a quelle del costo di questo attacco, questo attacco infligge 200 danni a uno dei Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina. Non puoi usare più di un attacco GX a partita.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Dormido. Si este Pokémon tiene por lo menos 4 Energías adicionales unidas a él (además de las del coste de este ataque), este ataque hace 200 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Puffy Smashers-GX",
+        "fr": "Écrasement Rebondi-GX",
+        "de": "Bauschbombe-GX",
+        "it": "Distruttori Paffutelli-GX",
+        "es": "Golpes Inflados-GX"
       }
     }
   ],

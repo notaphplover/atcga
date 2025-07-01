@@ -3,7 +3,9 @@
   "abilityName": "Synchronized Lift",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "You may move a [W] Energy attached to Articuno ex to 1 of your Pokémon."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."

@@ -1,7 +1,29 @@
 {
   "abilityEffect": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't take any Prize cards for it.",
   "abilityName": "Shattering Crystal",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 6 damage counters on that Pokémon instead of 1.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Pendant le Contrôle Pokémon, placez 6 marqueurs de dégâts sur ce Pokémon-là au lieu d'un.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Lege beim Pokémon-Check 6 Schadensmarken anstelle von 1 Schadensmarke auf jenes Pokémon.",
+        "it": "Il Pokémon attivo del tuo avversario viene avvelenato. Metti sei segnalini danno invece di uno su quel Pokémon durante il controllo Pokémon.",
+        "pt": "O Pokémon Ativo do seu oponente agora está Envenenado. Durante o Checape Pokémon, coloque 6 contadores de dano ao invés de 1 naquele Pokémon.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Envenenado. Durante el Chequeo Pokémon, pon 6 contadores de daño en vez de uno en ese Pokémon."
+      },
+      "name": {
+        "en": "Poison Petals",
+        "fr": "Pétales Poison",
+        "de": "Giftblüten",
+        "it": "Petali Velenosi",
+        "pt": "Pétalas Venenosas",
+        "es": "Pétalos Veneno"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 130,
   "imageUrls": {

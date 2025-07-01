@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "fr": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+        "de": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+        "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+        "es": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+      },
+      "name": {
+        "en": "Baby-Doll Eyes",
+        "fr": "Regard Touchant",
+        "de": "Kulleraugen",
+        "it": "Occhioni Teneri",
+        "es": "Ojitos Tiernos"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

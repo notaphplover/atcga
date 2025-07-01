@@ -3,7 +3,9 @@
   "abilityName": "Unnerve",
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "l"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Put a card from your discard pile into your hand.",

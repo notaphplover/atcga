@@ -3,7 +3,11 @@
   "abilityName": "ハンドブロック",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may do 40 damage plus 20 more damage. If you do, Machamp does 20 damage to itself.",
@@ -17,7 +19,11 @@
       }
     },
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Does 60 damage plus 10 more damage for each [F] Energy attached to Machamp.",

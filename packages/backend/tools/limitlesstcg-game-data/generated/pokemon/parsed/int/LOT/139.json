@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Put a Supporter card from your discard pile into your hand.",
+        "fr": "Ajoutez une carte Supporter de votre pile de défausse à votre main.",
+        "de": "Nimm 1 Unterstützerkarte aus deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi una carta Aiuto dalla tua pila degli scarti e aggiungila alle carte che hai in mano.",
+        "es": "Pon 1 carta de Partidario de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Beckon",
+        "fr": "Invite",
+        "de": "Herbeiwinken",
+        "it": "Appello",
+        "es": "Hacer Señas"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

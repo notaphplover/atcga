@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Attach up to 3 [R] Energy cards from your hand to your Pokémon in any way you like.",
+        "fr": "Attachez jusqu'à 3 cartes Énergie [R] de votre main à vos Pokémon, de la manière que vous voulez.",
+        "de": "Lege bis zu 3 [R]-Energiekarten aus deiner Hand beliebig an deine Pokémon an.",
+        "it": "Assegna a piacimento ai tuoi Pokémon fino a tre carte Energia [R] dalla tua mano.",
+        "es": "Une hasta 3 cartas de Energía [R] de tu mano a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Heat Assist",
+        "fr": "Assistance Fervente",
+        "de": "Hitzeförderung",
+        "it": "Fuocaiuto",
+        "es": "Asistencia de Calor"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Flip 4 coins. This attack does 50 more damage for each heads.",

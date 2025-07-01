@@ -3,7 +3,9 @@
   "abilityName": "プリンセスカーテン",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "jp": "自分の山札を2枚引く。"

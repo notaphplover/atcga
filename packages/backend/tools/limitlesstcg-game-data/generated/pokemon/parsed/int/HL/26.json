@@ -3,7 +3,22 @@
   "abilityName": "Temperamental Weather",
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Search your discard pile for a Stadium card, show it to your opponent, and put it into your hand."
+      },
+      "name": {
+        "en": "Sunshine"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "If High Pressure System is in play, the Defending Pokémon is now Burned."

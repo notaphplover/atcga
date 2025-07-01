@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "wllc",
+      "cost": [
+        "w",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",

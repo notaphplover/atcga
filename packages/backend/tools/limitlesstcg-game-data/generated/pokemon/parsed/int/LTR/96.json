@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Discard a Special Energy attached to the Defending Pokémon.",
@@ -19,7 +21,10 @@
       }
     },
     {
-      "cost": "wf",
+      "cost": [
+        "w",
+        "f"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard the top 2 cards of your deck.",

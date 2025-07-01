@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "You may discard any Stadium card in play.",
@@ -16,6 +18,26 @@
         "de": "Umwerfen",
         "it": "Sconvolgimento",
         "es": "Tumbar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard the top 2 cards of your opponent's deck.",
+        "fr": "Défaussez les 2 cartes du dessus du deck de votre adversaire.",
+        "de": "Lege die obersten 2 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Scarta le prime due carte del mazzo del tuo avversario.",
+        "es": "Descarta las 2 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Mountain Munch",
+        "fr": "Dévore-Montagne",
+        "de": "Gipfelmampfer",
+        "it": "Sgranocchiacime",
+        "es": "Mascamontañas"
       }
     }
   ],

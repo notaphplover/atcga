@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "You can use this attack only if this Pokémon has any damage counters on it. Both Active Pokémon are Knocked Out.",
+        "fr": "Vous ne pouvez utiliser cette attaque que si ce Pokémon a des marqueurs de dégâts. Les deux Pokémon Actifs sont mis K.O.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn auf diesem Pokémon mindestens 1 Schadensmarke liegt. Beide Aktiven Pokémon sind kampfunfähig.",
+        "it": "Puoi usare questo attacco solo se questo Pokémon ha dei segnalini danno. Entrambi i Pokémon attivi vengono messi KO.",
+        "es": "Puedes usar este ataque solo si este Pokémon tiene algún contador de daño sobre él. Ambos Pokémon Activos quedan Fuera de Combate."
+      },
+      "name": {
+        "en": "Destiny Stinger",
+        "fr": "Piqûre du Destin",
+        "de": "Schicksalsstich",
+        "it": "Destinopungente",
+        "es": "Aguijón Destino"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This Pokémon does 10 damage to itself.",

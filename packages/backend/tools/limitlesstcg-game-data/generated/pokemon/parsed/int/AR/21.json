@@ -3,7 +3,10 @@
   "abilityName": "Relaxing Shower",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Remove all Special Conditions from Lopunny."

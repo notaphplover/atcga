@@ -3,7 +3,11 @@
   "abilityName": "Thunderclap Zone",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "en": "This Pokémon can't attack during your next turn.",
@@ -18,6 +22,25 @@
         "de": "Plasmafäuste",
         "it": "Pugni Plasma",
         "es": "Puños Plasma"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
+      "effect": {
+        "en": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Attachez 5 cartes Énergie de base de votre pile de défausse à vos Pokémon, de la manière que vous voulez. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Lege 5 Basis-Energiekarten aus deinem Ablagestapel beliebig an deine Pokémon an. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Assegna a piacimento ai tuoi Pokémon cinque carte Energia base dalla tua pila degli scarti. Non puoi usare più di un attacco GX a partita.",
+        "es": "Une 5 cartas de Energía Básica de tu pila de descartes a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Full Voltage-GX",
+        "fr": "Pleine Tension-GX",
+        "de": "Volle Voltzahl-GX",
+        "it": "Alta Tensione-GX",
+        "es": "Pleno Voltaje-GX"
       }
     }
   ],

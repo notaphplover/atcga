@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 3 [R] Energy cards from your discard pile to your Pokémon in any way you like.",
+        "fr": "Attachez jusqu'à 3 cartes Énergie [R] de votre pile de défausse à vos Pokémon comme il vous plaît.",
+        "de": "Lege bis zu 3 [R]-Energiekarten aus deinem Ablagestapel beliebig an deine Pokémon an.",
+        "it": "Assegna ai tuoi Pokémon fino a tre carte Energia [R] dalla tua pila degli scarti nel modo che preferisci.",
+        "pt": "Ligue até 3 cartas de Energia [R] da sua pilha de descarte aos seus Pokémon como desejar.",
+        "es": "Une hasta 3 cartas de Energía [R] de tu pila de descartes a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Spreading Flames",
+        "fr": "Flammes Rampantes",
+        "de": "Flammenausbreitung",
+        "it": "Spargifiamma",
+        "pt": "Chamas Alastrantes",
+        "es": "Llamas Dispersas"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each Energy attached to both Active Pokémon.",

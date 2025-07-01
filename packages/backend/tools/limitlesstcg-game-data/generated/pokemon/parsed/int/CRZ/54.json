@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "60×",
       "effect": {
         "en": "This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability.",
@@ -21,7 +24,11 @@
       }
     },
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

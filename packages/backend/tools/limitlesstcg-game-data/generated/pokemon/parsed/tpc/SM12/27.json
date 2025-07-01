@@ -3,7 +3,10 @@
   "abilityName": "ちらちらライト",
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "jp": "のぞむなら、相手に相手自身の山札を切らせる。"

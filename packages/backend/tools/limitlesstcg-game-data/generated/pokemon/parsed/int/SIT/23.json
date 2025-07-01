@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Attach up to 2 [R] Energy cards from your discard pile to your Pokémon in any way you like.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "40",
       "effect": {},
       "name": {

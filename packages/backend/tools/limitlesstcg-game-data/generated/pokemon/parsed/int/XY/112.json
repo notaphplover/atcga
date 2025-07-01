@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 Item cards from your discard pile into your hand.",
+        "fr": "Ajoutez 2 cartes Objet de votre pile de défausse à votre main.",
+        "de": "Nimm 2 Itemkarten von deinem Ablagestapel auf deine Hand.",
+        "it": "Prendi due carte Strumento dalla tua pila degli scarti e aggiungile alle carte che hai in mano.",
+        "es": "Pon 2 cartas de Objeto de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Pickup",
+        "fr": "Ramassage",
+        "de": "Mitnahme",
+        "it": "Raccolta",
+        "es": "Recogida"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",

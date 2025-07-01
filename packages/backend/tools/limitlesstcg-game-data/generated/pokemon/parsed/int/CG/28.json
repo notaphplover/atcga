@@ -3,13 +3,29 @@
   "abilityName": "Chlorophyll",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Does 20 damage plus 10 more damage for each [G] Energy attached to all of your Pokémon."
       },
       "name": {
         "en": "Green Blast"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Asleep and Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+      },
+      "name": {
+        "en": "Toxic Sleep"
       }
     }
   ],

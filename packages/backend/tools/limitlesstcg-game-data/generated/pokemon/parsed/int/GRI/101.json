@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, heal 30 damage from 1 of your Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, soignez 30 dégâts à l'un de vos Pokémon.",
+        "de": "Wirf 1 Münze. Heile bei Kopf 30 Schadenspunkte bei 1 deiner Pokémon.",
+        "it": "Lancia una moneta. Se esce testa, cura uno dei tuoi Pokémon da 30 danni.",
+        "es": "Lanza 1 moneda. Si sale cara, cura 30 puntos de daño a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "Bind Wound",
+        "fr": "Blessure Pansée",
+        "de": "Wunden verbinden",
+        "it": "Cura Ferite",
+        "es": "Vendar Herida"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

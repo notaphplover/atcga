@@ -1,7 +1,27 @@
 {
   "abilityEffect": "If this Pokémon is Knocked Out, your opponent can't take any Prize cards for it.",
   "abilityName": "Empty Shell",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 3 damage counters on your opponent's Pokémon in any way you like.",
+        "fr": "Placez 3 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez.",
+        "de": "Verteile 3 Schadensmarken beliebig auf die Pokémon deines Gegners.",
+        "it": "Distribuisci a piacimento tre segnalini danno sui Pokémon del tuo avversario.",
+        "es": "Pon 3 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      },
+      "name": {
+        "en": "Cursed Drop",
+        "fr": "Chute Maudite",
+        "de": "Verfluchter Fall",
+        "it": "Caduta Maledetta",
+        "es": "Caída Maldita"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

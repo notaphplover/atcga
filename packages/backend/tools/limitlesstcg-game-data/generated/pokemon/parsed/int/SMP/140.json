@@ -3,7 +3,12 @@
   "abilityName": "Dragon Wind",
   "attacks": [
     {
-      "cost": "rwcc",
+      "cost": [
+        "r",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

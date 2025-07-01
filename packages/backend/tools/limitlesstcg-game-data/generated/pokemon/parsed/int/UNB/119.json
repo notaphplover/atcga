@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "dcc",
+      "cost": [
+        "d"
+      ],
+      "effect": {
+        "en": "Your opponent reveals their hand. You may discard a Pokémon you find there and use one of that Pokémon's non-GX attacks as this attack.",
+        "fr": "Votre adversaire dévoile sa main. Vous pouvez défausser un Pokémon que vous y trouvez et utiliser l'une des attaques non GX de ce Pokémon en tant que cette attaque.",
+        "de": "Dein Gegner zeigt dir seine Handkarten. Du kannst 1 Pokémon, das du dort findest, auf seinen Ablagestapel legen und 1 Attacke jenes Pokémon, die keine GX-Attacke ist, als diese Attacke einsetzen.",
+        "it": "Il tuo avversario mostra le carte che ha in mano. Puoi scartare un Pokémon presente tra esse e usare uno degli attacchi non GX di quel Pokémon al posto di questo attacco.",
+        "es": "Tu rival enseña las cartas de su mano. Puedes descartar 1 Pokémon que encuentres entre ellas y usar uno de los ataques no GX de ese Pokémon para este ataque."
+      },
+      "name": {
+        "en": "Hypnotic Reign",
+        "fr": "Règne Hypnotique",
+        "de": "Hypnotische Herrschaft",
+        "it": "Regno Ipnotico",
+        "es": "Reino Hipnótico"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Discard the top card of your opponent's deck.",

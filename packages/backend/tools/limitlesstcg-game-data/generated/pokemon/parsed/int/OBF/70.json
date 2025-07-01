@@ -3,7 +3,10 @@
   "abilityName": "Adverse Weather",
   "attacks": [
     {
-      "cost": "ll",
+      "cost": [
+        "l",
+        "l"
+      ],
       "dmg": "140",
       "effect": {
         "en": "This Pokémon also does 90 damage to itself.",

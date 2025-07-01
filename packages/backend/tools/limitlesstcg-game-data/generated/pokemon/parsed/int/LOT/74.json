@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "lc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle 4 Item cards from your discard pile into your deck.",
+        "fr": "Mélangez 4 cartes Objet de votre pile de défausse avec votre deck.",
+        "de": "Mische 4 Itemkarten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia quattro carte Strumento dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 4 cartas de Objeto de tu pila de descartes en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Salvage",
+        "fr": "Trouvaille",
+        "de": "Freilegen",
+        "it": "Ritrovamento",
+        "es": "Rescatar"
+      }
+    },
+    {
+      "cost": [
+        "l",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

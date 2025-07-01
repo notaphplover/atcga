@@ -3,7 +3,11 @@
   "abilityName": "Electrical Grounding",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon also does 50 damage to itself.",

@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [],
+      "effect": {
+        "en": "Attach a [G] Energy from your hand to Cherubi."
+      },
+      "name": {
+        "en": "Growth"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

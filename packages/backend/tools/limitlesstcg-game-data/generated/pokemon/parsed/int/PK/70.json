@@ -3,7 +3,9 @@
   "abilityName": "Baby Evolution",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Does 10 damage times the number of damage counters on Wynaut."

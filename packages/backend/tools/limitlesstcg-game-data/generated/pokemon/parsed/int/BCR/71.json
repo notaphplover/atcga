@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "For each [P] Energy attached to this Pokémon, discard the top card of your opponent's deck.",
+        "fr": "Pour chaque Énergie [P] attachée à ce Pokémon, défaussez la carte du dessus du deck de votre adversaire.",
+        "it": "Per ogni Energia [P] assegnata a questo Pokémon, scarta la carta in cima al mazzo del tuo avversario.",
+        "es": "Por cada Energía [P] unida a este Pokémon, descarta la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Jet Woofer",
+        "fr": "Infrasons",
+        "de": "Tieftonflieger",
+        "it": "Audigetto",
+        "es": "Turbofrecuencia"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip 2 coins. This attack does 20 more damage for each heads.",

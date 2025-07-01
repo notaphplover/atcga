@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
@@ -19,7 +21,12 @@
       }
     },
     {
-      "cost": "lfcc",
+      "cost": [
+        "l",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
@@ -37,7 +44,12 @@
       }
     },
     {
-      "cost": "lfcc",
+      "cost": [
+        "l",
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "240",
       "effect": {
         "en": "(You can't use more than 1 GX attack in a game.)",

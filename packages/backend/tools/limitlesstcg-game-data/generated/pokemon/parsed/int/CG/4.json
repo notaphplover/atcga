@@ -3,7 +3,12 @@
   "abilityName": "Peal of Thunder",
   "attacks": [
     {
-      "cost": "lmmc",
+      "cost": [
+        "l",
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard all [M] Energy attached to Charizard."

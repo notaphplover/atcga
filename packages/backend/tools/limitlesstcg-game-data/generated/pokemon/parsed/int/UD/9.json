@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all damage counters from each of your Pokémon. Shuffle Togekiss and all cards attached to it back into your deck.",
+        "fr": "Retirez tous les marqueurs de dégât à chacun de vos Pokémon. Mélangez Togekiss et toutes les cartes qui lui sont attachées avec votre deck.",
+        "de": "Entferne alle Schadensmarken von jedem deiner Pokémon. Mische Togekiss und alle daran angelegten Karten zurück in dein Deck.",
+        "it": "Togli tutti i segnalini danno da ciascuno dei tuoi Pokémon. Rimischia nel tuo mazzo Togekiss e tutte le carte a lui assegnate."
+      },
+      "name": {
+        "en": "Blessed Wings",
+        "fr": "Ailes bénies",
+        "de": "Gesegnete Schwingen",
+        "it": "Ali Benedette"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

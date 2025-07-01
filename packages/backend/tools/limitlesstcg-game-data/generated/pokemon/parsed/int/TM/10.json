@@ -1,7 +1,25 @@
 {
   "abilityEffect": "Once during your turn, when you put Spiritomb from your hand onto your Bench, you may use this power. Your opponent shuffles his or her hand into his or her deck and draws 6 cards.",
   "abilityName": "Spooky Whirlpool",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Choose [G], [R], [W], [L], [P], [F], [D], [M], or [C] type. Put 1 damage counter on each Pokémon your opponent has in play of the type you chose.",
+        "fr": "Choisissez le type [G][R][W][L][P][F][D][M] ou [C]. Placez un marqueur de dégât sur chacun des Pokémon que votre adversaire a en jeu et qui correspond au type choisi.",
+        "de": "Wähle einen Typ: [G][R][W][L][P][F][D][M] oder [C]. Lege auf jedes Pokémon des gewählten Typs, das dein Gegner im Spiel hat, 1 Schadensmarke.",
+        "it": "Scegli il tipo [G][R][W][L][P][F][D][M] oppure [C]. Metti 1 segnalino danno su ogni Pokémon in gioco del tuo avversario che sia del tipo che hai scelto."
+      },
+      "name": {
+        "en": "Color Tag",
+        "fr": "Panel de couleurs",
+        "de": "Farbmarkierung",
+        "it": "Sceglicolore"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 60,
   "imageUrls": {

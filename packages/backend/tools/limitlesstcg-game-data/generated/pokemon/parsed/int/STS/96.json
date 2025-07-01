@@ -3,7 +3,9 @@
   "abilityName": "Gale Wings",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward.",

@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "rcccc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "fr": "Cette attaque inflige 40 dégâts à 2 des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+        "it": "Questo attacco infligge 40 danni a due dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.",
+        "es": "Este ataque hace 40 puntos de daño a 2 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia para los Pokémon en Banca.)"
+      },
+      "name": {
+        "en": "Split Bomb",
+        "fr": "Bombe Fendante",
+        "de": "Splitterbombe",
+        "it": "Squarciabomba",
+        "es": "Bomba Separada"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard a [R] Energy attached to this Pokémon.",

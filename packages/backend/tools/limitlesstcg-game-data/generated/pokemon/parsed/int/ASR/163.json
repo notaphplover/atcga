@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [],
+      "effect": {
+        "en": "Draw cards until you have 6 cards in your hand.",
+        "fr": "Piochez des cartes jusqu'à en avoir 6 en main.",
+        "de": "Ziehe so lange Karten, bis du 6 Karten auf deiner Hand hast.",
+        "it": "Pesca fino ad avere sei carte in mano.",
+        "pt": "Compre cartas até ter 6 cartas na sua mão.",
+        "es": "Roba cartas hasta que tengas 6 cartas en tu mano."
+      },
+      "name": {
+        "en": "Dance Gracefully",
+        "fr": "Danse Gracieuse",
+        "de": "Graziöser Tanz",
+        "it": "Danza Elegante",
+        "pt": "Dança Graciosa",
+        "es": "Baila con Gracia"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

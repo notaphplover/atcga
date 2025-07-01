@@ -3,7 +3,11 @@
   "abilityName": "Evolutionary Call",
   "attacks": [
     {
-      "cost": "ggc",
+      "cost": [
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat during your opponent's next turn."

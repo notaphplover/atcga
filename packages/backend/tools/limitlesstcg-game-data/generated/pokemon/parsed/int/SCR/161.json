@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 50.",
+        "fr": "Placez des marqueurs de dégâts sur le Pokémon Actif de votre adversaire jusqu'à ce qu'il ne lui reste que 50 PV.",
+        "de": "Lege so lange Schadensmarken auf das Aktive Pokémon deines Gegners, bis seine verbleibenden KP gleich 50 sind.",
+        "it": "Metti dei segnalini danno sul Pokémon attivo del tuo avversario finché i suoi PS rimanenti diventano 50.",
+        "pt": "Coloque contadores de dano no Pokémon Ativo do seu oponente até o PS restante dele ser 50.",
+        "es": "Pon contadores de daño en el Pokémon Activo de tu rival hasta que le queden 50 PS."
+      },
+      "name": {
+        "en": "Chi-Atsu",
+        "fr": "Chi-Atsu",
+        "de": "Chi-Atsu",
+        "it": "Chi-Atsu",
+        "pt": "Chi-Atsu",
+        "es": "Qi-Atsu"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This attack's damage isn't affected by Weakness or Resistance.",

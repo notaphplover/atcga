@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Discard the top 2 cards of your opponent's deck.",
+        "fr": "Attachez une carte Énergie [R] de votre pile de défausse à l'un de vos Pokémon de Banc.",
+        "de": "Lege die obersten 2 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+        "it": "Assegna a uno dei tuoi Pokémon in panchina una carta Energia [R] dalla tua pila degli scarti.",
+        "es": "Descarta las 2 primeras cartas de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Melting Horn",
+        "fr": "Flamme Colossale",
+        "de": "Schmelzhorn",
+        "it": "Megafiammata",
+        "es": "Cuerno Derretidor"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Attach a [R] Energy card from your discard pile to 1 of your Benched Pokémon.",

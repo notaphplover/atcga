@@ -3,7 +3,10 @@
   "abilityName": "はどうよち",
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "jp": "このワザのダメージは抵抗力を計算しない。"

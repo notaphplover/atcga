@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "This attack does 20 damage for each basic Energy card in your discard pile. Then, shuffle those cards into your deck.",

@@ -1,11 +1,25 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
         "en": "Bite"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
+      "effect": {},
+      "name": {
+        "en": "Feint Attack"
       }
     }
   ],

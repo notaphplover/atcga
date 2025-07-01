@@ -3,7 +3,11 @@
   "abilityName": "Heal Block",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "Does 10 more damage for each card in your opponent's hand.",

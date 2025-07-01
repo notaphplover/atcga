@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "80×",
       "effect": {
         "en": "Discard the top 5 cards of your deck. This attack does 80 damage times the number of Energy cards you discarded.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy attached to this Pokémon. Then, discard an Energy attached to your opponent's Active Pokémon.",

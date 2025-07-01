@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a Basic [G] Energy card from your hand to 1 of your Benched Pokémon. If you do, heal all damage from that Pokémon.",
+        "fr": "Attachez une carte Énergie [G] de base de votre main à l'un de vos Pokémon de Banc. Dans ce cas, soignez tous les dégâts de ce Pokémon-là.",
+        "de": "Lege 1 Basis-[G]-Energiekarte aus deiner Hand an 1 Pokémon auf deiner Bank an. Wenn du das machst, heile allen Schaden bei jenem Pokémon.",
+        "it": "Assegna a uno dei tuoi Pokémon in panchina una carta Energia base [G] dalla tua mano. Se lo fai, cura quel Pokémon da tutti i danni.",
+        "pt": "Ligue uma carta de Energia [G] Básica da sua mão a 1 dos seus Pokémon no Banco. Se fizer isto, cure todo o dano daquele Pokémon.",
+        "es": "Une 1 carta de Energía [G] Básica de tu mano a uno de tus Pokémon en Banca. Si lo haces, cura todos los puntos de daño a ese Pokémon."
+      },
+      "name": {
+        "en": "Leaflet Blessings",
+        "fr": "Bénédictions Folioles",
+        "de": "Blättchensegen",
+        "it": "Preghiera di Foglioline",
+        "pt": "Bênçãos das Folhinhas",
+        "es": "Bendiciones de los Folíolos"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

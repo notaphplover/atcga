@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Shuffle 5 [P] Pokémon from your discard pile into your deck.",
+        "fr": "Mélangez 5 Pokémon [P] de votre pile de défausse avec votre deck.",
+        "de": "Mische 5 [P]-Pokémon aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia cinque Pokémon [P] dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 5 Pokémon [P] de tu pila de descartes en tu baraja y baraja todas las cartas."
+      },
+      "name": {
+        "en": "Family Rescue",
+        "fr": "Sauvetage Familial",
+        "de": "Familienrettung",
+        "it": "Salva Famiglia",
+        "es": "Rescate Familiar"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

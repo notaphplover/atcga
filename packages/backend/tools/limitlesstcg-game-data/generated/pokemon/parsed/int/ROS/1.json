@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, switch this Pokémon with 1 of your Benched Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+        "de": "Wirf 1 Münze. Tausche bei „Kopf“ dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+        "it": "Lancia una moneta. Se esce testa, scambia questo Pokémon con uno della tua panchina.",
+        "es": "Lanza 1 moneda. Si sale cara, cambia este Pokémon por 1 de tus Pokémon en Banca."
+      },
+      "name": {
+        "en": "Loathe",
+        "fr": "Dégoût",
+        "de": "Abscheu",
+        "it": "Avversione",
+        "es": "Desdén"
+      }
+    },
+    {
+      "cost": [
+        "g"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

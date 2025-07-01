@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "This attack does 80 more damage for each Prize card your opponent took on their last turn.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This Pokémon does 30 damage to itself.",

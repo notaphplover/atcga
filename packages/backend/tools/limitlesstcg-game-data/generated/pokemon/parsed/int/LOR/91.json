@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Discard the top card of your deck. If that card is an Energy card, this attack does 100 more damage, and attach that card to this Pokémon.",
@@ -21,7 +23,12 @@
       }
     },
     {
-      "cost": "fccc",
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "This Pokémon also does 30 damage to itself.",

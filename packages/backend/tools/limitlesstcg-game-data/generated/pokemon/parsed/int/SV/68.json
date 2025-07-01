@@ -3,7 +3,9 @@
   "abilityName": "Intimidating Pattern",
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Draw 2 cards."

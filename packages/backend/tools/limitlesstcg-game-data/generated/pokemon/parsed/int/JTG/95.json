@@ -3,7 +3,10 @@
   "abilityName": "Daunting Gaze",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Discard the top 2 cards of your opponent's deck.",

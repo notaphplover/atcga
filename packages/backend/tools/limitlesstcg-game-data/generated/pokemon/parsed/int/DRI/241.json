@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "f"
+      ],
       "dmg": "100",
       "effect": {
         "en": "You may draw cards until you have 6 cards in your hand.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "260",
       "effect": {
         "en": "Discard all Energy from this Pokémon.",

@@ -1,7 +1,19 @@
 {
   "abilityEffect": "このポケモンがねむりのとき、ポケモンチェックで、このポケモンがねむりから回復しなかったなら、相手のバトルポケモンに、ダメカンを6個のせる。",
   "abilityName": "ゆめうつつ",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "jp": "このポケモンをねむりにする。"
+      },
+      "name": {
+        "jp": "うとうと"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 90,
   "imageUrls": {

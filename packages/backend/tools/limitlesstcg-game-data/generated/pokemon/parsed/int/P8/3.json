@@ -3,7 +3,12 @@
   "abilityName": "Intimidating Fang",
   "attacks": [
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Flip a coin. If tails, Luxray does 40 damage to itself."

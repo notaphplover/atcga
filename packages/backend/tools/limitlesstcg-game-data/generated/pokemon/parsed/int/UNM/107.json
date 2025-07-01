@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "If 1 of your opponent's Pokémon used a GX attack during their last turn, your opponent shuffles their Active Pokémon and all cards attached to it into their deck.",
+        "fr": "Si l'un des Pokémon de votre adversaire a utilisé une attaque GX pendant son dernier tour, votre adversaire mélange son Pokémon Actif et toutes les cartes qui lui sont attachées avec son deck.",
+        "de": "Wenn ein Pokémon deines Gegners während seines letzten Zuges eine GX-Attacke eingesetzt hat, mischt dein Gegner sein Aktives Pokémon und alle an es angelegten Karten in sein Deck.",
+        "it": "Se uno dei Pokémon del tuo avversario ha usato un attacco GX durante il suo ultimo turno, il tuo avversario rimischia il suo Pokémon attivo e tutte le carte a esso assegnate nel suo mazzo.",
+        "es": "Si 1 de los Pokémon de tu rival usó un ataque GX durante su último turno, tu rival pone su Pokémon Activo y todas las cartas unidas a él en su baraja y las baraja todas."
+      },
+      "name": {
+        "en": "Turn the Tables",
+        "fr": "Retournement de Situation",
+        "de": "Blattwende",
+        "it": "Ribaltamento",
+        "es": "Cambio de Tornas"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {},
       "name": {

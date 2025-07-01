@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "d"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "rdd",
+      "cost": [
+        "r",
+        "d",
+        "d"
+      ],
       "dmg": "230",
       "effect": {
         "en": "Discard a Stadium in play. If you can't, this attack does nothing.",

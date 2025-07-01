@@ -3,7 +3,11 @@
   "abilityName": "そうこう",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "jp": "相手のバトルポケモンが「ポケモンGX・EX」なら、70ダメージ追加。"

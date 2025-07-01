@@ -3,7 +3,12 @@
   "abilityName": "Allergy Panic",
   "attacks": [
     {
-      "cost": "gccc",
+      "cost": [
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "The Defending Pokémon is now Asleep and Poisoned.",

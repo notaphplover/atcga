@@ -3,7 +3,11 @@
   "abilityName": "Metal Maker",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

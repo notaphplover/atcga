@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top card of your opponent's deck.",
+        "fr": "Regardez la carte du dessus du deck de votre adversaire.",
+        "de": "Schau dir die oberste Karte des Decks deines Gegners an.",
+        "it": "Guarda la prima carta del mazzo del tuo avversario.",
+        "es": "Mira la primera carta de la baraja de tu rival."
+      },
+      "name": {
+        "en": "Glance",
+        "fr": "Coup d'Œil",
+        "de": "Kurzer Blick",
+        "it": "Occhiatina",
+        "es": "Ojeada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {

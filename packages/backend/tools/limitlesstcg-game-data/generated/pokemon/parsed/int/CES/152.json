@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "90+",
       "effect": {
         "en": "If you have the same number of cards in your hand as your opponent, this attack does 90 more damage.",
@@ -34,6 +40,26 @@
         "de": "Sondersensor",
         "it": "Extrasenso",
         "es": "Paranormal"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into their deck. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Choisissez l'un des Pokémon de votre adversaire. Votre adversaire mélange ce Pokémon et toutes les cartes qui lui sont attachées avec son deck. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Wähle 1 Pokémon deines Gegners. Dein Gegner mischt jenes Pokémon und alle an es angelegten Karten in sein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Scegli uno dei Pokémon del tuo avversario. Il tuo avversario rimischia quel Pokémon e tutte le carte a esso assegnate nel suo mazzo. Non puoi usare più di un attacco GX a partita."
+      },
+      "name": {
+        "en": "Den of Iniquity-GX",
+        "fr": "Lieu de Perdition-GX",
+        "de": "Höhle des Frevels-GX",
+        "it": "Covo Maledetto-GX",
+        "es": "Antro de Perdición-GX"
       }
     }
   ],

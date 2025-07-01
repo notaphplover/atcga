@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there.",
@@ -21,7 +23,10 @@
       }
     },
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like.",

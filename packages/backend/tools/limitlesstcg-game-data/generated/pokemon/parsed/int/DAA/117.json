@@ -3,7 +3,10 @@
   "abilityName": "Eternal Zone",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each of your [D] Pokémon in play.",

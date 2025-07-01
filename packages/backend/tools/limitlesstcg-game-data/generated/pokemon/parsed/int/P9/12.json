@@ -1,13 +1,27 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10×",
       "effect": {
         "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
       },
       "name": {
         "en": "Dizzy Punch"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, prevent all damage done to Buneary by attacks during your opponent's next turn."
+      },
+      "name": {
+        "en": "Defense Curl"
       }
     }
   ],

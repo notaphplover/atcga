@@ -3,4 +3,4 @@
 
 # @atcga/backend-catalog-env
 
-atcga limitlesstcg game importer modules.
+atcga catalog env modules.

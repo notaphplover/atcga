@@ -1,5 +1,45 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, heal 10 damage from this Pokémon.",
+        "fr": "Lancez une pièce. Si c'est face, soignez 10 dégâts à ce Pokémon.",
+        "de": "Wirf 1 Münze. Heile bei „Kopf“ 10 Schadenspunkte bei diesem Pokémon.",
+        "it": "Lancia una moneta. Se esce testa, cura questo Pokémon da 10 danni.",
+        "es": "Lanza 1 moneda. Si sale cara, cura 10 puntos de daño a este Pokémon."
+      },
+      "name": {
+        "en": "Spacing Out",
+        "fr": "Trou d'Mémoire",
+        "de": "Dahindöser",
+        "it": "Vuoto Mentale",
+        "es": "En las Nubes"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Discard a [P] Energy attached to this Pokémon. If you do, put an Item card from your discard pile into your hand.",
+        "fr": "Défaussez une Énergie [P] attachée à ce Pokémon. Dans ce cas, prenez une carte Objet dans votre pile de défausse et ajoutez-la à votre main.",
+        "de": "Lege 1 an dieses Pokémon angelegte [P]-Energie auf deinen Ablagestapel. Wenn du das machst, nimm 1 Itemkarte von deinem Ablagestapel auf deine Hand.",
+        "it": "Scarta un'Energia [P] assegnata a questo Pokémon. Se lo fai, prendi una carta Strumento dalla tua pila degli scarti e aggiungila alle carte che hai in mano.",
+        "es": "Descarta 1 Energía [P] unida a este Pokémon. Si lo haces, pon 1 carta de Objeto de tu pila de descartes en tu mano."
+      },
+      "name": {
+        "en": "Scavenge",
+        "fr": "Farfouille",
+        "de": "Aasfresser",
+        "it": "Rovistare",
+        "es": "Buscabasura"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

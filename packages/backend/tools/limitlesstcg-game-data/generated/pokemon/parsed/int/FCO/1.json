@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards. Then, put a card from your hand on the bottom of your deck.",
+        "fr": "Piochez 2 cartes. Ensuite, mettez une carte de votre main en dessous de votre deck.",
+        "de": "Ziehe 2 Karten. Lege anschließend 1 Karte von deiner Hand unter deinen Ablagestapel.",
+        "it": "Pesca due carte. Poi, prendi una carta dalla tua mano e mettila in fondo al tuo mazzo.",
+        "es": "Roba 2 cartas. Después, pon 1 carta de tu mano en la parte inferior de tu baraja."
+      },
+      "name": {
+        "en": "Hide a Berry",
+        "fr": "Cache Baie",
+        "de": "Beerenversteck",
+        "it": "Nascondibacca",
+        "es": "Esconder una Baya"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",

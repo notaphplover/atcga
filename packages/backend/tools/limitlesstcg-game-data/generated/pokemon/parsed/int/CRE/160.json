@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Attach any number of [G] Energy cards from your hand to your Pokémon in any way you like.",
+        "fr": "Attachez le nombre de cartes Énergie [G] voulues de votre main à vos Pokémon comme il vous plaît.",
+        "de": "Lege beliebig viele [G]-Energiekarten aus deiner Hand beliebig an deine Pokémon an.",
+        "it": "Assegna ai tuoi Pokémon un numero qualsiasi di carte Energia [G] dalla tua mano nel modo che preferisci.",
+        "pt": "Ligue qualquer número de cartas de Energia [G] da sua mão aos seus Pokémon como desejar.",
+        "es": "Une cualquier cantidad de cartas de Energía [G] de tu mano a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Leaflet Dance",
+        "fr": "Foliole Dansante",
+        "de": "Blättchenreigen",
+        "it": "Danza di Foglioline",
+        "pt": "Dança das Folhinhas",
+        "es": "Danza de los Folíolos"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Switch this Pokémon with 1 of your Benched Pokémon.",

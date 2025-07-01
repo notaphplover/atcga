@@ -3,7 +3,10 @@
   "abilityName": "Perfect Metal",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Search your discard pile for an Energy card and attach it to Steelix.",
@@ -21,7 +24,13 @@
       }
     },
     {
-      "cost": "mmccc",
+      "cost": [
+        "m",
+        "m",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "You may discard any Stadium card in play.",

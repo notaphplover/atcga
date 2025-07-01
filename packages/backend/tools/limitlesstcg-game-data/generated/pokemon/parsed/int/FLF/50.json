@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {
@@ -10,6 +12,26 @@
         "de": "Kratzer",
         "it": "Graffio",
         "es": "Arañazo"
+      }
+    },
+    {
+      "cost": [
+        "d",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent discards a card from his or her hand.",
+        "fr": "Votre adversaire défausse une carte de sa main.",
+        "de": "Dein Gegner legt 1 Karte von seiner Hand auf seinen Ablagespapel.",
+        "it": "Il tuo avversario scarta una carta che ha in mano.",
+        "es": "Tu rival descarta 1 carta de su mano."
+      },
+      "name": {
+        "en": "Flash Claw",
+        "fr": "Flash-Griffe",
+        "de": "Flotte Pfote",
+        "it": "Artiglioflash",
+        "es": "Garra Fugaz"
       }
     }
   ],

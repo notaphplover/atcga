@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "rr",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent shuffles his or her hand into his or her deck and draws 4 cards.",
+        "fr": "Votre adversaire mélange sa main avec son deck et pioche 4 cartes.",
+        "de": "Dein Gegner mischt seine Hand zurück in sein Deck und zieht 4 Karten.",
+        "it": "Il tuo avversario rimischia le carte che ha in mano nel proprio mazzo e poi pesca quattro carte.",
+        "es": "Tu rival baraja las cartas de su mano en su baraja y roba 4 cartas."
+      },
+      "name": {
+        "en": "Devastating Wind",
+        "fr": "Vent Dévastateur",
+        "de": "Wind der Verwüstung",
+        "it": "Devastavento",
+        "es": "Viento Devastador"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard all [R] Energy attached to this Pokémon.",

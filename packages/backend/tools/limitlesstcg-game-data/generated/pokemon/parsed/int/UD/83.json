@@ -3,7 +3,11 @@
   "abilityName": "Voltage Increase",
   "attacks": [
     {
-      "cost": "llc",
+      "cost": [
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Discard all Energy attached to Raichu.",

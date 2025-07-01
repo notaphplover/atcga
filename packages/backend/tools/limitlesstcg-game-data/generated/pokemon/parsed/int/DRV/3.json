@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "20",
       "effect": {},
       "name": {
@@ -11,7 +14,11 @@
       }
     },
     {
-      "cost": "glc",
+      "cost": [
+        "g",
+        "l",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Discard the top card of your deck.",

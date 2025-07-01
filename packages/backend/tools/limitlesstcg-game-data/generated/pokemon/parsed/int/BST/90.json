@@ -3,7 +3,10 @@
   "abilityName": "Discreet Draw",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

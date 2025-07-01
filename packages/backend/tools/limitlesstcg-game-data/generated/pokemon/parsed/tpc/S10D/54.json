@@ -3,7 +3,13 @@
   "abilityName": "こだいのえいち",
   "attacks": [
     {
-      "cost": "ccccc",
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150+",
       "effect": {
         "jp": "相手のバトルポケモンが「ポケモンVMAX」なら、150ダメージ追加。"

@@ -1,7 +1,13 @@
 {
   "attacks": [
     {
-      "cost": "rrdcc",
+      "cost": [
+        "r",
+        "r",
+        "d",
+        "c",
+        "c"
+      ],
       "dmg": "300",
       "effect": {
         "en": "Discard the top 5 cards of your deck.",

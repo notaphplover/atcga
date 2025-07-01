@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "fccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach up to 2 [F] Energy cards from your hand to your Pokémon in any way you like.",
+        "fr": "Attachez jusqu'à 2 cartes Énergie [F] de votre main à vos Pokémon comme il vous plaît.",
+        "de": "Lege bis zu 2 [F]-Energiekarten aus deiner Hand beliebig an deine Pokémon an.",
+        "it": "Assegna ai tuoi Pokémon fino a due carte Energia [F] dalla tua mano nel modo che preferisci.",
+        "pt": "Ligue até 2 cartas de Energia [F] da sua mão aos seus Pokémon como desejar.",
+        "es": "Une hasta 2 cartas de Energía [F] de tu mano a tus Pokémon de la manera que desees."
+      },
+      "name": {
+        "en": "Power Stone",
+        "fr": "Pierre Puissante",
+        "de": "Kraftstein",
+        "it": "Pietra Potente",
+        "pt": "Pedra do Poder",
+        "es": "Roca Poderosa"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Put the top card of your opponent's deck in the Lost Zone.",

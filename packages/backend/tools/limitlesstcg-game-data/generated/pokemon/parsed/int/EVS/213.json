@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Knock Out 1 of your opponent's Pokémon in play that has 60 HP or less remaining.",
+        "fr": "Mettez K.O. l'un des Pokémon en jeu de votre adversaire auquel il reste 60 PV ou moins.",
+        "de": "Mache 1 Pokémon deines Gegners im Spiel, das 60 oder weniger verbleibende KP hat, kampfunfähig.",
+        "it": "Metti KO uno dei Pokémon in gioco del tuo avversario che ha 60 PS o meno rimanenti.",
+        "pt": "Nocauteie 1 dos Pokémon do seu oponente em jogo que tiver PS restante de 60 ou menos.",
+        "es": "Deja Fuera de Combate a 1 de los Pokémon en juego de tu rival al que le queden 60 PS o menos."
+      },
+      "name": {
+        "en": "Hunting Claw",
+        "fr": "Griffe de Chasse",
+        "de": "Jagdklauen",
+        "it": "Artiglio Implacabile",
+        "pt": "Garra de Predador",
+        "es": "Garra Cinegética"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",

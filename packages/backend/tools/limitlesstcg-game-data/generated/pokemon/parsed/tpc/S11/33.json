@@ -3,7 +3,11 @@
   "abilityName": "ロストプロバイド",
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "jp": "このワザのダメージは弱点を計算しない。"

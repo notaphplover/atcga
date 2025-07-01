@@ -3,7 +3,13 @@
   "abilityName": "Call for Power",
   "attacks": [
     {
-      "cost": "rrccc",
+      "cost": [
+        "r",
+        "r",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "Flip a coin. If tails, discard all Energy attached to Charizard G."

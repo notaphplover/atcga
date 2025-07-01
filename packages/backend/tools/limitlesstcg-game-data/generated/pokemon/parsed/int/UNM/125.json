@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "150",
       "effect": {
         "en": "This attack does 60 damage to 1 of your opponent's Benched Pokémon-GX or Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)",
@@ -16,6 +20,25 @@
         "de": "Finsterlanze",
         "it": "Lancia Oscura",
         "es": "Lanza Negra"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent can't play any Trainer cards from their hand during their next turn. If this Pokémon has at least 5 extra [D] Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Votre adversaire ne peut pas jouer de carte Dresseur de sa main pendant son prochain tour. Si au moins 5 Énergies [D] supplémentaires sont attachées à ce Pokémon (en plus du coût de cette attaque), le Pokémon Actif de votre adversaire est mis K.O. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Dein Gegner kann während seines nächsten Zuges keine Trainerkarten aus seiner Hand spielen. Wenn an dieses Pokémon mindestens 5 extra [D]-Energien angelegt sind (zusätzlich zu den Kosten dieser Attacke), ist das Aktive Pokémon deines Gegners kampfunfähig. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Il tuo avversario non può giocare le carte Allenatore che ha in mano durante il suo prossimo turno. Se questo Pokémon ha almeno cinque Energie [D] extra assegnate, in aggiunta a quelle del costo di questo attacco, il Pokémon attivo del tuo avversario viene messo KO. Non puoi usare più di un attacco GX a partita.",
+        "es": "Tu rival no puede jugar ninguna carta de Entrenador de su mano durante su próximo turno. Si este Pokémon tiene por lo menos 5 Energías [D] adicionales unidas a él (además de las del coste de este ataque), el Pokémon Activo de tu rival queda Fuera de Combate. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Dark Moon-GX",
+        "fr": "Lune Sombre-GX",
+        "de": "Finstermond-GX",
+        "it": "Oscurità Lunare-GX",
+        "es": "Luna Siniestra-GX"
       }
     }
   ],

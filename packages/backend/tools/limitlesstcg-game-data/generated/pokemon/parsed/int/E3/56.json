@@ -3,7 +3,23 @@
   "abilityName": "Exoskeleton",
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g",
+        "c"
+      ],
+      "effect": {
+        "en": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Shell Rupture"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 2 coins. This attack does 40 damage times the number of heads."

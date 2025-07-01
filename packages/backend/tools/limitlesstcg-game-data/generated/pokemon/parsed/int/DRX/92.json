@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "gpc",
+      "cost": [
+        "g",
+        "p",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "gpcc",
+      "cost": [
+        "g",
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard the top 3 cards of your deck.",

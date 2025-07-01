@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -9,7 +12,12 @@
       }
     },
     {
-      "cost": "rrlc",
+      "cost": [
+        "r",
+        "r",
+        "l",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Flip a coin. If tails, this Pokémon can't use Dragon Strike during your next turn."

@@ -1,7 +1,30 @@
 {
   "abilityEffect": "As long as Dunsparce is your Active Pokémon, your opponent's Dunsparce can't attack.",
   "abilityName": "Deadlock",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 2 cards from the bottom of your deck."
+      },
+      "name": {
+        "en": "Down Draw"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "The Defending Pokémon is now Confused. You may switch Dunsparce with 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Tripping Turn"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

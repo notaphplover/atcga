@@ -3,7 +3,11 @@
   "abilityName": "たいこのことわり",
   "attacks": [
     {
-      "cost": "fcc",
+      "cost": [
+        "f",
+        "c",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

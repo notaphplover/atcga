@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "mc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard cards from your opponent's hand at random until he or she has 4 cards in his or her hand.",
+        "fr": "Défaussez des cartes de la main de votre adversaire au hasard jusqu'à ce qu'il ait 4 cartes dans sa main.",
+        "de": "Lege zufällige Karten aus der verdeckten Hand deines Gegners auf dessen Ablagestapel, bis er 4 Karten auf der Hand hat.",
+        "it": "Scarta delle carte a caso dalla mano del tuo avversario fino a lasciarlo con quattro carte in mano.",
+        "es": "Descarta cartas de la mano de tu rival al azar hasta que este tenga 4 cartas en su mano."
+      },
+      "name": {
+        "en": "Chip Off",
+        "fr": "Grignotement",
+        "de": "Abspalten",
+        "it": "Rimozione",
+        "es": "Astillar"
+      }
+    },
+    {
+      "cost": [
+        "m",
+        "c"
+      ],
       "dmg": "20+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

@@ -3,7 +3,9 @@
   "abilityName": "いざなうあかり",
   "attacks": [
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30×",
       "effect": {
         "jp": "相手の手札の枚数×30ダメージ。"

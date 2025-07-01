@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw a card. If you go second and it's your first turn, draw 3 more cards.",
+        "fr": "Piochez une carte. Si vous jouez en second et que c'est votre premier tour, piochez 3 cartes supplémentaires.",
+        "de": "Ziehe 1 Karte. Wenn du als Zweiter am Zug bist und es dein erster Zug ist, ziehe 3 Karten mehr.",
+        "it": "Pesca una carta. Se inizi per secondo ed è il tuo primo turno, pesca altre tre carte.",
+        "pt": "Compre 1 carta. Se você for o segundo a jogar e este for o seu primeiro turno, compre 3 cartas a mais.",
+        "es": "Roba 1 carta. Si sales segundo y es tu primer turno, roba 3 cartas más."
+      },
+      "name": {
+        "en": "Tailwind Draw",
+        "fr": "Pioche en Poupe",
+        "de": "Rückenwindzug",
+        "it": "Pescata Ventoincoda",
+        "pt": "Compra Vento de Cauda",
+        "es": "Robo de Viento Afín"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If tails, this attack does nothing.",

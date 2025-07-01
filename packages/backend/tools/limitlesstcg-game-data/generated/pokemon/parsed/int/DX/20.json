@@ -3,7 +3,9 @@
   "abilityName": "Smooth Over",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "You may discard any Stadium card in play."
@@ -13,7 +15,11 @@
       }
     },
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {

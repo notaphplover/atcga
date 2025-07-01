@@ -1,7 +1,7 @@
 {
   "attacks": [
     {
-      "cost": "0",
+      "cost": [],
       "dmg": "30",
       "effect": {
         "en": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn.",
@@ -19,7 +19,11 @@
       }
     },
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage.",

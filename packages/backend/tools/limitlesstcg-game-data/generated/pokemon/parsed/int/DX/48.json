@@ -3,7 +3,20 @@
   "abilityName": "Core Guard",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) You may move an Energy attached to that Pokémon to another of your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Energy Flip"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon."

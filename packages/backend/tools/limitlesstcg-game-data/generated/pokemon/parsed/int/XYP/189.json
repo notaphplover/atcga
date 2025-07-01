@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+      },
+      "name": {
+        "en": "Energy Assist"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Discard a [R] Energy attached to this Pokémon."

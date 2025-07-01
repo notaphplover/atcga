@@ -3,7 +3,10 @@
   "abilityName": "スパイダーネット",
   "attacks": [
     {
-      "cost": "dc",
+      "cost": [
+        "d",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "相手のバトルポケモンをどくにする。"

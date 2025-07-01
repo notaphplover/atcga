@@ -3,7 +3,11 @@
   "abilityName": "がちりんのめぐみ",
   "attacks": [
     {
-      "cost": "ppc",
+      "cost": [
+        "p",
+        "p",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {

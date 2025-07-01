@@ -3,7 +3,11 @@
   "abilityName": "ガッツ",
   "attacks": [
     {
-      "cost": "fmc",
+      "cost": [
+        "f",
+        "m",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

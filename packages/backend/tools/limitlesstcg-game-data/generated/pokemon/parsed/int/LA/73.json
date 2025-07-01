@@ -3,7 +3,10 @@
   "abilityName": "Big Wing",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If Swellow was on your Bench this turn, this attack's base damage is 60 instead of 30."

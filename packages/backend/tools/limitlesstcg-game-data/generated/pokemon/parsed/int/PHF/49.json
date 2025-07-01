@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Discard a [F] Energy attached to this Pokémon and heal 50 damage from it.",
+        "fr": "Défaussez une Énergie [F] attachée à ce Pokémon et soignez 50 dégâts à ce Pokémon.",
+        "de": "Lege 1 an dieses Pokémon angelegte [F]-Energie auf deinen Ablagestapel und heile 50 Schadenspunkte bei diesem Pokémon.",
+        "it": "Scarta un'Energia [F] assegnata a questo Pokémon e curalo da 50 danni.",
+        "es": "Descarta 1 Energía [F] unida a este Pokémon y cúrale 50 puntos de daño."
+      },
+      "name": {
+        "en": "Core Heal",
+        "fr": "Soin Viscéral",
+        "de": "Kernheiler",
+        "it": "Nucleocura",
+        "es": "Cura Núcleo"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

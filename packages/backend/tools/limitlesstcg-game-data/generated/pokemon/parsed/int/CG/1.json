@@ -3,7 +3,10 @@
   "abilityName": "Safeguard",
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If the Defending Pokémon is a Basic Pokémon, that Pokémon is now Confused."

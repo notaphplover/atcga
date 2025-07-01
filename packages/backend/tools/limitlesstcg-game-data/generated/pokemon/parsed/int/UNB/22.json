@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rrr",
+      "cost": [
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "120",
       "effect": {
         "en": "Attach 2 [R] Energy cards from your discard pile to 1 of your Benched Pokémon.",
@@ -19,7 +23,12 @@
       }
     },
     {
-      "cost": "rrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This Pokémon does 50 damage to itself.",

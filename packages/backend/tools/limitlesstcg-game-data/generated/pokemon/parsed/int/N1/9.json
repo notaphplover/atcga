@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rwl",
+      "cost": [
+        "r",
+        "w",
+        "l"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard a [R] Energy card, a [W] Energy card, and a [L] Energy card attached to Lugia in order to use this attack."

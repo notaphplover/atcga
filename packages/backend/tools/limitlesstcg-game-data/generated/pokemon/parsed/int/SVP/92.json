@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Search your deck for up to 2 Basic Energy cards and attach them to your Future Pokémon in any way you like. Then, shuffle your deck.",
@@ -21,7 +23,11 @@
       }
     },
     {
-      "cost": "llp",
+      "cost": [
+        "l",
+        "l",
+        "p"
+      ],
       "dmg": "160",
       "effect": {},
       "name": {

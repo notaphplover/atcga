@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach a Basic Energy card from your hand to 1 of your Pokémon.",
+        "fr": "Attachez une carte Énergie de base de votre main à l'un de vos Pokémon.",
+        "de": "Lege 1 Basis-Energiekarte aus deiner Hand an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon una carta Energia base dalla tua mano.",
+        "pt": "Ligue uma carta de Energia Básica da sua mão a 1 dos seus Pokémon.",
+        "es": "Une 1 carta de Energía Básica de tu mano a uno de tus Pokémon."
+      },
+      "name": {
+        "en": "Lucky Attachment",
+        "fr": "Attache Chanceuse",
+        "de": "Glücksanlage",
+        "it": "Assegnazione Fortunata",
+        "pt": "Ligação Sortuda",
+        "es": "Unión Afortunada"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80",
       "effect": {
         "en": "During your next turn, this Pokémon can't attack.",

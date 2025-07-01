@@ -3,7 +3,10 @@
   "abilityName": "なりかわる",
   "attacks": [
     {
-      "cost": "cc",
+      "cost": [
+        "c",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "jp": "相手のベンチポケモンの数x30ダメージを追加。"

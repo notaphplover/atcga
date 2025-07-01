@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "rrc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Supporter dans votre deck, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 Unterstützerkarte, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Aiuto, mostrala e aggiungila alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Partidario, enséñala y ponla en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Call for Support",
+        "fr": "Appel au Renfort",
+        "de": "Ruf nach Unterstützung",
+        "it": "Cerca Aiuto",
+        "es": "Buscar Apoyo"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

@@ -3,7 +3,12 @@
   "abilityName": "Dark Trance",
   "attacks": [
     {
-      "cost": "pddc",
+      "cost": [
+        "p",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Discard 2 [D] Energy attached to this Pokémon.",

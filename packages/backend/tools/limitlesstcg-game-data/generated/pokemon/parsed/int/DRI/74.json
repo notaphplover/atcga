@@ -3,7 +3,11 @@
   "abilityName": "Darkest Impulse",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {},
       "name": {

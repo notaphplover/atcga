@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "The Defending Pokémon is now Burned.",
@@ -17,7 +20,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "You may discard any number of [R] Energy cards attached to Magcargo. If you do, this attack does 60 damage plus 20 damage for each [R] Energy card you discarded.",

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Shuffle 5 [W] Energy cards from your discard pile into your deck.",
+        "fr": "Mélangez 5 cartes Énergie [W] de votre pile de défausse avec votre deck.",
+        "de": "Mische 5 [W]-Energiekarten aus deinem Ablagestapel in dein Deck.",
+        "it": "Rimischia cinque carte Energia [W] dalla tua pila degli scarti nel tuo mazzo.",
+        "es": "Pon 5 cartas de Energía [W] de tu pila de descartes en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Deep Currents",
+        "fr": "Courants Profonds",
+        "de": "Tiefe Strömung",
+        "it": "Correnti Profonde",
+        "es": "Corrientes Profundas"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Asleep.",

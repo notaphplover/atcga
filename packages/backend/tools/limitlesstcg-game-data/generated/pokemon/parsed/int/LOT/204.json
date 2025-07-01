@@ -3,7 +3,11 @@
   "abilityName": "Double Drive",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "130",
       "effect": {},
       "name": {
@@ -15,7 +19,11 @@
       }
     },
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "190",
       "effect": {
         "en": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)",

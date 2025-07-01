@@ -1,7 +1,34 @@
 {
   "attacks": [
     {
-      "cost": "wcccc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Look at the top 5 cards of your deck. You may attach any number of Basic Energy cards you find there to this Pokémon. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 5 cartes du dessus de votre deck. Vous pouvez attacher le nombre voulu de cartes Énergie de base que vous y trouvez à ce Pokémon. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 5 Karten deines Decks an. Du kannst beliebig viele Basis-Energiekarten, die du dort findest, an dieses Pokémon anlegen. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime cinque carte del tuo mazzo. Puoi assegnare un numero qualsiasi di carte Energia base presenti tra esse a questo Pokémon. Poi rimischia le altre carte nel tuo mazzo.",
+        "pt": "Olhe as 5 cartas de cima do seu baralho. Você poderá ligar qualquer número de cartas de Energia Básica que encontrar lá a este Pokémon. Embaralhe as outras cartas de volta no seu baralho.",
+        "es": "Mira las 5 primeras cartas de tu baraja. Puedes unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a este Pokémon. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Supplemental Swallow-Up",
+        "fr": "Engloutissement en Plus",
+        "de": "Zusätzliches Runterschlucken",
+        "it": "Nutringhiottimento",
+        "pt": "Engolida Suplementar",
+        "es": "Engullir Más"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {},
       "name": {

@@ -3,7 +3,9 @@
   "abilityName": "Insomnia",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Flip a coin. If heads, each Defending Pokémon is now Asleep."

@@ -3,7 +3,21 @@
   "abilityName": "Shining Horn",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Search your discard pile for an Energy card, show it to your opponent, and put it into your hand."
+      },
+      "name": {
+        "en": "Dig Deep"
+      }
+    },
+    {
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "If the Defending Pokémon is Pokémon-ex, this attack does 30 damage plus 20 more damage."

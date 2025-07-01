@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "l",
+      "cost": [
+        "w"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from 1 of your Pokémon (remove 1 if there is only 1)."
+      },
+      "name": {
+        "en": "Dragon Dew"
+      }
+    },
+    {
+      "cost": [
+        "l"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

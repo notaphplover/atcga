@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Discard all [R] Energy attached to this Pokémon. This attack does 60 more damage for each Energy card discarded in this way.",

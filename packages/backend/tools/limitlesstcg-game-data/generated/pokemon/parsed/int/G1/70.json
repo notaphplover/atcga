@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "Flip 2 coins. If 1 or both of them are tails, this attack does nothing."

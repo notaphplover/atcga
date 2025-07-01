@@ -1,5 +1,45 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on each of your opponent's Pokémon.",
+        "fr": "Placez 2 marqueurs de dégâts sur chaque Pokémon de votre adversaire.",
+        "de": "Lege 2 Schadensmarken auf jedes Pokémon deines Gegners.",
+        "it": "Metti due segnalini danno su ciascuno dei Pokémon del tuo avversario.",
+        "es": "Pon 2 contadores de daño en cada uno de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Eerie Voice",
+        "fr": "Voix Lugubre",
+        "de": "Schaurige Stimme",
+        "it": "Vocemistero",
+        "es": "Voz Espeluznante"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "p"
+      ],
+      "effect": {
+        "en": "Put damage counters on both Active Pokémon until the remaining HP of each Pokémon is 10.",
+        "fr": "Placez des marqueurs de dégâts sur les deux Pokémon Actifs jusqu'à ce que chaque Pokémon ait 10 PV.",
+        "de": "Lege so lang Schadensmarken auf beide Aktiven Pokémon, bis noch 10 KP beim jeweiligen Pokémon übrig sind.",
+        "it": "Metti dei segnalini danno su entrambi i Pokémon attivi finché i loro PS rimanenti diventano 10.",
+        "es": "Pon contadores de daño en ambos Pokémon Activos hasta que le queden 10 PS restantes a cada Pokémon."
+      },
+      "name": {
+        "en": "Spirit Scream",
+        "fr": "Cri de l'Âme",
+        "de": "Seelenschrei",
+        "it": "Urlospettrale",
+        "es": "Grito Espectral"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 100,
   "imageUrls": {

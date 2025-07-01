@@ -1,7 +1,22 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may use this power. Any player who has 4 or more Benched Pokémon chooses 3 of his or her Benched Pokémon. Put the other Benched Pokémon and all cards attached to them in the Lost Zone. (You choose your Pokémon first.) This power can't be used it Palkia G is affected by a Special Condition.",
   "abilityName": "Lost Cyclone",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Discard 2 Energy attached to Palkia G. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      "name": {
+        "en": "Hydro Shot"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 120,
   "imageUrls": {

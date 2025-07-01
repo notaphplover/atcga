@@ -1,7 +1,20 @@
 {
   "attacks": [
     {
-      "cost": "f",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+      },
+      "name": {
+        "en": "Inviting Trap"
+      }
+    },
+    {
+      "cost": [
+        "f"
+      ],
       "dmg": "10",
       "effect": {
         "en": "The Defending Pokémon can't retreat during your opponent's next turn."

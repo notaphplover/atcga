@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Draw 3 cards. If you do, this Pokémon is now Asleep.",
+        "fr": "Piochez 3 cartes. Dans ce cas, ce Pokémon est maintenant Endormi.",
+        "de": "Ziehe 3 Karten. Wenn du das machst, schläft dieses Pokémon jetzt.",
+        "it": "Pesca tre carte. Se lo fai, questo Pokémon viene addormentato.",
+        "es": "Roba 3 cartas. Si lo haces, este Pokémon pasa a estar Dormido."
+      },
+      "name": {
+        "en": "Caturday",
+        "fr": "Chamedi",
+        "de": "Schnurrtag",
+        "it": "Giornogatto",
+        "es": "Sábado Gatuno"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "70",
       "effect": {
         "en": "The Defending Pokémon's Weakness is now [P] until the end of your next turn. (The amount of Weakness doesn't change.)",

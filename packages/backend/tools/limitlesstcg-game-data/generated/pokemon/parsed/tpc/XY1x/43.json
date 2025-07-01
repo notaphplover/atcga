@@ -3,7 +3,10 @@
   "abilityName": "スイートベール",
   "attacks": [
     {
-      "cost": "yc",
+      "cost": [
+        "y",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "jp": "このポケモンのHPを「30」回復する。"

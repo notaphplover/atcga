@@ -1,7 +1,19 @@
 {
   "abilityEffect": "When Shedinja is Knocked Out, your opponent doesn't take any Prize cards.",
   "abilityName": "Empty Shell",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put 2 damage counters on the Defending Pokémon. If the Defending Pokémon is Pokémon-ex, put 4 damage counters instead."
+      },
+      "name": {
+        "en": "Extra Curse"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 50,
   "imageUrls": {

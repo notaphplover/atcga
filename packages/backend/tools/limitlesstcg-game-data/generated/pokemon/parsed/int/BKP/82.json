@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "y",
+      "cost": [
+        "y"
+      ],
       "dmg": "30",
       "effect": {
         "en": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by [N] Pokémon.",
@@ -19,7 +21,11 @@
       }
     },
     {
-      "cost": "ycc",
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

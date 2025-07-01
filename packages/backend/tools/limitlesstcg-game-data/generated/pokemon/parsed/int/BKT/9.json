@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "gcc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Search your deck for a [G] Energy card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "fr": "Cherchez une carte Énergie [G] dans votre deck, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+        "de": "Durchsuche dein Deck nach 1 [G]-Energiekarte, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+        "it": "Cerca nel tuo mazzo una carta Energia [G], mostrala e aggiungila alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+        "es": "Busca en tu baraja 1 carta de Energía [G], enséñala y ponla en tu mano. Baraja las cartas de tu baraja después."
+      },
+      "name": {
+        "en": "Tree Climb",
+        "fr": "Escal'Arbre",
+        "de": "Baumkletterer",
+        "it": "Rampicalbero",
+        "es": "Trepar Árboles"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

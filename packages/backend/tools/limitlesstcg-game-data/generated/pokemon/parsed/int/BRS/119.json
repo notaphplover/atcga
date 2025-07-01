@@ -1,7 +1,35 @@
 {
   "attacks": [
     {
-      "cost": "cccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent shuffles their Active Pokémon and all attached cards into their deck.",
+        "fr": "Votre adversaire mélange avec son deck son Pokémon Actif et toutes les cartes attachées.",
+        "de": "Dein Gegner mischt sein Aktives Pokémon und alle angelegten Karten in sein Deck.",
+        "it": "Il tuo avversario rimischia il suo Pokémon attivo e tutte le carte a esso assegnate nel suo mazzo.",
+        "pt": "Seu oponente embaralha o Pokémon Ativo dele(a) e todas as cartas ligadas a ele no próprio baralho.",
+        "es": "Tu rival pone su Pokémon Activo y todas las cartas unidas a él en su baraja, y baraja todas las cartas."
+      },
+      "name": {
+        "en": "Strong Breeze",
+        "fr": "Forte Brise",
+        "de": "Steife Brise",
+        "it": "Fortebrezza",
+        "pt": "Brisa Intensa",
+        "es": "Fuerte Brisa"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard 2 Energy from this Pokémon.",

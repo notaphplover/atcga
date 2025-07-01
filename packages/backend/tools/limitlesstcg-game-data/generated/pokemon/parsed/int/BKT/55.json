@@ -3,7 +3,11 @@
   "abilityName": "Shining Body",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "This attack does 20 more damage for each [L] Energy attached to this Pokémon.",

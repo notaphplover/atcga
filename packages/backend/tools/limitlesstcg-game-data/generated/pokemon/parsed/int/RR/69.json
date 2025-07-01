@@ -1,7 +1,20 @@
 {
   "abilityEffect": "Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.",
   "abilityName": "Baby Evolution",
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Remove all Special Conditions and 6 damage counters from Munchlax. Munchlax is now Asleep."
+      },
+      "name": {
+        "en": "Rest"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 70,
   "imageUrls": {

@@ -3,7 +3,10 @@
   "abilityName": "におうだち",
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "30+",
       "effect": {
         "jp": "コインを1回投げオモテなら、30ダメージ追加。"

@@ -3,7 +3,11 @@
   "abilityName": "みなぎるせんこう",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "jp": "このポケモンにも20ダメージ。"

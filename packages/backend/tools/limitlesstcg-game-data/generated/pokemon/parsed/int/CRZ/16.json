@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "gg",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 20 damage to the new Active Pokémon.",
+        "fr": "Échangez l'un des Pokémon de Banc de votre adversaire contre son Pokémon Actif. Cette attaque inflige 20 dégâts au nouveau Pokémon Actif.",
+        "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus. Diese Attacke fügt dem neuen Aktiven Pokémon 20 Schadenspunkte zu.",
+        "it": "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Questo attacco infligge 20 danni al nuovo Pokémon attivo.",
+        "pt": "Troque 1 dos Pokémon no Banco do seu oponente pelo Pokémon Ativo dele(a). Este ataque causa 20 pontos de dano ao novo Pokémon Ativo.",
+        "es": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. Este ataque hace 20 puntos de daño al nuevo Pokémon Activo."
+      },
+      "name": {
+        "en": "Drag Off",
+        "fr": "Traîne",
+        "de": "Wegzerren",
+        "it": "Trascinato Via",
+        "pt": "Arrastar para Fora",
+        "es": "Jalón"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g"
+      ],
       "dmg": "70×",
       "effect": {
         "en": "Flip 3 coins. This attack does 70 damage for each heads.",

@@ -1,7 +1,30 @@
 {
   "attacks": [
     {
-      "cost": "ycc",
+      "cost": [
+        "y"
+      ],
+      "effect": {
+        "en": "Look at the top 8 cards of your deck and attach any number of Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
+        "fr": "Regardez les 8 cartes du dessus de votre deck et attachez le nombre désiré de cartes Énergie que vous y trouvez à vos Pokémon, de la manière que vous voulez. Mélangez les autres cartes avec votre deck.",
+        "de": "Schau dir die obersten 8 Karten deines Decks an und lege beliebig viele Energiekarten, die du dort findest, beliebig an deine Pokémon an. Mische die anderen Karten zurück in dein Deck.",
+        "it": "Guarda le prime otto carte del tuo mazzo e assegna a piacimento un numero qualsiasi di carte Energia presenti tra esse ai tuoi Pokémon. Poi rimischia le altre carte nel tuo mazzo.",
+        "es": "Mira las 8 primeras cartas de tu baraja y une cualquier cantidad de cartas de Energía que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de cartas de nuevo en tu baraja y barájalas todas."
+      },
+      "name": {
+        "en": "Polka-Dot Search",
+        "fr": "Quête à Pois",
+        "de": "Pünktchensuche",
+        "it": "Ricerca a Pois",
+        "es": "Búsqueda Lunares"
+      }
+    },
+    {
+      "cost": [
+        "y",
+        "c",
+        "c"
+      ],
       "dmg": "60+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 30 more damage.",

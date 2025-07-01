@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "You may discard up to 5 cards from the top of your deck. This attack does 40 more damage for each card you discarded in this way.",
@@ -21,7 +25,9 @@
       }
     },
     {
-      "cost": "r",
+      "cost": [
+        "r"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "This attack does 30 damage for each Energy card in your discard pile. (You can't use more than 1 VSTAR Power in a game.)",

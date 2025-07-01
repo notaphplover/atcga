@@ -3,7 +3,20 @@
   "abilityName": "Fast Protection",
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, Ninjask's Slash attack's base damage is 80."
+      },
+      "name": {
+        "en": "Swords Dance"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

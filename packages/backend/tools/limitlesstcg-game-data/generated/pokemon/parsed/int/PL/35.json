@@ -1,7 +1,18 @@
 {
   "attacks": [
     {
-      "cost": "w",
+      "cost": [],
+      "effect": {
+        "en": "Choose 1 of your opponent's Pokémon. Search your deck for a Pokémon that is the same type as the Pokémon you chose, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      "name": {
+        "en": "Love Call"
+      }
+    },
+    {
+      "cost": [
+        "w"
+      ],
       "dmg": "30",
       "effect": {
         "en": "Your opponent may draw a card."

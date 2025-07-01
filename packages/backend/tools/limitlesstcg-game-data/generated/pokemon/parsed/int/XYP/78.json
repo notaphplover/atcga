@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "pcc",
+      "cost": [
+        "r"
+      ],
+      "effect": {
+        "en": "Draw a card. If Latios is on your Bench, draw 1 more card."
+      },
+      "name": {
+        "en": "Eon Connection"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c",
+        "c"
+      ],
       "dmg": "60",
       "effect": {},
       "name": {

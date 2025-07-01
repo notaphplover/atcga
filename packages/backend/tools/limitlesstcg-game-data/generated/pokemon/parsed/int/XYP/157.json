@@ -1,7 +1,21 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Discard up to 2 Pokémon Tool cards attached to your opponent's Pokémon."
+      },
+      "name": {
+        "en": "Double Scrapper"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "40×",
       "effect": {
         "en": "Flip 4 coins. This attack does 40 damage times the number of heads."

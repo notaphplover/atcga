@@ -3,7 +3,10 @@
   "abilityName": "Temperament",
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "40",
       "effect": {
         "en": "Discard a [R] Energy attached to Castform Sunny Form."

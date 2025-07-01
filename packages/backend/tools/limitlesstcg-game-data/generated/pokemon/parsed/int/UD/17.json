@@ -1,7 +1,9 @@
 {
   "attacks": [
     {
-      "cost": "c",
+      "cost": [
+        "c"
+      ],
       "dmg": "50×",
       "effect": {
         "en": "Does 50 damage times the number of Special Conditions affecting the Defending Pokémon.",
@@ -17,7 +19,9 @@
       }
     },
     {
-      "cost": "g",
+      "cost": [
+        "g"
+      ],
       "dmg": "30",
       "effect": {
         "en": "The Defending Pokémon is now Asleep.",

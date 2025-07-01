@@ -1,7 +1,23 @@
 {
   "attacks": [
     {
-      "cost": "gggc",
+      "cost": [
+        "g"
+      ],
+      "effect": {
+        "en": "If the Defending Pokémon's maximum HP is 50 or less, it can't attack Giovanni's Nidoking during your opponent's next turn. (Benching or evolving either Pokémon ends this effect.)"
+      },
+      "name": {
+        "en": "Intimidate"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "g",
+        "g",
+        "c"
+      ],
       "dmg": "40+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage; if tails, this attack does 40 damage."

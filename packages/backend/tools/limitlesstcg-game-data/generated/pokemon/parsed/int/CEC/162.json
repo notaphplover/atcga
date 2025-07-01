@@ -3,7 +3,10 @@
   "abilityName": "Fighter's Roar",
   "attacks": [
     {
-      "cost": "lf",
+      "cost": [
+        "l",
+        "f"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {

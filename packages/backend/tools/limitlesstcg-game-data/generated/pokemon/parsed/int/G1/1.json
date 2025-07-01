@@ -1,7 +1,13 @@
 {
   "attacks": [
     {
-      "cost": "rrrrr",
+      "cost": [
+        "r",
+        "r",
+        "r",
+        "r",
+        "r"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Flip a coin. If tails, shuffle Blaine's Moltres and all cards attached to it into your deck (after doing damage)."

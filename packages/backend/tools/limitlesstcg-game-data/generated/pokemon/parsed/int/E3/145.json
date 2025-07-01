@@ -3,7 +3,23 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "gpc",
+      "cost": [
+        "g",
+        "w"
+      ],
+      "effect": {
+        "en": "Remove 2 damage counters from Celebi and each Pokémon that's the same type (color) as Celebi."
+      },
+      "name": {
+        "en": "Empathic Healing"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "p",
+        "c"
+      ],
       "dmg": "20",
       "effect": {
         "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."

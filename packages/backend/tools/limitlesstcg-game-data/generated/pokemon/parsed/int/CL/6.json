@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "ffff",
+      "cost": [
+        "f",
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "80",
       "effect": {
         "en": "Flip a coin. If heads, discard the top 4 cards of your opponent's deck. If tails, discard the top 4 cards of your deck.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "rc",
+      "cost": [
+        "r",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "rrc",
+      "cost": [
+        "r",
+        "r",
+        "c"
+      ],
       "dmg": "180",
       "effect": {
         "en": "Discard all [R] Energy from this Pokémon.",

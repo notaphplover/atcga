@@ -1,7 +1,26 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "During your next turn, Carvanha's Bite attack's base damage is 40.",
+        "fr": "Pendant votre prochain tour, l'attaque Morsure de Carvanha inflige 40 dégâts de base.",
+        "de": "In deinem nächsten Zug beträgt der Grundschaden von Kanivanhas Biss 40 Schadenspunkte.",
+        "it": "Durante il tuo prossimo turno, il danno base dell'attacco Morso di Carvanha è 40."
+      },
+      "name": {
+        "en": "Focus Energy",
+        "fr": "Puissance",
+        "de": "Energiefokus",
+        "it": "Focalenergia"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10",
       "effect": {},
       "name": {

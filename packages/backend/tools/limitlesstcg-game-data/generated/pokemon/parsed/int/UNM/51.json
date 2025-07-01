@@ -3,7 +3,12 @@
   "abilityName": "Emergency Exit",
   "attacks": [
     {
-      "cost": "wccc",
+      "cost": [
+        "w",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "120+",
       "effect": {
         "en": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage.",

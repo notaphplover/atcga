@@ -1,7 +1,12 @@
 {
   "attacks": [
     {
-      "cost": "lllc",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "c"
+      ],
       "dmg": "60",
       "effect": {
         "en": "Flip a coin. If tails, Zapdos does 30 damage to itself."
@@ -11,7 +16,12 @@
       }
     },
     {
-      "cost": "llll",
+      "cost": [
+        "l",
+        "l",
+        "l",
+        "l"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Discard all Energy cards attached to Zapdos in order to use this attack."

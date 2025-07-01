@@ -3,7 +3,11 @@
   "abilityName": "Power Draw",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "80+",
       "effect": {
         "en": "This attack does 20 more damage times the amount of [W] Energy attached to this Pokémon.",

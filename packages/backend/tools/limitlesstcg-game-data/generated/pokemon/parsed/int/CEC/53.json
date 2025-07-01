@@ -1,7 +1,31 @@
 {
   "attacks": [
     {
-      "cost": "wwcc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Attach 2 [W] Energy cards from your discard pile to 1 of your Pokémon.",
+        "fr": "Attachez 2 cartes Énergie [W] de votre pile de défausse à l'un de vos Pokémon.",
+        "de": "Lege 2 [W]-Energiekarten aus deinem Ablagestapel an 1 deiner Pokémon an.",
+        "it": "Assegna a uno dei tuoi Pokémon due carte Energia [W] dalla tua pila degli scarti.",
+        "es": "Une 2 cartas de Energía [W] de tu pila de descartes a 1 de tus Pokémon."
+      },
+      "name": {
+        "en": "High Water",
+        "fr": "Hautes Eaux",
+        "de": "Flutwasser",
+        "it": "Acqua Alta",
+        "es": "Crecida Acuática"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c",
+        "c"
+      ],
       "dmg": "130",
       "effect": {
         "en": "Discard an Energy from this Pokémon.",

@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "fc",
+      "cost": [
+        "f",
+        "c"
+      ],
       "dmg": "10",
       "effect": {
         "en": "Discard a random card from your opponent's hand.",

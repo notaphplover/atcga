@@ -3,7 +3,11 @@
   "abilityName": "じんらいのめざめ",
   "attacks": [
     {
-      "cost": "lcc",
+      "cost": [
+        "l",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {},
       "name": {

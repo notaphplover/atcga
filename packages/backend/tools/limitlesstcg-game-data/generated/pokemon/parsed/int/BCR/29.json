@@ -3,7 +3,10 @@
   "abilityName": "Shell Shield",
   "attacks": [
     {
-      "cost": "wc",
+      "cost": [
+        "w",
+        "c"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

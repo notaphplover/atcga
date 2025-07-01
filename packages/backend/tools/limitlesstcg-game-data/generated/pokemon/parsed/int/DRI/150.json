@@ -1,7 +1,33 @@
 {
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Reveal the top 10 cards of your opponent's deck. You may choose an attack from a Pokémon you find there and use it as this attack. Shuffle the revealed cards into your opponent's deck.",
+        "fr": "Montrez les 10 cartes du dessus du deck de votre adversaire. Vous pouvez choisir une attaque d'un Pokémon que vous y trouvez et l'utiliser en tant que cette attaque. Mélangez les cartes montrées avec le deck de votre adversaire.",
+        "de": "Decke die obersten 10 Karten des Decks deines Gegners auf. Du kannst 1 Attacke von 1 Pokémon, das du dort findest, wählen und sie als diese Attacke einsetzen. Mische die aufgedeckten Karten in das Deck deines Gegners.",
+        "it": "Mostra le prime 10 carte del mazzo del tuo avversario. Puoi scegliere un attacco di un Pokémon presente tra esse e usarlo al posto di questo attacco. Rimischia le carte mostrate nel mazzo del tuo avversario.",
+        "pt": "Revele as 10 cartas de cima do baralho do seu oponente. Você pode escolher um ataque de um Pokémon que encontrar lá e usá-lo como este ataque. Embaralhe as cartas reveladas no baralho do seu oponente.",
+        "es": "Enseña las 10 primeras cartas de la baraja de tu rival. Puedes elegir un ataque de algún Pokémon que encuentres entre ellas y usarlo para este ataque. Pon las cartas que has enseñado en la baraja de tu rival y barájalas todas."
+      },
+      "name": {
+        "en": "Haughty Order",
+        "fr": "Ordre Hautain",
+        "de": "Anmaßender Befehl",
+        "it": "Ordine Altezzoso",
+        "pt": "Ordem Arrogante",
+        "es": "Orden Arrogante"
+      }
+    },
+    {
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "140",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Confused.",

@@ -1,7 +1,19 @@
 {
   "attacks": [
     {
-      "cost": "pc",
+      "cost": [],
+      "effect": {
+        "en": "The Defending Pokémon is now Confused. Put 6 damage counters instead of 3 on the Confused Pokémon."
+      },
+      "name": {
+        "en": "Magical Step"
+      }
+    },
+    {
+      "cost": [
+        "p",
+        "c"
+      ],
       "dmg": "20×",
       "effect": {
         "en": "Does 20 damage times the amount of Energy attached to Grumpig."

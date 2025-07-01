@@ -3,7 +3,12 @@
   "abilityName": "Fan Away",
   "attacks": [
     {
-      "cost": "ggcc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c"
+      ],
       "dmg": "80-",
       "effect": {
         "en": "Does 80 damage minus 10 damage for each Energy attached to the Defending Pokémon."

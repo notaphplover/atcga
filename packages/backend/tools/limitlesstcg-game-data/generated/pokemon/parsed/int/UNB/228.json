@@ -3,7 +3,11 @@
   "abilityName": "Force Canceler",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "110",
       "effect": {
         "en": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -18,6 +22,25 @@
         "de": "Kraftwirbel",
         "it": "Ciclone Potente",
         "es": "Ciclón Poderoso"
+      }
+    },
+    {
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Count your Prize cards and put them into your hand. Then, take that many cards from the top of your deck and put them face down as your Prize cards. If you don't have that many cards in your deck, this attack does nothing. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Comptez vos cartes Récompense, puis ajoutez-les à votre main. Prenez alors ce nombre de cartes du dessus de votre deck et placez-les faces cachées comme cartes Récompense. Si vous n'avez pas assez de cartes dans votre deck, cette attaque ne fait rien. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Zähle deine Preiskarten und nimm sie auf deine Hand. Nimm anschließend genauso viele Karten von deinem Deck und lege sie als deine verdeckten Preiskarten ab. Wenn du weniger Karten in deinem Deck hast, hat diese Attacke keine Auswirkungen. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Conta le tue carte Premio e aggiungile alle carte che hai in mano. Poi prendi lo stesso numero di carte in cima al tuo mazzo e mettile a faccia in giù come carte Premio. Se non hai lo stesso numero di carte nel tuo mazzo, questo attacco non ha effetto. Non puoi usare più di un attacco GX a partita.",
+        "es": "Cuenta tus cartas de Premio y ponlas en tu mano. Después, coge la misma cantidad de cartas de la parte superior de tu baraja y ponlas boca abajo como tus cartas de Premio. Si no tienes esa cantidad de cartas en tu baraja, este ataque no hace nada. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Discovery-GX",
+        "fr": "Découverte-GX",
+        "de": "Aufdeckung-GX",
+        "it": "Scoperta-GX",
+        "es": "Descubrimiento-GX"
       }
     }
   ],

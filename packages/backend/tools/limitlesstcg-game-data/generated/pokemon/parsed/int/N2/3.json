@@ -1,7 +1,22 @@
 {
   "attacks": [
     {
-      "cost": "fff",
+      "cost": [
+        "f"
+      ],
+      "effect": {
+        "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Hitmontop."
+      },
+      "name": {
+        "en": "Detect"
+      }
+    },
+    {
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Flip 3 coins. This attack does 30 damage times the number of heads."

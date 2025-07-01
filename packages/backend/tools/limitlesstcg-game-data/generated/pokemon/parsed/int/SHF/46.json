@@ -1,5 +1,31 @@
 {
-  "attacks": [],
+  "attacks": [
+    {
+      "cost": [
+        "r",
+        "p",
+        "d",
+        "c",
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is Knocked Out.",
+        "fr": "Le Pokémon Actif de votre adversaire est mis K.O.",
+        "de": "Das Aktive Pokémon deines Gegners ist kampfunfähig.",
+        "it": "Il Pokémon attivo del tuo avversario viene messo KO.",
+        "pt": "O Pokémon Ativo do seu oponente é Nocauteado.",
+        "es": "El Pokémon Activo de tu rival queda Fuera de Combate."
+      },
+      "name": {
+        "en": "Amazing Destruction",
+        "fr": "Annihilation Magnifique",
+        "de": "Atemberaubende Zerstörung",
+        "it": "Distruzione Policroma",
+        "pt": "Destruição Incrível",
+        "es": "Destrucción Increíble"
+      }
+    }
+  ],
   "cardType": "pokemon",
   "hp": 110,
   "imageUrls": {

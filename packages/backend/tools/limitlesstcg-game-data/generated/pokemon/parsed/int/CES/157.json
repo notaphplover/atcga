@@ -3,7 +3,9 @@
   "abilityName": "Shady Move",
   "attacks": [
     {
-      "cost": "p",
+      "cost": [
+        "p"
+      ],
       "dmg": "30+",
       "effect": {
         "en": "This attack does 10 more damage for each Supporter card in your discard pile. You can't add more than 100 damage in this way.",
@@ -18,6 +20,25 @@
         "de": "Schattengesang",
         "it": "Canto Ombra",
         "es": "Canto Sombrío"
+      }
+    },
+    {
+      "cost": [
+        "p"
+      ],
+      "effect": {
+        "en": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)",
+        "fr": "Prenez 3 cartes dans votre pile de défausse et ajoutez-les à votre main. (Vous ne pouvez utiliser qu'une attaque GX par partie.)",
+        "de": "Nimm 3 Karten aus deinem Ablagestapel auf deine Hand. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)",
+        "it": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita.",
+        "es": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque GX en una partida)."
+      },
+      "name": {
+        "en": "Tomb Hunt-GX",
+        "fr": "Chasse Sépulcre-GX",
+        "de": "Grabjagd-GX",
+        "it": "Caccia Sepolcrale-GX",
+        "es": "Caza de Tumbas-GX"
       }
     }
   ],

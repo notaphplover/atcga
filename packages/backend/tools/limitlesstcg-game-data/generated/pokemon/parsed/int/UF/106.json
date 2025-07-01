@@ -3,7 +3,11 @@
   "abilityName": "Nurture and Heal",
   "attacks": [
     {
-      "cost": "ccc",
+      "cost": [
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "50",
       "effect": {},
       "name": {
@@ -11,7 +15,13 @@
       }
     },
     {
-      "cost": "ggccc",
+      "cost": [
+        "g",
+        "g",
+        "c",
+        "c",
+        "c"
+      ],
       "dmg": "90",
       "effect": {
         "en": "Discard 1 Energy attached to Meganium ex. The Defending Pokémon is now Poisoned."

@@ -1,7 +1,28 @@
 {
   "attacks": [
     {
-      "cost": "d",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "You can use this attack only if you go second, and only on your first turn. Discard an Energy from 1 of your opponent's Pokémon.",
+        "fr": "Vous ne pouvez utiliser cette attaque que si vous jouez en second et uniquement pendant votre premier tour. Défaussez une Énergie de l'un des Pokémon de votre adversaire.",
+        "de": "Du kannst diese Attacke nur einsetzen, wenn du als Zweiter am Zug bist, und nur während deines ersten Zuges. Lege 1 Energie von 1 Pokémon deines Gegners auf seinen Ablagestapel.",
+        "it": "Puoi usare questo attacco solo se inizi per secondo e solo durante il tuo primo turno. Scarta un'Energia assegnata a uno dei Pokémon del tuo avversario.",
+        "es": "Puedes usar este ataque solo si sales segundo, y solo en tu primer turno. Descarta 1 Energía de 1 de los Pokémon de tu rival."
+      },
+      "name": {
+        "en": "Sneaky Smash",
+        "fr": "Fracas Sournois",
+        "de": "Hinterhältiger Schlag",
+        "it": "Colpo Furtivo",
+        "es": "Golpe Furtivo"
+      }
+    },
+    {
+      "cost": [
+        "d"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "Flip a coin. If heads, this attack does 20 more damage.",

@@ -3,7 +3,11 @@
   "abilityName": "Crystal Type",
   "attacks": [
     {
-      "cost": "ffc",
+      "cost": [
+        "f",
+        "f",
+        "c"
+      ],
       "dmg": "30",
       "effect": {},
       "name": {
@@ -11,7 +15,12 @@
       }
     },
     {
-      "cost": "grfc",
+      "cost": [
+        "g",
+        "r",
+        "f",
+        "c"
+      ],
       "dmg": "50",
       "effect": {
         "en": "Golem does 20 damage to itself. This attack also does 10 damage to each Benched Pokémon (yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"

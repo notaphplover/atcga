@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "rcc",
+      "cost": [
+        "r",
+        "c",
+        "c"
+      ],
       "dmg": "100×",
       "effect": {
         "en": "Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way.",

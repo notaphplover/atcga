@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "pp",
+      "cost": [
+        "p",
+        "p"
+      ],
       "dmg": "10+",
       "effect": {
         "en": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.",

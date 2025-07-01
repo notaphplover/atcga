@@ -1,7 +1,29 @@
 {
   "attacks": [
     {
-      "cost": "gc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+        "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné.",
+        "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt und vergiftet.",
+        "it": "Il Pokémon attivo del tuo avversario viene confuso e avvelenato.",
+        "es": "El Pokémon Activo de tu rival pasa a estar Confundido y Envenenado."
+      },
+      "name": {
+        "en": "Crazy Spore",
+        "fr": "Spore Folle",
+        "de": "Verrückte Pilzspore",
+        "it": "Sporafolle",
+        "es": "Espora Loca"
+      }
+    },
+    {
+      "cost": [
+        "g",
+        "c"
+      ],
       "dmg": "30",
       "effect": {
         "en": "If your opponent's Active Pokémon is Confused, it is now Paralyzed.",

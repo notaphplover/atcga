@@ -1,7 +1,10 @@
 {
   "attacks": [
     {
-      "cost": "ff",
+      "cost": [
+        "f",
+        "f"
+      ],
       "dmg": "30×",
       "effect": {
         "en": "Discard as many [F] Energy cards as you like from your hand. This attack does 30 damage times the number of Energy cards you discarded.",
@@ -19,7 +22,11 @@
       }
     },
     {
-      "cost": "fff",
+      "cost": [
+        "f",
+        "f",
+        "f"
+      ],
       "dmg": "80",
       "effect": {},
       "name": {

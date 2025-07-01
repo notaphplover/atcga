@@ -3,7 +3,11 @@
   "abilityName": "はがねのかけはし",
   "attacks": [
     {
-      "cost": "mmc",
+      "cost": [
+        "m",
+        "m",
+        "c"
+      ],
       "dmg": "160",
       "effect": {
         "jp": "次の自分の番、このポケモンはワザが使えない。"

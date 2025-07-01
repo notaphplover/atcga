@@ -1,7 +1,32 @@
 {
   "attacks": [
     {
-      "cost": "wwc",
+      "cost": [
+        "c"
+      ],
+      "effect": {
+        "en": "Put a Basic Pokémon from either player's discard pile onto that player's Bench.",
+        "fr": "Prenez un Pokémon de base dans la pile de défausse de l'un des joueurs et placez-le sur le Banc de ce dernier.",
+        "de": "Lege 1 Basis-Pokémon aus dem Ablagestapel eines der beiden Spieler auf die Bank jenes Spielers.",
+        "it": "Prendi un Pokémon Base dalla pila degli scarti di uno dei giocatori e mettilo nella panchina di quel giocatore.",
+        "pt": "Coloque 1 Pokémon Básico da pilha de descarte de qualquer um dos jogadores no Banco daquele jogador.",
+        "es": "Pon 1 Pokémon Básico de la pila de descartes de cualquier jugador en la Banca de ese jugador."
+      },
+      "name": {
+        "en": "Borne Ashore",
+        "fr": "Ramené au Rivage",
+        "de": "An Land gespült",
+        "it": "Verso Riva",
+        "pt": "À Costa",
+        "es": "A la Orilla"
+      }
+    },
+    {
+      "cost": [
+        "w",
+        "w",
+        "c"
+      ],
       "dmg": "100",
       "effect": {},
       "name": {

@@ -1,7 +1,11 @@
 {
   "attacks": [
     {
-      "cost": "ddc",
+      "cost": [
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "100",
       "effect": {
         "en": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1.",
@@ -21,7 +25,12 @@
       }
     },
     {
-      "cost": "dddc",
+      "cost": [
+        "d",
+        "d",
+        "d",
+        "c"
+      ],
       "dmg": "240",
       "effect": {},
       "name": {

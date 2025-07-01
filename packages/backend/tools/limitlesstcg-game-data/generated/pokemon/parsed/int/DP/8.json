@@ -3,7 +3,11 @@
   "abilityName": "Magnetize",
   "attacks": [
     {
-      "cost": "mcc",
+      "cost": [
+        "m",
+        "c",
+        "c"
+      ],
       "dmg": "50+",
       "effect": {
         "en": "Does 50 damage plus 10 more damage for each [M] Energy attached to Magnezone."
