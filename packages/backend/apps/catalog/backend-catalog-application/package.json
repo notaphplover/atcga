@@ -4,6 +4,9 @@
     "url": "https://github.com/notaphplover/atcga/issues"
   },
   "description": "atcga backend catalog application package",
+  "dependencies": {
+    "@atcga/backend-catalog-domain": "workspace:*"
+  },
   "devDependencies": {
     "@types/node": "22.15.3",
     "@vitest/coverage-v8": "3.1.2",
@@ -53,5 +56,5 @@
     "test:uncommitted": "pnpm run test --changed=HEAD",
     "test:unit": "pnpm run test --project Unit"
   },
-  "version": "5.2.0"
+  "version": "0.1.0"
 }
