@@ -1,4 +1,4 @@
-import { ProvideSetsPort } from '@atcga/backend-catalog-application';
+import { ProvidePokemonSetsPort } from '@atcga/backend-catalog-application';
 import { TcgPokemonRegion, TcgPokemonSet } from '@atcga/backend-catalog-domain';
 import { Builder } from '@atcga/backend-common';
 import { TcgPokemonRegion as LimitlessTcgPokemonRegion } from '@atcga/limitlesstcg-game-data';
@@ -12,7 +12,9 @@ import { LimitlessTcgPokemonRegionFromPokemonRegionBuilder } from '../../../regi
 import { TcgPokemonRegionFromLimitlessPokemonRegionBuilder } from '../../../regions/adapter/limitlesstcg/builders/TcgPokemonRegionFromLimitlessPokemonRegionBuilder';
 
 @injectable()
-export class ProvideSetsLimitlessTcgAdapter implements ProvideSetsPort {
+export class ProvidePokemonSetsLimitlessTcgAdapter
+  implements ProvidePokemonSetsPort
+{
   readonly #limitlessTcgPokemonRegionFromPokemonRegionBuilder: Builder<
     LimitlessTcgPokemonRegion,
     [TcgPokemonRegion]
@@ -41,7 +43,9 @@ export class ProvideSetsLimitlessTcgAdapter implements ProvideSetsPort {
       tcgPokemonRegionFromLimitlessPokemonRegionBuilder;
   }
 
-  public async provideSets(region: TcgPokemonRegion): Promise<TcgPokemonSet[]> {
+  public async providePokemonSets(
+    region: TcgPokemonRegion,
+  ): Promise<TcgPokemonSet[]> {
     const limitlessRegion: LimitlessTcgPokemonRegion =
       this.#limitlessTcgPokemonRegionFromPokemonRegionBuilder.build(region);
 
