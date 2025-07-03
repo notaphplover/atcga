@@ -1,8 +1,8 @@
 export {
-  populateSetsPortSymbol,
-  type PopulateSetsPort,
-} from './sets/application/ports/output/PopulateSetsPort';
+  populatePokemonSetsPortSymbol,
+  type PopulatePokemonSetsPort,
+} from './sets/application/ports/output/PopulatePokemonSetsPort';
 export {
-  provideSetsPortSymbol,
-  type ProvideSetsPort,
-} from './sets/application/ports/output/ProvideSetsPort';
+  providePokemonSetsPortSymbol,
+  type ProvidePokemonSetsPort,
+} from './sets/application/ports/output/ProvidePokemonSetsPort';

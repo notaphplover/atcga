@@ -1,14 +1,14 @@
-import { provideSetsPortSymbol } from '@atcga/backend-catalog-application';
+import { providePokemonSetsPortSymbol } from '@atcga/backend-catalog-application';
 import { ContainerModule, ContainerModuleLoadOptions } from 'inversify';
 
-import { ProvideSetsLimitlessTcgAdapter } from '../../limitlesstcg/ProvideSetsLimitlessTcgAdapter';
+import { ProvidePokemonSetsLimitlessTcgAdapter } from '../../limitlesstcg/ProvidePokemonSetsLimitlessTcgAdapter';
 
 export class SetsLimitlessTcgModule extends ContainerModule {
   constructor() {
     super((options: ContainerModuleLoadOptions) => {
       options
-        .bind(provideSetsPortSymbol)
-        .to(ProvideSetsLimitlessTcgAdapter)
+        .bind(providePokemonSetsPortSymbol)
+        .to(ProvidePokemonSetsLimitlessTcgAdapter)
         .inSingletonScope();
     });
   }
