@@ -3,7 +3,12 @@ import {
   ProvidePokemonSetsPort,
   providePokemonSetsPortSymbol,
 } from '@atcga/backend-catalog-application';
-import { TcgPokemonRegion, TcgPokemonSet } from '@atcga/backend-catalog-domain';
+import {
+  TcgPokemonLanguage,
+  TcgPokemonRegion,
+  TcgPokemonSet,
+} from '@atcga/backend-catalog-domain';
+import { estypes } from '@elastic/elasticsearch';
 import { inject, injectable } from 'inversify';
 
 import { ElasticsearchService } from '../../../../foundation/adapter/elasticsearch/services/ElasticsearchService';
@@ -26,6 +31,8 @@ export class PopulatePokemonSetsElasticsearchAdapter
   }
 
   public async populatePokemonSets(): Promise<TcgPokemonSet[]> {
+    await this.#createEmptyPokemonSetIndex();
+
     const sets: TcgPokemonSet[] = (
       await Promise.all(
         Object.values(TcgPokemonRegion).map(
@@ -47,5 +54,49 @@ export class PopulatePokemonSetsElasticsearchAdapter
     });
 
     return sets;
+  }
+
+  async #createEmptyPokemonSetIndex(): Promise<void> {
+    const pokemonSetsExists: boolean =
+      await this.#elasticsearchService.client.indices.exists({
+        index: this.#elasticsearchService.pokemonSetsIndexName,
+      });
+
+    if (pokemonSetsExists) {
+      await this.#elasticsearchService.client.indices.delete({
+        index: this.#elasticsearchService.pokemonSetsIndexName,
+      });
+    }
+
+    await this.#elasticsearchService.client.indices.create({
+      index: this.#elasticsearchService.pokemonSetsIndexName,
+      mappings: {
+        properties: {
+          code: { type: 'keyword' },
+          name: {
+            properties: Object.values(TcgPokemonLanguage).reduce(
+              (
+                properties: Record<
+                  estypes.PropertyName,
+                  estypes.MappingProperty
+                >,
+                language: TcgPokemonLanguage,
+              ): Record<estypes.PropertyName, estypes.MappingProperty> => {
+                properties[language] = {
+                  type: 'text',
+                };
+
+                return properties;
+              },
+              {},
+            ),
+            type: 'object',
+          },
+          region: {
+            type: 'keyword',
+          },
+        },
+      },
+    });
   }
 }
