@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "At any time between turns, if this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon.",
-  "abilityName": "Sand Slammer",
+  "abilityEffect": {
+    "en": "At any time between turns, if this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon.",
+    "fr": "N'importe quand entre chaque tour, si ce Pokémon est votre Pokémon Actif, placez 1 marqueur de dégâts sur chacun des Pokémon de votre adversaire.",
+    "de": "Ist dieses Pokémon dein Aktives Pokémon, lege zu einem beliebigen Zeitpunkt zwischen den Zügen 1 Schadensmarke auf jedes Pokémon deines Gegners.",
+    "it": "Tra un turno e l'altro, in qualsiasi momento, se questo Pokémon è il tuo Pokémon attivo, metti un segnalino danno su ciascuno dei Pokémon del tuo avversario.",
+    "es": "En cualquier momento entre turnos, si este Pokémon es tu Pokémon Activo, pon 1 contador de daño en cada uno de los Pokémon de tu rival."
+  },
+  "abilityName": {
+    "en": "Sand Slammer",
+    "fr": "Prison de Sable",
+    "de": "Sandwucht",
+    "it": "Silicogabbia",
+    "es": "Prisión de Arena"
+  },
   "attacks": [
     {
       "cost": [

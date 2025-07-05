@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may choose either player. That player shuffles his or her hand into his or her deck and draws 4 cards.",
-  "abilityName": "Sand Flap",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may choose either player. That player shuffles his or her hand into his or her deck and draws 4 cards.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez choisir l'un des joueurs. Le joueur choisi mélange sa main avec son deck et pioche 4 cartes.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff), kannst du einen Spieler auswählen. Dieser Spieler mischt seine Hand zurück in sein Deck und zieht 4 Karten.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scegliere uno dei giocatori. Quel giocatore rimischia le carte che ha in mano nel proprio mazzo e poi pesca quattro carte.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes elegir a cualquier jugador. Ese jugador baraja las cartas de su mano en su baraja y roba 4 cartas."
+  },
+  "abilityName": {
+    "en": "Sand Flap",
+    "fr": "Battement Ensablé",
+    "de": "Sandflattern",
+    "it": "Silicobattito",
+    "es": "Aleteo de Arena"
+  },
   "attacks": [
     {
       "cost": [

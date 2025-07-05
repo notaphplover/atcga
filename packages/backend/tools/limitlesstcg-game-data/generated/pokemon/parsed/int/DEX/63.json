@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your Pokémon that has any [D] Energy attached to it has no Retreat Cost.",
-  "abilityName": "Dark Cloak",
+  "abilityEffect": {
+    "en": "Each of your Pokémon that has any [D] Energy attached to it has no Retreat Cost.",
+    "fr": "Chacun de vos Pokémon auquel de l'Énergie [D] est attachée n'a pas de coût de Retraite.",
+    "de": "Jedes deiner Pokémon, an dem [D]-Energie angelegt ist, hat keine Rückzugskosten.",
+    "it": "Nessuno dei tuoi Pokémon che ha delle Energie [D] assegnate ha costo di ritirata.",
+    "es": "Cada uno de tus Pokémon que tenga alguna Energia [D] unida a él no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Dark Cloak",
+    "fr": "Cape Obscure",
+    "de": "Finsterumhang",
+    "it": "Mantelnero",
+    "es": "Manto Oscuro"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may choose 2 of your Benched Pokémon and attach a [L] Energy card from your discard pile to each of them. If you do, discard all cards from this Pokémon and put it in the Lost Zone.",
-  "abilityName": "Dance of the Ancients",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may choose 2 of your Benched Pokémon and attach a [L] Energy card from your discard pile to each of them. If you do, discard all cards from this Pokémon and put it in the Lost Zone.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est sur votre Banc, vous pouvez choisir 2 de vos Pokémon de Banc et attacher une carte Énergie [L] de votre pile de défausse à chacun d'eux. Dans ce cas, défaussez toutes les cartes attachées à ce Pokémon et placez-le dans la Zone Perdue.",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn sich dieses Pokémon auf deiner Bank befindet, kannst du 2 Pokémon auf deiner Bank wählen und an jedes 1 [L]-Energiekarte aus deinem Ablagestapel anlegen. Wenn du das machst, lege alle Karten von diesem Pokémon auf deinen Ablagestapel und dieses Pokémon ins Nirgendwo.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è nella tua panchina, puoi scegliere due dei tuoi Pokémon in panchina e assegnare a ognuno di essi una carta Energia [L] dalla tua pila degli scarti. Se lo fai, scarta tutte le carte assegnate a questo Pokémon e mettilo nell'area perduta.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está en tu Banca, puedes elegir 2 de tus Pokémon en Banca y unirle 1 carta de Energía [L] de tu pila de descartes a cada uno de ellos. Si lo haces, descarta todas las cartas de este Pokémon y ponlo en la Zona Perdida."
+  },
+  "abilityName": {
+    "en": "Dance of the Ancients",
+    "fr": "Danse des Ancêtres",
+    "de": "Uralter Tanz",
+    "it": "Danza degli Antichi",
+    "es": "Danza de los Antepasados"
+  },
   "attacks": [
     {
       "cost": [

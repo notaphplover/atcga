@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may flip a coin. If heads, choose Burned, Confused, or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition.",
-  "abilityName": "Selective Slime",
+  "abilityEffect": {
+    "en": "Once during your turn, you may flip a coin. If heads, choose Burned, Confused, or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition.",
+    "fr": "Une fois pendant votre tour, vous pouvez lancer une pièce. Si c'est face, choisissez entre Brûlé, Confus ou Empoisonné. Le Pokémon Actif de votre adversaire est maintenant affecté par cet État Spécial.",
+    "de": "Einmal während deines Zuges kannst du 1 Münze werfen. Wähle bei Kopf Verbrennung, Vergiftung oder Verwirrung. Das Aktive Pokémon deines Gegners ist jetzt von jenem Speziellen Zustand betroffen.",
+    "it": "Una sola volta durante il tuo turno, puoi lanciare una moneta. Se esce testa, scegli tra bruciato, confuso e avvelenato. Il Pokémon attivo del tuo avversario è influenzato da quella condizione speciale.",
+    "pt": "Uma vez durante o seu turno, você poderá jogar uma moeda. Se sair cara, escolha entre Confuso, Envenenado e Queimado. O Pokémon Ativo do seu oponente agora está afetado por aquela Condição Especial.",
+    "es": "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, elige entre Confundido, Envenenado o Quemado. El Pokémon Activo de tu rival pasa a estar afectado por esa Condición Especial."
+  },
+  "abilityName": {
+    "en": "Selective Slime",
+    "fr": "Mucus Sélectif",
+    "de": "Selektiver Schleim",
+    "it": "Muco Selettivo",
+    "pt": "Meleca Seletiva",
+    "es": "Secreción Selectiva"
+  },
   "attacks": [
     {
       "cost": [

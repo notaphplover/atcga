@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Damage from the attacks of your [L] Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
-  "abilityName": "Zap Zone",
+  "abilityEffect": {
+    "en": "Damage from the attacks of your [L] Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
+    "fr": "Les dégâts des attaques de vos Pokémon [L] ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire.",
+    "de": "Der Schaden der Angriffe deiner [L]-Pokémon wird durch Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert.",
+    "it": "I danni degli attacchi dei tuoi Pokémon [L] non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+    "es": "El daño de los ataques de tus Pokémon [L] no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+  },
+  "abilityName": {
+    "en": "Zap Zone",
+    "fr": "Zone Électrique",
+    "de": "Stromzone",
+    "it": "Zona Elettrica",
+    "es": "Electrozona"
+  },
   "attacks": [
     {
       "cost": [

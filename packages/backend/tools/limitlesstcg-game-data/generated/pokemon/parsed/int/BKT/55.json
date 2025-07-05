@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any [L] Energy attached to it, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
-  "abilityName": "Shining Body",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [L] Energy attached to it, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+    "fr": "Si de l'Énergie [L] est attachée à ce Pokémon, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+    "de": "Wenn an dieses Pokémon bereits mindestens 1 [L]-Energie angelegt ist, wird Schaden, der diesem Pokémon durch einen gegnerischen Angriff zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Se questo Pokémon ha delle Energie [L] assegnate, i danni inflitti a questo Pokémon dagli attacchi sono ridotti di 20, dopo aver applicato debolezza e resistenza.",
+    "es": "Si este Pokémon tiene alguna Energía [L] unida a él, cualquier daño infligido a este Pokémon por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Shining Body",
+    "fr": "Corps Rayonnant",
+    "de": "Strahlender Körper",
+    "it": "Corpo Lucente",
+    "es": "Cuerpo Radiante"
+  },
   "attacks": [
     {
       "cost": [

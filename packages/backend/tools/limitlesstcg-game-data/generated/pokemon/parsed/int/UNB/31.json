@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [R] Energy card from your hand. If you do, draw 3 cards.",
-  "abilityName": "Roast Reveal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [R] Energy card from your hand. If you do, draw 3 cards.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte Énergie [R] de votre main. Dans ce cas, piochez 3 cartes.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 [R]-Energiekarte aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, ziehe 3 Karten.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una carta Energia [R] che hai in mano. Se lo fai, pesca tre carte.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía [R] de tu mano. Si lo haces, roba 3 cartas."
+  },
+  "abilityName": {
+    "en": "Roast Reveal",
+    "fr": "Rôtir",
+    "de": "Bratblick",
+    "it": "Svelafuoco",
+    "es": "Revelación"
+  },
   "attacks": [
     {
       "cost": [

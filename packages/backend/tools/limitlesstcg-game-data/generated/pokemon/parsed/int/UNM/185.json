@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon remains Asleep between turns, put 6 damage counters on your opponent's Active Pokémon.",
-  "abilityName": "Drowsing",
+  "abilityEffect": {
+    "en": "If this Pokémon remains Asleep between turns, put 6 damage counters on your opponent's Active Pokémon.",
+    "fr": "Si ce Pokémon reste Endormi entre deux tours, placez 6 marqueurs de dégâts sur le Pokémon Actif de votre adversaire.",
+    "de": "Wenn dieses Pokémon zwischen den Zügen weiterschläft, lege 6 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+    "it": "Se questo Pokémon resta addormentato tra un turno e l'altro, metti sei segnalini danno sul Pokémon attivo del tuo avversario.",
+    "es": "Si este Pokémon permanece Dormido entre turnos, pon 6 contadores de daño en el Pokémon Activo de tu rival."
+  },
+  "abilityName": {
+    "en": "Drowsing",
+    "fr": "Rêveur",
+    "de": "Halbschlaf",
+    "it": "Dormiveglia",
+    "es": "Duermevela"
+  },
   "attacks": [
     {
       "cost": [

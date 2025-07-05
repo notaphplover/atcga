@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "The attacks of your Pokémon-GX in play that evolve from Eevee cost [C] less. You can't apply more than 1 Speed Cheer Ability at a time.",
-  "abilityName": "Speed Cheer",
+  "abilityEffect": {
+    "en": "The attacks of your Pokémon-GX in play that evolve from Eevee cost [C] less. You can't apply more than 1 Speed Cheer Ability at a time.",
+    "fr": "Les attaques de vos Pokémon-GX en jeu qui évoluent d'Évoli coûtent [C] de moins. Vous ne pouvez pas utiliser plus d'un talent Bravos Fulgurants à la fois.",
+    "de": "Die Kosten der Attacken deiner Pokémon-GX im Spiel, die sich aus Evoli entwickeln, verringern sich um [C]. Du kannst immer nur jeweils 1 Fähigkeit Geschwindigkeitsjubel einsetzen.",
+    "it": "Gli attacchi dei tuoi Pokémon-GX in gioco che si evolvono da Eevee costano [C] in meno. Può essere applicata solo un'abilità Incitamento Rapido alla volta.",
+    "es": "Los ataques de tus Pokémon-GX en juego que evolucionen de Eevee cuestan [C] menos. No puedes aplicar más de 1 habilidad Ovación Veloz a la vez."
+  },
+  "abilityName": {
+    "en": "Speed Cheer",
+    "fr": "Bravos Fulgurants",
+    "de": "Geschwindigkeitsjubel",
+    "it": "Incitamento Rapido",
+    "es": "Ovación Veloz"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card.",
-  "abilityName": "Reconstitute",
+  "abilityEffect": {
+    "en": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card.",
+    "fr": "Vous devez défausser 2 cartes de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher une carte.",
+    "de": "Du musst 2 Karten aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 1 Karte ziehen.",
+    "it": "Devi scartare due carte che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare una carta.",
+    "pt": "Você deve descartar 2 cartas da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar uma carta.",
+    "es": "Debes descartar 2 cartas de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."
+  },
+  "abilityName": {
+    "en": "Reconstitute",
+    "fr": "Reconstitution",
+    "de": "Rekonfigurieren",
+    "it": "Ricostituzione",
+    "pt": "Reconstituição",
+    "es": "Reconstitución"
+  },
   "attacks": [
     {
       "cost": [

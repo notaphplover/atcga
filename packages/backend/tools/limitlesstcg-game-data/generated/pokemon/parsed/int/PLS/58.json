@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "When this Pokémon is Knocked Out by damage from an opponent's attack, discard the top 3 cards of your opponent's deck.",
-  "abilityName": "Aftermath",
+  "abilityEffect": {
+    "en": "When this Pokémon is Knocked Out by damage from an opponent's attack, discard the top 3 cards of your opponent's deck.",
+    "fr": "Lorsque ce Pokémon est mis K.O. par les dégâts d'une attaque de votre adversaire, défaussez les 3 cartes du dessus du deck de votre adversaire.",
+    "de": "Wenn dieses Pokémon durch Schaden eines gegnerischen Angriffs kampfunfähig wird, lege die obersten 3 Karten vom Deck deines Gegners auf seinen Ablagestapel.",
+    "it": "Quando questo Pokémon viene messo K.O. dai danni inflitti da un attacco del tuo avversario, scarta le prime tre carte del mazzo del tuo avversario.",
+    "es": "Cuando este Pokémon quede Fuera de Combate por el daño de un ataque de tu rival, descarta las 3 primeras cartas de la baraja de tu rival."
+  },
+  "abilityName": {
+    "en": "Aftermath",
+    "fr": "Boom Final",
+    "de": "Finalschlag",
+    "it": "Scoppio",
+    "es": "Resquicio"
+  },
   "attacks": [
     {
       "cost": [

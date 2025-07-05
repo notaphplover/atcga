@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
-  "abilityName": "Diving Draw",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte de votre main. Dans ce cas, piochez 2 cartes.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Karte von deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, ziehe 2 Karten.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una delle carte che hai in mano. Se lo fai, pesca due carte."
+  },
+  "abilityName": {
+    "en": "Diving Draw",
+    "fr": "Plonge et Pioche",
+    "de": "Unterwasserzieher",
+    "it": "Pescafonda"
+  },
   "attacks": [
     {
       "cost": [

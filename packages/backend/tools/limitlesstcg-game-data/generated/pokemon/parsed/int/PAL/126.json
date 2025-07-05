@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't take any Prize cards for it.",
-  "abilityName": "Shattering Crystal",
+  "abilityEffect": {
+    "en": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't take any Prize cards for it.",
+    "fr": "Quand ce Pokémon est mis K.O., lancez une pièce. Si c'est face, votre adversaire ne peut pas récupérer de carte Récompense pour ce Pokémon.",
+    "de": "Wenn dieses Pokémon kampfunfähig wird, wirf 1 Münze. Bei Kopf kann dein Gegner dafür keine Preiskarten nehmen.",
+    "it": "Quando questo Pokémon viene messo KO, lancia una moneta. Se esce testa, il tuo avversario non può prendere carte Premio per effetto di quel KO.",
+    "pt": "Quando este Pokémon for Nocauteado, jogue uma moeda. Se sair cara, seu oponente não poderá pegar cartas de Prêmio por isto.",
+    "es": "Cuando este Pokémon queda Fuera de Combate, lanza 1 moneda. Si sale cara, tu rival no puede coger ninguna carta de Premio por ello."
+  },
+  "abilityName": {
+    "en": "Shattering Crystal",
+    "fr": "Cristal Brisant",
+    "de": "Zersplitternder Kristall",
+    "it": "Cristallo Frangente",
+    "pt": "Estilhaçar Cristalino",
+    "es": "Cristal Demoledor"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon has any basic [R] Energy attached to it, you may heal 50 damage from it.",
-  "abilityName": "Purifying Fire",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon has any basic [R] Energy attached to it, you may heal 50 damage from it.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si de l'Énergie [R] de base est attachée à ce Pokémon, vous pouvez soigner 50 dégâts à ce Pokémon.",
+    "de": "Wenn an dieses Pokémon bereits mindestens 1 [R]-Basis-Energie angelegt ist, kannst du einmal während deines Zuges (vor deinem Angriff) 50 Schadenspunkte bei diesem Pokémon heilen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon ha delle Energie base [R] assegnate, puoi curarlo da 50 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon tiene alguna Energía [R] Básica unida a él, puedes curarle 50 puntos de daño."
+  },
+  "abilityName": {
+    "en": "Purifying Fire",
+    "fr": "Feu Purifiant",
+    "de": "Reinigendes Feuer",
+    "it": "Purifiamma",
+    "es": "Fuego Purificador"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Trainer cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Noctowl is Asleep, Confused, or Paralyzed.",
-  "abilityName": "Glaring Gaze",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Trainer cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Noctowl is Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Glaring Gaze"
+  },
   "attacks": [
     {
       "cost": [

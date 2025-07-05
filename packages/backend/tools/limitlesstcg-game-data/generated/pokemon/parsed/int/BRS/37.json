@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, if this Pokémon is in your discard pile and you have no cards in your hand, you may put this Pokémon onto your Bench. If you do, draw 3 cards.",
-  "abilityName": "Emergency Surfacing",
+  "abilityEffect": {
+    "en": "Once during your turn, if this Pokémon is in your discard pile and you have no cards in your hand, you may put this Pokémon onto your Bench. If you do, draw 3 cards.",
+    "fr": "Une fois pendant votre tour, si ce Pokémon est dans votre pile de défausse et que vous n'avez aucune carte dans votre main, vous pouvez placer ce Pokémon sur votre Banc. Dans ce cas, piochez 3 cartes.",
+    "de": "Einmal während deines Zuges, wenn dieses Pokémon in deinem Ablagestapel ist und du keine Karten auf deiner Hand hast, kannst du dieses Pokémon auf deine Bank legen. Wenn du das machst, ziehe 3 Karten.",
+    "it": "Una sola volta durante il tuo turno, se questo Pokémon è nella tua pila degli scarti e non hai carte in mano, puoi mettere questo Pokémon nella tua panchina. Se lo fai, pesca tre carte.",
+    "pt": "Uma vez durante o seu turno, se este Pokémon estiver na sua pilha de descarte e você não tiver cartas na sua mão, você poderá colocá-lo no seu Banco. Se fizer isto, compre 3 cartas.",
+    "es": "Una vez durante tu turno, si este Pokémon está en tu pila de descartes y no tienes ninguna carta en tu mano, puedes poner este Pokémon en tu Banca. Si lo haces, roba 3 cartas."
+  },
+  "abilityName": {
+    "en": "Emergency Surfacing",
+    "fr": "Remontée d'Urgence",
+    "de": "Notauftauchen",
+    "it": "Emersione di Emergenza",
+    "pt": "Emersão Emergencial",
+    "es": "Reflote de Emergencia"
+  },
   "attacks": [
     {
       "cost": [

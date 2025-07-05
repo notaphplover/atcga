@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Any damage done to Crawdaunt by your opponent's attacks is reduced by 10 for each [D] Energy attached to Crawdaunt (after applying Weakness and Resistance). You can't reduce more than 20 damage in this way.",
-  "abilityName": "Dark Protection",
+  "abilityEffect": {
+    "en": "Any damage done to Crawdaunt by your opponent's attacks is reduced by 10 for each [D] Energy attached to Crawdaunt (after applying Weakness and Resistance). You can't reduce more than 20 damage in this way."
+  },
+  "abilityName": {
+    "en": "Dark Protection"
+  },
   "attacks": [
     {
       "cost": [

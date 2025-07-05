@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your opponent's discard pile for a Supporter card and use the effect of that card as the effect of this power. (The Supporter card remains in your opponent's discard pile.) You can't use more than 1 Telepass Poké-Power each turn. This power can't be used if Gardevoir is affected by a Special Condition.",
-  "abilityName": "Telepass",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your opponent's discard pile for a Supporter card and use the effect of that card as the effect of this power. (The Supporter card remains in your opponent's discard pile.) You can't use more than 1 Telepass Poké-Power each turn. This power can't be used if Gardevoir is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Telepass"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may look at the top 2 cards of your opponent's deck and put 1 of them back. Put the other card on the bottom of their deck.",
-  "abilityName": "Read the Stars",
+  "abilityEffect": {
+    "en": "Once during your turn, you may look at the top 2 cards of your opponent's deck and put 1 of them back. Put the other card on the bottom of their deck.",
+    "fr": "Une fois pendant votre tour, vous pouvez regarder les 2 cartes du dessus du deck de votre adversaire, puis y replacer l'une d'elles. Placez l'autre carte en dessous de son deck.",
+    "de": "Einmal während deines Zuges kannst du dir die obersten 2 Karten des Decks deines Gegners anschauen und 1 davon zurücklegen. Lege die andere Karte unter sein Deck.",
+    "it": "Una sola volta durante il tuo turno, puoi guardare le prime due carte del mazzo del tuo avversario e rimetterne a posto una. Metti l'altra carta in fondo al suo mazzo.",
+    "pt": "Uma vez durante o seu turno, você poderá olhar as 2 cartas de cima do baralho do seu oponente e colocar 1 delas de volta. Coloque a outra carta como a carta de baixo do baralho dele.",
+    "es": "Una vez durante tu turno, puedes mirar las 2 primeras cartas de la baraja de tu rival y volver a poner 1 de ellas en la parte superior de su baraja. Pon la otra carta en la parte inferior de su baraja."
+  },
+  "abilityName": {
+    "en": "Read the Stars",
+    "fr": "Lecture des Étoiles",
+    "de": "Sternendeutung",
+    "it": "Leggistelle",
+    "pt": "Leitura das Estrelas",
+    "es": "Leer las Estrellas"
+  },
   "attacks": [
     {
       "cost": [

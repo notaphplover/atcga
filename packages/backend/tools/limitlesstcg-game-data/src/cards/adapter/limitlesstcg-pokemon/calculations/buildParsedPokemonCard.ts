@@ -10,6 +10,46 @@ import {
 import { buildPokemonTypeArray } from './buildPokemonTypeArray';
 import { generateCardUrl } from './generateCardUrl';
 
+function buildAbilityEffect(
+  cardList: TcgPokemonCard[],
+): I18nString | undefined {
+  const i18nString: I18nString = cardList.reduce(
+    (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+      if (card.ability_effect !== null) {
+        i18nString[card.language] = card.ability_effect;
+      }
+
+      return i18nString;
+    },
+    {},
+  );
+
+  if (Object.keys(i18nString).length === 0) {
+    return undefined;
+  } else {
+    return i18nString;
+  }
+}
+
+function buildAbilityName(cardList: TcgPokemonCard[]): I18nString | undefined {
+  const i18nString: I18nString = cardList.reduce(
+    (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+      if (card.ability_name !== null) {
+        i18nString[card.language] = card.ability_name;
+      }
+
+      return i18nString;
+    },
+    {},
+  );
+
+  if (Object.keys(i18nString).length === 0) {
+    return undefined;
+  } else {
+    return i18nString;
+  }
+}
+
 function buildCardName(cardList: TcgPokemonCard[]): I18nString {
   return cardList.reduce(
     (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
@@ -263,8 +303,8 @@ export function buildParsedPokemonCard(
       };
     case TcgPokemonCardType.pokemon:
       return {
-        abilityEffect: firstCard.ability_effect ?? undefined,
-        abilityName: firstCard.ability_name ?? undefined,
+        abilityEffect: buildAbilityEffect(cardList),
+        abilityName: buildAbilityName(cardList),
         attacks: buildPokemonAttacks(cardList),
         cardType: firstCard.card_type,
         hp: firstCard.hp ?? 0,

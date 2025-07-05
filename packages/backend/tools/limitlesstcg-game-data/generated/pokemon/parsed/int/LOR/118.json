@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "This Pokémon's attacks cost [C] less for each of your opponent's Single Strike, Rapid Strike, and Fusion Strike Pokémon in play.",
-  "abilityName": "Wild Style",
+  "abilityEffect": {
+    "en": "This Pokémon's attacks cost [C] less for each of your opponent's Single Strike, Rapid Strike, and Fusion Strike Pokémon in play.",
+    "fr": "Les attaques de ce Pokémon coûtent [C] de moins pour chaque Pokémon Poing Final, Mille Poings ou Poing de Fusion en jeu de votre adversaire.",
+    "de": "Die Kosten der Attacken dieses Pokémon verringern sich für jedes Fokussierter-Angriff-, Fließender-Angriff- und Fusionsangriff-Pokémon deines Gegners im Spiel um [C].",
+    "it": "Il costo degli attacchi di questo Pokémon è ridotto di [C] per ogni Pokémon Colpo Singolo, Colpo Rapido e Colpo Fusione in gioco del tuo avversario.",
+    "pt": "Os ataques deste Pokémon custam [C] a menos para cada Pokémon Golpe Decisivo, Golpe Fluido e Golpe Fusão do seu oponente em jogo.",
+    "es": "Los ataques de este Pokémon cuestan [C] menos por cada uno de los Pokémon Golpe Brusco, Golpe Fluido y Golpe Fusión en juego de tu rival."
+  },
+  "abilityName": {
+    "en": "Wild Style",
+    "fr": "Style Sauvage",
+    "de": "Wilder Stil",
+    "it": "Stile Selvaggio",
+    "pt": "Estilo Selvagem",
+    "es": "Estilo Salvaje"
+  },
   "attacks": [
     {
       "cost": [

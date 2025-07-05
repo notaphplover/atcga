@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [Y] Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
-  "abilityName": "Illuminate",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a [Y] Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher un Pokémon [Y] dans votre deck, le montrer, puis l'ajouter à votre main. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du dein Deck nach 1 [Y]-Pokémon durchsuchen, es deinem Gegner zeigen und auf deine Hand nehmen. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare nel tuo mazzo un Pokémon [Y], mostrarlo e aggiungerlo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu baraja 1 Pokémon [Y], enseñarlo y ponerlo en tu mano. Después, baraja las cartas de tu baraja."
+  },
+  "abilityName": {
+    "en": "Illuminate",
+    "fr": "Lumiattirance",
+    "de": "Erleuchtung",
+    "it": "Risplendi",
+    "es": "Iluminación"
+  },
   "attacks": [
     {
       "cost": [

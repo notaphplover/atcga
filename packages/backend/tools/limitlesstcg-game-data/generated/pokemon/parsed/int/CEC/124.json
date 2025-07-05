@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent has any Pokémon-GX or Pokémon-EX in play, this Pokémon's attacks cost [C][C][C] less.",
-  "abilityName": "Boiling Blood",
+  "abilityEffect": {
+    "en": "If your opponent has any Pokémon-GX or Pokémon-EX in play, this Pokémon's attacks cost [C][C][C] less.",
+    "fr": "Si votre adversaire a au moins un Pokémon-GX ou Pokémon-EX en jeu, les attaques de ce Pokémon coûtent [C][C][C] de moins.",
+    "de": "Wenn dein Gegner mindestens 1 Pokémon-GX oder Pokémon-EX im Spiel hat, verringern sich die Kosten der Attacken dieses Pokémon um [C][C][C].",
+    "it": "Se il tuo avversario ha dei Pokémon-GX o dei Pokémon-EX in gioco, il costo degli attacchi di questo Pokémon è ridotto di [C][C][C].",
+    "es": "Si tu rival tiene algún Pokémon-GX o Pokémon-EX en juego, los ataques de este Pokémon cuestan [C][C][C] menos."
+  },
+  "abilityName": {
+    "en": "Boiling Blood",
+    "fr": "Sang Bouillant",
+    "de": "Kochendes Blut",
+    "it": "Sangue Ribollente",
+    "es": "Sangre Hirviente"
+  },
   "attacks": [
     {
       "cost": [

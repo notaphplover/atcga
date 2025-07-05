@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may draw 3 cards. If you use this Ability, your turn ends.",
-  "abilityName": "Instant Charge",
+  "abilityEffect": {
+    "en": "Once during your turn, you may draw 3 cards. If you use this Ability, your turn ends.",
+    "fr": "Une fois pendant votre tour, vous pouvez piocher 3 cartes. Si vous utilisez ce talent, votre tour se termine.",
+    "de": "Einmal während deines Zuges kannst du 3 Karten ziehen. Wenn du diese Fähigkeit einsetzt, endet dein Zug.",
+    "it": "Una sola volta durante il tuo turno, puoi pescare tre carte. Se usi questa abilità, il tuo turno finisce.",
+    "pt": "Uma vez durante o seu turno, você poderá comprar 3 cartas. Se você usar esta Habilidade, o seu turno acabará.",
+    "es": "Una vez durante tu turno, puedes robar 3 cartas. Si usas esta habilidad, tu turno termina."
+  },
+  "abilityName": {
+    "en": "Instant Charge",
+    "fr": "Charge Instantanée",
+    "de": "Sofortladung",
+    "it": "Carica Istantanea",
+    "pt": "Carga Instantânea",
+    "es": "Carga Instantánea"
+  },
   "attacks": [
     {
       "cost": [

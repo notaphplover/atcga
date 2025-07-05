@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
-  "abilityName": "Sweet Sleeping Face",
+  "abilityEffect": {
+    "en": "As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
+    "fr": "Tant que Mélo reste Endormi, prévenez tous les dégâts qui peuvent lui être infligés par des attaques.",
+    "de": "Solange Pii schläft, verhindere allen Schaden, der Pii durch Angriffe zugefügt wird.",
+    "it": "Fintanto che Cleffa è Addormentato, previeni tutto il danno inflitto a Cleffa dagli attacchi.",
+    "es": "Mientras Cleffa esté Dormido, previene de todo el daño hecho a Cleffa por ataques."
+  },
+  "abilityName": {
+    "en": "Sweet Sleeping Face",
+    "fr": "Joli visage endormi",
+    "de": "Süßes Schlafgesicht",
+    "it": "Musetto Dormiglione",
+    "es": "Cara de dulces sueños"
+  },
   "attacks": [
     {
       "cost": [],

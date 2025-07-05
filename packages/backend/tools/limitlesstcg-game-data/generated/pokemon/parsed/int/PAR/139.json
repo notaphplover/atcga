@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
-  "abilityName": "Coin Bonus",
+  "abilityEffect": {
+    "en": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
+    "fr": "Une fois pendant votre tour, vous pouvez piocher une carte. Si ce Pokémon est sur le Poste Actif, piochez une carte supplémentaire.",
+    "de": "Einmal während deines Zuges kannst du 1 Karte ziehen. Wenn dieses Pokémon in der Aktiven Position ist, ziehe 1 Karte mehr.",
+    "it": "Una sola volta durante il tuo turno, puoi pescare una carta. Se questo Pokémon è in posizione attiva, pesca un'altra carta.",
+    "pt": "Uma vez durante o seu turno, você poderá comprar uma carta. Se este Pokémon estiver no Campo Ativo, compre 1 carta a mais.",
+    "es": "Una vez durante tu turno, puedes robar 1 carta. Si este Pokémon está en el Puesto Activo, roba 1 carta más."
+  },
+  "abilityName": {
+    "en": "Coin Bonus",
+    "fr": "Bonus de Pièces",
+    "de": "Münzbonus",
+    "it": "Monete Bonus",
+    "pt": "Bônus de Moedas",
+    "es": "Moneda de Regalo"
+  },
   "attacks": [
     {
       "cost": [

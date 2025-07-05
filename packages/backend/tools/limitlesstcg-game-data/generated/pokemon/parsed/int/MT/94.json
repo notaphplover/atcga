@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a [L] Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.",
-  "abilityName": "Electro Recycle",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a [L] Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Electro Recycle"
+  },
   "attacks": [
     {
       "cost": [

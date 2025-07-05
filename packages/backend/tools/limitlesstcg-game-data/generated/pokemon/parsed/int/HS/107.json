@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Any damage done to Donphan by attacks is reduced by 20 (after applying Weakness and Resistance).",
-  "abilityName": "Exoskeleton",
+  "abilityEffect": {
+    "en": "Any damage done to Donphan by attacks is reduced by 20 (after applying Weakness and Resistance).",
+    "fr": "Tout dégât infligé à Donphan par des attaques est réduit de 20 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der Donphan durch Angriffe zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Qualsiasi danno inflitto a Donphan dagli attacchi è ridotto di 20 (dopo aver applicato Debolezza e Resistenza).",
+    "pt": "Qualquer dano causado no Donphan por ataque é reduzido em 20 (depois de aplicar Fraqueza e Resistência).",
+    "es": "Cualquier daño hecho a Donphan por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Exoskeleton",
+    "fr": "Exosquelette",
+    "de": "Exoskelett",
+    "it": "Esoscheletro",
+    "pt": "Exo-esqueleto",
+    "es": "Exosqueleto"
+  },
   "attacks": [
     {
       "cost": [

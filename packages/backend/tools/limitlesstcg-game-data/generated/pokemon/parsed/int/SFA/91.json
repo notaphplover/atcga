@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
-  "abilityName": "Oh No You Don't",
+  "abilityEffect": {
+    "en": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+    "fr": "Si ce Pokémon est mis K.O. par les dégâts d'une attaque de l'un des Pokémon de votre adversaire, et si vous avez au moins un Pêchaminus-ex en jeu, votre adversaire récupère une carte Récompense de moins.",
+    "de": "Wenn dieses Pokémon durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird und wenn du mindestens 1 Infamomo-ex im Spiel hast, nimmt dein Gegner 1 Preiskarte weniger.",
+    "it": "Se questo Pokémon viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario e hai in gioco dei Pecharunt-ex, il tuo avversario prende una carta Premio in meno.",
+    "pt": "Se este Pokémon for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente e se você tiver algum Pecharunt ex em jogo, seu oponente pegará 1 carta de Prêmio a menos.",
+    "es": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival y tienes algún Pecharunt ex en juego, tu rival coge 1 carta de Premio menos."
+  },
+  "abilityName": {
+    "en": "Oh No You Don't",
+    "fr": "Fausse Joie",
+    "de": "Von wegen",
+    "it": "Ci Hai Provato",
+    "pt": "Nananinanão",
+    "es": "Va a Ser que No"
+  },
   "attacks": [
     {
       "cost": [

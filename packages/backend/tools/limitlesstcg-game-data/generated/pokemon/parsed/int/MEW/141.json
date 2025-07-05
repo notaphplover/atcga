@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Apply Weakness for your opponent's Active Pokémon as ×4 instead.",
-  "abilityName": "Ancient Way",
+  "abilityEffect": {
+    "en": "Apply Weakness for your opponent's Active Pokémon as ×4 instead.",
+    "fr": "La Faiblesse du Pokémon Actif de votre adversaire est de ×4.",
+    "de": "Verrechne Schwäche beim Aktiven Pokémon deines Gegners stattdessen als ×4.",
+    "it": "La debolezza del Pokémon attivo del tuo avversario diventa ×4.",
+    "pt": "Aplique Fraqueza ao Pokémon Ativo do seu oponente de ×4.",
+    "es": "Aplica una Debilidad de x 4 al Pokémon Activo de tu rival."
+  },
+  "abilityName": {
+    "en": "Ancient Way",
+    "fr": "Méthode à l'Ancienne",
+    "de": "Uralte Methode",
+    "it": "Modo Antico",
+    "pt": "À Moda Antiga",
+    "es": "Modo Ancestral"
+  },
   "attacks": [
     {
       "cost": [

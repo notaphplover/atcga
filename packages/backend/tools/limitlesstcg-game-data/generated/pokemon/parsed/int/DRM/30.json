@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your [W] Pokémon can't be Confused. If those Pokémon are already Confused, remove that Special Condition.",
-  "abilityName": "Murmurs of the Sea",
+  "abilityEffect": {
+    "en": "Your [W] Pokémon can't be Confused. If those Pokémon are already Confused, remove that Special Condition.",
+    "fr": "Vos Pokémon [W] ne peuvent pas être Confus. Si ces Pokémon sont déjà Confus, retirez cet État Spécial.",
+    "de": "Deine [W]-Pokémon können nicht verwirrt werden. Wenn jene Pokémon bereits verwirrt sind, verliert jener Spezielle Zustand seine Wirkung.",
+    "it": "I tuoi Pokémon [W] non possono venire confusi. Se tali Pokémon sono già confusi, rimuovine la condizione speciale.",
+    "es": "Tus Pokémon [W] no pueden pasar a estar Confundidos. Si esos Pokémon ya están Confundidos, elimina esa Condición Especial."
+  },
+  "abilityName": {
+    "en": "Murmurs of the Sea",
+    "fr": "Murmures Marins",
+    "de": "Murmeln des Meeres",
+    "it": "Richiamo del Mare",
+    "es": "Murmullo del Mar"
+  },
   "attacks": [
     {
       "cost": [

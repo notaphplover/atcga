@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard your hand and draw 4 cards.",
-  "abilityName": "Sprint",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard your hand and draw 4 cards.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser votre main et piocher 4 cartes.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du deine Handkarten auf deinen Ablagestapel legen und 4 Karten ziehen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare le carte che hai in mano e pescare quattro carte.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar las cartas de tu mano y robar 4 cartas."
+  },
+  "abilityName": {
+    "en": "Sprint",
+    "fr": "Sprint",
+    "de": "Sprint",
+    "it": "Sprint",
+    "es": "Esprint"
+  },
   "attacks": [
     {
       "cost": [

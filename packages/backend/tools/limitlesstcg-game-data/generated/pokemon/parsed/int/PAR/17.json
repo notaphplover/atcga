@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Cards in your opponent's discard pile can't be put into their hand by an effect of your opponent's Abilities or Trainer cards.",
-  "abilityName": "Slime Mold Colony",
+  "abilityEffect": {
+    "en": "Cards in your opponent's discard pile can't be put into their hand by an effect of your opponent's Abilities or Trainer cards.",
+    "fr": "Les cartes dans la pile de défausse de votre adversaire ne peuvent pas être ajoutées à sa main par les effets des talents ou cartes Dresseur de votre adversaire.",
+    "de": "Karten im Ablagestapel deines Gegners können nicht durch einen Effekt von Fähigkeiten oder Trainerkarten deines Gegners auf seine Hand genommen werden.",
+    "it": "Le carte nella pila degli scarti del tuo avversario non possono essere aggiunte a quelle che ha in mano per effetto delle abilità o delle carte Allenatore del tuo avversario.",
+    "pt": "Cartas na pilha de descarte do seu oponente não podem ser colocadas na mão dele pelos efeitos de Habilidades ou cartas de Treinador do seu oponente.",
+    "es": "Las cartas en la pila de descartes de tu rival no pueden ponerse en su mano por ningún efecto de las habilidades o cartas de Entrenador de tu rival."
+  },
+  "abilityName": {
+    "en": "Slime Mold Colony",
+    "fr": "Colonie de Myxomycètes",
+    "de": "Schleimpilzkolonie",
+    "it": "Colonia Melmamuffa",
+    "pt": "Colônia de Bolor Limoso",
+    "es": "Colonia Moho-cosa"
+  },
   "attacks": [
     {
       "cost": [

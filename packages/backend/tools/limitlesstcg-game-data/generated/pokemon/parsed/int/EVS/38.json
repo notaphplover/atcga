@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to you or your hand.",
-  "abilityName": "Dew Guard",
+  "abilityEffect": {
+    "en": "Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to you or your hand.",
+    "fr": "Chaque fois que votre adversaire joue une carte Supporter de sa main, évitez tous les effets de cette carte sur vous ou votre main.",
+    "de": "Verhindere jedes Mal, wenn dein Gegner 1 Unterstützerkarte aus seiner Hand spielt, alle Effekte jener Karte, die dir oder deinen Handkarten zugefügt werden.",
+    "it": "Ogni volta che il tuo avversario gioca una carta Aiuto che ha in mano, previeni tutti gli effetti di quella carta su di te e sulle carte che hai in mano.",
+    "pt": "Sempre que seu oponente jogar 1 carta de Apoiador da própria mão, previna todos os efeitos daquela carta causados a você ou a sua mão.",
+    "es": "Cada vez que tu rival juegue 1 carta de Partidario de su mano, evita todos los efectos de esa carta infligidos a ti o a tu mano."
+  },
+  "abilityName": {
+    "en": "Dew Guard",
+    "fr": "Garde Rosée",
+    "de": "Schutztau",
+    "it": "Scudo di Rugiada",
+    "pt": "Proteção de Orvalho",
+    "es": "Defensa Rocío"
+  },
   "attacks": [
     {
       "cost": [

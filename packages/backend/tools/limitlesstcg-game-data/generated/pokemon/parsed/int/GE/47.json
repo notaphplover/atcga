@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Metapod is your Active Pokémon, you may flip a coin. If heads, search your deck for a card that evolves from Metapod and put it onto Metapod. (This counts as evolving Metapod.) Shuffle your deck afterward. This power can't be used if Metapod is affected by a Special Condition.",
-  "abilityName": "Emerge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Metapod is your Active Pokémon, you may flip a coin. If heads, search your deck for a card that evolves from Metapod and put it onto Metapod. (This counts as evolving Metapod.) Shuffle your deck afterward. This power can't be used if Metapod is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Emerge"
+  },
   "attacks": [
     {
       "cost": [

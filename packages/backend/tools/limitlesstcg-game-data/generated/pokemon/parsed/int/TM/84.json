@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "If Yanma has no Energy attached to it, Yanma's Retreat Cost is 0.",
-  "abilityName": "Free Flight",
+  "abilityEffect": {
+    "en": "If Yanma has no Energy attached to it, Yanma's Retreat Cost is 0.",
+    "fr": "Si aucune carte Énergie n'est attachée à Yanma, son Coût de retraite est de 0.",
+    "de": "Wenn keine Energie an Yanma angelegt ist, hat Yanma Rückzugskosten von 0.",
+    "it": "Se Yanma non ha Energie assegnate, il Costo di Ritirata di Yanma è 0."
+  },
+  "abilityName": {
+    "en": "Free Flight",
+    "fr": "Vol gratuit",
+    "de": "Freiflug",
+    "it": "Volo Libero"
+  },
   "attacks": [
     {
       "cost": [

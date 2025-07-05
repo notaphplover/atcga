@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "During your opponent's turn, if Cascoon would be damaged by an opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 30.",
-  "abilityName": "Hard Cocoon",
+  "abilityEffect": {
+    "en": "During your opponent's turn, if Cascoon would be damaged by an opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 30."
+  },
+  "abilityName": {
+    "en": "Hard Cocoon"
+  },
   "attacks": [
     {
       "cost": [

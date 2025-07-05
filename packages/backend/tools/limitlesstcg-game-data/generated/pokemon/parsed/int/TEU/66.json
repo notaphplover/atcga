@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your opponent's Pokémon that have any damage counters on them, and any cards attached to those Pokémon, can't be put into your opponent's hand.",
-  "abilityName": "Scoop-Up Block",
+  "abilityEffect": {
+    "en": "Your opponent's Pokémon that have any damage counters on them, and any cards attached to those Pokémon, can't be put into your opponent's hand.",
+    "fr": "Les Pokémon de votre adversaire qui ont des marqueurs de dégâts, et toutes les cartes qui sont attachées à ces Pokémon, ne peuvent pas être mis dans la main de votre adversaire.",
+    "de": "Die Pokémon deines Gegners, auf denen mindestens 1 Schadensmarke liegt, und alle an jene Pokémon angelegten Karten können nicht auf die Hand deines Gegners genommen werden.",
+    "it": "I Pokémon del tuo avversario che hanno dei segnalini danno e tutte le carte a essi assegnate non possono essere aggiunti alle carte che ha in mano.",
+    "es": "Los Pokémon de tu rival que tengan algún contador de daño sobre ellos y las cartas unidas a esos Pokémon no pueden ponerse en la mano de tu rival."
+  },
+  "abilityName": {
+    "en": "Scoop-Up Block",
+    "fr": "Rappel Interdit",
+    "de": "Anziehungsblockade",
+    "it": "Blocco Recupero",
+    "es": "Bloqueo Levante"
+  },
   "attacks": [
     {
       "cost": [

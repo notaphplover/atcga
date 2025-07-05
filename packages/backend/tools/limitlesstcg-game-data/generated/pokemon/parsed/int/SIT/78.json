@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, put it into your hand instead of the discard pile. (Discard all attached cards.)",
-  "abilityName": "Persistent Cells",
+  "abilityEffect": {
+    "en": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, put it into your hand instead of the discard pile. (Discard all attached cards.)",
+    "fr": "Si ce Pokémon est mis K.O. par les dégâts d'une attaque d’un Pokémon de votre adversaire, placez-le dans votre main plutôt que dans la pile de défausse. (Défaussez toutes les cartes attachées.)",
+    "de": "Wenn dieses Pokémon durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird, nimm es auf deine Hand, anstatt es auf deinen Ablagestapel zu legen. (Lege alle angelegten Karten auf deinen Ablagestapel.)",
+    "it": "Se questo Pokémon viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, aggiungilo alle carte che hai in mano invece che alla pila degli scarti. Scarta tutte le carte assegnate.",
+    "pt": "Se este Pokémon for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, coloque-o na sua mão ao invés da pilha de descarte (descarte todas as cartas ligadas a ele).",
+    "es": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, ponlo en tu mano en vez de en la pila de descartes. (Descarta todas las cartas unidas a él)."
+  },
+  "abilityName": {
+    "en": "Persistent Cells",
+    "fr": "Cellules Tenaces",
+    "de": "Beständige Zellen",
+    "it": "Cellule Ostinate",
+    "pt": "Células Persistentes",
+    "es": "Células Persistentes"
+  },
   "attacks": [
     {
       "cost": [

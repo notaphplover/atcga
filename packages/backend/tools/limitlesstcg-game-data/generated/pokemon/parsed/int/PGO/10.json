@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Each basic [R] Energy attached to your Pokémon provides [R][R] Energy. You can't apply more than 1 Burn Brightly Ability at a time.",
-  "abilityName": "Burn Brightly",
+  "abilityEffect": {
+    "en": "Each basic [R] Energy attached to your Pokémon provides [R][R] Energy. You can't apply more than 1 Burn Brightly Ability at a time.",
+    "fr": "Chaque Énergie [R] de base attachée à vos Pokémon fournit de l'Énergie [R][R]. Vous ne pouvez utiliser qu'un talent Feu Éclatant à la fois.",
+    "de": "Jede an deine Pokémon angelegte Basis-[R]-Energie liefert [R][R]-Energie. Du kannst immer nur jeweils 1 Fähigkeit Lichterloh brennen einsetzen.",
+    "it": "Ogni Energia base [R] assegnata ai tuoi Pokémon fornisce Energia [R][R]. Non puoi applicare più di un'abilità Fuoco Acceso alla volta.",
+    "pt": "Cada Energia [R] básica ligada aos seus Pokémon fornece Energia [R][R]. Você não pode usar mais de 1 Habilidade Brilho Ardente por vez.",
+    "es": "Cada Energía [R] Básica unida a tus Pokémon proporciona 2 Energías [R]. No puedes aplicar más de 1 habilidad Quemadura Viva a la vez."
+  },
+  "abilityName": {
+    "en": "Burn Brightly",
+    "fr": "Feu Éclatant",
+    "de": "Lichterloh brennen",
+    "it": "Fuoco Acceso",
+    "pt": "Brilho Ardente",
+    "es": "Quemadura Viva"
+  },
   "attacks": [
     {
       "cost": [

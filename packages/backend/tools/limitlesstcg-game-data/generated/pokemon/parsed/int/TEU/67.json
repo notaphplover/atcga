@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by your opponent's attacks if that damage is exactly 10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230, or 250.",
-  "abilityName": "Magic Odds",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by your opponent's attacks if that damage is exactly 10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230, or 250.",
+    "fr": "Évitez tous les dégâts infligés à ce Pokémon par les attaques de votre adversaire si le montant des dégâts est égal à 10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230 ou 250.",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon deines Gegners zugefügt wird, wenn jener Schaden genau 10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230 oder 250 Schadenspunkte beträgt.",
+    "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi del tuo avversario se i danni sono esattamente 10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230 o 250.",
+    "es": "Evita todo el daño infligido a este Pokémon por ataques de tu rival si ese daño es exactamente 10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230 o 250."
+  },
+  "abilityName": {
+    "en": "Magic Odds",
+    "fr": "Impair Magique",
+    "de": "Ungrade Magie",
+    "it": "Dispari Magici",
+    "es": "Impares Mágicos"
+  },
   "attacks": [
     {
       "cost": [

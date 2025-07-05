@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent has 3 or fewer Prize cards remaining, this Pokémon's maximum HP is 200.",
-  "abilityName": "Wall of Stone",
+  "abilityEffect": {
+    "en": "If your opponent has 3 or fewer Prize cards remaining, this Pokémon's maximum HP is 200.",
+    "fr": "S'il reste 3 cartes Récompense ou moins à votre adversaire, les PV maximum de ce Pokémon sont de 200.",
+    "de": "Wenn dein Gegner 3 oder weniger verbleibende Preiskarten hat, betragen die maximalen KP dieses Pokémon 200.",
+    "it": "Se il tuo avversario ha tre o meno carte Premio rimanenti, i PS massimi di questo Pokémon diventano 200.",
+    "es": "Si a tu rival le quedan 3 o menos cartas de Premio, los PS máximos de este Pokémon son 200."
+  },
+  "abilityName": {
+    "en": "Wall of Stone",
+    "fr": "Mur de Pierres",
+    "de": "Steinmauer",
+    "it": "Muropietra",
+    "es": "Muro de Piedra"
+  },
   "attacks": [
     {
       "cost": [

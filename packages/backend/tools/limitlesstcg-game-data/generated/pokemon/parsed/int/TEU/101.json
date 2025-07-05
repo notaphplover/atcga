@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by attacks from your opponent's [R] Pokémon.",
-  "abilityName": "Heatproof",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by attacks from your opponent's [R] Pokémon.",
+    "fr": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon [R] de votre adversaire.",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von [R]-Pokémon deines Gegners zugefügt wird.",
+    "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon [R] del tuo avversario.",
+    "es": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon [R] de tu rival."
+  },
+  "abilityName": {
+    "en": "Heatproof",
+    "fr": "Ignifugé",
+    "de": "Hitzeschutz",
+    "it": "Antifuoco",
+    "es": "Ignífugo"
+  },
   "attacks": [
     {
       "cost": [

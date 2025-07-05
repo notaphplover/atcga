@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your Pokémon in play have no Retreat Cost, except Pokémon-GX and Pokémon-EX.",
-  "abilityName": "Dragon Lift",
+  "abilityEffect": {
+    "en": "Your Pokémon in play have no Retreat Cost, except Pokémon-GX and Pokémon-EX.",
+    "fr": "Vos Pokémon en jeu n'ont pas de Coût de Retraite, à l'exception des Pokémon-GX et des Pokémon-EX.",
+    "de": "Deine Pokémon im Spiel haben keine Rückzugskosten, außer Pokémon-GX und Pokémon-EX.",
+    "it": "I tuoi Pokémon in gioco non hanno costo di ritirata, a eccezione dei Pokémon-GX e dei Pokémon-EX.",
+    "es": "Tus Pokémon en juego no tienen ningún Coste de Retirada, excepto los Pokémon-GX y los Pokémon-EX."
+  },
+  "abilityName": {
+    "en": "Dragon Lift",
+    "fr": "Élévation de Dragon",
+    "de": "Drachentransporter",
+    "it": "Dragopassaggio",
+    "es": "Impulso Dragón"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Unown T is your Active Pokémon, you may discard a card from your hand. Then, flip a coin. If heads, put 2 damage counters on 1 of your opponent's Benched Pokémon. This power can't be used if Unown T is affected by a Special Condition.",
-  "abilityName": "THROW",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Unown T is your Active Pokémon, you may discard a card from your hand. Then, flip a coin. If heads, put 2 damage counters on 1 of your opponent's Benched Pokémon. This power can't be used if Unown T is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "THROW"
+  },
   "attacks": [
     {
       "cost": [

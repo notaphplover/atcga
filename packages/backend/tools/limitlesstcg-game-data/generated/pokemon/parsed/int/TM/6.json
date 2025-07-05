@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Nidoking gets +20 HP for each Nidoqueen you have in play.",
-  "abilityName": "Pheromone Stamina",
+  "abilityEffect": {
+    "en": "Nidoking gets +20 HP for each Nidoqueen you have in play.",
+    "fr": "Nidoking reçoit +20 PV pour chacun de vos Nidoqueen en jeu.",
+    "de": "Nidoking erhält +20 KP für jedes deiner Nidoqueen im Spiel.",
+    "it": "Nidoking prende +20 PV per ciascun Nidoqueen che hai in gioco."
+  },
+  "abilityName": {
+    "en": "Pheromone Stamina",
+    "fr": "Endurance aux phéromones",
+    "de": "Pheromon-Ausdauer",
+    "it": "Feromone Rinforzante"
+  },
   "attacks": [
     {
       "cost": [

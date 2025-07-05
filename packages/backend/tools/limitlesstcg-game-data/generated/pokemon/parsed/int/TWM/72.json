@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may look at the top card of your deck. You may discard that card.",
-  "abilityName": "Snack Seek",
+  "abilityEffect": {
+    "en": "Once during your turn, you may look at the top card of your deck. You may discard that card.",
+    "fr": "Une fois pendant votre tour, vous pouvez regarder la carte du dessus de votre deck. Vous pouvez défausser cette carte.",
+    "de": "Einmal während deines Zuges kannst du dir die oberste Karte deines Decks anschauen. Du kannst jene Karte auf deinen Ablagestapel legen.",
+    "it": "Una sola volta durante il tuo turno, puoi guardare la prima carta del tuo mazzo. Puoi scartare quella carta.",
+    "pt": "Uma vez durante o seu turno, você poderá olhar a carta de cima do seu baralho. Você pode descartar aquela carta.",
+    "es": "Una vez durante tu turno, puedes mirar la primera carta de tu baraja. Puedes descartar esa carta."
+  },
+  "abilityName": {
+    "en": "Snack Seek",
+    "fr": "En Quête de Friandises",
+    "de": "Snacksuche",
+    "it": "Cercaspuntino",
+    "pt": "Caçar Lanches",
+    "es": "Búsqueda del Bocadito"
+  },
   "attacks": [
     {
       "cost": [

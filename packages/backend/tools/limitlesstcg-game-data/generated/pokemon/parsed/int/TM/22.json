@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Whenever you attach a [W] Energy card from your hand to Golduck, remove 2 damage counters from Golduck.",
-  "abilityName": "Natural Remedy",
+  "abilityEffect": {
+    "en": "Whenever you attach a [W] Energy card from your hand to Golduck, remove 2 damage counters from Golduck.",
+    "fr": "Lorsque vous attachez une carte Énergie [W] de votre main à Akwakwak, retirez-lui 2 marqueurs de dégât.",
+    "de": "Entferne jedes Mal, wenn du eine [W]-Energiekarte von deiner Hand an Entoron anlegst, 2 Schadensmarken von Entoron.",
+    "it": "Ogni volta che assegni una carta Energia [W] dalla tua mano a Golduck, togli 2 segnalini danno da Golduck."
+  },
+  "abilityName": {
+    "en": "Natural Remedy",
+    "fr": "Remède naturel",
+    "de": "Natürliche Heilung",
+    "it": "Rimedio Naturale"
+  },
   "attacks": [
     {
       "cost": [

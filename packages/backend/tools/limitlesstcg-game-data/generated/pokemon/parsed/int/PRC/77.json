@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Any damage done to your Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
-  "abilityName": "Rock Wall",
+  "abilityEffect": {
+    "en": "Any damage done to your Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés à vos Pokémon par une attaque de votre adversaire sont réduits de 10 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der deinem Pokémon durch einen gegnerischen Angriff zugefügt wird, wird um 10 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I danni inflitti ai tuoi Pokémon da un attacco dell'avversario sono ridotti di 10, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño infligido a este Pokémon por un ataque de tu rival se reduce en 10 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Rock Wall",
+    "fr": "Mur de Roche",
+    "de": "Felswand",
+    "it": "Muroroccia",
+    "es": "Muro de Rocas"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may draw cards until you have 5 cards in your hand.",
-  "abilityName": "Abyssal Hand",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may draw cards until you have 5 cards in your hand.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez piocher des cartes jusqu'à ce que vous ayez 5 cartes en main.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du so viele Karten ziehen, bis du 5 Karten auf der Hand hast.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi pescare fino ad avere cinque carte in mano.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes robar cartas hasta que tengas 5 cartas en tu mano."
+  },
+  "abilityName": {
+    "en": "Abyssal Hand",
+    "fr": "Main Abyssale",
+    "de": "Abgrundtiefe Hand",
+    "it": "Manoabissale",
+    "es": "Mano Abismal"
+  },
   "attacks": [
     {
       "cost": [

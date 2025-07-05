@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 1 damage counter on 2 of your opponent's Benched Pokémon.",
-  "abilityName": "Distortion Door",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 1 damage counter on 2 of your opponent's Benched Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon se trouve dans votre pile de défausse, vous pouvez le placer sur votre Banc. Dans ce cas, placez un marqueur de dégâts sur 2 des Pokémon de Banc de votre adversaire.",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn sich dieses Pokémon in deinem Ablagestapel befindet, kannst du es auf deine Bank legen. Wenn du das machst, lege 1 Schadensmarke auf 2 Pokémon auf der Bank deines Gegners.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è nella tua pila degli scarti, puoi metterlo nella tua panchina. Se lo fai, metti un segnalino danno su due dei Pokémon in panchina del tuo avversario.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está en tu pila de descartes, puedes ponerlo en tu Banca. Si lo haces, pon 1 contador de daño en 2 de los Pokémon en Banca de tu rival."
+  },
+  "abilityName": {
+    "en": "Distortion Door",
+    "fr": "Porte Distorsion",
+    "de": "Zerrtür",
+    "it": "Portale Distorto",
+    "es": "Puerta Distorsión"
+  },
   "attacks": [
     {
       "cost": [

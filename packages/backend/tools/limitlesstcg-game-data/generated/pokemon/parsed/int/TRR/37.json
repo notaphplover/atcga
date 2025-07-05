@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Dark Houndoom is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Burned. This power can't be used if Dark Houndoom is affected by a Special Condition.",
-  "abilityName": "Fire Breath",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Dark Houndoom is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Burned. This power can't be used if Dark Houndoom is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Fire Breath"
+  },
   "attacks": [
     {
       "cost": [

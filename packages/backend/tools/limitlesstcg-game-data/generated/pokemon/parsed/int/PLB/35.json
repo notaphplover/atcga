@@ -1,6 +1,14 @@
 {
-  "abilityEffect": "This Pokémon's attacks cost [C] less for each of your opponent's Team Plasma Pokémon in play.",
-  "abilityName": "Drifting Balloon",
+  "abilityEffect": {
+    "en": "This Pokémon's attacks cost [C] less for each of your opponent's Team Plasma Pokémon in play.",
+    "fr": "Les attaques de ce Pokémon coûtent [C] de moins pour chaque Pokémon de la Team Plasma de votre adversaire en jeu.",
+    "de": "Die Angriffskosten dieses Pokémon verringern sich um [C] für jedes Team Plasma-Pokémon, das dein Gegner im Spiel hat."
+  },
+  "abilityName": {
+    "en": "Drifting Balloon",
+    "fr": "Ballon Flottant",
+    "de": "Gleitballon"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "At the end of each player's turn, each of your opponent's Active Pokémon that has any [G] Energy attached to it is now Poisoned. If that Pokémon is already Poisoned, Toxic Sludge Poké-Body does nothing to that Pokémon.",
-  "abilityName": "Toxic Sludge",
+  "abilityEffect": {
+    "en": "At the end of each player's turn, each of your opponent's Active Pokémon that has any [G] Energy attached to it is now Poisoned. If that Pokémon is already Poisoned, Toxic Sludge Poké-Body does nothing to that Pokémon."
+  },
+  "abilityName": {
+    "en": "Toxic Sludge"
+  },
   "attacks": [
     {
       "cost": [

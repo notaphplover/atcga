@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has any damage counters on it, it has no Retreat Cost.",
-  "abilityName": "Vamoose",
+  "abilityEffect": {
+    "en": "If this Pokémon has any damage counters on it, it has no Retreat Cost.",
+    "fr": "Si au moins un marqueur de dégâts est placé sur ce Pokémon, il n'a pas de Coût de Retraite.",
+    "de": "Wenn auf diesem Pokémon mindestens 1 Schadensmarke liegt, hat es keine Rückzugskosten.",
+    "it": "Se questo Pokémon ha dei segnalini danno, non ha costo di ritirata.",
+    "pt": "Se este Pokémon tiver algum contador de dano nele, não terá custo de Recuo.",
+    "es": "Si este Pokémon tiene algún contador de daño sobre él, no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Vamoose",
+    "fr": "Sauve-qui-Peut",
+    "de": "Verduften",
+    "it": "Taglia la Corda",
+    "pt": "Vambora",
+    "es": "Largarse"
+  },
   "attacks": [
     {
       "cost": [

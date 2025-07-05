@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may draw a card. If this Pokémon is your Active Pokémon, draw 1 more card.",
-  "abilityName": "Tasting",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may draw a card. If this Pokémon is your Active Pokémon, draw 1 more card.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez piocher une carte. Si ce Pokémon est votre Pokémon Actif, piochez une carte supplémentaire.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Karte ziehen. Wenn dieses Pokémon dein Aktives Pokémon ist, ziehe 1 zusätzliche Karte.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi pescare una carta. Se questo Pokémon è il tuo Pokémon attivo, pesca una carta in più.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes robar 1 carta. Si este Pokémon es tu Pokémon Activo, roba 1 carta más."
+  },
+  "abilityName": {
+    "en": "Tasting",
+    "fr": "Dégustation",
+    "de": "Kostprobe",
+    "it": "Assaggio",
+    "es": "Degustación"
+  },
   "attacks": [
     {
       "cost": [

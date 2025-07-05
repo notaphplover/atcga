@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Unown C is on your Bench, you may flip coin. If heads, search your deck for any 1 Unown and put it onto your Bench. Shuffle your deck afterward.",
-  "abilityName": "CALL",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Unown C is on your Bench, you may flip coin. If heads, search your deck for any 1 Unown and put it onto your Bench. Shuffle your deck afterward."
+  },
+  "abilityName": {
+    "en": "CALL"
+  },
   "attacks": [
     {
       "cost": [

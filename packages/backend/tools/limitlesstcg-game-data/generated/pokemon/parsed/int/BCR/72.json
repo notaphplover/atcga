@@ -1,6 +1,17 @@
 {
-  "abilityEffect": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
-  "abilityName": "Poison Point",
+  "abilityEffect": {
+    "en": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
+    "fr": "Si ce Pokémon est votre Pokémon Actif et qu'il subit les dégâts d'une attaque de votre adversaire (même si ce Pokémon est mis K.O.), le Pokémon Attaquant est maintenant Empoisonné.",
+    "it": "Se questo Pokémon è il tuo Pokémon attivo e viene danneggiato da un attacco del tuo avversario, anche se viene messo K.O., il Pokémon attaccante viene avvelenato.",
+    "es": "Si este Pokémon es tu Pokémon Activo y resulta dañado por el ataque de un rival (incluso si este Pokémon queda Fuera de Combate), el Pokémon Atacante pasa a estar Envenenado."
+  },
+  "abilityName": {
+    "en": "Poison Point",
+    "fr": "Point Poison",
+    "de": "Giftdorn",
+    "it": "Velenopunto",
+    "es": "Punto Tóxico"
+  },
   "attacks": [
     {
       "cost": [

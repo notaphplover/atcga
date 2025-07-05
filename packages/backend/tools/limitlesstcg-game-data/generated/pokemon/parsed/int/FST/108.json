@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If all your Pokémon in play are Fusion Strike Pokémon, your opponent's Pokémon VMAX in play get -30 HP.",
-  "abilityName": "Maximum Downer",
+  "abilityEffect": {
+    "en": "If all your Pokémon in play are Fusion Strike Pokémon, your opponent's Pokémon VMAX in play get -30 HP.",
+    "fr": "Si tous vos Pokémon en jeu sont des Pokémon Poing de Fusion, les Pokémon-VMAX en jeu de votre adversaire perdent 30 PV.",
+    "de": "Wenn alle deine Pokémon im Spiel Fusionsangriff-Pokémon sind, erhalten die Pokémon-VMAX deines Gegners im Spiel -30 KP.",
+    "it": "Se tutti i tuoi Pokémon in gioco sono Pokémon Colpo Fusione, i Pokémon-VMAX in gioco del tuo avversario hanno 30 PS in meno.",
+    "pt": "Se todos os seus Pokémon em jogo forem Pokémon Golpe Fusão, os Pokémon VMAX do seu oponente em jogo receberão 30 PS a menos.",
+    "es": "Si todos tus Pokémon en juego son Pokémon Golpe Fusión, los Pokémon VMAX en juego de tu rival tienen 30 PS menos."
+  },
+  "abilityName": {
+    "en": "Maximum Downer",
+    "fr": "Immobilisation Maximale",
+    "de": "Maximale Spaßbremse",
+    "it": "Calmante Massimo",
+    "pt": "Vacilo Total",
+    "es": "Bajonazo Total"
+  },
   "attacks": [
     {
       "cost": [

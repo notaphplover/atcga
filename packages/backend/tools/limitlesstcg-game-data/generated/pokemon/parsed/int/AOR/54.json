@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may heal 20 damage from each of your Pokémon.",
-  "abilityName": "Bright Heal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may heal 20 damage from each of your Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez soigner 20 dégâts à chacun de vos Pokémon.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 20 Schadenspunkte bei jedem deiner Pokémon heilen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi curare ciascuno dei tuoi Pokémon da 20 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes curar 20 puntos de daño a cada uno de tus Pokémon."
+  },
+  "abilityName": {
+    "en": "Bright Heal",
+    "fr": "Soin Lumineux",
+    "de": "Helle Heilung",
+    "it": "Lumicura",
+    "es": "Cura Brillante"
+  },
   "attacks": [
     {
       "cost": [

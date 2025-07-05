@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
-  "abilityName": "Bouffer",
+  "abilityEffect": {
+    "en": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der diesem Pokémon durch Angriffe zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I danni inflitti a questo Pokémon dagli attacchi sono ridotti di 20, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño hecho a este Pokémon por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Bouffer",
+    "fr": "Touffe Protectrice",
+    "de": "Bisopuffer",
+    "it": "Ammortizzatore",
+    "es": "Amortiguación"
+  },
   "attacks": [
     {
       "cost": [

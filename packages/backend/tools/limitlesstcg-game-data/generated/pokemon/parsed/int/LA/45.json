@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), when you attach a [G] or [P] Energy card from your hand to Vileplume (excluding effects of attacks or Poké-Powers), you may use this power. If you attach a [G] Energy card, the Defending Pokémon is now Asleep. If you attach a [P] Energy card, the Defending Pokémon is now Poisoned. This power can't be used if Vileplume is affected by a Special Condition.",
-  "abilityName": "Energy Reaction",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), when you attach a [G] or [P] Energy card from your hand to Vileplume (excluding effects of attacks or Poké-Powers), you may use this power. If you attach a [G] Energy card, the Defending Pokémon is now Asleep. If you attach a [P] Energy card, the Defending Pokémon is now Poisoned. This power can't be used if Vileplume is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Energy Reaction"
+  },
   "attacks": [
     {
       "cost": [

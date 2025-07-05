@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent's Active Pokémon is a Basic Pokémon, its Retreat Cost is [C] more.",
-  "abilityName": "Dark Ambition",
+  "abilityEffect": {
+    "en": "If your opponent's Active Pokémon is a Basic Pokémon, its Retreat Cost is [C] more.",
+    "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, son Coût de Retraite augmente de [C].",
+    "de": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, erhöhen sich dessen Rückzugskosten um [C].",
+    "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Base, il suo costo di ritirata aumenta di [C].",
+    "es": "Si el Pokémon Activo de tu rival es un Pokémon Básico, su Coste de Retirada es de [C] más."
+  },
+  "abilityName": {
+    "en": "Dark Ambition",
+    "fr": "Noire Ambition",
+    "de": "Finsteres Streben",
+    "it": "Sinistre Ambizioni",
+    "es": "Ambición Siniestra"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your discard pile for a [R] Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
-  "abilityName": "Afterburner",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your discard pile for a [R] Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher dans votre pile de défausse une carte Énergie [R] et l'attacher à l'un de vos Pokémon. Dans ce cas, ajoutez un marqueur de dégâts sur ce Pokémon. Ce pouvoir ne peut pas être utilisé si Typhlosion est affecté par un État spécial.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du deinen Ablagestapel nach 1 [R]-Energiekarte durchsuchen und sie an 1 deiner Pokémon anlegen. Wenn du das machst, lege 1 Schadensmarke auf dieses Pokémon. Diese Poké-Power kann nicht benutzt werden, wenn Tornupto von einem Speziellen Zustand betroffen ist.",
+    "it": "Una sola volta durante il tuo turno (prima del tuo attacco),puoi cercare nella pila degli scarti una carta Energia [R] e assegnarla a 1 dei tuoi Pokémon. Se lo fai, metti 1 segnalino danno su quel Pokémon. Questo potere non può essere usato se Typhlosion è influenzato da una Condizione Speciale.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu pila de descartes una carta de Energía [R] y unirla a 1 de tus Pokémon. Si lo haces, pones 1 contador de daño en ese Pokémon. Este poder no se puede usar si Typhlosion se ve afectado por una Condición Especial."
+  },
+  "abilityName": {
+    "en": "Afterburner",
+    "fr": "Combustion",
+    "de": "Schubverstärker",
+    "it": "Fuoconseguenza",
+    "es": "Postcombustión"
+  },
   "attacks": [
     {
       "cost": [

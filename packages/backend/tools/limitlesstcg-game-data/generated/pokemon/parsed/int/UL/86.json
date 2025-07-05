@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may use this power. Lanturn's type is [W] until the end of your turn. This power can't be used if Lanturn is affected by a Special Condition.",
-  "abilityName": "Submerge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may use this power. Lanturn's type is [W] until the end of your turn. This power can't be used if Lanturn is affected by a Special Condition.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez utiliser ce pouvoir. Lanturn devient un Pokémon de type [W] jusqu'à la fin de votre tour. Ce pouvoir ne peut pas être utilisé si Lanturn est affecté par un État Spécial.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du diese Poké-Power verwenden. Lanturns Typ ist [W] bis zum Ende des Zuges. Diese Poké-Power kann nicht benutzt werden, wenn Lanturn von einem Speziellen Zustand betroffen ist.",
+    "it": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi usare questo potere. Il tipo di Lanturn è 3 fino alla fine del tuo turno. Questo potere non può essere usato se Lanturn è influenzato da una Condizione Speciale.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes usar este poder. El tipo de Lanturn es [W] hasta el final de tu turno. Este poder no se puede usar si Lanturn se ve afectado por una Condición Especial."
+  },
+  "abilityName": {
+    "en": "Submerge",
+    "fr": "Submerger",
+    "de": "Tauchgang",
+    "it": "Immersione Subacquea",
+    "es": "Sumergir"
+  },
   "attacks": [
     {
       "cost": [

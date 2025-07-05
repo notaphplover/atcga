@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can't be used if Regigigas is affected by a Special Condition.",
-  "abilityName": "Sacrifice",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can't be used if Regigigas is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Sacrifice"
+  },
   "attacks": [
     {
       "cost": [

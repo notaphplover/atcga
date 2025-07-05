@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your [M] Pokémon take 10 less damage from your opponent's attacks (after applying Weakness and Resistance).",
-  "abilityName": "Hair Wall",
+  "abilityEffect": {
+    "en": "Your [M] Pokémon take 10 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+    "fr": "Vos Pokémon [M] subissent 10 dégâts de moins provenant des attaques de votre adversaire (après application de la Faiblesse et de la Résistance).",
+    "de": "Deinen [M]-Pokémon werden durch Attacken deines Gegners 10 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I tuoi Pokémon [M] subiscono 10 danni in meno dagli attacchi del tuo avversario, dopo aver applicato debolezza e resistenza.",
+    "es": "Los ataques de tu rival hacen 10 puntos de daño menos a tus Pokémon [M] (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Hair Wall",
+    "fr": "Mur Capillaire",
+    "de": "Haarwall",
+    "it": "Murochioma",
+    "es": "Muro Capilar"
+  },
   "attacks": [
     {
       "cost": [

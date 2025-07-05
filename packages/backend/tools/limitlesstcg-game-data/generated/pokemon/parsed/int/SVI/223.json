@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your opponent's Active Pokémon’s Retreat Cost is [C] more.",
-  "abilityName": "Trap Territory",
+  "abilityEffect": {
+    "en": "Your opponent's Active Pokémon’s Retreat Cost is [C] more.",
+    "fr": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de [C].",
+    "de": "Die Rückzugskosten des Aktiven Pokémon deines Gegners erhöhen sich um [C].",
+    "it": "Il costo di ritirata del Pokémon attivo del tuo avversario aumenta di [C].",
+    "pt": "O custo de Recuo do Pokémon Ativo do seu oponente é [C] a mais.",
+    "es": "El Coste de Retirada del Pokémon Activo de tu rival es de [C] más."
+  },
+  "abilityName": {
+    "en": "Trap Territory",
+    "fr": "Territoire Piégé",
+    "de": "Fallenrevier",
+    "it": "Territorio Trappola",
+    "pt": "Armadilha Territorial",
+    "es": "Territorio Trampa"
+  },
   "attacks": [
     {
       "cost": [

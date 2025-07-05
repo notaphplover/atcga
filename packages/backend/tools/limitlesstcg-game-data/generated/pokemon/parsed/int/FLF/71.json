@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your opponent's Poisoned Pokémon can't retreat.",
-  "abilityName": "Poison Barrier",
+  "abilityEffect": {
+    "en": "Your opponent's Poisoned Pokémon can't retreat.",
+    "fr": "Les Pokémon Empoisonnés de votre adversaire ne peuvent pas battre en retraite.",
+    "de": "Die vergifteten Pokémon deines Gegners können sich nicht zurückziehen.",
+    "it": "I Pokémon avvelenati del tuo avversario non possono ritirarsi.",
+    "es": "Los Pokémon Envenenados de tu rival no pueden retirarse."
+  },
+  "abilityName": {
+    "en": "Poison Barrier",
+    "fr": "Barrière de Poison",
+    "de": "Gifthülle",
+    "it": "Velenobarriera",
+    "es": "Barrera Veneno"
+  },
   "attacks": [
     {
       "cost": [

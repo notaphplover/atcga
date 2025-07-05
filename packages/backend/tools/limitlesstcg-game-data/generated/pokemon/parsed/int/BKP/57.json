@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
-  "abilityName": "Garbotoxin",
+  "abilityEffect": {
+    "en": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
+    "fr": "Si une carte Outil Pokémon est attachée à ce Pokémon, chacun des Pokémon en jeu, dans la main de chaque joueur et dans la pile de défausse de chaque joueur, n'a pas de talent (à part Miasmotoxine).",
+    "de": "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, hat jedes Pokémon im Spiel, in der Hand beider Spieler und im Ablagestapel beider Spieler keine Fähigkeit (außer Unratoxin).",
+    "it": "Se questo Pokémon ha una carta Oggetto Pokémon assegnata, le abilità dei Pokémon in gioco, in mano ai giocatori o nelle loro pile degli scarti non hanno più effetto (a eccezione di Garbotossina).",
+    "es": "Si este Pokémon tiene 1 carta de Herramienta Pokémon unida a él, los Pokémon en juego, en la mano de cada jugador y en la pila de descartes de cada jugador no tienen ninguna habilidad (excepto Garbotoxina)."
+  },
+  "abilityName": {
+    "en": "Garbotoxin",
+    "fr": "Miasmotoxine",
+    "de": "Unratoxin",
+    "it": "Garbotossina",
+    "es": "Garbotoxina"
+  },
   "attacks": [
     {
       "cost": [

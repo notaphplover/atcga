@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is Confused, you may search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.",
-  "abilityName": "Upside-Down Evolution",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is Confused, you may search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est Confus, vous pouvez chercher dans votre deck une carte Évolution de ce Pokémon et la placer sur ce Pokémon. (Cela équivaut à faire évoluer ce Pokémon.) Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, wenn dieses Pokémon verwirrt ist, dein Deck nach 1 Karte durchsuchen, zu der sich dieses Pokémon entwickelt, und sie auf dieses Pokémon legen (dies zählt als Entwicklung dieses Pokémon). Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è confuso, puoi cercare nel tuo mazzo una carta che si evolve da questo Pokémon e mettergliela sopra (quest'azione vale come evoluzione del Pokémon). Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está Confundido, puedes buscar en tu baraja 1 carta que evolucione de este Pokémon y ponerla sobre este Pokémon. (Esto equivale a hacer evolucionar a este Pokémon). Baraja las cartas de tu baraja después."
+  },
+  "abilityName": {
+    "en": "Upside-Down Evolution",
+    "fr": "Évolution Tête en Bas",
+    "de": "Umgedrehte Entwicklung",
+    "it": "Evoluzione Sottosopra",
+    "es": "Evolución Bocabajo"
+  },
   "attacks": [
     {
       "cost": [

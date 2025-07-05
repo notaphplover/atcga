@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn, when you put Unown from your hand onto your Bench, remove all Special Conditions from your Active Pokémon.",
-  "abilityName": "CURE",
+  "abilityEffect": {
+    "en": "Once during your turn, when you put Unown from your hand onto your Bench, remove all Special Conditions from your Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour, lorsque vous placez Zarbi de votre main sur votre Banc, retirez tous les États Spéciaux à votre Pokémon Actif.",
+    "de": "Einmal während deines Zuges kannst du, wenn du Icognito von deiner Hand auf deine Bank legst, alle Speziellen Zustände von deinem Aktiven Pokémon entfernen.",
+    "it": "Una sola volta durante il tuo turno, quando metti Unown dalla tua mano nella tua Panchina, rimuovi tutte le Condizioni Speciali dal tuo Pokémon Attivo."
+  },
+  "abilityName": {
+    "en": "CURE",
+    "fr": "GUÉRISON",
+    "de": "CURE",
+    "it": "CURA"
+  },
   "attacks": [
     {
       "cost": [

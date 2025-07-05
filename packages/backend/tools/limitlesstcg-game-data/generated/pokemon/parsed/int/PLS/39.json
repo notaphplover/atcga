@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, the Attacking Pokémon is now Confused and Poisoned.",
-  "abilityName": "Spiteful Spirit",
+  "abilityEffect": {
+    "en": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, the Attacking Pokémon is now Confused and Poisoned.",
+    "fr": "Si ce Pokémon est votre Pokémon Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, le Pokémon Attaquant est maintenant Confus et Empoisonné.",
+    "de": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch Schaden eines gegnerischen Angriffs kampfunfähig wird, ist das Angreifende Pokémon jetzt verwirrt und vergiftet.",
+    "it": "Se questo Pokémon è il tuo Pokémon attivo e viene messo K.O. dai danni inflitti da un attacco del tuo avversario, il Pokémon attaccante viene confuso e avvelenato.",
+    "es": "Si este Pokémon es tu Pokémon Activo y queda Fuera de Combate por el daño de un ataque de tu rival, el Pokémon Atacante pasa a estar Confundido y Envenenado."
+  },
+  "abilityName": {
+    "en": "Spiteful Spirit",
+    "fr": "Esprit Malveillant",
+    "de": "Tückischer Geist",
+    "it": "Sferza",
+    "es": "Espíritu Malvado"
+  },
   "attacks": [
     {
       "cost": [

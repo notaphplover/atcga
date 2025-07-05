@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if any Pokémon were Knocked Out during your opponent's last turn, you may draw 2 cards. You can't use more than 1 Minus Charge Poké-Power each turn. This power can't be used if Minun is affected by a Special Condition.",
-  "abilityName": "Minus Charge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if any Pokémon were Knocked Out during your opponent's last turn, you may draw 2 cards. You can't use more than 1 Minus Charge Poké-Power each turn. This power can't be used if Minun is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Minus Charge"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "This Pokémon gets +20 HP for each [F] Energy attached to it.",
-  "abilityName": "Craftsmanship",
+  "abilityEffect": {
+    "en": "This Pokémon gets +20 HP for each [F] Energy attached to it.",
+    "fr": "Chaque Énergie [F] attachée à ce Pokémon lui ajoute 20 PV.",
+    "de": "Dieses Pokémon erhält +20 KP für jede an es angelegte [F]-Energie.",
+    "it": "Questo Pokémon ha 20 PV in più per ogni Energia [F] assegnatagli.",
+    "es": "Este Pokémon obtiene 20 PV más por cada Energía [F] unida a él."
+  },
+  "abilityName": {
+    "en": "Craftsmanship",
+    "fr": "Maître d'Œuvre",
+    "de": "Handwerkskunst",
+    "it": "Maestria",
+    "es": "Maestro de Obras"
+  },
   "attacks": [
     {
       "cost": [

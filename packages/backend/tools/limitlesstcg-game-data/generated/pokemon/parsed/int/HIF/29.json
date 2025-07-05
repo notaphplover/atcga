@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn, if this Pokémon is discarded with the effect of Jessie & James, you may have your opponent discard a card from their hand. (They discard that card after the effect of Jessie & James.)",
-  "abilityName": "Surrender Now",
+  "abilityEffect": {
+    "en": "Once during your turn, if this Pokémon is discarded with the effect of Jessie & James, you may have your opponent discard a card from their hand. (They discard that card after the effect of Jessie & James.)",
+    "fr": "Une seule fois pendant votre tour, si ce Pokémon est défaussé du fait de l'effet de la carte Jessie et James, vous pouvez demander à votre adversaire de défausser une carte de sa main. (Cette carte est défaussée après l'effet de Jessie et James.)",
+    "de": "Einmal während deines Zuges, wenn dieses Pokémon durch den Effekt von Jessie & James auf deinen Ablagestapel gelegt wird, kannst du deinen Gegner dazu veranlassen, 1 Karte aus seiner Hand auf seinen Ablagestapel zu legen. (Er legt jene Karte nach dem Effekt von Jessie & James auf seinen Ablagestapel.)",
+    "it": "Una sola volta durante il tuo turno, se questo Pokémon viene scartato per effetto della carta Jessie e James, puoi far scartare al tuo avversario una carta che ha in mano. Scarterà tale carta dopo l'effetto di Jessie e James."
+  },
+  "abilityName": {
+    "en": "Surrender Now",
+    "fr": "Rendez-Vous Tous",
+    "de": "Gib lieber auf",
+    "it": "Arrendetevi Subito"
+  },
   "attacks": [
     {
       "cost": [

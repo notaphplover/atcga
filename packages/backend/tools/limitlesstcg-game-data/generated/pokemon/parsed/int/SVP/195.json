@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "The Weakness of each of your opponent's [N] Pokémon in play is now [P]. (Apply Weakness as ×2.)",
-  "abilityName": "Fairy Zone",
+  "abilityEffect": {
+    "en": "The Weakness of each of your opponent's [N] Pokémon in play is now [P]. (Apply Weakness as ×2.)",
+    "de": "Die Schwäche jedes [N]-Pokémon deines Gegners im Spiel ist jetzt [P]. (Verrechne Schwäche als ×2.)",
+    "it": "La debolezza di ciascuno dei Pokémon [N] in gioco del tuo avversario diventa [P]. La debolezza è ×2.",
+    "pt": "A Fraqueza de cada um dos Pokémon [N] do seu oponente em jogo agora é [P]. (Aplique Fraqueza de ×2.)",
+    "es": "La Debilidad de cada uno de los Pokémon [N] en juego de tu rival pasa a ser [P]. (Aplica una Debilidad de × 2)."
+  },
+  "abilityName": {
+    "en": "Fairy Zone",
+    "de": "Feenzone",
+    "it": "Area Folletto",
+    "pt": "Zona de Fadas",
+    "es": "Zona Feérica"
+  },
   "attacks": [
     {
       "cost": [

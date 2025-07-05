@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card that evolves from Mysterious Fossil and put it onto your Bench. Shuffle your deck afterward. Treat that card as a Basic Pokémon. This power can't be used if Omanyte is Asleep, Confused, or Paralyzed (or if your Bench is full).",
-  "abilityName": "Revive Fossil",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card that evolves from Mysterious Fossil and put it onto your Bench. Shuffle your deck afterward. Treat that card as a Basic Pokémon. This power can't be used if Omanyte is Asleep, Confused, or Paralyzed (or if your Bench is full)."
+  },
+  "abilityName": {
+    "en": "Revive Fossil"
+  },
   "attacks": [
     {
       "cost": [

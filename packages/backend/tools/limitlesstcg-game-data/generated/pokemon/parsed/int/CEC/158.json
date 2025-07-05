@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a Pokémon from your hand. If you do, heal 60 damage from this Pokémon.",
-  "abilityName": "Violent Appetite",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a Pokémon from your hand. If you do, heal 60 damage from this Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser un Pokémon de votre main. Dans ce cas, soignez 60 dégâts à ce Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Pokémon aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, heile 60 Schadenspunkte bei diesem Pokémon.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare un Pokémon che hai in mano. Se lo fai, cura questo Pokémon da 60 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 Pokémon de tu mano. Si lo haces, cura 60 puntos de daño a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Violent Appetite",
+    "fr": "Appétit Insatiable",
+    "de": "Ungestümer Appetit",
+    "it": "Appetito Violento",
+    "es": "Apetito Violento"
+  },
   "attacks": [
     {
       "cost": [

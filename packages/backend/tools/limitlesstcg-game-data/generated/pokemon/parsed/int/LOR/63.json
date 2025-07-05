@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "All of your Pokémon take 30 less damage from attacks from your opponent's [N] Pokémon (after applying Weakness and Resistance). You can't apply more than 1 Spirit Charm Ability at a time.",
-  "abilityName": "Spirit Charm",
+  "abilityEffect": {
+    "en": "All of your Pokémon take 30 less damage from attacks from your opponent's [N] Pokémon (after applying Weakness and Resistance). You can't apply more than 1 Spirit Charm Ability at a time.",
+    "fr": "Tous vos Pokémon subissent 30 dégâts de moins provenant des attaques des Pokémon [N] de votre adversaire (après application de la Faiblesse et de la Résistance). Vous ne pouvez utiliser qu'un talent Esprit Charmant à la fois.",
+    "de": "Allen deinen Pokémon werden durch Attacken von [N]-Pokémon deines Gegners 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden). Du kannst immer nur jeweils 1 Fähigkeit Zauberamulett einsetzen.",
+    "it": "I tuoi Pokémon subiscono 30 danni in meno dagli attacchi dei Pokémon [N] del tuo avversario, dopo aver applicato debolezza e resistenza. Non puoi applicare più di un'abilità Spirito Incantevole alla volta.",
+    "pt": "Todos os seus Pokémon recebem 30 pontos de dano a menos de ataques dos Pokémon [N] do seu oponente (depois de aplicar Fraqueza e Resistência). Você não pode usar mais de 1 Habilidade Pingente Espectral por vez.",
+    "es": "Los ataques de los Pokémon [N] de tu rival hacen 30 puntos de daño menos a todos tus Pokémon (después de aplicar Debilidad y Resistencia). No puedes aplicar más de 1 habilidad Encanto Espiritual a la vez."
+  },
+  "abilityName": {
+    "en": "Spirit Charm",
+    "fr": "Esprit Charmant",
+    "de": "Zauberamulett",
+    "it": "Spirito Incantevole",
+    "pt": "Pingente Espectral",
+    "es": "Encanto Espiritual"
+  },
   "attacks": [
     {
       "cost": [

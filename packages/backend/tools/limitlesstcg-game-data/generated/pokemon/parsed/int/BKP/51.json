@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may leave both Active Pokémon Asleep.",
-  "abilityName": "Goodnight, Babies",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may leave both Active Pokémon Asleep.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez laisser les deux Pokémon Actifs Endormis.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du beide Aktiven Pokémon schlafen lassen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lasciare entrambi i Pokémon attivi addormentati.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes dejar a ambos Pokémon Activos Dormidos."
+  },
+  "abilityName": {
+    "en": "Goodnight, Babies",
+    "fr": "Bonne Nuit Mes Petits",
+    "de": "Schlaf, Kindlein, schlaf!",
+    "it": "Notte, ragazzi",
+    "es": "Buenas Noches, Chicos"
+  },
   "attacks": [
     {
       "cost": [

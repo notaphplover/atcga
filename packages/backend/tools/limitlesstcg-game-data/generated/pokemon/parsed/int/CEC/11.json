@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your opponent's Pokémon that are affected by Special Conditions can't retreat.",
-  "abilityName": "Swaying Strangle",
+  "abilityEffect": {
+    "en": "Your opponent's Pokémon that are affected by Special Conditions can't retreat.",
+    "fr": "Les Pokémon de votre adversaire qui sont affectés pas un État Spécial ne peuvent pas battre en retraite.",
+    "de": "Die Pokémon deines Gegners, die von Speziellen Zuständen betroffen sind, können sich nicht zurückziehen.",
+    "it": "I Pokémon del tuo avversario influenzati da condizioni speciali non possono ritirarsi.",
+    "es": "Los Pokémon de tu rival que estén afectados por Condiciones Especiales no pueden retirarse."
+  },
+  "abilityName": {
+    "en": "Swaying Strangle",
+    "fr": "Balancement Enserrant",
+    "de": "Wiegender Würger",
+    "it": "Stretta Ondulante",
+    "es": "Estrangulación Oscilante"
+  },
   "attacks": [
     {
       "cost": [

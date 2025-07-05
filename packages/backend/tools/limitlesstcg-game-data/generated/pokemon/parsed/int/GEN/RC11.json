@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as this Pokémon is your Active Pokémon, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for [P] Pokémon).",
-  "abilityName": "Bide Barricade",
+  "abilityEffect": {
+    "en": "As long as this Pokémon is your Active Pokémon, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for [P] Pokémon).",
+    "fr": "Tant que ce Pokémon est votre Pokémon Actif, chacun des Pokémon en jeu, dans la main de chaque joueur et dans la pile de défausse de chaque joueur, n'a pas de talent (à part les Pokémon [P]).",
+    "de": "Solang dieses Pokémon dein Aktives Pokémon ist, hat jedes Pokémon im Spiel, in der Hand beider Spieler oder im Ablagestapel beider Spieler keine Fähigkeit (außer [P]-Pokémon).",
+    "it": "Fintanto che questo Pokémon è il tuo Pokémon attivo, le abilità dei Pokémon in gioco, in mano ai giocatori o nelle loro pile degli scarti non hanno più effetto (a eccezione dei Pokémon [P]).",
+    "es": "Mientras este Pokémon sea tu Pokémon Activo, los Pokémon en juego, en la mano de cada jugador y en la pila de descartes de cada jugador no tienen ninguna habilidad (excepto los Pokémon [P])."
+  },
+  "abilityName": {
+    "en": "Bide Barricade",
+    "fr": "Épreuve d'Endurance",
+    "de": "Sperrzeit",
+    "it": "Muro di Pazienza",
+    "es": "Barricada Paciencia"
+  },
   "attacks": [
     {
       "cost": [

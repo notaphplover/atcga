@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If you have exactly 4 cards in your hand, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
-  "abilityName": "Sonic Vision",
+  "abilityEffect": {
+    "en": "If you have exactly 4 cards in your hand, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
+    "fr": "Si vous avez exactement 4 cartes dans votre main, ignorez toutes les Énergies dans le coût d'attaque de chacune des attaques de ce Pokémon.",
+    "de": "Ignoriere alle Energien in den Angriffskosten jeder Attacke dieses Pokémon, wenn du genau 4 Karten auf der Hand hast.",
+    "it": "Se hai esattamente quattro carte in mano, ignora tutte le Energie necessarie per usare ciascuno degli attacchi di questo Pokémon.",
+    "es": "Si tienes exactamente 4 cartas en tu mano, ignora todas las Energías en el coste de los ataques de este Pokémon."
+  },
+  "abilityName": {
+    "en": "Sonic Vision",
+    "fr": "Vision Sonique",
+    "de": "Schallsicht",
+    "it": "Visione Sonica",
+    "es": "Visión Sónica"
+  },
   "attacks": [
     {
       "cost": [

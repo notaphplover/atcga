@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your Pokémon that has any [L] Energy attached to it has no Retreat Cost.",
-  "abilityName": "Thunderclap Zone",
+  "abilityEffect": {
+    "en": "Each of your Pokémon that has any [L] Energy attached to it has no Retreat Cost.",
+    "fr": "Aucun de vos Pokémon auxquels de l'Énergie [L] est attachée n'a de Coût de Retraite.",
+    "de": "Jedes deiner Pokémon, an das mindestens 1 [L]-Energie angelegt ist, hat keine Rückzugskosten.",
+    "it": "I tuoi Pokémon in gioco che hanno delle Energie [L] assegnate non hanno costo di ritirata.",
+    "es": "Cada uno de tus Pokémon que tenga alguna Energía [L] unida a él no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Thunderclap Zone",
+    "fr": "Zone Vif Éclair",
+    "de": "Blitzsturmzone",
+    "it": "Zona Fulmirapida",
+    "es": "Zona Fulgor"
+  },
   "attacks": [
     {
       "cost": [

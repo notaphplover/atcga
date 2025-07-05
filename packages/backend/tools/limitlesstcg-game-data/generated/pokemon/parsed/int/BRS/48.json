@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card.",
-  "abilityName": "Fleet-Footed",
+  "abilityEffect": {
+    "en": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card.",
+    "fr": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez piocher une carte.",
+    "de": "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du 1 Karte ziehen.",
+    "it": "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi pescare una carta.",
+    "pt": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá comprar 1 carta.",
+    "es": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+  },
+  "abilityName": {
+    "en": "Fleet-Footed",
+    "fr": "Pas Agiles",
+    "de": "Leichtfüßig",
+    "it": "Corsalesta",
+    "pt": "Ligeirinho",
+    "es": "Celeridad"
+  },
   "attacks": [
     {
       "cost": [

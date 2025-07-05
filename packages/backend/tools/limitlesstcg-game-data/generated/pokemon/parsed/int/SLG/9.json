@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may move a [G] Energy from 1 of your other Pokémon to this Pokémon.",
-  "abilityName": "Energy Reload",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may move a [G] Energy from 1 of your other Pokémon to this Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez déplacer une Énergie [G] de l'un de vos Pokémon vers ce Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 [G]-Energie von 1 deiner anderen Pokémon auf dieses Pokémon verschieben.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi spostare un'Energia [G] da uno dei tuoi altri Pokémon a questo Pokémon.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes mover 1 Energía [G] de 1 de tus otros Pokémon a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Energy Reload",
+    "fr": "Recharge d'Énergie",
+    "de": "Energie nachladen",
+    "it": "Ricarica Energetica",
+    "es": "Recarga de Energía"
+  },
   "attacks": [
     {
       "cost": [

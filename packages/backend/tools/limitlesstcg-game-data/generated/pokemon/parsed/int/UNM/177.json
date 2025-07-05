@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may draw a card.",
-  "abilityName": "Hearing",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may draw a card.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est votre Pokémon Actif, vous pouvez piocher une carte.",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn dieses Pokémon dein Aktives Pokémon ist, kannst du 1 Karte ziehen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è il tuo Pokémon attivo, puoi pescare una carta.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon es tu Pokémon Activo, puedes robar 1 carta."
+  },
+  "abilityName": {
+    "en": "Hearing",
+    "fr": "Audition",
+    "de": "Lauschen",
+    "it": "Ascolto",
+    "es": "Escucha"
+  },
   "attacks": [
     {
       "cost": [

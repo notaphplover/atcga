@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each Basic Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities.",
-  "abilityName": "Power of Alchemy",
+  "abilityEffect": {
+    "en": "Each Basic Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities.",
+    "fr": "Aucun Pokémon de base en jeu, dans la main de chaque joueur et dans leur pile de défausse, n'a de talent.",
+    "de": "Jedes Basis-Pokémon im Spiel, auf der Hand jedes Spielers und im Ablagestapel jedes Spielers hat keine Fähigkeiten.",
+    "it": "Le abilità dei Pokémon Base in gioco, in mano ai giocatori o nelle loro pile degli scarti non hanno effetto.",
+    "es": "Los Pokémon Básicos en juego, en la mano de cada jugador y en la pila de descartes de cada jugador no tienen ninguna habilidad."
+  },
+  "abilityName": {
+    "en": "Power of Alchemy",
+    "fr": "Osmose",
+    "de": "Chemiekraft",
+    "it": "Forza Chimica",
+    "es": "Reacción Química"
+  },
   "attacks": [
     {
       "cost": [

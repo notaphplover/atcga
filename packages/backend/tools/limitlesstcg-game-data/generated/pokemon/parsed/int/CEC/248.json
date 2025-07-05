@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard an Energy from your opponent's Active Pokémon. If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, you may discard an Energy from your opponent's Active Pokémon.",
-  "abilityName": "Arf Arf Bark",
+  "abilityEffect": {
+    "en": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard an Energy from your opponent's Active Pokémon. If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, you may discard an Energy from your opponent's Active Pokémon.",
+    "fr": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon pendant votre tour, vous pouvez défausser une Énergie du Pokémon Actif de votre adversaire. Si ce Pokémon est votre Pokémon Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, vous pouvez défausser une Énergie du Pokémon Actif de votre adversaire.",
+    "de": "Wenn du dieses Pokémon während deines Zuges aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel legen. Wenn dieses Pokémon dein Aktives Pokémon ist und durch Schaden einer Attacke deines Gegners kampfunfähig wird, kannst du 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel legen.",
+    "it": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi scartare un'Energia assegnata al Pokémon attivo del tuo avversario. Se questo Pokémon è il tuo Pokémon attivo e viene messo KO dai danni inflitti da un attacco dell'avversario, puoi scartare un'Energia assegnata al Pokémon attivo del tuo avversario.",
+    "es": "Cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes descartar 1 Energía del Pokémon Activo de tu rival. Si este Pokémon es tu Pokémon Activo y queda Fuera de Combate por el daño de un ataque de tu rival, puedes descartar 1 Energía del Pokémon Activo de tu rival."
+  },
+  "abilityName": {
+    "en": "Arf Arf Bark",
+    "fr": "Ouaf Ouaf",
+    "de": "Wuff-wuff-Bellen",
+    "it": "Fare Bau Bau",
+    "es": "Ladrido Guau Guau"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as Pichu is Asleep, prevent all damage done to Pichu by attacks.",
-  "abilityName": "Sweet Sleeping Face",
+  "abilityEffect": {
+    "en": "As long as Pichu is Asleep, prevent all damage done to Pichu by attacks.",
+    "fr": "Tant que Pichu reste Endormi, prévenez tous les dégâts qui peuvent lui être infligés par des attaques.",
+    "de": "Solange Pichu schläft, verhindere allen Schaden, der Pichu durch Angriffe zugefügt wird.",
+    "it": "Fintanto che Pichu è Addormentato, previeni tutto il danno inflitto a Pichu dagli attacchi.",
+    "es": "Mientras Pichu esté Dormido, previene de todo el daño hecho a Pichu por ataques."
+  },
+  "abilityName": {
+    "en": "Sweet Sleeping Face",
+    "fr": "Joli visage endormi",
+    "de": "Süßes Schlafgesicht",
+    "it": "Musetto Dormiglione",
+    "es": "Cara de dulces sueños"
+  },
   "attacks": [
     {
       "cost": [],

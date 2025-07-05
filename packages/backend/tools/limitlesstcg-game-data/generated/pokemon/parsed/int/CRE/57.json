@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
-  "abilityName": "Last Gift",
+  "abilityEffect": {
+    "en": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+    "fr": "Si ce Pokémon est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, cherchez dans votre deck jusqu'à 2 cartes, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+    "de": "Wenn dieses Pokémon durch Schaden einer Attacke der Pokémon deines Gegners kampfunfähig wird, durchsuche dein Deck nach bis zu 2 Karten und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+    "it": "Se questo Pokémon viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, cerca nel tuo mazzo fino a due carte e aggiungile a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
+    "pt": "Se este Pokémon for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, procure por até 2 cartas no seu baralho e coloque-as na sua mão. Em seguida, embaralhe o seu baralho.",
+    "es": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, busca en tu baraja hasta 2 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+  },
+  "abilityName": {
+    "en": "Last Gift",
+    "fr": "Dernier Geste",
+    "de": "Letztes Geschenk",
+    "it": "Ultimo Dono",
+    "pt": "Favor Final",
+    "es": "Último Regalo"
+  },
   "attacks": [
     {
       "cost": [

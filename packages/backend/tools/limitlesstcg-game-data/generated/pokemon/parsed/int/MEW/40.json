@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has any Special Energy attached, it gets +100 HP.",
-  "abilityName": "Expanding Body",
+  "abilityEffect": {
+    "en": "If this Pokémon has any Special Energy attached, it gets +100 HP.",
+    "fr": "Si au moins une Énergie spéciale est attachée à ce Pokémon, il reçoit +100 PV.",
+    "de": "Wenn an dieses Pokémon mindestens 1 Spezial-Energie angelegt ist, erhält es +100 KP.",
+    "it": "Se questo Pokémon ha delle Energie speciali assegnate, ha 100 PS in più.",
+    "pt": "Se este Pokémon tiver alguma Energia Especial ligada a ele, receberá 100 PS a mais.",
+    "es": "Si este Pokémon tiene alguna Energía Especial unida, obtiene 100 PS más."
+  },
+  "abilityName": {
+    "en": "Expanding Body",
+    "fr": "Corps en Expansion",
+    "de": "Expandierender Körper",
+    "it": "Gonfiacorpo",
+    "pt": "Corpo em Expansão",
+    "es": "Cuerpo Expansivo"
+  },
   "attacks": [
     {
       "cost": [

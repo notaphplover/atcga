@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "At any time between turns, heal 20 damage from this Pokémon.",
-  "abilityName": "Rain Dish",
+  "abilityEffect": {
+    "en": "At any time between turns, heal 20 damage from this Pokémon.",
+    "fr": "N'importe quand entre chaque tour, soignez 20 dégâts à ce Pokémon.",
+    "de": "Heile zu einem beliebigen Zeitpunkt zwischen den Zügen 20 Schadenspunkte bei diesem Pokémon.",
+    "it": "Tra un turno e l'altro, in qualsiasi momento, cura questo Pokémon da 20 danni.",
+    "es": "En cualquier momento entre turnos, cura 20 puntos de daño a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Rain Dish",
+    "fr": "Cuvette",
+    "de": "Regengenuss",
+    "it": "Copripioggia",
+    "es": "Cura Lluvia"
+  },
   "attacks": [
     {
       "cost": [

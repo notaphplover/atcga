@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by your opponent's attacks if that damage is exactly 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240, or 260.",
-  "abilityName": "Magic Evens",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by your opponent's attacks if that damage is exactly 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240, or 260.",
+    "fr": "Évitez tous les dégâts infligés à ce Pokémon par les attaques de votre adversaire si le montant des dégâts est égal à 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240 ou 260.",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon deines Gegners zugefügt wird, wenn jener Schaden genau 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240 oder 260 Schadenspunkte beträgt.",
+    "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi del tuo avversario se i danni sono esattamente 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240 o 260.",
+    "es": "Evita todo el daño infligido a este Pokémon por ataques de tu rival si ese daño es exactamente 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240 o 260."
+  },
+  "abilityName": {
+    "en": "Magic Evens",
+    "fr": "Pair Magique",
+    "de": "Grade Magie",
+    "it": "Pari Magici",
+    "es": "Pares Mágicos"
+  },
   "attacks": [
     {
       "cost": [

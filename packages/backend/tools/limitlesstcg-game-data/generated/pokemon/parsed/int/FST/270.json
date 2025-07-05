@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Prevent all effects of attacks from your opponent's Pokémon done to all of your Pokémon that have Energy attached. (Existing effects are not removed. Damage is not an effect.)",
-  "abilityName": "Solar Revelation",
+  "abilityEffect": {
+    "en": "Prevent all effects of attacks from your opponent's Pokémon done to all of your Pokémon that have Energy attached. (Existing effects are not removed. Damage is not an effect.)",
+    "fr": "Évitez tous les effets d'attaques infligés par les Pokémon de votre adversaire à tous vos Pokémon auxquels de l'Énergie est attachée. (Les effets déjà en action ne sont pas retirés. Les dégâts ne sont pas un effet.)",
+    "de": "Verhindere alle Effekte von Attacken der Pokémon deines Gegners, die allen deinen Pokémon zugefügt werden, an die Energie angelegt ist. (Bestehende Effekte werden nicht entfernt. Schaden ist kein Effekt.)",
+    "it": "Previeni tutti gli effetti degli attacchi dei Pokémon del tuo avversario inflitti ai tuoi Pokémon che hanno Energie assegnate. Gli effetti esistenti non vengono rimossi. I danni non sono un effetto.",
+    "pt": "Previna todos os efeitos de ataques dos Pokémon do seu oponente causados a todos os seus Pokémon que tenham Energia ligada a eles (efeitos existentes não são removidos e dano não é um efeito).",
+    "es": "Evita todos los efectos de los ataques de los Pokémon de tu rival infligidos a cada uno de tus Pokémon que tenga alguna Energía unida a él. (No se eliminan los efectos ya existentes. El daño no es un efecto)."
+  },
+  "abilityName": {
+    "en": "Solar Revelation",
+    "fr": "Révélation Solaire",
+    "de": "Solarschild",
+    "it": "Rivelasole",
+    "pt": "Revelação Solar",
+    "es": "Revelación Solar"
+  },
   "attacks": [
     {
       "cost": [

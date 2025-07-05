@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Pokémon-GX that have any damage counters on them (both yours and your opponent's) have no Abilities.",
-  "abilityName": "Shadow Box",
+  "abilityEffect": {
+    "en": "Pokémon-GX that have any damage counters on them (both yours and your opponent's) have no Abilities.",
+    "fr": "Les Pokémon-GX qui ont des marqueurs de dégâts (les vôtres et ceux de votre adversaire) n'ont pas de talent.",
+    "de": "Pokémon-GX (deine und die deines Gegners), auf denen mindestens 1 Schadensmarke liegt, haben keine Fähigkeiten.",
+    "it": "Le abilità dei Pokémon-GX che hanno dei segnalini danno, sia tuoi che del tuo avversario, non hanno effetto.",
+    "es": "Los Pokémon-GX que tengan algún contador de daño sobre ellos (tanto tuyos como de tu rival) no tienen ninguna habilidad."
+  },
+  "abilityName": {
+    "en": "Shadow Box",
+    "fr": "Boîte Obscure",
+    "de": "Schattenkiste",
+    "it": "Scatola Oscura",
+    "es": "Caja Sombría"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If Ursaring has any damage counters on it, each of Ursaring's attacks does 60 more damage (before applying Weakness and Resistance).",
-  "abilityName": "Berserk",
+  "abilityEffect": {
+    "en": "If Ursaring has any damage counters on it, each of Ursaring's attacks does 60 more damage (before applying Weakness and Resistance).",
+    "fr": "Si Ursaring a des marqueurs de dégât, chacune de ses attaques inflige 60 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+    "de": "Wenn auf Ursaring mindestens 1 Schadensmarke liegt, fügen sämtliche Angriffe Ursarings 60 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+    "it": "Se Ursaring ha dei segnalini danno su di sé, ciascuno degli attacchi di Ursaring infligge altri 60 danni (prima di applicare Debolezza e Resistenza).",
+    "es": "Si Ursaring tiene cualquier contador de daño, cada ataque de Ursaring hace 60 puntos de daño adicionales (antes de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Berserk",
+    "fr": "Fou-furieux",
+    "de": "Berserker",
+    "it": "Berserk",
+    "es": "Loco"
+  },
   "attacks": [
     {
       "cost": [

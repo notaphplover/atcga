@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent's Active Pokémon is a Basic Pokémon, this Pokémon can't attack.",
-  "abilityName": "Unobservant",
+  "abilityEffect": {
+    "en": "If your opponent's Active Pokémon is a Basic Pokémon, this Pokémon can't attack.",
+    "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, ce Pokémon ne peut pas attaquer.",
+    "de": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, kann dieses Pokémon nicht angreifen.",
+    "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Base, questo Pokémon non può attaccare.",
+    "es": "Si el Pokémon Activo de tu rival es un Pokémon Básico, este Pokémon no puede atacar."
+  },
+  "abilityName": {
+    "en": "Unobservant",
+    "fr": "Distrait",
+    "de": "Unachtsam",
+    "it": "Sbadataggine",
+    "es": "Descuido"
+  },
   "attacks": [
     {
       "cost": [

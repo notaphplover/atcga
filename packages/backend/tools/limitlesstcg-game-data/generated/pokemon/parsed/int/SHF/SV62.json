@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
-  "abilityName": "Infiltrator",
+  "abilityEffect": {
+    "en": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+    "fr": "Si des dégâts sont infligés à ce Pokémon par des attaques, lancez une pièce. Si c'est face, évitez ces dégâts.",
+    "de": "Wenn diesem Pokémon durch Attacken Schaden zugefügt wird, wirf 1 Münze. Verhindere jenen Schaden bei Kopf.",
+    "it": "Se questo Pokémon subisce danni da qualsiasi attacco, lancia una moneta. Se esce testa, previeni quei danni.",
+    "pt": "Se qualquer dano for causado a este Pokémon por ataques, jogue 1 moeda. Se sair cara, previna aquele dano.",
+    "es": "Si se inflige cualquier daño a este Pokémon por ataques, lanza 1 moneda. Si sale cara, evita ese daño."
+  },
+  "abilityName": {
+    "en": "Infiltrator",
+    "fr": "Infiltration",
+    "de": "Schwebedurch",
+    "it": "Intrapasso",
+    "pt": "Infiltrado",
+    "es": "Allanamiento"
+  },
   "attacks": [
     {
       "cost": [

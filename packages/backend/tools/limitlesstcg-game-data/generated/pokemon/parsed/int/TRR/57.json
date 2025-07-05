@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "If Hoppip would be Knocked Out by an opponent's attack, flip a coin. If heads, Hoppip is not Knocked Out and its remaining HP becomes 10 instead.",
-  "abilityName": "Buffer",
+  "abilityEffect": {
+    "en": "If Hoppip would be Knocked Out by an opponent's attack, flip a coin. If heads, Hoppip is not Knocked Out and its remaining HP becomes 10 instead."
+  },
+  "abilityName": {
+    "en": "Buffer"
+  },
   "attacks": [
     {
       "cost": [

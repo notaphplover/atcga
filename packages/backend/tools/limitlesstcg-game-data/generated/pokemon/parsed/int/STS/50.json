@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.",
-  "abilityName": "Sinister Selection",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez regarder les 2 cartes du dessus de votre deck et ajouter l'une d'entre elles à votre main. Défaussez l'autre carte.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du die obersten 2 Karten deines Decks anschauen und 1 davon auf deine Hand nehmen. Lege die andere Karte auf deinen Ablagestapel.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi guardare le prime due carte del tuo mazzo e aggiungerne una alle carte che hai in mano. Scarta l'altra carta.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes mirar las 2 primeras cartas de tu baraja y poner 1 de ellas en tu mano. Descarta la otra carta."
+  },
+  "abilityName": {
+    "en": "Sinister Selection",
+    "fr": "Sélection Sinistre",
+    "de": "Unheimliche Auswahl",
+    "it": "Sceltasinistra",
+    "es": "Selección Siniestra"
+  },
   "attacks": [
     {
       "cost": [

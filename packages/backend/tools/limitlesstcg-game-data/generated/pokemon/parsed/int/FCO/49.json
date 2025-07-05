@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Basic Energy attached to your Basic Pokémon can't be discarded by effects of your opponent's attacks, Abilities, or Trainer cards.",
-  "abilityName": "Energy Keeper",
+  "abilityEffect": {
+    "en": "Basic Energy attached to your Basic Pokémon can't be discarded by effects of your opponent's attacks, Abilities, or Trainer cards.",
+    "fr": "Les Énergies de base attachées à vos Pokémon de base ne peuvent pas être défaussées par les effets des attaques, des talents ou des cartes Dresseur de votre adversaire.",
+    "de": "An Basis-Pokémon angelegte Basis-Energien können durch die Effekte von gegnerischen Angriffen, Fähigkeiten oder Trainerkarten nicht auf deinen Ablagestapel befördert werden.",
+    "it": "Le Energie base assegnate ai tuoi Pokémon Base non possono essere scartate per effetto degli attacchi, delle abilità o delle carte Allenatore del tuo avversario.",
+    "es": "Las Energías Básicas unidas a tus Pokémon Básicos no pueden descartarse por efectos de los ataques, habilidades o cartas de Entrenador de tu rival."
+  },
+  "abilityName": {
+    "en": "Energy Keeper",
+    "fr": "Gardien d'Énergie",
+    "de": "Energiehüter",
+    "it": "Conservenergia",
+    "es": "Conservación de Energía"
+  },
   "attacks": [
     {
       "cost": [

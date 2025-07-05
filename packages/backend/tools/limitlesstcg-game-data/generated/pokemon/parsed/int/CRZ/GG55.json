@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "During your turn, if your opponent has exactly 1 Prize card remaining, you may choose 1 of your opponent's Benched Pokémon. They discard that Pokémon and all attached cards. (You can't use more than 1 VSTAR Power in a game.)",
-  "abilityName": "Star Guardian",
+  "abilityEffect": {
+    "en": "During your turn, if your opponent has exactly 1 Prize card remaining, you may choose 1 of your opponent's Benched Pokémon. They discard that Pokémon and all attached cards. (You can't use more than 1 VSTAR Power in a game.)",
+    "fr": "Pendant votre tour, s'il reste exactement une carte Récompense à votre adversaire, vous pouvez choisir l’un des Pokémon de Banc de votre adversaire. Ce dernier défausse ce Pokémon-là ainsi que toutes les cartes attachées. (Vous ne pouvez utiliser qu’une seule Puissance VSTAR par partie.)",
+    "de": "Während deines Zuges, wenn dein Gegner genau 1 verbleibende Preiskarte hat, kannst du 1 Pokémon auf der Bank deines Gegners wählen. Dein Gegner legt jenes Pokémon und alle angelegten Karten auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+    "it": "Durante il tuo turno, se il tuo avversario ha esattamente una carta Premio rimanente, puoi scegliere uno dei suoi Pokémon in panchina. Il tuo avversario scarta quel Pokémon e tutte le carte a esso assegnate. Non puoi usare più di un Potere V ASTRO a partita.",
+    "pt": "Durante o seu turno, se o seu oponente tiver exatamente 1 carta de Prêmio restante, você poderá escolher 1 dos Pokémon no Banco do seu oponente. Seu oponente descarta aquele Pokémon e todas as cartas ligadas a ele (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+    "es": "Durante tu turno, si a tu rival le queda exactamente 1 carta de Premio, puedes elegir 1 de sus Pokémon en Banca. Tu rival descarta ese Pokémon y todas las cartas unidas a él. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+  },
+  "abilityName": {
+    "en": "Star Guardian",
+    "fr": "Garde Star",
+    "de": "Sternenwächter",
+    "it": "Astro Guardiano",
+    "pt": "Guardião Astral",
+    "es": "Astro Guardián"
+  },
   "attacks": [
     {
       "cost": [

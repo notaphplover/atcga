@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your [G] Pokémon in play, except any Kricketune, get +40 HP. You can't apply more than 1 Swelling Tune Ability at a time.",
-  "abilityName": "Swelling Tune",
+  "abilityEffect": {
+    "en": "Your [G] Pokémon in play, except any Kricketune, get +40 HP. You can't apply more than 1 Swelling Tune Ability at a time.",
+    "fr": "Vos Pokémon [G] en jeu, à l'exception de Mélokrik, reçoivent +40 PV. Vous ne pouvez utiliser qu'un talent Mélodie Montante à la fois.",
+    "de": "Deine [G]-Pokémon im Spiel, außer Zirpeise, erhalten +40 KP. Du kannst immer nur jeweils 1 Fähigkeit Schwellender Gesang einsetzen.",
+    "it": "I tuoi Pokémon [G] in gioco, a eccezione di qualsiasi Kricketune, hanno 40 PS in più. Non puoi applicare più di un'abilità Melodia Amplificata alla volta.",
+    "pt": "Seus Pokémon [G] em jogo, exceto por quaisquer Kricketune, recebem 40 PS a mais. Você não pode usar mais de 1 Habilidade Melodia Crescente por vez.",
+    "es": "Tus Pokémon [G] en juego, excepto los Kricketune, obtienen 40 PS más. No puedes aplicar más de 1 habilidad Melodía Rebosante a la vez."
+  },
+  "abilityName": {
+    "en": "Swelling Tune",
+    "fr": "Mélodie Montante",
+    "de": "Schwellender Gesang",
+    "it": "Melodia Amplificata",
+    "pt": "Melodia Crescente",
+    "es": "Melodía Rebosante"
+  },
   "attacks": [
     {
       "cost": [

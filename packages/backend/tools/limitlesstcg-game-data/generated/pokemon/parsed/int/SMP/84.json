@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
-  "abilityName": "Trade",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte de votre main. Dans ce cas, piochez 2 cartes.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Karte aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, ziehe 2 Karten.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una delle carte che hai in mano. Se lo fai, pesca due carte.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 carta de tu mano. Si lo haces, roba 2 cartas."
+  },
+  "abilityName": {
+    "en": "Trade",
+    "fr": "Troc",
+    "de": "Ersetzen",
+    "it": "Contraccambio",
+    "es": "Intercambiar"
+  },
   "attacks": [
     {
       "cost": [

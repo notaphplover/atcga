@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "During your turn, you may use this Ability. Discard any number of cards from your hand. Then, draw that many cards. (You can't use more than 1 VSTAR Power in a game.)",
-  "abilityName": "Conversion Star",
+  "abilityEffect": {
+    "en": "During your turn, you may use this Ability. Discard any number of cards from your hand. Then, draw that many cards. (You can't use more than 1 VSTAR Power in a game.)",
+    "fr": "Pendant votre tour, vous pouvez utiliser ce talent. Défaussez de votre main autant de cartes que vous le voulez. Ensuite, piochez ce même nombre de cartes. (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+    "de": "Während deines Zuges kannst du diese Fähigkeit einsetzen. Lege beliebig viele Karten aus deiner Hand auf den Ablagestapel. Ziehe anschließend genauso viele Karten. (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+    "it": "Durante il tuo turno, puoi usare questa abilità. Scarta un numero qualsiasi di carte che hai in mano. Poi pesca lo stesso numero di carte. Non puoi usare più di un Potere V ASTRO a partita.",
+    "pt": "Durante o seu turno, você poderá usar esta Habilidade. Descarte qualquer número de cartas da sua mão. Em seguida, compre aquele mesmo número de cartas (você não pode usar mais de 1 Poder V-ASTRO por partida).",
+    "es": "Durante tu turno, puedes usar esta habilidad. Descarta cualquier cantidad de cartas de tu mano. Después, roba esa misma cantidad de cartas. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+  },
+  "abilityName": {
+    "en": "Conversion Star",
+    "fr": "Conversion Star",
+    "de": "Wandlungsstern",
+    "it": "Astro Conversione",
+    "pt": "Conversão Astral",
+    "es": "Astro Conversión"
+  },
   "attacks": [
     {
       "cost": [

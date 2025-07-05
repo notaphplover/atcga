@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "All Energy attached to this Pokémon are [R] Energy instead of their usual type.",
-  "abilityName": "Energy Burn",
+  "abilityEffect": {
+    "en": "All Energy attached to this Pokémon are [R] Energy instead of their usual type.",
+    "fr": "Toutes les Énergies attachées à ce Pokémon sont des Énergies [R] au lieu de leur type habituel.",
+    "de": "Alle Energien, die an dieses Pokémon angelegt sind, liefern [R]-Energie anstelle ihres normalen Typs.",
+    "it": "Tutte le Energie assegnate a questo Pokémon sono Energie [R] anziché del loro solito tipo.",
+    "es": "Todas las Energías unidas a este Pokémon son Energías [R] en vez de su tipo habitual."
+  },
+  "abilityName": {
+    "en": "Energy Burn",
+    "fr": "Dépense d'Énergie",
+    "de": "Energie verbrennen",
+    "it": "Bruciaenergia",
+    "es": "Quema Energía"
+  },
   "attacks": [
     {
       "cost": [

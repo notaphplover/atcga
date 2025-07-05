@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your opponent's Pokémon that have 40 HP or less remaining can't attack.",
-  "abilityName": "Frigid Room",
+  "abilityEffect": {
+    "en": "Your opponent's Pokémon that have 40 HP or less remaining can't attack.",
+    "fr": "Les Pokémon de votre adversaire auxquels il reste 40 PV ou moins ne peuvent pas attaquer.",
+    "de": "Die Pokémon deines Gegners, die 40 oder weniger verbleibende KP haben, können nicht angreifen.",
+    "it": "I Pokémon del tuo avversario che hanno 40 PS o meno rimanenti non possono attaccare.",
+    "pt": "Os Pokémon do seu oponente que têm PS restante de 40 ou menos não podem atacar.",
+    "es": "Los Pokémon de tu rival a los que les queden 40 PS o menos no pueden atacar."
+  },
+  "abilityName": {
+    "en": "Frigid Room",
+    "fr": "Zone Glaciale",
+    "de": "Kühler Raum",
+    "it": "Glaciozona",
+    "pt": "Aposento Gélido",
+    "es": "Zona Glacial"
+  },
   "attacks": [
     {
       "cost": [

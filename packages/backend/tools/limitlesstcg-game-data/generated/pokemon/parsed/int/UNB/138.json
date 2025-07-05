@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may heal 30 damage from each of your [Y] Pokémon.",
-  "abilityName": "Fairy Feast",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may heal 30 damage from each of your [Y] Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez soigner 30 dégâts à chacun de vos Pokémon [Y].",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 30 Schadenspunkte bei jedem deiner [Y]-Pokémon heilen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi curare ciascuno dei tuoi Pokémon [Y] da 30 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes curar 30 puntos de daño a cada uno de tus Pokémon [Y]."
+  },
+  "abilityName": {
+    "en": "Fairy Feast",
+    "fr": "Festin Féérique",
+    "de": "Feenschmaus",
+    "it": "Festa Fatata",
+    "es": "Festín Feérico"
+  },
   "attacks": [
     {
       "cost": [

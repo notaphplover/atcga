@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a card. Shuffle your deck, then put that card on top of it.",
-  "abilityName": "Diving Search",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a card. Shuffle your deck, then put that card on top of it.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher une carte dans votre deck. Mélangez votre deck, puis mettez la carte sur le dessus de votre deck.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff), kannst du dein Deck nach 1 Karte durchsuchen. Mische dein Deck und lege diese Karte anschließend auf dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare una carta nel tuo mazzo. Poi rimischia le carte del tuo mazzo e metti quella carta in cima al mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu baraja 1 carta. Baraja las cartas de tu baraja, y luego pon esa carta en la parte superior de tu baraja."
+  },
+  "abilityName": {
+    "en": "Diving Search",
+    "fr": "Recherche Plongeante",
+    "de": "Unterwassersuche",
+    "it": "Tufforicerca",
+    "es": "Búsqueda Buceo"
+  },
   "attacks": [
     {
       "cost": [

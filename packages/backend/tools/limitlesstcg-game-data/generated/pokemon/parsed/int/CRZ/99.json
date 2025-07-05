@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "During your turn, you may use this Ability. During your opponent's next turn, all of your Pokémon take 100 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). (This includes Pokémon that come into play during this turn or during your opponent's next turn.) (You can't use more than 1 VSTAR Power in a game.)",
-  "abilityName": "Shield Star",
+  "abilityEffect": {
+    "en": "During your turn, you may use this Ability. During your opponent's next turn, all of your Pokémon take 100 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). (This includes Pokémon that come into play during this turn or during your opponent's next turn.) (You can't use more than 1 VSTAR Power in a game.)",
+    "fr": "Pendant votre tour, vous pouvez utiliser ce talent. Pendant le prochain tour de votre adversaire, tous vos Pokémon subissent 100 dégâts de moins provenant des attaques des Pokémon de votre adversaire (après application de la Faiblesse et de la Résistance). (Cela comprend les Pokémon qui sont mis en jeu pendant ce tour ou pendant le tour de votre adversaire.) (Vous ne pouvez utiliser qu'une seule Puissance VSTAR par partie.)",
+    "de": "Während deines Zuges kannst du diese Fähigkeit einsetzen. Während des nächsten Zuges deines Gegners werden allen deinen Pokémon durch Attacken von Pokémon deines Gegners 100 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden). (Dies schließt Pokémon ein, die während dieses Zuges oder des nächsten Zuges deines Gegners ins Spiel gebracht werden.) (Du kannst pro Spiel nur 1 VSTAR-Power einsetzen.)",
+    "it": "Durante il tuo turno, puoi usare questa abilità. Durante il prossimo turno del tuo avversario, i tuoi Pokémon subiscono 100 danni in meno dagli attacchi dei Pokémon del tuo avversario, dopo aver applicato debolezza e resistenza. Questo include i Pokémon entrati in gioco durante questo turno o durante il prossimo turno del tuo avversario. Non puoi usare più di un Potere V ASTRO a partita.",
+    "pt": "Durante o seu turno, você poderá usar esta Habilidade. Durante o próximo turno do seu oponente, todos os seus Pokémon receberão 100 pontos de dano a menos de ataques dos Pokémon do seu oponente (depois de aplicar Fraqueza e Resistência). (Isto inclui Pokémon que entrarem em jogo durante este turno ou durante o próximo turno do seu oponente.) (Você não pode usar mais de 1 Poder V-ASTRO por partida.)",
+    "es": "Durante tu turno, puedes usar esta habilidad. Durante el próximo turno de tu rival, los ataques de los Pokémon de tu rival hacen 100 puntos de daño menos a todos tus Pokémon (después de aplicar Debilidad y Resistencia). (Esto incluye Pokémon que entran en juego durante este turno o durante el próximo turno de tu rival). (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+  },
+  "abilityName": {
+    "en": "Shield Star",
+    "fr": "Star Bouclier",
+    "de": "Schildstern",
+    "it": "Astro Scudo",
+    "pt": "Escudo Astral",
+    "es": "Astro Escudo"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a Pokémon that has the Nuzzle attack, reveal it, and put it into your hand. Then, shuffle your deck.",
-  "abilityName": "Nuzzly Gathering",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a Pokémon that has the Nuzzle attack, reveal it, and put it into your hand. Then, shuffle your deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher dans votre deck un Pokémon avec l'attaque Frotte-Frimousse, le montrer, puis l'ajouter à votre main. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du dein Deck nach 1 Pokémon, das die Attacke Wangenrubbler hat, durchsuchen, es deinem Gegner zeigen und auf deine Hand nehmen. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare nel tuo mazzo un Pokémon che abbia l'attacco Elettrococcola, mostrarlo e aggiungerlo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu baraja 1 Pokémon que tenga el ataque Moflete Estático, enseñarlo y ponerlo en tu mano. Después, baraja las cartas de tu baraja."
+  },
+  "abilityName": {
+    "en": "Nuzzly Gathering",
+    "fr": "Rassemblement Frimousse",
+    "de": "Wangenrubbler-Treffen",
+    "it": "Raduno Coccoloso",
+    "es": "Reunión Estática"
+  },
   "attacks": [
     {
       "cost": [

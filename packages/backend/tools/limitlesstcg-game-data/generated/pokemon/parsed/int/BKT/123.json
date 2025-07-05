@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may switch a basic Energy card attached to your Active Pokémon with a different type of basic Energy card from your discard pile.",
-  "abilityName": "Second Coat",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may switch a basic Energy card attached to your Active Pokémon with a different type of basic Energy card from your discard pile.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez échanger une carte Énergie de base attachée à votre Pokémon Actif avec un différent type de carte Énergie de base de votre pile de défausse.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 an dein Aktives Pokémon angelegte Basis-Energiekarte mit einer vom Typ her unterschiedlichen Basis-Energiekarte aus deinem Ablagestapel austauschen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scambiare una carta Energia base assegnata al tuo Pokémon attivo con una carta Energia base di tipo diverso dalla tua pila degli scarti.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes cambiar 1 carta de Energía Básica unida a tu Pokémon Activo por 1 carta de Energía Básica de tipo diferente de tu pila de descartes."
+  },
+  "abilityName": {
+    "en": "Second Coat",
+    "fr": "Seconde Couche",
+    "de": "Zweiter Anstrich",
+    "it": "Secondamano",
+    "es": "Segunda Mano"
+  },
   "attacks": [
     {
       "cost": [

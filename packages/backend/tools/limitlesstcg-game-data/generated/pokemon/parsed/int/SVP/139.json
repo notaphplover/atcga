@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has any [P] Energy attached, it has no Retreat Cost.",
-  "abilityName": "Mist Float",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [P] Energy attached, it has no Retreat Cost.",
+    "fr": "Si au moins une Énergie [P] est attachée à ce Pokémon, il n'a pas de Coût de Retraite.",
+    "de": "Wenn an dieses Pokémon mindestens 1 [P]-Energie angelegt ist, hat es keine Rückzugskosten.",
+    "it": "Se questo Pokémon ha delle Energie [P] assegnate, non ha costo di ritirata.",
+    "pt": "Se este Pokémon tiver alguma Energia [P] ligada a ele, não terá custo de Recuo.",
+    "es": "Si este Pokémon tiene alguna Energía [P] unida, no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Mist Float",
+    "fr": "Flottaison Brume",
+    "de": "Gischtgleiter",
+    "it": "Salvagente Nebbioso",
+    "pt": "Névoa Flutuante",
+    "es": "Flotación Nebulosa"
+  },
   "attacks": [
     {
       "cost": [

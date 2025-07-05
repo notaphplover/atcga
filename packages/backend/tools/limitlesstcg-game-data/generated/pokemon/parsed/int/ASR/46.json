@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
-  "abilityName": "Concealed Cards",
+  "abilityEffect": {
+    "en": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+    "fr": "Vous devez défausser une carte Énergie de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher 2 cartes.",
+    "de": "Du musst 1 Energiekarte aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 2 Karten ziehen.",
+    "it": "Devi scartare una carta Energia che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare due carte.",
+    "pt": "Você deve descartar 1 carta de Energia da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 2 cartas.",
+    "es": "Debes descartar 1 carta de Energía de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 2 cartas."
+  },
+  "abilityName": {
+    "en": "Concealed Cards",
+    "fr": "Cartes Dissimulées",
+    "de": "Verborgene Karten",
+    "it": "Carte Nascoste",
+    "pt": "Cartas na Manga",
+    "es": "Cartas Ocultas"
+  },
   "attacks": [
     {
       "cost": [

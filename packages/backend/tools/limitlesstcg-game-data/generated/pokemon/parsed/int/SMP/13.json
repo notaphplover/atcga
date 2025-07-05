@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may draw cards until you have 3 cards in your hand.",
-  "abilityName": "Instruct",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may draw cards until you have 3 cards in your hand.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez piocher des cartes jusqu'à ce que vous ayez 3 cartes en main.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du so lange Karten ziehen, bis du 3 Karten auf deiner Hand hast.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi pescare fino ad avere tre carte in mano.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes robar cartas hasta que tengas 3 cartas en tu mano."
+  },
+  "abilityName": {
+    "en": "Instruct",
+    "fr": "Sommation",
+    "de": "Kommando",
+    "it": "Imposizione",
+    "es": "Mandato"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,14 @@
 {
-  "abilityEffect": "Each of your Pokémon that has any [G] Energy attached to it can't be affected by any Special Conditions. (Remove any Special Conditions affecting those Pokémon.)",
-  "abilityName": "Verdant Wind",
+  "abilityEffect": {
+    "en": "Each of your Pokémon that has any [G] Energy attached to it can't be affected by any Special Conditions. (Remove any Special Conditions affecting those Pokémon.)",
+    "fr": "Chacun de vos Pokémon auquel de l'Énergie [G] est attachée ne peut être affecté par aucun État Spécial. (Retirez tous les États Spéciaux affectant les Pokémon concernés.)",
+    "de": "Jedes deiner Pokémon, an das [G]-Energie angelegt ist, kann nicht von Speziellen Zuständen betroffen werden. (Spezielle Zustände, von denen diese Pokémon betroffen sind, verlieren ihre Wirkung.)"
+  },
+  "abilityName": {
+    "en": "Verdant Wind",
+    "fr": "Vent Verdoyant",
+    "de": "Mahdwind"
+  },
   "attacks": [
     {
       "cost": [

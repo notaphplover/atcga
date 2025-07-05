@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon.",
-  "abilityName": "Table Service",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez soigner 30 dégâts à l'un de vos Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 30 Schadenspunkte bei 1 deiner Pokémon heilen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi curare uno dei tuoi Pokémon da 30 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes curar 30 puntos de daño a 1 de tus Pokémon."
+  },
+  "abilityName": {
+    "en": "Table Service",
+    "fr": "Service à Table",
+    "de": "Bedienung",
+    "it": "Servizio al Tavolo",
+    "es": "Servicio de Mesa"
+  },
   "attacks": [
     {
       "cost": [

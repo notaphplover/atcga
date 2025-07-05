@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [R] Energy card from your hand. If you do, put 2 damage counters on 1 of your opponent's Pokémon.",
-  "abilityName": "Flaming Shot",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [R] Energy card from your hand. If you do, put 2 damage counters on 1 of your opponent's Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte Énergie [R] de votre main. Dans ce cas, placez 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 [R]-Energiekarte aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, lege 2 Schadensmarken auf 1 Pokémon deines Gegners.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una carta Energia [R] che hai in mano. Se lo fai, metti due segnalini danno su uno dei Pokémon del tuo avversario.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía [R] de tu mano. Si lo haces, pon 2 contadores de daño en 1 de los Pokémon de tu rival."
+  },
+  "abilityName": {
+    "en": "Flaming Shot",
+    "fr": "Tir Enflammé",
+    "de": "Feuerschuss",
+    "it": "Colpo Fiammeggiante",
+    "es": "Disparo Llameante"
+  },
   "attacks": [
     {
       "cost": [

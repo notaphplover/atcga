@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
-  "abilityName": "Time Recall",
+  "abilityEffect": {
+    "en": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+    "fr": "Chacun de vos Pokémon évolués peut utiliser les attaques de ses pré-évolutions. (Vous avez toujours besoin de l'Énergie nécessaire pour utiliser chaque attaque.)",
+    "de": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+    "it": "I tuoi Pokémon evoluti possono usare gli attacchi dei loro stadi evolutivi precedenti. Devi comunque avere l'Energia necessaria per usare quegli attacchi.",
+    "es": "Cada uno de tus Pokémon evolucionados puede usar cualquier ataque de sus Evoluciones anteriores. (Sigues necesitando la Energía necesaria para usar cada ataque.)"
+  },
+  "abilityName": {
+    "en": "Time Recall",
+    "fr": "Rappel Temporel",
+    "de": "Zeitraffer",
+    "it": "Viaggiotempo",
+    "es": "Retroceso en el Tiempo"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [W] Energy card from your hand. If you do, your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
-  "abilityName": "Jet Geyser",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [W] Energy card from your hand. If you do, your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte Énergie [W] de votre main. Dans ce cas, votre adversaire échange son Pokémon Actif avec l'un de ses Pokémon de Banc.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 [W]-Energiekarte aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, tauscht dein Gegner sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank aus.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una carta Energia [W] dalla tua mano. Se lo fai, il tuo avversario scambia il suo Pokémon attivo con uno dei suoi Pokémon in panchina.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía [W] de tu mano. Si lo haces, tu rival cambia su Pokémon Activo por 1 de sus Pokémon en Banca."
+  },
+  "abilityName": {
+    "en": "Jet Geyser",
+    "fr": "Propulsion Geyser",
+    "de": "Geysirdüse",
+    "it": "Getto Geyser",
+    "es": "Jet Géiser"
+  },
   "attacks": [
     {
       "cost": [

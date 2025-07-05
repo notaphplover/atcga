@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [G] Energy card from your hand. If you do, draw 3 cards.",
-  "abilityName": "Leaf Draw",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [G] Energy card from your hand. If you do, draw 3 cards.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte Énergie [G] de votre main. Dans ce cas, piochez 3 cartes.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 [G]-Energiekarte von deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, ziehe 3 Karten.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una carta Energia [G] che hai in mano. Se lo fai, pesca tre carte.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía [G] de tu mano. Si lo haces, roba 3 cartas."
+  },
+  "abilityName": {
+    "en": "Leaf Draw",
+    "fr": "Pioche Feuille",
+    "de": "Blattzug",
+    "it": "Pescafoglia",
+    "es": "Robo Hoja"
+  },
   "attacks": [
     {
       "cost": [

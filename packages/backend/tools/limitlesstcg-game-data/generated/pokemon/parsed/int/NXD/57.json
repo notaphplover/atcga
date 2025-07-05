@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each basic [P] Energy attached to your [P] Pokémon provides [P][P] Energy. You can't apply more than 1 [P] Mirage Ability at a time.",
-  "abilityName": "Psychic Mirage",
+  "abilityEffect": {
+    "en": "Each basic [P] Energy attached to your [P] Pokémon provides [P][P] Energy. You can't apply more than 1 [P] Mirage Ability at a time.",
+    "fr": "Chaque Énergie [P] de base attachée à vos Pokémon [P] fournit de l'Énergie [P][P]. Vous ne pouvez pas appliquer plus d'une capacité spéciale Mirage Psychique à la fois.",
+    "de": "Jede an deine [P]-Pokémon angelegte [P]-Basis-Energie liefert [P][P]-Energie. Du kannst nicht mehr als jeweils 1 Fähigkeit Psycho-Trugbild anwenden.",
+    "it": "Ogni Energia base [P] assegnata ai tuoi Pokémon [P] fornisce [P][P]. Può essere applicata solo un'abilità Psicomiraggio alla volta.",
+    "es": "Cada Energía [P] Básica unida a tus Pokémon [P] proporciona Energía [P][P]. No puedes aplicar más de 1 Habilidad Espejismo Psíquico a la vez."
+  },
+  "abilityName": {
+    "en": "Psychic Mirage",
+    "fr": "Mirage Psychique",
+    "de": "Psycho-Trugbild",
+    "it": "Psicomiraggio",
+    "es": "Espejismo Psíquico"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Mew can use the attacks of all of the Pokémon in the Lost Zone (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
-  "abilityName": "Lost Link",
+  "abilityEffect": {
+    "en": "Mew can use the attacks of all of the Pokémon in the Lost Zone (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
+    "fr": "Mew peut utiliser les attaques de tous les Pokémon dans la Zone Perdue (les vôtres et ceux de votre adversaire). (Vous devrez néanmoins avoir suffisamment d'Énergie pour utiliser chaque attaque.)",
+    "de": "Mew kann die Angriffe aller Pokémon im Nirgendwo (deiner und der deines Gegners) einsetzen. (Die für den jeweiligen Angriff notwendige Energie ist trotzdem erforderlich.)",
+    "it": "Mew può utilizzare gli attacchi di tutti i Pokémon presenti nell'Area Perduta (sia i tuoi che quelli del tuo avversario). (Devi comunque avere l'Energia necessaria per usare ogni attacco)."
+  },
+  "abilityName": {
+    "en": "Lost Link",
+    "fr": "Lien perdu",
+    "de": "Nirgendwo-Verbindung",
+    "it": "Legame Perduto"
+  },
   "attacks": [
     {
       "cost": [

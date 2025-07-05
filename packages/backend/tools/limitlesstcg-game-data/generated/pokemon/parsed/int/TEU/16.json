@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard 2 [R] Energy cards from your hand. If you do, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
-  "abilityName": "Nine Temptations",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard 2 [R] Energy cards from your hand. If you do, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser 2 cartes Énergie [R] de votre main. Dans ce cas, échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 2 [R]-Energiekarten aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, tausche 1 Pokémon auf der Bank deines Gegners gegen sein Aktives Pokémon aus.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare due carte Energia [R] che hai in mano. Se lo fai, scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 2 cartas de Energía [R] de tu mano. Si lo haces, cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+  },
+  "abilityName": {
+    "en": "Nine Temptations",
+    "fr": "Neuf Tentations",
+    "de": "Verlockende Schweife",
+    "it": "Lusinghe Volpine",
+    "es": "Nueve Tentaciones"
+  },
   "attacks": [
     {
       "cost": [

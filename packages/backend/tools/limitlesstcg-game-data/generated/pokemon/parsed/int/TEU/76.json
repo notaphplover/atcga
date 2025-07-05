@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as you have fewer Pokémon in play than your opponent, they can't play any Item cards from their hand.",
-  "abilityName": "Fossil Bind",
+  "abilityEffect": {
+    "en": "As long as you have fewer Pokémon in play than your opponent, they can't play any Item cards from their hand.",
+    "fr": "Tant que vous avez moins de Pokémon en jeu que votre adversaire, celui-ci ne peut pas jouer de cartes Objet de sa main.",
+    "de": "Solang du weniger Pokémon im Spiel hast als dein Gegner, kann dein Gegner keine Itemkarten aus seiner Hand spielen.",
+    "it": "Fintanto che hai meno Pokémon in gioco del tuo avversario, questi non può giocare le carte Strumento che ha in mano.",
+    "es": "Mientras tengas menos Pokémon en juego que tu rival, este no puede jugar ninguna carta de Objeto de su mano."
+  },
+  "abilityName": {
+    "en": "Fossil Bind",
+    "fr": "Lien Fossile",
+    "de": "Fossiler Griff",
+    "it": "Legame Fossile",
+    "es": "Atadura Fósil"
+  },
   "attacks": [
     {
       "cost": [

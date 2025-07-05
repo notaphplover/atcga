@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your opponent's Active Pokémon's Retreat Cost is [C] more.",
-  "abilityName": "Tangling Hair",
+  "abilityEffect": {
+    "en": "Your opponent's Active Pokémon's Retreat Cost is [C] more.",
+    "fr": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de [C].",
+    "de": "Die Rückzugskosten des Aktiven Pokémon deines Gegners erhöhen sich um [C].",
+    "it": "Il costo di ritirata del Pokémon attivo del tuo avversario aumenta di [C].",
+    "es": "El Coste de Retirada del Pokémon Activo de tu rival es de [C] más."
+  },
+  "abilityName": {
+    "en": "Tangling Hair",
+    "fr": "Mèche Rebelle",
+    "de": "Lockenkopf",
+    "it": "Boccolidoro",
+    "es": "Rizos Rebeldes"
+  },
   "attacks": [
     {
       "cost": [

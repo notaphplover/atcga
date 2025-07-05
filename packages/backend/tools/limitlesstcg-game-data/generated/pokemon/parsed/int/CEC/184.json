@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may draw cards until you have 5 cards in your hand.",
-  "abilityName": "Disk Reload",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may draw cards until you have 5 cards in your hand.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez piocher des cartes jusqu'à ce que vous ayez 5 cartes en main.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du so lang Karten ziehen, bis du 5 Karten auf deiner Hand hast.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi pescare fino ad avere cinque carte in mano.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes robar cartas hasta que tengas 5 cartas en tu mano."
+  },
+  "abilityName": {
+    "en": "Disk Reload",
+    "fr": "Rechargement du Disque",
+    "de": "Disc nachladen",
+    "it": "Ricarica Disco",
+    "es": "Recarga de Disco"
+  },
   "attacks": [
     {
       "cost": [

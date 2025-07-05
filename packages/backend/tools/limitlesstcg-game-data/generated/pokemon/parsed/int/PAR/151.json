@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon is Confused and is damaged by an attack, flip a coin. If heads, prevent that damage.",
-  "abilityName": "Tangled Feet",
+  "abilityEffect": {
+    "en": "If this Pokémon is Confused and is damaged by an attack, flip a coin. If heads, prevent that damage.",
+    "fr": "Si ce Pokémon est Confus et qu'il subit les dégâts d'une attaque, lancez une pièce. Si c'est face, évitez ces dégâts.",
+    "de": "Wenn dieses Pokémon verwirrt ist und durch eine Attacke Schaden erhält, wirf 1 Münze. Verhindere bei Kopf jenen Schaden.",
+    "it": "Se questo Pokémon è confuso e viene danneggiato da un attacco, lancia una moneta. Se esce testa, previeni quei danni.",
+    "pt": "Se este Pokémon estiver Confuso e for danificado por um ataque, jogue uma moeda. Se sair cara, previna aquele dano.",
+    "es": "Si este Pokémon está Confundido y resulta dañado por un ataque, lanza 1 moneda. Si sale cara, se evita ese daño."
+  },
+  "abilityName": {
+    "en": "Tangled Feet",
+    "fr": "Pieds Confus",
+    "de": "Taumelschritt",
+    "it": "Intricopiedi",
+    "pt": "Pés Confusos",
+    "es": "Tumbos"
+  },
   "attacks": [
     {
       "cost": [

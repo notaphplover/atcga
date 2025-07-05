@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, attach a [R] Energy card from your discard pile to 1 of your [R] Pokémon. This power can't be used if Typhlosion is Asleep, Confused, or Paralyzed.",
-  "abilityName": "Fire Recharge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, attach a [R] Energy card from your discard pile to 1 of your [R] Pokémon. This power can't be used if Typhlosion is Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Fire Recharge"
+  },
   "attacks": [
     {
       "cost": [

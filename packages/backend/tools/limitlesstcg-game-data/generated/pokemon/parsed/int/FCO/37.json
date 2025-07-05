@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all effects of attacks done to you or your hand by your opponent's Pokémon. Remove any existing effects.",
-  "abilityName": "Bodyguard",
+  "abilityEffect": {
+    "en": "Prevent all effects of attacks done to you or your hand by your opponent's Pokémon. Remove any existing effects.",
+    "fr": "Évitez tous les effets d'attaques infligés à vous-même ou à votre main par les Pokémon de votre adversaire. Retirez tous les effets déjà en action.",
+    "de": "Verhindere alle Effekte von Angriffen, die dir oder deinen Handkarten durch gegnerische Pokémon zugefügt werden. Alle bestehenden Effekte verlieren ihre Wirkung.",
+    "it": "Previeni tutti gli effetti degli attacchi inflitti a te o alla tua mano dai Pokémon del tuo avversario. Rimuovi gli effetti esistenti.",
+    "es": "Evita todos los efectos de los ataques infligidos a ti o tu mano por Pokémon de tu rival. Elimina los efectos ya existentes."
+  },
+  "abilityName": {
+    "en": "Bodyguard",
+    "fr": "Garde du Corps",
+    "de": "Leibwache",
+    "it": "Guardia del Corpo",
+    "es": "Guardaespaldas"
+  },
   "attacks": [
     {
       "cost": [

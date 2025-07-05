@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may attach a [G] Energy card from your hand to 1 of your Pokémon. If you do, heal 30 damage from that Pokémon.",
-  "abilityName": "Nurture and Heal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may attach a [G] Energy card from your hand to 1 of your Pokémon. If you do, heal 30 damage from that Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez attacher une carte Énergie [G] de votre main à l'un de vos Pokémon. Dans ce cas, soignez 30 dégâts au Pokémon choisi.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 [G]-Energiekarte von deiner Hand an 1 deiner Pokémon anlegen. Wenn du das machst, heile 30 Schadenspunkte bei diesem Pokémon.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi assegnare una carta Energia [G] che hai in mano a uno dei tuoi Pokémon. Se lo fai, cura quel Pokémon da 30 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes unir 1 carta de Energía [G] de tu mano a 1 de tus Pokémon. Si lo haces, cura 30 puntos de daño a ese Pokémon."
+  },
+  "abilityName": {
+    "en": "Nurture and Heal",
+    "fr": "Nourri-Guéri",
+    "de": "Pflegen und Heilen",
+    "it": "Nutrire e Curare",
+    "es": "Nutrir y Sanar"
+  },
   "attacks": [
     {
       "cost": [

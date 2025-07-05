@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your [G] Pokémon in play gets +20 HP.",
-  "abilityName": "Flower Veil",
+  "abilityEffect": {
+    "en": "Each of your [G] Pokémon in play gets +20 HP.",
+    "fr": "Ajoute 20 PV à chacun de vos Pokémon [G] en jeu.",
+    "de": "Jedes deiner [G]-Pokémon im Spiel erhält +20 KP.",
+    "it": "Tutti i tuoi Pokémon [G] in gioco hanno 20 PS in più.",
+    "es": "Cada uno de tus Pokémon [G] en juego obtiene 20 PS más."
+  },
+  "abilityName": {
+    "en": "Flower Veil",
+    "fr": "Flora-Voile",
+    "de": "Blütenhülle",
+    "it": "Fiorvelo",
+    "es": "Velo Flor"
+  },
   "attacks": [
     {
       "cost": [

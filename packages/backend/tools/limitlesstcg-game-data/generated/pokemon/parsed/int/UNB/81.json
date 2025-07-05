@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard any Stadium card in play. If you do, discard this Pokémon and all cards attached to it.",
-  "abilityName": "Resetting Hole",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard any Stadium card in play. If you do, discard this Pokémon and all cards attached to it.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est sur votre Banc, vous pouvez défausser toute carte Stade en jeu. Dans ce cas, défaussez ce Pokémon et toutes les cartes qui lui sont attachées.",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn sich dieses Pokémon auf deiner Bank befindet, kannst du 1 beliebige Stadionkarte im Spiel auf den Ablagestapel legen. Wenn du das machst, lege dieses Pokémon und alle an es angelegten Karten auf deinen Ablagestapel.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è nella tua panchina, puoi scartare una carta Stadio in gioco. Se lo fai, scarta questo Pokémon e tutte le carte a esso assegnate.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está en tu Banca, puedes descartar cualquier carta de Estadio en juego. Si lo haces, descarta este Pokémon y todas las cartas unidas a él."
+  },
+  "abilityName": {
+    "en": "Resetting Hole",
+    "fr": "Trou de Réinitialisation",
+    "de": "Schluckloch",
+    "it": "Vuoto Azzerante",
+    "es": "Agujero Reinicio"
+  },
   "attacks": [
     {
       "cost": [

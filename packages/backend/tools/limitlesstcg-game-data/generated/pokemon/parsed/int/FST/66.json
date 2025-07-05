@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your opponent's Single Strike Pokémon's attacks cost [C] more.",
-  "abilityName": "Single Strike Jammer",
+  "abilityEffect": {
+    "en": "Your opponent's Single Strike Pokémon's attacks cost [C] more.",
+    "fr": "Les attaques des Pokémon Poing Final de votre adversaire coûtent [C] de plus.",
+    "de": "Die Kosten der Attacken der Fokussierter-Angriff-Pokémon deines Gegners erhöhen sich um [C].",
+    "it": "Il costo degli attacchi dei Pokémon Colpo Singolo del tuo avversario aumenta di [C].",
+    "pt": "Os ataques dos Pokémon Golpe Decisivo do seu oponente custam [C] a mais.",
+    "es": "Los ataques de los Pokémon Golpe Brusco de tu rival cuestan [C] más."
+  },
+  "abilityName": {
+    "en": "Single Strike Jammer",
+    "fr": "Bloqueur de Poing Final",
+    "de": "Fokussierter-Angriff-Störer",
+    "it": "Blocco Colpo Singolo",
+    "pt": "Bloqueador Golpe Decisivo",
+    "es": "Inhibidor de Golpe Brusco"
+  },
   "attacks": [
     {
       "cost": [

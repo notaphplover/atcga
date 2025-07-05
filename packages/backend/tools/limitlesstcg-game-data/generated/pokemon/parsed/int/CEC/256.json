@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).",
-  "abilityName": "Dusty Defense",
+  "abilityEffect": {
+    "en": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+    "fr": "Tant que ce Pokémon est votre Pokémon Actif, tous vos Pokémon subissent 30 dégâts de moins provenant des attaques de votre adversaire (après application de la Faiblesse et de la Résistance).",
+    "de": "Solang dieses Pokémon dein Aktives Pokémon ist, werden jedem deiner Pokémon durch Attacken deines Gegners 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Fintanto che questo Pokémon è il tuo Pokémon attivo, i tuoi Pokémon subiscono 30 danni in meno dagli attacchi del tuo avversario, dopo aver applicato debolezza e resistenza.",
+    "es": "Mientras este Pokémon sea tu Pokémon Activo, los ataques de tu rival hacen 30 puntos de daño menos a todos tus Pokémon (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Dusty Defense",
+    "fr": "Défense Poussiéreuse",
+    "de": "Staubige Verteidigung",
+    "it": "Difesa Silicea",
+    "es": "Defensa Polvorienta"
+  },
   "attacks": [
     {
       "cost": [

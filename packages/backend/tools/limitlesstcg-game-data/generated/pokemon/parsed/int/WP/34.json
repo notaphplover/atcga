@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged.",
-  "abilityName": "Bolt",
+  "abilityEffect": {
+    "en": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged."
+  },
+  "abilityName": {
+    "en": "Bolt"
+  },
   "attacks": [
     {
       "cost": [

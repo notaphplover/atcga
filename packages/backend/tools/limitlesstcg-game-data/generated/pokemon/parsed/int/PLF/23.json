@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "The Retreat Cost of each of your Team Plasma Pokémon in play is [C][C] less.",
-  "abilityName": "Freeze Zone",
+  "abilityEffect": {
+    "en": "The Retreat Cost of each of your Team Plasma Pokémon in play is [C][C] less.",
+    "fr": "Le coût de Retraite de chacun de vos Pokémon de la Team Plasma en jeu est diminué de [C][C].",
+    "de": "Die Rückzugskosten all deiner Team Plasma-Pokémon im Spiel verringern sich um [C][C].",
+    "it": "Il costo di ritirata dei tuoi Pokémon del Team Plasma in gioco è ridotto di [C][C].",
+    "es": "El Coste de Retirada de cada uno de tus Pokémon del Equipo Plasma en juego es de [C][C] menos."
+  },
+  "abilityName": {
+    "en": "Freeze Zone",
+    "fr": "Zone de Gel",
+    "de": "Frostzone",
+    "it": "Areafredda",
+    "es": "Zona Gélida"
+  },
   "attacks": [
     {
       "cost": [

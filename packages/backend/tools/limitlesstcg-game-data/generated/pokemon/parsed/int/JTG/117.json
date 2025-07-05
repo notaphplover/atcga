@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Attacks used by your Hop's Pokémon do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). The effect of Extra Helpings doesn't stack.",
-  "abilityName": "Extra Helpings",
+  "abilityEffect": {
+    "en": "Attacks used by your Hop's Pokémon do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). The effect of Extra Helpings doesn't stack.",
+    "fr": "Les attaques utilisées par vos Pokémon de Nabil infligent 30 dégâts supplémentaires au Pokémon Actif de votre adversaire (avant application de la Faiblesse et de la Résistance). L'effet de Portions Supplémentaires n'est pas cumulable.",
+    "de": "Die von deinen Hops Pokémon eingesetzten Attacken fügen dem Aktiven Pokémon deines Gegners 30 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden). Der Effekt von Extraportion stapelt sich nicht.",
+    "it": "Gli attacchi usati dai tuoi Pokémon di Hop infliggono 30 danni in più al Pokémon attivo del tuo avversario, prima di aver applicato debolezza e resistenza. L'effetto di Porzioni Aggiuntive non è cumulabile.",
+    "pt": "Os ataques usados pelos seus Pokémon do Lupo causam 30 pontos de dano a mais ao Pokémon Ativo do seu oponente (antes de aplicar Fraqueza e Resistência). O efeito de Boca-livre não acumula.",
+    "es": "Los ataques usados por tus Pokémon de Paul hacen 30 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia). El efecto de Raciones Extras no se acumula."
+  },
+  "abilityName": {
+    "en": "Extra Helpings",
+    "fr": "Portions Supplémentaires",
+    "de": "Extraportion",
+    "it": "Porzioni Aggiuntive",
+    "pt": "Boca-livre",
+    "es": "Raciones Extras"
+  },
   "attacks": [
     {
       "cost": [

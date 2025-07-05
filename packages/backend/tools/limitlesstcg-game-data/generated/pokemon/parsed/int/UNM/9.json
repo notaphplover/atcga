@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your [G] Pokémon take 40 less damage from your opponent's attacks (after applying Weakness and Resistance). You can't apply more than 1 Blanket Weaver Ability at a time.",
-  "abilityName": "Blanket Weaver",
+  "abilityEffect": {
+    "en": "Your [G] Pokémon take 40 less damage from your opponent's attacks (after applying Weakness and Resistance). You can't apply more than 1 Blanket Weaver Ability at a time.",
+    "fr": "Vos Pokémon [G] subissent 40 dégâts de moins provenant des attaques de votre adversaire (après application de la Faiblesse et de la Résistance). Vous ne pouvez pas utiliser plus d'un talent Tisserand de Couvertures à la fois.",
+    "de": "Deinen [G]-Pokémon werden durch Attacken deines Gegners 40 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden). Du kannst immer nur jeweils 1 Fähigkeit Deckenflechter einsetzen.",
+    "it": "I tuoi Pokémon [G] subiscono 40 danni in meno dagli attacchi del tuo avversario, dopo aver applicato debolezza e resistenza. Può essere applicata solo un'abilità Tessimanto alla volta.",
+    "es": "Los ataques de tu rival hacen 40 puntos de daño menos a tus Pokémon [G] (después de aplicar Debilidad y Resistencia). No puedes aplicar más de 1 habilidad Tejemantas a la vez."
+  },
+  "abilityName": {
+    "en": "Blanket Weaver",
+    "fr": "Tisserand de Couvertures",
+    "de": "Deckenflechter",
+    "it": "Tessimanto",
+    "es": "Tejemantas"
+  },
   "attacks": [
     {
       "cost": [

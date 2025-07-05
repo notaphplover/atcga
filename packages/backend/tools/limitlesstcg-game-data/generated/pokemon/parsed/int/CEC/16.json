@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may draw a card.",
-  "abilityName": "Seasonal Blessings",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may draw a card.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez piocher une carte.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Karte ziehen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi pescare una carta.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes robar 1 carta."
+  },
+  "abilityName": {
+    "en": "Seasonal Blessings",
+    "fr": "Vœux de Saison",
+    "de": "Segen der Jahreszeit",
+    "it": "Preghiera Stagionale",
+    "es": "Bendiciones Estacionales"
+  },
   "attacks": [
     {
       "cost": [

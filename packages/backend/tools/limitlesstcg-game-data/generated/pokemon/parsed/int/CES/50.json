@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "When 1 of your Pokémon is Knocked Out by damage from an opponent's attack, you may move a basic Energy card from that Pokémon to this Pokémon.",
-  "abilityName": "Energy Grounding",
+  "abilityEffect": {
+    "en": "When 1 of your Pokémon is Knocked Out by damage from an opponent's attack, you may move a basic Energy card from that Pokémon to this Pokémon.",
+    "fr": "Lorsque l'un de vos Pokémon est mis K.O. par les dégâts d'une attaque de votre adversaire, vous pouvez déplacer une carte Énergie de base du Pokémon mis K.O. vers celui-ci.",
+    "de": "Wenn 1 deiner Pokémon durch den Schaden einer Attacke deines Gegners kampfunfähig wird, kannst du 1 Basis-Energiekarte von jenem Pokémon auf dieses Pokémon verschieben.",
+    "it": "Quando uno dei tuoi Pokémon viene messo KO dai danni inflitti da un attacco del tuo avversario, puoi spostare una carta Energia base da quel Pokémon a questo Pokémon.",
+    "es": "Cuando 1 de tus Pokémon queda Fuera de Combate por el daño de un ataque de tu rival, puedes mover 1 carta de Energía Básica de ese Pokémon a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Energy Grounding",
+    "fr": "Source d'Énergie",
+    "de": "Energieerdung",
+    "it": "Messa a Terra",
+    "es": "Conexión Energía Tierra"
+  },
   "attacks": [
     {
       "cost": [

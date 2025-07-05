@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may have each player draw a card.",
-  "abilityName": "Alluring Light",
+  "abilityEffect": {
+    "en": "Once during your turn, you may have each player draw a card.",
+    "fr": "Une fois pendant votre tour, vous pouvez demander à chaque joueur de piocher une carte.",
+    "de": "Einmal während deines Zuges kannst du jeden Spieler dazu veranlassen, 1 Karte zu ziehen.",
+    "it": "Una sola volta durante il tuo turno, puoi far pescare una carta a ciascun giocatore.",
+    "pt": "Uma vez durante o seu turno, você poderá fazer com que cada jogador compre uma carta.",
+    "es": "Una vez durante tu turno, puedes hacer que cada jugador robe 1 carta."
+  },
+  "abilityName": {
+    "en": "Alluring Light",
+    "fr": "Lumière Envoûtante",
+    "de": "Verlockendes Licht",
+    "it": "Luce Irresistibile",
+    "pt": "Luz Cativante",
+    "es": "Luz Seductora"
+  },
   "attacks": [
     {
       "cost": [

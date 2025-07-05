@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is in your hand, you may reveal it. If you do, look at the top card of your opponent's deck and put this Pokémon in the Lost Zone. If that card is a Supporter card, you may put it in the Lost Zone. If your opponent has no cards in their deck, you can't use this Ability.",
-  "abilityName": "Mountain Pass",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is in your hand, you may reveal it. If you do, look at the top card of your opponent's deck and put this Pokémon in the Lost Zone. If that card is a Supporter card, you may put it in the Lost Zone. If your opponent has no cards in their deck, you can't use this Ability.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon se trouve dans votre main, vous pouvez le montrer. Dans ce cas, regardez la carte du dessus du deck de votre adversaire et placez ce Pokémon dans la Zone Perdue. Si cette carte est une carte Supporter, vous pouvez la placer dans la Zone Perdue. Si le deck de votre adversaire ne contient aucune carte, vous ne pouvez pas utiliser",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn du dieses Pokémon auf deiner Hand hast, kannst du es deinem Gegner zeigen. Wenn du das machst, schau dir die oberste Karte des Decks deines Gegners an und lege dieses Pokémon ins Nirgendwo. Wenn jene Karte eine Unterstützerkarte ist, kannst du sie ins Nirgendwo legen. Wenn dein Gegner keine Karten in seinem Deck hat, kannst du diese Fähigkeit ",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se hai questo Pokémon in mano, puoi mostrarlo. Se lo fai, guarda la prima carta del mazzo del tuo avversario, prendi questo Pokémon e mettilo nell'area perduta. Se quella carta è una carta Aiuto, puoi prenderla e metterla nell'area perduta. Se il tuo avversario non ha carte nel suo mazzo, non puoi usare questa abilità.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está en tu mano, puedes enseñarlo. Si lo haces, mira la primera carta de la baraja de tu rival y pon este Pokémon en la Zona Perdida. Si esa carta es una carta de Partidario, puedes ponerla en la Zona Perdida. Si tu rival no tiene ninguna carta en su baraja, no puedes usar esta habilidad."
+  },
+  "abilityName": {
+    "en": "Mountain Pass",
+    "fr": "Col de Montagne",
+    "de": "Bergpass",
+    "it": "Passo Montano",
+    "es": "Pase Montaña"
+  },
   "attacks": [
     {
       "cost": [

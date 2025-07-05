@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Whenever you attach a [W] Energy card from your hand to this Pokémon during your turn, heal 30 damage from it.",
-  "abilityName": "Cold Absorption",
+  "abilityEffect": {
+    "en": "Whenever you attach a [W] Energy card from your hand to this Pokémon during your turn, heal 30 damage from it.",
+    "fr": "Chaque fois que vous attachez une carte Énergie [W] de votre main à ce Pokémon pendant votre tour, soignez 30 de ses dégâts.",
+    "de": "Jedes Mal, wenn du während deines Zuges 1 [W]-Energiekarte aus deiner Hand an dieses Pokémon anlegst, heile 30 Schadenspunkte bei diesem Pokémon.",
+    "it": "Ogni volta che assegni una carta Energia [W] a questo Pokémon dalla tua mano durante il tuo turno, curalo da 30 danni.",
+    "pt": "Sempre que ligar 1 carta de Energia [W] da sua mão a este Pokémon durante o seu turno, cure 30 pontos de dano dele.",
+    "es": "Cada vez que unas 1 carta de Energía [W] de tu mano a este Pokémon durante tu turno, cúrale 30 puntos de daño."
+  },
+  "abilityName": {
+    "en": "Cold Absorption",
+    "fr": "Absorbe Froid",
+    "de": "Kältebindung",
+    "it": "Assorbifreddo",
+    "pt": "Absorção Fria",
+    "es": "Fría Absorción"
+  },
   "attacks": [
     {
       "cost": [

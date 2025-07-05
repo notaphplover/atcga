@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if you have Unown S, Unown E, and Unown T on your Bench, you may flip a coin. If heads, search your discard pile for an Energy card, show it to your opponent, and put it on top of your deck.",
-  "abilityName": "Set",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if you have Unown S, Unown E, and Unown T on your Bench, you may flip a coin. If heads, search your discard pile for an Energy card, show it to your opponent, and put it on top of your deck."
+  },
+  "abilityName": {
+    "en": "Set"
+  },
   "attacks": [
     {
       "cost": [

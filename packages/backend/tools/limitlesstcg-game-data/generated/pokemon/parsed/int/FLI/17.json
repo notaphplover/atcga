@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may leave your opponent's Active Pokémon Burned.",
-  "abilityName": "Mystical Torch",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may leave your opponent's Active Pokémon Burned.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez laisser le Pokémon Actif de votre adversaire Brûlé.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du das Aktive Pokémon deines Gegners verbrennen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lasciare il Pokémon attivo del tuo avversario bruciato.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes dejar al Pokémon Activo de tu rival Quemado."
+  },
+  "abilityName": {
+    "en": "Mystical Torch",
+    "fr": "Torche Mystique",
+    "de": "Mystische Fackel",
+    "it": "Magitorcia",
+    "es": "Antorcha Embrujada"
+  },
   "attacks": [
     {
       "cost": [

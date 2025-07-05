@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on each of your Benched Pokémon.",
-  "abilityName": "Commotion",
+  "abilityEffect": {
+    "en": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on each of your Benched Pokémon.",
+    "fr": "Si ce Pokémon est votre Pokémon Actif et qu'il subit les dégâts d'une attaque de votre adversaire (même si ce Pokémon est mis K.O.), placez 2 marqueurs de dégâts sur chacun de vos Pokémon de Banc.",
+    "de": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch einen gegnerischen Angriff Schaden erhält (auch wenn dieses Pokémon dadurch kampfunfähig wird), lege 2 Schadensmarken auf jedes Pokémon auf deiner Bank.",
+    "it": "Se questo Pokémon è il tuo Pokémon attivo e viene danneggiato da un attacco del tuo avversario, anche se viene messo KO, metti due segnalini danno su ognuno dei tuoi Pokémon in panchina.",
+    "es": "Si este Pokémon es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 2 contadores de daño en cada uno de tus Pokémon en Banca."
+  },
+  "abilityName": {
+    "en": "Commotion",
+    "fr": "Commotion",
+    "de": "Tumult",
+    "it": "Subbuglio",
+    "es": "Conmoción"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may put 3 damage counters on this Pokémon. If you do, search your deck for up to 3 [D] Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
-  "abilityName": "Scar Charge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may put 3 damage counters on this Pokémon. If you do, search your deck for up to 3 [D] Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez placer 3 marqueurs de dégâts sur ce Pokémon. Dans ce cas, cherchez jusqu'à 3 cartes Énergie [D] dans votre deck et attachez-les à ce Pokémon. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 3 Schadensmarken auf dieses Pokémon legen. Wenn du das machst, durchsuche dein Deck nach bis zu 3 [D]-Energiekarten und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi mettere tre segnalini danno su questo Pokémon. Se lo fai, cerca nel tuo mazzo fino a tre carte Energia [D] e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes poner 3 contadores de daño en este Pokémon. Si lo haces, busca en tu baraja hasta 3 cartas de Energía [D] y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+  },
+  "abilityName": {
+    "en": "Scar Charge",
+    "fr": "Recharge Balafre",
+    "de": "Narbenaufladung",
+    "it": "Sfregiocarica",
+    "es": "Carga Cicatriz"
+  },
   "attacks": [
     {
       "cost": [

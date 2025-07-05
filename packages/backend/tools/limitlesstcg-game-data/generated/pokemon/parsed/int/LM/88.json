@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Mew ex can use the attacks of all Pokémon in play as its own. (You still need the necessary Energy to use each attack.)",
-  "abilityName": "Versatile",
+  "abilityEffect": {
+    "en": "Mew ex can use the attacks of all Pokémon in play as its own. (You still need the necessary Energy to use each attack.)",
+    "fr": "Lorsqu'un Pokémon-ex est mis K.O., votre adversaire récolte 2 Récompenses.",
+    "de": "Wenn Pokémon-ex kampfunfähig wird, nimmt dein Gegner 2 Preise.",
+    "it": "Quando il Pokémon-ex è stato messo K.O., il tuo avversario prende 2 carte Premio.",
+    "pt": "Quando um Pokémon-ex for Nocauteado, o seu oponente pega 2 cards de Prêmio.",
+    "es": "Cuando un Pokémon-ex ha sido noqueado, su oponente toma 2 cartas de Premio."
+  },
+  "abilityName": {
+    "en": "Versatile",
+    "fr": "Polyvalent",
+    "de": "Anpassungsfähigkeit",
+    "it": "Versatile",
+    "pt": "Versátil",
+    "es": "Versátil"
+  },
   "attacks": [
     {
       "cost": [

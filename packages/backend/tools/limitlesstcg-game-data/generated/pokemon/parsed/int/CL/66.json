@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "As long as Phanpy has any Energy attached to it, any damage done to Phanpy by attacks is reduced by 10 (after applying Weakness and Resistance).",
-  "abilityName": "Ultra-thick Skin",
+  "abilityEffect": {
+    "en": "As long as Phanpy has any Energy attached to it, any damage done to Phanpy by attacks is reduced by 10 (after applying Weakness and Resistance).",
+    "fr": "Tant que Phanpy possède au moins une Énergie, les dégâts infligés à Phanpy par des attaques sont réduits de 10 (après application de la Faiblesse et de la Résistance).",
+    "de": "Solange mindestens 1 Energie an Phanpy angelegt ist, wird Schaden, der Phanpy durch Angriffe zugefügt wird, um 10 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Fintanto che Phanpy ha delle Energie assegnate, qualsiasi danno inflitto a Phanpy da attacchi è ridotto di 10 (dopo aver applicato Debolezza e Resistenza)."
+  },
+  "abilityName": {
+    "en": "Ultra-thick Skin",
+    "fr": "Peau ultra-épaisse",
+    "de": "Ultradicke Haut",
+    "it": "Pelle Ultraspessa"
+  },
   "attacks": [
     {
       "cost": [

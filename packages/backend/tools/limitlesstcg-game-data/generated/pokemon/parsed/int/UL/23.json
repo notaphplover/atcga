@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "When you attach a [G] Energy card or [P] Energy card from your hand to Roserade during your turn, you may use this power. If you attach a [G] Energy card, the Defending Pokémon is now Confused. If you attach a [P] Energy card, the Defending Pokémon is now Poisoned. This power can't be used if Roserade is affected by a Special Condition.",
-  "abilityName": "Energy Signal",
+  "abilityEffect": {
+    "en": "When you attach a [G] Energy card or [P] Energy card from your hand to Roserade during your turn, you may use this power. If you attach a [G] Energy card, the Defending Pokémon is now Confused. If you attach a [P] Energy card, the Defending Pokémon is now Poisoned. This power can't be used if Roserade is affected by a Special Condition.",
+    "fr": "Lorsque vous attachez une carte Énergie [G] ou Énergie [P] de votre main à Roserade, vous pouvez utiliser ce pouvoir. Si vous attachez une carte Énergie [G], le Pokémon Défenseur est maintenant Confus. Si vous attachez une carte Énergie [P], le Pokémon Défenseur est maintenant Empoisonné. Ce pouvoir ne peut pas être utilisé si Roserade est affecté par un État Spécial.",
+    "de": "Wenn du in deinem zug 1 [G]-Energiekarte oder 1 [P]-Energiekarte aus deiner Hand an Roserade anlegst, kannst du diese Poké-Power verwenden. Wenn du 1 [G]-Energiekarte anlegst, ist das Verteidigende Pokémon jetzt verwirrt.  Wenn du 1 [P]-Energiekarte anlegst, ist das Verteidigende Pokémon jetzt vergiftet. Diese Poké-Power kann nicht benutzt werden, wenn Roserade von einem Speziellen Zus",
+    "it": "Quando assegni a Roserade una carta Energia [G] o una carta Energia [P] presenti tra le carte che hai in mano durante il tuo turno, puoi usare questo potere. Se assegni una carta Energia [G], il Pokémon Difensore è Confuso. Se assegni una carta Energia [P], il Pokémon Difensore è Avvelenato. Questo potere non può essere usato se Roserade è influenzato da una Condizione Speciale.",
+    "es": "Cuando unas una carta de Energía [G] o una carta de Energía [P] de tu mano a Roserade durante tu turno, puedes usar este poder. Si unes una carta de Energía [G], el Pokémon Defensor pasa a estar Confuso. Si unes una carta de Energía [P], el Pokémon Defensor pasa a estar Envenenado. Este poder no se puede usar si Roserade se ve afectado por una Condición Especial."
+  },
+  "abilityName": {
+    "en": "Energy Signal",
+    "fr": "Signal d'énergie",
+    "de": "Energiesignal",
+    "it": "Segnale Energetico",
+    "es": "Señal de energía"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [R] Energy attached to this Pokémon. If you do, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
-  "abilityName": "Flare Command",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [R] Energy attached to this Pokémon. If you do, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une Énergie [R] attachée à ce Pokémon. Dans ce cas, échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 an dieses Pokémon angelegte [R]-Energie auf deinen Ablagestapel legen. Wenn du das machst, tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare un'Energia [R] assegnata a questo Pokémon. Se lo fai, scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 Energía [R] unida a este Pokémon. Si lo haces, cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+  },
+  "abilityName": {
+    "en": "Flare Command",
+    "fr": "Ordre Flamboyant",
+    "de": "Bengalo-Kontrolle",
+    "it": "Pirocomando",
+    "es": "Orden Destellante"
+  },
   "attacks": [
     {
       "cost": [

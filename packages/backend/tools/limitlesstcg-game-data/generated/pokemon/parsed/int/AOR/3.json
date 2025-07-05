@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each player can't play any Item cards from his or her hand.",
-  "abilityName": "Irritating Pollen",
+  "abilityEffect": {
+    "en": "Each player can't play any Item cards from his or her hand.",
+    "fr": "Aucun joueur ne peut jouer de cartes Objet de sa main.",
+    "de": "Kein Spieler darf Itemkarten von seiner Hand spielen.",
+    "it": "Nessun giocatore può giocare carte Strumento dalla propria mano.",
+    "es": "Los jugadores no pueden jugar ninguna carta de Objeto de su mano."
+  },
+  "abilityName": {
+    "en": "Irritating Pollen",
+    "fr": "Pollen Irritant",
+    "de": "Irritierender Pollen",
+    "it": "Irritapolline",
+    "es": "Polen Irritante"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may draw a card.",
-  "abilityName": "Hurried Gait",
+  "abilityEffect": {
+    "en": "Once during your turn, you may draw a card.",
+    "fr": "Une fois pendant votre tour, vous pouvez piocher une carte.",
+    "de": "Einmal während deines Zuges kannst du 1 Karte ziehen.",
+    "it": "Una sola volta durante il tuo turno, puoi pescare una carta.",
+    "pt": "Uma vez durante o seu turno, você poderá comprar uma carta.",
+    "es": "Una vez durante tu turno, puedes robar 1 carta."
+  },
+  "abilityName": {
+    "en": "Hurried Gait",
+    "fr": "Allure Pressée",
+    "de": "Eiliger Gang",
+    "it": "Andatura Frettolosa",
+    "pt": "Marcha Apressada",
+    "es": "Marcha Apresurada"
+  },
   "attacks": [
     {
       "cost": [
