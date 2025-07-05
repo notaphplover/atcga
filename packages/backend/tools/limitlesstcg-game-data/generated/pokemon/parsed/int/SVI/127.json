@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your opponent's Poisoned Pokémon don’t recover from that Special Condition when they evolve or devolve.",
-  "abilityName": "Poison Sacs",
+  "abilityEffect": {
+    "en": "Your opponent's Poisoned Pokémon don’t recover from that Special Condition when they evolve or devolve.",
+    "fr": "Les Pokémon Empoisonnés de votre adversaire ne guérissent pas de cet État Spécial lorsqu'ils évoluent ou dés-évoluent.",
+    "de": "Die vergifteten Pokémon deines Gegners erholen sich nicht von jenem Speziellen Zustand, wenn sie sich entwickeln oder rückentwickeln.",
+    "it": "I Pokémon avvelenati del tuo avversario non guariscono da quella condizione speciale quando si evolvono o se ne annulla l'evoluzione.",
+    "pt": "Os Pokémon Envenenados do seu oponente não se recuperarão daquela Condição Especial quando eles evoluírem ou suas evoluções forem revertidas.",
+    "es": "Los Pokémon Envenenados de tu rival no se recuperan de esa Condición Especial cuando evolucionan o involucionan."
+  },
+  "abilityName": {
+    "en": "Poison Sacs",
+    "fr": "Sacs de Poison",
+    "de": "Gifttaschen",
+    "it": "Sacche Velenose",
+    "pt": "Bolsas de Veneno",
+    "es": "Sacos de Veneno"
+  },
   "attacks": [
     {
       "cost": [

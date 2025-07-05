@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have 2 or fewer Energy attached to them.",
-  "abilityName": "Protective Shell",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have 2 or fewer Energy attached to them.",
+    "fr": "Évitez tous les dégâts d'attaques infligés à ce Pokémon par les Pokémon de votre adversaire auxquels sont attachées 2 Énergies ou moins.",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon deines Gegners, an die 2 oder weniger Energien angelegt sind, zugefügt wird.",
+    "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon del tuo avversario che hanno due o meno Energie assegnate.",
+    "es": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon de tu rival que tengan 2 o menos Energías unidas a ellos."
+  },
+  "abilityName": {
+    "en": "Protective Shell",
+    "fr": "Carapace Protectrice",
+    "de": "Schutzpanzer",
+    "it": "Guscio Protettivo",
+    "es": "Caparazón Protector"
+  },
   "attacks": [
     {
       "cost": [

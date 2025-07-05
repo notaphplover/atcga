@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any [M] Energy attached to it. (Existing effects are not removed.)",
-  "abilityName": "Mystic Heart",
+  "abilityEffect": {
+    "en": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any [M] Energy attached to it. (Existing effects are not removed.)",
+    "fr": "Évitez tous les effets des attaques de votre adversaire, excepté les dégâts, infligés à chacun de vos Pokémon auquel de l'Énergie [M] est attachée. (Les effets déjà en action ne sont pas retirés.)",
+    "de": "Verhindere alle Effekte von gegnerischen Angriffen, außer Schaden, bei jedem deiner Pokémon, an das [M]-Energie angelegt ist. (Bestehende Effekte behalten ihre Wirkung.)",
+    "it": "Previeni tutti gli effetti degli attacchi del tuo avversario, esclusi i danni, inflitti ai tuoi Pokémon che abbiano delle Energie [M] assegnate. Gli effetti esistenti non vengono rimossi.",
+    "es": "Evita todos los efectos de los ataques de tu rival, excepto el daño, infligidos a cada uno de tus Pokémon que tenga alguna Energía [M] unida a él. (No se eliminan los efectos ya existentes)."
+  },
+  "abilityName": {
+    "en": "Mystic Heart",
+    "fr": "Cœur Mystique",
+    "de": "Geheimnisvolles Herz",
+    "it": "Cuormistico",
+    "es": "Corazón Místico"
+  },
   "attacks": [
     {
       "cost": [

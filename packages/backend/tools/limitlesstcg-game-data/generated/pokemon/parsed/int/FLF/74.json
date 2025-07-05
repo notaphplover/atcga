@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As often as you like during your turn (before your attack), you may discard an Energy attached to this Pokémon. If you do, heal 60 damage from this Pokémon.",
-  "abilityName": "Gooey Regeneration",
+  "abilityEffect": {
+    "en": "As often as you like during your turn (before your attack), you may discard an Energy attached to this Pokémon. If you do, heal 60 damage from this Pokémon.",
+    "fr": "Autant de fois que vous le voulez pendant votre tour (avant votre attaque), vous pouvez défausser une Énergie attachée à ce Pokémon. Dans ce cas, soignez 60 dégâts à ce Pokémon.",
+    "de": "Beliebig oft während deines Zuges (vor deinem Angriff) kannst du 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel legen. Wenn du das machst, heile 60 Schadenspunkte bei diesem Pokémon.",
+    "it": "Durante il tuo turno, prima di attaccare, puoi scartare un'Energia assegnata a questo Pokémon tutte le volte che vuoi. Se lo fai, cura questo Pokémon da 60 danni.",
+    "es": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes descartar 1 Energía unida a este Pokémon. Si lo haces, cura 60 puntos de daño a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Gooey Regeneration",
+    "fr": "Régénération Visqueuse",
+    "de": "Viskositätsauffrischung",
+    "it": "Viscogenerazione",
+    "es": "Regeneración Pegajosa"
+  },
   "attacks": [
     {
       "cost": [

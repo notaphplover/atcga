@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any [M] Energy attached to it, it has no Weakness.",
-  "abilityName": "Full Metal Body",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [M] Energy attached to it, it has no Weakness.",
+    "fr": "Si de l'Énergie [M] est attachée à ce Pokémon, il n'a pas de Faiblesse.",
+    "de": "Wenn an dieses Pokémon mindestens 1 [M]-Energie angelegt ist, hat es keine Schwäche.",
+    "it": "Se questo Pokémon ha delle Energie [M] assegnate, non ha debolezza.",
+    "es": "Si este Pokémon tiene alguna Energía [M] unida a él, no tiene ninguna Debilidad."
+  },
+  "abilityName": {
+    "en": "Full Metal Body",
+    "fr": "Métallo-Garde",
+    "de": "Metallprotektor",
+    "it": "Metalprotezione",
+    "es": "Guardia Metálica"
+  },
   "attacks": [
     {
       "cost": [

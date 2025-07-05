@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by attacks from your opponent's Poisoned Pokémon.",
-  "abilityName": "Poison Enzyme",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by attacks from your opponent's Poisoned Pokémon.",
+    "fr": "Évitez tous les dégâts infligés à ce Pokémon par des attaques des Pokémon Empoisonnés de votre adversaire.",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Angriffe von vergifteten Pokémon deines Gegners zugefügt wird.",
+    "it": "Previeni tutti i danni da attacchi inflitti a questo Pokémon dai Pokémon avvelenati del tuo avversario.",
+    "es": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon Envenenados de tu rival."
+  },
+  "abilityName": {
+    "en": "Poison Enzyme",
+    "fr": "Enzyme Empoisonnée",
+    "de": "Giftenzyme",
+    "it": "Velenenzima",
+    "es": "Enzima Venenosa"
+  },
   "attacks": [
     {
       "cost": [

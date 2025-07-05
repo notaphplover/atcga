@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Any damage done to this Pokémon by attacks is reduced by 10 (after applying Weakness and Resistance).",
-  "abilityName": "Exoskeleton",
+  "abilityEffect": {
+    "en": "Any damage done to this Pokémon by attacks is reduced by 10 (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 10 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der diesem Pokémon durch Angriffe zugefügt wird, wird um 10 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I danni inflitti a questo Pokémon dagli attacchi sono ridotti di 10, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño infligido a este Pokémon por ataques se reduce en 10 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Exoskeleton",
+    "fr": "Exosquelette",
+    "de": "Exoskelett",
+    "it": "Esoscheletro",
+    "es": "Exosqueleto"
+  },
   "attacks": [
     {
       "cost": [

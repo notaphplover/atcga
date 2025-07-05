@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "If this Pokémon is Knocked Out by damage from an opponent's attack, discard 2 random cards from your opponent's hand.",
-  "abilityName": "Last Pattern",
+  "abilityEffect": {
+    "en": "If this Pokémon is Knocked Out by damage from an opponent's attack, discard 2 random cards from your opponent's hand.",
+    "fr": "Si ce Pokémon est mis K.O. par les dégâts d'une attaque de votre adversaire, défaussez 2 cartes au hasard de la main de votre adversaire.",
+    "de": "Wenn dieses Pokémon durch Schaden einer Attacke deines Gegners kampfunfähig wird, lege 2 zufällige Karten aus der Hand deines Gegners auf seinen Ablagestapel.",
+    "it": "Se questo Pokémon viene messo KO dai danni inflitti da un attacco dell'avversario, scarta due carte a caso dalla sua mano."
+  },
+  "abilityName": {
+    "en": "Last Pattern",
+    "fr": "Dernier Motif",
+    "de": "Letztes Muster",
+    "it": "Disegno Fatale"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "When you play Blissey from your hand, you may flip a coin. If heads, remove 8 damage counters from Blissey. If tails, remove 4 damage counters from Blissey. Either way, if Blissey has fewer damage counters than that, remove all of them.",
-  "abilityName": "Softboiled",
+  "abilityEffect": {
+    "en": "When you play Blissey from your hand, you may flip a coin. If heads, remove 8 damage counters from Blissey. If tails, remove 4 damage counters from Blissey. Either way, if Blissey has fewer damage counters than that, remove all of them."
+  },
+  "abilityName": {
+    "en": "Softboiled"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may remove a Special Condition from your Active Pokémon.",
-  "abilityName": "Happiness Supplement",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may remove a Special Condition from your Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez retirer un État Spécial de votre Pokémon Actif.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Speziellen Zustand von deinem Aktiven Pokémon entfernen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi rimuovere una condizione speciale dal tuo Pokémon attivo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes eliminar 1 Condición Especial de tu Pokémon Activo."
+  },
+  "abilityName": {
+    "en": "Happiness Supplement",
+    "fr": "Complément de Joie",
+    "de": "Freudige Beilage",
+    "it": "Integratore di Felicità",
+    "es": "Suplemento de Felicidad"
+  },
   "attacks": [
     {
       "cost": [

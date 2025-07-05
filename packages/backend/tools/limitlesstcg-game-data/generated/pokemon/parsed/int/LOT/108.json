@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may attach a basic Energy card from your discard pile to this Pokémon.",
-  "abilityName": "Charging Up",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may attach a basic Energy card from your discard pile to this Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez attacher une carte Énergie de base de votre pile de défausse à ce Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Basis-Energiekarte aus deinem Ablagestapel an dieses Pokémon anlegen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi assegnare a questo Pokémon una carta Energia base dalla tua pila degli scarti.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes unir 1 carta de Energía Básica de tu pila de descartes a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Charging Up",
+    "fr": "Recharge",
+    "de": "Aufladen",
+    "it": "Caricamento",
+    "es": "Cargando"
+  },
   "attacks": [
     {
       "cost": [

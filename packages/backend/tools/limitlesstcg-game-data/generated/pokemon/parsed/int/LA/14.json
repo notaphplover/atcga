@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin until you get tails. For each heads, search your discard pile for a basic [R] Energy card or a basic [L] Energy card and attach it to Rayquaza. This power can't be used if Rayquaza is affected by a Special Condition or if you have another Rayquaza in play.",
-  "abilityName": "Speed Gain",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin until you get tails. For each heads, search your discard pile for a basic [R] Energy card or a basic [L] Energy card and attach it to Rayquaza. This power can't be used if Rayquaza is affected by a Special Condition or if you have another Rayquaza in play."
+  },
+  "abilityName": {
+    "en": "Speed Gain"
+  },
   "attacks": [
     {
       "cost": [

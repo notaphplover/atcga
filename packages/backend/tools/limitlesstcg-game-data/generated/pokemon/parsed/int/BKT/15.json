@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
-  "abilityName": "Energy Color",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, cherchez une carte Énergie de base dans votre deck et attachez-la à l'un de vos Pokémon. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Münze werfen. Bei „Kopf“ durchsuche dein Deck nach einer Basis-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lanciare una moneta. Se esce testa, cerca nel tuo mazzo una carta Energia base e assegnala a uno dei tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes lanzar 1 moneda. Si sale cara, busca en tu baraja 1 carta de Energía Básica y únela a 1 de tus Pokémon. Baraja las cartas de tu baraja después."
+  },
+  "abilityName": {
+    "en": "Energy Color",
+    "fr": "Couleur d'Énergie",
+    "de": "Energie-Farbe",
+    "it": "Colorenergia",
+    "es": "Color Energía"
+  },
   "attacks": [
     {
       "cost": [

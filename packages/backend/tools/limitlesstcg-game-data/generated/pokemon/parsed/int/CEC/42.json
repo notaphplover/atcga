@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your Pokémon-GX in play that evolve from Eevee get +60 HP. You can't apply more than 1 Vitality Cheer Ability at a time.",
-  "abilityName": "Vitality Cheer",
+  "abilityEffect": {
+    "en": "Your Pokémon-GX in play that evolve from Eevee get +60 HP. You can't apply more than 1 Vitality Cheer Ability at a time.",
+    "fr": "Vos Pokémon-GX en jeu qui évoluent d'Évoli ont +60 PV. Vous ne pouvez pas utiliser plus d'un talent Bravos Vivifiants à la fois.",
+    "de": "Deine Pokémon-GX im Spiel, die sich aus Evoli entwickeln, erhalten 60 KP mehr. Du kannst immer nur jeweils 1 Fähigkeit Vitalitätsjubel einsetzen.",
+    "it": "I tuoi Pokémon-GX in gioco che si evolvono da Eevee hanno 60 PS in più. Può essere applicata solo un'abilità Incitamento Vitale alla volta.",
+    "es": "Tus Pokémon-GX en juego que evolucionen de Eevee obtienen 60 PS más. No puedes aplicar más de 1 habilidad Ovación Vital a la vez."
+  },
+  "abilityName": {
+    "en": "Vitality Cheer",
+    "fr": "Bravos Vivifiants",
+    "de": "Vitalitätsjubel",
+    "it": "Incitamento Vitale",
+    "es": "Ovación Vital"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may heal 20 damage from 1 of your Pokémon that has any [G] Energy attached to it.",
-  "abilityName": "Fair-Weather Heal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may heal 20 damage from 1 of your Pokémon that has any [G] Energy attached to it.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez soigner 20 dégâts à 1 de vos Pokémon auquel de l'Énergie [G] est attachée.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 20 Schadenspunkte bei 1 deiner Pokémon heilen, an das [G]-Energie angelegt ist.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi curare da 20 danni uno dei tuoi Pokémon che ha Energie [G] assegnate.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes curar 20 puntos de daño a 1 de tus Pokémon que tenga alguna Energía [G] unida a él."
+  },
+  "abilityName": {
+    "en": "Fair-Weather Heal",
+    "fr": "Soin des Beaux Jours",
+    "de": "Gut-Wetter-Heilung",
+    "it": "Curabeltempo",
+    "es": "Cura del Buen Tiempo"
+  },
   "attacks": [
     {
       "cost": [

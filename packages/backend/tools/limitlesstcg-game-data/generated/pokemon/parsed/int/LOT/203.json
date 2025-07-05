@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, put that Pokémon and all cards attached to it in the Lost Zone instead of the discard pile.",
-  "abilityName": "Lost Out",
+  "abilityEffect": {
+    "en": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, put that Pokémon and all cards attached to it in the Lost Zone instead of the discard pile.",
+    "fr": "Si le Pokémon de votre adversaire est mis K.O. par les dégâts des attaques de ce Pokémon, placez ce Pokémon-là et toutes les cartes qui lui sont attachées dans la Zone Perdue au lieu de les défausser.",
+    "de": "Wenn ein Pokémon deines Gegners durch Schaden der Attacken dieses Pokémon kampfunfähig wird, lege jenes Pokémon und alle an es angelegten Karten ins Nirgendwo anstatt auf seinen Ablagestapel.",
+    "it": "Se un Pokémon del tuo avversario viene messo KO dai danni degli attacchi di questo Pokémon, prendi quel Pokémon e tutte le carte a esso assegnate e mettili nell'area perduta invece che nella pila degli scarti.",
+    "es": "Si alguno de los Pokémon de tu rival queda Fuera de Combate por el daño de los ataques de este Pokémon, pon ese Pokémon y todas las cartas unidas a él en la Zona Perdida en vez de en la pila de descartes."
+  },
+  "abilityName": {
+    "en": "Lost Out",
+    "fr": "Perdu à Jamais",
+    "de": "Nirgendwohin",
+    "it": "Dispersi",
+    "es": "Perdido Miserablemente"
+  },
   "attacks": [
     {
       "cost": [

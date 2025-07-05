@@ -1,6 +1,17 @@
 {
-  "abilityEffect": "Apply Weakness for each Pokémon (both yours and your opponent's) as x4 instead.",
-  "abilityName": "Allergy Panic",
+  "abilityEffect": {
+    "en": "Apply Weakness for each Pokémon (both yours and your opponent's) as x4 instead.",
+    "fr": "Appliquez une Faiblesse de x4 à chacun des Pokémon (les vôtres et ceux de votre adversaire).",
+    "it": "La debolezza di tutti i Pokémon, sia tuoi che del tuo avversario, diventa x4.",
+    "es": "Aplica una Debilidad de x4 a cada Pokémon (tanto tuyos como de tu rival)."
+  },
+  "abilityName": {
+    "en": "Allergy Panic",
+    "fr": "Panique Allergique",
+    "de": "Allergieschock",
+    "it": "Allergipanico",
+    "es": "Pánico Alérgico"
+  },
   "attacks": [
     {
       "cost": [

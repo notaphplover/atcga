@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, choose Asleep, Burned, Confused, or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition.",
-  "abilityName": "Varied Pollen",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, choose Asleep, Burned, Confused, or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, choisissez entre Brûlé, Confus, Empoisonné ou Endormi. Le Pokémon Actif de votre adversaire est maintenant affecté par cet État Spécial.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Münze werfen. Wähle bei Kopf Schlaf, Verbrennung, Vergiftung oder Verwirrung. Das Aktive Pokémon deines Gegners ist jetzt von jenem Speziellen Zustand betroffen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lanciare una moneta. Se esce testa, scegli tra addormentato, bruciato, confuso e avvelenato. Il Pokémon attivo del tuo avversario è influenzato da quella condizione speciale.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes lanzar 1 moneda. Si sale cara, elige entre Confundido, Dormido, Envenenado o Quemado. El Pokémon Activo de tu rival pasa a estar afectado por esa Condición Especial."
+  },
+  "abilityName": {
+    "en": "Varied Pollen",
+    "fr": "Pollens Variés",
+    "de": "Vielseitiger Pollen",
+    "it": "Multipolline",
+    "es": "Polen Variado"
+  },
   "attacks": [
     {
       "cost": [

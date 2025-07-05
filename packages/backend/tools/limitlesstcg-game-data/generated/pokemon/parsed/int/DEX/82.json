@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, heal 30 damage from your Active Pokémon.",
-  "abilityName": "Softboiled",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, heal 30 damage from your Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, soignez 30 dégâts à votre Pokémon Actif.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Münze werfen. Heile bei „Kopf“ 30 Schadenspunkte bei deinem Aktiven Pokémon.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lanciare una moneta. Se esce testa, cura il tuo Pokémon attivo da 30 danni."
+  },
+  "abilityName": {
+    "en": "Softboiled",
+    "fr": "E-Coque",
+    "de": "Weichei",
+    "it": "Covauova"
+  },
   "attacks": [
     {
       "cost": [

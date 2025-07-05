@@ -52,8 +52,8 @@ export interface TcgPokemonParsedEnergyCard
 
 export interface TcgPokemonParsedPokemonCard
   extends BaseTcgPokemonParsedCard<TcgPokemonCardType.pokemon> {
-  abilityName?: string | undefined;
-  abilityEffect?: string | undefined;
+  abilityName?: I18nString | undefined;
+  abilityEffect?: I18nString | undefined;
   attacks: TcgPokemonParsedPokemonCardAttack[];
   hp: number;
   resistance: TcgPokemonType[];

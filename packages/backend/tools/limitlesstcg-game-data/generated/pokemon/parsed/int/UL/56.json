@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Whenever you attach an Energy card from you hand to 1 of your Pokémon, remove 1 damage counter from that Pokémon.",
-  "abilityName": "Energy Healer",
+  "abilityEffect": {
+    "en": "Whenever you attach an Energy card from you hand to 1 of your Pokémon, remove 1 damage counter from that Pokémon.",
+    "fr": "Lorsque vous attachez une carte Énergie de votre main à Onix, retirez-lui 1 marqueur de dégât.",
+    "de": "Wenn du 1 Energiekarte von deiner Hand an Onix anlegst, entferne 1 Schadensmarke von Onix.",
+    "it": "Quando assegni una carta Energia dalla tua mano a Onix, togli 1 segnalino danno da Onix.",
+    "es": "Cuando unas una carta de Energía de tu mano a Onix, quita 1 contadores de daño de Onix."
+  },
+  "abilityName": {
+    "en": "Energy Healer",
+    "fr": "Guérisseur d'énergie",
+    "de": "Energie-Heiler",
+    "it": "Curaenergia",
+    "es": "Sanador de energía"
+  },
   "attacks": [
     {
       "cost": [

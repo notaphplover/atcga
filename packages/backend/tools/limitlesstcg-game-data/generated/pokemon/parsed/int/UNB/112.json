@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may put 1 damage counter on this Pokémon.",
-  "abilityName": "Building Spite",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may put 1 damage counter on this Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez placer un marqueur de dégâts sur ce Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Schadensmarke auf dieses Pokémon legen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi mettere un segnalino danno su questo Pokémon.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes poner 1 contador de daño en este Pokémon."
+  },
+  "abilityName": {
+    "en": "Building Spite",
+    "fr": "Mépris Grandissant",
+    "de": "Racheaufbau",
+    "it": "Accumulo Dispettoso",
+    "es": "Rencor Creciente"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to your Benched Pokémon by attacks.",
-  "abilityName": "Bench Barrier",
+  "abilityEffect": {
+    "en": "Prevent all damage done to your Benched Pokémon by attacks.",
+    "fr": "Évitez tous les dégâts infligés à vos Pokémon de Banc par des attaques.",
+    "de": "Verhindere allen Schaden, der den Pokémon auf deiner Bank durch Angriffe zugefügt wird.",
+    "it": "Previeni tutti i danni da attacchi inflitti ai tuoi Pokémon in panchina.",
+    "es": "Evita todo el daño infligido a tus Pokémon en Banca por ataques."
+  },
+  "abilityName": {
+    "en": "Bench Barrier",
+    "fr": "Barrière de Banc",
+    "de": "Bankbarriere",
+    "it": "Panchinafranca",
+    "es": "Barrera Banca"
+  },
   "attacks": [
     {
       "cost": [

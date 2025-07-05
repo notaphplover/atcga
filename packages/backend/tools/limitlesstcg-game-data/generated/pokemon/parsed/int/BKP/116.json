@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your Pokémon that has any [W] Energy attached to it has no Retreat Cost.",
-  "abilityName": "Aqua Tube",
+  "abilityEffect": {
+    "en": "Each of your Pokémon that has any [W] Energy attached to it has no Retreat Cost.",
+    "fr": "Chacun de vos Pokémon auquel de l'Énergie [W] est attachée n'a pas de Coût de Retraite.",
+    "de": "Jedes deiner Pokémon, an das [W]-Energie angelegt ist, hat keine Rückzugskosten.",
+    "it": "I tuoi Pokémon in gioco con un'Energia [W] assegnata non hanno costo di ritirata.",
+    "es": "Cada uno de tus Pokémon que tenga alguna Energía [W] unida a él no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Aqua Tube",
+    "fr": "Tube Aqua",
+    "de": "Wasserkanal",
+    "it": "Scivolo d'Acqua",
+    "es": "Tubo Acuático"
+  },
   "attacks": [
     {
       "cost": [

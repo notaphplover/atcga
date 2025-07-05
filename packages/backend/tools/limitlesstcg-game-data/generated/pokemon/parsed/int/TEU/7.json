@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Put 2 damage counters on your opponent's Confused Pokémon between turns.",
-  "abilityName": "Panic Spores",
+  "abilityEffect": {
+    "en": "Put 2 damage counters on your opponent's Confused Pokémon between turns.",
+    "fr": "Placez 2 marqueurs de dégâts sur le Pokémon Confus de votre adversaire entre chaque tour.",
+    "de": "Lege zwischen den Zügen 2 Schadensmarken auf die verwirrten Pokémon deines Gegners.",
+    "it": "Metti due segnalini danno sul Pokémon confuso del tuo avversario tra un turno e l'altro.",
+    "es": "Pon 2 contadores de daño en el Pokémon Confundido de tu rival entre turnos."
+  },
+  "abilityName": {
+    "en": "Panic Spores",
+    "fr": "Spores en Panique",
+    "de": "Paniksporen",
+    "it": "Spore Incontrollabili",
+    "es": "Esporas de Pánico"
+  },
   "attacks": [
     {
       "cost": [

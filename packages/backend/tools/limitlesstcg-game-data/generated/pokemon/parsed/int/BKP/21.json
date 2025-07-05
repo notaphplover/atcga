@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
-  "abilityName": "Royal Flash",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, déplacez une Énergie attachée au Pokémon Actif de votre adversaire vers l'un de ses Pokémon de Banc.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Münze werfen. Verschiebe bei „Kopf“ 1 an das Aktive Pokémon deines Gegners angelegte Energie auf 1 Pokémon auf der Bank deines Gegners.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lanciare una moneta. Se esce testa, sposta un'Energia dal Pokémon attivo del tuo avversario a uno dei suoi Pokémon in panchina.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes lanzar 1 moneda. Si sale cara, mueve 1 Energía del Pokémon Activo de tu rival a 1 de sus Pokémon en Banca."
+  },
+  "abilityName": {
+    "en": "Royal Flash",
+    "fr": "Flash Royal",
+    "de": "Monarch-Flimmern",
+    "it": "Bagliore Reale",
+    "es": "Destello Regio"
+  },
   "attacks": [
     {
       "cost": [

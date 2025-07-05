@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "The Retreat Cost of your opponent's Poisoned Pokémon is [C] more.",
-  "abilityName": "Sludge Street",
+  "abilityEffect": {
+    "en": "The Retreat Cost of your opponent's Poisoned Pokémon is [C] more.",
+    "fr": "Le Coût de Retraite des Pokémon Empoisonnés de votre adversaire augmente de [C].",
+    "de": "Die Rückzugskosten der vergifteten Pokémon deines Gegners erhöhen sich um [C].",
+    "it": "Il costo di ritirata dei Pokémon avvelenati del tuo avversario aumenta di [C].",
+    "pt": "O custo de Recuo dos Pokémon Envenenados do seu oponente é [C] a mais.",
+    "es": "El Coste de Retirada de los Pokémon Envenenados de tu rival es de [C] más."
+  },
+  "abilityName": {
+    "en": "Sludge Street",
+    "fr": "Passage Dégueu",
+    "de": "Schlammstraße",
+    "it": "Strada di Melma",
+    "pt": "Lodo na Rua",
+    "es": "Calle Lodo"
+  },
   "attacks": [
     {
       "cost": [

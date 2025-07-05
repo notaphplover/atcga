@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.",
-  "abilityName": "Heal Block",
+  "abilityEffect": {
+    "en": "If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.",
+    "fr": "Si vous avez Solaroc en jeu, les Pokémon (les vôtres et ceux de votre adversaire) ne peuvent pas être soignés.",
+    "de": "Wenn du Sonnfel im Spiel hast, können Pokémon (deine und die deines Gegners) nicht geheilt werden.",
+    "it": "Se hai Solrock in gioco, i Pokémon, sia tuoi che del tuo avversario, non possono essere curati.",
+    "es": "Si tienes a Solrock en juego, los Pokémon (tanto tuyos como de tu rival) no pueden ser curados."
+  },
+  "abilityName": {
+    "en": "Heal Block",
+    "fr": "Anti-Soin",
+    "de": "Heilblockade",
+    "it": "Anticura",
+    "es": "Anticura"
+  },
   "attacks": [
     {
       "cost": [

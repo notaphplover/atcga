@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.",
-  "abilityName": "Innards Out",
+  "abilityEffect": {
+    "en": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.",
+    "fr": "Si ce Pokémon est votre Pokémon Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, placez 6 marqueurs de dégâts sur le Pokémon Attaquant.",
+    "de": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch Schaden einer Attacke deines Gegners kampfunfähig wird, lege 6 Schadensmarken auf das Angreifende Pokémon.",
+    "it": "Se questo Pokémon è il tuo Pokémon attivo e viene messo KO dai danni inflitti da un attacco del tuo avversario, metti sei segnalini danno sul Pokémon attaccante.",
+    "es": "Si este Pokémon es tu Pokémon Activo y queda Fuera de Combate por el daño de un ataque de tu rival, pon 6 contadores de daño en el Pokémon Atacante."
+  },
+  "abilityName": {
+    "en": "Innards Out",
+    "fr": "Expuls'Organes",
+    "de": "Magenkrempler",
+    "it": "Espellinterno",
+    "es": "Revés"
+  },
   "attacks": [
     {
       "cost": [

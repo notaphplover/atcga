@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any basic Energy attached to it, it takes 20 less damage from attacks (after applying Weakness and Resistance).",
-  "abilityName": "Energy Guard",
+  "abilityEffect": {
+    "en": "If this Pokémon has any basic Energy attached to it, it takes 20 less damage from attacks (after applying Weakness and Resistance).",
+    "fr": "Si de l'Énergie de base est attachée à ce Pokémon, il subit 20 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+    "de": "Wenn an dieses Pokémon mindestens 1 Basis-Energie angelegt ist, werden diesem Pokémon durch Attacken 20 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Se questo Pokémon ha delle Energie base assegnate, subisce 20 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+    "es": "Si este Pokémon tiene alguna Energía Básica unida a él, los ataques le hacen 20 puntos de daño menos (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Energy Guard",
+    "fr": "Conservateur d'Énergie",
+    "de": "Energiewächter",
+    "it": "Guardia di Energia",
+    "es": "Guardia Energía"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Unown B is on your Bench, you may flip a coin. If heads, discard all cards attached to any 1 of your Unown and shuffle that Pokémon back into your deck.",
-  "abilityName": "BOUNCE",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Unown B is on your Bench, you may flip a coin. If heads, discard all cards attached to any 1 of your Unown and shuffle that Pokémon back into your deck."
+  },
+  "abilityName": {
+    "en": "BOUNCE"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may discard a card from your hand. If you do, discard the top card of your opponent's deck.",
-  "abilityName": "Wing Buzz",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may discard a card from your hand. If you do, discard the top card of your opponent's deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est votre Pokémon Actif, vous pouvez défausser une carte de votre main. Dans ce cas, défaussez la carte du dessus du deck de votre adversaire.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, wenn dieses Pokémon dein Aktives Pokémon ist, 1 Karte von deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è il tuo Pokémon attivo, puoi scartare una delle carte che hai in mano. Se lo fai, scarta la carta in cima al mazzo del tuo avversario.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon es tu Pokémon Activo, puedes descartar 1 carta de tu mano. Si lo haces, descarta la primera carta de la baraja de tu rival."
+  },
+  "abilityName": {
+    "en": "Wing Buzz",
+    "fr": "Bourdonnement d'Aile",
+    "de": "Flügelsummen",
+    "it": "Vibrala",
+    "es": "Zumbido de Alas"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "If Pupitar has any Energy attached to it, the Retreat Cost for Pupitar is 0.",
-  "abilityName": "Boost Gas",
+  "abilityEffect": {
+    "en": "If Pupitar has any Energy attached to it, the Retreat Cost for Pupitar is 0.",
+    "fr": "Si une ou plusieurs cartes Énergie sont attachées à Ymphect, le Coût de retraite de ce dernier est de 0.",
+    "it": "Se Pupitar ha delle Energie assegnate, il Costo de Ritirata di Pupitar è 0.",
+    "es": "Si Pupitar tiene cualquier Energía unida, el Coste de Retirada para Pupitar es 0."
+  },
+  "abilityName": {
+    "en": "Boost Gas",
+    "fr": "Gazoboost",
+    "it": "Caricagas",
+    "es": "Impulso de gas"
+  },
   "attacks": [
     {
       "cost": [

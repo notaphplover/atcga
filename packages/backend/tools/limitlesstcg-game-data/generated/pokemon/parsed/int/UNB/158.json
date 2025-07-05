@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Between turns, heal 10 damage from this Pokémon.",
-  "abilityName": "Lazy Eating",
+  "abilityEffect": {
+    "en": "Between turns, heal 10 damage from this Pokémon.",
+    "fr": "Entre chaque tour, soignez 10 dégâts à ce Pokémon.",
+    "de": "Heile zwischen den Zügen 10 Schadenspunkte bei diesem Pokémon.",
+    "it": "Tra un turno e l'altro, cura questo Pokémon da 10 danni.",
+    "es": "Entre turnos, cura 10 puntos de daño a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Lazy Eating",
+    "fr": "Repas Paresseux",
+    "de": "Faules Mampfen",
+    "it": "Spizzicare",
+    "es": "Comilona Perezosa"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has no Energy attached to it, it has no Retreat Cost.",
-  "abilityName": "Free Flight",
+  "abilityEffect": {
+    "en": "If this Pokémon has no Energy attached to it, it has no Retreat Cost.",
+    "fr": "Si aucune Énergie n'est attachée à ce Pokémon, il n'a pas de Coût de Retraite.",
+    "de": "Wenn an dieses Pokémon keine Energie angelegt ist, hat es keine Rückzugskosten.",
+    "it": "Se questo Pokémon non ha delle Energie assegnate, non ha costo di ritirata.",
+    "es": "Si este Pokémon no tiene ninguna Energía unida a él, no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Free Flight",
+    "fr": "Vol Gratuit",
+    "de": "Freiflug",
+    "it": "Volo Libero",
+    "es": "Vuelo Libre"
+  },
   "attacks": [
     {
       "cost": [

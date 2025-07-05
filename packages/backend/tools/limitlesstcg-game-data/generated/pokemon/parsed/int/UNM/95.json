@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon is Knocked Out by damage from an opponent's attack, put it into your hand instead of the discard pile. (Discard all cards attached to it.)",
-  "abilityName": "Durable Blade",
+  "abilityEffect": {
+    "en": "If this Pokémon is Knocked Out by damage from an opponent's attack, put it into your hand instead of the discard pile. (Discard all cards attached to it.)",
+    "fr": "Si ce Pokémon est mis K.O. par les dégâts d'une attaque de votre adversaire, placez-le dans votre main plutôt que dans votre pile de défausse. (Défaussez toutes les cartes qui lui sont attachées.)",
+    "de": "Wenn dieses Pokémon durch Schaden einer Attacke deines Gegners kampfunfähig wird, lege es nicht auf deinen Ablagestapel, sondern nimm es auf deine Hand. (Lege alle an es angelegten Karten auf deinen Ablagestapel.)",
+    "it": "Se questo Pokémon viene messo KO dai danni inflitti da un attacco dell'avversario, aggiungilo alle carte che hai in mano invece che alla pila degli scarti. Scarta tutte le carte a esso assegnate.",
+    "es": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de tu rival, ponlo en tu mano en vez de en la pila de descartes. (Descarta todas las cartas unidas a él)."
+  },
+  "abilityName": {
+    "en": "Durable Blade",
+    "fr": "Lame Résistante",
+    "de": "Beständige Klinge",
+    "it": "Lama Eterna",
+    "es": "Cuchilla Resistente"
+  },
   "attacks": [
     {
       "cost": [

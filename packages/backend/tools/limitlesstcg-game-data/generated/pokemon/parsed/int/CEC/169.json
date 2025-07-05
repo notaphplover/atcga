@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may put the top card of your opponent's deck on the bottom of their deck without looking at it.",
-  "abilityName": "Scampering Tail",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may put the top card of your opponent's deck on the bottom of their deck without looking at it.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez placer la carte du dessus du deck de votre adversaire en dessous de son deck sans la regarder.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du die oberste Karte des Decks deines Gegners, ohne sie dir anzuschauen, unter sein Deck legen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi prendere la prima carta del mazzo del tuo avversario e metterla in fondo al suo mazzo senza guardarla.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes poner la primera carta de la baraja de tu rival en la parte inferior de su baraja sin mirarla."
+  },
+  "abilityName": {
+    "en": "Scampering Tail",
+    "fr": "Queue Fuyante",
+    "de": "Huschender Schweif",
+    "it": "Coda Zompettante",
+    "es": "Cola Presurosa"
+  },
   "attacks": [
     {
       "cost": [

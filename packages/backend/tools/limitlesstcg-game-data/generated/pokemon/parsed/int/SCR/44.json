@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon if that damage is 200 or more.",
-  "abilityName": "Impervious Shell",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon if that damage is 200 or more.",
+    "fr": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon de votre adversaire si ces dégâts sont de 200 ou plus.",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon deines Gegners zugefügt wird, wenn jener Schaden 200 Schadenspunkte oder mehr beträgt.",
+    "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon del tuo avversario se quei danni sono 200 o più.",
+    "pt": "Previna todo o dano causado a este Pokémon por ataques dos Pokémon do seu oponente se aquele dano for 200 ou mais.",
+    "es": "Se evita todo el daño infligido a este Pokémon por ataques de los Pokémon de tu rival si ese daño es igual o superior a 200 puntos de daño."
+  },
+  "abilityName": {
+    "en": "Impervious Shell",
+    "fr": "Coquille Impénétrable",
+    "de": "Undurchdringlicher Panzer",
+    "it": "Guscio Impenetrabile",
+    "pt": "Casco Impenetrável",
+    "es": "Caparazón Impenetrable"
+  },
   "attacks": [
     {
       "cost": [

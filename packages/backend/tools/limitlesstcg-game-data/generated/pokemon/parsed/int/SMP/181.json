@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [M] Pokémon from your hand. If you do, heal 100 damage from this Pokémon.",
-  "abilityName": "Metal Eater",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [M] Pokémon from your hand. If you do, heal 100 damage from this Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser un Pokémon [M] de votre main. Dans ce cas, soignez 100 dégâts à ce Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 [M]-Pokémon aus deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, heile 100 Schadenspunkte bei diesem Pokémon.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare un Pokémon [M] che hai in mano. Se lo fai, cura questo Pokémon da 100 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 Pokémon [M] de tu mano. Si lo haces, cura 100 puntos de daño a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Metal Eater",
+    "fr": "Mange Métal",
+    "de": "Metallesser",
+    "it": "Mangiametallo",
+    "es": "Devorametales"
+  },
   "attacks": [
     {
       "cost": [

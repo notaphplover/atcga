@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
-  "abilityName": "Invasion",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est sur votre Banc, vous pouvez l'échanger avec votre Pokémon Actif.",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn sich dieses Pokémon auf deiner Bank befindet, kannst du es gegen dein Aktives Pokémon tauschen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è nella tua panchina, puoi scambiarlo con il tuo Pokémon attivo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está en tu Banca, puedes cambiarlo por tu Pokémon Activo."
+  },
+  "abilityName": {
+    "en": "Invasion",
+    "fr": "Invasion",
+    "de": "Invasion",
+    "it": "Invasione",
+    "es": "Invasión"
+  },
   "attacks": [
     {
       "cost": [

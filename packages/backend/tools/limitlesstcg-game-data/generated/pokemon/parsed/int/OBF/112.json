@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon is in the Active Spot, has a Pokémon Tool attached, and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 5 damage counters on the Attacking Pokémon.",
-  "abilityName": "Custom Trap",
+  "abilityEffect": {
+    "en": "If this Pokémon is in the Active Spot, has a Pokémon Tool attached, and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 5 damage counters on the Attacking Pokémon.",
+    "fr": "Si ce Pokémon est sur le Poste Actif, a un Outil Pokémon attaché et subit les dégâts d'une attaque d'un Pokémon de votre adversaire (même si ce Pokémon est mis K.O.), placez 5 marqueurs de dégâts sur le Pokémon Attaquant.",
+    "de": "Wenn dieses Pokémon in der Aktiven Position ist, eine Pokémon-Ausrüstung an es angelegt ist und es durch eine Attacke von Pokémon deines Gegners Schaden erhält (auch wenn dieses Pokémon dadurch kampfunfähig wird), lege 5 Schadensmarken auf das Angreifende Pokémon.",
+    "it": "Se questo Pokémon è in posizione attiva, ha una carta Oggetto Pokémon assegnata e viene danneggiato da un attacco di un Pokémon del tuo avversario, anche se viene messo KO, metti cinque segnalini danno sul Pokémon attaccante.",
+    "pt": "Se este Pokémon estiver no Campo Ativo, tiver uma Ferramenta Pokémon ligada a ele e for danificado por um ataque dos Pokémon do seu oponente (mesmo que este Pokémon seja Nocauteado), coloque 5 contadores de dano no Pokémon Atacante.",
+    "es": "Si este Pokémon está en el Puesto Activo, tiene una Herramienta Pokémon unida y resulta dañado por un ataque de los Pokémon de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 5 contadores de daño en el Pokémon Atacante."
+  },
+  "abilityName": {
+    "en": "Custom Trap",
+    "fr": "Piège sur Mesure",
+    "de": "Maßgefertigte Falle",
+    "it": "Trappola su Misura",
+    "pt": "Arapuca Personalizada",
+    "es": "Trampa Personalizada"
+  },
   "attacks": [
     {
       "cost": [

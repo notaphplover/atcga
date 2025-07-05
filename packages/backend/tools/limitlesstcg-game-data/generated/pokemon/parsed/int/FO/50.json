@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed.",
-  "abilityName": "Kabuto Armor",
+  "abilityEffect": {
+    "en": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Kabuto Armor"
+  },
   "attacks": [
     {
       "cost": [

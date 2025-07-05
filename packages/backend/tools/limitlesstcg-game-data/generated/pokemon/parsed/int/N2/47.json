@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever a [D] Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power works even if Unown [D] is Asleep, Confused, or Paralyzed.)",
-  "abilityName": "[Darkness]",
+  "abilityEffect": {
+    "en": "Whenever a [D] Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power works even if Unown [D] is Asleep, Confused, or Paralyzed.)"
+  },
+  "abilityName": {
+    "en": "[Darkness]"
+  },
   "attacks": [
     {
       "cost": [

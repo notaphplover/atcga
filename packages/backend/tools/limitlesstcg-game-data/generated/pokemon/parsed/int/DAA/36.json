@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may switch 1 of your opponent's face-down Prize cards with the top card of their deck. (The cards stay face down.)",
-  "abilityName": "Shuffle Dance",
+  "abilityEffect": {
+    "en": "Once during your turn, you may switch 1 of your opponent's face-down Prize cards with the top card of their deck. (The cards stay face down.)",
+    "fr": "Une fois pendant votre tour, vous pouvez échanger l'une des cartes Récompense de votre adversaire (actuellement face cachée) contre la carte du dessus de son deck. (Les cartes restent face cachée.)",
+    "de": "Einmal während deines Zuges kannst du 1 verdeckte Preiskarte deines Gegner gegen die oberste Karte seines Decks austauschen. (Die Karten bleiben verdeckt.)",
+    "it": "Una sola volta durante il tuo turno, puoi scambiare una delle carte Premio coperte del tuo avversario con la prima carta del suo mazzo. Le carte restano coperte.",
+    "pt": "Uma vez durante o seu turno, você poderá trocar 1 das cartas de Prêmio viradas para baixo do seu oponente pela carta de cima do baralho dele(a) (as cartas continuam viradas para baixo).",
+    "es": "Una vez durante tu turno, puedes cambiar 1 de las cartas de Premio que están boca abajo de tu rival por la primera carta de su baraja. (Las cartas permanecen boca abajo)."
+  },
+  "abilityName": {
+    "en": "Shuffle Dance",
+    "fr": "Danse Entraînante",
+    "de": "Shuffle-Tanz",
+    "it": "Mischiadanza",
+    "pt": "Balança Esqueleto",
+    "es": "Danza Cambio"
+  },
   "attacks": [
     {
       "cost": [

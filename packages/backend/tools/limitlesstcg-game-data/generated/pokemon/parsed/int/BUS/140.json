@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may attach a [Y] Energy card from your hand to 1 of your Pokémon.",
-  "abilityName": "Secret Spring",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may attach a [Y] Energy card from your hand to 1 of your Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez attacher une carte Énergie [Y] de votre main à l'un de vos Pokémon.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 [Y]-Energiekarte aus deiner Hand an 1 deiner Pokémon anlegen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi assegnare a uno dei tuoi Pokémon una carta Energia [Y] dalla tua mano.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes unir 1 carta de Energía [Y] de tu mano a 1 de tus Pokémon."
+  },
+  "abilityName": {
+    "en": "Secret Spring",
+    "fr": "Rebond Secret",
+    "de": "Geheime Quelle",
+    "it": "Sorgente Segreta",
+    "es": "Manantial Secreto"
+  },
   "attacks": [
     {
       "cost": [

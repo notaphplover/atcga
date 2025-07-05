@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Trainer cards in your opponent's discard pile can't be put into their deck by an effect of your opponent's Item or Supporter cards.",
-  "abilityName": "Sand Screen",
+  "abilityEffect": {
+    "en": "Trainer cards in your opponent's discard pile can't be put into their deck by an effect of your opponent's Item or Supporter cards.",
+    "fr": "Les cartes Dresseur dans la pile de défausse de votre adversaire ne peuvent pas être placées dans son deck par les effets des cartes Objet ou Supporter de votre adversaire.",
+    "de": "Trainerkarten im Ablagestapel deines Gegners können nicht durch einen Effekt von Item- oder Unterstützerkarten deines Gegners in sein Deck gelegt werden.",
+    "it": "Le carte Allenatore nella pila degli scarti del tuo avversario non possono essere messe nel suo mazzo per effetto delle carte Strumento o carte Aiuto del tuo avversario.",
+    "pt": "Cartas de Treinador na pilha de descarte do seu oponente não podem ser colocadas no baralho dele pelos efeitos de cartas de Item ou Apoiador do seu oponente.",
+    "es": "Las cartas de Entrenador en la pila de descartes de tu rival no pueden ponerse en su baraja por ningún efecto de las cartas de Objeto o de Partidario de tu rival."
+  },
+  "abilityName": {
+    "en": "Sand Screen",
+    "fr": "Écran de Sable",
+    "de": "Sandschirm",
+    "it": "Sabbiaschermo",
+    "pt": "Cortina de Areia",
+    "es": "Pantalla de Arena"
+  },
   "attacks": [
     {
       "cost": [

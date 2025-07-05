@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all effects of your opponent's attacks, except damage, done to your [N] Pokémon. (Existing effects are not removed.)",
-  "abilityName": "Dragon Guard",
+  "abilityEffect": {
+    "en": "Prevent all effects of your opponent's attacks, except damage, done to your [N] Pokémon. (Existing effects are not removed.)",
+    "fr": "Évitez tous les effets des attaques de votre adversaire, à l'exception des dégâts, infligés à vos Pokémon [N]. (Les effets déjà en action ne sont pas retirés.)",
+    "de": "Verhindere alle Effekte von Attacken deines Gegners, außer Schaden, die deinen [N]-Pokémon zugefügt werden. (Bestehende Effekte werden nicht entfernt.)",
+    "it": "Previeni tutti gli effetti degli attacchi del tuo avversario, esclusi i danni, inflitti ai tuoi Pokémon [N]. Gli effetti esistenti non vengono rimossi.",
+    "es": "Evita todos los efectos de los ataques de tu rival, excepto el daño, infligidos a tus Pokémon [N]. (No se eliminan los efectos ya existentes)."
+  },
+  "abilityName": {
+    "en": "Dragon Guard",
+    "fr": "Garde des Dragons",
+    "de": "Drachenschutz",
+    "it": "Dragoguardia",
+    "es": "Guardia Dragón"
+  },
   "attacks": [
     {
       "cost": [

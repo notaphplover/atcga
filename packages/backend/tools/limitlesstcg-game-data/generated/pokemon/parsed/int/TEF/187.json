@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Attacks used by this Pokémon cost [C] less for each of your opponent's Benched Pokémon.",
-  "abilityName": "Hustle Play",
+  "abilityEffect": {
+    "en": "Attacks used by this Pokémon cost [C] less for each of your opponent's Benched Pokémon.",
+    "fr": "Les attaques utilisées par ce Pokémon coûtent [C] de moins pour chacun des Pokémon de Banc de votre adversaire.",
+    "de": "Die Kosten der von diesem Pokémon eingesetzten Attacken verringern sich für jedes Pokémon auf der Bank deines Gegners um [C].",
+    "it": "Il costo degli attacchi usati da questo Pokémon è ridotto di [C] per ogni Pokémon nella panchina del tuo avversario.",
+    "pt": "Os ataques usados por este Pokémon custam [C] a menos para cada Pokémon no Banco do seu oponente.",
+    "es": "Los ataques usados por este Pokémon cuestan [C] menos por cada uno de los Pokémon en Banca de tu rival."
+  },
+  "abilityName": {
+    "en": "Hustle Play",
+    "fr": "Jeu Pressé",
+    "de": "Ins Zeug legen",
+    "it": "Energiocata",
+    "pt": "Cair pra Dentro",
+    "es": "Juego Apremiante"
+  },
   "attacks": [
     {
       "cost": [

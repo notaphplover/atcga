@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Machamp is on your Bench, you may move all [F] Energy attached to your Active Pokémon to Machamp. If you do, switch Machamp with your Active Pokémon.",
-  "abilityName": "Fighting Tag",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Machamp is on your Bench, you may move all [F] Energy attached to your Active Pokémon to Machamp. If you do, switch Machamp with your Active Pokémon.",
+    "fr": "Une fois pendant votre tour (avant votre attaque), si Mackogneur est sur votre Banc, vous pouvez lui attribuer toutes les cartes Énergie [F] attachées à votre Pokémon Actif. Dans ce cas, échangez Mackogneur avec votre Pokémon Actif.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, wenn sich Machomei auf deiner Bank befindet, alle an dein Aktives Pokémon angelegten [F]-Energiekarten an Machomei anlegen. Wenn du das machst, tausche Machomei gegen dein Aktives Pokémon aus.",
+    "it": "Una sola volta durante il tuo turno (prima del tuo attacco), se Machamp è nella tua Panchina, puoi spostare tutte le carte Energia [F] assegnate al tuo Pokémon Attivo su Machamp. Se lo fai, scambia Machamp con il tuo Pokémon Attivo."
+  },
+  "abilityName": {
+    "en": "Fighting Tag",
+    "fr": "Relève guerrière",
+    "de": "Aufforderung zum Kampf",
+    "it": "Inseguimento di Combattimento"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Whenever your opponent's Active Pokémon retreats, their new Active Pokémon is Poisoned.",
-  "abilityName": "Toxic Spikes",
+  "abilityEffect": {
+    "en": "Whenever your opponent's Active Pokémon retreats, their new Active Pokémon is Poisoned.",
+    "fr": "Lorsque le Pokémon Actif de votre adversaire bat en retraite, son nouveau Pokémon Actif est Empoisonné.",
+    "de": "Jedes Mal, wenn sich das Aktive Pokémon deines Gegners zurückzieht, ist sein neues Aktives Pokémon vergiftet.",
+    "it": "Ogni volta che il Pokémon attivo del tuo avversario si ritira, il suo nuovo Pokémon attivo viene avvelenato.",
+    "es": "Cada vez que el Pokémon Activo de tu rival se retire, su nuevo Pokémon Activo pasa a estar Envenenado."
+  },
+  "abilityName": {
+    "en": "Toxic Spikes",
+    "fr": "Pics Toxik",
+    "de": "Giftspitzen",
+    "it": "Fielepunte",
+    "es": "Púas Tóxicas"
+  },
   "attacks": [
     {
       "cost": [

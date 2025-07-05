@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard 1 Energy card from your hand. Then draw up to 3 cards from your deck. This power can't be used if Delcatty is affected by a Special Condition.",
-  "abilityName": "Energy Draw",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard 1 Energy card from your hand. Then draw up to 3 cards from your deck. This power can't be used if Delcatty is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Energy Draw"
+  },
   "attacks": [
     {
       "cost": [

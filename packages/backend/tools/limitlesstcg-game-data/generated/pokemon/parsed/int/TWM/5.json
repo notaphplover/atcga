@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your opponent's Active Evolution Pokémon's Retreat Cost is [C] more.",
-  "abilityName": "Big Net",
+  "abilityEffect": {
+    "en": "Your opponent's Active Evolution Pokémon's Retreat Cost is [C] more.",
+    "fr": "Le Coût de Retraite du Pokémon Évolutif Actif de votre adversaire est augmenté de [C].",
+    "de": "Die Rückzugskosten des Aktiven Entwicklungs-Pokémon deines Gegners erhöhen sich um [C].",
+    "it": "Il costo di ritirata del Pokémon Evoluzione attivo del tuo avversario aumenta di [C].",
+    "pt": "O custo de Recuo do Pokémon de Evolução Ativo do seu oponente é [C] a mais.",
+    "es": "El Coste de Retirada del Pokémon Evolución Activo de tu rival es de [C] más."
+  },
+  "abilityName": {
+    "en": "Big Net",
+    "fr": "Grand Filet",
+    "de": "Großes Netz",
+    "it": "Gran Tela",
+    "pt": "Teia Grande",
+    "es": "Gran Tela"
+  },
   "attacks": [
     {
       "cost": [

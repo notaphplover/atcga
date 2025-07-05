@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any [W] Energy attached to it, it has no Retreat Cost.",
-  "abilityName": "Frubbles",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [W] Energy attached to it, it has no Retreat Cost.",
+    "fr": "Si de l'Énergie [W] est attachée à ce Pokémon, il n'a pas de coût de Retraite.",
+    "de": "Wenn an dieses Pokémon mindestens 1 [W]-Energie angelegt ist, hat es keine Rückzugskosten.",
+    "it": "Se questo Pokémon ha delle Energie [W] assegnate, non ha costo di ritirata.",
+    "es": "Si este Pokémon tiene alguna Energía [W] unida a él, no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Frubbles",
+    "fr": "Grebulles",
+    "de": "Flubba",
+    "it": "Frobolle",
+    "es": "Frurbujas"
+  },
   "attacks": [
     {
       "cost": [

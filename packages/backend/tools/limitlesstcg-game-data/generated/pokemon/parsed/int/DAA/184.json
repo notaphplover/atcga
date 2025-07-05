@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "This Pokémon gets +20 HP for each [M] Energy attached to it.",
-  "abilityName": "Metal Skin",
+  "abilityEffect": {
+    "en": "This Pokémon gets +20 HP for each [M] Energy attached to it.",
+    "fr": "Chaque Énergie [M] attachée à ce Pokémon lui ajoute 20 PV.",
+    "de": "Dieses Pokémon erhält für jede an es angelegte [M]-Energie +20 KP.",
+    "it": "Questo Pokémon ha 20 PS in più per ogni Energia [M] a esso assegnata.",
+    "pt": "Este Pokémon recebe 20 PS a mais para cada Energia [M] ligada a ele.",
+    "es": "Este Pokémon obtiene 20 PS más por cada Energía [M] unida a él."
+  },
+  "abilityName": {
+    "en": "Metal Skin",
+    "fr": "Peau Métal",
+    "de": "Metallhaut",
+    "it": "Metalpelle",
+    "pt": "Pele Metálica",
+    "es": "Piel Metálica"
+  },
   "attacks": [
     {
       "cost": [

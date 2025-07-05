@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "This Pokémon's attacks cost [C] less for each Prize card your opponent has taken.",
-  "abilityName": "Excited Heart",
+  "abilityEffect": {
+    "en": "This Pokémon's attacks cost [C] less for each Prize card your opponent has taken.",
+    "fr": "Les attaques de ce Pokémon coûtent [C] de moins pour chaque carte Récompense que votre adversaire a récupérée.",
+    "de": "Die Kosten der Attacken dieses Pokémon verringern sich für jede von deinem Gegner genommene Preiskarte um [C].",
+    "it": "Il costo degli attacchi di questo Pokémon è ridotto di [C] per ogni carta Premio presa dal tuo avversario.",
+    "pt": "Os ataques deste Pokémon custam [C] a menos para cada carta de Prêmio que seu oponente pegou.",
+    "es": "Los ataques de este Pokémon cuestan [C] menos por cada carta de Premio que haya cogido tu rival."
+  },
+  "abilityName": {
+    "en": "Excited Heart",
+    "fr": "Cœur en Émoi",
+    "de": "Herzrasen",
+    "it": "Cuorgioioso",
+    "pt": "Coração Agitado",
+    "es": "Corazón Exaltado"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has 3 or more [W] Energy attached, it gets +150 HP.",
-  "abilityName": "Group Power",
+  "abilityEffect": {
+    "en": "If this Pokémon has 3 or more [W] Energy attached, it gets +150 HP.",
+    "fr": "Si au moins 3 Énergies [W] sont attachées à ce Pokémon, il reçoit +150 PV.",
+    "de": "Wenn an dieses Pokémon 3 oder mehr [W]-Energien angelegt sind, erhält es +150 KP.",
+    "it": "Se questo Pokémon ha tre o più Energie [W] assegnate, ha 150 PS in più.",
+    "pt": "Se este Pokémon tiver 3 ou mais Energias [W] ligadas a ele, receberá 150 PS a mais.",
+    "es": "Si este Pokémon tiene 3 Energías [W] o más unidas a él, obtiene 150 PS más."
+  },
+  "abilityName": {
+    "en": "Group Power",
+    "fr": "Force de Groupe",
+    "de": "Gruppenstärke",
+    "it": "Potere di Gruppo",
+    "pt": "Unidos Venceremos",
+    "es": "Poder de Grupo"
+  },
   "attacks": [
     {
       "cost": [

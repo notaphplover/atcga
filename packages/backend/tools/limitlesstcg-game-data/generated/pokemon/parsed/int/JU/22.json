@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed.",
-  "abilityName": "Invisible Wall",
+  "abilityEffect": {
+    "en": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Invisible Wall"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If you have any [Y] Pokémon in play, this Pokémon has no Retreat Cost.",
-  "abilityName": "Secret Alleyway",
+  "abilityEffect": {
+    "en": "If you have any [Y] Pokémon in play, this Pokémon has no Retreat Cost.",
+    "fr": "Si vous avez au moins un Pokémon [Y] en jeu, ce Pokémon n'a pas de Coût de Retraite.",
+    "de": "Wenn du mindestens 1 [Y]-Pokémon im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
+    "it": "Se hai dei Pokémon [Y] in gioco, questo Pokémon non ha costo di ritirata.",
+    "es": "Si tienes algún Pokémon [Y] en juego, este Pokémon no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Secret Alleyway",
+    "fr": "Allée Secrète",
+    "de": "Geheime Gasse",
+    "it": "Passaggio Segreto",
+    "es": "Callejón Secreto"
+  },
   "attacks": [
     {
       "cost": [

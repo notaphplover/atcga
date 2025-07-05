@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If you have any [P] Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.",
-  "abilityName": "Psychic Float",
+  "abilityEffect": {
+    "en": "If you have any [P] Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.",
+    "fr": "Si une ou plusieurs cartes Énergie [P] sont attachées à votre Pokémon Actif, le Coût de retraite de ce dernier est de 0.",
+    "de": "Wenn an dein Aktives Pokémon mindestens 1 [P]-Energie angelegt ist, hat dieses Pokémon Rückzugskosten von 0.",
+    "it": "Se hai Energie [P] assegnate al tuo Pokémon Attivo, il Costo di Ritirata di quel Pokémon è 0.",
+    "es": "Si tienes alguna carta de Energía [P] unida a tu Pokémon Activo, el Coste de Retirada de ese Pokémon es 0."
+  },
+  "abilityName": {
+    "en": "Psychic Float",
+    "fr": "Psy-flotteur",
+    "de": "Psychoschweber",
+    "it": "Levitazione Psichica",
+    "es": "Flote psíquico"
+  },
   "attacks": [
     {
       "cost": [

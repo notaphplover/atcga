@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may change Lanturn's type to [W] until the end of your turn. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed. If Lanturn becomes Asleep, Confused, or Paralyzed after you have used this power, its type changes back to [L].",
-  "abilityName": "Submerge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may change Lanturn's type to [W] until the end of your turn. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed. If Lanturn becomes Asleep, Confused, or Paralyzed after you have used this power, its type changes back to [L]."
+  },
+  "abilityName": {
+    "en": "Submerge"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Put 1 more damage counter on your opponent's Poisoned Pokémon between turns.",
-  "abilityName": "More Poison",
+  "abilityEffect": {
+    "en": "Put 1 more damage counter on your opponent's Poisoned Pokémon between turns.",
+    "fr": "Placez 1 marqueur de dégâts supplémentaire sur le Pokémon Empoisonné de votre adversaire entre chaque tour.",
+    "de": "Lege zwischen den Zügen 1 Schadensmarke mehr auf das vergiftete Pokémon deines Gegners.",
+    "it": "Metti un segnalino danno in più sul Pokémon avvelenato del tuo avversario tra un turno e l'altro.",
+    "es": "Pon 1 contador de daño más en el Pokémon Envenenado de tu rival entre turnos."
+  },
+  "abilityName": {
+    "en": "More Poison",
+    "fr": "Poison Sans Fin",
+    "de": "Giftschub",
+    "it": "Più Veleno",
+    "es": "Veneno Plus"
+  },
   "attacks": [
     {
       "cost": [

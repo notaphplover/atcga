@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "If Giovanni's Machamp would be Knocked Out by an opponent's attack, flip a coin. If heads, Giovanni's Machamp is not Knocked Out and its remaining HP become 10 instead. This power can't be used if Giovanni's Machamp is already Asleep, Confused, or Paralyzed.",
-  "abilityName": "Fortitude",
+  "abilityEffect": {
+    "en": "If Giovanni's Machamp would be Knocked Out by an opponent's attack, flip a coin. If heads, Giovanni's Machamp is not Knocked Out and its remaining HP become 10 instead. This power can't be used if Giovanni's Machamp is already Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Fortitude"
+  },
   "attacks": [
     {
       "cost": [

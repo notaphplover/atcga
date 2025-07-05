@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has full HP, any damage done to this Pokémon by an opponent's attack is reduced by 50 (after applying Weakness and Resistance).",
-  "abilityName": "High Density Armor",
+  "abilityEffect": {
+    "en": "If this Pokémon has full HP, any damage done to this Pokémon by an opponent's attack is reduced by 50 (after applying Weakness and Resistance).",
+    "fr": "Si ce Pokémon a tous ses PV, tous les dégâts infligés à ce Pokémon par une attaque de votre adversaire sont réduits de 50 (après application de la Faiblesse et de la Résistance).",
+    "de": "Wenn dieses Pokémon volle KP hat, wird Schaden, der diesem Pokémon durch einen gegnerischen Angriff zugefügt wird, um 50 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Se questo Pokémon ha tutti i PS, i danni inflitti a questo Pokémon da un attacco del tuo avversario sono ridotti di 50, dopo aver applicato debolezza e resistenza.",
+    "es": "Si este Pokémon tiene todos sus PS, cualquier daño infligido a este Pokémon por un ataque de tu rival se reduce en 50 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "High Density Armor",
+    "fr": "Armure Résistante",
+    "de": "Schwere Rüstung",
+    "it": "Corazza Dura",
+    "es": "Armadura Alta Densidad"
+  },
   "attacks": [
     {
       "cost": [

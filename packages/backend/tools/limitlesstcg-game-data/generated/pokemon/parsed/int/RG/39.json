@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Any damage done to Metapod by attacks is reduced by 10 for each Energy attached to Metapod. You can't reduce more than 30 damage in this way.",
-  "abilityName": "Energy Protection",
+  "abilityEffect": {
+    "en": "Any damage done to Metapod by attacks is reduced by 10 for each Energy attached to Metapod. You can't reduce more than 30 damage in this way."
+  },
+  "abilityName": {
+    "en": "Energy Protection"
+  },
   "attacks": [
     {
       "cost": [

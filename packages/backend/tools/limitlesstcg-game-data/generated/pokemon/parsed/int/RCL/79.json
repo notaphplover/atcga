@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
-  "abilityName": "Perish Body",
+  "abilityEffect": {
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
+    "fr": "Si ce Pokémon est sur le Poste Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, lancez une pièce. Si c'est face, le Pokémon Attaquant est mis K.O.",
+    "de": "Wenn dieses Pokémon in der Aktiven Position ist und durch Schaden einer Attacke deines Gegners kampfunfähig wird, wirf 1 Münze. Bei Kopf ist das Angreifende Pokémon kampfunfähig.",
+    "it": "Se questo Pokémon è in posizione attiva e viene messo KO dai danni inflitti da un attacco dell'avversario, lancia una moneta. Se esce testa, il Pokémon attaccante viene messo KO.",
+    "pt": "Se este Pokémon estiver no Campo Ativo e for Nocauteado pelo dano de um ataque do seu oponente, jogue 1 moeda. Se sair cara, o Pokémon Atacante será Nocauteado.",
+    "es": "Si este Pokémon está en el Puesto Activo y queda Fuera de Combate por el daño de un ataque de tu rival, lanza 1 moneda. Si sale cara, el Pokémon Atacante queda Fuera de Combate."
+  },
+  "abilityName": {
+    "en": "Perish Body",
+    "fr": "Corps Condamné",
+    "de": "Unheilskörper",
+    "it": "Ultimotocco",
+    "pt": "Corpo Perecido",
+    "es": "Cuerpo Mortal"
+  },
   "attacks": [
     {
       "cost": [

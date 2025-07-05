@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [G] Energy card and a [L] Energy card and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
-  "abilityName": "Strong Charge",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a [G] Energy card and a [L] Energy card and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher une carte Énergie [G] et une carte Énergie [L] dans votre deck puis les attacher à vos Pokémon, de la manière que vous voulez. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du dein Deck nach 1 [G]-Energiekarte und 1 [L]-Energiekarte durchsuchen und sie beliebig an deine Pokémon anlegen. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare nel tuo mazzo una carta Energia [G] e una carta Energia [L] e assegnarle a piacimento ai tuoi Pokémon. Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu baraja 1 carta de Energía [G] y 1 carta de Energía [L], y unirlas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja."
+  },
+  "abilityName": {
+    "en": "Strong Charge",
+    "fr": "Charge Puissante",
+    "de": "Kräftige Aufladung",
+    "it": "Forte Carica",
+    "es": "Carga Fuerte"
+  },
   "attacks": [
     {
       "cost": [

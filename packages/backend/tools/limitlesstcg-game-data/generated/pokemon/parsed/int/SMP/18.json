@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may draw a card.",
-  "abilityName": "Slush Rush",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may draw a card.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez piocher une carte.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Karte ziehen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi pescare una carta.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes robar 1 carta."
+  },
+  "abilityName": {
+    "en": "Slush Rush",
+    "fr": "Chasse-Neige",
+    "de": "Schneescharrer",
+    "it": "Spalaneve",
+    "es": "Quitanieves"
+  },
   "attacks": [
     {
       "cost": [

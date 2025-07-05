@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each basic [G] Energy attached to your Pokémon provides [G][G] Energy. You can't apply more than 1 Jungle Totem Ability at a time.",
-  "abilityName": "Jungle Totem",
+  "abilityEffect": {
+    "en": "Each basic [G] Energy attached to your Pokémon provides [G][G] Energy. You can't apply more than 1 Jungle Totem Ability at a time.",
+    "fr": "Chaque Énergie [G] de base attachée à vos Pokémon fournit de l'Énergie [G][G]. Vous ne pouvez pas utiliser plus d'un talent Jungle Dominante à la fois.",
+    "de": "Jede an deine Pokémon angelegte [G]-Basis-Energie liefert [G][G]-Energie. Du kannst immer nur jeweils 1 Fähigkeit Dschungelherrschaft einsetzen.",
+    "it": "Ogni Energia base [G] assegnata ai tuoi Pokémon fornisce [G][G]. Può essere applicata solo un'abilità Signore della Giungla alla volta.",
+    "es": "Cada Energía [G] Básica unida a tus Pokémon proporciona Energía [G][G]. No puedes aplicar más de 1 habilidad Dominio de la Selva a la vez."
+  },
+  "abilityName": {
+    "en": "Jungle Totem",
+    "fr": "Jungle Dominante",
+    "de": "Dschungelherrschaft",
+    "it": "Signore della Giungla",
+    "es": "Dominio de la Selva"
+  },
   "attacks": [
     {
       "cost": [

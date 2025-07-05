@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your Ultra Beasts take 10 less damage from your opponent's attacks (after applying Weakness and Resistance).",
-  "abilityName": "Ultra Wall",
+  "abilityEffect": {
+    "en": "Your Ultra Beasts take 10 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+    "fr": "Vos Ultra-Chimères subissent 10 dégâts de moins provenant des attaques de votre adversaire (après application de la Faiblesse et de la Résistance).",
+    "de": "Deinen Ultrabestien werden durch Attacken deines Gegners 10 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Le tue Ultracreature subiscono 10 danni in meno dagli attacchi del tuo avversario, dopo aver applicato debolezza e resistenza.",
+    "es": "Los ataques de tu rival hacen 10 puntos de daño menos a tus Ultraentes (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Ultra Wall",
+    "fr": "Ultra-Mur",
+    "de": "Ultrawand",
+    "it": "Ultramuraglia",
+    "es": "Ultramuro"
+  },
   "attacks": [
     {
       "cost": [

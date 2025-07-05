@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "If you have the same number of cards in your hand as your opponent the attack cost of each of Yanmega's attacks is 0.",
-  "abilityName": "Insight",
+  "abilityEffect": {
+    "en": "If you have the same number of cards in your hand as your opponent the attack cost of each of Yanmega's attacks is 0.",
+    "fr": "Si vous avez le même nombre de cartes dans votre main que votre adversaire, le coût de chaque attaque de Yanmega est de 0.",
+    "de": "Wenn du die gleiche Anzahl Karten auf der Hand hast wie dein Gegner, kosten Yanmegas Angriffe 0.",
+    "it": "Se hai lo stesso numero di carte in mano rispetto al tuo avversario, il costo di attacco di ciascuno degli attacchi di Yanmega è 0."
+  },
+  "abilityName": {
+    "en": "Insight",
+    "fr": "Point de vue",
+    "de": "Einsicht",
+    "it": "Intuito"
+  },
   "attacks": [
     {
       "cost": [

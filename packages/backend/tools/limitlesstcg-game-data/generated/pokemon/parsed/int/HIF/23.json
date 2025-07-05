@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "As long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
-  "abilityName": "Electromagnetic Wall",
+  "abilityEffect": {
+    "en": "As long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+    "fr": "Tant que ce Pokémon est votre Pokémon Actif, chaque fois que votre adversaire attache une carte Énergie de sa main à l'un de ses Pokémon, placez 2 marqueurs de dégâts sur ce Pokémon-là.",
+    "de": "Solang dieses Pokémon dein Aktives Pokémon ist, lege jedes Mal, wenn dein Gegner 1 Energiekarte aus seiner Hand an 1 seiner Pokémon anlegt, 2 Schadensmarken auf jenes Pokémon.",
+    "it": "Fintanto che questo Pokémon è il tuo Pokémon attivo, ogni volta che il tuo avversario assegna una carta Energia dalla sua mano a uno dei suoi Pokémon, metti due segnalini danno su quel Pokémon."
+  },
+  "abilityName": {
+    "en": "Electromagnetic Wall",
+    "fr": "Mur Électromagnétique",
+    "de": "Elektromagnetischer Wall",
+    "it": "Magnetomuro"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
-  "abilityName": "Smooth Coat",
+  "abilityEffect": {
+    "en": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+    "fr": "Si des dégâts sont infligés à ce Pokémon par des attaques, lancez une pièce. Si c'est face, évitez les dégâts.",
+    "de": "Wirf 1 Münze, wenn diesem Pokémon durch Angriffe Schaden zugefügt wird. Bei „Kopf“ verhindere diesen Schaden.",
+    "it": "Se questo Pokémon subisce danni da attacchi, lancia una moneta. Se esce testa, previeni quei danni.",
+    "es": "Si se inflige cualquier daño a este Pokémon por ataques, lanza una moneda. Si sale cara, evita ese daño."
+  },
+  "abilityName": {
+    "en": "Smooth Coat",
+    "fr": "Pelage Lustré",
+    "de": "Geschmeidiger Mantel",
+    "it": "Pelliscia",
+    "es": "Manto Suave"
+  },
   "attacks": [
     {
       "cost": [

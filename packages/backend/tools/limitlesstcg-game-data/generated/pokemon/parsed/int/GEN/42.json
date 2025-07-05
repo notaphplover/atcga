@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your [F] Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
-  "abilityName": "Fighting Fury",
+  "abilityEffect": {
+    "en": "Each of your [F] Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+    "fr": "Les attaques de vos Pokémon [F] infligent 20 dégâts supplémentaires au Pokémon Actif de votre adversaire (avant application de la Faiblesse et de la Résistance).",
+    "de": "Jeder Angriff deiner [F]-Pokémon fügt dem Aktiven Pokémon deines Gegners 20 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+    "it": "Ciascuno degli attacchi dei tuoi Pokémon [F] infligge 20 danni in più al Pokémon attivo del tuo avversario, prima di aver applicato debolezza e resistenza.",
+    "es": "Los ataques de tus Pokémon [F] hacen 20 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Fighting Fury",
+    "fr": "Furie Combative",
+    "de": "Kampfgeist",
+    "it": "Furialotta",
+    "es": "Furia Luchadora"
+  },
   "attacks": [
     {
       "cost": [

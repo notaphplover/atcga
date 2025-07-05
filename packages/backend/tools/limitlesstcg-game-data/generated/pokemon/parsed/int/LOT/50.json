@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent has any Pokémon-GX or Pokémon-EX in play, this Pokémon has no Retreat Cost.",
-  "abilityName": "Wild Dash",
+  "abilityEffect": {
+    "en": "If your opponent has any Pokémon-GX or Pokémon-EX in play, this Pokémon has no Retreat Cost.",
+    "fr": "Si votre adversaire a au moins un Pokémon-GX ou Pokémon-EX en jeu, ce Pokémon n'a pas de Coût de Retraite.",
+    "de": "Wenn dein Gegner mindestens 1 Pokémon-GX oder Pokémon-EX im Spiel hat, hat dieses Pokémon keine Rückzugskosten.",
+    "it": "Se il tuo avversario ha dei Pokémon-GX o dei Pokémon-EX in gioco, questo Pokémon non ha costo di ritirata.",
+    "es": "Si tu rival tiene algún Pokémon-GX o Pokémon-EX en juego, este Pokémon no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Wild Dash",
+    "fr": "Panique Sauvage",
+    "de": "Wilder Spurt",
+    "it": "Scatto Selvaggio",
+    "es": "Carrera Salvaje"
+  },
   "attacks": [
     {
       "cost": [

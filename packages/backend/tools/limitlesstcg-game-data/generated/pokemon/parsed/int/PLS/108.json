@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card.",
-  "abilityName": "Overflow",
+  "abilityEffect": {
+    "en": "If your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card.",
+    "fr": "Si le Pokémon de votre adversaire est mis K.O. par les dégâts d'une attaque de ce Pokémon, récupérez 1 carte Récompense supplémentaire.",
+    "de": "Wenn das Pokémon deines Gegners durch Schaden eines Angriffs dieses Pokémon kampfunfähig wird, nimm 1 zusätzliche Preiskarte.",
+    "it": "Se un Pokémon del tuo avversario viene messo K.O. dal danno di un attacco di questo Pokémon, prendi una carta Premio in più.",
+    "es": "Si el Pokémon de tu rival queda Fuera de Combate por el daño de un ataque de este Pokémon, coge 1 carta de Premio más."
+  },
+  "abilityName": {
+    "en": "Overflow",
+    "fr": "Débordement",
+    "de": "Extrapreis",
+    "it": "Eccedenza",
+    "es": "Superávit"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each player can't play any Stadium cards from his or her hand.",
-  "abilityName": "Barrier Shrine",
+  "abilityEffect": {
+    "en": "Each player can't play any Stadium cards from his or her hand.",
+    "fr": "Aucun joueur ne peut jouer de cartes Stade de sa main.",
+    "de": "Kein Spieler darf Stadionkarten von seiner Hand spielen.",
+    "it": "Nessun giocatore può giocare carte Stadio dalla propria mano.",
+    "es": "Los jugadores no pueden jugar ninguna carta de Estadio de su mano."
+  },
+  "abilityName": {
+    "en": "Barrier Shrine",
+    "fr": "Sanctuaire",
+    "de": "Absperrstätte",
+    "it": "Barriera Sacra",
+    "es": "Barrera Santuario"
+  },
   "attacks": [
     {
       "cost": [

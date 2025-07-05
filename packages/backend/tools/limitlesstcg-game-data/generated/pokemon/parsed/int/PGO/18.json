@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "You must discard a [W] Energy card from your hand in order to use this Ability. Once during your turn, you may put 2 damage counters on 1 of your opponent's Benched Pokémon.",
-  "abilityName": "Pump Shot",
+  "abilityEffect": {
+    "en": "You must discard a [W] Energy card from your hand in order to use this Ability. Once during your turn, you may put 2 damage counters on 1 of your opponent's Benched Pokémon.",
+    "fr": "Vous devez défausser une carte Énergie [W] de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez placer 2 marqueurs de dégâts sur l'un des Pokémon de Banc de votre adversaire.",
+    "de": "Du musst 1 [W]-Energiekarte aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 2 Schadensmarken auf 1 Pokémon auf der Bank deines Gegners legen.",
+    "it": "Devi scartare una carta Energia [W] che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi mettere due segnalini danno su uno dei Pokémon nella panchina del tuo avversario.",
+    "pt": "Você deve descartar 1 carta de Energia [W] da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá colocar 2 contadores de dano em 1 dos Pokémon no Banco do seu oponente.",
+    "es": "Debes descartar 1 carta de Energía [W] de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes poner 2 contadores de daño en 1 de los Pokémon en Banca de tu rival."
+  },
+  "abilityName": {
+    "en": "Pump Shot",
+    "fr": "Coup Gonflé",
+    "de": "Pumpschuss",
+    "it": "Colpo Pompa",
+    "pt": "Disparo Bombeado",
+    "es": "Disparo Bomba"
+  },
   "attacks": [
     {
       "cost": [

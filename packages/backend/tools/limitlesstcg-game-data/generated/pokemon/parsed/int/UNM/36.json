@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may put a Misty's Favor card from your discard pile into your hand.",
-  "abilityName": "Mermaid's Call",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may put a Misty's Favor card from your discard pile into your hand.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez placer une carte Faveur d'Ondine de votre pile de défausse dans votre main.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Mistys Gunst-Karte aus deinem Ablagestapel auf deine Hand nehmen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi prendere una carta Cortesia di Misty dalla tua pila degli scarti e aggiungerla alle carte che hai in mano.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes poner 1 carta de Favor de Misty de tu pila de descartes en tu mano."
+  },
+  "abilityName": {
+    "en": "Mermaid's Call",
+    "fr": "Appel de la Sirène",
+    "de": "Ruf der Meerjungfrau",
+    "it": "Richiamo della Sirena",
+    "es": "Llamada de la Sirena"
+  },
   "attacks": [
     {
       "cost": [

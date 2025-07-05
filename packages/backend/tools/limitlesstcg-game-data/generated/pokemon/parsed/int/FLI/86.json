@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, put an Item card from your discard pile on top of your deck.",
-  "abilityName": "Wondrous Gift",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, put an Item card from your discard pile on top of your deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, placez une carte Objet de votre pile de défausse sur le dessus de votre deck.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Münze werfen. Lege bei Kopf 1 Itemkarte aus deinem Ablagestapel oben auf dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lanciare una moneta. Se esce testa, prendi una carta Strumento dalla tua pila degli scarti e mettila in cima al tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes lanzar 1 moneda. Si sale cara, pon 1 carta de Objeto de tu pila de descartes en la parte superior de tu baraja."
+  },
+  "abilityName": {
+    "en": "Wondrous Gift",
+    "fr": "Cadeau Merveilleux",
+    "de": "Wundersame Gabe",
+    "it": "Dono Meraviglioso",
+    "es": "Regalo Extraordinario"
+  },
   "attacks": [
     {
       "cost": [

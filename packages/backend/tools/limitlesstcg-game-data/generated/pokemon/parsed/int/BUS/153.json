@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to this Pokémon by attacks from [C] Pokémon.",
-  "abilityName": "Light's End",
+  "abilityEffect": {
+    "en": "Prevent all damage done to this Pokémon by attacks from [C] Pokémon.",
+    "fr": "Évitez tous les dégâts infligés à ce Pokémon par des attaques des Pokémon [C].",
+    "de": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von [C]-Pokémon zugefügt wird.",
+    "it": "Previeni tutti i danni da attacchi inflitti a questo Pokémon dai Pokémon [C].",
+    "es": "Evita todo el daño infligido a este Pokémon por ataques de Pokémon [C]."
+  },
+  "abilityName": {
+    "en": "Light's End",
+    "fr": "Extinction des Feux",
+    "de": "Lichtuntergang",
+    "it": "Fine della Luce",
+    "es": "Fulgor Final"
+  },
   "attacks": [
     {
       "cost": [

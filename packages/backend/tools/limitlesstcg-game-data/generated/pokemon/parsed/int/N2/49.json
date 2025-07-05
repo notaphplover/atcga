@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever a [M] Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [M] in play. (This power works even if Unown [M] is Asleep, Confused, or Paralyzed.)",
-  "abilityName": "[Metal]",
+  "abilityEffect": {
+    "en": "Whenever a [M] Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [M] in play. (This power works even if Unown [M] is Asleep, Confused, or Paralyzed.)"
+  },
+  "abilityName": {
+    "en": "[Metal]"
+  },
   "attacks": [
     {
       "cost": [

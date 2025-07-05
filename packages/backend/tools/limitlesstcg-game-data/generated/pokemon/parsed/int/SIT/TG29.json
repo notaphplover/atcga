@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may discard your hand and draw 3 cards.",
-  "abilityName": "Azure Pulse",
+  "abilityEffect": {
+    "en": "Once during your turn, you may discard your hand and draw 3 cards.",
+    "fr": "Une fois pendant votre tour, vous pouvez défausser votre main et piocher 3 cartes.",
+    "de": "Einmal während deines Zuges kannst du deine Handkarten auf deinen Ablagestapel legen und 3 Karten ziehen.",
+    "it": "Una sola volta durante il tuo turno, puoi scartare le carte che hai in mano e pescare tre carte.",
+    "pt": "Uma vez durante o seu turno, você poderá descartar a sua mão e comprar 3 cartas.",
+    "es": "Una vez durante tu turno, puedes descartar las cartas de tu mano y robar 3 cartas."
+  },
+  "abilityName": {
+    "en": "Azure Pulse",
+    "fr": "Pouls Azur",
+    "de": "Azurpuls",
+    "it": "Azzurropulsar",
+    "pt": "Pulso Ciano",
+    "es": "Pulso Celeste"
+  },
   "attacks": [
     {
       "cost": [

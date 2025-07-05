@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Any damage done to this Pokémon by an opponent's attack is reduced by 10 for each [C] in your opponent's Active Pokémon's Retreat Cost (after applying Weakness and Resistance).",
-  "abilityName": "Heavy Bumper",
+  "abilityEffect": {
+    "en": "Any damage done to this Pokémon by an opponent's attack is reduced by 10 for each [C] in your opponent's Active Pokémon's Retreat Cost (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés à ce Pokémon par une attaque de votre adversaire sont réduits de 10 pour chaque [C] dans le Coût de Retraite du Pokémon Actif de votre adversaire (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der diesem Pokémon durch einen gegnerischen Angriff zugefügt wird, wird um 10 Schadenspunkte für jedes [C]-Symbol in den Rückzugskosten des Aktiven Pokémon deines Gegners reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I danni inflitti a questo Pokémon da un attacco del tuo avversario sono ridotti di 10 per ogni [C] nel costo di ritirata del Pokémon attivo del tuo avversario, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño infligido a este Pokémon por un ataque de tu rival se reduce en 10 por cada [C] en el Coste de Retirada del Pokémon Activo de tu rival (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Heavy Bumper",
+    "fr": "Pare-Chocs Imposant",
+    "de": "Schwerer Puffer",
+    "it": "Paraurti Pesanti",
+    "es": "Parachoques Pesado"
+  },
   "attacks": [
     {
       "cost": [

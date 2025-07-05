@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If your opponent has any Pokémon VMAX in play, this Pokémon's attacks cost [C][C][C] less.",
-  "abilityName": "Hustle Bark",
+  "abilityEffect": {
+    "en": "If your opponent has any Pokémon VMAX in play, this Pokémon's attacks cost [C][C][C] less.",
+    "fr": "Si votre adversaire a au moins un Pokémon-VMAX en jeu, les attaques de ce Pokémon coûtent [C][C][C] de moins.",
+    "de": "Wenn dein Gegner mindestens 1 Pokémon-VMAX im Spiel hat, verringern sich die Kosten der Attacken dieses Pokémon um [C][C][C].",
+    "it": "Se il tuo avversario ha dei Pokémon-VMAX in gioco, il costo degli attacchi di questo Pokémon è ridotto di [C][C][C].",
+    "pt": "Se o seu oponente tiver algum Pokémon VMAX em jogo, os ataques deste Pokémon custarão [C][C][C] a menos.",
+    "es": "Si tu rival tiene algún Pokémon VMAX en juego, los ataques de este Pokémon cuestan [C][C][C] menos."
+  },
+  "abilityName": {
+    "en": "Hustle Bark",
+    "fr": "Aboiement Acharné",
+    "de": "Ehrgeiziges Bellen",
+    "it": "Abbaiare Frenetico",
+    "pt": "Latido Alvoroçado",
+    "es": "Ladrido Apremiante"
+  },
   "attacks": [
     {
       "cost": [

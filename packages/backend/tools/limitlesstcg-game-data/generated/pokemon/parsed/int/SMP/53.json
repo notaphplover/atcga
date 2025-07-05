@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Your [M] Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
-  "abilityName": "Steelworker",
+  "abilityEffect": {
+    "en": "Your [M] Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+    "fr": "Les attaques de vos Pokémon [M] infligent 10 dégâts supplémentaires au Pokémon Actif de votre adversaire (avant application de la Faiblesse et de la Résistance).",
+    "de": "Die Attacken deiner [M]-Pokémon fügen dem Aktiven Pokémon deines Gegners 10 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden).",
+    "it": "Gli attacchi dei tuoi Pokémon [M] infliggono 10 danni in più al Pokémon attivo del tuo avversario, prima di aver applicato debolezza e resistenza.",
+    "es": "Los ataques de tus Pokémon [M] hacen 10 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Steelworker",
+    "fr": "Expert Acier",
+    "de": "Stahlprofi",
+    "it": "Tempracciaio",
+    "es": "Acero Templado"
+  },
   "attacks": [
     {
       "cost": [

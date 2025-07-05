@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
-  "abilityName": "Floral Scent",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher un Pokémon dans votre deck, le montrer et l'ajouter à votre main. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du dein Deck nach 1 Pokémon durchsuchen, es deinem Gegner zeigen und auf deine Hand nehmen. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare nel tuo mazzo un Pokémon, mostrarlo e aggiungerlo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+  },
+  "abilityName": {
+    "en": "Floral Scent",
+    "fr": "Senteur Florale",
+    "de": "Blütenduft",
+    "it": "Fioraroma"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [L] or [M] Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Magnezone is affected by a Special Condition.",
-  "abilityName": "Magnetic Search",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a [L] or [M] Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Magnezone is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Magnetic Search"
+  },
   "attacks": [
     {
       "cost": [

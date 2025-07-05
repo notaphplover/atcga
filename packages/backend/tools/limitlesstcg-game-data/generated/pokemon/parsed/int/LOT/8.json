@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may use this Ability. Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can use this Ability during your first turn or on a Pokémon that was put into play this turn.",
-  "abilityName": "Quick-Ripening Herb",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may use this Ability. Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can use this Ability during your first turn or on a Pokémon that was put into play this turn.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez utiliser ce talent. Choisissez l'un de vos Pokémon de base en jeu. Si vous avez dans votre main une carte de Niveau 2 qui évolue de ce Pokémon, placez-la sur le Pokémon de base pour le faire évoluer. Vous pouvez utiliser ce talent pendant votre premier tour ou sur un Pokémon qui a été joué pendant ce tour.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du diese Fähigkeit einsetzen. Wähle 1 deiner Basis-Pokémon im Spiel. Wenn du eine Phase-2-Karte auf der Hand hast, die sich aus jenem Pokémon entwickelt, lege sie auf das Basis-Pokémon, um es zu entwickeln. Du kannst diese Fähigkeit während deines ersten Zuges oder für ein Pokémon, das in diesem Zug ins Spiel gebracht wurde, einsetzen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi usare questa abilità. Scegli uno dei tuoi Pokémon Base in gioco. Se hai in mano una carta di Fase 2 che si evolve da quel Pokémon, metticela sopra per farlo evolvere. Puoi usare questa abilità durante il tuo primo turno o su un Pokémon che hai messo in gioco nel turno in corso.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes usar esta habilidad. Elige 1 de tus Pokémon Básicos en juego. Si tienes en tu mano 1 carta de Fase 2 que evolucione de ese Pokémon, pon esa carta sobre el Pokémon Básico para que evolucione. Puedes usar esta habilidad durante tu primer turno o sobre un Pokémon que se haya puesto en juego en este turno."
+  },
+  "abilityName": {
+    "en": "Quick-Ripening Herb",
+    "fr": "Herbe Mûrissante",
+    "de": "Schnell reifendes Kraut",
+    "it": "Maturazione Rapida",
+    "es": "Hierba Maduración Exprés"
+  },
   "attacks": [
     {
       "cost": [

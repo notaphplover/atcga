@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may use this Ability. Both Active Pokémon (except for [G] Pokémon) are now Poisoned.",
-  "abilityName": "Poisonous Nest",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may use this Ability. Both Active Pokémon (except for [G] Pokémon) are now Poisoned.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez utiliser ce talent. Les deux Pokémon Actifs (à part les Pokémon [G]) sont maintenant Empoisonnés.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff), kannst du diese Fähigkeit einsetzen. Beide Aktiven Pokémon (außer [G]-Pokémon) sind jetzt vergiftet.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi usare questa abilità. Entrambi i Pokémon attivi (a eccezione dei Pokémon [G]) vengono avvelenati.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes usar esta habilidad. Ambos Pokémon Activos (excepto los Pokémon [G]) pasan a estar Envenenados."
+  },
+  "abilityName": {
+    "en": "Poisonous Nest",
+    "fr": "Nid Empoisonné",
+    "de": "Giftiges Nest",
+    "it": "Velenonido",
+    "es": "Nido Venenoso"
+  },
   "attacks": [
     {
       "cost": [

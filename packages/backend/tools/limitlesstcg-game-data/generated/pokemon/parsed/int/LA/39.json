@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard 2 cards from your hand. Then, remove 3 damage counters from Registeel. This power can't be used if Registeel is affected by a Special Condition.",
-  "abilityName": "Regi Heal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard 2 cards from your hand. Then, remove 3 damage counters from Registeel. This power can't be used if Registeel is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Regi Heal"
+  },
   "attacks": [
     {
       "cost": [

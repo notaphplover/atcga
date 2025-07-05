@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Each player can't play any Trainer cards from his or her hand.",
-  "abilityName": "Allergy Flower",
+  "abilityEffect": {
+    "en": "Each player can't play any Trainer cards from his or her hand.",
+    "fr": "Aucun joueur ne peut jouer de carte Dresseur de sa main.",
+    "de": "Kein Spieler darf Trainerkarten von seiner Hand spielen.",
+    "it": "Ciascun giocatore non può giocare carte Trainer presenti tra le carte che ha in mano."
+  },
+  "abilityName": {
+    "en": "Allergy Flower",
+    "fr": "Fleur allergène",
+    "de": "Allergieblume",
+    "it": "Allergifiore"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,12 @@
 {
-  "abilityEffect": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack.",
-  "abilityName": "Power Saver",
+  "abilityEffect": {
+    "en": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack.",
+    "fr": "S'il y a 4 Pokémon de la Team Magma en jeu ou moins, ce Pokémon ne peut pas attaquer."
+  },
+  "abilityName": {
+    "en": "Power Saver",
+    "fr": "Économie de Puissance"
+  },
   "attacks": [
     {
       "cost": [

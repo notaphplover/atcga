@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard this Pokémon and all cards attached to it (this does not count as a Knock Out). If you do, draw a card.",
-  "abilityName": "Farewell Letter",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard this Pokémon and all cards attached to it (this does not count as a Knock Out). If you do, draw a card.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est sur votre Banc, vous pouvez défausser ce Pokémon et toutes les cartes qui lui sont attachées (cela n'équivaut pas à un K.O.). Dans ce cas, piochez une carte.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, wenn sich dieses Pokémon auf deiner Bank befindet, dieses Pokémon und alle daran angelegten Karten auf deinen Ablagestapel legen (dieses Pokémon wird dadurch nicht kampfunfähig). Wenn du das machst, ziehe 1 Karte.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se questo Pokémon è nella tua panchina, puoi scartare questo Pokémon e tutte le carte a esso assegnate (quest'azione non vale come KO). Se lo fai, pesca una carta.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si este Pokémon está en tu Banca, puedes descartar este Pokémon y todas las cartas unidas a él (esto no equivale a dejarlo Fuera de Combate). Si lo haces, roba 1 carta."
+  },
+  "abilityName": {
+    "en": "Farewell Letter",
+    "fr": "Lettre d'Adieu",
+    "de": "Abschiedsbrief",
+    "it": "Lettera di Addio",
+    "es": "Carta de Despedida"
+  },
   "attacks": [
     {
       "cost": [

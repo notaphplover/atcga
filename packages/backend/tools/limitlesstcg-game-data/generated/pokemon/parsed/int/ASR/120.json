@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Basic Energy attached to your Benched Pokémon can't be discarded by an effect of your opponent's Item or Supporter cards.",
-  "abilityName": "Stand Sentry",
+  "abilityEffect": {
+    "en": "Basic Energy attached to your Benched Pokémon can't be discarded by an effect of your opponent's Item or Supporter cards.",
+    "fr": "Les Énergies de base attachées à vos Pokémon de Banc ne peuvent pas être défaussées par les effets des cartes Objet ou Supporter de votre adversaire.",
+    "de": "An die Pokémon auf deiner Bank angelegte Basis-Energien können nicht durch einen Effekt von Item- oder Unterstützerkarten deines Gegners auf deinen Ablagestapel gelegt werden.",
+    "it": "Nessuna Energia base assegnata ai tuoi Pokémon in panchina può essere scartata per effetto delle carte Strumento o carte Aiuto del tuo avversario.",
+    "pt": "Energias básicas ligadas aos seus Pokémon no Banco não podem ser descartadas pelos efeitos de cartas de Item ou Apoiador do seu oponente.",
+    "es": "Las Energías Básicas unidas a tus Pokémon en Banca no pueden descartarse por ningún efecto de las cartas de Objeto o de Partidario de tu rival."
+  },
+  "abilityName": {
+    "en": "Stand Sentry",
+    "fr": "Veilleur au Guet",
+    "de": "Wache stehen",
+    "it": "Sentinella in Posizione",
+    "pt": "Ficar de Sentinela",
+    "es": "Posición Centinela"
+  },
   "attacks": [
     {
       "cost": [

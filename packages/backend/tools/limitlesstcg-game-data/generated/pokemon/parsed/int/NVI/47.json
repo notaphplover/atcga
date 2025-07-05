@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out and its remaining HP becomes 10 instead.",
-  "abilityName": "Durable Body",
+  "abilityEffect": {
+    "en": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out and its remaining HP becomes 10 instead.",
+    "fr": "Si ce Pokémon doit être mis K.O. par les dégâts d'une attaque, lancez une pièce. Si c'est face, ce Pokémon n'est pas mis K.O. mais il ne lui reste que 10 PV.",
+    "de": "Wirf 1 Münze, wenn dieses Pokémon durch Angriffsschaden kampfunfähig würde. Bei „Kopf“ ist dieses Pokémon nicht kampfunfähig, sondern behält 10 KP.",
+    "it": "Se questo Pokémon sta per essere messo K.O. dal danno di un attacco, lancia una moneta. Se esce testa, il Pokémon non viene messo K.O. e i suoi PV rimanenti diventano 10.",
+    "es": "Si este Pokémon fuese a quedar Fuera de Combate por el daño de un ataque, lanza una moneda. Si sale cara, este Pokémon no queda Fuera de Combate, y sus PV restantes pasan a ser 10."
+  },
+  "abilityName": {
+    "en": "Durable Body",
+    "fr": "Corps Solide",
+    "de": "Durchhalten",
+    "it": "Duracorpo",
+    "es": "Cuerpo Resistente"
+  },
   "attacks": [
     {
       "cost": [

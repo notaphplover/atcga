@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns. This power can't be used if Drapion is affected by a Special Condition.",
-  "abilityName": "Tri-Poison",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns. This power can't be used if Drapion is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Tri-Poison"
+  },
   "attacks": [
     {
       "cost": [

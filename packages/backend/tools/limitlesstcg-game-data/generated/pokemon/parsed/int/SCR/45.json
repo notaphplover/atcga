@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Attacks used by this Pokémon cost [C] less for each Kofu card in your discard pile.",
-  "abilityName": "Food Prep",
+  "abilityEffect": {
+    "en": "Attacks used by this Pokémon cost [C] less for each Kofu card in your discard pile.",
+    "fr": "Les attaques utilisées par ce Pokémon coûtent [C] de moins pour chaque carte Kombu dans votre pile de défausse.",
+    "de": "Die Kosten der von diesem Pokémon eingesetzten Attacken verringern sich für jede Kombu-Karte in deinem Ablagestapel um [C].",
+    "it": "Il costo degli attacchi usati da questo Pokémon è ridotto di [C] per ogni carta Algaro nella tua pila degli scarti.",
+    "pt": "Os ataques usados por este Pokémon custam [C] a menos para cada carta Álgaro na sua pilha de descarte.",
+    "es": "Los ataques usados por este Pokémon cuestan [C] menos por cada carta de Fuco en tu pila de descartes."
+  },
+  "abilityName": {
+    "en": "Food Prep",
+    "fr": "Préparation de Repas",
+    "de": "Zubereitung",
+    "it": "Preparacibo",
+    "pt": "Preparação de Marmitas",
+    "es": "Preparar la Comida"
+  },
   "attacks": [
     {
       "cost": [

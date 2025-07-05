@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as this Pokémon is your Active Pokémon, whenever you attach an Energy from your hand to it, it is now Asleep.",
-  "abilityName": "Comatose",
+  "abilityEffect": {
+    "en": "As long as this Pokémon is your Active Pokémon, whenever you attach an Energy from your hand to it, it is now Asleep.",
+    "fr": "Tant que ce Pokémon est votre Pokémon Actif, lorsque vous lui attachez une Énergie de votre main, il est désormais Endormi.",
+    "de": "Jedes Mal, wenn du 1 Energie von deiner Hand an dieses Pokémon anlegst und solang es dein Aktives Pokémon ist, schläft es jetzt.",
+    "it": "Fintanto che questo Pokémon è il tuo Pokémon attivo, ogni volta che gli assegni un'Energia dalla tua mano, questo Pokémon viene addormentato.",
+    "es": "Mientras este Pokémon sea tu Pokémon Activo, cada vez que le unas 1 Energía de tu mano, pasa a estar Dormido."
+  },
+  "abilityName": {
+    "en": "Comatose",
+    "fr": "Hypersommeil",
+    "de": "Dauerschlaf",
+    "it": "Sonno Assoluto",
+    "es": "Letargo Perenne"
+  },
   "attacks": [
     {
       "cost": [

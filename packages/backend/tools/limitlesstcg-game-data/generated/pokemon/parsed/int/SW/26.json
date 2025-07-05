@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn, if Electrode would be Knocked Out by damage from an attack, you may use this power. Electrode isn't discarded. Instead, attach it as an Energy card to 1 of your Pokémon. While attached, this card is a Special Energy card and provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)",
-  "abilityName": "Energy Shift",
+  "abilityEffect": {
+    "en": "Once during your turn, if Electrode would be Knocked Out by damage from an attack, you may use this power. Electrode isn't discarded. Instead, attach it as an Energy card to 1 of your Pokémon. While attached, this card is a Special Energy card and provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)"
+  },
+  "abilityName": {
+    "en": "Energy Shift"
+  },
   "attacks": [
     {
       "cost": [

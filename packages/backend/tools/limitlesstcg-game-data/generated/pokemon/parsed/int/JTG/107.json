@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy card from your hand to 1 of your Pokémon, heal 90 damage from that Pokémon.",
-  "abilityName": "Auto Heal",
+  "abilityEffect": {
+    "en": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy card from your hand to 1 of your Pokémon, heal 90 damage from that Pokémon.",
+    "fr": "Tant que ce Pokémon est sur le Poste Actif, chaque fois que vous attachez une carte Énergie de votre main à l'un de vos Pokémon, soignez 90 dégâts de ce Pokémon-là.",
+    "de": "Solange dieses Pokémon in der Aktiven Position ist, heile jedes Mal, wenn du 1 Energiekarte aus deiner Hand an 1 deiner Pokémon anlegst, 90 Schadenspunkte bei jenem Pokémon.",
+    "it": "Fintanto che questo Pokémon è in posizione attiva, ogni volta che assegni a uno dei tuoi Pokémon una carta Energia dalla tua mano, cura quel Pokémon da 90 danni.",
+    "pt": "Enquanto este Pokémon estiver no Campo Ativo, sempre que você ligar uma carta de Energia da sua mão a 1 dos seus Pokémon, cure 90 pontos de dano daquele Pokémon.",
+    "es": "Mientras este Pokémon esté en el Puesto Activo, cada vez que unas una carta de Energía de tu mano a uno de tus Pokémon, cura 90 puntos de daño a ese Pokémon."
+  },
+  "abilityName": {
+    "en": "Auto Heal",
+    "fr": "Auto-Soin",
+    "de": "Automatische Heilung",
+    "it": "Autocura",
+    "pt": "Cura Autômata",
+    "es": "Autocuración"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Any damage done to this Pokémon by attacks from your opponent's [R] or [W] Pokémon is reduced by 30 (after applying Weakness and Resistance).",
-  "abilityName": "Thick Fat",
+  "abilityEffect": {
+    "en": "Any damage done to this Pokémon by attacks from your opponent's [R] or [W] Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés à ce Pokémon par des attaques des Pokémon [R] ou [W] de votre adversaire sont réduits de 30 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der diesem Pokémon durch Angriffe der [R]- oder [W]- Pokémon deines Gegners zugefügt wird, wird um 30 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I danni inflitti a questo Pokémon dagli attacchi dei Pokémon [R] o [W] del tuo avversario sono ridotti di 30, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño infligido a este Pokémon por ataques de los Pokémon [R] o [W] de tu rival se reduce en 30 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Thick Fat",
+    "fr": "Isograisse",
+    "de": "Speckschicht",
+    "it": "Grassospesso",
+    "es": "Sebo"
+  },
   "attacks": [
     {
       "cost": [

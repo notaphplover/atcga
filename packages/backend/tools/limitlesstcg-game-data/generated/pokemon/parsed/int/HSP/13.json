@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as Smoochum is Asleep, prevent all damage done to Smoochum from attacks.",
-  "abilityName": "Sweet Sleeping Face",
+  "abilityEffect": {
+    "en": "As long as Smoochum is Asleep, prevent all damage done to Smoochum from attacks.",
+    "fr": "Tant que Lippouti reste Endormi, prévenez tous les dégâts qui peuvent lui être infligés par des attaques.",
+    "de": "Solange Kussilla schläft, verhindere allen Schaden, der Kussilla durch Angriffe zugefügt wird.",
+    "it": "Fintanto che Smoochum è Addormentato, previeni tutto il danno inflitto a Smoochum dagli attacchi.",
+    "es": "Mientras Smoochum esté Dormido, previene de todo el daño hecho a Smoochum por ataques."
+  },
+  "abilityName": {
+    "en": "Sweet Sleeping Face",
+    "fr": "Joli visage endormi",
+    "de": "Süßes Schlafgesicht",
+    "it": "Musetto Dormiglione",
+    "es": "Cara de dulces sueños"
+  },
   "attacks": [
     {
       "cost": [],

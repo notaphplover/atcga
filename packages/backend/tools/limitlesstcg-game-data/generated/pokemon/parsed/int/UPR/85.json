@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to your [M] Pokémon by attacks from your opponent's Pokémon that have any Special Energy attached to them.",
-  "abilityName": "Earthen Shield",
+  "abilityEffect": {
+    "en": "Prevent all damage done to your [M] Pokémon by attacks from your opponent's Pokémon that have any Special Energy attached to them.",
+    "fr": "Évitez tous les dégâts d'attaque infligés à vos Pokémon [M] par les Pokémon de votre adversaire auxquels est attachée de l'Énergie spéciale.",
+    "de": "Verhindere allen Schaden, der deinen [M]-Pokémon durch Attacken von Pokémon deines Gegners, an die mindestens 1 Spezial-Energie angelegt ist, zugefügt wird.",
+    "it": "Previeni tutti i danni inflitti ai tuoi Pokémon [M] dagli attacchi dei Pokémon del tuo avversario che abbiano delle Energie speciali assegnate.",
+    "es": "Evita todo el daño infligido a tus Pokémon [M] por ataques de los Pokémon de tu rival que tengan alguna Energía Especial unida a ellos."
+  },
+  "abilityName": {
+    "en": "Earthen Shield",
+    "fr": "Bouclier de Terre",
+    "de": "Im Schutz der Erde",
+    "it": "Terrascudo",
+    "es": "Escudo Terrestre"
+  },
   "attacks": [
     {
       "cost": [

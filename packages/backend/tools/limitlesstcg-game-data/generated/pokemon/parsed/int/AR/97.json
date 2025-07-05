@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may choose 1 of your opponent's Pokémon LV.X. Remove the Level-Up card from that Pokémon and have your opponent shuffle that card into his or her deck. The power can't be used if Gengar is affected by a Special Condition.",
-  "abilityName": "Level-Down",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may choose 1 of your opponent's Pokémon LV.X. Remove the Level-Up card from that Pokémon and have your opponent shuffle that card into his or her deck. The power can't be used if Gengar is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Level-Down"
+  },
   "attacks": [
     {
       "cost": [

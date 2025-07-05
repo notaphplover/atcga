@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any [G] Energy attached to it, it takes 30 less damage from attacks (after applying Weakness and Resistance).",
-  "abilityName": "Grass Cushion",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [G] Energy attached to it, it takes 30 less damage from attacks (after applying Weakness and Resistance).",
+    "fr": "Si de l'Énergie [G] est attachée à ce Pokémon, il subit 30 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+    "de": "Wenn an dieses Pokémon mindestens 1 [G]-Energie angelegt ist, werden diesem Pokémon durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Se questo Pokémon ha delle Energie [G] assegnate, subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+    "es": "Si este Pokémon tiene alguna Energía [G] unida a él, los ataques le hacen 30 puntos de daño menos (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Grass Cushion",
+    "fr": "Coussin Plante",
+    "de": "Pflanzenpolster",
+    "it": "Cuscino d'Erba",
+    "es": "Cojín Planta"
+  },
   "attacks": [
     {
       "cost": [

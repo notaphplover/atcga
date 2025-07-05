@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may look at the top card of your opponent's deck. If you do, look at the top card of your deck.",
-  "abilityName": "Psychic Insight",
+  "abilityEffect": {
+    "en": "Once during your turn, you may look at the top card of your opponent's deck. If you do, look at the top card of your deck.",
+    "fr": "Une fois pendant votre tour, vous pouvez regarder la carte du dessus du deck de votre adversaire. Dans ce cas, regardez la carte du dessus de votre deck.",
+    "de": "Einmal während deines Zuges kannst du dir die oberste Karte des Decks deines Gegners anschauen. Wenn du das machst, schau dir die oberste Karte deines Decks an.",
+    "it": "Una sola volta durante il tuo turno, puoi guardare la prima carta del mazzo del tuo avversario. Se lo fai, guarda la prima carta del tuo mazzo.",
+    "pt": "Uma vez durante o seu turno, você poderá olhar a carta de cima do baralho do seu oponente. Se fizer isto, olhe a carta de cima do seu baralho.",
+    "es": "Una vez durante tu turno, puedes mirar la primera carta de la baraja de tu rival. Si lo haces, mira la primera carta de tu baraja."
+  },
+  "abilityName": {
+    "en": "Psychic Insight",
+    "fr": "Vue Psy",
+    "de": "Psycho-Einsicht",
+    "it": "Psicointuito",
+    "pt": "Percepção Psíquica",
+    "es": "Intuición Psíquica"
+  },
   "attacks": [
     {
       "cost": [

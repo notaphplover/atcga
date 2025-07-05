@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever an attack (including your own) does 40 or less damage to Shuckle (after applying Weakness and Resistance), reduce that damage to 10. (Any other effects of attacks still happen.) This power stops working while Shuckle is Asleep, Confused, or Paralyzed.",
-  "abilityName": "Hard Shell",
+  "abilityEffect": {
+    "en": "Whenever an attack (including your own) does 40 or less damage to Shuckle (after applying Weakness and Resistance), reduce that damage to 10. (Any other effects of attacks still happen.) This power stops working while Shuckle is Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Hard Shell"
+  },
   "attacks": [
     {
       "cost": [

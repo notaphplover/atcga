@@ -1,6 +1,14 @@
 {
-  "abilityEffect": "This Pokémon may have up to 4 Pokémon Tool cards attached to it. (If this Pokémon loses this Ability, discard Pokémon Tool cards attached to this Pokémon until only 1 Pokémon Tool card remains.)",
-  "abilityName": "Toolbox",
+  "abilityEffect": {
+    "en": "This Pokémon may have up to 4 Pokémon Tool cards attached to it. (If this Pokémon loses this Ability, discard Pokémon Tool cards attached to this Pokémon until only 1 Pokémon Tool card remains.)",
+    "fr": "Jusqu'à 4 cartes Outil Pokémon peuvent être attachées à ce Pokémon. (Si ce Pokémon perd cette capacité spéciale, défaussez des cartes Outil Pokémon attachées à ce Pokémon jusqu'à ce qu'il ne lui reste qu'une seule carte Outil Pokémon.)",
+    "de": "An dieses Pokémon können bis zu 4 Pokémon-Ausrüstungen angelegt sein. (Wenn dieses Pokémon diese Fähigkeit verliert, lege so lang Pokémon-Ausrüstungen, die an dieses Pokémon angelegt sind, auf deinen Ablagestapel, bis 1 Pokémon-Ausrüstung übrig bleibt.)"
+  },
+  "abilityName": {
+    "en": "Toolbox",
+    "fr": "Boîte à Outils",
+    "de": "Ausrüstungskiste"
+  },
   "attacks": [
     {
       "cost": [

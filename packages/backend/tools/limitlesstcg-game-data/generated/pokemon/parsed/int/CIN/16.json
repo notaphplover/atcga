@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may shuffle this Pokémon and all cards attached to it into your deck.",
-  "abilityName": "Escape",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may shuffle this Pokémon and all cards attached to it into your deck.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez mélanger ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du dieses Pokémon und alle an es angelegten Karten in dein Deck mischen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi rimischiare questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes poner este Pokémon y todas las cartas unidas a él en tu baraja y barajarlas todas."
+  },
+  "abilityName": {
+    "en": "Escape",
+    "fr": "Évasion",
+    "de": "Entkommen",
+    "it": "Fuga",
+    "es": "Escapada"
+  },
   "attacks": [
     {
       "cost": [

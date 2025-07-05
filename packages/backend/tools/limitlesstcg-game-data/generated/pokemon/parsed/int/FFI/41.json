@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard any Stadium card in play. If you do, put a Stadium card with a different name from your discard pile into play.",
-  "abilityName": "Teleport Room",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard any Stadium card in play. If you do, put a Stadium card with a different name from your discard pile into play.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser toute carte Stade en jeu. Dans ce cas, prenez une carte Stade d'un nom différent dans votre pile de défausse et mettez-la en jeu.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 beliebige Stadionkarte im Spiel auf den Ablagestapel legen. Wenn du das machst, nimm eine Stadionkarte mit anderem Namen aus deinem Ablagestapel und bringe diese ins Spiel.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una carta Stadio in gioco. Se lo fai, prendi una carta Stadio con un altro nome dalla tua pila degli scarti e mettila in gioco.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar cualquier carta de Estadio en juego. Si lo haces, pon en juego 1 carta de Estadio con un nombre diferente de tu pila de descartes."
+  },
+  "abilityName": {
+    "en": "Teleport Room",
+    "fr": "Centre de Téléportation",
+    "de": "Teleportationsraum",
+    "it": "Sala Teletrasporto",
+    "es": "Sala Teletransporte"
+  },
   "attacks": [
     {
       "cost": [

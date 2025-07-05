@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "When 1 of your Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a [L] Energy from that Pokémon to this Pokémon.",
-  "abilityName": "Electrical Grounding",
+  "abilityEffect": {
+    "en": "When 1 of your Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a [L] Energy from that Pokémon to this Pokémon.",
+    "fr": "Lorsque l'un de vos Pokémon est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, vous pouvez déplacer une Énergie [L] de ce Pokémon-là vers celui-ci.",
+    "de": "Wenn 1 deiner Pokémon durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird, kannst du 1 [L]-Energie von jenem Pokémon auf dieses Pokémon verschieben.",
+    "it": "Quando uno dei tuoi Pokémon viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, puoi spostare un'Energia [L] da quel Pokémon a questo Pokémon.",
+    "pt": "Quando 1 dos seus Pokémon for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, você poderá mover uma Energia [L] daquele Pokémon para este Pokémon.",
+    "es": "Cuando uno de tus Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, puedes mover 1 Energía [L] de ese Pokémon a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Electrical Grounding",
+    "fr": "Prise de Terre",
+    "de": "Elektrische Erdung",
+    "it": "Messa a Terra Elettrica",
+    "pt": "Aterramento Elétrico",
+    "es": "Toma de Tierra"
+  },
   "attacks": [
     {
       "cost": [

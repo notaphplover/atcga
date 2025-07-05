@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if 1 of your Pokémon-GX or Pokémon-EX was Knocked Out during your opponent's last turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. You can't use more than 1 Cat Walk Ability each turn.",
-  "abilityName": "Cat Walk",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if 1 of your Pokémon-GX or Pokémon-EX was Knocked Out during your opponent's last turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. You can't use more than 1 Cat Walk Ability each turn.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), si l'un de vos Pokémon-GX ou Pokémon-EX a été mis K.O. pendant le dernier tour de votre adversaire, vous pouvez chercher jusqu'à 2 cartes dans votre deck, puis les ajouter à votre main. Mélangez ensuite votre deck. Vous ne pouvez utiliser plus d'un talent Marche Féline par tour.",
+    "de": "Einmal während deines Zuges (bevor du angreifst), wenn 1 deiner Pokémon-GX oder Pokémon-EX während des letzten Zuges deines Gegners kampfunfähig wurde, kannst du dein Deck nach bis zu 2 Karten durchsuchen und sie auf deine Hand nehmen. Mische anschließend dein Deck. Du kannst die Fähigkeit Katzenpirsch nur einmal pro Zug einsetzen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, se uno dei tuoi Pokémon-GX o Pokémon-EX è stato messo KO durante l'ultimo turno del tuo avversario, puoi cercare nel tuo mazzo fino a due carte e aggiungerle alle carte che hai in mano. Poi rimischia le carte del tuo mazzo. Puoi usare l'abilità Passo Felino una sola volta per turno.",
+    "es": "Una vez durante tu turno (antes de tu ataque), si 1 de tus Pokémon-GX o Pokémon-EX quedó Fuera de Combate durante el último turno de tu rival, puedes buscar en tu baraja hasta 2 cartas y ponerlas en tu mano. Después, baraja las cartas de tu baraja. No puedes usar más de 1 habilidad Paseo de Gatos en cada turno."
+  },
+  "abilityName": {
+    "en": "Cat Walk",
+    "fr": "Marche Féline",
+    "de": "Katzenpirsch",
+    "it": "Passo Felino",
+    "es": "Paseo de Gatos"
+  },
   "attacks": [
     {
       "cost": [

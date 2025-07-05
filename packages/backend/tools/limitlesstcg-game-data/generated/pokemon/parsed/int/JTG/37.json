@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "All of your Pokémon in play get +40 HP. The effect of Vibrant Dance doesn't stack.",
-  "abilityName": "Vibrant Dance",
+  "abilityEffect": {
+    "en": "All of your Pokémon in play get +40 HP. The effect of Vibrant Dance doesn't stack.",
+    "fr": "Tous vos Pokémon en jeu reçoivent +40 PV. L'effet de Danse Vivante n'est pas cumulable.",
+    "de": "Alle deine Pokémon im Spiel erhalten +40 KP. Der Effekt von Lebhafter Tanz stapelt sich nicht.",
+    "it": "I tuoi Pokémon in gioco hanno 40 PS in più. L'effetto di Danza Vivace non è cumulabile.",
+    "pt": "Todos os seus Pokémon em jogo recebem 40 PS a mais. O efeito de Samba da Vitalidade não acumula.",
+    "es": "Cada uno de tus Pokémon en juego obtiene 40 PS más. El efecto de Danza Vibrante no se acumula."
+  },
+  "abilityName": {
+    "en": "Vibrant Dance",
+    "fr": "Danse Vivante",
+    "de": "Lebhafter Tanz",
+    "it": "Danza Vivace",
+    "pt": "Samba da Vitalidade",
+    "es": "Danza Vibrante"
+  },
   "attacks": [
     {
       "cost": [

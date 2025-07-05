@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may heal 20 damage from your Active [G] Pokémon.",
-  "abilityName": "Floral Heal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may heal 20 damage from your Active [G] Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez soigner 20 dégâts à votre Pokémon [G] Actif.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 20 Schadenspunkte bei deinem Aktiven [G]-Pokémon heilen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi curare il tuo Pokémon [G] attivo da 20 danni.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes curar 20 puntos de daño a tu Pokémon [G] Activo."
+  },
+  "abilityName": {
+    "en": "Floral Heal",
+    "fr": "Soin Fleuris",
+    "de": "Blumenheilung",
+    "it": "Cura Botanica",
+    "es": "Curación Floral"
+  },
   "attacks": [
     {
       "cost": [

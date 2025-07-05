@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any [M] Energy attached to it, this Pokémon's type is both [F] and [M] .",
-  "abilityName": "Dual Armor",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [M] Energy attached to it, this Pokémon's type is both [F] and [M] .",
+    "fr": "Si de l'Énergie [M] est attachée à ce Pokémon, le type de ce Pokémon est [F] et [M].",
+    "de": "Wenn an dieses Pokémon bereits [M]-Energie angelegt ist, ist dieses Pokémon sowohl vom Typ [F] als auch [M].",
+    "it": "Se questo Pokémon ha delle Energie [M] assegnate, il tipo di questo Pokémon è sia [F] che [M].",
+    "es": "Si este Pokémon tiene alguna Energía [M] unida a él, el tipo de este Pokémon es [F] y [M]."
+  },
+  "abilityName": {
+    "en": "Dual Armor",
+    "fr": "Double Armure",
+    "de": "Doppelte Rüstung",
+    "it": "Doppiarmatura",
+    "es": "Armadura Dual"
+  },
   "attacks": [
     {
       "cost": [

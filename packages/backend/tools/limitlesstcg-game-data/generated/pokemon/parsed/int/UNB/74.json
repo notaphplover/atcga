@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "As long as this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Basic Pokémon between turns.",
-  "abilityName": "Detention Gas",
+  "abilityEffect": {
+    "en": "As long as this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Basic Pokémon between turns.",
+    "fr": "Tant que ce Pokémon est votre Pokémon Actif, placez un marqueur de dégâts sur chacun des Pokémon de base de votre adversaire entre chaque tour.",
+    "de": "Solang dieses Pokémon dein Aktives Pokémon ist, lege zwischen den Zügen 1 Schadensmarke auf jedes Basis-Pokémon deines Gegners.",
+    "it": "Fintanto che questo Pokémon è il tuo Pokémon attivo, tra un turno e l'altro, metti un segnalino danno su ciascuno dei Pokémon Base del tuo avversario.",
+    "es": "Mientras este Pokémon sea tu Pokémon Activo, pon 1 contador de daño en cada uno de los Pokémon Básicos de tu rival entre turnos."
+  },
+  "abilityName": {
+    "en": "Detention Gas",
+    "fr": "Gaz Captif",
+    "de": "Hinderndes Gas",
+    "it": "Trappola Gassosa",
+    "es": "Gas Castigador"
+  },
   "attacks": [
     {
       "cost": [

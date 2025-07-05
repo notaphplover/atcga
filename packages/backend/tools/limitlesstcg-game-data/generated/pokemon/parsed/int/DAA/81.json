@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Your opponent's Benched Pokémon can't be healed.",
-  "abilityName": "Heal Jamming",
+  "abilityEffect": {
+    "en": "Your opponent's Benched Pokémon can't be healed.",
+    "fr": "Les Pokémon de Banc de votre adversaire ne peuvent pas être soignés.",
+    "de": "Die Pokémon auf der Bank deines Gegners können nicht geheilt werden.",
+    "it": "I Pokémon nella panchina del tuo avversario non possono essere curati.",
+    "pt": "Os Pokémon no Banco do seu oponente não podem ser curados.",
+    "es": "Los Pokémon en Banca de tu rival no pueden ser curados."
+  },
+  "abilityName": {
+    "en": "Heal Jamming",
+    "fr": "Soins Suspendus",
+    "de": "Heilstörung",
+    "it": "Interferenza Malsana",
+    "pt": "Interferência de Cura",
+    "es": "Bloqueo Curación"
+  },
   "attacks": [
     {
       "cost": [

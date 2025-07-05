@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [W] Energy card from your hand. If you do, put 3 damage counters on 1 of your opponent's Pokémon.",
-  "abilityName": "Water Shuriken",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [W] Energy card from your hand. If you do, put 3 damage counters on 1 of your opponent's Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une carte Énergie [W] de votre main. Dans ce cas, placez 3 marqueurs de dégâts sur l'un des Pokémon de votre adversaire.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 [W]-Energiekarte von deiner Hand auf deinen Ablagestapel legen. Wenn du das machst, lege 3 Schadensmarken auf 1 Pokémon deines Gegners.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare una carta Energia [W] dalla tua mano. Se lo fai, metti tre segnalini danno su uno dei Pokémon del tuo avversario.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía [W] de tu mano. Si lo haces, pon 3 contadores de daño en 1 de los Pokémon de tu rival."
+  },
+  "abilityName": {
+    "en": "Water Shuriken",
+    "fr": "Sheauriken",
+    "de": "Wasser-Shuriken",
+    "it": "Acqualame",
+    "es": "Shuriken de Agua"
+  },
   "attacks": [
     {
       "cost": [

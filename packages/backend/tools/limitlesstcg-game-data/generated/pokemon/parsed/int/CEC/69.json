@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for up to 3 Supporter cards, reveal them, and put them into your hand. Then, shuffle your deck. If you searched your deck in this way, this Pokémon is Knocked Out.",
-  "abilityName": "Call Signal",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for up to 3 Supporter cards, reveal them, and put them into your hand. Then, shuffle your deck. If you searched your deck in this way, this Pokémon is Knocked Out.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher jusqu'à 3 cartes Supporter dans votre deck, les montrer, puis les ajouter à votre main. Mélangez ensuite votre deck. Si vous avez cherché votre deck de cette façon, ce Pokémon est mis K.O.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du dein Deck nach bis zu 3 Unterstützerkarten durchsuchen, sie deinem Gegner zeigen und auf deine Hand nehmen. Mische anschließend dein Deck. Wenn du auf diese Weise dein Deck durchsucht hast, ist dieses Pokémon kampfunfähig.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare nel tuo mazzo fino a tre carte Aiuto, mostrarle e aggiungerle alle carte che hai in mano. Poi rimischia le carte del tuo mazzo. Se hai cercato nel tuo mazzo in questo modo, questo Pokémon viene messo KO.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu baraja hasta 3 cartas de Partidario, enseñarlas y ponerlas en tu mano. Después, baraja las cartas de tu baraja. Si has buscado en tu baraja de esta manera, este Pokémon queda Fuera de Combate."
+  },
+  "abilityName": {
+    "en": "Call Signal",
+    "fr": "Signal d'Appel",
+    "de": "Rufsignal",
+    "it": "Cerca Segnale",
+    "es": "Señal de Atracción"
+  },
   "attacks": [
     {
       "cost": [

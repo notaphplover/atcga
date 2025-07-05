@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "All of your Pokémon that have Energy attached have no Weakness.",
-  "abilityName": "Protective Glow",
+  "abilityEffect": {
+    "en": "All of your Pokémon that have Energy attached have no Weakness.",
+    "fr": "Vos Pokémon auxquels de l'Énergie est attachée n'ont pas de Faiblesse.",
+    "de": "Alle deine Pokémon, an die Energie angelegt ist, haben keine Schwäche.",
+    "it": "Tutti i tuoi Pokémon che hanno delle Energie assegnate non hanno debolezza.",
+    "pt": "Todos os seus Pokémon que tenham Energia ligada a eles não têm Fraqueza.",
+    "es": "Ninguno de tus Pokémon que tenga alguna Energía unida a él tiene Debilidad."
+  },
+  "abilityName": {
+    "en": "Protective Glow",
+    "fr": "Lueur Protectrice",
+    "de": "Schützender Schein",
+    "it": "Lume Protettivo",
+    "pt": "Brilho Protetor",
+    "es": "Brillo Protector"
+  },
   "attacks": [
     {
       "cost": [

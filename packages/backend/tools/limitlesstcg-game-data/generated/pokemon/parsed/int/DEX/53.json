@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Your Pokémon's attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
-  "abilityName": "Ancient Scream",
+  "abilityEffect": {
+    "en": "Your Pokémon's attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+    "fr": "Les attaques de vos Pokémon infligent 10 dégâts supplémentaires aux Pokémon Actifs (avant application de la Faiblesse et de la Résistance).",
+    "de": "Die Angriffe deiner Pokémon fügen den Aktiven Pokémon 10 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+    "it": "Gli attacchi dei tuoi Pokémon infliggono 10 danni in più al Pokémon attivo, prima di aver applicato debolezza e resistenza."
+  },
+  "abilityName": {
+    "en": "Ancient Scream",
+    "fr": "Cri Préhistorique",
+    "de": "Urzeitschrei",
+    "it": "Urloantico"
+  },
   "attacks": [
     {
       "cost": [

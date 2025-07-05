@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "Once during your turn,when you put Unown from your hand onto your Bench, you may search your deck for a [D] Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
-  "abilityName": "DARK",
+  "abilityEffect": {
+    "en": "Once during your turn,when you put Unown from your hand onto your Bench, you may search your deck for a [D] Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+    "fr": "Une seule fois pendant votre tour, lorsque vous prenez Zarbi dans votre main et le placez sur votre Banc, vous pouvez chercher une carte Énergie [D] dans votre deck, la montrer à votre adversaire et la placer dans votre main. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges kannst du, wenn du Icognito von deiner Hand auf deine Bank legst, dein Deck nach 1 [D]-Energiekarte durchsuchen, sie deinem Gegner zeigen und sie auf die Hand nehmen. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, quando metti Unown nella tua Panchina, puoi cercare nel tuo mazzo una carta Energia [D], mostrarla al tuo avversario e aggiungerla alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+  },
+  "abilityName": {
+    "en": "DARK",
+    "fr": "TÉNÈBRES",
+    "de": "DUNKELHEIT",
+    "it": "DARK"
+  },
   "attacks": [
     {
       "cost": [

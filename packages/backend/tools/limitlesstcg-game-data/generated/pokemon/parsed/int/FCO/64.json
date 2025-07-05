@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may put a Pokémon Tool card attached to this Pokémon into your hand.",
-  "abilityName": "Drive Change",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may put a Pokémon Tool card attached to this Pokémon into your hand.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez placer une carte Outil Pokémon attachée à ce Pokémon dans votre main.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Pokémon-Ausrüstung, die an dieses Pokémon angelegt ist, auf deine Hand nehmen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi aggiungere alle carte che hai in mano una carta Oggetto Pokémon assegnata a questo Pokémon.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes poner 1 carta de Herramienta Pokémon unida a este Pokémon en tu mano."
+  },
+  "abilityName": {
+    "en": "Drive Change",
+    "fr": "Change Module",
+    "de": "Modulwechsel",
+    "it": "Cambiamodulo",
+    "es": "Cambio de ROM"
+  },
   "attacks": [
     {
       "cost": [

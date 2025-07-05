@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a [L] Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition.",
-  "abilityName": "Super Dynamo",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a [L] Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Super Dynamo"
+  },
   "attacks": [
     {
       "cost": [

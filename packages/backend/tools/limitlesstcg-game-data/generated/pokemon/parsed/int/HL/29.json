@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a [M] Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
-  "abilityName": "Magnetic Call",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a [M] Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Magnetic Call"
+  },
   "attacks": [
     {
       "cost": [

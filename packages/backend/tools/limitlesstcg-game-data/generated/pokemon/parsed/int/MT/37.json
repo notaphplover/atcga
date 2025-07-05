@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if you have Unown I, Unown T, Unown E, and Unown M on your Bench, you may search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. You can't use more than 1 ITEM Poké-Power each turn.",
-  "abilityName": "ITEM",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if you have Unown I, Unown T, Unown E, and Unown M on your Bench, you may search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. You can't use more than 1 ITEM Poké-Power each turn."
+  },
+  "abilityName": {
+    "en": "ITEM"
+  },
   "attacks": [
     {
       "cost": [

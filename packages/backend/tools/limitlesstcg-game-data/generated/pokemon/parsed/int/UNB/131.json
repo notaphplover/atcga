@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may flip a coin. If heads, shuffle your hand into your deck and then draw 6 cards. If you use this Ability, your turn ends.",
-  "abilityName": "Excitable Draw",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may flip a coin. If heads, shuffle your hand into your deck and then draw 6 cards. If you use this Ability, your turn ends.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, mélangez votre main avec votre deck, puis piochez 6 cartes. Si vous utilisez ce talent, votre tour se termine.",
+    "de": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Münze werfen. Mische bei Kopf deine Handkarten in dein Deck und ziehe anschließend 6 Karten. Wenn du diese Fähigkeit einsetzt, endet dein Zug.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi lanciare una moneta. Se esce testa, rimischia le carte che hai in mano nel tuo mazzo e pesca sei carte. Se usi questa abilità, il tuo turno finisce.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes lanzar 1 moneda. Si sale cara, pon las cartas de tu mano en tu baraja, barájalas todas y, después, roba 6 cartas. Si usas esta habilidad, tu turno termina."
+  },
+  "abilityName": {
+    "en": "Excitable Draw",
+    "fr": "Pioche Émotive",
+    "de": "Vorlauter Zug",
+    "it": "Pesca Emozionante",
+    "es": "Robo Emocionante"
+  },
   "attacks": [],
   "cardType": "pokemon",
   "hp": 60,

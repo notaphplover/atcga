@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has any Energy attached, it takes 30 less damage from attacks (after applying Weakness and Resistance).",
-  "abilityName": "Metal Shield",
+  "abilityEffect": {
+    "en": "If this Pokémon has any Energy attached, it takes 30 less damage from attacks (after applying Weakness and Resistance).",
+    "fr": "Si de l'Énergie est attachée à ce Pokémon, il subit 30 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+    "de": "Wenn an dieses Pokémon mindestens 1 Energie angelegt ist, werden ihm durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Se questo Pokémon ha delle Energie assegnate, subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+    "pt": "Se este Pokémon tiver alguma Energia ligada a ele, receberá 30 pontos de dano a menos de ataques (depois de aplicar Fraqueza e Resistência).",
+    "es": "Si este Pokémon tiene alguna Energía unida a él, los ataques le hacen 30 puntos de daño menos (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Metal Shield",
+    "fr": "Bouclier Métal",
+    "de": "Metallschild",
+    "it": "Metalscudo",
+    "pt": "Escudo Metálico",
+    "es": "Escudo Metálico"
+  },
   "attacks": [
     {
       "cost": [

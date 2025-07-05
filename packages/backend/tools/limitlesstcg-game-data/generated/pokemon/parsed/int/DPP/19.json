@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Each basic [D] Energy card attached to your [D] Pokémon now has the effect \"If the Pokémon [D] Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance).\" You can't use more than 1 Dark Shadow Poké-Body each turn.",
-  "abilityName": "Dark Shadow",
+  "abilityEffect": {
+    "en": "Each basic [D] Energy card attached to your [D] Pokémon now has the effect \"If the Pokémon [D] Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance).\" You can't use more than 1 Dark Shadow Poké-Body each turn."
+  },
+  "abilityName": {
+    "en": "Dark Shadow"
+  },
   "attacks": [
     {
       "cost": [

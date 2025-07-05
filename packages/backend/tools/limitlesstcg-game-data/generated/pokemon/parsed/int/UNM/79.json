@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Don't apply [P] Weakness when Pokémon (both yours and your opponent's) take damage from attacks.",
-  "abilityName": "Psychic Zone",
+  "abilityEffect": {
+    "en": "Don't apply [P] Weakness when Pokémon (both yours and your opponent's) take damage from attacks.",
+    "fr": "N'appliquez pas la Faiblesse [P] lorsque les Pokémon (les vôtres et ceux de votre adversaire) subissent des dégâts d'attaques.",
+    "de": "Wende [P]-Schwäche nicht an, wenn Pokémon (deinen und denen deines Gegners) durch Attacken Schaden zugefügt wird.",
+    "it": "Non applicare la debolezza al tipo [P] quando i Pokémon, sia tuoi che del tuo avversario, subiscono danni dagli attacchi.",
+    "es": "No apliques Debilidad [P] cuando los Pokémon (tanto tuyos como de tu rival) reciben daño de ataques."
+  },
+  "abilityName": {
+    "en": "Psychic Zone",
+    "fr": "Zone Psy",
+    "de": "Psycho-Zone",
+    "it": "Zona Psichica",
+    "es": "Zona Psíquica"
+  },
   "attacks": [
     {
       "cost": [

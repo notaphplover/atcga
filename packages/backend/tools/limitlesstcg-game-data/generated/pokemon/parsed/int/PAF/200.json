@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Once during your turn, you may put 1 damage counter on this Pokémon. If you do, draw a card.",
-  "abilityName": "Zooming Draw",
+  "abilityEffect": {
+    "en": "Once during your turn, you may put 1 damage counter on this Pokémon. If you do, draw a card.",
+    "fr": "Une fois pendant votre tour, vous pouvez placer un marqueur de dégâts sur ce Pokémon. Dans ce cas, piochez une carte.",
+    "de": "Einmal während deines Zuges kannst du 1 Schadensmarke auf dieses Pokémon legen. Wenn du das machst, ziehe 1 Karte.",
+    "it": "Una sola volta durante il tuo turno, puoi mettere un segnalino danno su questo Pokémon. Se lo fai, pesca una carta.",
+    "pt": "Uma vez durante o seu turno, você poderá colocar 1 contador de dano neste Pokémon. Se fizer isto, compre uma carta.",
+    "es": "Una vez durante tu turno, puedes poner 1 contador de daño en este Pokémon. Si lo haces, roba 1 carta."
+  },
+  "abilityName": {
+    "en": "Zooming Draw",
+    "fr": "Pioche en Trombe",
+    "de": "Zackiger Zug",
+    "it": "Pesca Sfrecciante",
+    "pt": "Zumbido de Compra",
+    "es": "Robo Presuroso"
+  },
   "attacks": [
     {
       "cost": [

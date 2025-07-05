@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Each of your Pokémon's attacks costs [Y] less.",
-  "abilityName": "Calming Aroma",
+  "abilityEffect": {
+    "en": "Each of your Pokémon's attacks costs [Y] less.",
+    "fr": "Chacune des attaques de vos Pokémon coûte [Y] de moins.",
+    "de": "Die Angriffskosten jedes Angriffs dieses Pokémon verringern sich um [Y].",
+    "it": "Ciascuno degli attacchi dei tuoi Pokémon costa [Y] in meno",
+    "es": "Los ataques de tus Pokémon cuestan [Y] menos."
+  },
+  "abilityName": {
+    "en": "Calming Aroma",
+    "fr": "Arôme Apaisant",
+    "de": "Beruhigendes Aroma",
+    "it": "Aroma Distensivo",
+    "es": "Aroma Tranquilizador"
+  },
   "attacks": [
     {
       "cost": [

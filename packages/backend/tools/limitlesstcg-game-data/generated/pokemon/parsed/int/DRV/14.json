@@ -1,6 +1,14 @@
 {
-  "abilityEffect": "If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance).",
-  "abilityName": "Grit",
+  "abilityEffect": {
+    "en": "If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance).",
+    "fr": "Si ce Pokémon est affecté par un État Spécial, chacune de ses attaques inflige 40 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance).",
+    "it": "Se questo Pokémon è influenzato da una condizione speciale, ognuno dei suoi attacchi infligge 40 danni in più, prima di aver applicato debolezza e resistenza."
+  },
+  "abilityName": {
+    "en": "Grit",
+    "fr": "Vaillance",
+    "it": "Baldanza"
+  },
   "attacks": [
     {
       "cost": [

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has 2 or fewer Energy attached to it, it has no Retreat Cost.",
-  "abilityName": "Emergency Exit",
+  "abilityEffect": {
+    "en": "If this Pokémon has 2 or fewer Energy attached to it, it has no Retreat Cost.",
+    "fr": "Si 2 Énergies ou moins sont attachées à ce Pokémon, il n'a pas de Coût de Retraite.",
+    "de": "Wenn an dieses Pokémon 2 oder weniger Energien angelegt sind, hat es keine Rückzugskosten.",
+    "it": "Se questo Pokémon ha due o meno Energie assegnate, non ha costo di ritirata.",
+    "es": "Si este Pokémon tiene 2 o menos Energías unidas a él, no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Emergency Exit",
+    "fr": "Repli Tactique",
+    "de": "Rückzug",
+    "it": "Passoindietro",
+    "es": "Retirada"
+  },
   "attacks": [
     {
       "cost": [

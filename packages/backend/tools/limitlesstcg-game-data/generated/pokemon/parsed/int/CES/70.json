@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon has any [P] Energy attached to it, it takes 20 less damage from attacks (after applying Weakness and Resistance).",
-  "abilityName": "Shadow Shield",
+  "abilityEffect": {
+    "en": "If this Pokémon has any [P] Energy attached to it, it takes 20 less damage from attacks (after applying Weakness and Resistance).",
+    "fr": "Si de l'Énergie [P] est attachée à ce Pokémon, il subit 20 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+    "de": "Wenn an dieses Pokémon mindestens 1 [P]-Energie angelegt ist, werden ihm durch Attacken 20 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "Se questo Pokémon ha delle Energie [P] assegnate, subisce 20 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+    "es": "Si este Pokémon tiene alguna Energía [P] unida a él, los ataques le hacen 20 puntos de daño menos (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Shadow Shield",
+    "fr": "Spectro-Bouclier",
+    "de": "Phantomschutz",
+    "it": "Spettroguardia",
+    "es": "Guardia Espectro"
+  },
   "attacks": [
     {
       "cost": [

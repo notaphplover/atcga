@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Any damage done by an opponent's attack to each of your [W] Pokémon that has any [W] Energy attached to it is reduced by 20 (after applying Weakness and Resistance).",
-  "abilityName": "Ice Shield",
+  "abilityEffect": {
+    "en": "Any damage done by an opponent's attack to each of your [W] Pokémon that has any [W] Energy attached to it is reduced by 20 (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés par une attaque de votre adversaire à chacun de vos Pokémon [W] auquel de l'Énergie [W] est attachée sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der deinen [W]-Pokémon, an denen [W]-Energie angelegt ist, durch einen gegnerischen Angriff zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+    "it": "I danni inflitti dagli attacchi del tuo avversario ai tuoi Pokémon [W] che hanno delle Energie [W] assegnate sono ridotti di 20, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño infligido por un ataque de tu rival a cada uno de tus Pokémon [W] que tenga alguna Energía [W] unida a él se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Ice Shield",
+    "fr": "Bouclier de Glace",
+    "de": "Eisschild",
+    "it": "Gelodifesa",
+    "es": "Escudo Hielo"
+  },
   "attacks": [
     {
       "cost": [

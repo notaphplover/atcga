@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Whenever you attach a [W] Energy card from your hand to this Pokémon, heal 20 damage from it.",
-  "abilityName": "Hydration",
+  "abilityEffect": {
+    "en": "Whenever you attach a [W] Energy card from your hand to this Pokémon, heal 20 damage from it.",
+    "fr": "Chaque fois que vous attachez une carte Énergie [W] de votre main à ce Pokémon, soignez 20 dégâts à ce Pokémon.",
+    "de": "Heile jedes Mal, wenn du 1 [W]-Energiekarte aus deiner Hand an dieses Pokémon anlegst, 20 Schadenspunkte bei ihm.",
+    "it": "Ogni volta che assegni una carta Energia [W] a questo Pokémon dalla tua mano, curalo da 20 danni.",
+    "es": "Cada vez que unas 1 carta de Energía [W] de tu mano a este Pokémon, cúrale 20 puntos de daño."
+  },
+  "abilityName": {
+    "en": "Hydration",
+    "fr": "Hydratation",
+    "de": "Hydration",
+    "it": "Idratazione",
+    "es": "Hidratación"
+  },
   "attacks": [
     {
       "cost": [

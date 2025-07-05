@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "Whenever your opponent flips a coin for their Burned Pokémon during Pokémon Checkup, it doesn't recover from that Special Condition even if the result is heads.",
-  "abilityName": "Overheater",
+  "abilityEffect": {
+    "en": "Whenever your opponent flips a coin for their Burned Pokémon during Pokémon Checkup, it doesn't recover from that Special Condition even if the result is heads.",
+    "fr": "Chaque fois que votre adversaire lance une pièce pour son Pokémon Brûlé pendant le Contrôle Pokémon, celui-ci ne guérit pas de cet État Spécial même si le résultat est face.",
+    "de": "Jedes Mal, wenn dein Gegner beim Pokémon-Check 1 Münze für sein verbranntes Pokémon wirft, erholt es sich nicht von jenem Speziellen Zustand, auch wenn das Ergebnis Kopf ist.",
+    "it": "Ogni volta che il tuo avversario lancia una moneta per il suo Pokémon bruciato durante il controllo Pokémon, questo non guarisce da quella condizione speciale anche se esce testa.",
+    "pt": "Sempre que seu oponente jogar 1 moeda para o Pokémon Queimado dele(a) durante o Checape Pokémon, ele não se recuperará daquela Condição Especial, mesmo que o resultado seja cara.",
+    "es": "Cada vez que tu rival lance 1 moneda para su Pokémon Quemado durante el Chequeo Pokémon, no se recupera de esa Condición Especial incluso si sale cara."
+  },
+  "abilityName": {
+    "en": "Overheater",
+    "fr": "Surchauffeur",
+    "de": "Überhitzer",
+    "it": "Surriscaldatore",
+    "pt": "Superaquecedor",
+    "es": "Sobrecalentamiento"
+  },
   "attacks": [
     {
       "cost": [

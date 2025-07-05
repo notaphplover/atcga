@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If you have a Stadium card in play, your opponent can't attach any Special Energy cards from his or her hand to his or her Pokémon.",
-  "abilityName": "Hand Block",
+  "abilityEffect": {
+    "en": "If you have a Stadium card in play, your opponent can't attach any Special Energy cards from his or her hand to his or her Pokémon.",
+    "fr": "Si vous avez une carte Stade en jeu, votre adversaire ne peut pas attacher de carte Énergie spéciale de sa main à ses Pokémon.",
+    "de": "Wenn du 1 Stadionkarte im Spiel hast, kann dein Gegner keine Spezial-Energiekarten von seiner Hand an seine Pokémon anlegen.",
+    "it": "Se hai in gioco una carta Stadio, il tuo avversario non può assegnare carte Energia speciale dalla sua mano ai suoi Pokémon.",
+    "es": "Si tienes alguna carta de Estadio en juego, tu rival no puede unir ninguna carta de Energía Especial de su mano a sus Pokémon."
+  },
+  "abilityName": {
+    "en": "Hand Block",
+    "fr": "Blocage Manuel",
+    "de": "Handblockade",
+    "it": "Bloccamano",
+    "es": "Bloqueo de Mano"
+  },
   "attacks": [
     {
       "cost": [

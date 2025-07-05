@@ -1,6 +1,12 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
-  "abilityName": "Aqua Search",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher un Pokémon de la Team Aqua dans votre deck, le montrer et l'ajouter à votre main. Mélangez ensuite votre deck."
+  },
+  "abilityName": {
+    "en": "Aqua Search",
+    "fr": "Recherche Aqua"
+  },
   "attacks": [
     {
       "cost": [

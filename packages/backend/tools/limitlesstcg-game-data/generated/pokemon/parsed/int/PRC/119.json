@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "This Pokémon's attacks do 40 more damage to your opponent's [G] Pokémon (before applying Weakness and Resistance).",
-  "abilityName": "Sap Sipper",
+  "abilityEffect": {
+    "en": "This Pokémon's attacks do 40 more damage to your opponent's [G] Pokémon (before applying Weakness and Resistance).",
+    "fr": "Les attaques de ce Pokémon infligent 40 dégâts supplémentaires aux Pokémon [G] de votre adversaire (avant application de la Faiblesse et de la Résistance).",
+    "de": "Die Angriffe dieses Pokémon fügen den [G]-Pokémon deines Gegners 40 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+    "it": "Gli attacchi di questo Pokémon infliggono 40 danni in più ai Pokémon [G] del tuo avversario, prima di aver applicato debolezza e resistenza.",
+    "es": "Los ataques de este Pokémon hacen 40 puntos de daño más a los Pokémon [G] de tu rival (antes de aplicar Debilidad y Resistencia)."
+  },
+  "abilityName": {
+    "en": "Sap Sipper",
+    "fr": "Herbivore",
+    "de": "Vegetarier",
+    "it": "Mangiaerba",
+    "es": "Herbívoro"
+  },
   "attacks": [
     {
       "cost": [

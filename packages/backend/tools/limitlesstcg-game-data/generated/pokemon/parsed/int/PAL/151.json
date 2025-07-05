@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has 3 or more [M] Energy attached, it gets +100 HP.",
-  "abilityName": "Nutritional Iron",
+  "abilityEffect": {
+    "en": "If this Pokémon has 3 or more [M] Energy attached, it gets +100 HP.",
+    "fr": "Si au moins 3 Énergies [M] sont attachées à ce Pokémon, il reçoit +100 PV.",
+    "de": "Wenn an dieses Pokémon 3 oder mehr [M]-Energien angelegt sind, erhält es +100 KP.",
+    "it": "Se questo Pokémon ha tre o più Energie [M] assegnate, ha 100 PS in più.",
+    "pt": "Se este Pokémon tiver 3 ou mais Energias [M] ligadas a ele, receberá 100 PS a mais.",
+    "es": "Si este Pokémon tiene 3 Energías [M] o más unidas, obtiene 100 PS más."
+  },
+  "abilityName": {
+    "en": "Nutritional Iron",
+    "fr": "Fer Nutritif",
+    "de": "Nahrhaftes Eisen",
+    "it": "Ferro Nutrizionale",
+    "pt": "Ferro Nutritivo",
+    "es": "Hierro Nutritivo"
+  },
   "attacks": [
     {
       "cost": [

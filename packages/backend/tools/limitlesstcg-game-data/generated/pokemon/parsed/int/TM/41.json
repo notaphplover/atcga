@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "As long as Magby is Asleep, prevent all damage done to Magby by attacks.",
-  "abilityName": "Sweet Sleeping Face",
+  "abilityEffect": {
+    "en": "As long as Magby is Asleep, prevent all damage done to Magby by attacks.",
+    "fr": "Tant que Magby est Endormi, empêchez tous les dégâts qui lui sont infligés par des attaques.",
+    "de": "Solange Magby schläft, verhindere allen Schaden, der Magby durch Angriffe zugefügt wird.",
+    "it": "Fintanto che Magby è Addormentato, previeni tutto il danno inflitto a Magby dagli attacchi."
+  },
+  "abilityName": {
+    "en": "Sweet Sleeping Face",
+    "fr": "Joli visage endormi",
+    "de": "Niedliches Schlafgesicht",
+    "it": "Musetto Dormiglione"
+  },
   "attacks": [
     {
       "cost": [],

@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may search your deck for a [N] Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
-  "abilityName": "Dragon Call",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may search your deck for a [N] Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher un Pokémon [N] dans votre deck, le montrer et l'ajouter à votre main. Mélangez ensuite votre deck.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du dein Deck nach 1 [N]-Pokémon durchsuchen, es deinem Gegner zeigen und auf deine Hand nehmen. Mische anschließend dein Deck.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi cercare nel tuo mazzo un Pokémon [N], mostrarlo e aggiungerlo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu baraja un Pokémon [N], enseñarlo y ponerlo en tu mano. Baraja las cartas de tu baraja después."
+  },
+  "abilityName": {
+    "en": "Dragon Call",
+    "fr": "Appel du Dragon",
+    "de": "Drachenruf",
+    "it": "Dragorichiamo",
+    "es": "Llamada de Dragón"
+  },
   "attacks": [
     {
       "cost": [

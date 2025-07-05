@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "As long as Dodrio is on your Bench, your Active Pokémon's Retreat Cost is [C][C] less.",
-  "abilityName": "Retreat Aid",
+  "abilityEffect": {
+    "en": "As long as Dodrio is on your Bench, your Active Pokémon's Retreat Cost is [C][C] less.",
+    "fr": "Tant que Dodrio est sur votre Banc, le Coût de retraite de votre Pokémon Actif est réduit de [C][C].",
+    "de": "Solange Dodri auf deiner Bank sitzt, betragen die Rückzugskosten deines Aktiven Pokémon [C][C] weniger.",
+    "it": "Fintanto che Dodrio è nella tua Panchina, il Costo di Ritirata dei tuoi Pokémon Attivi è ridotto di [C][C]."
+  },
+  "abilityName": {
+    "en": "Retreat Aid",
+    "fr": "Soutien de retraite",
+    "de": "Rückzugshilfe",
+    "it": "Assistente alla Ritirata"
+  },
   "attacks": [
     {
       "cost": [

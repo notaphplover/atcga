@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Prevent all damage done to your Benched Pokémon by your opponent's attacks. Your opponent's attacks and Abilities can't put damage counters on your Benched Pokémon.",
-  "abilityName": "Daunting Pose",
+  "abilityEffect": {
+    "en": "Prevent all damage done to your Benched Pokémon by your opponent's attacks. Your opponent's attacks and Abilities can't put damage counters on your Benched Pokémon.",
+    "fr": "Évitez tous les dégâts infligés à vos Pokémon de Banc par les attaques de votre adversaire. Les attaques et les talents de votre adversaire ne peuvent pas placer de marqueurs de dégâts sur vos Pokémon de Banc.",
+    "de": "Verhindere allen Schaden, der den Pokémon auf deiner Bank durch Attacken deines Gegners zugefügt wird. Durch Attacken und Fähigkeiten deines Gegners können keine Schadensmarken auf die Pokémon auf deiner Bank gelegt werden.",
+    "it": "Previeni tutti i danni inflitti ai tuoi Pokémon in panchina dagli attacchi del tuo avversario. Gli attacchi e le abilità del tuo avversario non possono farti assegnare segnalini danno ai tuoi Pokémon in panchina.",
+    "es": "Evita todo el daño infligido a tus Pokémon en Banca por ataques de tu rival. Los ataques y las habilidades de tu rival no pueden poner contadores de daño en tus Pokémon en Banca."
+  },
+  "abilityName": {
+    "en": "Daunting Pose",
+    "fr": "Attitude Patibulaire",
+    "de": "Ablehnende Haltung",
+    "it": "Posa Imponente",
+    "es": "Pose Intimidante"
+  },
   "attacks": [
     {
       "cost": [

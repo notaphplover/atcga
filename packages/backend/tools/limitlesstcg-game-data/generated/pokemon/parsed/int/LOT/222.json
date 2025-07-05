@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "If this Pokémon is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-GX or Pokémon-EX (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon.",
-  "abilityName": "Mirror Counter",
+  "abilityEffect": {
+    "en": "If this Pokémon is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-GX or Pokémon-EX (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon.",
+    "fr": "Si ce Pokémon est votre Pokémon Actif et qu'il subit les dégâts d'une attaque d'un Pokémon-GX ou Pokémon-EX de votre adversaire (même si ce Pokémon est mis K.O.), placez des marqueurs de dégâts sur le Pokémon Attaquant équivalents aux dégâts infligés à ce Pokémon.",
+    "de": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch eine Attacke von Pokémon-GX oder Pokémon-EX deines Gegners Schaden erhält (auch wenn dieses Pokémon dadurch kampfunfähig wird), lege der Höhe des zugefügten Schadens entsprechend Schadensmarken auf das Angreifende Pokémon.",
+    "it": "Se questo Pokémon è il tuo Pokémon attivo e viene danneggiato da un attacco di un Pokémon-GX o di un Pokémon-EX del tuo avversario, anche se viene messo KO, metti sul Pokémon attaccante un numero di segnalini danno pari ai danni inflitti a questo Pokémon.",
+    "es": "Si este Pokémon es tu Pokémon Activo y resulta dañado por el ataque de un Pokémon-GX o Pokémon-EX de tu rival (incluso si este Pokémon queda Fuera de Combate), pon un número de contadores de daño en el Pokémon Atacante igual al daño infligido a este Pokémon."
+  },
+  "abilityName": {
+    "en": "Mirror Counter",
+    "fr": "Riposte Miroir",
+    "de": "Spiegelkonter",
+    "it": "Controriflesso",
+    "es": "Contraataque Espejo"
+  },
   "attacks": [
     {
       "cost": [

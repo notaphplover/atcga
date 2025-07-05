@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If your opponent has any Pokémon V in play, this Pokémon has no Retreat Cost.",
-  "abilityName": "Punk Out",
+  "abilityEffect": {
+    "en": "If your opponent has any Pokémon V in play, this Pokémon has no Retreat Cost.",
+    "fr": "Si votre adversaire a au moins un Pokémon-V en jeu, ce Pokémon n'a pas de Coût de Retraite.",
+    "de": "Wenn dein Gegner mindestens 1 Pokémon-V im Spiel hat, hat dieses Pokémon keine Rückzugskosten.",
+    "it": "Se il tuo avversario ha dei Pokémon-V in gioco, questo Pokémon non ha costo di ritirata.",
+    "pt": "Se o seu oponente tiver algum Pokémon V em jogo, este Pokémon não terá custo de Recuo.",
+    "es": "Si tu rival tiene algún Pokémon V en juego, este Pokémon no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "Punk Out",
+    "fr": "Poudre d'Escampette",
+    "de": "Rückzack",
+    "it": "Scappovia",
+    "pt": "Arregar",
+    "es": "Renuncia"
+  },
   "attacks": [
     {
       "cost": [

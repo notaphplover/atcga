@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand.",
-  "abilityName": "Rumbling Engine",
+  "abilityEffect": {
+    "en": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand.",
+    "fr": "Vous devez défausser une carte Énergie de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher des cartes jusqu'à en avoir 6 en main.",
+    "de": "Du musst 1 Energiekarte aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du so lange Karten ziehen, bis du 6 Karten auf deiner Hand hast.",
+    "it": "Devi scartare una carta Energia che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare fino ad avere sei carte in mano.",
+    "pt": "Você deve descartar uma carta de Energia da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar cartas até ter 6 cartas na sua mão.",
+    "es": "Debes descartar 1 carta de Energía de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar cartas hasta que tengas 6 cartas en tu mano."
+  },
+  "abilityName": {
+    "en": "Rumbling Engine",
+    "fr": "Moteur Vrombissant",
+    "de": "Knatternder Motor",
+    "it": "Motore Rombante",
+    "pt": "Motor Barulhento",
+    "es": "Motor Ruidoso"
+  },
   "attacks": [
     {
       "cost": [

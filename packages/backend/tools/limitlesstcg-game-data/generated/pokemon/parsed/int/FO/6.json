@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
-  "abilityName": "Transparency",
+  "abilityEffect": {
+    "en": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed."
+  },
+  "abilityName": {
+    "en": "Transparency"
+  },
   "attacks": [
     {
       "cost": [

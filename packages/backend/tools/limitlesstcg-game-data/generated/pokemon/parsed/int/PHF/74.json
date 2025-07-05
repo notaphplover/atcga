@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may attach a [D] Energy card from your discard pile to your Active Pokémon.",
-  "abilityName": "Dark Impulse",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may attach a [D] Energy card from your discard pile to your Active Pokémon.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez attacher une carte Énergie [D] de votre pile de défausse à votre Pokémon Actif.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 [D]-Energiekarte von deinem Ablagestapel an dein Aktives Pokémon anlegen.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi assegnare al tuo Pokémon attivo una carta Energia [D] dalla tua pila degli scarti.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes unir 1 carta de Energía [D] de tu pila de descartes a tu Pokémon Activo."
+  },
+  "abilityName": {
+    "en": "Dark Impulse",
+    "fr": "Impulsion Obscure",
+    "de": "Dunkler Impuls",
+    "it": "Scurimpulso",
+    "es": "Impulso Oscuro"
+  },
   "attacks": [
     {
       "cost": [

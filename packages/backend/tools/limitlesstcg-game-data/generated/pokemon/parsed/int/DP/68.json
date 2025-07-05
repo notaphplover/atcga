@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), if Unown D is on your Bench, you may flip a coin. If heads, each player may draw a card. (You draw your card first.)",
-  "abilityName": "DRAW",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), if Unown D is on your Bench, you may flip a coin. If heads, each player may draw a card. (You draw your card first.)"
+  },
+  "abilityName": {
+    "en": "DRAW"
+  },
   "attacks": [
     {
       "cost": [

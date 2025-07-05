@@ -1,6 +1,16 @@
 {
-  "abilityEffect": "If you have 2, 4, or 6 Prize cards left, this Pokémon can't attack.",
-  "abilityName": "Airhead",
+  "abilityEffect": {
+    "en": "If you have 2, 4, or 6 Prize cards left, this Pokémon can't attack.",
+    "fr": "S'il vous reste 2, 4 ou 6 cartes Récompense, ce Pokémon ne peut pas attaquer.",
+    "de": "Wenn du 2, 4 oder 6 Preiskarten übrig hast, kann dieses Pokémon nicht angreifen.",
+    "it": "Se ti rimangono due, quattro o sei carte Premio, questo Pokémon non può attaccare."
+  },
+  "abilityName": {
+    "en": "Airhead",
+    "fr": "Corniaud",
+    "de": "Tagträumerei",
+    "it": "Zuccavuota"
+  },
   "attacks": [
     {
       "cost": [

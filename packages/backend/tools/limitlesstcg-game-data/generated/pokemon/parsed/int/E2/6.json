@@ -1,6 +1,10 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), choose 1 of your Benched Pokémon and flip a coin. If heads, count the number of Energy attached to Blissey and then remove that many damage counters from the chosen Benched Pokémon. This power can't be used if Blissey is affected by a Special Condition.",
-  "abilityName": "Happy Healing",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), choose 1 of your Benched Pokémon and flip a coin. If heads, count the number of Energy attached to Blissey and then remove that many damage counters from the chosen Benched Pokémon. This power can't be used if Blissey is affected by a Special Condition."
+  },
+  "abilityName": {
+    "en": "Happy Healing"
+  },
   "attacks": [
     {
       "cost": [

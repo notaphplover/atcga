@@ -1,6 +1,20 @@
 {
-  "abilityEffect": "If this Pokémon has no Energy attached, it has no Retreat Cost.",
-  "abilityName": "In a Hungry Hurry",
+  "abilityEffect": {
+    "en": "If this Pokémon has no Energy attached, it has no Retreat Cost.",
+    "fr": "Si aucune Énergie n'est attachée à ce Pokémon, il n'a pas de Coût de Retraite.",
+    "de": "Wenn an dieses Pokémon keine Energie angelegt ist, hat es keine Rückzugskosten.",
+    "it": "Se questo Pokémon non ha Energie assegnate, non ha costo di ritirata.",
+    "pt": "Se este Pokémon não tiver nenhuma Energia ligada a ele, não terá custo de Recuo.",
+    "es": "Si este Pokémon no tiene ninguna Energía unida, no tiene ningún Coste de Retirada."
+  },
+  "abilityName": {
+    "en": "In a Hungry Hurry",
+    "fr": "Faim Urgente",
+    "de": "In hungriger Hast",
+    "it": "Fretta Famelica",
+    "pt": "Afobado de Fome",
+    "es": "Con Hambre y a lo Loco"
+  },
   "attacks": [
     {
       "cost": [

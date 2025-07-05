@@ -1,6 +1,18 @@
 {
-  "abilityEffect": "Once during your turn (before your attack), you may discard a [G] Energy attached to this Pokémon. If you do, your opponent's Active Pokémon is now Confused and Poisoned.",
-  "abilityName": "Wafting Scent",
+  "abilityEffect": {
+    "en": "Once during your turn (before your attack), you may discard a [G] Energy attached to this Pokémon. If you do, your opponent's Active Pokémon is now Confused and Poisoned.",
+    "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une Énergie [G] attachée à ce Pokémon. Dans ce cas, le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné.",
+    "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 an dieses Pokémon angelegte [G]-Energie auf deinen Ablagestapel legen. Wenn du das machst, ist das Aktive Pokémon deines Gegners jetzt verwirrt und vergiftet.",
+    "it": "Una sola volta durante il tuo turno, prima di attaccare, puoi scartare un'Energia [G] assegnata a questo Pokémon. Se lo fai, il Pokémon attivo del tuo avversario viene confuso e avvelenato.",
+    "es": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 Energía [G] unida a este Pokémon. Si lo haces, el Pokémon Activo de tu rival pasa a estar Confundido y Envenenado."
+  },
+  "abilityName": {
+    "en": "Wafting Scent",
+    "fr": "Senteur Flottante",
+    "de": "Wabernder Geruch",
+    "it": "Allettaroma",
+    "es": "Aroma Flotante"
+  },
   "attacks": [
     {
       "cost": [
