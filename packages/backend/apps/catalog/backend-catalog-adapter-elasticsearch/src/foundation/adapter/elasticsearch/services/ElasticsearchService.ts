@@ -14,14 +14,14 @@ export class ElasticsearchService {
   ) {
     const environment: Environment = environmentService.getEnvironment();
 
-    this.#pokemonCardsIndexName = 'pokemonCards';
+    this.#pokemonCardsIndexName = 'pokemon-cards';
     this.#client = new Client({
       node: environment.elasticSearchConnectionUrl,
       tls: {
         rejectUnauthorized: environment.elasticSearchTlsRejectUnauthorized,
       },
     });
-    this.#pokemonSetsIndexName = 'pokemonSets';
+    this.#pokemonSetsIndexName = 'pokemon-sets';
   }
 
   public get pokemonCardsIndexName(): string {

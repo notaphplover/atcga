@@ -3,12 +3,15 @@
   "bugs": {
     "url": "https://github.com/notaphplover/atcga/issues"
   },
-  "description": "atcga backend catalog elasticsearch package",
+  "bin": {
+    "initialize-catalog-service": "./bin/initializeCatalogService.mjs"
+  },
+  "description": "atcga backend catalog service initializer package",
   "dependencies": {
+    "@atcga/backend-catalog-adapter-elasticsearch": "workspace:*",
     "@atcga/backend-catalog-application": "workspace:*",
-    "@atcga/backend-catalog-domain": "workspace:*",
+    "@atcga/backend-catalog-adapter-limitlesstcg": "workspace:*",
     "@atcga/backend-catalog-env": "workspace:*",
-    "@elastic/elasticsearch": "9.0.2",
     "inversify": "7.5.4"
   },
   "devDependencies": {
@@ -38,7 +41,7 @@
       "require": "./lib/cjs/index.js"
     }
   },
-  "name": "@atcga/backend-catalog-adapter-elasticsearch",
+  "name": "@atcga/backend-service-catalog-initializer",
   "publishConfig": {
     "access": "public"
   },
@@ -54,6 +57,7 @@
     "format": "prettier --write ./src",
     "lint": "eslint ./src",
     "prebuild": "pnpm run build:clean",
+    "services:initialize": "node ./bin/initializeCatalogService.mjs",
     "test": "vitest run",
     "test:integration": "pnpm run test --project Integration",
     "test:coverage": "pnpm run test:unit --coverage",

@@ -5,7 +5,8 @@
   },
   "description": "atcga backend catalog application package",
   "dependencies": {
-    "@atcga/backend-catalog-domain": "workspace:*"
+    "@atcga/backend-catalog-domain": "workspace:*",
+    "inversify": "7.5.4"
   },
   "devDependencies": {
     "@types/node": "22.15.3",
