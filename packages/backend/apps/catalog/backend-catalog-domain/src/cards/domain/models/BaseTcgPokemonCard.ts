@@ -11,7 +11,7 @@ export interface BaseTcgPokemonCard<TType extends TcgPokemonCardType> {
     sm: I18nString<TcgPokemonLanguage>;
     lg: I18nString<TcgPokemonLanguage>;
   };
-  language: string;
+  languages: TcgPokemonLanguage[];
   name: I18nString<TcgPokemonLanguage>;
   number: string;
   rarity?: TcgPokemonRarity | undefined;
