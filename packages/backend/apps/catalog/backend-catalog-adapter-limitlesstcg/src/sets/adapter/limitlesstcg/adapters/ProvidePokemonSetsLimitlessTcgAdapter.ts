@@ -8,8 +8,8 @@ import {
 } from '@atcga/limitlesstcg-game-data';
 import { inject, injectable } from 'inversify';
 
-import { LimitlessTcgPokemonRegionFromPokemonRegionBuilder } from '../../../regions/adapter/limitlesstcg/builders/LimitlessTcgPokemonRegionFromPokemonRegionBuilder';
-import { TcgPokemonRegionFromLimitlessPokemonRegionBuilder } from '../../../regions/adapter/limitlesstcg/builders/TcgPokemonRegionFromLimitlessPokemonRegionBuilder';
+import { LimitlessTcgPokemonRegionFromPokemonRegionBuilder } from '../../../../regions/adapter/limitlesstcg/builders/LimitlessTcgPokemonRegionFromPokemonRegionBuilder';
+import { TcgPokemonRegionFromLimitlessPokemonRegionBuilder } from '../../../../regions/adapter/limitlesstcg/builders/TcgPokemonRegionFromLimitlessPokemonRegionBuilder';
 
 @injectable()
 export class ProvidePokemonSetsLimitlessTcgAdapter
