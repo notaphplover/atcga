@@ -11,7 +11,6 @@ import {
   TcgPokemonCardType as LimitlessTcgPokemonCardType,
   TcgPokemonParsedCard as LimitlessTcgPokemonCard,
   TcgPokemonParsedEnergyCard as LimitlessTcgPokemonEnergyCard,
-  TcgPokemonParsedSet as LimitlessTcgPokemonSet,
   TcgPokemonParsedTrainerCard as LimitlessTcgPokemonTrainerCard,
   TcgPokemonRarity as LimitlessTcgPokemonRarity,
   TcgPokemonRegion as LimitlessTcgPokemonRegion,
@@ -23,7 +22,10 @@ import { TcgPokemonRarityFromLimitlessPokemonRarityBuilder } from './TcgPokemonR
 
 export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
   implements
-    Builder<TcgPokemonCard, [LimitlessTcgPokemonCard, LimitlessTcgPokemonSet]>
+    Builder<
+      TcgPokemonCard,
+      [LimitlessTcgPokemonCard, LimitlessTcgPokemonRegion]
+    >
 {
   readonly #tcgPokemonRarityFromLimitlessPokemonRarityBuilder: Builder<
     TcgPokemonRarity,
@@ -54,27 +56,27 @@ export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
 
   public build(
     limitlessTcgPokemonCard: LimitlessTcgPokemonCard,
-    limitlessTcgPokemonSet: LimitlessTcgPokemonSet,
+    limitlessTcgPokemonRegion: LimitlessTcgPokemonRegion,
   ): TcgPokemonCard {
     switch (limitlessTcgPokemonCard.cardType) {
       case LimitlessTcgPokemonCardType.energy:
         return this.#buildEnergyCard(
           limitlessTcgPokemonCard,
-          limitlessTcgPokemonSet,
+          limitlessTcgPokemonRegion,
         );
       case LimitlessTcgPokemonCardType.pokemon:
         throw new Error('Not implemented');
       case LimitlessTcgPokemonCardType.trainer:
         return this.#buildTrainerCard(
           limitlessTcgPokemonCard,
-          limitlessTcgPokemonSet,
+          limitlessTcgPokemonRegion,
         );
     }
   }
 
   #buildEnergyCard(
     card: LimitlessTcgPokemonEnergyCard,
-    set: LimitlessTcgPokemonSet,
+    region: LimitlessTcgPokemonRegion,
   ): TcgPokemonEnergyCard {
     return {
       cardType: TcgPokemonCardType.energy,
@@ -89,9 +91,8 @@ export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
           : this.#tcgPokemonRarityFromLimitlessPokemonRarityBuilder.build(
               card.rarity,
             ),
-      region: this.#tcgPokemonRegionFromLimitlessPokemonRegionBuilder.build(
-        set.region,
-      ),
+      region:
+        this.#tcgPokemonRegionFromLimitlessPokemonRegionBuilder.build(region),
       regulation: card.regulation,
       set: card.set,
       type: card.type,
@@ -100,7 +101,7 @@ export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
 
   #buildTrainerCard(
     card: LimitlessTcgPokemonTrainerCard,
-    set: LimitlessTcgPokemonSet,
+    region: LimitlessTcgPokemonRegion,
   ): TcgPokemonTrainerCard {
     return {
       cardType: TcgPokemonCardType.trainer,
@@ -115,9 +116,8 @@ export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
           : this.#tcgPokemonRarityFromLimitlessPokemonRarityBuilder.build(
               card.rarity,
             ),
-      region: this.#tcgPokemonRegionFromLimitlessPokemonRegionBuilder.build(
-        set.region,
-      ),
+      region:
+        this.#tcgPokemonRegionFromLimitlessPokemonRegionBuilder.build(region),
       set: card.set,
       type: card.type,
     };

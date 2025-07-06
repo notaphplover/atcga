@@ -20,7 +20,6 @@ import {
   TcgPokemonCardSubtype as LimitlessTcgPokemonCardSubtype,
   TcgPokemonCardType as LimitlessTcgPokemonCardType,
   TcgPokemonParsedEnergyCard as LimitlessTcgPokemonEnergyCard,
-  TcgPokemonParsedSet as LimitlessTcgPokemonSet,
   TcgPokemonParsedTrainerCard as LimitlessTcgPokemonTrainerCard,
   TcgPokemonRarity as LimitlessTcgPokemonRarity,
   TcgPokemonRegion as LimitlessTcgPokemonRegion,
@@ -56,7 +55,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
   describe('.build', () => {
     describe('having an energy card with no rarity', () => {
       let energyCardFixture: LimitlessTcgPokemonEnergyCard;
-      let setFixture: LimitlessTcgPokemonSet;
+      let limitlessRegionFixture: LimitlessTcgPokemonRegion;
 
       beforeAll(() => {
         energyCardFixture = {
@@ -88,13 +87,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           type: LimitlessTcgPokemonCardSubtype.basic,
         };
 
-        setFixture = {
-          code: 'base',
-          name: {
-            [TcgPokemonLanguage.english]: 'Base Set',
-          },
-          region: LimitlessTcgPokemonRegion.int,
-        };
+        limitlessRegionFixture = LimitlessTcgPokemonRegion.int;
       });
 
       describe('when called', () => {
@@ -111,7 +104,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
           result = tcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder.build(
             energyCardFixture,
-            setFixture,
+            limitlessRegionFixture,
           );
         });
 
@@ -131,7 +124,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           ).toHaveBeenCalledTimes(1);
           expect(
             tcgPokemonRegionFromLimitlessPokemonRegionBuilderMock.build,
-          ).toHaveBeenCalledWith(setFixture.region);
+          ).toHaveBeenCalledWith(limitlessRegionFixture);
         });
 
         it('should return a TcgPokemonEnergyCard', () => {
@@ -156,7 +149,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
     describe('having an energy card with rarity', () => {
       let energyCardFixture: LimitlessTcgPokemonEnergyCard;
-      let setFixture: LimitlessTcgPokemonSet;
+      let limitlessRegionFixture: LimitlessTcgPokemonRegion;
 
       beforeAll(() => {
         energyCardFixture = {
@@ -189,13 +182,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           type: LimitlessTcgPokemonCardSubtype.basic,
         };
 
-        setFixture = {
-          code: 'base',
-          name: {
-            [TcgPokemonLanguage.english]: 'Base Set',
-          },
-          region: LimitlessTcgPokemonRegion.int,
-        };
+        limitlessRegionFixture = LimitlessTcgPokemonRegion.int;
       });
 
       describe('when called', () => {
@@ -218,7 +205,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
           result = tcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder.build(
             energyCardFixture,
-            setFixture,
+            limitlessRegionFixture,
           );
         });
 
@@ -241,7 +228,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           ).toHaveBeenCalledTimes(1);
           expect(
             tcgPokemonRegionFromLimitlessPokemonRegionBuilderMock.build,
-          ).toHaveBeenCalledWith(setFixture.region);
+          ).toHaveBeenCalledWith(limitlessRegionFixture);
         });
 
         it('should return a TcgPokemonEnergyCard', () => {
@@ -266,7 +253,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
     describe('having a trainer card with no rarity', () => {
       let trainerCardFixture: LimitlessTcgPokemonTrainerCard;
-      let setFixture: LimitlessTcgPokemonSet;
+      let limitlessRegionFixture: LimitlessTcgPokemonRegion;
 
       beforeAll(() => {
         trainerCardFixture = {
@@ -297,13 +284,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           type: LimitlessTcgPokemonCardSubtype.supporter,
         };
 
-        setFixture = {
-          code: 'base',
-          name: {
-            [TcgPokemonLanguage.english]: 'Base Set',
-          },
-          region: LimitlessTcgPokemonRegion.int,
-        };
+        limitlessRegionFixture = LimitlessTcgPokemonRegion.int;
       });
 
       describe('when called', () => {
@@ -320,7 +301,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
           result = tcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder.build(
             trainerCardFixture,
-            setFixture,
+            limitlessRegionFixture,
           );
         });
 
@@ -340,7 +321,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           ).toHaveBeenCalledTimes(1);
           expect(
             tcgPokemonRegionFromLimitlessPokemonRegionBuilderMock.build,
-          ).toHaveBeenCalledWith(setFixture.region);
+          ).toHaveBeenCalledWith(limitlessRegionFixture);
         });
 
         it('should return a TcgPokemonTrainerCard', () => {
@@ -364,7 +345,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
     describe('having a trainer card with rarity', () => {
       let trainerCardFixture: LimitlessTcgPokemonTrainerCard;
-      let setFixture: LimitlessTcgPokemonSet;
+      let limitlessRegionFixture: LimitlessTcgPokemonRegion;
 
       beforeAll(() => {
         trainerCardFixture = {
@@ -396,13 +377,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           type: LimitlessTcgPokemonCardSubtype.supporter,
         };
 
-        setFixture = {
-          code: 'base',
-          name: {
-            [TcgPokemonLanguage.english]: 'Base Set',
-          },
-          region: LimitlessTcgPokemonRegion.int,
-        };
+        limitlessRegionFixture = LimitlessTcgPokemonRegion.int;
       });
 
       describe('when called', () => {
@@ -425,7 +400,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
 
           result = tcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder.build(
             trainerCardFixture,
-            setFixture,
+            limitlessRegionFixture,
           );
         });
 
@@ -448,7 +423,7 @@ describe(TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder, () => {
           ).toHaveBeenCalledTimes(1);
           expect(
             tcgPokemonRegionFromLimitlessPokemonRegionBuilderMock.build,
-          ).toHaveBeenCalledWith(setFixture.region);
+          ).toHaveBeenCalledWith(limitlessRegionFixture);
         });
 
         it('should return a TcgPokemonTrainerCard', () => {
