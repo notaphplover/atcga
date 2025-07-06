@@ -1,7 +1,7 @@
 import { providePokemonSetsPortSymbol } from '@atcga/backend-catalog-application';
 import { ContainerModule, ContainerModuleLoadOptions } from 'inversify';
 
-import { ProvidePokemonSetsLimitlessTcgAdapter } from '../../limitlesstcg/ProvidePokemonSetsLimitlessTcgAdapter';
+import { ProvidePokemonSetsLimitlessTcgAdapter } from '../../limitlesstcg/adapters/ProvidePokemonSetsLimitlessTcgAdapter';
 
 export class SetsLimitlessTcgModule extends ContainerModule {
   constructor() {
