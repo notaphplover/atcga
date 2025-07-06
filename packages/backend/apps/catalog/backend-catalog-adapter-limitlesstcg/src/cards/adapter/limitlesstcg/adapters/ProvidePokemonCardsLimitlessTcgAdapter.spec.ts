@@ -104,7 +104,7 @@ describe(ProvidePokemonCardsLimitlessTcgAdapter, () => {
                     'https://example.com/fire-energy-xs.png',
                 },
               },
-              language: TcgPokemonLanguage.english,
+              languages: [TcgPokemonLanguage.english],
               name: {
                 [TcgPokemonLanguage.english]: 'Fire Energy',
               },
@@ -132,7 +132,7 @@ describe(ProvidePokemonCardsLimitlessTcgAdapter, () => {
                     'https://example.com/professor-oak-xs.png',
                 },
               },
-              language: TcgPokemonLanguage.english,
+              languages: [TcgPokemonLanguage.english],
               name: {
                 [TcgPokemonLanguage.english]: 'Professor Oak',
               },
@@ -162,7 +162,7 @@ describe(ProvidePokemonCardsLimitlessTcgAdapter, () => {
                     'https://example.com/fire-energy-xs.png',
                 },
               },
-              language: TcgPokemonLanguage.english,
+              languages: [TcgPokemonLanguage.english],
               name: {
                 [TcgPokemonLanguage.english]: 'Fire Energy',
               },
@@ -192,7 +192,7 @@ describe(ProvidePokemonCardsLimitlessTcgAdapter, () => {
                     'https://example.com/professor-oak-xs.png',
                 },
               },
-              language: TcgPokemonLanguage.english,
+              languages: [TcgPokemonLanguage.english],
               name: {
                 [TcgPokemonLanguage.english]: 'Professor Oak',
               },

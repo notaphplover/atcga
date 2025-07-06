@@ -292,7 +292,7 @@ export function buildParsedPokemonCard(
         cardType: firstCard.card_type,
         effect: buildCardEffect(cardList),
         imageUrls: buildImageUrls(cardList),
-        language: firstCard.language,
+        languages: cardList.map((card: TcgPokemonCard) => card.language),
         name: buildCardName(cardList),
         number: firstCard.number,
         rarity:
@@ -309,7 +309,7 @@ export function buildParsedPokemonCard(
         cardType: firstCard.card_type,
         hp: firstCard.hp ?? 0,
         imageUrls: buildImageUrls(cardList),
-        language: firstCard.language,
+        languages: cardList.map((card: TcgPokemonCard) => card.language),
         name: buildCardName(cardList),
         number: firstCard.number,
         rarity:
@@ -329,7 +329,7 @@ export function buildParsedPokemonCard(
         cardType: firstCard.card_type,
         effect: buildCardEffect(cardList),
         imageUrls: buildImageUrls(cardList),
-        language: firstCard.language,
+        languages: cardList.map((card: TcgPokemonCard) => card.language),
         name: buildCardName(cardList),
         number: firstCard.number,
         rarity:

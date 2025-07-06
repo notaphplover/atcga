@@ -82,7 +82,7 @@ export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
       cardType: TcgPokemonCardType.energy,
       effect: card.effect,
       imageUrls: card.imageUrls,
-      language: card.language,
+      languages: card.languages,
       name: card.name,
       number: card.number,
       rarity:
@@ -107,7 +107,7 @@ export class TcgPokemonCardFromLimitlessTcgPokemonParsedCardBuilder
       cardType: TcgPokemonCardType.trainer,
       effect: card.effect,
       imageUrls: card.imageUrls,
-      language: card.language,
+      languages: card.languages,
       name: card.name,
       number: card.number,
       rarity:
