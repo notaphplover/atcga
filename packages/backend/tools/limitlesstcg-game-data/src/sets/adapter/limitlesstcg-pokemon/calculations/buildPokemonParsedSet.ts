@@ -1,4 +1,4 @@
-import { I18nString } from '../../../../cards/adapter/limitlesstcg-pokemon/models/TcgPokemonParsedCard';
+import { I18nString } from '../../../../common/domain/models/I18nString';
 import { TcgPokemonLanguage } from '../../../../languages/adapter/limitlesstcg-pokemon/models/TcgPokemonLanguage';
 import { TcgPokemonParsedSet } from '../models/TcgPokemonParsedSet';
 import { TcgPokemonSet } from '../models/TcgPokemonSet';
@@ -20,9 +20,9 @@ export function buildPokemonParsedSet(
     code: firstSet.code,
     name: [...languageToSetMap].reduce(
       (
-        i18nString: I18nString,
+        i18nString: I18nString<TcgPokemonLanguage>,
         [language, set]: [TcgPokemonLanguage, TcgPokemonSet],
-      ): I18nString => {
+      ): I18nString<TcgPokemonLanguage> => {
         i18nString[language] = set.name;
 
         return i18nString;
