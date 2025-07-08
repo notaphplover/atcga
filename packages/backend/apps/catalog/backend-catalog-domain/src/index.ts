@@ -13,6 +13,7 @@ export { TcgPokemonRarity } from './cards/domain/models/TcgPokemonRarity';
 export { TcgPokemonStage } from './cards/domain/models/TcgPokemonStage';
 export type { TcgPokemonTrainerCard } from './cards/domain/models/TcgPokemonTrainerCard';
 export { TcgPokemonType } from './cards/domain/models/TcgPokemonType';
+export type { I18nString } from './common/domain/models/I18nString';
 export { TcgPokemonLanguage } from './languages/domain/models/TcgPokemonLanguage';
 export { TcgPokemonRegion } from './regions/domain/models/TcgPokemonRegion';
 export { TcgPokemonSet } from './sets/domain/models/TcgPokemonSet';
