@@ -3,6 +3,7 @@ import {
   SetsElasticsearchModule,
 } from '@atcga/backend-catalog-adapter-elasticsearch';
 import {
+  FoundationLimitlessTcgModule,
   RegionsLimitlessTcgModule,
   SetsLimitlessTcgModule,
 } from '@atcga/backend-catalog-adapter-limitlesstcg';
@@ -18,6 +19,7 @@ export async function initializeCatalogService(): Promise<void> {
 
   await container.load(
     new EnvModule(),
+    new FoundationLimitlessTcgModule(),
     new FoundationElasticsearchModule(),
     new RegionsLimitlessTcgModule(),
     new SetsApplicationModule(),

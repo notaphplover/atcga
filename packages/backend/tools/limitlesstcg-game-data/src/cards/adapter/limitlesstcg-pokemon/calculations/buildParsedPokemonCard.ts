@@ -1,8 +1,9 @@
+import { I18nString } from '../../../../common/domain/models/I18nString';
+import { TcgPokemonLanguage } from '../../../../languages/adapter/limitlesstcg-pokemon/models/TcgPokemonLanguage';
 import { TcgPokemonCard } from '../models/TcgPokemonCard';
 import { TcgPokemonCardSubtype } from '../models/TcgPokemonCardSubtype';
 import { TcgPokemonCardType } from '../models/TcgPokemonCardType';
 import {
-  I18nString,
   TcgPokemonParsedCard,
   TcgPokemonParsedPokemonCardAttack,
   TcgPokemonParsedPokemonCardAttackCostType,
@@ -12,9 +13,12 @@ import { generateCardUrl } from './generateCardUrl';
 
 function buildAbilityEffect(
   cardList: TcgPokemonCard[],
-): I18nString | undefined {
-  const i18nString: I18nString = cardList.reduce(
-    (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+): I18nString<TcgPokemonLanguage> | undefined {
+  const i18nString: I18nString<TcgPokemonLanguage> = cardList.reduce(
+    (
+      i18nString: I18nString<TcgPokemonLanguage>,
+      card: TcgPokemonCard,
+    ): I18nString<TcgPokemonLanguage> => {
       if (card.ability_effect !== null) {
         i18nString[card.language] = card.ability_effect;
       }
@@ -31,9 +35,14 @@ function buildAbilityEffect(
   }
 }
 
-function buildAbilityName(cardList: TcgPokemonCard[]): I18nString | undefined {
-  const i18nString: I18nString = cardList.reduce(
-    (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+function buildAbilityName(
+  cardList: TcgPokemonCard[],
+): I18nString<TcgPokemonLanguage> | undefined {
+  const i18nString: I18nString<TcgPokemonLanguage> = cardList.reduce(
+    (
+      i18nString: I18nString<TcgPokemonLanguage>,
+      card: TcgPokemonCard,
+    ): I18nString<TcgPokemonLanguage> => {
       if (card.ability_name !== null) {
         i18nString[card.language] = card.ability_name;
       }
@@ -50,9 +59,14 @@ function buildAbilityName(cardList: TcgPokemonCard[]): I18nString | undefined {
   }
 }
 
-function buildCardName(cardList: TcgPokemonCard[]): I18nString {
+function buildCardName(
+  cardList: TcgPokemonCard[],
+): I18nString<TcgPokemonLanguage> {
   return cardList.reduce(
-    (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+    (
+      i18nString: I18nString<TcgPokemonLanguage>,
+      card: TcgPokemonCard,
+    ): I18nString<TcgPokemonLanguage> => {
       i18nString[card.language] = card.name;
       return i18nString;
     },
@@ -60,9 +74,14 @@ function buildCardName(cardList: TcgPokemonCard[]): I18nString {
   );
 }
 
-function buildCardEffect(cardList: TcgPokemonCard[]): I18nString {
+function buildCardEffect(
+  cardList: TcgPokemonCard[],
+): I18nString<TcgPokemonLanguage> {
   return cardList.reduce(
-    (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+    (
+      i18nString: I18nString<TcgPokemonLanguage>,
+      card: TcgPokemonCard,
+    ): I18nString<TcgPokemonLanguage> => {
       if (card.effect !== null) {
         i18nString[card.language] = card.effect;
       }
@@ -86,13 +105,16 @@ function buildEnergyType(
 }
 
 function buildImageUrls(cardList: TcgPokemonCard[]): {
-  lg: I18nString;
-  sm: I18nString;
-  xs: I18nString;
+  lg: I18nString<TcgPokemonLanguage>;
+  sm: I18nString<TcgPokemonLanguage>;
+  xs: I18nString<TcgPokemonLanguage>;
 } {
   return {
     lg: cardList.reduce(
-      (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+      (
+        i18nString: I18nString<TcgPokemonLanguage>,
+        card: TcgPokemonCard,
+      ): I18nString<TcgPokemonLanguage> => {
         i18nString[card.language] = generateCardUrl(card, null);
 
         return i18nString;
@@ -100,7 +122,10 @@ function buildImageUrls(cardList: TcgPokemonCard[]): {
       {},
     ),
     sm: cardList.reduce(
-      (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+      (
+        i18nString: I18nString<TcgPokemonLanguage>,
+        card: TcgPokemonCard,
+      ): I18nString<TcgPokemonLanguage> => {
         i18nString[card.language] = generateCardUrl(card, 'sm');
 
         return i18nString;
@@ -108,7 +133,10 @@ function buildImageUrls(cardList: TcgPokemonCard[]): {
       {},
     ),
     xs: cardList.reduce(
-      (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+      (
+        i18nString: I18nString<TcgPokemonLanguage>,
+        card: TcgPokemonCard,
+      ): I18nString<TcgPokemonLanguage> => {
         i18nString[card.language] = generateCardUrl(card, 'xs');
 
         return i18nString;
@@ -132,7 +160,10 @@ function buildPokemonAttacks(
       cost: buildPokemonAttackCost(firstCard.a1_cost),
       dmg: firstCard.a1_dmg ?? undefined,
       effect: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a1_effect !== null) {
             i18nString[card.language] = card.a1_effect;
           }
@@ -142,7 +173,10 @@ function buildPokemonAttacks(
         {},
       ),
       name: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a1_name !== null) {
             i18nString[card.language] = card.a1_name;
           }
@@ -156,7 +190,10 @@ function buildPokemonAttacks(
       cost: buildPokemonAttackCost(firstCard.a2_cost),
       dmg: firstCard.a2_dmg ?? undefined,
       effect: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a2_effect !== null) {
             i18nString[card.language] = card.a2_effect;
           }
@@ -166,7 +203,10 @@ function buildPokemonAttacks(
         {},
       ),
       name: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a2_name !== null) {
             i18nString[card.language] = card.a2_name;
           }
@@ -180,7 +220,10 @@ function buildPokemonAttacks(
       cost: buildPokemonAttackCost(firstCard.a3_cost),
       dmg: firstCard.a3_dmg ?? undefined,
       effect: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a3_effect !== null) {
             i18nString[card.language] = card.a3_effect;
           }
@@ -190,7 +233,10 @@ function buildPokemonAttacks(
         {},
       ),
       name: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a3_name !== null) {
             i18nString[card.language] = card.a3_name;
           }
@@ -204,7 +250,10 @@ function buildPokemonAttacks(
       cost: buildPokemonAttackCost(firstCard.a4_cost),
       dmg: firstCard.a4_dmg ?? undefined,
       effect: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a4_effect !== null) {
             i18nString[card.language] = card.a4_effect;
           }
@@ -214,7 +263,10 @@ function buildPokemonAttacks(
         {},
       ),
       name: cardList.reduce(
-        (i18nString: I18nString, card: TcgPokemonCard): I18nString => {
+        (
+          i18nString: I18nString<TcgPokemonLanguage>,
+          card: TcgPokemonCard,
+        ): I18nString<TcgPokemonLanguage> => {
           if (card.a4_name !== null) {
             i18nString[card.language] = card.a4_name;
           }
