@@ -82,8 +82,20 @@
   "retreat": 1,
   "set": "ROS",
   "stage": "stage1",
-  "traitEffect": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon.",
-  "traitName": "Δ Evolution",
+  "traitEffect": {
+    "en": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon.",
+    "fr": "Vous pouvez jouer cette carte de votre main pour faire évoluer un Pokémon pendant votre premier tour ou pendant le tour où vous le jouez.",
+    "de": "Du kannst diese Karte von deiner Hand spielen, um 1 Pokémon während deines ersten Zuges oder des Zuges, in dem du es spielst, zu entwickeln.",
+    "it": "Puoi giocare questa carta dalla tua mano per far evolvere un Pokémon durante il tuo primo turno o durante il turno in cui l'hai giocato.",
+    "es": "Puedes jugar esta carta de tu mano para hacer evolucionar a 1 Pokémon durante tu primer turno o durante el turno en que pongas en juego a ese Pokémon."
+  },
+  "traitName": {
+    "en": "Δ Evolution",
+    "fr": "Évolution Δ",
+    "de": "Δ Entwicklung",
+    "it": "Evoluzione Δ",
+    "es": "Evolución Δ"
+  },
   "type": [
     "colorless"
   ],

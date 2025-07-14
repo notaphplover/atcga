@@ -37,8 +37,12 @@
   "retreat": 1,
   "set": "MD",
   "stage": "basic",
-  "traitEffect": "If Piplup is Poisoned, remove the Special Condition Poisoned from Piplup at the end of each player's turn.",
-  "traitName": "Pecha Berry",
+  "traitEffect": {
+    "en": "If Piplup is Poisoned, remove the Special Condition Poisoned from Piplup at the end of each player's turn."
+  },
+  "traitName": {
+    "en": "Pecha Berry"
+  },
   "type": [
     "water"
   ],

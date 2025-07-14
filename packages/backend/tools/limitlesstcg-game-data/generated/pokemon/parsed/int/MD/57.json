@@ -38,8 +38,12 @@
   "retreat": 1,
   "set": "MD",
   "stage": "basic",
-  "traitEffect": "If Chimchar is Paralyzed, remove the Special Condition Paralyzed from Chimchar at the end of each player's turn.",
-  "traitName": "Cheri Berry",
+  "traitEffect": {
+    "en": "If Chimchar is Paralyzed, remove the Special Condition Paralyzed from Chimchar at the end of each player's turn."
+  },
+  "traitName": {
+    "en": "Cheri Berry"
+  },
   "type": [
     "fire"
   ],

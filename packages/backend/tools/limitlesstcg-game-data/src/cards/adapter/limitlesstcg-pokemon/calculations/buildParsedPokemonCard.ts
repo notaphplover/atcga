@@ -329,6 +329,54 @@ function buildTrainerType(
     | TcgPokemonCardSubtype.tool;
 }
 
+function buildTraitEffect(
+  cardList: TcgPokemonCard[],
+): I18nString<TcgPokemonLanguage> | undefined {
+  const i18nString: I18nString<TcgPokemonLanguage> = cardList.reduce(
+    (
+      i18nString: I18nString<TcgPokemonLanguage>,
+      card: TcgPokemonCard,
+    ): I18nString<TcgPokemonLanguage> => {
+      if (card.trait_effect !== null) {
+        i18nString[card.language] = card.trait_effect;
+      }
+
+      return i18nString;
+    },
+    {},
+  );
+
+  if (Object.keys(i18nString).length === 0) {
+    return undefined;
+  } else {
+    return i18nString;
+  }
+}
+
+function buildTraitName(
+  cardList: TcgPokemonCard[],
+): I18nString<TcgPokemonLanguage> | undefined {
+  const i18nString: I18nString<TcgPokemonLanguage> = cardList.reduce(
+    (
+      i18nString: I18nString<TcgPokemonLanguage>,
+      card: TcgPokemonCard,
+    ): I18nString<TcgPokemonLanguage> => {
+      if (card.trait_name !== null) {
+        i18nString[card.language] = card.trait_name;
+      }
+
+      return i18nString;
+    },
+    {},
+  );
+
+  if (Object.keys(i18nString).length === 0) {
+    return undefined;
+  } else {
+    return i18nString;
+  }
+}
+
 export function buildParsedPokemonCard(
   cardList: TcgPokemonCard[],
 ): TcgPokemonParsedCard {
@@ -371,8 +419,8 @@ export function buildParsedPokemonCard(
         retreat: firstCard.retreat ?? undefined,
         set: firstCard.set,
         stage: firstCard.stage ?? undefined,
-        traitEffect: firstCard.trait_effect ?? undefined,
-        traitName: firstCard.trait_name ?? undefined,
+        traitEffect: buildTraitEffect(cardList),
+        traitName: buildTraitName(cardList),
         type: buildPokemonTypeArray(firstCard.type),
         weakness: buildPokemonTypeArray(firstCard.weakness),
       };

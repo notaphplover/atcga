@@ -75,8 +75,20 @@
   "retreat": 1,
   "set": "AOR",
   "stage": "mega",
-  "traitEffect": "When 1 of your Pokémon becomes this Pokémon, heal all damage from it.",
-  "traitName": "θ Max",
+  "traitEffect": {
+    "en": "When 1 of your Pokémon becomes this Pokémon, heal all damage from it.",
+    "fr": "Lorsqu'un de vos Pokémon devient ce Pokémon, soignez tous les dégâts de ce Pokémon.",
+    "de": "Wenn 1 deiner Pokémon zu diesem Pokémon wird, heile allen Schaden bei diesem Pokémon.",
+    "it": "Quando uno dei tuoi Pokémon diventa questo Pokémon, curane tutti i danni.",
+    "es": "Cuando 1 de tus Pokémon se convierte en este Pokémon, cura todos sus puntos de daño."
+  },
+  "traitName": {
+    "en": "θ Max",
+    "fr": "Max Θ",
+    "de": "Θ Max",
+    "it": "Max Θ",
+    "es": "Máximo Θ"
+  },
   "type": [
     "colorless"
   ],

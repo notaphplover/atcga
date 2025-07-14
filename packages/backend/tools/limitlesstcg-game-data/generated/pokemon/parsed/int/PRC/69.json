@@ -93,8 +93,20 @@
   "retreat": 2,
   "set": "PRC",
   "stage": "stage2",
-  "traitEffect": "This Pokémon may attack twice a turn. (If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.)",
-  "traitName": "Ω Barrage",
+  "traitEffect": {
+    "en": "This Pokémon may attack twice a turn. (If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.)",
+    "fr": "Ce Pokémon peut attaquer deux fois par tour. (Si la première attaque met K.O. le Pokémon Actif de votre adversaire, vous pouvez encore attaquer après que votre adversaire a choisi un nouveau Pokémon A",
+    "de": "Dieses Pokémon kann während eines Zuges zweimal angreifen. (Falls der erste Angriff das Aktive Pokémon deines Gegners kampfunfähig macht, kannst du erneut angreifen, nachdem dein Gegner ein neues Akti",
+    "it": "Questo Pokémon può attaccare due volte durante lo stesso turno. Se il primo attacco mette KO il Pokémon attivo del tuo avversario, puoi attaccare di nuovo dopo che il tuo avversario avrà scelto il suo",
+    "es": "Este Pokémon puede atacar 2 veces por turno. (Si el primer ataque deja Fuera de Combate al Pokémon Activo de tu rival, puedes atacar otra vez después de que tu rival elija un nuevo Pokémon Activo)."
+  },
+  "traitName": {
+    "en": "Ω Barrage",
+    "fr": "Offensive Ω",
+    "de": "Ω Offensive",
+    "it": "Offensiva Ω",
+    "es": "Ráfaga Ω"
+  },
   "type": [
     "psychic"
   ],

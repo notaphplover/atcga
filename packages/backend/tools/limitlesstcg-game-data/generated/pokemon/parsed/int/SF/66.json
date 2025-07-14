@@ -41,8 +41,12 @@
   "retreat": 1,
   "set": "SF",
   "stage": "basic",
-  "traitEffect": "Magnemite's Retreat Cost is Colorless less for each Magnemite on your Bench.",
-  "traitName": "Magnet",
+  "traitEffect": {
+    "en": "Magnemite's Retreat Cost is Colorless less for each Magnemite on your Bench."
+  },
+  "traitName": {
+    "en": "Magnet"
+  },
   "type": [
     "metal"
   ],

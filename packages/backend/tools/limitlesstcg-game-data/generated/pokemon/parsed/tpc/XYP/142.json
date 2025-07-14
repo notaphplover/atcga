@@ -42,8 +42,12 @@
   "retreat": 1,
   "set": "XYP",
   "stage": "basic",
-  "traitEffect": "このポケモンは、相手のポケモンからの特性の効果を受けない。",
-  "traitName": "Θ（シータ）ストップ",
+  "traitEffect": {
+    "jp": "このポケモンは、相手のポケモンからの特性の効果を受けない。"
+  },
+  "traitName": {
+    "jp": "Θ（シータ）ストップ"
+  },
   "type": [
     "grass"
   ],

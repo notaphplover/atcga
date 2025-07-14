@@ -39,8 +39,12 @@
   "retreat": 1,
   "set": "MT",
   "stage": "basic",
-  "traitEffect": "If Buizel is Asleep, remove the Special Condition Asleep from Buizel at the end of each player's turn.",
-  "traitName": "Chesto Berry",
+  "traitEffect": {
+    "en": "If Buizel is Asleep, remove the Special Condition Asleep from Buizel at the end of each player's turn."
+  },
+  "traitName": {
+    "en": "Chesto Berry"
+  },
   "type": [
     "water"
   ],

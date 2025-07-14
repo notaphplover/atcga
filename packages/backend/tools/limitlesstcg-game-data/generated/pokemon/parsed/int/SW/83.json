@@ -38,8 +38,12 @@
   "retreat": 1,
   "set": "SW",
   "stage": "basic",
-  "traitEffect": "Clefairy can evolve during the turn you play it.",
-  "traitName": "Moon Stone",
+  "traitEffect": {
+    "en": "Clefairy can evolve during the turn you play it."
+  },
+  "traitName": {
+    "en": "Moon Stone"
+  },
   "type": [
     "colorless"
   ],

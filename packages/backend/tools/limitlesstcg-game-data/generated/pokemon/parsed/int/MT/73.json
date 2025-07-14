@@ -37,8 +37,12 @@
   "retreat": 2,
   "set": "MT",
   "stage": "basic",
-  "traitEffect": "Any damage done to Bidoof by attacks from Lightning Pokémon is reduced by 20 (after applying Weakness and Resistance).",
-  "traitName": "Wacan Berry",
+  "traitEffect": {
+    "en": "Any damage done to Bidoof by attacks from Lightning Pokémon is reduced by 20 (after applying Weakness and Resistance)."
+  },
+  "traitName": {
+    "en": "Wacan Berry"
+  },
   "type": [
     "colorless"
   ],

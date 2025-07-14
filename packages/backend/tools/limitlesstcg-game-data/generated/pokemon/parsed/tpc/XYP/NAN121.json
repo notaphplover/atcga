@@ -53,8 +53,12 @@
   "retreat": 3,
   "set": "XYP",
   "stage": "stage1",
-  "traitEffect": "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。",
-  "traitName": "Θ（シータ）ダブル",
+  "traitEffect": {
+    "jp": "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。"
+  },
+  "traitName": {
+    "jp": "Θ（シータ）ダブル"
+  },
   "type": [
     "water"
   ],

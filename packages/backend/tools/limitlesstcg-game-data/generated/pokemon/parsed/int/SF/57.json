@@ -39,8 +39,12 @@
   "retreat": 1,
   "set": "SF",
   "stage": "basic",
-  "traitEffect": "Once during your turn, when you put Combee from your hand onto your Bench, you may search your discard pile for a Basic Pokémon and put it onto your Bench.",
-  "traitName": "Honey",
+  "traitEffect": {
+    "en": "Once during your turn, when you put Combee from your hand onto your Bench, you may search your discard pile for a Basic Pokémon and put it onto your Bench."
+  },
+  "traitName": {
+    "en": "Honey"
+  },
   "type": [
     "grass"
   ],

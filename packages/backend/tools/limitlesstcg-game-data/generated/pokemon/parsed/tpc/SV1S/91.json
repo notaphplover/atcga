@@ -55,8 +55,12 @@
   "retreat": 4,
   "set": "SV1S",
   "stage": "stage1",
-  "traitEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
-  "traitName": "テラスタル",
+  "traitEffect": {
+    "jp": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。"
+  },
+  "traitName": {
+    "jp": "テラスタル"
+  },
   "type": [
     "water"
   ],

@@ -41,8 +41,12 @@
   "retreat": 1,
   "set": "XY",
   "stage": "mega",
-  "traitEffect": "このカードは、最初の自分の番や出したばかりのポケモンからでも、手札から進化できる。",
-  "traitName": "Δ（デルタ）進化",
+  "traitEffect": {
+    "jp": "このカードは、最初の自分の番や出したばかりのポケモンからでも、手札から進化できる。"
+  },
+  "traitName": {
+    "jp": "Δ（デルタ）進化"
+  },
   "type": [
     "colorless"
   ],

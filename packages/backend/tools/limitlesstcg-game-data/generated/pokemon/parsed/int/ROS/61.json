@@ -75,8 +75,20 @@
   "retreat": 2,
   "set": "ROS",
   "stage": "mega",
-  "traitEffect": "Any damage done to this Pokémon by attacks from your opponent's Grass, Fire, Water, or Lightning Pokémon is reduced by 20 (after applying Weakness and Resistance).",
-  "traitName": "Δ Wild",
+  "traitEffect": {
+    "en": "Any damage done to this Pokémon by attacks from your opponent's Grass, Fire, Water, or Lightning Pokémon is reduced by 20 (after applying Weakness and Resistance).",
+    "fr": "Tous les dégâts infligés à ce Pokémon par des attaques des Pokémon Grass, Fire, Water ou Lightning de votre adversaire sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+    "de": "Schaden, der diesem Pokémon durch Angriffe der Grass-, Fire-, Water- oder Lightning-Pokémon deines Gegners zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet",
+    "it": "I danni inflitti a questo Pokémon dagli attacchi dei Pokémon Grass, Fire, Water o Lightning del tuo avversario sono ridotti di 20, dopo aver applicato debolezza e resistenza.",
+    "es": "Cualquier daño infligido a este Pokémon por ataques de los Pokémon Grass, Fire, Water o Lightning de tu rival se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+  },
+  "traitName": {
+    "en": "Δ Wild",
+    "fr": "Jungle Δ",
+    "de": "Δ Natur",
+    "it": "Natura Δ",
+    "es": "Salvaje Δ"
+  },
   "type": [
     "dragon"
   ],

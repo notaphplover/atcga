@@ -67,8 +67,12 @@
   "retreat": 1,
   "set": "XYP",
   "stage": "basic",
-  "traitEffect": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
-  "traitName": "θ Stop",
+  "traitEffect": {
+    "en": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon."
+  },
+  "traitName": {
+    "en": "θ Stop"
+  },
   "type": [
     "grass"
   ],

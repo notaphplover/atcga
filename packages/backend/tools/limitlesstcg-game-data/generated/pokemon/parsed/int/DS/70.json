@@ -39,7 +39,9 @@
   "retreat": 1,
   "set": "DS",
   "stage": "basic",
-  "traitEffect": "You may attach this as an Energy card from your hand to 1 of your Pokémon. While attached, this card is a Special Energy card and provides Colorless Energy.",
+  "traitEffect": {
+    "en": "You may attach this as an Energy card from your hand to 1 of your Pokémon. While attached, this card is a Special Energy card and provides Colorless Energy."
+  },
   "type": [
     "metal"
   ],

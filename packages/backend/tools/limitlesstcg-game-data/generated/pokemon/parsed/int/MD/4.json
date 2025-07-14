@@ -54,8 +54,12 @@
   "retreat": 3,
   "set": "MD",
   "stage": "basic",
-  "traitEffect": "If an Active Pokémon has Weakness to Metal type, Dialga's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance).",
-  "traitName": "Adamant Orb",
+  "traitEffect": {
+    "en": "If an Active Pokémon has Weakness to Metal type, Dialga's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance)."
+  },
+  "traitName": {
+    "en": "Adamant Orb"
+  },
   "type": [
     "metal"
   ],

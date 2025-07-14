@@ -97,8 +97,20 @@
   "retreat": 4,
   "set": "AOR",
   "stage": "stage2",
-  "traitEffect": "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
-  "traitName": "θ Double",
+  "traitEffect": {
+    "en": "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
+    "fr": "Jusqu'à 2 cartes Outil Pokémon peuvent être attachées à ce Pokémon.",
+    "de": "An dieses Pokémon können bis zu 2 Pokémon-Ausrüstungen angelegt sein.",
+    "it": "Questo Pokémon può avere fino a due carte Oggetto Pokémon assegnate.",
+    "es": "Este Pokémon puede tener hasta 2 cartas de Herramienta Pokémon unidas a él."
+  },
+  "traitName": {
+    "en": "θ Double",
+    "fr": "Double Θ",
+    "de": "Θ Double",
+    "it": "Doppio Θ",
+    "es": "Doble Θ"
+  },
   "type": [
     "metal"
   ],

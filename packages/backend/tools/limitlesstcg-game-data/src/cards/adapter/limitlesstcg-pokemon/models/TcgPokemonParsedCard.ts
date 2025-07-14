@@ -56,8 +56,8 @@ export interface TcgPokemonParsedPokemonCard
   resistance: TcgPokemonType[];
   retreat?: number | undefined;
   stage?: TcgPokemonStage | undefined;
-  traitName?: string | undefined;
-  traitEffect?: string | undefined;
+  traitName?: I18nString<TcgPokemonLanguage> | undefined;
+  traitEffect?: I18nString<TcgPokemonLanguage> | undefined;
   type: TcgPokemonType[];
   weakness: TcgPokemonType[];
 }

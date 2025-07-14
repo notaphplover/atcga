@@ -96,8 +96,20 @@
   "retreat": 2,
   "set": "PRC",
   "stage": "stage1",
-  "traitEffect": "When this Pokémon is healed, double the amount healed.",
-  "traitName": "α Recovery",
+  "traitEffect": {
+    "en": "When this Pokémon is healed, double the amount healed.",
+    "fr": "Lorsque ce Pokémon est soigné, doublez la quantité de soins.",
+    "de": "Wenn dieses Pokémon geheilt wird, verdoppele die geheilten Schadenspunkte.",
+    "it": "Quando curi questo Pokémon, raddoppia la quantità di danni che stai curando.",
+    "es": "Cuando este Pokémon sea curado, dobla la cantidad curada."
+  },
+  "traitName": {
+    "en": "α Recovery",
+    "fr": "Régénération α",
+    "de": "α Genesung",
+    "it": "Recupero α",
+    "es": "Recuperación α"
+  },
   "type": [
     "fairy"
   ],
