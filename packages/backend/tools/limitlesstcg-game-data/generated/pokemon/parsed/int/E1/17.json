@@ -37,8 +37,12 @@
   "retreat": 1,
   "set": "E1",
   "stage": "basic",
-  "traitEffect": "If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.",
-  "traitName": "Baby Rule",
+  "traitEffect": {
+    "en": "If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
+  },
+  "traitName": {
+    "en": "Baby Rule"
+  },
   "type": [
     "fire"
   ],

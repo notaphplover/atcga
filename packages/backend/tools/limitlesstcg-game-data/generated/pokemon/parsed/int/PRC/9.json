@@ -93,8 +93,20 @@
   "retreat": 2,
   "set": "PRC",
   "stage": "stage2",
-  "traitEffect": "Whenever your opponent plays a Trainer card (excluding Pokémon Tools and Stadium cards), prevent all effects of that card done to this Pokémon.",
-  "traitName": "Ω Barrier",
+  "traitEffect": {
+    "en": "Whenever your opponent plays a Trainer card (excluding Pokémon Tools and Stadium cards), prevent all effects of that card done to this Pokémon.",
+    "fr": "Chaque fois que votre adversaire joue une carte Dresseur (excepté les Outils Pokémon et les cartes Stade), évitez tous les effets de la carte Dresseur sur ce Pokémon.",
+    "de": "Jedes Mal, wenn dein Gegner 1 Trainerkarte spielt (außer Pokémon-Ausrüstungen und Stadionkarten), verhindere sämtliche Effekte, die diese Karte diesem Pokémon zufügt.",
+    "it": "Ogni volta che il tuo avversario gioca una carta Allenatore (escluse le carte Oggetto Pokémon e Stadio), previeni tutti gli effetti di quella carta inflitti a questo Pokémon.",
+    "es": "Cada vez que tu rival juegue 1 carta de Entrenador (excluidas las cartas de Herramienta Pokémon y de Estadio), evita todos los efectos de esa carta infligidos a este Pokémon."
+  },
+  "traitName": {
+    "en": "Ω Barrier",
+    "fr": "Barrière Ω",
+    "de": "Ω Barriere",
+    "it": "Barriera Ω",
+    "es": "Barrera Ω"
+  },
   "type": [
     "grass"
   ],

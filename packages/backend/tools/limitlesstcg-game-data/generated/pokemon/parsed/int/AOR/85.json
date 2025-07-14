@@ -72,8 +72,20 @@
   "retreat": 2,
   "set": "AOR",
   "stage": "mega",
-  "traitEffect": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
-  "traitName": "θ Stop",
+  "traitEffect": {
+    "en": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
+    "fr": "Évitez tous les effets des talents des Pokémon de votre adversaire infligés à ce Pokémon.",
+    "de": "Verhindere alle Effekte von Fähigkeiten gegnerischer Pokémon, die diesem Pokémon zugefügt werden.",
+    "it": "Previeni tutti gli effetti delle abilità dei Pokémon del tuo avversario inflitti a questo Pokémon.",
+    "es": "Evita todos los efectos de las habilidades de los Pokémon de tu rival infligidos a este Pokémon."
+  },
+  "traitName": {
+    "en": "θ Stop",
+    "fr": "Stop Θ",
+    "de": "Θ Stopp",
+    "it": "Blocco Θ",
+    "es": "Stop Θ"
+  },
   "type": [
     "grass"
   ],

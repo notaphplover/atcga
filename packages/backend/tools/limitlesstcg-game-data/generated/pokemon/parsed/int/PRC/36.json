@@ -87,8 +87,20 @@
   "retreat": 3,
   "set": "PRC",
   "stage": "stage2",
-  "traitEffect": "When you attach an Energy card from your hand to this Pokémon (except with an attack, Ability, or Trainer card), you may attach 2 Energy cards.",
-  "traitName": "α Growth",
+  "traitEffect": {
+    "en": "When you attach an Energy card from your hand to this Pokémon (except with an attack, Ability, or Trainer card), you may attach 2 Energy cards.",
+    "fr": "Lorsque vous attachez une carte Énergie de votre main à ce Pokémon (excepté à la suite d'une attaque, d'un talent ou d'une carte Dresseur), vous pouvez attacher 2 cartes Énergie au lieu d'une.",
+    "de": "Wenn du 1 Energiekarte von deiner Hand an dieses Pokémon anlegst (außer auf Anweisung einer Attacke, Fähigkeit oder Trainerkarte), kannst du bis zu 2 Energiekarten anlegen.",
+    "it": "Quando assegni una carta Energia a questo Pokémon dalla tua mano (a meno che non sia in conseguenza di un attacco, un'abilità o una carta Allenatore), puoi assegnare due carte Energia.",
+    "es": "Cuando unas 1 carta de Energía de tu mano a este Pokémon (excepto con un ataque, habilidad o carta de Entrenador), puedes unir 2 cartas de Energía en vez de 1."
+  },
+  "traitName": {
+    "en": "α Growth",
+    "fr": "Croissance α",
+    "de": "α Wachstum",
+    "it": "Crescita α",
+    "es": "Crecimiento α"
+  },
   "type": [
     "water"
   ],

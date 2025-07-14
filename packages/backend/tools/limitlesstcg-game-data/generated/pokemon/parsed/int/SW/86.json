@@ -39,8 +39,12 @@
   "retreat": 1,
   "set": "SW",
   "stage": "basic",
-  "traitEffect": "Duskull can evolve during the turn you play it.",
-  "traitName": "Reaper Cloth",
+  "traitEffect": {
+    "en": "Duskull can evolve during the turn you play it."
+  },
+  "traitName": {
+    "en": "Reaper Cloth"
+  },
   "type": [
     "psychic"
   ],

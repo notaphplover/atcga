@@ -50,8 +50,12 @@
   "retreat": 2,
   "set": "XY7",
   "stage": "stage2",
-  "traitEffect": "このポケモンは、相手のポケモンからの特性の効果を受けない。",
-  "traitName": "Θ（シータ）ストップ",
+  "traitEffect": {
+    "jp": "このポケモンは、相手のポケモンからの特性の効果を受けない。"
+  },
+  "traitName": {
+    "jp": "Θ（シータ）ストップ"
+  },
   "type": [
     "colorless"
   ],

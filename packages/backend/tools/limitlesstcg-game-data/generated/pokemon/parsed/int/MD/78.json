@@ -39,8 +39,12 @@
   "retreat": 2,
   "set": "MD",
   "stage": "basic",
-  "traitEffect": "If Turtwig is Confused, remove the Special Condition Confused from Turtwig at the end of each player's turn.",
-  "traitName": "Persim Berry",
+  "traitEffect": {
+    "en": "If Turtwig is Confused, remove the Special Condition Confused from Turtwig at the end of each player's turn."
+  },
+  "traitName": {
+    "en": "Persim Berry"
+  },
   "type": [
     "grass"
   ],

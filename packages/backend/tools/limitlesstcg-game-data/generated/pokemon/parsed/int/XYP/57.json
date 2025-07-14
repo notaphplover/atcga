@@ -78,8 +78,12 @@
   "retreat": 1,
   "set": "XYP",
   "stage": "stage1",
-  "traitEffect": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon.",
-  "traitName": "Δ Evolution",
+  "traitEffect": {
+    "en": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon."
+  },
+  "traitName": {
+    "en": "Δ Evolution"
+  },
   "type": [
     "colorless"
   ],

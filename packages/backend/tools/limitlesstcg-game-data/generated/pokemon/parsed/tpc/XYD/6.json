@@ -41,8 +41,12 @@
   "retreat": 2,
   "set": "XYD",
   "stage": "mega",
-  "traitEffect": "このポケモンが、相手の<span class=\"icon-grass icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-electric icon\"></span>ポケモンから受けるワザのダメージは、「-20」される。",
-  "traitName": "Δ（デルタ）ワイルド",
+  "traitEffect": {
+    "jp": "このポケモンが、相手の<span class=\"icon-grass icon\"></span><span class=\"icon-fire icon\"></span><span class=\"icon-water icon\"></span><span class=\"icon-electric icon\"></span>ポケモンから受けるワザのダメージは、「-20」される。"
+  },
+  "traitName": {
+    "jp": "Δ（デルタ）ワイルド"
+  },
   "type": [
     "dragon"
   ],

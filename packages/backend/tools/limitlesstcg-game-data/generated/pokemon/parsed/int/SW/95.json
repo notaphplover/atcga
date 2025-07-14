@@ -40,8 +40,12 @@
   "retreat": 1,
   "set": "SW",
   "stage": "basic",
-  "traitEffect": "Murkrow can evolve during the turn you play it.",
-  "traitName": "Dusk Stone",
+  "traitEffect": {
+    "en": "Murkrow can evolve during the turn you play it."
+  },
+  "traitName": {
+    "en": "Dusk Stone"
+  },
   "type": [
     "darkness"
   ],

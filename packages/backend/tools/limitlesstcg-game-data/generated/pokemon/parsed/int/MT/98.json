@@ -40,8 +40,12 @@
   "retreat": 1,
   "set": "MT",
   "stage": "basic",
-  "traitEffect": "If Shinx is Burned, remove the Special Condition Burned from Shinx at the end of each player's turn.",
-  "traitName": "Rawst Berry",
+  "traitEffect": {
+    "en": "If Shinx is Burned, remove the Special Condition Burned from Shinx at the end of each player's turn."
+  },
+  "traitName": {
+    "en": "Rawst Berry"
+  },
   "type": [
     "lightning"
   ],

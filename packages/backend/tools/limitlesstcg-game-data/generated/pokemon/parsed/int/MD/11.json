@@ -52,8 +52,12 @@
   "retreat": 3,
   "set": "MD",
   "stage": "basic",
-  "traitEffect": "If an Active Pokémon has Weakness to Water type, Palkia's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance).",
-  "traitName": "Lustrous Orb",
+  "traitEffect": {
+    "en": "If an Active Pokémon has Weakness to Water type, Palkia's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance)."
+  },
+  "traitName": {
+    "en": "Lustrous Orb"
+  },
   "type": [
     "water"
   ],

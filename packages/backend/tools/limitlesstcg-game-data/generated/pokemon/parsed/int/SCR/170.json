@@ -99,8 +99,12 @@
   "retreat": 2,
   "set": "SCR",
   "stage": "basic",
-  "traitEffect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
-  "traitName": "Tera",
+  "traitEffect": {
+    "en": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s)."
+  },
+  "traitName": {
+    "en": "Tera"
+  },
   "type": [
     "colorless"
   ],

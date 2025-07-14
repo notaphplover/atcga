@@ -72,8 +72,12 @@
   "retreat": 2,
   "set": "XYP",
   "stage": "stage1",
-  "traitEffect": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
-  "traitName": "θ Stop",
+  "traitEffect": {
+    "en": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon."
+  },
+  "traitName": {
+    "en": "θ Stop"
+  },
   "type": [
     "darkness"
   ],

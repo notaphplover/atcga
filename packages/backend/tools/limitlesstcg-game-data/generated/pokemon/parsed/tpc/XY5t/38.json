@@ -42,8 +42,12 @@
   "retreat": 2,
   "set": "XY5t",
   "stage": "stage1",
-  "traitEffect": "このポケモンのHPが回復するとき、その回復する量は2倍になる。",
-  "traitName": "α（アルファ）回復",
+  "traitEffect": {
+    "jp": "このポケモンのHPが回復するとき、その回復する量は2倍になる。"
+  },
+  "traitName": {
+    "jp": "α（アルファ）回復"
+  },
   "type": [
     "lightning"
   ],

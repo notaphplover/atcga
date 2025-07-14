@@ -53,8 +53,12 @@
   "retreat": 1,
   "set": "DPP",
   "stage": "basic",
-  "traitEffect": "If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn.",
-  "traitName": "Enigma Berry",
+  "traitEffect": {
+    "en": "If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn."
+  },
+  "traitName": {
+    "en": "Enigma Berry"
+  },
   "type": [
     "darkness"
   ],

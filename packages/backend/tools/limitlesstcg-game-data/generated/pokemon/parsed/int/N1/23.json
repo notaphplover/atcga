@@ -38,8 +38,12 @@
   "retreat": 0,
   "set": "N1",
   "stage": "basic",
-  "traitEffect": "If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack.",
-  "traitName": "Baby Rule",
+  "traitEffect": {
+    "en": "If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack."
+  },
+  "traitName": {
+    "en": "Baby Rule"
+  },
   "type": [
     "fire"
   ],

@@ -46,8 +46,12 @@
   "retreat": 3,
   "set": "SV2D",
   "stage": "stage1",
-  "traitEffect": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
-  "traitName": "テラスタル",
+  "traitEffect": {
+    "jp": "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。"
+  },
+  "traitName": {
+    "jp": "テラスタル"
+  },
   "type": [
     "grass"
   ],
